@@ -1,0 +1,34 @@
+---
+title: Întrebări legate de birou 2019
+ms.author: janellem
+author: janellem
+ms.date: 12/17/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
+ms.openlocfilehash: 116be83a468fdab67f7c33cbbdf2dd952458b84a
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28306891"
+---
+# <a name="about-office-2019"></a>Despre Office 2019
+
+Birou 2019 este pentru clienţii care nu sunt încă gata pentru nor sau au o nevoie specifică local sau hibrid biroul implementare. Acesta include un subset semnificativ de caracteristici care au fost deja adăugat la Office 365 în ultimii trei ani, dar nu face parte din Office 365.
+  
+Office 365 ProPlus, conectat la cloud versiunea de Office, oferă cele mai productive şi cele mai sigure Office experienţă. Acesta oferă acces la o suită de servicii dincolo de ceea ce au versiuni locale şi primeşte noi caracteristică actualizări în mod regulat.
+  
+Deci, dacă aveţi Office apps spaţiul de lucru ca o parte din abonament Office 365 aveţi deja cea mai recentă versiune de Office.
+  
+Pentru informații suplimentare, consultați:
+  
+[Birou 2019 comerciale pentru Windows şi Mac întrebări frecvente](https://support.microsoft.com/help/4133312)
+  
+[Număr de versiune majoră de birou 2019 este stau la 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+  
+[Denumire an în Office 2016 și Office 365 aplicații client vor fi eliminate din intrări de meniu Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907.aspx)
+  
+
