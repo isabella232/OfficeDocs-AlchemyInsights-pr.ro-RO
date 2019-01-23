@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383429"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11.01.2019 | [Ştergerea utilizatorilor](/AlchemyInsights/deleting-users) | modificate |
 | 11.01.2019 | [Implementarea fără sudură Sign-On unic](/AlchemyInsights/deploy-seamless-single-sign-on) | modificate |
 | 11.01.2019 | [A bloca accesul la Yammer](/AlchemyInsights/disable-access-to-yammer) | modificate |
+
+
+## <a name="week-of-january-14-2019"></a>Saptamana a 14 ianuarie 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 14.01.2019 | Alchimia substituent | eliminat |
+| 14.01.2019 | Adauga domeniu alchimie | eliminat |
+| 14.01.2019 | [Casa de intuiţii alchimie](/AlchemyInsights/index) | modificate |
+| 17.01.2019 | [acelasi ca numele fişierului este cel mai bun [regula #-Descriere]](/AlchemyInsights/1-alchemy-insight-template) | adăugat |
