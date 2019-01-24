@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383429"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454442"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383429"
 ## <a name="week-of-january-07-2019"></a>Saptamana din 7 ianuarie 2019
 
 
-| Publicat pe |Titlul subiectului | Schimbare |
+| Publicat pe |Titlul subiectului | Modificare. |
 |------|------------|--------|
 | 07.01.2019 | [Schimbaţi-vă parola](/AlchemyInsights/change-your-password-in-outlook.com) | adăugat |
 | 07.01.2019 | [Schimbare permisiuni unei cutii poştale](/AlchemyInsights/changing-permissions-on-a-mailbox) | adăugat |
@@ -302,7 +302,7 @@ ms.locfileid: "29383429"
 | 10.01.2019 | [Creați un site de comunicare](/AlchemyInsights/create-a-communication-site) | adăugat |
 | 10.01.2019 | [Creaţi un flux](/AlchemyInsights/create-a-flow) | adăugat |
 | 10.01.2019 | [Creaţi un site Modern echipa](/AlchemyInsights/create-a-modern-team-site) | adăugat |
-| 10.01.2019 | [Crearea unei cutii poştale partajate](/AlchemyInsights/create-a-shared-mailbox) | adăugat |
+| 10.01.2019 | Crearea unei cutii poștale partajate | adăugat |
 | 10.01.2019 | [Creaţi un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | adăugat |
 | 10.01.2019 | [Creaţi un site SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | adăugat |
 | 10.01.2019 | [A crea şi de a folosi o cutie poştală partajată](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | adăugat |
@@ -599,7 +599,7 @@ ms.locfileid: "29383429"
 | 11.01.2019 | [Creați un site de comunicare](/AlchemyInsights/create-a-communication-site) | modificate |
 | 11.01.2019 | [Creaţi un flux](/AlchemyInsights/create-a-flow) | modificate |
 | 11.01.2019 | [Creaţi un site Modern echipa](/AlchemyInsights/create-a-modern-team-site) | modificate |
-| 11.01.2019 | [Crearea unei cutii poştale partajate](/AlchemyInsights/create-a-shared-mailbox) | modificate |
+| 11.01.2019 | Crearea unei cutii poștale partajate | modificate |
 | 11.01.2019 | [Creaţi un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificate |
 | 11.01.2019 | [Creaţi un site SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificate |
 | 11.01.2019 | [A crea şi de a folosi o cutie poştală partajată](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modificate |
@@ -637,7 +637,7 @@ ms.locfileid: "29383429"
 ## <a name="week-of-january-14-2019"></a>Saptamana a 14 ianuarie 2019
 
 
-| Publicat pe |Titlul subiectului | Schimbare |
+| Publicat pe |Titlul subiectului | Modificare. |
 |------|------------|--------|
 | 14.01.2019 | Alchimia substituent | eliminat |
 | 14.01.2019 | Adauga domeniu alchimie | eliminat |
