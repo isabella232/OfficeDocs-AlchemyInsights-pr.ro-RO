@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
 ms.openlocfilehash: a3c980565059e47a297a812cd6e2e656b36becb6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307411"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484811"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="38971-102">Restaura elementele şterse din SharePoint sau OneDrive</span><span class="sxs-lookup"><span data-stu-id="38971-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="49f08-102">Restaura elementele şterse din SharePoint sau OneDrive</span><span class="sxs-lookup"><span data-stu-id="49f08-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="38971-103">Du-te la dumneavoastră OneDrive sau site-ul SharePoint.</span><span class="sxs-lookup"><span data-stu-id="38971-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="49f08-103">Du-te la dumneavoastră OneDrive sau site-ul SharePoint.</span><span class="sxs-lookup"><span data-stu-id="49f08-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="38971-104">Faceţi clic pe **Coșul de reciclare** din panoul din stânga.</span><span class="sxs-lookup"><span data-stu-id="38971-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="49f08-104">Faceţi clic pe **Coșul de reciclare** din panoul din stânga.</span><span class="sxs-lookup"><span data-stu-id="49f08-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="38971-105">Faceţi clic în partea stângă a elementelor sau fişierele pe care doriţi să restauraţi.</span><span class="sxs-lookup"><span data-stu-id="38971-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="49f08-105">Faceţi clic în partea stângă a elementelor sau fişierele pe care doriţi să restauraţi.</span><span class="sxs-lookup"><span data-stu-id="49f08-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="38971-106">Faceţi clic pe **restabili**.</span><span class="sxs-lookup"><span data-stu-id="38971-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="49f08-106">Faceţi clic pe **restabili**.</span><span class="sxs-lookup"><span data-stu-id="49f08-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="38971-p101">În cazul în care fişiere, foldere, biblioteci, liste şi elementele listei sunt şterse de pe un site SharePoint, ei merg la coşul de reciclare, în cazul în care sunt păstrate pentru 93 zile excepţia cazului în care cineva le-a şterge de la acest Recycle Bin. În cazul în care acestea sunt eliminate din acest Recycle Bin (numite site-ul Recycle Bin), du-te la colecția de site-ul Recycle Bin pentru timpul rămas, şi apoi sunt şterse definitiv. Site-urile şterse şi colecţii de site-ul merge direct la colecția de site-ul Recycle Bin pentru 93 zile.</span><span class="sxs-lookup"><span data-stu-id="38971-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="49f08-p101">În cazul în care fişiere, foldere, biblioteci, liste şi elementele listei sunt şterse de pe un site SharePoint, ei merg la coşul de reciclare, în cazul în care sunt păstrate pentru 93 zile excepţia cazului în care cineva le-a şterge de la acest Recycle Bin. În cazul în care acestea sunt eliminate din acest Recycle Bin (numite site-ul Recycle Bin), du-te la colecția de site-ul Recycle Bin pentru timpul rămas, şi apoi sunt şterse definitiv. Site-urile şterse şi colecţii de site-ul merge direct la colecția de site-ul Recycle Bin pentru 93 zile.</span><span class="sxs-lookup"><span data-stu-id="49f08-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="38971-110">[Restaura elementele din Coșul de reciclare al colecției de site-uri](https://go.microsoft.com/fwlink/?linkid=867800) (site-ul de colectare administratori)</span><span class="sxs-lookup"><span data-stu-id="38971-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="49f08-110">[Restaura elementele din Coșul de reciclare al colecției de site-uri](https://go.microsoft.com/fwlink/?linkid=867800) (site-ul de colectare administratori)</span><span class="sxs-lookup"><span data-stu-id="49f08-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="38971-111">[Restaurare şterse colecții de site-ul](https://go.microsoft.com/fwlink/?linkid=867660) (globale sau administratori de SharePoint în Office 365)</span><span class="sxs-lookup"><span data-stu-id="38971-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
+<span data-ttu-id="49f08-111">[Restaurare şterse colecții de site-ul](https://go.microsoft.com/fwlink/?linkid=867660) (globale sau administratori de SharePoint în Office 365)</span><span class="sxs-lookup"><span data-stu-id="49f08-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
   
-<span data-ttu-id="38971-p102">Pentru site-uri care aparţin unui grup de Office 365, trebuie să restauraţi grupul pentru a restabili site-ul. A se vedea [restaurarea unui grup de Office 365 şterse](https://go.microsoft.com/fwlink/?linkid=867802) (administrator global)</span><span class="sxs-lookup"><span data-stu-id="38971-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="49f08-p102">Pentru site-uri care aparţin unui grup de Office 365, trebuie să restauraţi grupul pentru a restabili site-ul. A se vedea [restaurarea unui grup de Office 365 şterse](https://go.microsoft.com/fwlink/?linkid=867802) (administrator global)</span><span class="sxs-lookup"><span data-stu-id="49f08-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
