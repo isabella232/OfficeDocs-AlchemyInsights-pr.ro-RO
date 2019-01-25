@@ -1,5 +1,5 @@
 ---
-title: Opţiuni de plată
+title: Opțiuni de plată.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307719"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485673"
 ---
- **Opţiuni de plată**
+ Opțiuni de plată.
   
 Card de credit, cont bancar (direct debit) şi factura (plăti prin cec sau transfer electronic de fonduri)
   
@@ -32,7 +32,7 @@ Când plătiţi prin card de credit sau cont bancar, vă voi automat pentru perc
   
 Dacă plătiţi de factură pentru abonamentul, veţi primi un e-mail care spune că declaraţia dumneavoastră de facturare este gata să vezi. Acest e-mail conţine o copie a declaraţia dumneavoastră de facturare. Cu toate acestea, puteţi alege, de asemenea, pentru a [primi o copie a declaraţia dumneavoastră de facturare în e-mail](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Declaraţia dumneavoastră de facturare include detalii despre opţiunile pentru a face o plată. Dacă introduceţi un număr de ordine (PO) achiziţionarea atunci când vă cumpăraţi un abonament, numărul apare pe declaraţia dumneavoastră de facturare. Pentru informaţii despre accesarea declaraţii de facturare, consultaţi [Vezi factura sau factura dvs](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Schimba cum platesti**
+ Modificați modul în care plătiți.
   
 Dacă doriţi să modificaţi modul în care veţi plăti pentru un abonament curent, urmaţi instrucţiunile de [aici](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
