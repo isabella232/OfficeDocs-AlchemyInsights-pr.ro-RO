@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28306535"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484893"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copia sau muta elemente într-o bibliotecă de documente SharePoint
 
@@ -37,6 +37,6 @@ Puteţi copia şi muta fişiere, foldere şi link-uri la diferite locaţii într
 3. Faceţi clic pe **Copiere aici** sau **muta aici**.
     
 > [!NOTE]
->  Aveţi posibilitatea să copiaţi până la 500 MB de dosar şi pliant la un moment dat. > Când copiaţi documente care au Istoricul versiunilor, numai cea mai recentă versiune este copiat. Atunci când vă deplasaţi documente, istoria lor este, de asemenea, s-a mutat. 
+>  Aveţi posibilitatea să copiaţi până la 500 MB de dosar şi pliant la un moment dat. > când copiaţi documente care au Istoricul versiunilor, numai cea mai recentă versiune este copiat. Atunci când vă deplasaţi documente, istoria lor este, de asemenea, s-a mutat. 
   
 

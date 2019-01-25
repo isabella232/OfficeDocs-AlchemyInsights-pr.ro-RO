@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
 ms.openlocfilehash: c608489be8497233d9d4f87ec53649026b823250
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28306986"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485434"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>PERIMAT Federaţia certificatul expiră
 
