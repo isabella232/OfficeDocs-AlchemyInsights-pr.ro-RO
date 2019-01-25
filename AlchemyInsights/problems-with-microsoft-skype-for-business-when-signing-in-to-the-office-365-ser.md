@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Dacă aveţi probleme cu conectarea la Skype pentru afaceri, pot depana cu suport si asistent de recuperare (SaRA). Acest instrument vă ajută să automat diagnostica şi repara o serie de probleme cunoscute care implică sign-on unic pentru Skype pentru afaceri.
 ms.openlocfilehash: 53ed1ac82ed5d731e987fcc0a0350cab511d05a7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307659"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485250"
 ---
 Dacă aveţi probleme cu conectarea la Skype pentru afaceri, pot depana cu suport si asistent de recuperare (SaRA). Acest instrument vă ajută să automat diagnostica şi repara o serie de probleme cunoscute care implică sign-on unic pentru Skype pentru afaceri.
   

@@ -1,5 +1,5 @@
 ---
-title: Trecerea la o diferite Office 365 pentru planul de afaceri
+title: Comutarea la un alt plan Office 365 pentru firme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28306869"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484765"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Trecerea la o diferite Office 365 pentru planul de afaceri
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Comutarea la un alt plan Office 365 pentru firme
 
 Atunci când modificările de afaceri, sau ai nevoie de mai multe caracteristici de Office 365, aveţi posibilitatea să comutaţi planurile.
   
