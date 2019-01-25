@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307658"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485785"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copia elemente într-o bibliotecă de documente SharePoint
 
@@ -35,6 +35,6 @@ ms.locfileid: "28307658"
 3. Faceţi clic pe **Copiere aici**.
     
 > [!NOTE]
->  Aveţi posibilitatea să copiaţi până la 500 MB de dosar şi pliant la un moment dat. > Când utilizaţi **copia** cu documentele care au Istoricul versiunilor, numai cea mai recentă versiune este copiat. 
+>  Aveţi posibilitatea să copiaţi până la 500 MB de dosar şi pliant la un moment dat. > atunci când utilizaţi **exemplar** cu documentele care au Istoricul versiunilor, numai cea mai recentă versiune este copiat. 
   
 
