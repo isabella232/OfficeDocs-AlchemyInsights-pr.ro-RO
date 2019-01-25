@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
 ms.openlocfilehash: 56fd5589979ae5cec510db077b719d096e70e26b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307077"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485013"
 ---
-# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="a7ae8-102">Ştergeţi o pagină de SharePoint</span><span class="sxs-lookup"><span data-stu-id="a7ae8-102">Delete a SharePoint page</span></span>
+# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="18200-102">Ştergeţi o pagină de SharePoint</span><span class="sxs-lookup"><span data-stu-id="18200-102">Delete a SharePoint page</span></span>
 
-1. <span data-ttu-id="a7ae8-103">Du-te la site-ul în cazul în care pagina este.</span><span class="sxs-lookup"><span data-stu-id="a7ae8-103">Go to the site where the page is.</span></span>
+1. <span data-ttu-id="18200-103">Du-te la site-ul în cazul în care pagina este.</span><span class="sxs-lookup"><span data-stu-id="18200-103">Go to the site where the page is.</span></span>
     
-2. <span data-ttu-id="a7ae8-104">Pe partea stângă, faceţi clic pe **Conţinutul site-ului**.</span><span class="sxs-lookup"><span data-stu-id="a7ae8-104">On the left side, click **Site Contents**.</span></span> 
+2. <span data-ttu-id="18200-104">Pe partea stângă, faceţi clic pe **Conţinutul site-ului**.</span><span class="sxs-lookup"><span data-stu-id="18200-104">On the left side, click **Site Contents**.</span></span> 
     
-3. <span data-ttu-id="a7ae8-105">Pe partea stângă a paginii de conţinut de site-ul, faceţi clic pe **pagini**.</span><span class="sxs-lookup"><span data-stu-id="a7ae8-105">On the left side of the Site Contents page, click **Pages**.</span></span> 
+3. <span data-ttu-id="18200-105">Pe partea stângă a paginii de conţinut de site-ul, faceţi clic pe **pagini**.</span><span class="sxs-lookup"><span data-stu-id="18200-105">On the left side of the Site Contents page, click **Pages**.</span></span> 
     
-4. <span data-ttu-id="a7ae8-106">Paginii, şi apoi atunci pocnitură **elipse (...)** în partea dreaptă a paginii.</span><span class="sxs-lookup"><span data-stu-id="a7ae8-106">Select the page, and then click the **ellipses (...)** to the right of the page.</span></span> 
+4. <span data-ttu-id="18200-106">Paginii, şi apoi atunci pocnitură **elipse (...)** în partea dreaptă a paginii.</span><span class="sxs-lookup"><span data-stu-id="18200-106">Select the page, and then click the **ellipses (...)** to the right of the page.</span></span> 
     
-5. <span data-ttu-id="a7ae8-107">Faceţi clic pe \*\* şterge \*\*.</span><span class="sxs-lookup"><span data-stu-id="a7ae8-107">Click \*\* Delete \*\*.</span></span> 
+5. <span data-ttu-id="18200-107">Faceţi clic pe \*\* şterge \*\*.</span><span class="sxs-lookup"><span data-stu-id="18200-107">Click \*\* Delete \*\*.</span></span> 
     
 

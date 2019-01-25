@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: e608368a5a7250edfaff290203ba5f2e1d11cf16
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28306689"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484803"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="5409b-102">Creaţi şi gestionaţi cutii poştale de camere</span><span class="sxs-lookup"><span data-stu-id="5409b-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="5dcf9-102">Creaţi şi gestionaţi cutii poştale de camere</span><span class="sxs-lookup"><span data-stu-id="5dcf9-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="5409b-103">Pentru a crea şi modifica cutii poştale de camere, a se vedea [creaţi şi gestionaţi cutii poştale de camere](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="5409b-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="5dcf9-103">Pentru a crea şi modifica cutii poştale de camere, a se vedea [creaţi şi gestionaţi cutii poştale de camere](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="5dcf9-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
   
-<span data-ttu-id="5409b-104">Pentru a afla mai multe despre cameră şi echipamente poştale (cunoscut și ca cutiile poştale de resurse), consultaţi [cutiile poştale de cameră şi de echipamente](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="5409b-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="5dcf9-104">Pentru a afla mai multe despre cameră şi echipamente poştale (cunoscut și ca cutiile poştale de resurse), consultaţi [cutiile poştale de cameră şi de echipamente](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="5dcf9-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
   
 

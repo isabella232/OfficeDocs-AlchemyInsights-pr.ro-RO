@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
 ms.openlocfilehash: d04740c019f0d755e15cf7e564bf8ba9398278f9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307794"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485542"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="f2fed-102">Hartă o bibliotecă SharePoint la o unitate de reţea</span><span class="sxs-lookup"><span data-stu-id="f2fed-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="2a6f6-102">Hartă o bibliotecă SharePoint la o unitate de reţea</span><span class="sxs-lookup"><span data-stu-id="2a6f6-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="f2fed-p101">Pentru a lucra cu site-ul bibliotecilor din File Explorer, vă recomandăm să utilizaţi clientul de sincronizare OneDrive în loc de biblioteci de cartografiere la unităţi de reţea. Şofer mapping este doar o solutie temporara. Folosind clientul de sincronizare face fişierele disponibile pentru utilizatorii chiar şi atunci când acestea sunt offline. Clientul de sincronizare, de asemenea, oferă o performanţă mai bună, permite accesul la fişiere fără a trebui să descărcaţi-le folosind [Fişiere On-Demand](https://support.office.com/en-us/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) şi nu necesită instalare folosind Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="f2fed-p101">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives. Drive mapping is only a temporary solution. Using the sync client makes the files available to users even when they're offline. The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/en-us/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
+<span data-ttu-id="2a6f6-p101">Pentru a lucra cu site-ul bibliotecilor din File Explorer, vă recomandăm să utilizaţi clientul de sincronizare OneDrive în loc de biblioteci de cartografiere la unităţi de reţea. Şofer mapping este doar o solutie temporara. Folosind clientul de sincronizare face fişierele disponibile pentru utilizatorii chiar şi atunci când acestea sunt offline. Clientul de sincronizare, de asemenea, oferă o performanţă mai bună, permite accesul la fişiere fără a trebui să descărcaţi-le folosind [Fişiere On-Demand](https://support.office.com/en-us/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) şi nu necesită instalare folosind Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="2a6f6-p101">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives. Drive mapping is only a temporary solution. Using the sync client makes the files available to users even when they're offline. The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/en-us/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
   
-- [<span data-ttu-id="f2fed-107">Sincronizare fişiere cu noul client de sincronizare OneDrive în Windows</span><span class="sxs-lookup"><span data-stu-id="f2fed-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
+- [<span data-ttu-id="2a6f6-107">Sincronizare fişiere cu noul client de sincronizare OneDrive în Windows</span><span class="sxs-lookup"><span data-stu-id="2a6f6-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
     
-- [<span data-ttu-id="f2fed-108">Modalităţi de a lucra cu site-ul biblioteca fişierele din File Explorer</span><span class="sxs-lookup"><span data-stu-id="f2fed-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
+- [<span data-ttu-id="2a6f6-108">Modalităţi de a lucra cu site-ul biblioteca fişierele din File Explorer</span><span class="sxs-lookup"><span data-stu-id="2a6f6-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
     
-- [<span data-ttu-id="f2fed-109">Configuraţi şi depanaţi unităţi de reţea mapate</span><span class="sxs-lookup"><span data-stu-id="f2fed-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
+- [<span data-ttu-id="2a6f6-109">Configuraţi şi depanaţi unităţi de reţea mapate</span><span class="sxs-lookup"><span data-stu-id="2a6f6-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
     
 

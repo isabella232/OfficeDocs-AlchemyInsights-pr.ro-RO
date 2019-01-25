@@ -9,30 +9,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
 ms.openlocfilehash: 6ccbb205dfe3ac0ecf175ac77973f04f09f3f5e4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307225"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29484778"
 ---
-# <a name="delete-a-communication-site"></a><span data-ttu-id="6607e-102">Sterge un site de comunicare</span><span class="sxs-lookup"><span data-stu-id="6607e-102">Delete a communication site</span></span>
+# <a name="delete-a-communication-site"></a><span data-ttu-id="8aec9-102">Sterge un site de comunicare</span><span class="sxs-lookup"><span data-stu-id="8aec9-102">Delete a communication site</span></span>
 
-<span data-ttu-id="6607e-103">Pentru a şterge un site de comunicare, efectuaţi următorii paşi:</span><span class="sxs-lookup"><span data-stu-id="6607e-103">To delete a Communication site, do the following steps:</span></span> 
+<span data-ttu-id="8aec9-103">Pentru a şterge un site de comunicare, efectuaţi următorii paşi:</span><span class="sxs-lookup"><span data-stu-id="8aec9-103">To delete a Communication site, do the following steps:</span></span> 
   
-1. <span data-ttu-id="6607e-104">Du-te la site-ul.</span><span class="sxs-lookup"><span data-stu-id="6607e-104">Go to the site.</span></span> 
+1. <span data-ttu-id="8aec9-104">Du-te la site-ul.</span><span class="sxs-lookup"><span data-stu-id="8aec9-104">Go to the site.</span></span> 
   
-2. <span data-ttu-id="6607e-105">Faceţi clic pe pictograma Setări (uneltele) din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="6607e-105">Click the Settings icon (the gear) in the upper right.</span></span> 
+2. <span data-ttu-id="8aec9-105">Faceţi clic pe pictograma Setări (uneltele) din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="8aec9-105">Click the Settings icon (the gear) in the upper right.</span></span> 
   
-3. <span data-ttu-id="6607e-106">La **Site-ul informaţii**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**.</span><span class="sxs-lookup"><span data-stu-id="6607e-106">Under **Site Information**, click **Delete this site**, and then click **Delete**.</span></span> 
+3. <span data-ttu-id="8aec9-106">La **Site-ul informaţii**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**.</span><span class="sxs-lookup"><span data-stu-id="8aec9-106">Under **Site Information**, click **Delete this site**, and then click **Delete**.</span></span> 
   
-<span data-ttu-id="6607e-107">Administratorii pot şterge, de asemenea, un site de comunicare din centrul de administrare Modern urmând aceşti paşi:</span><span class="sxs-lookup"><span data-stu-id="6607e-107">Administrators can also delete a Communication site from the Modern Admin Center by following these steps:</span></span> 
+<span data-ttu-id="8aec9-107">Administratorii pot şterge, de asemenea, un site de comunicare din centrul de administrare Modern urmând aceşti paşi:</span><span class="sxs-lookup"><span data-stu-id="8aec9-107">Administrators can also delete a Communication site from the Modern Admin Center by following these steps:</span></span> 
   
-1. <span data-ttu-id="6607e-108">Încercaţi noul centru de Admin făcând clic pe butonul **încercaţi-l acum** în colţul din dreapta.</span><span class="sxs-lookup"><span data-stu-id="6607e-108">Try the new Admin Center by clicking the **Try it now** button in the upper right corner.</span></span> 
+1. <span data-ttu-id="8aec9-108">Încercaţi noul centru de Admin făcând clic pe butonul **încercaţi-l acum** în colţul din dreapta.</span><span class="sxs-lookup"><span data-stu-id="8aec9-108">Try the new Admin Center by clicking the **Try it now** button in the upper right corner.</span></span> 
   
-2. <span data-ttu-id="6607e-109">Selectați **site-uri Active**.</span><span class="sxs-lookup"><span data-stu-id="6607e-109">Select **Active Sites**.</span></span> 
+2. <span data-ttu-id="8aec9-109">Selectați **site-uri Active**.</span><span class="sxs-lookup"><span data-stu-id="8aec9-109">Select **Active Sites**.</span></span> 
   
-3. <span data-ttu-id="6607e-110">Faceţi clic pe lângă site-ul pentru a şterge şi o opţiune de **Ştergere** va apărea în meniul de sus.</span><span class="sxs-lookup"><span data-stu-id="6607e-110">Click next to the site to delete and a **Delete** option will appear from the top menu.</span></span> 
+3. <span data-ttu-id="8aec9-110">Faceţi clic pe lângă site-ul pentru a şterge şi o opţiune de **Ştergere** va apărea în meniul de sus.</span><span class="sxs-lookup"><span data-stu-id="8aec9-110">Click next to the site to delete and a **Delete** option will appear from the top menu.</span></span> 
   
- <span data-ttu-id="6607e-111">**Notă:** Dacă doriţi să ştergeţi definitiv locul de comunicare (de a scoate-l de la coşul de gunoi) re-utiliza URL-ul site-ului, utilizaţi [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) pentru a evalua coşul de gunoi şi [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) pentru a elimina site-ul la coşul de gunoi.</span><span class="sxs-lookup"><span data-stu-id="6607e-111">**Note:** If you'd like to permanently delete the Communication site (by removing it from the recycle bin) so you can re-use the site URL, use [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) to evaluate the recycle bin and [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) to remove the site from the recycle bin.</span></span> 
+ <span data-ttu-id="8aec9-111">**Notă:** Dacă doriţi să ştergeţi definitiv locul de comunicare (de a scoate-l de la coşul de gunoi) re-utiliza URL-ul site-ului, utilizaţi [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) pentru a evalua coşul de gunoi şi [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) pentru a elimina site-ul la coşul de gunoi.</span><span class="sxs-lookup"><span data-stu-id="8aec9-111">**Note:** If you'd like to permanently delete the Communication site (by removing it from the recycle bin) so you can re-use the site URL, use [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) to evaluate the recycle bin and [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) to remove the site from the recycle bin.</span></span> 
   
 
