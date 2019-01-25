@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307071"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485546"
 ---
-# <a name="create-a-sharepoint-hub-site"></a><span data-ttu-id="2c34f-102">Creaţi un site hub SharePoint</span><span class="sxs-lookup"><span data-stu-id="2c34f-102">Create a SharePoint hub site</span></span>
+# <a name="create-a-sharepoint-hub-site"></a><span data-ttu-id="69787-102">Creaţi un site hub SharePoint</span><span class="sxs-lookup"><span data-stu-id="69787-102">Create a SharePoint hub site</span></span>
 
-1. <span data-ttu-id="2c34f-103">În noul centru de administrare SharePoint, în **site-uri**, faceţi clic pe **site-uri Active**.</span><span class="sxs-lookup"><span data-stu-id="2c34f-103">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span> 
+1. <span data-ttu-id="69787-103">În noul centru de administrare SharePoint, în **site-uri**, faceţi clic pe **site-uri Active**.</span><span class="sxs-lookup"><span data-stu-id="69787-103">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span> 
     
-2. <span data-ttu-id="2c34f-104">Selectaţi site-ul pe care doriţi să fie un site hub, faceţi clic pe **site-ul Hub**, şi apoi faceţi clic pe **registru ca site-ul hub**.</span><span class="sxs-lookup"><span data-stu-id="2c34f-104">Select the site you want to be a hub site, click **Hub site**, and then click **Register as hub site**.</span></span> 
+2. <span data-ttu-id="69787-104">Selectaţi site-ul pe care doriţi să fie un site hub, faceţi clic pe **site-ul Hub**, şi apoi faceţi clic pe **registru ca site-ul hub**.</span><span class="sxs-lookup"><span data-stu-id="69787-104">Select the site you want to be a hub site, click **Hub site**, and then click **Register as hub site**.</span></span> 
     
-3. <span data-ttu-id="2c34f-105">Introduceţi un nume afişat pentru site-ul hub şi specificaţi utilizatori individuali sau grupuri de securitate, permiteți să se asocieze site-uri cu hub-ul.</span><span class="sxs-lookup"><span data-stu-id="2c34f-105">Enter a display name for the hub site and specify the individual users or security groups you want to allow to associate sites with the hub.</span></span>
+3. <span data-ttu-id="69787-105">Introduceţi un nume afişat pentru site-ul hub şi specificaţi utilizatori individuali sau grupuri de securitate, permiteți să se asocieze site-uri cu hub-ul.</span><span class="sxs-lookup"><span data-stu-id="69787-105">Enter a display name for the hub site and specify the individual users or security groups you want to allow to associate sites with the hub.</span></span>
     
     > [!NOTE]
-    >  <span data-ttu-id="2c34f-p101">Vă recomandăm să selectați un site de comunicare, sau un site de echipă care utilizează noul şablon. Dacă utilizaţi o clasic echipa site-ului, hub-ul de navigare va apărea numai paginile moderne, şi setările de site-ul hub vor apărea numai paginile moderne. > Site-uri care sunt deja asociat cu un alt hub nu poate fi înregistrată ca un site hub.</span><span class="sxs-lookup"><span data-stu-id="2c34f-p101">We recommend that you select a communication site, or a team site that uses the new template. If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages. >  Sites that are already associated with another hub can't be registered as a hub site.</span></span> 
+    >  <span data-ttu-id="69787-p101">Vă recomandăm să selectați un site de comunicare, sau un site de echipă care utilizează noul şablon. Dacă utilizaţi o clasic echipa site-ului, hub-ul de navigare va apărea numai paginile moderne, şi setările de site-ul hub vor apărea numai paginile moderne. > site-urile care sunt deja asociat cu un alt hub nu poate fi înregistrată ca un site hub.</span><span class="sxs-lookup"><span data-stu-id="69787-p101">We recommend that you select a communication site, or a team site that uses the new template. If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages. >  Sites that are already associated with another hub can't be registered as a hub site.</span></span> 
   
-[<span data-ttu-id="2c34f-109">Aflaţi mai multe despre hub-ul site-uri</span><span class="sxs-lookup"><span data-stu-id="2c34f-109">Learn more about hub sites</span></span>](https://go.microsoft.com/fwlink/?linkid=869149)
+[<span data-ttu-id="69787-109">Aflaţi mai multe despre hub-ul site-uri</span><span class="sxs-lookup"><span data-stu-id="69787-109">Learn more about hub sites</span></span>](https://go.microsoft.com/fwlink/?linkid=869149)
   
 
