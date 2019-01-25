@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307071"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485546"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Creaţi un site hub SharePoint
 
@@ -24,7 +24,7 @@ ms.locfileid: "28307071"
 3. Introduceţi un nume afişat pentru site-ul hub şi specificaţi utilizatori individuali sau grupuri de securitate, permiteți să se asocieze site-uri cu hub-ul.
     
     > [!NOTE]
-    >  Vă recomandăm să selectați un site de comunicare, sau un site de echipă care utilizează noul şablon. Dacă utilizaţi o clasic echipa site-ului, hub-ul de navigare va apărea numai paginile moderne, şi setările de site-ul hub vor apărea numai paginile moderne. > Site-uri care sunt deja asociat cu un alt hub nu poate fi înregistrată ca un site hub. 
+    >  Vă recomandăm să selectați un site de comunicare, sau un site de echipă care utilizează noul şablon. Dacă utilizaţi o clasic echipa site-ului, hub-ul de navigare va apărea numai paginile moderne, şi setările de site-ul hub vor apărea numai paginile moderne. > site-urile care sunt deja asociat cu un alt hub nu poate fi înregistrată ca un site hub. 
   
 [Aflaţi mai multe despre hub-ul site-uri](https://go.microsoft.com/fwlink/?linkid=869149)
   
