@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454442"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454442"
 ## <a name="week-of-january-07-2019"></a>Saptamana din 7 ianuarie 2019
 
 
-| Publicat pe |Titlul subiectului | Modificare. |
+| Publicat pe |Titlul subiectului | Schimbare |
 |------|------------|--------|
 | 07.01.2019 | [Schimbaţi-vă parola](/AlchemyInsights/change-your-password-in-outlook.com) | adăugat |
 | 07.01.2019 | [Schimbare permisiuni unei cutii poştale](/AlchemyInsights/changing-permissions-on-a-mailbox) | adăugat |
@@ -302,7 +294,7 @@ ms.locfileid: "29454442"
 | 10.01.2019 | [Creați un site de comunicare](/AlchemyInsights/create-a-communication-site) | adăugat |
 | 10.01.2019 | [Creaţi un flux](/AlchemyInsights/create-a-flow) | adăugat |
 | 10.01.2019 | [Creaţi un site Modern echipa](/AlchemyInsights/create-a-modern-team-site) | adăugat |
-| 10.01.2019 | Crearea unei cutii poștale partajate | adăugat |
+| 10.01.2019 | [Crearea unei cutii poştale partajate](/AlchemyInsights/create-a-shared-mailbox) | adăugat |
 | 10.01.2019 | [Creaţi un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | adăugat |
 | 10.01.2019 | [Creaţi un site SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | adăugat |
 | 10.01.2019 | [A crea şi de a folosi o cutie poştală partajată](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | adăugat |
@@ -599,7 +591,7 @@ ms.locfileid: "29454442"
 | 11.01.2019 | [Creați un site de comunicare](/AlchemyInsights/create-a-communication-site) | modificate |
 | 11.01.2019 | [Creaţi un flux](/AlchemyInsights/create-a-flow) | modificate |
 | 11.01.2019 | [Creaţi un site Modern echipa](/AlchemyInsights/create-a-modern-team-site) | modificate |
-| 11.01.2019 | Crearea unei cutii poștale partajate | modificate |
+| 11.01.2019 | [Crearea unei cutii poştale partajate](/AlchemyInsights/create-a-shared-mailbox) | modificate |
 | 11.01.2019 | [Creaţi un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificate |
 | 11.01.2019 | [Creaţi un site SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificate |
 | 11.01.2019 | [A crea şi de a folosi o cutie poştală partajată](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modificate |
@@ -637,9 +629,25 @@ ms.locfileid: "29454442"
 ## <a name="week-of-january-14-2019"></a>Saptamana a 14 ianuarie 2019
 
 
-| Publicat pe |Titlul subiectului | Modificare. |
+| Publicat pe |Titlul subiectului | Schimbare |
 |------|------------|--------|
 | 14.01.2019 | Alchimia substituent | eliminat |
 | 14.01.2019 | Adauga domeniu alchimie | eliminat |
 | 14.01.2019 | [Casa de intuiţii alchimie](/AlchemyInsights/index) | modificate |
 | 17.01.2019 | [acelasi ca numele fişierului este cel mai bun [regula #-Descriere]](/AlchemyInsights/1-alchemy-insight-template) | adăugat |
+
+
+## <a name="week-of-january-21-2019"></a>Săptămână de 21 ianuarie 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 22.01.2019 | [1047 antiSpam 550 5.7.708 Serviciu indisponibil. Acces refuzat, trafic nu sunt acceptate la acest IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificate |
+| 22.01.2019 | [1049 antiSpam 4.5.3 prea mulţi destinatari (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modificate |
+| 22.01.2019 | [1050 antispam 4.7.500 Server ocupat. Vă rugăm să încercaţi din nou mai târziu la [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificate |
+| 22.01.2019 | [1051 antispam 4.7.500 acces interzis, vă rugăm să încercaţi din nou mai târziu](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | modificate |
+| 22.01.2019 | [Releu e-mail prin Office 365](/AlchemyInsights/relay-email-through-office-365) | modificate |
+| 24.01.2019 | [Crearea de control al grupurilor](/AlchemyInsights/control-creation-of-groups) | modificate |
+| 24.01.2019 | [Outlook publicare cu Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | adăugat |
+| 24.01.2019 | [Restaurarea unui grup de Office 365 utilizând Centrul de administrare Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | redenumit |
+| 24.01.2019 | [Depanarea problemelor cu Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | redenumit |
