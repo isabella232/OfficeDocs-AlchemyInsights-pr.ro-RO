@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7c8af0a75beff194247fa445dc4566541e40f90f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 773805beea21453c2aeb0682d026afd3cfd8ccb9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485037"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656327"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Anularea abonament Office 365?
 
@@ -28,6 +28,6 @@ Ne pare rău pentru a vedea tu du-te, dar aici sunt opţiunile pentru a anula ab
     
 - Dacă aveţi mai mult de 25 de licenţe atribuite, fie eliminaţi utilizatori până când au mai puţin de 25, sau de a folosi opţiunea "să ne te sun" să vorbesc cu un inginer de suport.
     
-- Pentru a afla mai multe despre anularea unui abonament, sau pentru instrucţiuni pas cu pas, consultaţi [anula Office 365 pentru afaceri](https://support.office.com/article/https://support.office.com/en-us/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
+- Pentru a afla mai multe despre anularea unui abonament, sau pentru instrucţiuni pas cu pas, consultaţi [anula Office 365 pentru afaceri](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
     
 

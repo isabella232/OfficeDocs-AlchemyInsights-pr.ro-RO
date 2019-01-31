@@ -3,31 +3,30 @@ title: Site-ul Ştergere grup
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485794"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660683"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Sterge un site SharePoint care aparţine unui grup de Office 365
 
-Atunci când utilizatorii să creeze un nou site de echipa de SharePoint acasa (sau creaţi un nou site de echipă din nou SharePoint admin centrul previzualizare), un grup de Office 365 corespunzătoare se creează automat. Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams. Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine. 
+Global administratori şi administratori de SharePoint acum puteţi şterge site-uri care aparţin unui grup de Office 365. Ştergerea aceste site-uri va şterge grupul şi toate resursele, inclusiv cutia poştală Outlook calendaristic și orice canale de echipe.
   
-1. Du-te la [pagina de grupuri din centrul de administrare Office 365](https://portal.office.com/adminportal/home#/groups).
-    
-2. Selectaţi caseta de lângă grupului.
-    
-3. Selectaţi **şterge**.
-    
-Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de site-ul este eliminat din SharePoint.
+Important:
+- Puteţi recupera şterse site-uri pentru 93 zile. Pentru mai multe informaţii, a se vedea vedere şi restabilirea site-uri sterse. Reţineţi că elimină grupuri trebuie să fie restaurat în termen de 30 de zile. 
+- În cazul în care site-ul este parte dintr-o strategie de conservare, nu poate fi capabil să-l ştergeţi până când site-ul este scos din [de securitate &amp; centrul de administrare respectarea](https://protection.office.com/?rfr=AdminCenter#/retention). Pentru mai multe informaţii a se vedea [Imagine de ansamblu a strategiilor de conservare](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+  
+Să [Vezi şi Restaurare şterse site-uri din centrul de administrare SharePoint nouă](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectaţi **şterge site-uri**. Selectaţi site-ul care a fost ştearsă şi selectaţi restaurare sau Delete (care va şterge permanent site-ul). Pentru a şterge un site activ, selectaţi site-uri **Active** , selectaţi site-ul şi selectaţi **ştergeţi**. Pentru mai multe informaţii, a se vedea [site-uri de gestionare în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

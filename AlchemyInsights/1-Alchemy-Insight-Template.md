@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454226"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662942"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Necesare clientului cu care se confruntă H1, H2 nu funcţionează
 Exemplu text bloc - urmaţi aceste instrucţiuni:
 
-1. Fişierele din folderul **AlchemyInsights** trebuie regula ID-ul şi numele de regulă la [portalului Partner alchimie](https://alchemyportal.azurewebsites.net) coama.
+1. Fişierele din folderul **AlchemyInsights** trebuie să aibă regula ID-ul şi numele de regulă la [alchimie partener portal](https://alchemyportal.azurewebsites.net) în numele fişierului.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Utiliza metadatele în partea de sus a acestui fișier ca șablon. Nimic altceva nu este necesară.
 1. În [alchimie partener portal](https://alchemyportal.azurewebsites.net), navigaţi în jos la secţiunea **titlu de carte de vizita clientului:** și care, ca începând cu un punct pentru H1 titlu pentru înţelegere. 
@@ -34,3 +34,8 @@ Exemplu text bloc - urmaţi aceste instrucţiuni:
     1. Link-uri ar trebui să fie întotdeauna **"link-uri la web" / extern** OR **adânc-link-uri la elemente de UI**, link-uri nu interne.
 
 Şi acest lucru este într-adevăr deja un pic prea lung. Cele mai bune practici este de aproximativ 400 de caractere---
+
+Odată ce conţinutul este gata, trageţi-l la sucursala live. Apoi, du-te la [portalului Partner de alchimie](https://alchemyportal.azurewebsites.net) şi introduceţi numele fişierului în câmpul URL-ul. Asiguraţi-vă că Insight revizuite şi publicate spune "Da" şi apoi faceţi clic pe regulă de actualizare. (Acest lucru va arata mai frumoasa în noua versiune a portalului - eliberarea în curând.)
+
+![URL field](media/for-content-team.PNG)
+

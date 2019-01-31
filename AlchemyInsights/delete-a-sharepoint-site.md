@@ -2,51 +2,30 @@
 title: Sterge un site SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485677"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660028"
 ---
 # <a name="delete-a-sharepoint-site"></a>Sterge un site SharePoint
-
- **Şterge site-uri care aparţin unui grup de Office 365:**
+ **Şterge site-uri de la noul centru de administrare SharePoint**
   
-Atunci când utilizatorii să creeze un nou site de echipa de SharePoint acasa (sau creaţi un nou site de echipă din nou SharePoint admin centrul previzualizare), un grup de Office 365 corespunzătoare se creează automat. Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams. Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine. 
+Pentru a şterge un site activ, du-te la curent centrul de administrare SharePoint, faceţi clic pe "Încercaţi-l acum" în colţul din dreapta sus. Selectaţi **site-uri Active**, selectaţi site-ul, şi apoi selectaţi **ştergeţi**. Să [Vezi şi Restaurare şterse site-uri din centrul de administrare SharePoint nouă](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectaţi **şterge site-uri**. Pentru mai multe informaţii, a se vedea [site-uri de gestionare în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Du-te la [pagina de grupuri din centrul de administrare Office 365](https://portal.office.com/adminportal/home#/groups).
+**Importantă:** În cazul în care site-ul este parte dintr-o strategie de conservare, nu poate fi capabil să-l ştergeţi până când site-ul este scos din [de securitate &amp; centrul de administrare respectarea](https://protection.office.com/?rfr=AdminCenter#/homepage). Pentru mai multe informaţii a se vedea [Imagine de ansamblu a strategiilor de conservare](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Selectaţi caseta de lângă grupului.
-  
-3. Selectaţi **şterge**. 
-  
-Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de site-ul este eliminat din SharePoint.
-  
- **Ştergeţi comunicare site-uri sau site-uri clasice:**
-  
-1. Du-te la site-ul.
-  
-2. Faceţi clic pe ** Setări ** (gear wheel pictograma) în colţul din dreapta sus. 
-  
-3. Faceţi clic pe **Setări Site**. **Site de informare** sau **Acțiuni Site**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**. 
-  
- **Ştergeţi o colecţie de site-ul SharePoint:**
-  
-Pentru a şterge o colecţie de site-ul clasic:
-  
-1. În centrul de administrare SharePoint clasic, pe site-ul colecţii de filme, selectaţi **caseta de selectare** de lângă colecției de site-uri. 
-  
-2. Pe fila de colecții de site-ul, selectaţi **şterge.**
-  
- **Elimină un site de accident?**
-  
-A se vedea [restaura o colecţie de site-ul şterse](https://go.microsoft.com/fwlink/?linkid=867660).
+Sfaturi:
+- Global administratori şi administratori de SharePoint acum puteţi şterge site-uri care aparţin unui **Grup de 365 birou**. Aceasta va şterge grupul şi toate resursele, inclusiv cutia poştală Outlook calendaristic și orice canale de echipe. Pentru mai multe informaţii, consultaţi [şterge un site SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Puteţi recupera şterse site-uri pentru 93 zile. Reţineţi că elimină grupuri trebuie să fie restaurat în termen de 30 de zile. Pentru mai multe informaţii, consultaţi [vizualizarea şi Restaurare şterse site-uri](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Pentru a elimina complet un site cu Powershell, a se vedea exemplul de cmdlet-ul [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 

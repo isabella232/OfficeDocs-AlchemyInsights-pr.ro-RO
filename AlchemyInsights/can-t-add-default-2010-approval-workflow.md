@@ -2,43 +2,21 @@
 title: Imposibil de adăugat implicit fluxul de lucru aprobare 2010
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/28/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 758b0339b842478f9609eb716b5b4ddab6579c80
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b57f44c85fcd5d1d227b64baa99a9790c2112c51
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484823"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646187"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Imposibil de adăugat implicit fluxul de lucru aprobare 2010
 
-Într-o colecţie de site-ul Microsoft SharePoint, nu puteţi adăuga un flux de lucru reutilizabil la nivel global (cum ar fi "aprobare - SharePoint 2010") o listă sau o bibliotecă.
+Într-o colecţie de site-ul Microsoft SharePoint, nu puteţi adăuga un flux de lucru reutilizabil la nivel global (cum ar fi "aprobare - SharePoint 2010") o listă sau o bibliotecă. Fluxul de lucru aprobare ar putea să lipsească. Pentru a rezolva această problemă se referă la [nu pot adăuga un flux de lucru reutilizabil la nivel global la o listă SharePoint sau biblioteca](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
   
-Pentru a rezolva această problemă, urmaţi aceşti paşi: 
-  
-1. Deschide site-ul rădăcină din colecția de site-ul în SharePoint Designer 2013.
-  
-2. Cu **Site-ul obiectele**, selectați **fluxuri de lucru**. 
-  
-3. În secţiunea **noua** de panglica de **fluxuri de lucru** , selectaţi **Flux de lucru reutilizabil**. 
-  
-4. Formular **Creare flux de lucru reutilizabil** , introduceţi numele * **Repair2010***. Pentru **Platforma de tip**, selectaţi **Flux de lucru SharePoint 2010**, şi apoi selectaţi **OK**. 
-  
-5. În secţiunea **Salvare** de panglica de **flux de lucru** , selectaţi **Publicare**. 
-  
-6. În secţiunea de **administrare** a panglicii de **flux de lucru** , selectaţi **Publica la nivel global**. În casetă de dialog de confirmare care apare, selectaţi **OK**. 
-  
-7. Într-un browser web, localizați site-ul rădăcină al colecției de site-uri, şi apoi accesa **Site-ul setările** \> **Caracteristici de colectare site-ului**. Apoi, comuta caracteristica de **fluxuri de lucru** : 
-  
-· În cazul în care funcţia este *activ* , faceţi clic pe **Dezactivare,** şi apoi faceţi clic pe **Activare**. 
-  
-· În cazul în care funcţia este *dezactivata* , faceţi clic pe **Activare**. 
-  
-Pentru mai multe informaţii vă rugăm să consultaţi următorul [articol](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
-  
-

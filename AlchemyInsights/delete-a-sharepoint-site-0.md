@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485522"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646395"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Şterge site-uri care aparţin unui grup de Office 365:
 
@@ -30,7 +30,7 @@ Atunci când utilizatorii să creeze un nou site de echipa de SharePoint acasa (
     
 Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de site-ul este eliminat din SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Ştergeţi comunicare site-uri sau site-uri clasice:
+**Ştergeţi comunicare site-uri sau site-uri clasice:**
 
 1. Du-te la site-ul.
   
@@ -38,7 +38,7 @@ Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de 
   
 3. Faceţi clic pe **Setări Site**. **Site de informare** sau **Acțiuni Site**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Ştergeţi o colecţie de site-ul SharePoint:
+**Ştergeţi o colecţie de site-ul SharePoint:**
 
 Pentru a şterge o colecţie de site-ul clasic:
   
@@ -46,7 +46,7 @@ Pentru a şterge o colecţie de site-ul clasic:
     
 2. Pe fila de colecții de site-ul, selectaţi **şterge.**
     
-## <a name="deleted-a-site-by-accident"></a>Elimină un site de accident?
+**Elimină un site de accident?**
 
 A se vedea [restaura o colecţie de site-ul şterse](https://go.microsoft.com/fwlink/?linkid=867660).
   

@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: 8d19bbd5a5782c7793c87499baf62b2eb7de82ae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8c5e7cc502d016ad658383685523dc240dfb4dc6
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485325"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661569"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Depanarea problemelor cu inscrierea dispozitivele Windows în Microsoft Intune
 
@@ -26,9 +26,9 @@ Unele mesaje de eroare comune şi rezoluţie paşi:
   
  **Cod de eroare 0x801c0003:** Eroarea poate apărea în următoarele situaţii: 
   
-1. Utilizatorul are mai multe dispozitive înscris decât limita de dispozitiv. Examina aceste documente pentru a [elimina un dispozitiv](https://docs.microsoft.com/en-us/intune/devices-wipe) sau [schimba limita de dispozitiv](https://docs.microsoft.com/en-us/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+1. Utilizatorul are mai multe dispozitive înscris decât limita de dispozitiv. Examina aceste documente pentru a [elimina un dispozitiv](https://docs.microsoft.com/intune/devices-wipe) sau [schimba limita de dispozitiv](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-2. "Utilizatorii pot adera dispozitive azuriu AD" este setat la "niciunul". Setaţi-l la toate sau selectaţi utilizatorii. Revizui [această documentaţie](https://docs.microsoft.com/en-us/azure/active-directory/device-management-azure-portal#configure-device-settings) pentru mai multe informaţii. 
+2. "Utilizatorii pot adera dispozitive azuriu AD" este setat la "niciunul". Setaţi-l la toate sau selectaţi utilizatorii. Revizui [această documentaţie](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) pentru mai multe informaţii. 
     
 3. Aparatul este înscris de un alt utilizator. Dacă este cazul, eliminaţi dispozitivul din consola de Azure Intune sau unenroll manual aparatul înainte de a încerca din nou.
     
@@ -36,10 +36,10 @@ Unele mesaje de eroare comune şi rezoluţie paşi:
     
 Resurse suplimentare pentru a rezolva problema:
   
-1. Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/en-us/intune/help-desk-operators) , pentru mai multe detalii. 
+1. Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii. 
     
-2. Revizuirea acestor documente pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare: [Ghid de depanare](https://support.microsoft.com/en-us/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) şi [Depanare doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Revizuirea acestor documente pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare: [Ghid de depanare](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) şi [Depanare doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-[Aflaţi cum să înscrie dispozitive Windows Microsoft Intune](https://docs.microsoft.com/en-us/intune/windows-enroll).
+[Aflaţi cum să înscrie dispozitive Windows Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
   
 

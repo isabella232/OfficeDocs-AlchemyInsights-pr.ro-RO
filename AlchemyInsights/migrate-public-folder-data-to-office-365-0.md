@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: dd7166257f2bc17c9b483a95a97a45abd5e99874
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485477"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660791"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Migrarea datelor de public folder la Office 365
 
@@ -22,7 +22,7 @@ Dacă nu aveţi o mulţime de foldere publice pentru a aduce în Office 365, ar 
   
 Pentru organizații mai mari care sunt în mişcare foldere publice în Office 365, avem mai multe ghiduri disponibile:
   
-- [Migra moştenire foldere publice](https://technet.microsoft.com/en-us/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 şi mai devreme) 
+- [Migra moştenire foldere publice](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 şi mai devreme) 
     
 - [Migra foldere publice Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     

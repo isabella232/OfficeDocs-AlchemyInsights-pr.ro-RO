@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
-ms.openlocfilehash: 45078e83f86f34386a7a2a2c0409f225122a598d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4621e4541c5453c76dbbe968b492b9bd19316d94
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485010"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660863"
 ---
 # <a name="file-open-read-only"></a>Fişier deschis doar în citire
 
@@ -30,7 +30,7 @@ Puteţi verifica proprietăţile fişierului făcând clic dreapta pe fişierul 
   
  **Conţinutul este în Vizualizare protejată**
   
-Fişiere de pe Internet şi de la alte locaţii potenţial nesigure pot conţine viruşi, viermi, sau alte tipuri de malware, care poate dăuna computerului dvs. Acest lucru este, de asemenea, frecvent cazul cu ataşamente e-mail sau fişierele pe care le-aţi descărcat. Pentru a proteja computerul, fişierele din aceste locaţii potenţial nesigure sunt deschise în vizualizarea protejat. Utilizând vizualizarea protejată, puteţi citi un fişier şi de a vedea conţinutul său în timp ce reducerea riscurilor. Pentru mai multe informaţii despre protejat Vezi şi cum să modificaţi setările, vedeți acest articol: [ce este vizualizarea protejată?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Fişiere de pe Internet şi de la alte locaţii potenţial nesigure pot conţine viruşi, viermi, sau alte tipuri de malware, care poate dăuna computerului dvs. Acest lucru este, de asemenea, frecvent cazul cu ataşamente e-mail sau fişierele pe care le-aţi descărcat. Pentru a proteja computerul, fişierele din aceste locaţii potenţial nesigure sunt deschise în vizualizarea protejat. Utilizând vizualizarea protejată, puteţi citi un fişier şi de a vedea conţinutul său în timp ce reducerea riscurilor. Pentru mai multe informaţii despre protejat Vezi şi cum să modificaţi setările, vedeți acest articol: [ce este vizualizarea protejată?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive este plin?**
   
@@ -38,7 +38,7 @@ Dacă fişierul este stocat pe OneDrive şi spaţiul de stocare OneDrive este co
   
  **Este activat Office?**
   
-În cazul în care Oficiul nu este activat, sau în cazul în care abonamentul a expirat, ai putea fi în doar-în-citire reduce modul de funcţionalitate. Pentru informaţii privind modul de a activa Office, consultaţi: [produs fără licenţă şi activarea erori în birou](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+În cazul în care Oficiul nu este activat, sau în cazul în care abonamentul a expirat, ai putea fi în doar-în-citire reduce modul de funcţionalitate. Pentru informaţii privind modul de a activa Office, consultaţi: [produs fără licenţă şi activarea erori în birou](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Dacă toate altceva nu reuşeşte...**
   

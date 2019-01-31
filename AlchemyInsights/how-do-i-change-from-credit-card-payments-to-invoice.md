@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485770"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661223"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Cum pot schimba la plăţile prin card de credit pentru a factura?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29485770"
 2. Alege abonamentul care doriţi să modificaţi. În secţiunea de **metoda de plata** , alege **detaliile de plata schimbare**.
     
 3. În panoul de **detalii de plata schimbare** , alege **schimba metoda de plată**.
-    
-    > [!TIP]
-    > În cazul în care link-ul **schimba metoda de plată** nu este afişată, înseamnă că trecerea de la cardul de credit sau cont bancar pentru a factura nu este disponibil pentru abonamentul pentru ca abonamentul nu corespunde suma de cost minim pentru facturare factură. Suma de cost minim necesar pentru a fi facturat de factură variază în funcţie de locaţia geografică. 
+<br>*Notă: În cazul în care link-ul **schimba metoda de plată** nu este afişată, aceasta înseamnă că trecerea de la cardul de credit sau cont bancar pentru a factura nu este disponibil pentru abonamentul pentru ca abonamentul nu corespunde suma de cost minim pentru facturare factură. Suma de cost minim necesar pentru a fi facturat de factură variază în funcţie de locaţia geografică.*
   
 4. În ** schimba metoda de plată ** caseta de dialog, selectaţi **continuare**.
     
 5. Selectaţi **OK** pentru a reveni la centrul de administrare. 
-    
-
+   

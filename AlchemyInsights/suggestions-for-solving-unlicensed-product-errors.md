@@ -3,24 +3,25 @@ title: Sugestii de rezolvare erori "Produs fără licenţă"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/4/2019
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: ab4b71da7d36496987ebea21c596b418dd81c3a5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0d8a5a8fc32f794be3cebea33f5ced352d62b40
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485297"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645459"
 ---
-"erori
-
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestii pentru rezolvarea ' fără licenţă produs "erori
 
-Vă asigura că aveţi un abonament care permite clientului de licente, cum ar fi Office 365 Business sau Business Premium, asigurând [utilizatorul are o licenta atribuite](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC). [Dezactivare o instalare](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1) pentru a verifica dacă au depășit numărul de instalări de abonament. 
+
+
+Vă asigura că aveţi un abonament care permite clientului de licente, cum ar fi Office 365 Business sau Business Premium, asigurând [utilizatorul are o licenta atribuite](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Dezactivare o instalare](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) pentru a verifica dacă au depășit numărul de instalări de abonament. 
   
 Asigură utilizatorului este conectarea cu acelaşi cont care are licenta atribuite.
   
@@ -28,10 +29,10 @@ Executaţi [Instrumentul de depanare pentru activare](https://aka.ms/SARA-Office
   
 Verificaţi dacă starea de abonament a expirat
   
-Verifica [pagina de sănătate de serviciul Office 365](https://support.office.com/article/932AD3AD-533C-418A-B938-6E44E8BC33B0) pentru a vedea dacă există orice probleme cunoscute cu serviciul. 
+Verifica [pagina de sănătate de serviciul Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) pentru a vedea dacă există orice probleme cunoscute cu serviciul. 
   
-[Efectuați o reparare on-line al Oficiului](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+[Efectuați o reparare on-line al Oficiului](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Pentru solutii de depanare suplimentare, a se vedea: [produs fără licenţă şi activarea erori în birou](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Pentru solutii de depanare suplimentare, a se vedea: [produs fără licenţă şi activarea erori în birou](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   
 
