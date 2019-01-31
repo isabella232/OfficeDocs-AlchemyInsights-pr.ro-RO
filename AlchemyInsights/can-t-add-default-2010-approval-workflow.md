@@ -2,43 +2,21 @@
 title: Imposibil de adăugat implicit fluxul de lucru aprobare 2010
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/28/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 758b0339b842478f9609eb716b5b4ddab6579c80
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b57f44c85fcd5d1d227b64baa99a9790c2112c51
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29484823"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646187"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="08b64-102">Imposibil de adăugat implicit fluxul de lucru aprobare 2010</span><span class="sxs-lookup"><span data-stu-id="08b64-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="b61aa-102">Imposibil de adăugat implicit fluxul de lucru aprobare 2010</span><span class="sxs-lookup"><span data-stu-id="b61aa-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="08b64-103">Într-o colecţie de site-ul Microsoft SharePoint, nu puteţi adăuga un flux de lucru reutilizabil la nivel global (cum ar fi "aprobare - SharePoint 2010") o listă sau o bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="08b64-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="b61aa-p101">Într-o colecţie de site-ul Microsoft SharePoint, nu puteţi adăuga un flux de lucru reutilizabil la nivel global (cum ar fi "aprobare - SharePoint 2010") o listă sau o bibliotecă. Fluxul de lucru aprobare ar putea să lipsească. Pentru a rezolva această problemă se referă la [nu pot adăuga un flux de lucru reutilizabil la nivel global la o listă SharePoint sau biblioteca](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="b61aa-p101">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library. The approval workflow may be missing. To resolve this issue refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span> 
   
-<span data-ttu-id="08b64-104">Pentru a rezolva această problemă, urmaţi aceşti paşi:</span><span class="sxs-lookup"><span data-stu-id="08b64-104">To resolve this issue, follow these steps:</span></span> 
-  
-1. <span data-ttu-id="08b64-105">Deschide site-ul rădăcină din colecția de site-ul în SharePoint Designer 2013.</span><span class="sxs-lookup"><span data-stu-id="08b64-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
-  
-2. <span data-ttu-id="08b64-106">Cu **Site-ul obiectele**, selectați **fluxuri de lucru**.</span><span class="sxs-lookup"><span data-stu-id="08b64-106">Under **Site Objects**, select **Workflows**.</span></span> 
-  
-3. <span data-ttu-id="08b64-107">În secţiunea **noua** de panglica de **fluxuri de lucru** , selectaţi **Flux de lucru reutilizabil**.</span><span class="sxs-lookup"><span data-stu-id="08b64-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
-  
-4. <span data-ttu-id="08b64-p101">Formular **Creare flux de lucru reutilizabil** , introduceţi numele \* \*\*Repair2010\*\*\*. Pentru **Platforma de tip**, selectaţi **Flux de lucru SharePoint 2010**, şi apoi selectaţi **OK**.</span><span class="sxs-lookup"><span data-stu-id="08b64-p101">On the **Create Reusable Workflow** form, enter the name  \* **Repair2010**\* . For **Platform Type**, select **SharePoint 2010 Workflow**, and then select **OK**.</span></span> 
-  
-5. <span data-ttu-id="08b64-110">În secţiunea **Salvare** de panglica de **flux de lucru** , selectaţi **Publicare**.</span><span class="sxs-lookup"><span data-stu-id="08b64-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
-  
-6. <span data-ttu-id="08b64-p102">În secţiunea de **administrare** a panglicii de **flux de lucru** , selectaţi **Publica la nivel global**. În casetă de dialog de confirmare care apare, selectaţi **OK**.</span><span class="sxs-lookup"><span data-stu-id="08b64-p102">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**. In the confirmation dialog box that appears, select **OK**.</span></span> 
-  
-7. <span data-ttu-id="08b64-p103">Într-un browser web, localizați site-ul rădăcină al colecției de site-uri, şi apoi accesa **Site-ul setările** \> **Caracteristici de colectare site-ului**. Apoi, comuta caracteristica de **fluxuri de lucru** :</span><span class="sxs-lookup"><span data-stu-id="08b64-p103">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**. Then, toggle the **Workflows** feature:</span></span> 
-  
-<span data-ttu-id="08b64-115">· În cazul în care funcţia este *activ* , faceţi clic pe **Dezactivare,** şi apoi faceţi clic pe **Activare**.</span><span class="sxs-lookup"><span data-stu-id="08b64-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
-  
-<span data-ttu-id="08b64-116">· În cazul în care funcţia este *dezactivata* , faceţi clic pe **Activare**.</span><span class="sxs-lookup"><span data-stu-id="08b64-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
-  
-<span data-ttu-id="08b64-117">Pentru mai multe informaţii vă rugăm să consultaţi următorul [articol](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="08b64-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
-  
-
