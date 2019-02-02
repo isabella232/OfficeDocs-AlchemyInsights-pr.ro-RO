@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662942"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697142"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Necesare clientului cu care se confruntă H1, H2 nu funcţionează
-Exemplu text bloc - urmaţi aceste instrucţiuni:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Necesare alchimie antet H1, H2 pe nu funcţionează.
+Cele mai bune practici și liniile directoare pentru authoring de Alchemy:
 
+1. **Cuib alchimie intuiţii în dosare**- acest lucru va rupe structura de URL-ul. Suntem în căutarea în stabilirea acest lucru.
 1. Fişierele din folderul **AlchemyInsights** trebuie să aibă regula ID-ul şi numele de regulă la [alchimie partener portal](https://alchemyportal.azurewebsites.net) în numele fişierului.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Utiliza metadatele în partea de sus a acestui fișier ca șablon. Nimic altceva nu este necesară.
@@ -35,7 +36,6 @@ Exemplu text bloc - urmaţi aceste instrucţiuni:
 
 Şi acest lucru este într-adevăr deja un pic prea lung. Cele mai bune practici este de aproximativ 400 de caractere---
 
-Odată ce conţinutul este gata, trageţi-l la sucursala live. Apoi, du-te la [portalului Partner de alchimie](https://alchemyportal.azurewebsites.net) şi introduceţi numele fişierului în câmpul URL-ul. Asiguraţi-vă că Insight revizuite şi publicate spune "Da" şi apoi faceţi clic pe regulă de actualizare. (Acest lucru va arata mai frumoasa în noua versiune a portalului - eliberarea în curând.)
-
-![URL field](media/for-content-team.PNG)
+Odată ce conţinutul este gata, trageţi-l la sucursala live. Apoi, du-te la [portalului Partner de alchimie](https://alchemyportal.azurewebsites.net) şi introduceţi numele fişierului în câmpul URL-ul. Asiguraţi-vă că Insight revizuite şi publicate spune "Da" şi apoi faceţi clic pe regulă de actualizare. **(Acest lucru va arata mai frumoasa în noua versiune a portalului - eliberarea în curând.)** 
+ ![url field](media/for-content-team.PNG)
 
