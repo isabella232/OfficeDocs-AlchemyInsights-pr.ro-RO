@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657780"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786746"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP Policy Tip probleme
+
 Atunci când se utilizează **politicile de DLP**, utilizatorii pot notificată o încălcare de politici cu **politica sfaturi**. Administratorii pot configura politica de sfaturi pentru a afişa în timp ce testarea lor politica DLP sau atunci când politica este în modul de aplicare completă. 
   
 Pentru a configura politica sfaturi pe polita DLP în centrul securitatea şi conformitatea în modul de aplicare completă a face următoarele:
