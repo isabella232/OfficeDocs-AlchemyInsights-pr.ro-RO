@@ -838,3 +838,57 @@
 | 30.01.2019 | [123 obtinerea unui cont dezactivat eroare în OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | modificate |
 | 01.02.2019 | [acelasi ca numele fişierului este cel mai bun [regula #-Descriere]](/AlchemyInsights/1-alchemy-insight-template) | modificate |
 | 01.02.2019 | [Schimbare permisiuni unei cutii poştale](/AlchemyInsights/changing-permissions-on-a-mailbox) | modificate |
+
+
+## <a name="week-of-february-04-2019"></a>Săptămâna de 4 februarie 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 04.02.2019 | [Adăugați utilizatori la Office 365](/AlchemyInsights/add-users-to-office-365) | modificate |
+| 06.02.2019 | [Angajat lăsând](/AlchemyInsights/employee-leaving) | modificate |
+| 06.02.2019 | [Admin de preluare](/AlchemyInsights/admin-takeover) | modificate |
+| 06.02.2019 | [127 obtinerea un TenantAccessBlockedException eroare la accesarea e-mail?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificate |
+| 06.02.2019 | [959 schimbare nume afişat](/AlchemyInsights/959-change-display-name) | modificate |
+| 06.02.2019 | [Adăugaţi sau eliminaţi un alias de poştă electronică pentru un utilizator](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modificate |
+| 06.02.2019 | Adauga locuri la un abonament preplătite | eliminat |
+| 06.02.2019 | [Adăugați utilizatori la Office 365](/AlchemyInsights/add-users-to-office-365) | modificate |
+| 06.02.2019 | [Adăugarea de utilizatori externi la un grup de distribuire?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modificate |
+| 06.02.2019 | Admin - Global Office 365 de configurare şi administrare | eliminat |
+| 06.02.2019 | Admin - gestiona mea utilizatori, grupuri şi resurse | eliminat |
+| 06.02.2019 | Admin - domeniu de configurare şi setările DNS | eliminat |
+| 06.02.2019 | Admin - Sign in şi parola probleme | eliminat |
+| 06.02.2019 | [Anula abonament Office 365](/AlchemyInsights/cancel-office-365-subscription) | modificate |
+| 06.02.2019 | [Modifica un utilizator nume şi adresa de e-mail](/AlchemyInsights/change-a-user-s-name-and-email-address) | modificate |
+| 06.02.2019 | Comert - gestionează facturi, plăţi, abonamente şi licenţe | eliminat |
+| 06.02.2019 | [Noţiuni de bază un TenantAccessBlockedException eroare la accesarea e-mail?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificate |
+| 06.02.2019 | [Livrare de e-mail probleme?](/AlchemyInsights/having-email-delivery-issues-0) | modificate |
+| 06.02.2019 | [Livrare de e-mail probleme?](/AlchemyInsights/having-email-delivery-issues) | modificate |
+| 06.02.2019 | [Au probleme obtinerea Outlook să se conecteze?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificate |
+| 06.02.2019 | [Au probleme obtinerea Outlook să se conecteze?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificate |
+| 06.02.2019 | Intune - Download, instalare şi de a folosi Intune | eliminat |
+| 06.02.2019 | [Problema cu Skype pentru afaceri?](/AlchemyInsights/issue-with-skype-for-business) | modificate |
+| 06.02.2019 | ODSP | eliminat |
+| 06.02.2019 | Birou Client - Excel | eliminat |
+| 06.02.2019 | [Restaurare şterse utilizator](/AlchemyInsights/restore-deleted-user) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress-0) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress-1) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress-2) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress-3) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress-4) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress-5) | modificate |
+| 06.02.2019 | [Incident de service în curs](/AlchemyInsights/service-incident-in-progress) | modificate |
+| 06.02.2019 | [Configurarea de proiect](/AlchemyInsights/setting-up-project) | modificate |
+| 06.02.2019 | Caracteristici de conformitatea setup ca Arhiva, retenţie, litigii, eDiscovery şi MDM | eliminat |
+| 06.02.2019 | Folosind modul de instalare Offline pentru birou | eliminat |
+| 06.02.2019 | Yammer - Setup şi de a folosi serviciile Yammer | eliminat |
+| 07.02.2019 | [Excel crashing?](/AlchemyInsights/excel-crashing) | modificate |
+| 07.02.2019 | [Cum de a adăuga sau edita o VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | modificate |
+| 07.02.2019 | [Minecraft Edition cu Office 365 educaţie pentru drum liber](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | modificate |
+| 07.02.2019 | [606 informaţii cu privire la delegarea](/AlchemyInsights/606-information-on-delegation) | modificate |
+| 07.02.2019 | [Grupul dumneavoastră nu este afişat în lista de grupuri](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | modificate |
+| 08.02.2019 | [DLP politica sfaturi nu de lucru](/AlchemyInsights/dlp-policy-tips-not-working) | modificate |
+| 08.02.2019 | [DLP regulă pentru US / UK numărul pașaportului neactiv](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | modificate |
+| 08.02.2019 | [Office 365 educaţie pentru drum liber](/AlchemyInsights/office-365-education-for-free) | modificate |
+| 08.02.2019 | [Licenţele necesare pentru Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | modificate |
+| 08.02.2019 | [Strategiile de conservare în centrul de administrare Exchange nu de lucru](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | modificate |
