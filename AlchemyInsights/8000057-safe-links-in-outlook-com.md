@@ -7,17 +7,17 @@ ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2334f60b-c26a-47e3-b084-351648959343
-ms.openlocfilehash: eb9ca1ca9340f80a36b87ea99f2f988f8707bd28
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 83c3c29d9e7269919f312cb5a95dfccbde3e47dd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500258"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941412"
 ---
-# <a name="disabling-advanced-outlookcom-security"></a><span data-ttu-id="07676-102">Dezactivarea avansate de securitate Outlook.com</span><span class="sxs-lookup"><span data-stu-id="07676-102">Disabling advanced Outlook.com security</span></span>
+# <a name="disabling-advanced-outlookcom-security"></a><span data-ttu-id="e55ab-102">Dezactivarea avansate de securitate Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e55ab-102">Disabling advanced Outlook.com security</span></span>
 
-<span data-ttu-id="07676-p101">Pentru a oferi cea mai bună protecţie pentru contul, Outlook.com verifică dacă orice link-uri în mesajele sunt escrocheriile de phishing sau sunt susceptibile de a descărca viruşi sau malware pe computer. Dacă sunteţi sigur că doriţi această securitate avansată Outlook.com eliminate, vă rugăm să faceţi clic pe **Da** mai jos.</span><span class="sxs-lookup"><span data-stu-id="07676-p101">To provide the best protection for your account, Outlook.com checks whether any links in your messages are phishing scams or are likely to download viruses or malware onto your computer. If you're sure you want this advanced Outlook.com security removed, please click **Yes** below.</span></span> 
+<span data-ttu-id="e55ab-p101">Pentru a oferi cea mai bună protecţie pentru contul, Outlook.com verifică dacă orice link-uri în mesajele sunt escrocheriile de phishing sau sunt susceptibile de a descărca viruşi sau malware pe computer. Dacă sunteţi sigur că doriţi această securitate avansată Outlook.com eliminate, vă rugăm să faceţi clic pe **Da** mai jos.</span><span class="sxs-lookup"><span data-stu-id="e55ab-p101">To provide the best protection for your account, Outlook.com checks whether any links in your messages are phishing scams or are likely to download viruses or malware onto your computer. If you're sure you want this advanced Outlook.com security removed, please click **Yes** below.</span></span> 
   
 
