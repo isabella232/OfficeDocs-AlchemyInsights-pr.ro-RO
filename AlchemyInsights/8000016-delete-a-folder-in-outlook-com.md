@@ -7,23 +7,23 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 9c4f106360b8c0348293ef6309d0d48c9b188122
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5e658b1c183f9aed968d412adf461365e956985b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485031"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923570"
 ---
-# <a name="delete-a-folder"></a><span data-ttu-id="763ae-102">Ştergerea unui folder</span><span class="sxs-lookup"><span data-stu-id="763ae-102">Delete a folder</span></span>
+# <a name="delete-a-folder"></a><span data-ttu-id="83570-102">Ştergerea unui folder</span><span class="sxs-lookup"><span data-stu-id="83570-102">Delete a folder</span></span>
 
-1. <span data-ttu-id="763ae-103">În panoul din stânga, faceţi clic dreapta pe folderul sau subfolder vrei sa stergem si selectam **Delete**.</span><span class="sxs-lookup"><span data-stu-id="763ae-103">In the left pane, right-click the folder or subfolder you want to delete and select **Delete**.</span></span> 
+1. <span data-ttu-id="83570-103">În panoul din stânga, faceţi clic dreapta pe folderul sau subfolder vrei sa stergem si selectam **Delete**.</span><span class="sxs-lookup"><span data-stu-id="83570-103">In the left pane, right-click the folder or subfolder you want to delete and select **Delete**.</span></span> 
     
-2. <span data-ttu-id="763ae-104">Selectaþi **OK** pentru a confirma.</span><span class="sxs-lookup"><span data-stu-id="763ae-104">Select **OK** to confirm.</span></span> 
+2. <span data-ttu-id="83570-104">Selectaþi **OK** pentru a confirma.</span><span class="sxs-lookup"><span data-stu-id="83570-104">Select **OK** to confirm.</span></span> 
     
-<span data-ttu-id="763ae-105">Pentru mai multe informaţii, consultaţi [Ştergerea unui folder în Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873134).</span><span class="sxs-lookup"><span data-stu-id="763ae-105">To learn more, see [Delete a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873134).</span></span>
+<span data-ttu-id="83570-105">Pentru mai multe informaţii, consultaţi [Ştergerea unui folder în Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873134).</span><span class="sxs-lookup"><span data-stu-id="83570-105">To learn more, see [Delete a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873134).</span></span>
   
 

@@ -7,23 +7,23 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 1db4613d963e128c1742d8adc1bb7f2c2c246ce4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 04d989697f18b6cfbe66497c11242bfe9bcac57b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485168"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905988"
 ---
-<span data-ttu-id="9eb53-102">"pe numele" adresa mea de e-mail</span><span class="sxs-lookup"><span data-stu-id="9eb53-102">"on behalf" of my email address</span></span>
+<span data-ttu-id="9538e-102">"pe numele" adresa mea de e-mail</span><span class="sxs-lookup"><span data-stu-id="9538e-102">"on behalf" of my email address</span></span>
 
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a><span data-ttu-id="9eb53-103">Outlook.com trimite e-mail "în numele" adresa mea de e-mail</span><span class="sxs-lookup"><span data-stu-id="9eb53-103">Outlook.com sends email "on behalf of" my email address</span></span>
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a><span data-ttu-id="9538e-103">Outlook.com trimite e-mail "în numele" adresa mea de e-mail</span><span class="sxs-lookup"><span data-stu-id="9538e-103">Outlook.com sends email "on behalf of" my email address</span></span>
 
-<span data-ttu-id="9eb53-104">E-mail trimis la emisiunile contului conectat ca fiind trimis în numele contului Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9eb53-104">Email sent from your connected account shows as being sent on behalf of your Microsoft account.</span></span>
+<span data-ttu-id="9538e-104">E-mail trimis la emisiunile contului conectat ca fiind trimis în numele contului Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9538e-104">Email sent from your connected account shows as being sent on behalf of your Microsoft account.</span></span>
   
-<span data-ttu-id="9eb53-p101">Acest lucru este cunoscut problemă şi va fi stabilită într-o versiune viitoare. Până atunci, puteţi modifica dumneavoastră la adresa pentru a fi la fel cu aliasul primar de cont Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9eb53-p101">This is known issue and will be fixed in a future release. Until then, you can change your From address to be the same as your primary Microsoft account alias.</span></span>
+<span data-ttu-id="9538e-p101">Acest lucru este cunoscut problemă şi va fi stabilită într-o versiune viitoare. Până atunci, puteţi modifica dumneavoastră la adresa pentru a fi la fel cu aliasul primar de cont Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9538e-p101">This is known issue and will be fixed in a future release. Until then, you can change your From address to be the same as your primary Microsoft account alias.</span></span>
   
-<span data-ttu-id="9eb53-107">Pentru informaţii suplimentare, consultaţi [Outlook.com trimite e-mail "în numele" adresa mea de e-mail](https://go.microsoft.com/fwlink/p/?linkid=2001600&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="9eb53-107">For more information, see [Outlook.com send email "on behalf of" my email address](https://go.microsoft.com/fwlink/p/?linkid=2001600&amp;clcid=0x409).</span></span>
+<span data-ttu-id="9538e-107">Pentru informaţii suplimentare, consultaţi [Outlook.com trimite e-mail "în numele" adresa mea de e-mail](https://go.microsoft.com/fwlink/p/?linkid=2001600&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="9538e-107">For more information, see [Outlook.com send email "on behalf of" my email address](https://go.microsoft.com/fwlink/p/?linkid=2001600&amp;clcid=0x409).</span></span>
   
 
