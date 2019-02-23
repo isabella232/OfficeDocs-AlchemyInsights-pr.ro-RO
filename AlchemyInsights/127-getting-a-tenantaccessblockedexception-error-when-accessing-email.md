@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5f36f6a793cc0290ead1bf555d2d6e681104f745
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66d78ded76e0534369758ec66def655fb3d5c910
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900372"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209101"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="a3bcc-102">Noţiuni de bază un TenantAccessBlockedException eroare la accesarea e-mail?</span><span class="sxs-lookup"><span data-stu-id="a3bcc-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="fa9ec-102">Noţiuni de bază un TenantAccessBlockedException eroare la accesarea e-mail?</span><span class="sxs-lookup"><span data-stu-id="fa9ec-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="a3bcc-p101">Există câteva motive diferite de ce ar putea să primiţi această eroare. De exemplu:</span><span class="sxs-lookup"><span data-stu-id="a3bcc-p101">There are a few different reasons why you might receive this error. For example:</span></span>
+<span data-ttu-id="fa9ec-p101">Există câteva motive diferite de ce ar putea să primiţi această eroare. De exemplu:</span><span class="sxs-lookup"><span data-stu-id="fa9ec-p101">There are a few different reasons why you might receive this error. For example:</span></span>
   
-- <span data-ttu-id="a3bcc-105">Verificaţi dacă abonamentul este valabil în **Facturare** \> pagina de **abonamente** în Office 365 centru de administrare ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="a3bcc-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
+- <span data-ttu-id="fa9ec-105">Verificaţi dacă abonamentul este valabil în **Facturare** \> pagina de **abonamente** în centrul de administrare Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="fa9ec-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="a3bcc-106">A verifica pentru orice trecut cuvenit notificări în **Facturare** \> filme de **facturi** în Office 365 centru de administrare ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="a3bcc-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
+- <span data-ttu-id="fa9ec-106">A verifica pentru orice trecut cuvenit notificări în **Facturare** \> filme de **facturi** în centrul de administrare Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="fa9ec-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="a3bcc-p102">Dacă facturarea şi abonamente pentru contul dvs. au fost actualizate recent, s-ar putea lua timp pentru ca modificările să se propage. Încercaţi din nou în câteva minute, iar dacă problema persistă, contactaţi-ne.</span><span class="sxs-lookup"><span data-stu-id="a3bcc-p102">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate. Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="fa9ec-p102">Dacă facturarea şi abonamente pentru contul dvs. au fost actualizate recent, s-ar putea lua timp pentru ca modificările să se propage. Încercaţi din nou în câteva minute, iar dacă problema persistă, contactaţi-ne.</span><span class="sxs-lookup"><span data-stu-id="fa9ec-p102">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate. Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 
