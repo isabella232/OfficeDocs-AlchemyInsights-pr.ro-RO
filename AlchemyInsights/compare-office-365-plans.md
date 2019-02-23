@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919452"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208095"
 ---
 # <a name="compare-office-365-plans"></a>Compara planurile de Office 365
 
@@ -26,7 +26,7 @@ Office 365 planuri sunt disponibile pentru [afaceri](https://products.office.com
   
 Dacă organizaţia dumneavoastră este interesat de comparare toate planurile şi de stabilire a preţurilor, revizuire [compara toate planurile de Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-În cazul în care organizaţia a cumpărat deja un plan de Office 365 şi este interesat de trecerea la un alt plan puteţi atât la centrul de administrare Office 365, du-te la [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054), sau alege **Facturare** \> **abonamente**. Alegeţi **Switch planuri** pentru a vizualiza lista de noi planuri disponibile. 
+În cazul în care organizaţia a cumpărat deja un plan de Office 365 şi este interesat de trecerea la un alt plan puteţi atât la centrul de administrare Microsoft 365, du-te la [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054), sau alege **Facturare** \> **abonamente**. Alegeţi **Switch planuri** pentru a vizualiza lista de noi planuri disponibile. 
   
 Organizaţia, de asemenea, puteţi amesteca şi potrivi planuri Office 365 pentru a satisface nevoile şi cerinţele caracteristică utilizatorilor. La Office 365 Admin, mergeţi la pagina de [Servicii de achiziţie](https://go.microsoft.com/fwlink/p/?linkid=868433) , sau alege **Facturare** \> **Servicii de cumpărare**.
   

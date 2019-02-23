@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: 13a029c28d741918786ab32f76730287bca55248
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 236e8d75567601f315b907e3fab21278448c9aae
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905412"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209209"
 ---
 # <a name="issue-with-skype-for-business"></a>Problema cu Skype pentru afaceri?
 
@@ -23,7 +23,7 @@ Ne-am detectat că Domains() următoarele au probleme care ar putea împiedica S
   
 NS, CNAME sau SRV records a setărilor de domeniu (DNS) nu sunt configurate corect pentru Skype pentru afaceri. Puteţi consulta [înregistrările DNS actualizarea în Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) pentru instrucţiuni detaliate. 
   
-Pentru a remedia problema, vă rugăm să mergeţi la pagina de [domenii](https://admin.microsoft.com/adminportal/home#/Domains) în Office 365 Admin Center, şi vă vom ajuta cu ea. 
+Pentru a remedia problema, vă rugăm să mergeţi la pagina de [domenii](https://admin.microsoft.com/adminportal/home#/Domains) în centrul de administrare Microsoft 365, şi vă vom ajuta cu ea. 
   
 În cazul în care aveţi probleme comunicarea cu utilizatorii care sunt externe pentru organizaţia dumneavoastră, puteţi consulta să [înfiinţeze Skype pentru afaceri Online comunicări externe](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) pentru instrucţiuni detaliate. 
   

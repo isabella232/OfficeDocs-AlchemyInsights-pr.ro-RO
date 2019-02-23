@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906420"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207769"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Cum de a creşte de stocare in OneDrive pentru afaceri
 
@@ -27,7 +27,7 @@ Depozitare spaţiu setarea se aplică tuturor utilizatorilor pentru care nu s-au
   
 Pentru a mări spaţiul de stocare in OneDrive pentru afaceri, alegeţi un plan de Office 365 care include fie **OneDrive pentru Business Plan 2** sau **Office 365 Intreprindere E3**. 
   
-Pentru a schimba planurile, în centrul de administrare Office 365, du-te la **Facturare** \> **abonamente**, apoi alegeţi **comuta planuri.**
+Pentru a schimba planurile, în centrul de administrare Microsoft 365, du-te la **Facturare** \> **abonamente**, apoi alegeţi **comuta planuri.**
   
 Pentru mai multe informaţii despre trecerea planuri şi OneDrive pentru Business Magazin, vedea [trecerea de la o diferite Office 365 pentru planul de afaceri](https://go.microsoft.com/fwlink/?LinkId=2031117) şi [OneDrive pentru Descrierea de serviciu de afaceri](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

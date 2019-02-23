@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: c341ac08f261d926a2ab229e6a56f69c6ce14181
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b0969720aeb10eb50eeb221ae7e467052650e15
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909336"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209048"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Noţiuni de bază o eroare invalid a da un permis în Outlook pe web?
 
 Dacă utilizaţi Outlook de pe web şi veţi obţine o eroare **ceva a mers prost** care conţine **X-OWA-eroare: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licenţă Exchange Online nu este alocat corect sau a recent expirat. Vă admin pot asocia o licenţă să vă urmând aceşti paşi:
   
-1. Deschideţi [Centrul de administrare Office 365](https://portal.office.com/adminportal/home#/homepage) şi la **utilizatori activi**, selectaţi **Editare un utilizator**.
+1. Deschideţi [Centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) si la **utilizatori activi**, selectaţi **Editare un utilizator**.
     
 2. Din **edita un utilizator** în pagina care se deschide, selectaţi utilizatorul. În pagina de proprietăţi utilizatorului care se deschide, faceţi clic pe **editaţi** licente de **produs**.
     

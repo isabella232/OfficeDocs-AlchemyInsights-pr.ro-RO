@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bb2dc43b2035510c86a51d605325957c945be2f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 64b492aefa16a5e53a93536bbd3f62021341766f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916824"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207733"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ce să fac dacă dimensiunea cutiei poştale este deja 100GB
 
@@ -24,7 +24,7 @@ Cu un plan de E3 sau E5, dimensiunea cutiei poştale este deja 100 GB şi nu exi
   
 Pentru a activa Arhivarea e-mail:
   
-1. În centrul de administrare Office 365, du-te la **Admin Centre** \> **schimb**. 
+1. În centrul de administrare Microsoft 365, du-te la **Admin Centre** \> **schimb**. 
     
 2. Alege **Destinatarii** \> ** cutiile poştale **, şi selectaţi o cutie poştală. 
     

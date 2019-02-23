@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b915ff5514711e2ff27b07e35748d53689a486f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935970"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209353"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Transforma externe sharing on sau off pentru SharePoint
 
-1. În centrul de administrare Office 365, accesaţi [servicii &amp; pagina de completare](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), faceţi clic pe **site-uri**.
+1. În centrul de administrare Microsoft 365, du-te la [servicii &amp; pagina de completare](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), faceţi clic pe **site-uri**.
     
 2. Activaţi setarea on sau off, sau selectaţi o opţiune de partajare, dacă este pornit.
     

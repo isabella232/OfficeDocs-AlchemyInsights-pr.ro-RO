@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941124"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209857"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisiunile utilizatorului în SharePoint și OneDrive
 
 În cazul în care un utilizator în organizaţia dumneavoastră nu este capabil de a accesa SharePoint sau OneDrive, asiguraţi-vă că acestea au o licenţă care include SharePoint și OneDrive. 
   
-1. Du-te la [pagina de utilizatori activi în centrul de administrare Office 365](https://portal.office.com/adminportal/home#/users) şi selectaţi utilizator. 
+1. Du-te la [pagina de utilizatori activi în centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/users) şi selectaţi utilizator. 
     
 2. Asiguraţi-vă că sub **licente de produs**, o licenţă este asociată şi **SharePoint Online** este selectat. 
     

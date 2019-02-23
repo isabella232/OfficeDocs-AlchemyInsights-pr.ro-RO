@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
-ms.openlocfilehash: 9c97fefb1d27e71965a4de4fe3896fd7b1fb4b86
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 53535a7d35accb2a8b542c9b928b31d8ef2c5410
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916932"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209137"
 ---
 # <a name="having-email-delivery-issues"></a>Livrare de e-mail probleme?
 
@@ -23,7 +23,7 @@ Ne-am detectat că utilizatorii nu pot primi e-mailuri trimise la următoarele D
   
 NS sau MX înregistrări a setărilor de domeniu (DNS) nu sunt configurate corect pentru livrare de e-mail către serviciul Office 365. Puteţi consulta [înregistrările DNS actualizarea în Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) pentru instrucţiuni detaliate. 
   
-Pentru a remedia problema, vă rugăm să mergeţi la pagina de [domenii](https://admin.microsoft.com/adminportal/home#/Domains) în Office 365 Admin Center, şi vă vom ajuta cu ea. 
+Pentru a remedia problema, vă rugăm să mergeţi la pagina de [domenii](https://admin.microsoft.com/adminportal/home#/Domains) în centrul de administrare Microsoft 365, şi vă vom ajuta cu ea. 
   
 [Verificaţi frecvente domenii](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) pentru alte soluţii comune. 
   

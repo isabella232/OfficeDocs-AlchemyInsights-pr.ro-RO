@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926292"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210037"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Şterge site-uri care aparţin unui grup de Office 365:
 
 Atunci când utilizatorii să creeze un nou site de echipa de SharePoint acasa (sau creaţi un nou site de echipă din nou SharePoint admin centrul previzualizare), un grup de Office 365 corespunzătoare se creează automat. Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams. Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine. 
   
-1. Du-te la [pagina de grupuri din centrul de administrare Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Du-te la [pagina de grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Selectaţi caseta de lângă grupului.
     
