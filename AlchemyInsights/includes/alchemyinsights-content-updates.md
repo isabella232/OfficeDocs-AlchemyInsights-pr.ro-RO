@@ -3,17 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Saptamana a 14 ianuarie 2019
-
-
-| Publicat pe |Titlul subiectului | Schimbare |
-|------|------------|--------|
-| 14.01.2019 | Alchimia substituent | eliminat |
-| 14.01.2019 | Adauga domeniu alchimie | eliminat |
-| 14.01.2019 | [Casa de intuiţii alchimie](/AlchemyInsights/index) | modificate |
-| 17.01.2019 | [acelasi ca numele fişierului este cel mai bun [regula #-Descriere]](/AlchemyInsights/1-alchemy-insight-template) | adăugat |
-
-
 ## <a name="week-of-january-21-2019"></a>Săptămână de 21 ianuarie 2019
 
 
@@ -687,3 +676,61 @@
 | 14.02.2019 | [1245-import-PST-servicii](/AlchemyInsights/1245-import-pst-services) | adăugat |
 | 14.02.2019 | [1385-birou-365-alerta-politici](/AlchemyInsights/1385-office-365-alert-policies) | adăugat |
 | 15.02.2019 | [Cum să instalaţi Office](/AlchemyInsights/how-to-install-office) | modificate |
+
+
+## <a name="week-of-february-18-2019"></a>Saptamana a 18 februarie 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 19.02.2019 | [Ai un "Parametru nu poate fi găsit" eroare?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificate |
+| 19.02.2019 | [Muta e-mail la Office 365](/AlchemyInsights/move-email-to-office-365) | modificate |
+| 19.02.2019 | [Restaurare şters cutia poştală](/AlchemyInsights/restore-deleted-mailbox) | modificate |
+| 21.02.2019 | [Cum sa instalam Mac Office din portal](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | redenumit |
+| 22.02.2019 | [1048 5.7.750 Serviciu indisponibil. Clientul blocat la trimiterea la neînregistrate de domenii](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificate |
+| 22.02.2019 | [125 Noţiuni de bază o eroare invalid a da un permis în Outlook pe web?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | modificate |
+| 22.02.2019 | [126 obtinerea unei cutii poştale nu poate fi găsit de eroare în OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | modificate |
+| 22.02.2019 | [127 obtinerea un TenantAccessBlockedException eroare la accesarea e-mail?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificate |
+| 22.02.2019 | [128 obtinerea un TenantAccessBlockedException eroare la accesarea e-mail?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificate |
+| 22.02.2019 | [711 crea o listă de distribuire sau grup](/AlchemyInsights/711-creating-a-distribution-list-or-group) | modificate |
+| 22.02.2019 | [912 configurare orientarea Inbox pentru toată lumea în cadrul organizaţiei](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | modificate |
+| 22.02.2019 | [Elimina domeniu](/AlchemyInsights/remove-domain) | modificate |
+| 22.02.2019 | [Adăugaţi un grup la un sit SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | modificate |
+| 22.02.2019 | [Adauga un alt e-mail alias](/AlchemyInsights/add-another-email-alias) | modificate |
+| 22.02.2019 | [Adãugarea contactelor la O365 grup](/AlchemyInsights/add-contacts-to-o365-group) | modificate |
+| 22.02.2019 | [Schimbare UPN](/AlchemyInsights/change-upn) | modificate |
+| 22.02.2019 | [Schimbare permisiuni public folder](/AlchemyInsights/changing-public-folder-permissions) | modificate |
+| 22.02.2019 | [Schimbarea cutie poştală partajată trimitere ca comportamentul](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modificate |
+| 22.02.2019 | [Verifica starea de sincronizare AAD identitatea](/AlchemyInsights/check-aad-identity-sync-status) | modificate |
+| 22.02.2019 | [Compara planurile de Office 365](/AlchemyInsights/compare-office-365-plans) | modificate |
+| 22.02.2019 | [Creaţi un site clasic](/AlchemyInsights/create-a-classic-site) | modificate |
+| 22.02.2019 | [Creaţi un site SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificate |
+| 22.02.2019 | [Crearea de foldere publice](/AlchemyInsights/creating-public-folders) | modificate |
+| 22.02.2019 | [Sterge un site SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modificate |
+| 22.02.2019 | [Accesul utilizatorilor la SharePoint și OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | modificate |
+| 22.02.2019 | [Ai un "Parametru nu poate fi găsit" eroare?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificate |
+| 22.02.2019 | [Livrare de e-mail probleme?](/AlchemyInsights/having-email-delivery-issues-0) | modificate |
+| 22.02.2019 | [Livrare de e-mail probleme?](/AlchemyInsights/having-email-delivery-issues) | modificate |
+| 22.02.2019 | [Au probleme obtinerea Outlook să se conecteze?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificate |
+| 22.02.2019 | [Au probleme obtinerea Outlook să se conecteze?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificate |
+| 22.02.2019 | [Cum de a atribui licente de Office pentru utilizatorii de Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | modificate |
+| 22.02.2019 | [Cum să cumpere licenţe pentru abonamentul business Office 365](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | modificate |
+| 22.02.2019 | [Cum de a creşte de stocare in OneDrive pentru afaceri](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | modificate |
+| 22.02.2019 | [Cum să reactivaţi un abonament](/AlchemyInsights/how-to-reactivate-a-subscription) | modificate |
+| 22.02.2019 | [Creşte dimensiunea cutiei poştale pentru Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | modificate |
+| 22.02.2019 | [Creşte dimensiunea cutiei poştale pentru SMB SKUs](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | modificate |
+| 22.02.2019 | [Creşte dimensiunea cutiei poştale](/AlchemyInsights/increase-mailbox-size) | modificate |
+| 22.02.2019 | [Problema cu Skype pentru afaceri?](/AlchemyInsights/issue-with-skype-for-business) | modificate |
+| 22.02.2019 | [Gestiona conturile de utilizator sincronizat](/AlchemyInsights/manage-synchronized-user-accounts) | modificate |
+| 22.02.2019 | [Monitoriza utilizarea OneDrive și SharePoint şi activitate](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | modificate |
+| 22.02.2019 | [Reactivaţi un abonament](/AlchemyInsights/reactivate-a-subscription) | modificate |
+| 22.02.2019 | [Restaura o şterse OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | modificate |
+| 22.02.2019 | [Restaurarea unui grup de Office 365 utilizând Centrul de administrare Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | modificate |
+| 22.02.2019 | [Configurarea abonamentul Business Essentials este O365](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | modificate |
+| 22.02.2019 | [Sharing cu utilizatorii externi nu este de lucru](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modificate |
+| 22.02.2019 | [Încercarea de a găsi un proces?](/AlchemyInsights/trying-to-find-a-trial) | modificate |
+| 22.02.2019 | [Transforma externe sharing on sau off pentru SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modificate |
+| 22.02.2019 | [Transforma externe sharing on sau off pentru SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modificate |
+| 22.02.2019 | [Permisiunile utilizatorului](/AlchemyInsights/user-permissions) | modificate |
+| 22.02.2019 | [Când este generat declaraţia de facturare?](/AlchemyInsights/when-is-the-billing-statement-generated) | modificate |
+| 22.02.2019 | [Cum se verifică domeniu cu Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modificate |

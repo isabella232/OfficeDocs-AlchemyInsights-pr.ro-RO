@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938424"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244161"
 ---
 # <a name="how-to-create-an-email-signature"></a>Cum de a crea o semnătură de poştă electronică
 
 Dacă utilizaţi Outlook.com beta:
   
-- În partea de sus a paginii, selectaţi **Setări**![setari](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **setările de vizualizare full** \> **alcătuire şi răspunsul**. 
+- În partea de sus a paginii, selectaţi **Setări** \> **setările de vizualizare full** \> **alcătuire şi răspunsul**. 
     
 Dacă utilizaţi Outlook.com clasic:
   
-- În partea de sus a paginii, selectaţi **Setări**![setari](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opţiuni** \> **Mail** \> **Layout** \> **semnătură E-mail**. 
+- În partea de sus a paginii, selectaţi **Setări** \> **Opţiuni** \> **Mail** \> **Layout** \> **poştă electronică semnătură**. 
     
  **Notă:** Puteţi avea doar o singură semnătură pe cont. 
   
