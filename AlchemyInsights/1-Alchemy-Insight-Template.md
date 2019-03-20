@@ -1,5 +1,5 @@
 ---
-title: 'acelasi ca numele fişierului este cel mai bun [regula #-Descriere]'
+title: fel de nume de fişier este cel mai bun
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: ec979c2f2246fa06945b79bbb9348a7a57ad5180
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30634516"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683861"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Necesare alchimie antet H1, H2 pe nu funcţionează.
 Cele mai bune practici și liniile directoare pentru authoring de Alchemy:
 
 1. **Cuib alchimie intuiţii în dosare**- acest lucru va rupe structura de URL-ul. Suntem în căutarea în stabilirea acest lucru.
-1. Fişierele din folderul **AlchemyInsights** trebuie să aibă regula ID-ul şi numele de regulă la [alchimie partener portal](https://alchemyportal.azurewebsites.net) în numele fişierului.
-    1. ex. ***976-How-to-Enable-Litigation-Hold***
-1. Utiliza metadatele în partea de sus a acestui fișier ca șablon. Nimic altceva nu este necesară.
+1. Fişierele din folderul **AlchemyInsights** trebuie să aibă minuscule de fişiere cu cratime pentru spaţiile ex. ***Cum-la spre-enable--litigiu***.
+    1. Includ ID regula ID sau găleată din [alchimie partener portal](https://alchemyportal.azurewebsites.net) în domeniul ms.custom. ex. ***MS.Custom: 100021***
+1. Utilizaţi restul de metadate în partea de sus a acestui fișier ca șablon.
 1. În [alchimie partener portal](https://alchemyportal.azurewebsites.net), navigaţi în jos la secţiunea **titlu de carte de vizita clientului:** și care, ca începând cu un punct pentru H1 titlu pentru înţelegere. 
     > [!NOTE]
     > Alchimia intuiţii trebuie să aibă doar un singur H1 la partea de sus sau se va intrerupe în producţie. H2s nu face atât utilizarea **îndrăzneţ** sau alte convenții înseamnă secţiuni separate.
@@ -33,9 +33,8 @@ Cele mai bune practici și liniile directoare pentru authoring de Alchemy:
     1. Liste numerotate prea
     1. **Bold** şi *cursive* sunt un-OK
     1. Link-uri ar trebui să fie întotdeauna **"link-uri la web" / extern** OR **adânc-link-uri la elemente de UI**, link-uri nu interne.
+    1. Imaginile nu sunt suportate oficial în acest moment, dar este pe foaia de parcurs.
 
 Şi acest lucru este într-adevăr deja un pic prea lung. Cele mai bune practici este de aproximativ 400 de caractere---
 
-Odată ce conţinutul este gata, trageţi-l la sucursala live. Apoi, du-te la [portalului Partner de alchimie](https://alchemyportal.azurewebsites.net) şi introduceţi numele fişierului în câmpul URL-ul. Asiguraţi-vă că Insight revizuite şi publicate spune "Da" şi apoi faceţi clic pe regulă de actualizare. **(Acest lucru va arata mai frumoasa în noua versiune a portalului - eliberarea în curând.)** 
- ![url field](media/for-content-team.PNG)
-
+Odată ce conţinutul este gata, trageţi-l la sucursala live. Apoi, du-te la [portalului Partner de alchimie](https://alchemyportal.azurewebsites.net) şi introduceţi numele fişierului în câmpul URL-ul. M
