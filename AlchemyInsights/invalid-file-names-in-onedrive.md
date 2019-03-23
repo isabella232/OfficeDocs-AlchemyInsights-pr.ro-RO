@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 2a447bcdabbf5661115861701eadb905d9dbc629
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: ab04deaeea52f2105b67d89fdc3f230efe2fdeed
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968393"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755994"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a><span data-ttu-id="6aa18-102">Invalid dosar şi pliant nume în OneDrive și SharePoint</span><span class="sxs-lookup"><span data-stu-id="6aa18-102">Invalid file and folder names in OneDrive and SharePoint</span></span>
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a><span data-ttu-id="6ee1e-102">Invalid dosar şi pliant nume în OneDrive și SharePoint</span><span class="sxs-lookup"><span data-stu-id="6ee1e-102">Invalid file and folder names in OneDrive and SharePoint</span></span>
 
-<span data-ttu-id="6aa18-p101">Aceste caractere nu sunt permise în nume de fișiere și foldere " \* : \< \> ? / \ |</span><span class="sxs-lookup"><span data-stu-id="6aa18-p101">These characters aren't allowed in file and folder names " \* : \< \> ? / \ |</span></span> 
+<span data-ttu-id="6ee1e-103">Aceste caractere nu sunt permise în nume de fișiere și foldere " \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="6ee1e-103">These characters aren't allowed in file and folder names " \* : \< \> ?</span></span> <span data-ttu-id="6ee1e-104">/ \ |</span><span class="sxs-lookup"><span data-stu-id="6ee1e-104"></span></span> 
   
-<span data-ttu-id="6aa18-p102">Unele organizații nu au încă suport pentru # şi % pornit. Pentru a afla cum pentru a permite aceste personaje din organizaţie, consultaţi [Activarea # şi % suport](https://go.microsoft.com/fwlink/?linkid=862611).</span><span class="sxs-lookup"><span data-stu-id="6aa18-p102">Some organizations don't yet have support for # and % turned on. To learn how to allow these characters in your organization, see [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611).</span></span> 
+<span data-ttu-id="6ee1e-105">Unele organizații nu au încă suport pentru # şi % pornit.</span><span class="sxs-lookup"><span data-stu-id="6ee1e-105">Some organizations don't yet have support for # and % turned on.</span></span> <span data-ttu-id="6ee1e-106">Pentru a afla cum pentru a permite aceste personaje din organizaţie, consultaţi [Activarea # şi % suport](https://go.microsoft.com/fwlink/?linkid=862611).</span><span class="sxs-lookup"><span data-stu-id="6ee1e-106">To learn how to allow these characters in your organization, see [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611).</span></span> 
   
-[<span data-ttu-id="6aa18-107">Mai multe informaţii despre restricţiile de nume de fişier şi folder</span><span class="sxs-lookup"><span data-stu-id="6aa18-107">More info about file and folder name restrictions</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
+[<span data-ttu-id="6ee1e-107">Mai multe informaţii despre restricţiile de nume de fişier şi folder</span><span class="sxs-lookup"><span data-stu-id="6ee1e-107">More info about file and folder name restrictions</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

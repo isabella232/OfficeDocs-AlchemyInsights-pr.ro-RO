@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 55529265d2356a911624026107fb639f93e29abd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 518261787b1b0df99ee7b3dc3e51dec70e4373bc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925392"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755166"
 ---
-# <a name="adfs-federation-certificate-expiring"></a><span data-ttu-id="ed093-102">PERIMAT Federaţia certificatul expiră</span><span class="sxs-lookup"><span data-stu-id="ed093-102">ADFS Federation Certificate Expiring</span></span>
+# <a name="adfs-federation-certificate-expiring"></a><span data-ttu-id="b0baa-102">PERIMAT Federaţia certificatul expiră</span><span class="sxs-lookup"><span data-stu-id="b0baa-102">ADFS Federation Certificate Expiring</span></span>
 
-<span data-ttu-id="ed093-103">Pentru a rezolva această problemă, urmaţi aceşti paşi:</span><span class="sxs-lookup"><span data-stu-id="ed093-103">To resolve this issue, follow these steps:</span></span>
+<span data-ttu-id="b0baa-103">Pentru a rezolva această problemă, urmaţi aceşti paşi:</span><span class="sxs-lookup"><span data-stu-id="b0baa-103">To resolve this issue, follow these steps:</span></span>
   
-1. <span data-ttu-id="ed093-p101">Instalaţi Microsoft Azure Active Director modulul pentru Windows PowerShell pe calculator (în cazul în care modulul nu este deja instalat). Pentru aceasta, accesaţi [Manage AD azuriu utilizând Windows PowerShell](https://aka.ms/aadposh).</span><span class="sxs-lookup"><span data-stu-id="ed093-p101">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed). To do this, go to [Manage Azure AD using Windows PowerShell](https://aka.ms/aadposh).</span></span>
+1. <span data-ttu-id="b0baa-104">Instalaţi Microsoft Azure Active Director modulul pentru Windows PowerShell pe calculator (în cazul în care modulul nu este deja instalat).</span><span class="sxs-lookup"><span data-stu-id="b0baa-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="b0baa-105">Pentru aceasta, accesaţi [Manage AD azuriu utilizând Windows PowerShell](https://aka.ms/aadposh).</span><span class="sxs-lookup"><span data-stu-id="b0baa-105">To do this, go to [Manage Azure AD using Windows PowerShell](https://aka.ms/aadposh).</span></span>
     
-2. <span data-ttu-id="ed093-106">Urmaţi paşii din "scenariul 1: AD FS token-semnarea certificat expirat" secţiunea de [eroare "a fost o problemă de accesarea site-ului" de la AD FS atunci când un utilizator federalizate semnele Office 365, Azure, sau Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span><span class="sxs-lookup"><span data-stu-id="ed093-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Office 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
+2. <span data-ttu-id="b0baa-106">Urmaţi paşii din "scenariul 1: AD FS token-semnarea certificat expirat" secţiunea de [eroare "a fost o problemă de accesarea site-ului" de la AD FS atunci când un utilizator federalizate semnele Office 365, Azure, sau Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span><span class="sxs-lookup"><span data-stu-id="b0baa-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Office 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
     
-3. <span data-ttu-id="ed093-107">Urmaţi paşii din [Cum pentru a actualiza sau a repara setările de un domeniu federativ în Office 365, Azure, sau Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).</span><span class="sxs-lookup"><span data-stu-id="ed093-107">Follow the steps in [How to update or repair the settings of a federated domain in Office 365, Azure, or Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).</span></span>
+3. <span data-ttu-id="b0baa-107">Urmaţi paşii din [Cum pentru a actualiza sau a repara setările de un domeniu federativ în Office 365, Azure, sau Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).</span><span class="sxs-lookup"><span data-stu-id="b0baa-107">Follow the steps in [How to update or repair the settings of a federated domain in Office 365, Azure, or Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).</span></span>
     
-    <span data-ttu-id="ed093-108">Pentru a afla mai multe despre certificate de Federaţia de reînnoire, a se vedea [Renew Federaţia certificate pentru Office 365 şi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="ed093-108">To learn more about renewing Federation certificates, see [Renew federation certificates for Office 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
+    <span data-ttu-id="b0baa-108">Pentru a afla mai multe despre certificate de Federaţia de reînnoire, a se vedea [Renew Federaţia certificate pentru Office 365 şi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="b0baa-108">To learn more about renewing Federation certificates, see [Renew federation certificates for Office 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
     
 
