@@ -1,39 +1,37 @@
 ---
-title: App parole
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app parole
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938244"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762544"
 ---
 # <a name="app-passwords"></a>App parole
 
-O parolă de app este un cod care dă un app sau dispozitiv permisiunea de a accesa contul Office 365. În cazul în care dumneavoastră admin a pornit multi-factor de autentificare a organizaţiei, şi utilizaţi aplicaţii care se conectează la contul Office 365, trebuie să genera o parolă de app app se poate conecta la Office 365. De exemplu, dacă utilizaţi Outlook 2016 sau mai devreme cu Office 365, trebuie să creaţi o parolă de app.
+O parolă de app este un cod care dă un app sau dispozitiv permisiunea de a accesa activitatea dumneavoastră de Office 365 sau şcoală cont. În cazul în care contul dumneavoastră necesită autentificare multi-factor (MAE), şi aplicaţia se conectează la contul dvs., aveţi nevoie pentru a genera o parolă de app app se poate conecta la Office 365. De exemplu, Outlook 2016 şi versiunile anterioare Outlook de necesită o parolă de app.
   
-1. Verificaţi dacă vă admin Office 365 a pornit multi-factor de autentificare pentru contul dvs. În cazul în care acestea nu au, atunci când încercaţi să facă aceşti paşi nu veţi vedea opţiuni în Office 365.
+ **Notă**: înainte să încercaţi următorii paşi, verifica cu al tău admin Office 365 că Mae este necesară pentru contul dvs. Dacă nu este, opţiunile descrise în paşii nu va fi disponibil pentru tine.
+  
+1. Faceţi sign in la Office 365 cu munca sau scoala de cont şi parola.
     
-2. Conectați-vă la Office 365 cu contul de lucru sau şcoală cu parola cum ai face în mod normal. După ce selectaţi **conectaţi-vă**, veţi vedea o pagină cu numele de utilizator şi o serie de opţiuni 
+2. Alege **înfiinţat acum**.
     
-3. Alege **înfiinţat acum**. 
+3. Selectaţi metoda de autentificare şi urmaţi instrucţiunile.
     
-4. Selectaţi metoda de autentificare şi apoi urmaţi instrucţiunile de pe pagina.
+4. Dupa ce se verifica ţi metoda de contact alternativ, alege **următoarea**.
     
-5. Dupa ce se verifica ţi metoda de contact alternativ, alege **următoarea**. 
-    
-6. Vei primi o parola de app care se pot utiliza cu Outlook, Apple Mail, etc. Selectaţi pictograma copie pentru a copia parola în clipboard. Nu trebuie sa memoreze parola. 
-    
-7. Când vă adăuga contul de e-mail Office 365 la Outlook (sau un alt app), şi vi se solicită o parolă, trecut acest app parola în caseta parolă, în loc să tastaţi parola contului. 
+5. Vei primi o parola de app care se pot utiliza cu Outlook, Apple Mail şi alte aplicaţii care necesita acest lucru. Alegeţi **copie** pentru a copia parola, astfel încât puteţi să lipiţi-l în altă parte (nu aveţi nevoie să memoreze acesta). 
     
 
