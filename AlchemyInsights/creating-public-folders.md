@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: ec33ae6f35f22666185ae3e45c2222329e8f9207
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 12f1e81eaafc2650482803796fc20fd7f8b3bd55
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208129"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756246"
 ---
 # <a name="creating-public-folders"></a>Crearea de foldere publice
 
@@ -28,7 +28,7 @@ ms.locfileid: "30208129"
     
 3. În **Public pliant poştală**, furnizaţi un nume pentru cutia poştală de public folder.
     
-4. Faceți clic pe **Salvați**.
+4. Faceţi clic pe **Salvaţi**.
     
 Odată ce s-a creat o cutie poştală, puteţi începe crearea de foldere individuale sau spune ca utilizatorii să [începeţi crearea şi utilizarea folderelor publice în Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97). Ca administrator, puteţi, de asemenea, [crea foldere publice pentru organizaţia dvs](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).
   
