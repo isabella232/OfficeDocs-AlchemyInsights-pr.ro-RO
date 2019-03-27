@@ -9,54 +9,54 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: d346cf97fb2fd08a9132904517192d8728ffa941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1320c0fe839337188162824439be6f15f86b6c90
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924708"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767188"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="1a784-102">Depanarea sincronizarea parolelor</span><span class="sxs-lookup"><span data-stu-id="1a784-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="b5b40-102">Depanarea sincronizarea parolelor</span><span class="sxs-lookup"><span data-stu-id="b5b40-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="1a784-103">Pentru a depana probleme în cazul în care parolele nu sunt sincronizate cu Azure AD conecta versiunea 1.1.614.0 sau o versiune ulterioară:</span><span class="sxs-lookup"><span data-stu-id="1a784-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
+<span data-ttu-id="b5b40-103">Pentru a depana probleme în cazul în care parolele nu sunt sincronizate cu Azure AD conecta versiunea 1.1.614.0 sau o versiune ulterioară:</span><span class="sxs-lookup"><span data-stu-id="b5b40-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
   
-1. <span data-ttu-id="1a784-104">Deschideti o noua sesiune de Windows PowerShell pe serverul AD Azure Connect cu opţiunea de **a alerga as Administrator** .</span><span class="sxs-lookup"><span data-stu-id="1a784-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
+1. <span data-ttu-id="b5b40-104">Deschideti o noua sesiune de Windows PowerShell pe serverul AD Azure Connect cu opţiunea de **a alerga as Administrator** .</span><span class="sxs-lookup"><span data-stu-id="b5b40-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
     
-2. <span data-ttu-id="1a784-105">Executați **Set-ExecutionPolicy RemoteSigned** sau **Set-ExecutionPolicy nerestricționată**.</span><span class="sxs-lookup"><span data-stu-id="1a784-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
+2. <span data-ttu-id="b5b40-105">Executați **Set-ExecutionPolicy RemoteSigned** sau **Set-ExecutionPolicy nerestricționată**.</span><span class="sxs-lookup"><span data-stu-id="b5b40-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
     
-3. <span data-ttu-id="1a784-106">Porni Expertul Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="1a784-106">Start the Azure AD Connect wizard.</span></span>
+3. <span data-ttu-id="b5b40-106">Porni Expertul Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="b5b40-106">Start the Azure AD Connect wizard.</span></span>
     
-4. <span data-ttu-id="1a784-107">Navigaţi la \*\* sarcini suplimentare \*\* filme, selectaţi \*\* depanarea \*\*, faceți clic pe **Următorul**.</span><span class="sxs-lookup"><span data-stu-id="1a784-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
+4. <span data-ttu-id="b5b40-107">Navigaţi la \*\* sarcini suplimentare \*\* filme, selectaţi \*\* depanarea \*\*, faceți clic pe **Următorul**.</span><span class="sxs-lookup"><span data-stu-id="b5b40-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
     
-5. <span data-ttu-id="1a784-108">Pagina de depanare, faceţi clic pe meniul de **lansare pentru a începe depanarea** în PowerShell.</span><span class="sxs-lookup"><span data-stu-id="1a784-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
+5. <span data-ttu-id="b5b40-108">Pagina de depanare, faceţi clic pe meniul de **lansare pentru a începe depanarea** în PowerShell.</span><span class="sxs-lookup"><span data-stu-id="b5b40-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
     
-6. <span data-ttu-id="1a784-109">În meniul principal, selectaţi **Depanarea sincronizarea parolelor**.</span><span class="sxs-lookup"><span data-stu-id="1a784-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
+6. <span data-ttu-id="b5b40-109">În meniul principal, selectaţi **Depanarea sincronizarea parolelor**.</span><span class="sxs-lookup"><span data-stu-id="b5b40-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
     
-7. <span data-ttu-id="1a784-110">În sub-meniu, selectaţi **sincronizarea parolelor nu funcţionează deloc**.</span><span class="sxs-lookup"><span data-stu-id="1a784-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
+7. <span data-ttu-id="b5b40-110">În sub-meniu, selectaţi **sincronizarea parolelor nu funcţionează deloc**.</span><span class="sxs-lookup"><span data-stu-id="b5b40-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
     
- <span data-ttu-id="1a784-111">**Intelege rezultatele misiunii depanare**</span><span class="sxs-lookup"><span data-stu-id="1a784-111">**Understand the results of the troubleshooting task**</span></span>
+ <span data-ttu-id="b5b40-111">**Intelege rezultatele misiunii depanare**</span><span class="sxs-lookup"><span data-stu-id="b5b40-111">**Understand the results of the troubleshooting task**</span></span>
   
-<span data-ttu-id="1a784-112">Sarcina depanare efectuează următoarele verificări:</span><span class="sxs-lookup"><span data-stu-id="1a784-112">The troubleshooting task performs the following checks:</span></span>
+<span data-ttu-id="b5b40-112">Sarcina depanare efectuează următoarele verificări:</span><span class="sxs-lookup"><span data-stu-id="b5b40-112">The troubleshooting task performs the following checks:</span></span>
   
-- <span data-ttu-id="1a784-113">Validează că funcţia de sincronizare parolare este activată pentru chiriaşul dumneavoastră azuriu AD.</span><span class="sxs-lookup"><span data-stu-id="1a784-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+- <span data-ttu-id="b5b40-113">Validează că funcţia de sincronizare parolare este activată pentru chiriaşul dumneavoastră azuriu AD.</span><span class="sxs-lookup"><span data-stu-id="b5b40-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
     
-- <span data-ttu-id="1a784-114">Validează că Azure AD Connect server nu este în modul de așteptare.</span><span class="sxs-lookup"><span data-stu-id="1a784-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+- <span data-ttu-id="b5b40-114">Validează că Azure AD Connect server nu este în modul de așteptare.</span><span class="sxs-lookup"><span data-stu-id="b5b40-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
     
-- <span data-ttu-id="1a784-115">Pentru fiecare existente local Active Directory connector, (care corespunde la o pădure Active Directory existente):</span><span class="sxs-lookup"><span data-stu-id="1a784-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
+- <span data-ttu-id="b5b40-115">Pentru fiecare existente local Active Directory connector, (care corespunde la o pădure Active Directory existente):</span><span class="sxs-lookup"><span data-stu-id="b5b40-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
     
 - 
-  - <span data-ttu-id="1a784-116">Validează faptul că este activată caracteristica de sincronizare parola.</span><span class="sxs-lookup"><span data-stu-id="1a784-116">Validates that the password synchronization feature is enabled.</span></span>
+  - <span data-ttu-id="b5b40-116">Validează faptul că este activată caracteristica de sincronizare parola.</span><span class="sxs-lookup"><span data-stu-id="b5b40-116">Validates that the password synchronization feature is enabled.</span></span>
     
-  - <span data-ttu-id="1a784-117">Căutările pentru parola sincronizare emoţie evenimente în jurnalele de evenimente de aplicaţie Windows.</span><span class="sxs-lookup"><span data-stu-id="1a784-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
+  - <span data-ttu-id="b5b40-117">Căutările pentru parola sincronizare emoţie evenimente în jurnalele de evenimente de aplicaţie Windows.</span><span class="sxs-lookup"><span data-stu-id="b5b40-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
     
-  - <span data-ttu-id="1a784-118">Pentru fiecare domeniu Active Directory în conectorul de Active Directory local:</span><span class="sxs-lookup"><span data-stu-id="1a784-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
+  - <span data-ttu-id="b5b40-118">Pentru fiecare domeniu Active Directory în conectorul de Active Directory local:</span><span class="sxs-lookup"><span data-stu-id="b5b40-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
     
-  - <span data-ttu-id="1a784-119">Validează că domeniul este accesibilă de pe serverul AD Azure Connect.</span><span class="sxs-lookup"><span data-stu-id="1a784-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
+  - <span data-ttu-id="b5b40-119">Validează că domeniul este accesibilă de pe serverul AD Azure Connect.</span><span class="sxs-lookup"><span data-stu-id="b5b40-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
     
-  - <span data-ttu-id="1a784-120">Validează că serviciile de domeniu Active Directory (AD DS) conturile utilizate de conectorul de Active Directory local are corect numele de utilizator, parola şi permisiunile necesare pentru sincronizarea parolelor.</span><span class="sxs-lookup"><span data-stu-id="1a784-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
+  - <span data-ttu-id="b5b40-120">Validează că serviciile de domeniu Active Directory (AD DS) conturile utilizate de conectorul de Active Directory local are corect numele de utilizator, parola şi permisiunile necesare pentru sincronizarea parolelor.</span><span class="sxs-lookup"><span data-stu-id="b5b40-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
     
-<span data-ttu-id="1a784-121">Pentru mai mult ajutor parola sincronizare de depanare, consultaţi [Depanarea sincronizarea parolelor cu Azure AD conecta sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="1a784-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
+<span data-ttu-id="b5b40-121">Pentru mai mult ajutor parola sincronizare de depanare, consultaţi [Depanarea sincronizarea parolelor cu Azure AD conecta sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="b5b40-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
   
 
