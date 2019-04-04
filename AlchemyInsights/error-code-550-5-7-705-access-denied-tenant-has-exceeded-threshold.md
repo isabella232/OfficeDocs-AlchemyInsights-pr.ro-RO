@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907752"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397018"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 access denied, chiriaşul a depăşit pragul de
 
-Acest mesaj apare atunci cand prea mult spam sau bulk mail a fost trimis de organizaţia Office 365. Pentru a elimina acest bloc, aveţi nevoie pentru a înţelege şi explica cauza la un agent de suport, precum şi corecta problema care stau la baza.
-  
+Acest mesaj apare atunci cand prea mult spam sau bulk mail a fost trimis de organizaţie şi punem un bloc pe outgoing mail.
+Cauzele frecvente sunt serverele locale compromise sau conturi compromise admin care au fost folosite pentru a crea conectori. Vreuna dintre condiţiile poate permite spam să treacă prin intermediul organizaţiei dvs.
+
+Pentru a elimina acest bloc, aveţi nevoie pentru a înţelege şi explica cauza la un agent de suport, precum şi corecta problema care stau la baza.
+Faceţi clic pe **contactaţi-ne** mai jos odată ce sunteţi gata.
 
