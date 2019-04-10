@@ -1,6 +1,6 @@
 ---
 title: Creaţi un site SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764596"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747754"
 ---
 # <a name="create-a-site"></a>Creaţi un site
 
-Puteţi crea diferite tipuri de site-uri SharePoint Online. Pentru a crea una dintre noile tipuri de site-ul, consultaţi aceste subiecte.
-  
-- [Creaţi un site de echipă care are un grup de Office 365](https://go.microsoft.com/fwlink/?linkid=866292)
+Puteţi crea diferite tipuri de site-uri SharePoint Online. Pentru a afla cum să faceţi acest lucru în noul centru de administrare SharePoint, consultaţi [crearea unui site](https://go.microsoft.com/fwlink/?linkid=866295). Pentru informaţii despre care permite utilizatorilor să creeze propriile site-uri, consultaţi [crearea de site-ul administrare în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+Pentru informaţii despre noile tipuri de site-ul, Vezi [Grupa conectat la site-uri echipa](https://go.microsoft.com/fwlink/?linkid=866292) sau [site-uri de comunicare](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Creați un site de comunicare în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-Puteţi crea, de asemenea, aceste site-uri din nou SharePoint admin centrul de previzualizare.
-  
-Pentru a crea un site clasic, efectuaţi una din următoarele:
-  
-- Du-te la [pagina de site-uri în centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/SitesList), şi apoi selectaţi **adăugaţi un site**.
-    
-- În centrul de administrare SharePoint clasic, pe site-ul colecţii pagina, selectati **New** \> **Privat colecției de site-uri**.
-    
-Pentru mai multe detalii, consultaţi [crearea o colecţie de site-ul](https://go.microsoft.com/fwlink/?linkid=866295). Pentru informaţii despre care permite utilizatorilor să creeze propriile site-uri, consultaţi [crearea de site-ul administrare în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 

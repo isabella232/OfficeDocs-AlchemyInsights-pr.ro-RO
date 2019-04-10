@@ -484,55 +484,23 @@
 | 28.03.2019 | [Limita SharePoint Online la modul clasic](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | redenumit |
 
 
-## <a name="week-of-february-25-2019"></a>Săptămâna 25 februarie 2019
+## <a name="week-of-april-01-2019"></a>Săptămâna de 1 aprilie 2019
 
 
 | Publicat pe |Titlul subiectului | Schimbare |
 |------|------------|--------|
-| 25.02.2019 | [1800014 lua în app suport pentru Outlook mobile app](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | modificate |
-| 25.02.2019 | [1800014 set up e-mail în Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | modificate |
-| 25.02.2019 | [8000001 nap off concentrat Inbox](/AlchemyInsights/8000001-turn-off-focused-inbox) | modificate |
-| 25.02.2019 | [8000009 creaţi un folder în Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | modificate |
-| 25.02.2019 | [8000012 şterge o persoană de contact în Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | modificate |
-| 25.02.2019 | [8000013 schimba fontul în Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | modificate |
-| 25.02.2019 | [8000014 cum se schimba limba în Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | modificate |
-| 25.02.2019 | [8000015 bloc sau deblocarea expeditori](/AlchemyInsights/8000015-block-or-unblock-senders) | modificate |
-| 25.02.2019 | [8000015 primi e-mail de la blocat expeditorii din Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | modificate |
-| 25.02.2019 | [8000029 se ocupa de phishing în Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | modificate |
-| 25.02.2019 | [8000029 deal cu spam în Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | modificate |
-| 25.02.2019 | [8000029 a face cu spam sau phishing în Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificate |
-| 25.02.2019 | [8000033 cum pentru a răspunde sau transmite mesaje în Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificate |
-| 25.02.2019 | [Confirmările de citire 8000034 în Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modificate |
-| 25.02.2019 | [8000036 schimba numele dumneavoastră de e-mail în Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | modificate |
-| 25.02.2019 | [8000046 imprimare e-mail şi calendare în Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | modificate |
-| 25.02.2019 | [8000047 cum să creaţi o semnătură de poştă electronică în Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | modificate |
-| 25.02.2019 | [8000052 ataşaţi fişierele în Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | modificate |
-| 25.02.2019 | [8000059 cum de a schimba tema de acţiune (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | modificate |
-| 25.02.2019 | [Recomandat de paşi pentru a lua în cazul în care un cont este compromisă](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modificate |
-| 26.02.2019 | [Restaurarea unui grup de Office 365 şterse](/AlchemyInsights/restore-a-deleted-office-365-group) | modificate |
-| 26.02.2019 | [9000215 Outlook.com abonamente](/AlchemyInsights/9000215-outlook-com-subscriptions) | adăugat |
-| 27.02.2019 | [9000199 PST fişiere în Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | adăugat |
-| 27.02.2019 | [9000202 Outlook.com opţiuni](/AlchemyInsights/9000202-outlook-com-options) | adăugat |
-| 27.02.2019 | [9000203 Outlook.com filtre](/AlchemyInsights/9000203-outlook-com-filters) | adăugat |
-| 28.02.2019 | [8000036 schimba profilul pic/numele Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | adăugat |
-| 28.02.2019 | [8000049 iconita Skype lipseşte în Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | adăugat |
-| 28.02.2019 | [8000088 salva e-mail în Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | adăugat |
-| 28.02.2019 | [9000071 nu tastaţi @ simbol pe Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | adăugat |
-| 28.02.2019 | [9000193 anulare muta sau şterge în Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | adăugat |
-| 28.02.2019 | [9000198 Outlook.com Calendar Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | adăugat |
-| 01.03.2019 | [8000035 cere să reveniți la Outlook.com beta clasic Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | adăugat |
-| 01.03.2019 | [8000035 cum sa faci aspectul Outlook.com noi ca cel vechi](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | adăugat |
-| 01.03.2019 | [8000043 POP, IMAP şi SMTP aranjare pentru Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | adăugat |
-| 01.03.2019 | [8000090 Outlook.com selectaţi toate](/AlchemyInsights/8000090-outlook-com-select-all) | adăugat |
-| 01.03.2019 | [8000091 Outlook.com reacţiona pop-up](/AlchemyInsights/8000091-outlook-com-react-pop-up) | adăugat |
-| 01.03.2019 | [Sursa 8000092 Outlook.com mesaj](/AlchemyInsights/8000092-outlook-com-view-message-source) | adăugat |
-| 01.03.2019 | [8000093 permisiunile de cont Outlook.com conectat](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | adăugat |
-| 01.03.2019 | [1800009Outlook pentru Mac în app suport](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | modificate |
-| 01.03.2019 | [8000057 link-uri în condiţii de siguranţă în Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | modificate |
-| 01.03.2019 | [9000232 agendă Outlook.com](/AlchemyInsights/9000232-outlook-com-address-book) | adăugat |
-| 01.03.2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | adăugat |
-| 01.03.2019 | [9000234 Outlook.com eroare internă de server](/AlchemyInsights/9000234-outlook-com-internal-server-error) | adăugat |
-| 01.03.2019 | [9000236 Outlook.com Adăugare cont](/AlchemyInsights/9000236-outlook-com-add-account) | adăugat |
-| 01.03.2019 | [9000238 Outlook.com Adauga alias](/AlchemyInsights/9000238-outlook-com-add-alias) | adăugat |
-| 01.03.2019 | [9000239 expediere Outlook.com](/AlchemyInsights/9000239-outlook-com-forwarding) | adăugat |
-| 01.03.2019 | [9000240 Outlook.com răspunsuri](/AlchemyInsights/9000240-outlook-com-replies) | adăugat |
+| 01.04.2019 | [Permite ATP Office 365 pentru SharePoint, OneDrive şi Microsoft echipe](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | adăugat |
+| 01.04.2019 | [Programul de instalare Office 365 Advanced ameninţare protecţie (ATP)](/AlchemyInsights/office-365-atp-setup) | adăugat |
+| 01.04.2019 | [9000071 nu tastaţi @ simbol pe Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | redenumit |
+| 01.04.2019 | [Restaurarea unui grup de Office 365 utilizând Centrul de administrare Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | modificate |
+| 01.04.2019 | [Depanarea problemelor cu Office 365 avansate ameninţare protecţie (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | adăugat |
+| 02.04.2019 | Etichete clasificarea în Office 365 | adăugat |
+| 02.04.2019 | Date pierderea prevenirea (DLP) Prezentare generală | adăugat |
+| 02.04.2019 | Aplicatie desktop pentru SharePoint | adăugat |
+| 02.04.2019 | Limite de site-ul hub şi restricţii | adăugat |
+| 02.04.2019 | OneDrive: Lipsă fişiere sau foldere | adăugat |
+| 02.04.2019 | Salvare listă sau site-ul ca un şablon | adăugat |
+| 02.04.2019 | SharePoint hub site-uri prezentare generală | adăugat |
+| 02.04.2019 | Site-ul şi structura conţinutului eliminat | adăugat |
+| 02.04.2019 | Depanarea Error 404 Fişier negăsit | adăugat |
+| 03.04.2019 | [Cod de eroare 550 5.7.705 Access denied, chiriaşul a depăşit pragul de](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modificate |

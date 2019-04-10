@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941772"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747862"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Împărtăşesc un fișier sau un folder în SharePoint sau OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941772"
   - **Anumite persoane** oferă acces doar la persoanele pe care le specificaţi, deşi alte persoane pot avea deja acces. Dacă oamenii transmite invitaţia partajare, numai persoanele care au deja acces la elementul va fi capabil de a utiliza link-ul. 
     
     > [!NOTE]
-    > În cazul în care una dintre aceste opţiuni nu sunt disponibile, sau dacă doriţi un tip de link-ul de diferite să apară în mod implicit, puteţi schimba setările la nivel de organizaţie merge la centrul de administrare SharePoint clasic şi făcând clic pe **Partajare** din panoul din stânga. [Aflaţi mai multe](https://go.microsoft.com/fwlink/?linkid=866426)
+    > În cazul în care una dintre aceste opţiuni nu sunt disponibile, sau dacă doriţi un tip de link-ul de diferite să apară în mod implicit, puteţi schimba setările la nivel de organizaţie merge la centrul de administrare SharePoint nouă şi făcând clic pe **Partajare** din panoul din stânga. [află mai multe](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. În mod implicit, **permite editarea** este pornit. Dacă doriţi oameni pentru a vizualiza numai fişiere, goliţi caseta de selectare. 
     

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 9e46335584c21d3d464a68a85f52a2f6c3c91a28
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 6bd3ae49d26594200ed6c46bb7f6138f1ae6100c
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762652"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747718"
 ---
 # <a name="restore-a-deleted-subsite"></a>Restaura un subsite şterse
 
 Subsite-urile şterse sunt trimise la colecția de site-ul Recycle Bin, în cazul în care acestea sunt păstrate pentru 93 zile. Pentru a restaura un subsite şterse:
   
-1. În noul centru de administrare SharePoint (preview) sau clasic centrul de administrare SharePoint, găsi o colecţie de site-ul la care a fost şters subsite și asigurați-vă că sunteţi un sitului de colectare. 
+1. În noul centru de administrare SharePoint, găsi locul din care a fost şters de subsite și asigurați-vă că sunteţi un sitului de colectare. 
     
-2. Du-te la colecția de site-ul. Faceţi clic pe **Coș** în panoul din stânga. (În cazul în care nu veţi vedea coşul de gunoi, faceţi clic pe pictograma Setări, şi apoi faceţi clic pe **conţinutul site-ului**. Coșul de reciclare este pe extrema dreaptă din bara de comenzi din partea de sus.)
+2. Du-te la site-ul. Faceţi clic pe **Coș** în panoul din stânga. (În cazul în care nu veţi vedea coşul de gunoi, faceţi clic pe pictograma Setări, şi apoi faceţi clic pe **conţinutul site-ului**. Coșul de reciclare este pe extrema dreaptă din bara de comenzi din partea de sus.)
     
 3. În partea de jos a paginii, faceţi clic pe **doua trepte recycle bin**.
     

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 700e6d24e49cf11bf91780895f5a796cc1d8349d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753438"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747610"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Remediați problemele conținut SharePoint de partajare cu utilizatorii externi
 
@@ -28,13 +28,13 @@ Asiguraţi-vă că partajarea externă este activată pentru organizaţie:
     
 Asiguraţi-vă că extern de partajare-l activat pentru site-ul. Pentru o colecţie de site-ul clasic:
   
-1. În centrul de administrare SharePoint clasic, în panoul din stânga, faceţi clic pe **site-ul colecţii**.
+1. În noul centru de administrare SharePoint, în panoul din stânga, faceţi clic pe **site-uri**.
     
 2. Selectaţi site-ul sau site-uri, şi panglică, faceţi clic pe **Partajare**.
     
 Pentru un site de echipă, care aparţine unui grup de Office 365, sau un site de comunicare:
   
-- Aceste tipuri de site-ul nou au setarea partajare aceeaşi ca setarea de nivel de organizaţie, dacă setarea de nivel de organizaţie permite partajarea fişierelor folosind link-uri care nu necesită autentificare. În acest caz, site-uri permite partajarea cu noi și existente de utilizatori externi care semnează în. Pentru a modifica setarea pentru anumite site-uri, utilizaţi noul centru de administrare SharePoint (preview) sau PowerShell. [Aflaţi mai multe](https://go.microsoft.com/fwlink/?linkid=871863).
+- Aceste tipuri de site-ul nou au setarea partajare aceeaşi ca setarea de nivel de organizaţie, dacă setarea de nivel de organizaţie permite partajarea fişierelor folosind link-uri care nu necesită autentificare. În acest caz, site-uri permite partajarea cu noi și existente de utilizatori externi care semnează în. Pentru a modifica setarea pentru anumite site-uri, utilizaţi centrul de administrare SharePoint noi sau PowerShell. [Aflaţi mai multe](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > Setarea de partajare externă pentru orice site poate fi mai restrictive decât setarea de nivel de organizaţie, dar nu mai permisivă decât setarea de nivel de organizaţie. 

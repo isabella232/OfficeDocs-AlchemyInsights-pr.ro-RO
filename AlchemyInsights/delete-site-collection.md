@@ -1,5 +1,5 @@
 ---
-title: Şterge site-ul de colectare
+title: Sterge un Site
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757542"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747574"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>Ştergeţi o colecţie de site-ul SharePoint
+# <a name="delete-a-sharepoint-site"></a>Sterge un site SharePoint
 
-1. În centrul de administrare SharePoint clasic, pe site-ul colecţii de filme, selectaţi caseta de lângă colecției de site-uri.
+1. În noul centru de administrare SharePoint, în pagina de site-uri, faceţi clic pe caseta de lângă site-ul pe care doriţi să ştergeţi.
     
-2. Pe fila de colecții de site-ul, selectaţi **şterge**.
+2. Pe panglică de instrumente, faceţi clic pe **Ştergere**.
     
 

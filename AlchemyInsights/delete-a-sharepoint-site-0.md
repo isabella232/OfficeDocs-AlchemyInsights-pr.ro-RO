@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754662"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748006"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Şterge site-uri care aparţin unui grup de Office 365:
 
-Atunci când utilizatorii să creeze un nou site de echipa de SharePoint acasa (sau creaţi un nou site de echipă din nou SharePoint admin centrul previzualizare), un grup de Office 365 corespunzătoare se creează automat. Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams. Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine. 
+Atunci când utilizatorii creează un nou site de echipa de SharePoint acasa sau creaţi un nou site de echipă la noul centru de administrare SharePoint, un grup de Office 365 corespunzătoare se creează automat. Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams. Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine. 
   
 1. Du-te la [pagina de grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de 
   
 **Ştergeţi o colecţie de site-ul SharePoint:**
 
-Pentru a şterge o colecţie de site-ul clasic:
+Pentru a şterge un site:
   
-1. În centrul de administrare SharePoint clasic, pe site-ul colecţii de filme, selectaţi **caseta de selectare** de lângă colecției de site-uri. 
+1. În noul centru de administrare SharePoint, în pagina de site-uri, faceţi clic pe **caseta de selectare** de lângă site-ul pe care îl ștergeți. 
     
-2. Pe fila de colecții de site-ul, selectaţi **şterge.**
+2. Panglică de instrumente, faceţi clic pe **Ștergeți.**
     
 **Elimină un site de accident?**
 
