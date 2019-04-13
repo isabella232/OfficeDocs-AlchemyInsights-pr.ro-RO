@@ -12,15 +12,13 @@ ms.custom:
 - "415"
 - "414"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 6856ce68e9b937f5163799396630658f0aee7226
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: b49faf3268263b0b505abc5307978d2e4b08d5b8
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780818"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857352"
 ---
 # <a name="search-experience-updated"></a>Experienţa de căutare actualizat
 
 Căutare este acum situat în partea de jos a aplicaţiei. Atingând pe ea vă oferă acces direct top contacte, rutelor de călătorie viitoare, pachet livrări şi recente ataşamente. Puteţi căuta mesajele de e-mail, fişiere şi contacte în oricare dintre conturile dumneavoastră la o caseta de căutare unică sau utilizaţi noastre noi filtre pentru a restrânge căutarea.
-  
-
