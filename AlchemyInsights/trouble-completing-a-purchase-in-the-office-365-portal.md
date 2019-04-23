@@ -1,5 +1,5 @@
 ---
-title: Probleme cu finalizarea o achiziţie în portalul Office 365
+title: Probleme la finalizarea unei achiziții în portalul Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405155"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754770"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="fadba-102">Probleme cu finalizarea o achiziţie în portalul Office 365</span><span class="sxs-lookup"><span data-stu-id="fadba-102">Trouble completing a purchase in the Office 365 portal</span></span>
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="facbd-102">Probleme la finalizarea unei achiziții în portalul Office 365</span><span class="sxs-lookup"><span data-stu-id="facbd-102">Trouble completing a purchase in the Office 365 portal</span></span>
 
-<span data-ttu-id="fadba-p101">Atunci când încearcă să facă o achiziţie, dacă vi mai multe ori să facă sign in la portalul Office 365 sau primiţi un mesaj care a fost găsită o problemă, cel mai bun primul pas este să încercaţi să utilizaţi modul de inprivate/incognito browser-ul dumneavoastră. După deschiderea o fereastră inprivate/incognito, accesaţi site-ul [portal.office.com](https://portal.office.com) şi log in cu acreditările de admin. Apoi procedaţi pentru a finaliza achiziţia dvs.</span><span class="sxs-lookup"><span data-stu-id="fadba-p101">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode. After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials. Then proceed to complete your purchase.</span></span> 
+<span data-ttu-id="facbd-103">Atunci când încercați să faceți o achiziție, dacă vi s-a solicitat de mai multe ori să vă conectați la portalul Office 365 sau dacă primiți un mesaj că a fost găsită o problemă, cel mai bun prim pas este să încercați să utilizați modul inprivate/incognito al browserului.</span><span class="sxs-lookup"><span data-stu-id="facbd-103">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode.</span></span> <span data-ttu-id="facbd-104">După ce deschideți o fereastră inprivate/incognito, accesați site-ul [portal.office.com](https://portal.office.com) și conectați-vă cu acreditările de administrator.</span><span class="sxs-lookup"><span data-stu-id="facbd-104">After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials.</span></span> <span data-ttu-id="facbd-105">Apoi treceți la finalizarea achiziției.</span><span class="sxs-lookup"><span data-stu-id="facbd-105">Then proceed to complete your purchase.</span></span> 
   
 

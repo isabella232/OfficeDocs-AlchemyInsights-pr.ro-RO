@@ -1,5 +1,5 @@
 ---
-title: Cum actualizez informatiile cardului de credit?
+title: Cum pot actualiza informațiile cărții de credit?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405191"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763840"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="9a215-102">Cum actualizez informatiile cardului de credit?</span><span class="sxs-lookup"><span data-stu-id="9a215-102">How do I update my credit card information?</span></span>
+# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="55563-102">Cum pot actualiza informațiile cărții de credit?</span><span class="sxs-lookup"><span data-stu-id="55563-102">How do I update my account information?</span></span>
 
-1. <span data-ttu-id="9a215-103">În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.</span><span class="sxs-lookup"><span data-stu-id="9a215-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="55563-103">În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.</span><span class="sxs-lookup"><span data-stu-id="55563-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="9a215-104">Alege abonamentul care ai cumparat cu credit card sau cont bancar pe care doriţi să actualizaţi, apoi alege **Actualizare detaliile de plata**.</span><span class="sxs-lookup"><span data-stu-id="9a215-104">Pick the subscription that you bought with the credit card or bank account that you want to update, then choose **Update payment details**.</span></span>
+2. <span data-ttu-id="55563-104">Alegeți abonamentul pe care l-ați cumpărat cu cartea de credit sau contul bancar pe care doriți să-l actualizați, apoi alegeți **Actualizați detaliile de plată**.</span><span class="sxs-lookup"><span data-stu-id="55563-104">Pick the subscription that you bought with the credit card or bank account that you want to update, then choose **Update payment details**.</span></span>
     
-3. <span data-ttu-id="9a215-105">Alege drop jos săgeata sub **Adăugare sau selectaţi o metodă de plată**, alege cardul de credit sau cont bancar pe care doriţi să actualizaţi, apoi alegeţi **Editare detalii**.</span><span class="sxs-lookup"><span data-stu-id="9a215-105">Choose the drop down arrow under **Add or select a payment method**, pick the credit card or bank account that you want to update, then choose **Edit details**.</span></span>
+3. <span data-ttu-id="55563-105">Alegeți săgeata verticală de sub **Adăugați sau selectați o metodă de plată**, alegeți cartea de credit sau contul bancar pe care doriți să-l actualizați, apoi alegeți **Editați detaliile**.</span><span class="sxs-lookup"><span data-stu-id="55563-105">Choose the drop down arrow under **Add or select a payment method**, pick the credit card or bank account that you want to update, then choose **Edit details**.</span></span>
     
-4. <span data-ttu-id="9a215-p101">Actualizaţi informaţiile despre card de credit sau cont bancar (numele de pe cardul de credit sau cont bancar, facturare adresa. numărul de telefon, sau data de expirare), în funcţie de necesităţi, apoi selectaţi **Submit**.</span><span class="sxs-lookup"><span data-stu-id="9a215-p101">Update your credit card or bank account information (name on the credit card or bank account, billing address. phone number, or expiration date) as needed, then choose **Submit**.</span></span>
+4. <span data-ttu-id="55563-106">Actualizați informațiile legate de cartea de credit sau contul bancar (numele proprietarului, adresa de facturare,</span><span class="sxs-lookup"><span data-stu-id="55563-106">Update your credit card or bank account information (name on the credit card or bank account, billing address.</span></span> <span data-ttu-id="55563-107">numărul de telefon sau data de expirare) după cum este necesar, apoi alegeți **Remitere**.</span><span class="sxs-lookup"><span data-stu-id="55563-107">phone number, or expiration date) as needed, then choose **Submit**.</span></span>
     
-5. <span data-ttu-id="9a215-108">Ar trebui să apară un mesaj de confirmare.</span><span class="sxs-lookup"><span data-stu-id="9a215-108">A confirmation message should appear.</span></span>
+5. <span data-ttu-id="55563-108">Ar trebui să apară un mesaj de confirmare.</span><span class="sxs-lookup"><span data-stu-id="55563-108">A confirmation message should appear.</span></span>
     
-<span data-ttu-id="9a215-109">Pentru informaţii suplimentare, consultaţi [Depanarea carduri si conturi bancare](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="9a215-109">For additional information, see [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
+<span data-ttu-id="55563-109">Pentru informații suplimentare, consultați [Depanarea problemelor cu cărțile de credit și a conturilor bancare](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="55563-109">For additional information, see [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
   
 
