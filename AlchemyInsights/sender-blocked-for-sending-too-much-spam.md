@@ -1,5 +1,5 @@
 ---
-title: Expeditor blocat pentru trimiterea de spam-ul prea mult
+title: Expeditorul a fost blocat, deoarece a trimis prea mult spam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405299"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767512"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Contul este blocat pentru trimiterea de spam-ul prea mult
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Contul este blocat, deoarece a trimis prea mult spam
 
-Contul de expediere poate fi compromisă. Va trebui să:
+Contul de trimitere este, probabil, compromis. Va trebui să:
   
-1. [Determinat în cazul în care contul este compromisă](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Dacă compromisă, urmaţi paşii pentru [răspunzând la un cont de E-mail compromisă în Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Stabiliți dacă contul este compromis](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Dacă este compromis, urmați pașii ca să [Răspundeți unui cont de e-mail compromis în Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Du-te la utilizatori restricţionat pentru **[deblocarea contului](https://protection.office.com/?hash=/restrictedusers)** securităţii &amp; centru de conformitate. Odată terminat, ar trebui să fie capabil să-şi reia trimiterea de mesaje *în cadrul 1 oră* . 
+2. Accesați Utilizatori restricționați pentru a **[debloca contul](https://protection.office.com/?hash=/restrictedusers)** în Centrul de securitate &amp; conformitate. După ce finalizați, ar trebui să puteți relua trimiterea mesajelor *în interval de 1 oră*. 
     
-3. Pentru a preveni viitoare cont compromisuri, urmaţi recomandările în [cele mai bune practici de securitate pentru Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Pentru a împiedica o eventuală compromitere viitoare a contului, urmați recomandările din [Cele mai bune practici pentru securitatea Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
 

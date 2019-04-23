@@ -1,5 +1,5 @@
 ---
-title: Schimbare nume
+title: Modificarea serverelor de nume
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405335"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754698"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Update dvs servere de nume de domeniu la Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Actualizarea serverelor de nume de domeniu la Office 365
 
-Notă: Modificările Nameserver uneori poate dura până la 48 de ore să se propage.
+Notă: Propagarea modificărilor pentru serverele de nume poate dura uneori până la 48 de ore.
   
-Pentru a configura domeniului în Office 365, servere de nume la Registratorul trebuie să fie actualizate. Creaţi sau editaţi înregistrări nameserver la registratorul de domeniu.
+Pentru a vă configura domeniul în Office 365, serverele de nume de la registratorul dvs. trebuie actualizate. Creați sau editați înregistrările serverului de nume în registratorul de domeniu.
   
-1. Registratorul de domeniu site-ul web şi pentru a găsi zona unde iti poti edita servere de nume.
+1. Accesați site-ul web al registratorului de domeniu și găsiți zona în care puteți să editați serverele de nume.
     
-2. Crearea sau editarea de două înregistrări de nume pentru a se potrivi aceste valori:
+2. Creați sau editați două înregistrări ale serverului de nume pentru a se potrivi cu aceste valori:
     
-  - NS1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - NS2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
-3. Salvaţi modificările.
+3. Salvați modificările.
     
-De asemenea, puteţi găsi instrucţiuni detaliate în acest articol: [schimbarea serverele de nume pentru a configura Office 365 cu orice registrator de domeniu](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Puteți găsi instrucțiuni detaliate și în acest articol: [Modificarea serverelor de nume pentru a configura Office 365 cu orice registrator de domeniu](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

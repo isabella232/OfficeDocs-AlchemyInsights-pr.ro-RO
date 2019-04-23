@@ -1,5 +1,5 @@
 ---
-title: Cum să reactivaţi un abonament
+title: Cum să reactivați un abonament
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468891"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766864"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Cum să reactivaţi un abonament
+# <a name="how-to-reactivate-a-subscription"></a>Cum să reactivați un abonament
 
-În cazul în care abonamentul a expirat, a fost anulată, sau dezactivat de Microsoft, reactivaţi-o în centrul de administrare Microsoft 365.
+Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.
   
-1. În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.
+1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
     
-2. Alege abonamentul pe care doriţi să îl reactivaţi.
+2. Alegeți abonamentul pe care doriți să-l reactivați.
     
-3. Selectaţi butonul **reactiva** pe dreapta. 
+3. Alegeți butonul **Reactivare** din dreapta. 
     
-4. Vi se va cere să actualizeze detaliile de plata. Când toate informaţiile sunt corecte, selectaţi **Remitere**.
+4. Vi se va solicita să actualizați detaliile de plată. Când toate informațiile sunt corecte, alegeți **Remitere**.
     
-5. O confirmare va arată pe partea de jos a ecranului. Alege **aproape** pentru a reveni la pagina de **abonamente** . 
+5. O confirmare se va afișa în partea de jos a ecranului. Alegeți **Închidere** pentru a reveni la pagina **Abonamente**. 
     
-6. În cazul în care abonamentul nu apare activ după câteva minute, reîmprospătați pagina.
+6. Dacă abonamentul nu apare ca Activ după câteva minute, reîmprospătați pagina.
     
-Pentru informaţii suplimentare, consultaţi: [reînnoire Office 365 pentru afaceri](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Adăugați utilizatori la Office 365
+title: Adăugarea utilizatorilor la Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404795"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753474"
 ---
-# <a name="add-a-user-to-office-365"></a>Adăugaţi un utilizator la Office 365
+# <a name="add-a-user-to-office-365"></a>Adăugarea unui utilizator la Office 365
 
-Utilizaţi aceşti paşi pentru a adăuga un utilizator Office 365:
+Utilizați acești pași pentru a adăuga un utilizator la Office 365:
   
-1. Du-te la [Utilizatori activi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (sau pe stânga nav alege **utilizatorii** \> **utilizatori activi**).
+1. Accesați [Utilizatori activi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (sau, în navigarea din stânga, alegeți **Utilizatori** \> **Utilizatori activi**).
     
-2. Faceţi clic pe **adăugaţi un utilizator**.
+2. Faceți clic pe **Adăugați un utilizator**.
     
-3. Completaţi informaţiile pentru utilizator. Selectaţi **adăugaţi** atunci când aţi terminat. 
+3. Completați informațiile despre utilizator. Alegeți **Adăugare** când ați terminat. 
     
-[Citeste mai mult...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+[Citiți mai multe...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   
 

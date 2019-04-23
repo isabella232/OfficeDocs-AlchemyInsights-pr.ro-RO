@@ -1,5 +1,5 @@
 ---
-title: Cum actualizez informatiile cardului de credit?
+title: Cum pot actualiza informațiile cărții de credit?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405191"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763840"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Cum actualizez informatiile cardului de credit?
+# <a name="how-do-i-update-my-credit-card-information"></a>Cum pot actualiza informațiile cărții de credit?
 
-1. În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.
+1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
     
-2. Alege abonamentul care ai cumparat cu credit card sau cont bancar pe care doriţi să actualizaţi, apoi alege **Actualizare detaliile de plata**.
+2. Alegeți abonamentul pe care l-ați cumpărat cu cartea de credit sau contul bancar pe care doriți să-l actualizați, apoi alegeți **Actualizați detaliile de plată**.
     
-3. Alege drop jos săgeata sub **Adăugare sau selectaţi o metodă de plată**, alege cardul de credit sau cont bancar pe care doriţi să actualizaţi, apoi alegeţi **Editare detalii**.
+3. Alegeți săgeata verticală de sub **Adăugați sau selectați o metodă de plată**, alegeți cartea de credit sau contul bancar pe care doriți să-l actualizați, apoi alegeți **Editați detaliile**.
     
-4. Actualizaţi informaţiile despre card de credit sau cont bancar (numele de pe cardul de credit sau cont bancar, facturare adresa. numărul de telefon, sau data de expirare), în funcţie de necesităţi, apoi selectaţi **Submit**.
+4. Actualizați informațiile legate de cartea de credit sau contul bancar (numele proprietarului, adresa de facturare, numărul de telefon sau data de expirare) după cum este necesar, apoi alegeți **Remitere**.
     
 5. Ar trebui să apară un mesaj de confirmare.
     
-Pentru informaţii suplimentare, consultaţi [Depanarea carduri si conturi bancare](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Pentru informații suplimentare, consultați [Depanarea problemelor cu cărțile de credit și a conturilor bancare](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
