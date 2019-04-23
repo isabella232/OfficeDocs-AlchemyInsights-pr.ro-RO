@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Săptămâna de 4 martie 2019
-
-
-| Publicat pe |Titlul subiectului | Schimbare |
-|------|------------|--------|
-| 04.03.2019 | 8000011 Outlook.com Recover Deleted E-mail | adăugat |
-| 04.03.2019 | [Confirmările de citire 8000034 în Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modificate |
-| 04.03.2019 | [8000047 cum să creaţi o semnătură de poştă electronică în Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | modificate |
-| 04.03.2019 | [8000086 Outlook.com Inserare imagine](/AlchemyInsights/80000860-outlook-com-insert-image) | adăugat |
-| 04.03.2019 | [8000087 Outlook.com Claviatură Shortcuts](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | adăugat |
-| 04.03.2019 | [8000088 salva e-mail în Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | modificate |
-| 04.03.2019 | [8000089 Outlook.com Safe expeditori](/AlchemyInsights/8000089-outlook-com-safe-senders) | adăugat |
-| 04.03.2019 | 8000011 Outlook.com Recover Deleted E-mail | eliminat |
-| 04.03.2019 | 1575-PowerApps și Microsoft Flow planul de extindere | adăugat |
-| 04.03.2019 | [Schimba domeniu pentru Office 365 grup](/AlchemyInsights/change-domain-for-group) | redenumit |
-| 04.03.2019 | [1575-PowerApps și Microsoft Flow planul de extindere](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | redenumit |
-| 04.03.2019 | [Permite Multifactorial autentificare](/AlchemyInsights/enable-multifactor-authentication) | modificate |
-| 04.03.2019 | [8000054 Outlook.com limită de stocare depăşită](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | adăugat |
-| 04.03.2019 | [423 Org securitate - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | modificate |
-| 04.03.2019 | [8000029 a face cu spam sau phishing în Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificate |
-| 04.03.2019 | [Elimina domeniu](/AlchemyInsights/remove-domain) | modificate |
-| 04.03.2019 | [Adăugați utilizatori la Office 365](/AlchemyInsights/add-users-to-office-365) | modificate |
-| 04.03.2019 | [Sunteţi obtinerea prea mult spam sau phish în căsuţa poştală?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | modificate |
-| 04.03.2019 | [Schimbare nume](/AlchemyInsights/change-nameservers) | modificate |
-| 04.03.2019 | [Crea apps în PowerApps](/AlchemyInsights/create-apps-in-powerapps) | modificate |
-| 04.03.2019 | [Migrațiile cutover la Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | modificate |
-| 04.03.2019 | [Livrare de e-mail probleme?](/AlchemyInsights/having-email-delivery-issues-0) | modificate |
-| 04.03.2019 | [Livrare de e-mail probleme?](/AlchemyInsights/having-email-delivery-issues) | modificate |
-| 04.03.2019 | [Cum pot adăuga un card de credit?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificate |
-| 04.03.2019 | [Cum actualizez informatiile cardului de credit?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificate |
-| 04.03.2019 | [Cum să instalaţi Office](/AlchemyInsights/how-to-install-office) | modificate |
-| 04.03.2019 | [Migra de e-mail la IMAP](/AlchemyInsights/migrate-email-from-imap) | modificate |
-| 04.03.2019 | [Opţiuni de plată](/AlchemyInsights/payment-options) | modificate |
-| 04.03.2019 | [Recomandat de paşi pentru a lua în cazul în care un cont este compromisă](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modificate |
-| 04.03.2019 | [Expeditor blocat pentru trimiterea de spam-ul prea mult](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | modificate |
-| 04.03.2019 | [Să prezinte cereri de sprijin Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | modificate |
-| 04.03.2019 | [Domeniul este deja în uz](/AlchemyInsights/the-domain-is-already-in-use) | modificate |
-| 04.03.2019 | [Probleme cu finalizarea o achiziţie în portalul Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | modificate |
-| 04.03.2019 | [Actualizarea înregistrărilor DNS](/AlchemyInsights/update-dns-records-0) | modificate |
-| 04.03.2019 | [Actualizarea înregistrărilor DNS](/AlchemyInsights/update-dns-records) | modificate |
-| 04.03.2019 | [Actualiza detaliile de plata](/AlchemyInsights/update-payment-details) | modificate |
-| 04.03.2019 | [Verifica domeniu](/AlchemyInsights/verify-domain) | modificate |
-| 04.03.2019 | [Configurarea redirecţionării către mai multe adrese de e-mail](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | modificate |
-| 04.03.2019 | [Rezolvarea 'Nu un domeniu acceptat' eroare](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | modificate |
-| 06.03.2019 | [1581 deschide şi de a folosi o cutie poştală partajată din Outlook pe web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | modificate |
-| 06.03.2019 | [Schimburi de echipe](/AlchemyInsights/1686-teams-shifts) | adăugat |
-| 06.03.2019 | [1703 nevoie informaţii pe echipe şi Polycom telefoane](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | adăugat |
-| 06.03.2019 | [Echipele PS modul de instalare şi de referinţă](/AlchemyInsights/1787-teams-ps-module-install-ref) | adăugat |
-| 06.03.2019 | [615 tipuri de partajare şi cum să le instituie.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | modificate |
-| 06.03.2019 | [Echipele Freemium](/AlchemyInsights/997-teams-freemium) | adăugat |
-| 06.03.2019 | [Aveţi mesaje legitime fiind marcate ca spam?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | modificate |
-| 06.03.2019 | [Permite Microsoft echipe](/AlchemyInsights/enable-microsoft-teams) | modificate |
-| 06.03.2019 | [Au permis echipe pentru elevii dumneavoastră?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | modificate |
-| 06.03.2019 | [Cum să reactivaţi un abonament](/AlchemyInsights/how-to-reactivate-a-subscription) | modificate |
-| 06.03.2019 | Intune App implementare - regula Id 991 | eliminat |
-| 06.03.2019 | [Problema cu Skype pentru afaceri?](/AlchemyInsights/issue-with-skype-for-business) | modificate |
-| 06.03.2019 | [Echipele Microsoft - acces comentarii](/AlchemyInsights/microsoft-teamsguest-access) | modificate |
-| 06.03.2019 | [Echipele Microsoft - restabilirea elimină echipa de site-ul](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | modificate |
-| 06.03.2019 | [Releu e-mail prin Office 365](/AlchemyInsights/relay-email-through-office-365) | modificate |
-| 06.03.2019 | [Sincronizare fișiere SharePoint cu noul client de sincronizare OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | modificate |
-| 06.03.2019 | [Upgrade la versiunea completă a Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | modificate |
-| 07.03.2019 | [8000064 Outlook.com email nu poate sincroniza - spaniolă](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | adăugat |
-| 07.03.2019 | [8000065 Outlook.com spam nedorite - spaniolă](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | adăugat |
-| 07.03.2019 | [8000066 - regula 1 - Outlook.com tocat - spaniolă](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | adăugat |
-| 07.03.2019 | [8000066 - norma 2 - Outlook.com tocat - spaniolă](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | adăugat |
-| 07.03.2019 | [8000067 - Outlook.com închide contul - spaniolă](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | adăugat |
-| 07.03.2019 | [8000068 - Outlook.com Adăugare cont - spaniolă](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | adăugat |
-| 07.03.2019 | [8000069 - Outlook.com bloc expeditor - spaniolă](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | adăugat |
-| 07.03.2019 | [8000070 - Outlook.com puteţi conecta - spaniolă](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | adăugat |
-| 07.03.2019 | [Restaurare şterse utilizator](/AlchemyInsights/restore-deleted-user) | modificate |
-| 08.03.2019 | 8000043 POP, IMAP şi SMTP aranjare pentru Outlook.com | eliminat |
-| 08.03.2019 | [8000043 POP, IMAP şi SMTP aranjare pentru Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | redenumit |
-| 08.03.2019 | [8000071 Outlook.com fix e-mail sync - franceză](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | adăugat |
-| 08.03.2019 | [8000072 Outlook.com junk mail - franceză](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | adăugat |
-| 08.03.2019 | [8000073 contul Outlook.com tocat - franceză](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | adăugat |
-| 08.03.2019 | [8000074 cont Outlook.com de aproape - franceză](/AlchemyInsights/8000074-outlook-com-close-account-french) | adăugat |
-| 08.03.2019 | [8000075 Outlook.com schimba parola - franceză](/AlchemyInsights/8000075-outlook-com-change-password-french) | adăugat |
-| 08.03.2019 | [8000076 Outlook.com bloc expeditor - franceză](/AlchemyInsights/8000076-outlook-com-block-sender-french) | adăugat |
-
-
 ## <a name="week-of-march-11-2019"></a>Săptămâna 11 martie 2019
 
 
@@ -91,7 +11,7 @@
 | 12.03.2019 | 8000054 Outlook.com Inbox nu se incarca | adăugat |
 | 12.03.2019 | [8000078 Outlook.com Inbox nu se incarca](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | redenumit |
 | 12.03.2019 | [8000078 Outlook.com Inbox nu se incarca](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modificate |
-| 13.03.2019 | [Releu e-mail prin Office 365](/AlchemyInsights/relay-email-through-office-365) | modificate |
+| 13.03.2019 | [Retransmisia e-mailului prin Office 365](/AlchemyInsights/relay-email-through-office-365) | modificate |
 | 14.03.2019 | [acelasi ca numele fişierului este cel mai bun [regula #-Descriere]](/AlchemyInsights/1-alchemy-insight-template) | modificate |
 | 14.03.2019 | [Creşte dimensiunea cutiei poştale](/AlchemyInsights/increase-mailbox-size) | modificate |
 | 15.03.2019 | [Outlook amintesc Desktop sau înlocuiţi un mesaj de e-mail](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | adăugat |
@@ -134,7 +54,7 @@
 | 22.03.2019 | [Adauga locuri la un abonament preplătite](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | modificate |
 | 22.03.2019 | [1800018 Add/creat conturi de e-mail](/AlchemyInsights/add-set-up-email-accounts) | redenumit |
 | 22.03.2019 | [764 Add/configurare de conturi de e-mail](/AlchemyInsights/add-setup-email-accounts) | redenumit |
-| 22.03.2019 | [Adăugați utilizatori la Office 365](/AlchemyInsights/add-users-to-office-365) | modificate |
+| 22.03.2019 | [Adăugarea utilizatorilor la Office 365](/AlchemyInsights/add-users-to-office-365) | modificate |
 | 22.03.2019 | [8000040 adăugaţi contul Outlook.com în Outlook pentru Windows](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | redenumit |
 | 22.03.2019 | [713 adăugând o adresă de e-mail suplimentară la o listă de distribuire](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | redenumit |
 | 22.03.2019 | [718 adăugarea de contacte externe / persoane din afara organizaţiei pentru o listă de distribuire](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | redenumit |
@@ -196,7 +116,7 @@
 | 22.03.2019 | [8000013 schimba fontul în Outlook.com](/AlchemyInsights/change-font-in-outlook-com) | redenumit |
 | 22.03.2019 | [Schimba cât de des vă plătească](/AlchemyInsights/change-how-often-you-pay) | modificate |
 | 22.03.2019 | [8000010 scimbare meu poştă electronică adresă în Outlook.com](/AlchemyInsights/change-my-email-address-in-outlook-com) | redenumit |
-| 22.03.2019 | [Schimbare nume](/AlchemyInsights/change-nameservers) | modificate |
+| 22.03.2019 | [Modificarea serverelor de nume](/AlchemyInsights/change-nameservers) | modificate |
 | 22.03.2019 | [Schimba OneDrive pentru contingentul de stocare de afaceri](/AlchemyInsights/change-onedrive-for-business-storage-quota) | modificate |
 | 22.03.2019 | [Schimba metoda de plată](/AlchemyInsights/change-payment-method) | modificate |
 | 22.03.2019 | [Modifica permisiunile pentru o listă SharePoint sau biblioteca](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | modificate |
@@ -210,7 +130,7 @@
 | 22.03.2019 | [8000002 modificaţi-vă parola în Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | redenumit |
 | 22.03.2019 | [8000036 schimba numele de profil în Outlook.com](/AlchemyInsights/change-your-profile-name-in-outlook-com) | redenumit |
 | 22.03.2019 | [Modificări la accesul utilizatorilor externi](/AlchemyInsights/changes-to-external-user-access) | modificate |
-| 22.03.2019 | [8000026 modificări Outlook.com](/AlchemyInsights/changes-to-outlook-com) | redenumit |
+| 22.03.2019 | [8000026 Modificări în Outlook.com](/AlchemyInsights/changes-to-outlook-com) | redenumit |
 | 22.03.2019 | [Schimbare permisiuni public folder](/AlchemyInsights/changing-public-folder-permissions) | modificate |
 | 22.03.2019 | [Schimbarea cutie poştală partajată trimitere ca comportamentul](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modificate |
 | 22.03.2019 | [Verifica starea de sincronizare AAD identitatea](/AlchemyInsights/check-aad-identity-sync-status) | modificate |
@@ -243,7 +163,7 @@
 | 22.03.2019 | [CTRL + H prezinta Find, nu înlocuieşte în Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | modificate |
 | 22.03.2019 | [8000029 se ocupa de phishing în Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | redenumit |
 | 22.03.2019 | [8000029 deal cu spam în Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | redenumit |
-| 22.03.2019 | [8000029 a face cu spam sau phishing în Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | redenumit |
+| 22.03.2019 | [8000029 Gestionarea mesajelor spam sau de phishing din Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | redenumit |
 | 22.03.2019 | [A refuzat cardul de Credit](/AlchemyInsights/declined-credit-card) | modificate |
 | 22.03.2019 | [8000012 şterge o persoană de contact în Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | redenumit |
 | 22.03.2019 | [8000016 ştergerea unui folder în Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | redenumit |
@@ -299,10 +219,10 @@
 | 22.03.2019 | [Accesul utilizatorilor la SharePoint și OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | modificate |
 | 22.03.2019 | [Ajuta la intelegerea valorii TVA (TVA)](/AlchemyInsights/help-understanding-value-added-tax-vat) | modificate |
 | 22.03.2019 | [Ajuta la intelegerea factura](/AlchemyInsights/help-understanding-your-bill) | modificate |
-| 22.03.2019 | [Cum pot adăuga un card de credit?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificate |
+| 22.03.2019 | [Cum adaug o carte de credit?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificate |
 | 22.03.2019 | [Cum pot schimba la plăţile prin card de credit pentru a factura?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | modificate |
 | 22.03.2019 | [Cum pot elimina informatiile cardului de credit?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | modificate |
-| 22.03.2019 | [Cum actualizez informatiile cardului de credit?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificate |
+| 22.03.2019 | [Cum pot actualiza informațiile cărții de credit?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificate |
 | 22.03.2019 | [8000056 cum la spre accent Outlook.com în timp ce călătoriţi](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | redenumit |
 | 22.03.2019 | [Cum să adăugaţi sau să reducă licenţe](/AlchemyInsights/how-to-add-or-reduce-licenses) | modificate |
 | 22.03.2019 | [Cum să atribuiţi o licenţă pentru un utilizator](/AlchemyInsights/how-to-assign-a-license-to-a-user) | modificate |
@@ -329,7 +249,7 @@
 | 22.03.2019 | [Cum să cumpăraţi Office 365 pentru Non-profit](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | modificate |
 | 22.03.2019 | [Cum să cumpăraţi Office 365 pentru Non-profit](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | modificate |
 | 22.03.2019 | [Cum să cumpăraţi Office 365 pentru Non-profit](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | modificate |
-| 22.03.2019 | [Cum să reactivaţi un abonament](/AlchemyInsights/how-to-reactivate-a-subscription) | modificate |
+| 22.03.2019 | [Cum să reactivați un abonament](/AlchemyInsights/how-to-reactivate-a-subscription) | modificate |
 | 22.03.2019 | [Cum de a reactiva şi de a gestiona reînnoirea](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | modificate |
 | 22.03.2019 | [8000033 cum pentru a răspunde sau transmite mesaje în Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | redenumit |
 | 22.03.2019 | [8000063 cum să faceţi clic dreapta pe un Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | redenumit |
@@ -384,7 +304,7 @@
 | 22.03.2019 | [Muta elemente într-o bibliotecă de documente SharePoint](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | modificate |
 | 22.03.2019 | [8000062 se deplasează un folder în Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | redenumit |
 | 22.03.2019 | [Mai multe încercări de a percepe plata online instrumente](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | modificate |
-| 22.03.2019 | [1703 nevoie informaţii pe echipe şi Polycom telefoane](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | redenumit |
+| 22.03.2019 | [1703 Aveți nevoie de informații despre Teams și telefoane Polycom](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | redenumit |
 | 22.03.2019 | [122 nevoie pentru a crea o semnătură în Outlook pe web?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | redenumit |
 | 22.03.2019 | [8000037 nu primesc e-mail în Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | redenumit |
 | 22.03.2019 | [Office 365 pentru planurile de afaceri şi de stabilire a preţurilor](/AlchemyInsights/office-365-for-business-plans-and-pricing) | modificate |
@@ -396,11 +316,11 @@
 | 22.03.2019 | [Unul dintre dumneavoastră local Federaţia Service certificate este expiră](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | modificate |
 | 22.03.2019 | [Stocare OneDrive](/AlchemyInsights/onedrive-storage) | modificate |
 | 22.03.2019 | [Deschide o bibliotecă SharePoint în File Explorer](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | modificate |
-| 22.03.2019 | [1581 deschide şi de a folosi o cutie poştală partajată din Outlook pe web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | redenumit |
+| 22.03.2019 | [1581 Deschiderea și utilizarea unei cutii poștale partajate în Outlook pe web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | redenumit |
 | 22.03.2019 | [Deschidere cu Explorer buton este dezactivat](/AlchemyInsights/open-with-explorer-button-is-disabled) | modificate |
 | 22.03.2019 | [Deschidere cu Explorer buton lipsă](/AlchemyInsights/open-with-explorer-button-missing) | modificate |
 | 22.03.2019 | [Deschidere cu Explorer nu funcţionează](/AlchemyInsights/open-with-explorer-doesn-t-work) | modificate |
-| 22.03.2019 | [423 Org securitate - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | redenumit |
+| 22.03.2019 | [423 Securitatea organizației - Cont de e-mail compromis](/AlchemyInsights/org-securityemailaccountcompromised) | redenumit |
 | 22.03.2019 | [424 Org securitate - spam-ul fals pozitive](/AlchemyInsights/org-securityspam-false-positive) | redenumit |
 | 22.03.2019 | [8000073 contul Outlook.com tocat - franceză](/AlchemyInsights/outlook-com-account-hacked-french) | redenumit |
 | 22.03.2019 | [8000039 cont Outlook.com, tocat](/AlchemyInsights/outlook-com-account-hacked) | redenumit |
@@ -504,3 +424,109 @@
 | 02.04.2019 | Site-ul şi structura conţinutului eliminat | adăugat |
 | 02.04.2019 | Depanarea Error 404 Fişier negăsit | adăugat |
 | 03.04.2019 | [Cod de eroare 550 5.7.705 Access denied, chiriaşul a depăşit pragul de](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modificate |
+
+
+## <a name="week-of-april-08-2019"></a>Saptamana a 8 aprilie 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 09.04.2019 | [Muta mesajele de e-mail către cutia poştală de arhivă](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | modificate |
+| 09.04.2019 | [Schimbul de anonim](/AlchemyInsights/anonymous-sharing) | modificate |
+| 09.04.2019 | [Check-in mai multe fişiere simultan](/AlchemyInsights/check-in-several-files-at-once) | modificate |
+| 09.04.2019 | [Conectaţi un clasic site-ul SharePoint echipa la un grup](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | modificate |
+| 09.04.2019 | [Creaţi un site SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificate |
+| 09.04.2019 | [Creaţi un site](/AlchemyInsights/create-a-site) | redenumit |
+| 09.04.2019 | [Sterge un site SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modificate |
+| 09.04.2019 | [Sterge un Site](/AlchemyInsights/delete-site-collection) | modificate |
+| 09.04.2019 | [Mesaj de eroare atunci când partajarea fişierelor](/AlchemyInsights/error-message-when-sharing-files) | modificate |
+| 09.04.2019 | [Externe de partajare cu un Site de echipă](/AlchemyInsights/external-sharing-with-a-team-site) | modificate |
+| 09.04.2019 | [Cum să folosească depozitul de termeni Online SharePoint](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | modificate |
+| 09.04.2019 | [Gestiona Căutaţi dicţionare în SharePoint Online](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | modificate |
+| 09.04.2019 | [Gestiona spaţiul de stocare SharePoint sau OneDrive](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | modificate |
+| 09.04.2019 | [Restaura un site şterse](/AlchemyInsights/restore-a-deleted-site-collection) | modificate |
+| 09.04.2019 | [Restaura un subsite şterse](/AlchemyInsights/restore-a-deleted-subsite) | modificate |
+| 09.04.2019 | [Împărtăşesc un fișier sau un folder în SharePoint sau OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | modificate |
+| 09.04.2019 | [Depozit SharePoint](/AlchemyInsights/sharepoint-storage) | modificate |
+| 09.04.2019 | [Sharing cu utilizatorii externi nu este de lucru](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modificate |
+| 09.04.2019 | [Sincronizarea fișierelor SharePoint cu noul client de sincronizare OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | modificate |
+| 09.04.2019 | [Transforma partajarea on sau off pentru un site extern](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | modificate |
+| 09.04.2019 | [Transforma externe sharing on sau off pentru SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modificate |
+| 09.04.2019 | [Transforma externe sharing on sau off pentru SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modificate |
+| 09.04.2019 | Depanarea Error 404 Fişier negăsit | modificate |
+| 09.04.2019 | [Acces interzis la un site de proiect Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | adăugat |
+| 09.04.2019 | [Proiect Online este într-un stat doar-în-citire](/AlchemyInsights/project-online-is-in-a-read-only-state) | adăugat |
+| 09.04.2019 | [Proiectul Web App lipseşte din colecţia de site-ul SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | adăugat |
+| 12.04.2019 | [1048 5.7.750 Serviciu indisponibil. Clientul blocat la trimiterea la neînregistrate de domenii](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificate |
+| 12.04.2019 | [713 adăugând o adresă de e-mail suplimentară la o listă de distribuire](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | modificate |
+| 12.04.2019 | [718 adăugarea de contacte externe / persoane din afara organizaţiei pentru o listă de distribuire](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | modificate |
+| 12.04.2019 | [714 permiterea expeditori externi să e-mail liste de distribuţie](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | modificate |
+| 12.04.2019 | [717 permiterea utilizatorilor să trimită e-mail ca o listă de distribuire](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | modificate |
+| 12.04.2019 | [1049 antiSpam 4.5.3 prea mulţi destinatari (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | modificate |
+| 12.04.2019 | [1051 antispam 4.7.500 acces interzis, vă rugăm să încercaţi din nou mai târziu](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | modificate |
+| 12.04.2019 | [1050 antispam 4.7.500 Server ocupat. Vă rugăm să încercaţi din nou mai târziu la [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificate |
+| 12.04.2019 | [1047 antiSpam 550 5.7.708 Serviciu indisponibil. Acces refuzat, trafic nu sunt acceptate la acest IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificate |
+| 12.04.2019 | [500 app parole](/AlchemyInsights/app-passwords) | modificate |
+| 12.04.2019 | [726 blocarea e-mail forwarding](/AlchemyInsights/blocking-email-forwarding) | modificate |
+| 12.04.2019 | [763 blocarea Exchange Online PowerShell accesul utilizatorilor](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | modificate |
+| 12.04.2019 | [608 calendar informatii parametrizarea hibrid](/AlchemyInsights/calendar-information-on-hybrid-setups) | modificate |
+| 12.04.2019 | [613 calendar publicarea de informaţii](/AlchemyInsights/calendar-publishing-information) | modificate |
+| 12.04.2019 | [618 calendar Politica de partajare](/AlchemyInsights/calendar-sharing-policy) | modificate |
+| 12.04.2019 | [398 calendar - rezervare](/AlchemyInsights/calendarbooking) | modificate |
+| 12.04.2019 | [Calendar 399 - delegat](/AlchemyInsights/calendardelegate) | modificate |
+| 12.04.2019 | [400 calendar - FreeBusy](/AlchemyInsights/calendarfreebusy) | modificate |
+| 12.04.2019 | [402 calendar - O365Groups](/AlchemyInsights/calendaro365groups) | modificate |
+| 12.04.2019 | [1081 calendar - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | modificate |
+| 12.04.2019 | [912 configurare orientarea Inbox pentru toată lumea în cadrul organizaţiei](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | modificate |
+| 12.04.2019 | [761 conectarea la Exchange Online PowerShell când Mae este activată](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | modificate |
+| 12.04.2019 | [Conectarea 760 pentru a face schimb de Online PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | modificate |
+| 12.04.2019 | [712 o listă de distribuire de conversie la un grup de Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | modificate |
+| 12.04.2019 | [711 crea o listă de distribuire sau grup](/AlchemyInsights/creating-a-distribution-list-or-group) | modificate |
+| 12.04.2019 | [744 utilizatorilor crearea organizaţiei este în modul hibrid](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | modificate |
+| 12.04.2019 | [743 crearea utilizatorilor, fără o licenţă](/AlchemyInsights/creating-users-without-a-license) | modificate |
+| 12.04.2019 | [1065 dezaprobare EOP outbound IP adresa rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | modificate |
+| 12.04.2019 | [1314 duplicat obiect remedierea](/AlchemyInsights/duplicate-object-remediation) | modificate |
+| 12.04.2019 | [934 permite POP şi IMAP conturi](/AlchemyInsights/enable-pop-and-imap-accounts) | modificate |
+| 12.04.2019 | [Cod de eroare 5.7.501 550 Access denied, spam abuz detectat](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | modificate |
+| 12.04.2019 | [Cod de eroare 550 5.7.705 Access denied, chiriaşul a depăşit pragul de](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modificate |
+| 12.04.2019 | [126 obtinerea unei cutii poştale nu poate fi găsit de eroare în OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | modificate |
+| 12.04.2019 | [127 obtinerea un TenantAccessBlockedException eroare la accesarea e-mail?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificate |
+| 12.04.2019 | [646 cum la spre configure AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | modificate |
+| 12.04.2019 | [955 cum să configuraţi Mae](/AlchemyInsights/how-to-configure-mfa) | modificate |
+| 12.04.2019 | [614 cum să creați și să gestionați cutii poştale de camere](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | modificate |
+| 12.04.2019 | [Hibrid 401 - FreeBusy](/AlchemyInsights/hybridfreebusy) | modificate |
+| 12.04.2019 | [929 Inbox reguli reguli deflectTransport](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | modificate |
+| 12.04.2019 | [922 regulile folderului Inbox](/AlchemyInsights/inbox-rules) | modificate |
+| 12.04.2019 | [Creşte EWS supraîncărcarea limitele pentru mail migraţiei](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | adăugat |
+| 12.04.2019 | [1264 IP blocat pentru trimiterea de spam prea mult (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | modificate |
+| 12.04.2019 | [322 probleme atunci când un utilizator are probleme trimiterea](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | modificate |
+| 12.04.2019 | [321 probleme atunci când un utilizator nu este primit email](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | modificate |
+| 12.04.2019 | [323 probleme cu întârzieri în e-mail](/AlchemyInsights/issues-with-delays-in-email) | modificate |
+| 12.04.2019 | [324 probleme cu email(s) merge la destinaţie greşit](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | modificate |
+| 12.04.2019 | [898 aflaţi mai multe despre Calendar extern opţiunile de partajare](/AlchemyInsights/learn-about-external-calendar-sharing-options) | modificate |
+| 12.04.2019 | [617 aflaţi mai multe despre externe opţiunile de partajare](/AlchemyInsights/learn-about-external-sharing-options) | modificate |
+| 12.04.2019 | [610 aflaţi mai multe despre grupurile de Office 365](/AlchemyInsights/learn-about-office-365-groups) | modificate |
+| 12.04.2019 | [612 Aflaţi cum despre calendare şi foldere publice](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | modificate |
+| 12.04.2019 | [603 învăţa cum să ajustaţi setările de ordinea de zi](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | modificate |
+| 12.04.2019 | [723 face un alias de poştă electronică un e-mail primar pentru utilizator](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | modificate |
+| 12.04.2019 | [597 rezervările Microsoft App](/AlchemyInsights/microsoft-bookings-app) | modificate |
+| 12.04.2019 | [973 migraţia StalledDueTo * regulă](/AlchemyInsights/migration-stalleddueto-rule) | modificate |
+| 12.04.2019 | [1581 Deschiderea și utilizarea unei cutii poștale partajate în Outlook pe web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | modificate |
+| 12.04.2019 | [423 Securitatea organizației - Cont de e-mail compromis](/AlchemyInsights/org-securityemailaccountcompromised) | modificate |
+| 12.04.2019 | [424 Org securitate - spam-ul fals pozitive](/AlchemyInsights/org-securityspam-false-positive) | modificate |
+| 12.04.2019 | [1332 OWA - Inbox rule(s) sunt nu executa pentru o cutie poştală](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modificate |
+| 12.04.2019 | [182 rulați SaRA pentru a diagnostica &amp; rezolva probleme de autentificare Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificate |
+| 12.04.2019 | [412 eroare politica la partajarea calendarului](/AlchemyInsights/policy-error-when-sharing-calendar) | modificate |
+| 12.04.2019 | [408 RBA](/AlchemyInsights/rba) | modificate |
+| 12.04.2019 | [1336 RecoverableItems dosarul este complet](/AlchemyInsights/recoverableitems-folder-is-full) | modificate |
+| 12.04.2019 | [1374 rezolva două cutii poştale howto](/AlchemyInsights/resolve-two-mailboxes-howto) | modificate |
+| 12.04.2019 | [924 regula limitele](/AlchemyInsights/rule-limits) | modificate |
+| 12.04.2019 | [414 experienţa de căutare actualizat](/AlchemyInsights/search-experience-updated) | modificate |
+| 12.04.2019 | [902 (erori de sincronizare din cauza obiectelor duplicat)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | modificate |
+| 12.04.2019 | [Proces Office 365 chiriaş blocate de Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | modificate |
+| 12.04.2019 | [Dezactivarea 911 concentrat inbox în client](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | modificate |
+| 12.04.2019 | [615 Tipuri de partajare și modalități de a le configura.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | modificate |
+| 12.04.2019 | [413 înţelegere Agenda Mail](/AlchemyInsights/understanding-agenda-mail) | modificate |
+| 12.04.2019 | [932 actualizarea AADConnect](/AlchemyInsights/upgrading-aadconnect) | modificate |
+| 12.04.2019 | [725 utilizarea e-mail alias on mobile drac](/AlchemyInsights/using-email-alias-on-mobile-device) | modificate |
+| 12.04.2019 | [1554 eroare Winsock 10061](/AlchemyInsights/winsock-error-10061) | modificate |

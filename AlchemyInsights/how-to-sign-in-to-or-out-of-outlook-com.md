@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788063"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903425"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Cum să vă conectaţi la sau în afara Outlook.com
 
-Dacă nu se poate semna în a vă Outlook.com, Hotmail, Live sau MSN poştă electronică socoteală, sau nu sunteţi sigur cum să vă conectaţi sau deconectaţi, [aici sunt unele soluţii](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+În cazul în care vă puteţi conecta la dumneavoastră Outlook.com, Hotmail, Live sau MSN cont de e-mail, sau nu sunteţi sigur cum să vă conectaţi sau deconectaţi, [aici sunt unele soluţii](https://go.microsoft.com/fwlink/p/?linkid=2005840).
   
 Dacă încă aveţi probleme cu conectarea, a se vedea [atunci când nu vă puteţi conecta la contul de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
