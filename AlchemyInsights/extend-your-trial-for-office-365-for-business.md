@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754338"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401993"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Extinde dumneavoastră Trial pentru Office 365 pentru afaceri
 
 În cazul în care dumneavoastră abonament este în termen de 15 zile de la care expiră şi procesul nu a fost prelungit înainte, poate extinde proces dumneavoastră pentru o nouă perioadă de 30 de zile. Puteţi face doar acest o singură dată.
   
-1. În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.
+1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
     
 2. Alege abonament care doriţi să se extindă.
     
