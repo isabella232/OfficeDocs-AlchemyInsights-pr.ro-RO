@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Ţintă nu mai mult de 500 de cuvinte pentru un articol.
 ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30683825"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421432"
 ---
 # <a name="setting-up-project"></a>Configurarea de proiect
 
