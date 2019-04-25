@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752934"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402307"
 ---
-# <a name="excel-autofilter-issue"></a><span data-ttu-id="80b02-102">Excel filtrare automată aspect</span><span class="sxs-lookup"><span data-stu-id="80b02-102">Excel AutoFilter issue</span></span>
+# <a name="excel-autofilter-issue"></a><span data-ttu-id="358a3-102">Excel filtrare automată aspect</span><span class="sxs-lookup"><span data-stu-id="358a3-102">Excel AutoFilter issue</span></span>
 
-<span data-ttu-id="80b02-103">Atunci când utilizaţi Excel 2016, în cazul în care dumneavoastră filtrare automată listă verticală nu arată toate casetele de selectare disponibile, sau casetele de selectare nu se poate face clic, poate fi din cauza o problemă cunoscută în Build-urile anterioare de Excel.</span><span class="sxs-lookup"><span data-stu-id="80b02-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
+<span data-ttu-id="358a3-103">Atunci când utilizaţi Excel 2016, în cazul în care dumneavoastră filtrare automată listă verticală nu arată toate casetele de selectare disponibile, sau casetele de selectare nu se poate face clic, poate fi din cauza o problemă cunoscută în Build-urile anterioare de Excel.</span><span class="sxs-lookup"><span data-stu-id="358a3-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
   
-<span data-ttu-id="80b02-104">Această problemă este acum fix în **versiunea 1707 (8326.2073)** sau mai târziu.</span><span class="sxs-lookup"><span data-stu-id="80b02-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="80b02-105">Pentru a primi update imediat, deschide Excel şi selectaţi **fişier** \> **cont** \> **Update opţiuni** \> **Actualizare acum**.</span><span class="sxs-lookup"><span data-stu-id="80b02-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="358a3-104">Această problemă este acum fix în **versiunea 1707 (8326.2073)** sau mai târziu.</span><span class="sxs-lookup"><span data-stu-id="358a3-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="358a3-105">Pentru a primi update imediat, deschide Excel şi selectaţi **fişier** \> **cont** \> **Update opţiuni** \> **Actualizare acum**.</span><span class="sxs-lookup"><span data-stu-id="358a3-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
