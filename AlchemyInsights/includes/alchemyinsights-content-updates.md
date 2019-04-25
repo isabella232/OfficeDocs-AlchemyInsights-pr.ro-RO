@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Săptămâna 11 martie 2019
-
-
-| Publicat pe |Titlul subiectului | Schimbare |
-|------|------------|--------|
-| 12.03.2019 | 8000054 Outlook.com Inbox nu se incarca | adăugat |
-| 12.03.2019 | [8000078 Outlook.com Inbox nu se incarca](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | redenumit |
-| 12.03.2019 | [8000078 Outlook.com Inbox nu se incarca](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modificate |
-| 13.03.2019 | [Retransmisia e-mailului prin Office 365](/AlchemyInsights/relay-email-through-office-365) | modificate |
-| 14.03.2019 | [acelasi ca numele fişierului este cel mai bun [regula #-Descriere]](/AlchemyInsights/1-alchemy-insight-template) | modificate |
-| 14.03.2019 | [Creşte dimensiunea cutiei poştale](/AlchemyInsights/increase-mailbox-size) | modificate |
-| 15.03.2019 | [Outlook amintesc Desktop sau înlocuiţi un mesaj de e-mail](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | adăugat |
-
-
 ## <a name="week-of-march-18-2019"></a>Saptamana a 18 martie 2019
 
 
@@ -530,3 +516,47 @@
 | 12.04.2019 | [932 actualizarea AADConnect](/AlchemyInsights/upgrading-aadconnect) | modificate |
 | 12.04.2019 | [725 utilizarea e-mail alias on mobile drac](/AlchemyInsights/using-email-alias-on-mobile-device) | modificate |
 | 12.04.2019 | [1554 eroare Winsock 10061](/AlchemyInsights/winsock-error-10061) | modificate |
+
+
+## <a name="week-of-april-15-2019"></a>Saptamana a 15 aprilie 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 15.04.2019 | [Alchimia - diagnostica şi rezolva probleme de conectivitate în Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificate |
+| 15.04.2019 | [Alchimia - recrea profilul Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificate |
+| 15.04.2019 | [DLP ar putea avea nevoie de un tip personalizat](/AlchemyInsights/dlp-might-need-custom-type) | adăugat |
+| 15.04.2019 | [DLP nu funcţionează conform aşteptărilor](/AlchemyInsights/dlp-not-working-as-expected) | modificate |
+| 15.04.2019 | [DLP politica sfaturi nu de lucru](/AlchemyInsights/dlp-policy-tips-not-working) | modificate |
+| 15.04.2019 | [Outlook.com eroare 550](/AlchemyInsights/outlook-com-error-550) | adăugat |
+| 15.04.2019 | [Outlook.com peste contingent](/AlchemyInsights/outlook-com-over-quota) | adăugat |
+| 15.04.2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | adăugat |
+| 15.04.2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | adăugat |
+| 15.04.2019 | [182 rulați SaRA pentru a diagnostica &amp; rezolva probleme de autentificare Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificate |
+| 16.04.2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | modificate |
+| 16.04.2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | modificate |
+| 16.04.2019 | [8000088 salva e-mail în Outlook.com](/AlchemyInsights/outlook-com-save-emails) | modificate |
+| 16.04.2019 | [8000052 ataşaţi fişierele în Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | modificate |
+| 16.04.2019 | [8000015 bloc sau deblocarea expeditori](/AlchemyInsights/block-or-unblock-senders) | modificate |
+| 16.04.2019 | [8000014 cum se schimba limba în Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | modificate |
+| 16.04.2019 | [8000059 cum să schimbe aspectul](/AlchemyInsights/how-to-change-your-layout) | modificate |
+| 16.04.2019 | [8000033 cum pentru a răspunde sau transmite mesaje în Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificate |
+| 16.04.2019 | [8000055 cum să vă conectaţi la sau în afara Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | modificate |
+| 16.04.2019 | [8000062 se deplasează un folder în Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | modificate |
+| 16.04.2019 | [Auto-aplica etichete de sensibilitate](/AlchemyInsights/auto-apply-sensitivity-labels) | adăugat |
+| 16.04.2019 | [Etichete sensibilitate nu apar](/AlchemyInsights/sensitivity-labels-not-appearing) | adăugat |
+| 16.04.2019 | [Noi etichete de conservare create automat](/AlchemyInsights/new-retention-labels-created-automatically) | adăugat |
+| 16.04.2019 | [SharePoint şi jurnalele de auditare OneDrive](/AlchemyInsights/classic-sharepoint-audit-log-reports) | adăugat |
+| 16.04.2019 | [Identifica Ştergere mesaj evenimente în jurnalele de auditare](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | adăugat |
+| 16.04.2019 | [Identifica externe e-mail forwarding pe cutiile poştale în jurnalele de auditare](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | adăugat |
+| 16.04.2019 | [Identifica activitatea de regulă inbox în jurnalele de auditare](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | adăugat |
+| 16.04.2019 | [Identifica adresa IP şi client în jurnalele de auditare](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | adăugat |
+| 16.04.2019 | [Fişier .pst de reparaţii înainte de import](/AlchemyInsights/repair-pst-before-importing) | adăugat |
+| 16.04.2019 | [Clasic SharePoint rapoarte de jurnal de audit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | adăugat |
+| 16.04.2019 | [Clasic SharePoint rapoarte de jurnal de audit](/AlchemyInsights/classic-sharepoint-audit-log-reports) | modificate |
+| 16.04.2019 | [Identifica externe e-mail forwarding pe cutiile poştale în jurnalele de auditare](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modificate |
+| 16.04.2019 | [Identifica activitatea de regulă inbox în jurnalele de auditare](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modificate |
+| 16.04.2019 | [Clasic SharePoint rapoarte de jurnal de audit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificate |
+| 17.04.2019 | [Rezolva problemele de livrare e-mail la folderele publice cu corespondenţa activată](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | adăugat |
+| 17.04.2019 | [Schimburi de echipe](/AlchemyInsights/teams-shifts) | modificate |
+| 18.04.2019 | [8000011 a nota a şterge poştă electronică înăuntru Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | modificate |

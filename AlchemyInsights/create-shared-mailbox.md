@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
 ms.openlocfilehash: b1e91d783e620a65ba5af533f067da55912fb269
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763768"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407368"
 ---
-# <a name="create-a-shared-mailbox"></a>Crearea unei cutii poştale partajate
+# <a name="create-a-shared-mailbox"></a>Crearea unei cutii poștale partajate
 
 O cutie poştală partajată permite mai multe persoane, trimite şi primi email pentru un alias, cum ar fi sales@contoso.com, fără atribuirea de o altă licenţă. Pentru a crea o cutie poştală partajată, du-te la [Comună E-mail Ghidul](https://portal.office.com/adminportal/home).
   
