@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
 ms.openlocfilehash: 95a08b58912340ed5cd3261576ef679d1574cc56
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761717"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400251"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Cum pot schimba la plăţile prin card de credit pentru a factura?
 
