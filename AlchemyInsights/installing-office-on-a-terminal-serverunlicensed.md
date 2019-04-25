@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918991"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410134"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalarea Office pe un Server Terminal
 
@@ -25,9 +25,9 @@ Pentru implementarea Office 365 ProPlus pe un Windows Server folosind Remote Des
     
 Dacă doriţi să instalaţi Office 365 ProPlus pe RDS la portalul Office 365 ** *care utilizează setările implicite ale instalării* **, urmaţi aceşti paşi: 
   
-1. Verifica ce plan de Office 365 care aveţi. [Aflaţi cum](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Verifica ce plan de Office 365 care aveţi. [Afla cum](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Dacă este necesar, trecerea la o diferite Office 365 planul. [Aflaţi cum](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Dacă este necesar, trecerea la o diferite Office 365 planul. [Afla cum](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. În cazul în care biroul este deja instalat pe serverul RDS folosind orice alte planuri Office 365, dezinstalaţi-l. De exemplu, de a merge la panoul de Control \> dezinstala un program. Uninstall folosire [Microsoft Support si asistent de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy) în cazul în care se execută în probleme. 
     
