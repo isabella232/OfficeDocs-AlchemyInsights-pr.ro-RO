@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760026"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396500"
 ---
 # <a name="buy-additional-licenses"></a>Cumpara licente suplimentare
 
-1. În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.
+1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
     
 2. Pe pagina de **abonamente** , alege abonamentul care doriţi să adăugaţi licenţe la, şi apoi selectaţi **Adăugare/eliminare licenţe**.
     

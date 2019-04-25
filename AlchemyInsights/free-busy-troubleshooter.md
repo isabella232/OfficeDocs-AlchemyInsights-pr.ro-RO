@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: 607
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
 ms.openlocfilehash: 59ebad4c8b5f26c6e75103f1a611f360af62f091
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786558"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401052"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Probleme văzând calendar informațiile liber/ocupat
 
-Dacă nu vă puteţi vedea informaţii liber-ocupat calendaristic în alte calendare, sau în cazul în care alte persoane nu pot vedea informaţiile liber/ocupat în calendar, utilizaţi [Microsoft Support si asistent de recuperare pentru Office 365](https://diagnostics.office.com/).
+Dacă nu puteți vedea informațiile liber/ocupat din calendar în alte calendare sau dacă alte persoane nu pot vedea informațiile liber/ocupat din calendarul dvs., utilizați [Asistent pentru recuperare și asistență Microsoft pentru Office 365](https://diagnostics.office.com/).
   
 
