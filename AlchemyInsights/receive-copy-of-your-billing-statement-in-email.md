@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: fa366278bf6d41f08eea1a77817c902a945c5a3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918012"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388261"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Primi copie de declaraţia dumneavoastră de facturare în e-mail
 Puteţi alege să primiţi o copie a declaraţia dumneavoastră de facturare ca ataşare de poştă electronică. În cazul în care fie conştienţi de faptul că:
