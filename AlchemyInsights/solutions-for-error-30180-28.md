@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.openlocfilehash: 5f67fb6d67c634e2b792a430709b4b664a4eedc2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928632"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369978"
 ---
-# <a name="solutions-for-error-30180-28"></a><span data-ttu-id="b78e0-102">Soluţii pentru eroare 30180-28</span><span class="sxs-lookup"><span data-stu-id="b78e0-102">Solutions for error 30180-28</span></span>
+# <a name="solutions-for-error-30180-28"></a><span data-ttu-id="d756e-102">Soluţii pentru eroare 30180-28</span><span class="sxs-lookup"><span data-stu-id="d756e-102">Solutions for error 30180-28</span></span>
 
-<span data-ttu-id="b78e0-p101">Este posibil să vedeţi [Eroare 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) în timpul unei actualizări Office, dacă aveţi o conexiune la internet săraci. Aici sunt unele lucruri pe care puteţi încerca pentru a rezolva problema.</span><span class="sxs-lookup"><span data-stu-id="b78e0-p101">You might see [error 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) during an Office update if you have a poor internet connection. Here are some things you can try to fix the problem.</span></span> 
+<span data-ttu-id="d756e-103">Este posibil să vedeţi [Eroare 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) în timpul unei actualizări Office, dacă aveţi o conexiune la internet săraci.</span><span class="sxs-lookup"><span data-stu-id="d756e-103">You might see [error 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) during an Office update if you have a poor internet connection.</span></span> <span data-ttu-id="d756e-104">Aici sunt unele lucruri pe care puteţi încerca pentru a rezolva problema.</span><span class="sxs-lookup"><span data-stu-id="d756e-104">Here are some things you can try to fix the problem.</span></span> 
   
-- <span data-ttu-id="b78e0-105">Reporniţi computerul şi apoi [actualiza Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b78e0-105">Restart your computer and then [update Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span></span>
+- <span data-ttu-id="d756e-105">Reporniţi computerul şi apoi [actualiza Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="d756e-105">Restart your computer and then [update Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
-- <span data-ttu-id="b78e0-106">Urmaţi paşii de mai sus, dar utilizează o conexiune prin cablu, în timp ce actualizarea Office.</span><span class="sxs-lookup"><span data-stu-id="b78e0-106">Follow the steps above, but use a wired connection while updating Office.</span></span>
+- <span data-ttu-id="d756e-106">Urmaţi paşii de mai sus, dar utilizează o conexiune prin cablu, în timp ce actualizarea Office.</span><span class="sxs-lookup"><span data-stu-id="d756e-106">Follow the steps above, but use a wired connection while updating Office.</span></span>
     
 

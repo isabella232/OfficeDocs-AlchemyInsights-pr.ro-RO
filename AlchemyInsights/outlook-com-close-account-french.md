@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000074
 ms.openlocfilehash: 33ab6176d68824d9a53fe40c1f08d9d4cdbdc38b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779383"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417833"
 ---
-# <a name="fermer-votre-compte-outlookcom"></a><span data-ttu-id="77863-102">Fermer votre compte Outlook.com</span><span class="sxs-lookup"><span data-stu-id="77863-102">Fermer votre compte Outlook.com</span></span>
+# <a name="fermer-votre-compte-outlookcom"></a><span data-ttu-id="3d93b-102">Fermer votre compte Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3d93b-102">Fermer votre compte Outlook.com</span></span>
 
-<span data-ttu-id="77863-103">Se toarnă fermer définitivement votre compte de courrier Outlook.com, vous devez fermer votre Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="77863-103">Pour fermer définitivement votre compte de courrier Outlook.com, vous devez fermer votre Compte Microsoft.</span></span> <span data-ttu-id="77863-104">Lorsque vous fermez votre Compte Microsoft, vos mesaje et vos contacte sont supprimés de nos serveurs et ne peuvent pas être récupérés.</span><span class="sxs-lookup"><span data-stu-id="77863-104">Lorsque vous fermez votre Compte Microsoft, vos messages et vos contacts sont supprimés de nos serveurs et ne peuvent pas être récupérés.</span></span>
+<span data-ttu-id="3d93b-103">Se toarnă fermer définitivement votre compte de courrier Outlook.com, vous devez fermer votre Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3d93b-103">Pour fermer définitivement votre compte de courrier Outlook.com, vous devez fermer votre Compte Microsoft.</span></span> <span data-ttu-id="3d93b-104">Lorsque vous fermez votre Compte Microsoft, vos mesaje et vos contacte sont supprimés de nos serveurs et ne peuvent pas être récupérés.</span><span class="sxs-lookup"><span data-stu-id="3d93b-104">Lorsque vous fermez votre Compte Microsoft, vos messages et vos contacts sont supprimés de nos serveurs et ne peuvent pas être récupérés.</span></span>
 
-<span data-ttu-id="77863-105">Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR).</span><span class="sxs-lookup"><span data-stu-id="77863-105">Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR).</span></span>
+<span data-ttu-id="3d93b-105">Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR).</span><span class="sxs-lookup"><span data-stu-id="3d93b-105">Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR).</span></span>

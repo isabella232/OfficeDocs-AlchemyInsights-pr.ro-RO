@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
 ms.openlocfilehash: 2204e0d0b4f3ac73fe1198e0b14ad51a6b3b1adc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901638"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406764"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="8dd4a-102">Crearea de foldere publice</span><span class="sxs-lookup"><span data-stu-id="8dd4a-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="64d8e-102">Crearea de foldere publice</span><span class="sxs-lookup"><span data-stu-id="64d8e-102">Creating public folders</span></span>
 
-<span data-ttu-id="8dd4a-p101">Înainte de al tău users a putea folos foldere publice în Office 365, trebuie să creaţi cel puţin un public folder poştală. Pentru a crea:</span><span class="sxs-lookup"><span data-stu-id="8dd4a-p101">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox. To create:</span></span>
+<span data-ttu-id="64d8e-103">Înainte de al tău users a putea folos foldere publice în Office 365, trebuie să creaţi cel puţin un public folder poştală.</span><span class="sxs-lookup"><span data-stu-id="64d8e-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="64d8e-104">Pentru a crea:</span><span class="sxs-lookup"><span data-stu-id="64d8e-104">To create:</span></span>
   
-1. <span data-ttu-id="8dd4a-105">Portalul O365, utilizând meniul de navigare stânga, navigaţi la **Centre de Admin** \> **schimb**.</span><span class="sxs-lookup"><span data-stu-id="8dd4a-105">In the O365 portal, using the left navigation menu, navigate to **Admin Centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="64d8e-105">Portalul O365, utilizând meniul de navigare stânga, navigaţi la **Centre de Admin** \> **schimb**.</span><span class="sxs-lookup"><span data-stu-id="64d8e-105">In the O365 portal, using the left navigation menu, navigate to **Admin Centers** \> **Exchange**.</span></span>
     
-2. <span data-ttu-id="8dd4a-106">Navigaţi la **foldere publice** \> **folderul Public cutiile poştale**, şi apoi faceţi clic pe **Adăugare**.</span><span class="sxs-lookup"><span data-stu-id="8dd4a-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="64d8e-106">Navigaţi la **foldere publice** \> **folderul Public cutiile poştale**, şi apoi faceţi clic pe **Adăugare**.</span><span class="sxs-lookup"><span data-stu-id="64d8e-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
     
-3. <span data-ttu-id="8dd4a-107">În **Public pliant poştală**, furnizaţi un nume pentru cutia poştală de public folder.</span><span class="sxs-lookup"><span data-stu-id="8dd4a-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="64d8e-107">În **Public pliant poştală**, furnizaţi un nume pentru cutia poştală de public folder.</span><span class="sxs-lookup"><span data-stu-id="64d8e-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
     
-4. <span data-ttu-id="8dd4a-108">Faceți clic pe **Salvați**.</span><span class="sxs-lookup"><span data-stu-id="8dd4a-108">Click **Save**.</span></span>
+4. <span data-ttu-id="64d8e-108">Faceţi clic pe **Salvaţi**.</span><span class="sxs-lookup"><span data-stu-id="64d8e-108">Click **Save**.</span></span>
     
-<span data-ttu-id="8dd4a-109">Odată ce s-a creat o cutie poştală, puteţi începe crearea de foldere individuale sau spune ca utilizatorii să [începeţi crearea şi utilizarea folderelor publice în Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="8dd4a-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
+<span data-ttu-id="64d8e-109">Odată ce s-a creat o cutie poştală, puteţi începe crearea de foldere individuale sau spune ca utilizatorii să [începeţi crearea şi utilizarea folderelor publice în Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="64d8e-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
   
 

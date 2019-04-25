@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
 ms.openlocfilehash: 7d72d902e933313082e725d3e467f77a7ec8ae5b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755274"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391704"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="37f90-102">Solutii pentru "Office (64-bit sau 32-bit) nu a putut fi instalat</span><span class="sxs-lookup"><span data-stu-id="37f90-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="42cbd-102">Solutii pentru "Office (64-bit sau 32-bit) nu a putut fi instalat</span><span class="sxs-lookup"><span data-stu-id="42cbd-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
 
 
 
-<span data-ttu-id="37f90-103">"Office (64-bit sau 32-bit) nu a putut fi instalat" eroare apare deoarece nu se poate amesteca 64-bit şi 32-biţi versiunile de birou.</span><span class="sxs-lookup"><span data-stu-id="37f90-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
+<span data-ttu-id="42cbd-103">"Office (64-bit sau 32-bit) nu a putut fi instalat" eroare apare deoarece nu se poate amesteca 64-bit şi 32-biţi versiunile de birou.</span><span class="sxs-lookup"><span data-stu-id="42cbd-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
   
-<span data-ttu-id="37f90-104">Pentru a rezolva această eroare şi trecerea de la 32 de biţi la 64-biţi, trebuie să faceţi următoarele în această ordine.</span><span class="sxs-lookup"><span data-stu-id="37f90-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
+<span data-ttu-id="42cbd-104">Pentru a rezolva această eroare şi trecerea de la 32 de biţi la 64-biţi, trebuie să faceţi următoarele în această ordine.</span><span class="sxs-lookup"><span data-stu-id="42cbd-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
   
-1. <span data-ttu-id="37f90-105">Descărca şi instala [sprijin si asistent de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="37f90-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+1. <span data-ttu-id="42cbd-105">Descărca şi instala [sprijin si asistent de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="42cbd-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="37f90-106">Când se deschide, la **produsele dezinstalaţi Office** selectaţi versiunea pe care doriţi să dezinstalaţi şi selectaţi **Următorul**.</span><span class="sxs-lookup"><span data-stu-id="37f90-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="42cbd-106">Când se deschide, la **produsele dezinstalaţi Office** selectaţi versiunea pe care doriţi să dezinstalaţi şi selectaţi **Următorul**.</span><span class="sxs-lookup"><span data-stu-id="42cbd-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="37f90-107">Continua trece prin ecrane şi reporniţi computerul când vi se solicită.</span><span class="sxs-lookup"><span data-stu-id="37f90-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="42cbd-107">Continua trece prin ecrane şi reporniţi computerul când vi se solicită.</span><span class="sxs-lookup"><span data-stu-id="42cbd-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="37f90-108">După repornirea, suport și recuperare asistent re-se deschide automat pentru a finaliza procesul de dezinstalare.</span><span class="sxs-lookup"><span data-stu-id="37f90-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="42cbd-108">După repornirea, suport și recuperare asistent re-se deschide automat pentru a finaliza procesul de dezinstalare.</span><span class="sxs-lookup"><span data-stu-id="42cbd-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="37f90-109">Urmaţi restul solicitările şi [reinstala Office](https://portal.office.com/OLS/MySoftware.aspx) cu versiunea corectă 32-bit sau 64-bit.</span><span class="sxs-lookup"><span data-stu-id="37f90-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span> 
+3. <span data-ttu-id="42cbd-109">Urmaţi restul solicitările şi [reinstala Office](https://portal.office.com/OLS/MySoftware.aspx) cu versiunea corectă 32-bit sau 64-bit.</span><span class="sxs-lookup"><span data-stu-id="42cbd-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span> 
     
-    <span data-ttu-id="37f90-110">Urmaţi paşii din [Instala Office pe un PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="37f90-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
+    <span data-ttu-id="42cbd-110">Urmaţi paşii din [Instala Office pe un PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="42cbd-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
     
-<span data-ttu-id="37f90-111">Pentru informaţii suplimentare, consultaţi ["Office (64-bit sau 32-bit) nu a putut fi instalat" eroare atunci când încercaţi să instalaţi](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="37f90-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
+<span data-ttu-id="42cbd-111">Pentru informaţii suplimentare, consultaţi ["Office (64-bit sau 32-bit) nu a putut fi instalat" eroare atunci când încercaţi să instalaţi](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="42cbd-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
   
 
