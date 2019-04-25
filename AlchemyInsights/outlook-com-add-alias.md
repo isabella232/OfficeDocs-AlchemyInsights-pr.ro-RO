@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000238
 ms.openlocfilehash: dc3751b3f991393ede3117fdc536360446b71490
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775603"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419291"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Adauga un alias de poştă electronică în Outlook.com
 

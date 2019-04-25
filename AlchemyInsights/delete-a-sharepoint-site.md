@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935613"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405636"
 ---
 # <a name="delete-a-sharepoint-site"></a>Sterge un site SharePoint
 **Şterge site-uri la noul centru de administrare SharePoint** Utilizând noul centru de administrare SharePoint, aveţi posibilitatea să ştergeţi site-uri clasice şi moderne. Selectaţi **site-uri Active**, selectaţi site-ul, şi apoi selectaţi **ştergeţi**. Să [Vezi şi Restaurare şterse site-uri din centrul de administrare SharePoint nouă](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectaţi **şterge site-uri**. Pentru mai multe informaţii, consultaţi [Ştergerea unui site în noul centru de administrare SharePoint](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
