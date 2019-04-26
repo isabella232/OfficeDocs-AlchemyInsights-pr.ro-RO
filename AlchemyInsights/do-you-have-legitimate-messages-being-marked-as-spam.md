@@ -1,5 +1,5 @@
 ---
-title: Aveţi mesaje legitime fiind marcate ca spam?
+title: Aveți mesaje legitime marcate ca spam?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469071"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399153"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="c0257-102">Aveţi mesaje legitime fiind marcate ca spam?</span><span class="sxs-lookup"><span data-stu-id="c0257-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="4f4e6-102">Aveți mesaje legitime marcate ca spam?</span><span class="sxs-lookup"><span data-stu-id="4f4e6-102">Do you have legitimate messages being marked as spam?</span></span>
 
 
-<span data-ttu-id="c0257-103">Încercaţi mai sus diagnostic sau încercaţi acest [pas cu pas ghid pentru rezolvarea problemelor bun mesajele fiind marcate ca spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="c0257-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="4f4e6-103">Încercați diagnosticul de mai sus sau încercați acest [ghid pas cu pas pentru depanarea marcarea mesajelor bune ca spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="4f4e6-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="c0257-104">Este cel mai bun mod de a raporta aceste tipuri de probleme:</span><span class="sxs-lookup"><span data-stu-id="c0257-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="4f4e6-104">Cea mai bună metodă de a raporta aceste tipuri de probleme este să:</span><span class="sxs-lookup"><span data-stu-id="4f4e6-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="c0257-105">[Permite raportare a aduna-înăuntru](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) pentru utilizator.</span><span class="sxs-lookup"><span data-stu-id="c0257-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="4f4e6-105">[activați raportarea programelor de completare](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) pentru utilizator.</span><span class="sxs-lookup"><span data-stu-id="4f4e6-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="c0257-106">Au utilizator [raport mesajul ca nu Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="c0257-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="4f4e6-106">Solicitați ca utilizatorul [să raporteze mesajul ca nefiind nedorit](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="4f4e6-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
     
-<span data-ttu-id="c0257-107">Dacă doriţi să deschideţi un bilet de sprijin, vă rugăm să anexaţi anteturile de e-mail plin de cel puțin **un întreg mesajul original** de mai jos.</span><span class="sxs-lookup"><span data-stu-id="c0257-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span> 
+<span data-ttu-id="4f4e6-107">Dacă doriți să deschideți un tichet de asistență, atașați anteturile complete de e-mail de la cel puțin un **mesaj inițial întreg** mai jos.</span><span class="sxs-lookup"><span data-stu-id="4f4e6-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span> 
   
 
