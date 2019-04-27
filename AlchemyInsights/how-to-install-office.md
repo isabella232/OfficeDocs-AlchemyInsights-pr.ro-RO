@@ -1,5 +1,5 @@
 ---
-title: Cum să instalaţi Office
+title: Cum se instalează Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.openlocfilehash: 05e1f1e27d77ebf621fda557346692a75befd284
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405119"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417366"
 ---
-# <a name="how-to-install-office"></a>Cum să instalaţi Office
+# <a name="how-to-install-office"></a>Cum se instalează Office
 
 
-Pentru a instala Office apps de client, vă asigura că aveţi un abonament de afaceri, cum ar fi Office 365 Business Premium, Office 365 Business sau Office 365 educaţie.
+Pentru a instala aplicațiile client Office, asigurați-vă că aveți un abonament pentru firme, cum ar fi Office 365 Business Premium, Office 365 Business sau Office 365 Education.
   
-*Notă: [Office acasă şi de afaceri 2016](https://products.office.com/home-and-business) este un produs [Office pentru acasă](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) și nu fac parte din abonament business. Pentru instrucţiuni specifice Visio sau proiect, a se vedea [Instalaţi Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) sau [proiect](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*Notă: [Office 2016 pentru firme mici](https://products.office.com/home-and-business) este un produs [Office pentru acasă](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) și nu face parte dintr-un abonament pentru firme. Pentru instrucțiuni specifice despre Visio sau Project, consultați [Instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) sau [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
-Creaţi conturi de utilizator şi adăugaţi domeniului. Asiguraţi-vă că utilizatorul are un [asociat a da un permis](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
+Creați conturile de utilizator și adăugați domeniul dvs. Asigurați-vă că utilizatorul are o [licență atribuită](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
-Au fiecare utilizator:
-1. Du-te la paginile: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
-2. Faceţi sign in cu contul lor de lucru sau şcoală dacă nu este deja logat.
-3. Sub secţiunea Office, selectaţi limba. Selectaţi **avansat** pentru a alege versiunea de 32-bit sau 64-bit traducere. 
-4. Selectaţi **instalarea**.
+Fiecare utilizator are:
+1. Accesați pagina portalului: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+2. Conectați-vă cu contul de la locul de muncă sau de la școală, dacă nu sunteți deja conectat.
+3. Sub secțiunea Office, selectați limba. Selectați **Complex** pentru a alege versiunea pe 32 de biți sau versiunea pe 64 de biți. 
+4. Selectați **Instalare**.
     
-Pentru măsurile detaliate şi soluţii rezolvarea problemelor la instalarea Office, consultaţi: [Descărcaţi şi instalaţi sau reinstalați Office pe un PC sau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Pentru pași detaliați și soluții de depanare la instalarea Office, consultați: [Descărcați și instalați sau reinstalați Office pe un PC sau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
     
