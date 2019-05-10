@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401196"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867950"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Remedia problemele de căutare prin reconstruirea catalogului de căutare instantanee
+# <a name="troubleshoot-search-issues"></a>Depanarea problemelor de căutare
 
-1. Închideţi Outlook şi deschideţi **Panoul de Control**.
-    
-    > [!NOTE]
-    > În funcţie de versiunea de Office pe care îl utilizaţi, trebuie să faceţi clic pe butonul **Start** şi meniul **Start** , faceţi clic dreapta pe **Panoul de Control**. 
-  
-2. Efectuaţi una din următoarele:
-    
-  - Alegeţi **opţiunile de indexare**.
-    
-  - In casuta de **cautare** , *Indexare* de tip, şi apoi alegeţi **Opţiunile de indexare**.
-    
-3. În caseta de dialog **Locații indexate** , sub **schimba locaţiile selectate**, selectaţi caseta de selectare pentru locaţia pe care doriţi să modificaţi, şi apoi faceţi clic pe **OK**.
-    
-4. În caseta de dialog **Opțiuni complexe** , în fila **Setări Index** , în **rezolvarea problemelor**, faceţi clic pe **reconstrui**.
-    
-    > [!NOTE]
-    > Un dialog **Reconstrui Index** cutie se deschide avertizare care "index s-ar putea lua o lungă perioadă de timp pentru a finaliza." Selectaţi **OK** pentru a începe reconstruirea indexului. 
-  
-Pentru mai multe informaţii, a se vedea problema cunoscut [nici un rezultat de căutare pentru POP/IMAP conturi](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Dacă aveţi probleme cu căutaţi, vă rugăm să consultaţi link-urile de mai jos pentru ajutor depanare.
 
+Acestea sunt cele mai frecvente probleme, şi sunt un loc bun pentru a începe:
+- [Outlook căutare returnează nici un rezultat](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook căutare returnează rezultate incomplete](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Căutaţi Outlook nu poate găsi e-mailuri mai vechi](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Posibile soluţii pentru probleme mai puţin frecvente pot fi găsite aici:
+- [Outlook 2016 numai: fila Căutaţi este inactiv](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Cutie poştală partajată: Probleme cu Rezultatele cautarii](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Eroare: Căutare de performanţă vor fi afectate din cauza o problemă cu modul în care Outlook este configurat](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Folderele de căutare se afișează elementele de PersonMetadata neaşteptate cu nici un subiect](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
