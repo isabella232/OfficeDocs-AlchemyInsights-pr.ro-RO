@@ -3,7 +3,7 @@ title: Export contactele în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 5/30/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "8000020"
 - "279"
 ms.assetid: 37fc1455-7324-4c76-9a94-085a45e94c51
-ms.openlocfilehash: 7d09d7aa100d5f2b2c0d487d17526ce84d997c1f
-ms.sourcegitcommit: d10a148f518dc1c65b5aa3646c1045807c5b79de
+ms.openlocfilehash: 0179b2dfe343d70ce508d2588e9f994147457136
+ms.sourcegitcommit: 9cba657cb6023192961569451db84fe51951e914
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34482811"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34591942"
 ---
-# <a name="export-your-contacts"></a><span data-ttu-id="c28cf-102">Exportaţi contactele dvs.</span><span class="sxs-lookup"><span data-stu-id="c28cf-102">Export your contacts</span></span>
+# <a name="export-your-contacts"></a><span data-ttu-id="83165-102">Exportaţi contactele dvs.</span><span class="sxs-lookup"><span data-stu-id="83165-102">Export your contacts</span></span>
 
-1. <span data-ttu-id="c28cf-103">Du-te la [oameni](https://outlook.live.com/people/).</span><span class="sxs-lookup"><span data-stu-id="c28cf-103">Go to [People](https://outlook.live.com/people/).</span></span>
+1. <span data-ttu-id="83165-103">Du-te la [oameni](https://outlook.live.com/people/).</span><span class="sxs-lookup"><span data-stu-id="83165-103">Go to [People](https://outlook.live.com/people/).</span></span>
 
-2. <span data-ttu-id="c28cf-104">În partea de sus a paginii, selectaţi **Manage** \> **de Export**.</span><span class="sxs-lookup"><span data-stu-id="c28cf-104">At the top of the page, select **Manage** \> **Export**.</span></span>
+2. <span data-ttu-id="83165-104">În partea de sus a paginii, selectaţi **Manage** \> **Export contacte**.</span><span class="sxs-lookup"><span data-stu-id="83165-104">At the top of the page, select **Manage** \> **Export contacts**.</span></span>
 
-3. <span data-ttu-id="c28cf-105">Alegeţi dacă doriţi să exportaţi toate contactele sau numai contacte dintr-un folder specifice şi selectaţi **Export**.</span><span class="sxs-lookup"><span data-stu-id="c28cf-105">Choose if you want to export all contacts or only contacts from a specific folder and select **Export**.</span></span>
+3. <span data-ttu-id="83165-105">Alegeţi dacă doriţi să exportaţi toate contactele sau numai contacte dintr-un folder specifice şi selectaţi **Export**.</span><span class="sxs-lookup"><span data-stu-id="83165-105">Choose if you want to export all contacts or only contacts from a specific folder and select **Export**.</span></span>
 
-4. <span data-ttu-id="c28cf-106">În partea de jos a paginii, selectaţi **salvaţi** şi "contacts.csv" va fi salvat în folderul de download-uri implicite.</span><span class="sxs-lookup"><span data-stu-id="c28cf-106">At the bottom of the page, select **Save** and "contacts.csv" will be saved in your default Downloads folder.</span></span> <span data-ttu-id="c28cf-107">Să alegeţi unde să salvaţi fişierul .csv, selectaţi săgeata de lângă salvaţi şi selectaţi **Salvare ca**.</span><span class="sxs-lookup"><span data-stu-id="c28cf-107">To choose where to save the .csv file, select the arrow next to Save and select **Save as**.</span></span>
+4. <span data-ttu-id="83165-106">În partea de jos a paginii, selectaţi **salvaţi** şi "contacts.csv" va fi salvat în folderul de download-uri implicite.</span><span class="sxs-lookup"><span data-stu-id="83165-106">At the bottom of the page, select **Save** and "contacts.csv" will be saved in your default Downloads folder.</span></span> <span data-ttu-id="83165-107">Să alegeţi unde să salvaţi fişierul .csv, selectaţi săgeata de lângă salvaţi şi selectaţi **Salvare ca**.</span><span class="sxs-lookup"><span data-stu-id="83165-107">To choose where to save the .csv file, select the arrow next to Save and select **Save as**.</span></span>
 
-<span data-ttu-id="c28cf-108">Pentru informaţii suplimentare, consultaţi [Export contactele din Outlook.com într-un fişier CSV](https://go.microsoft.com/fwlink/p/?linkid=873137).</span><span class="sxs-lookup"><span data-stu-id="c28cf-108">For more information, see [Export contacts from Outlook.com to a CSV file](https://go.microsoft.com/fwlink/p/?linkid=873137).</span></span>
+<span data-ttu-id="83165-108">Pentru informaţii suplimentare, consultaţi [Export contactele din Outlook.com într-un fişier CSV](https://go.microsoft.com/fwlink/p/?linkid=873137).</span><span class="sxs-lookup"><span data-stu-id="83165-108">For more information, see [Export contacts from Outlook.com to a CSV file](https://go.microsoft.com/fwlink/p/?linkid=873137).</span></span>
