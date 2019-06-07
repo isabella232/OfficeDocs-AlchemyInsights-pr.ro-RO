@@ -11,13 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 044820bc6bce19ea1235bffa49b46f92d778b157
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 69f43d060d4ca8d99f25cf6813baa1b2fb35125f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719423"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758882"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="8572a-102">SharePoint Online site-uri publice au fost întreruptă</span><span class="sxs-lookup"><span data-stu-id="8572a-102">SharePoint Online public websites have been discontinued</span></span>
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="20658-102">SharePoint Online site-uri publice au fost întreruptă</span><span class="sxs-lookup"><span data-stu-id="20658-102">SharePoint Online public websites have been discontinued</span></span>
 
-<p><span data-ttu-id="8572a-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">SharePoint Online site-uri publice au fost întreruptă.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="8572a-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">SharePoint Online public websites have been discontinued.&nbsp;</span></span></span></p> <p><span data-ttu-id="8572a-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Dacă aţi creat un site SharePoint Online public, aţi fost capabil să continuaţi să utilizaţi-l prin intermediul 31 martie 2018. Dacă doriți să continuați cu un site public, trebuie să creaţi unul nou cu un nou furnizor. Conţinutul de pe site-ul dumneavoastră SharePoint Online publice a fost şters.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="8572a-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018. If you want to continue having a public website, you need to create a new one with a new provider. The content on your SharePoint Online public website has been deleted.&nbsp;</span></span></span></p> <p><span data-ttu-id="8572a-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Pentru informaţii despre întreruperea site public, a se vedea <a href="https://go.microsoft.com/fwlink/?linkid=866980">Detalii despre procesul de întreruperea caracteristică</a>.</span></span><span class="sxs-lookup"><span data-stu-id="8572a-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">For info about the public website discontinuation, see <a href="https://go.microsoft.com/fwlink/?linkid=866980">Details about the feature discontinuation process</a>.</span></span></span></p>
+<span data-ttu-id="20658-103">SharePoint Online site-uri publice au fost întreruptă.</span><span class="sxs-lookup"><span data-stu-id="20658-103">SharePoint Online public websites have been discontinued.</span></span>
+
+<span data-ttu-id="20658-104">Dacă aţi creat un site SharePoint Online public, aţi fost capabil să continuaţi să utilizaţi-l prin intermediul 31 martie 2018.</span><span class="sxs-lookup"><span data-stu-id="20658-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="20658-105">Dacă doriți să continuați cu un site public, trebuie să creaţi unul nou cu un nou furnizor.</span><span class="sxs-lookup"><span data-stu-id="20658-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="20658-106">Conţinutul de pe site-ul dumneavoastră SharePoint Online publice a fost şters.</span><span class="sxs-lookup"><span data-stu-id="20658-106">The content on your SharePoint Online public website has been deleted.</span></span>
+
+<span data-ttu-id="20658-107">Pentru informaţii despre întreruperea site public, a se vedea [Detalii despre procesul de întreruperea caracteristică](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="20658-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>
