@@ -8,14 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718968"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756876"
 ---
 # <a name="edit-a-read-only-file"></a>Edita un fişier doar în citire
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Puteţi găsi că, atunci când îl deschideți fișierele, au deschis doar în citire. În unele cazuri, acest lucru este pentru securitate sporită, cum ar fi atunci când sunt deschiderea fişierelor de pe internet, şi alte ori, poate fi din cauza unei setări care poate fi schimbat. În articolul &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">ce a făcut meu dosar deschis doar în citire</span></a> &rdquo; vom sublinia unele scenarii în cazul în care se deschide un fişier doar în citire şi unele măsuri puteţi lua pentru a schimba asta.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Aici&rsquo;e cum de a deschide biroul fişiere pentru editare.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">În loc să faceţi clic pe titlul documentului, faceţi clic pe <strong>Meniu deschis</strong> (trei puncte), şi apoi faceţi clic pe <strong>Editare</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Note:</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Dacă vă&rsquo;d mai degrabă au documente deschise pentru editare în Office Online, atunci când faceţi clic pe titlul, puteţi configura biblioteca pentru a face acest lucru (atâta timp cât aveţi permisiunea de a modifica Setări bibliotecă):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Dacă aveţi biblioteci cu <strong style="box-sizing: border-box;">Checkout</strong>, <strong style="box-sizing: border-box;">necesare </strong>coloane/metadate,&nbsp;sau când <strong style="box-sizing: border-box;">Proiectul element de securitate</strong> este setat la oricare dintre&nbsp;<strong style="box-sizing: border-box;">Doar utilizatorii care editează</strong> sau&nbsp;<strong style="box-sizing: border-box;">Doar utilizatorii care pot aproba elemente</strong> în versiunea Setările de o bibliotecă de documente SharePoint, aceste elemente vor fi sincronizate ca <strong style="mso-bidi-font-weight: normal;">doar-în-citire.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Un document Office se deschide în vizualizarea protejat chiar dacă activaţi setarea de politică "Open Office documente ca citire/scriere în timpul navigãrii". Pentru mai multe informaţii, vă rugăm să consultaţi acest <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">articol.</span></a></span></li> </ul>
+Puteţi găsi că, atunci când îl deschideți fișierele, au deschis doar în citire. În unele cazuri, acest lucru este pentru securitate sporită, cum ar fi atunci când sunt deschiderea fişierelor de pe internet, şi alte ori, poate fi din cauza unei setări care poate fi schimbat. În articolul [ce a făcut meu dosar deschis doar în citire](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) ne sublinia unele scenarii în cazul în care se deschide un fişier doar în citire şi unele măsuri puteţi lua pentru a schimba asta.
+
+Aici este cum de a deschide fişiere office pentru editare.
+
+În loc să faceţi clic pe titlul documentului, faceţi clic pe **Meniu deschis** (trei puncte), şi apoi faceţi clic pe **Editare**.
+
+Note:
+
+- Dacă ar avea mai degrabă documente deschise pentru editare în Office Online, atunci când faceţi clic pe titlul, puteţi seta biblioteca pentru a face acest lucru (atâta timp cât aveţi permisiunea de a modifica setările de bibliotecă).
+
+- Dacă aveţi biblioteci cu Checkout, coloane necesar sau când numai utilizatorii care editează în setările de versiunea de SharePoint un document biblioteca, aceste elemente vor fi sincronizate ca doar-în-citire.
+
+- Un document Office se deschide în vizualizarea protejat chiar dacă activaţi setarea de politică "Open Office documente ca citire/scriere în timpul navigãrii". Pentru mai multe informaţii, vă rugăm să consultaţi această [articol.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 
