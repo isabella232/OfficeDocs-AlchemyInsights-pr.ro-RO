@@ -8,15 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 620a1094c1926b2c095c057a1791aaed8383afb3
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b157ce22962ac1616d6e9b3a5475edaec7fed9f7
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716938"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761270"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online supraîncărcarea
 
-<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Utilizatorii pot primi un 503 serverul este ocupat de eroare când se încearcă pentru a naviga la site-uri Sharepoint sau OneDrive.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Această eroare poate fi cauzată de reglare în serviciul Sharepoint. SharePoint Online foloseste supraîncărcarea pentru a menţine performanţe optime şi fiabilitate serviciului SharePoint Online. Supraîncărcarea limitele numărului de acţiunile utilizatorului sau concurente apeluri (de script sau cod) pentru a preveni suprasolicitarea resurselor. În cazul în care veţi obţine reglat, 99 % din timp este din cauza cod particularizat.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Pentru mai multe informaţii despre throttling see, <a href="https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online">evita obtinerea limitat sau blocat în SharePoint Online</a>.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Dacă credeţi că această eroare este nu au legătură cu supraîncărcarea, puteţi verifica dacă este activă de întreţinere care apar pe chiriaşul dumneavoastră de navigare la <a href="https://portal.office.com/adminportal/home#/MessageCenter">Centru de mesaje</a>. În cele din urmă, asiguraţi-vă vizitaţi pagina <a href="https://portal.office.com/adminportal/home#/servicehealth">Servicii de sănătate</a> pentru a verifica pentru orice consultaţie/incidentele care pot fi care apar.</span></p> <p>&nbsp;</p>
+Utilizatorii pot primi un 503 serverul este ocupat de eroare când se încearcă pentru a naviga la site-uri SharePoint sau OneDrive. 
 
+Această eroare poate fi cauzată de reglare în serviciul SharePoint. SharePoint Online foloseste supraîncărcarea pentru a menţine performanţe optime şi fiabilitate serviciului SharePoint Online. Supraîncărcarea limitele numărului de acţiunile utilizatorului sau concurente apeluri (de script sau cod) pentru a preveni suprasolicitarea resurselor. În cazul în care veţi obţine reglat, 99 % din timp este din cauza cod particularizat.
+
+Pentru mai multe informaţii despre throttling see, [evita obtinerea limitat sau blocat în SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+
+Dacă credeţi că această eroare este nu au legătură cu supraîncărcarea, puteţi verifica dacă este activă de întreţinere care apar pe chiriaşul dumneavoastră de navigare la [Centru de mesaje](https://portal.office.com/adminportal/home#/MessageCenter).
+
+ În cele din urmă, asiguraţi-vă vizitaţi pagina [Servicii de sănătate](https://portal.office.com/adminportal/home#/servicehealth) pentru a verifica pentru orice consultaţie/incidentele care pot fi care apar.
 

@@ -2,7 +2,7 @@
 title: 126 obtinerea unei cutii poştale nu poate fi găsit de eroare în OWA?
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 126
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: fe8119c300e99170da4f338f2420b1229ab24bea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0288f952ae5e5aade409c3f9d394d2827b5013ee
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400837"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755415"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Noţiuni de bază o cutie poştală nu a întemeia error în Outlook pe web?
 
@@ -26,4 +26,4 @@ Dacă utilizaţi Outlook de pe web şi veţi obţine o eroare de **cutie poştal
 
 2. Din **edita un utilizator** în pagina care se deschide, selectaţi utilizatorul. În pagina de proprietăţi utilizatorului care se deschide, faceţi clic pe **editaţi** licente de **produs**.
 
-3. În pagina de **produs de licenţe** care se deschide, selectaţi valoarea corespunzătoare **locaţie** şi atribuiţi o licenţă care conţine Exchange Online (extinde licenţa pentru a vedea detaliile sale). Când aţi terminat, faceţi clic pe **Salvaţi**.
+3. În pagina de **produs de licenţe** care se deschide, selectaţi valoarea corespunzătoare **locaţie** şi atribuiţi o licenţă care conţine Exchange Online (extinde licenţa pentru a vedea detaliile sale). Când ați terminat, faceți clic pe **Salvați**.
