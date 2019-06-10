@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630027"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770258"
 ---
 # <a name="how-to-import-nk2-files"></a>Cum de a importa fişiere de .nk2 
 
@@ -37,4 +37,4 @@ După ce importaţi fişierul .nk2, conţinutul fişierului sunt Unite în memor
 
 **Notă**: fişierul .nk2 este redenumit cu extensia de nume de fişier .old data viitoare când porniţi Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Office 365. Dacă doriţi să reimportat fişierul .nk2, eliminaţi extensia de nume de fişier .old în primul rând.
 
-Pentru informaţii suplimentare, consultaţi [importul sau copie listă Completare automată la un alt calculator](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Pentru informaţii suplimentare, consultaţi [importul sau copie listă Completare automată la un alt calculator](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

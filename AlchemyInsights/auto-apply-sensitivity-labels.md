@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408730"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769554"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto-aplica etichete de sensibilitate
 
@@ -25,7 +25,7 @@ Aplicarea automat sensibilitatea etichete elimină necesitatea de a instrui util
 Pentru a aplica etichete automat, în continuare este necesară:
 
 - Azur informaţii protecţie P2 abonament
-- [Descărcaţi şi să instalaţi clientul etichetare unificat Azure informaţii protecţie](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Descărcaţi şi să instalaţi clientul etichetare unificat Azure informaţii protecţie](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Noi suntem de lucru pe suport nativ, care nu va solicita clientul etichetare unificat Azure informaţii protecţie în viitor.
 
@@ -33,5 +33,5 @@ Noi suntem de lucru pe suport nativ, care nu va solicita clientul etichetare uni
 
 Pentru mai multe informaţii despre sensibilitatea etichete şi le aplică automat la conţinut, consultaţi:
 
-- [Privire de ansamblu asupra sensibilităţii etichete](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Aplica o eticheta de sensibilitate la conţinut automat](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Privire de ansamblu asupra sensibilităţii etichete](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Aplica o eticheta de sensibilitate la conţinut automat](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

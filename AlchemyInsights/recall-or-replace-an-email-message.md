@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096598"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770820"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Amintesc sau să înlocuiască un mesaj de e-mail
 
@@ -36,7 +36,7 @@ Pentru mai multe informaţii, inclusiv cum să verificaţi pe recall, [Recall](h
 
 ***Căutarea şi ştergeţi mesajele de e-mail în cadrul organizaţiei*** Pentru a căuta şi ştergeţi mesajele de e-mail în cadrul organizaţiei, este mai uşor, dacă sunteţi un admin la nivel mondial. Dacă nu sunteţi un administrator global, contul trebuie adăugat la grupul de roluri de Manager eDiscovery, sau la rolul de gestionare conformitatea căutaţi. Pentru a ºterge mesaje, veţi avea nevoie să se alăture grupului de roluri Gestionare organizaţie sau rol de gestionare căutare și Golire. Permisiunile pentru aceste roluri sunt atribuite în [Centrul de conformitatea securitate &](https://protection.office.com/).
 
-1. [Creaţi un conţinut de căutare](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) pentru a găsi mesajul pentru a şterge.
-2. [Conecta la securitate & respectarea centrul PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Creaţi un conţinut de căutare](https://docs.microsoft.com/office365/securitycompliance/content-search) pentru a găsi mesajul pentru a şterge.
+2. [Conecta la securitate & respectarea centrul PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Dacă utilizaţi Mae, consultaţi [Conectare la Office 365 securitate & respectarea centrul PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Dacă utilizaţi Mae, consultaţi [Conectare la Office 365 securitate & respectarea centrul PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
