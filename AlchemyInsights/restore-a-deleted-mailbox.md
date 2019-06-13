@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761807"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899555"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restabilirea unei cutii poştale şterse
 
@@ -23,11 +24,10 @@ Atunci când un utilizator îşi pierde licenţă Exchange Online, cutia poştal
 În portalul de Admin:
   
 - Du-te la **utilizatorii** \> **utilizatori activi**. Selectaţi utilizatorul în cauză.
-    
-- Selectaţi ** edita ** a modifica licente de produs. 
-    
+
+- Selectaţi **Editare** pentru a modifica licente de produs.
+
 - Atribuie licenţă Exchange Online utilizatorului, şi apoi selectaţi **Save**.
-    
+
 Cutiile poştale partajate sunt recuperabile în termen de 30 de zile. Puteţi găsi cutiile poştale partajate sub **utilizatorii** \> **şterse de utilizatori**. Cutiile poştale partajate nu necesită o licenţă Exchange Online.
   
-
