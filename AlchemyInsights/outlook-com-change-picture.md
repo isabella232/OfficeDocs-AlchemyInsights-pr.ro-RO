@@ -13,11 +13,11 @@ ms.custom:
 - "8000036"
 - "793"
 ms.openlocfilehash: 84c8b7465c505ff911f0ee156d1eb0cdd8942afd
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859192"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062176"
 ---
 # <a name="change-your-account-picture"></a>Modifica imaginea de cont
 
