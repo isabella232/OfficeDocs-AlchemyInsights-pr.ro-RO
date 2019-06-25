@@ -11,14 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: a67fdd7e44ed5651135443b68998a3c61886d133
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762199"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079324"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint--onedrive"></a>Open Office fişiere şi documente din SharePoint & OneDrive
+# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>Open Office fişiere şi documente SharePoint şi OneDrive
+
 
 Dacă aveţi probleme la deschiderea fişierelor Office şi documente din bibliotecile de documente SharePoint sau OneDrive, iată câteva sugestii pentru a vă ajuta să le rezolvaţi.
 

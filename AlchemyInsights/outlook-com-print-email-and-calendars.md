@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709028"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957392"
 ---
 # <a name="print-email-and-calendars"></a>Imprimare e-mail şi calendare
 
 Pentru a imprima un mesaj de e-mail:
   
 1. Selectaţi mesajul pe care doriţi să imprimaţi.
-1. Deasupra panoul de citire, selectaţi trei puncte şi apoi selectaţi **printaţi**.
+1. La colţul din dreapta sus a mesajului, selectaţi trei puncte şi apoi selectaţi **printaţi**.
 
 Pentru a imprima calendarul:
 
