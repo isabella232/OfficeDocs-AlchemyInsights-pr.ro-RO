@@ -1,35 +1,33 @@
 ---
-title: 8000035 cum sa faci aspectul Outlook.com noi ca cel vechi
+title: Cum sa faci aspectul Outlook.com noi ca cel vechi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409414"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117625"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="8c8a7-102">Cum sa faci aspectul Outlook.com noi ca versiunea veche</span><span class="sxs-lookup"><span data-stu-id="8c8a7-102">How to make the new Outlook.com look like the old version</span></span>
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="30cbe-102">Cum sa faci aspectul Outlook.com noi ca versiunea veche</span><span class="sxs-lookup"><span data-stu-id="30cbe-102">How to make the new Outlook.com look like the old version</span></span>
 
-<span data-ttu-id="8c8a7-103">Aici sunt unele setări şi vederi puteţi schimba pentru a face aspectul Outlook.com noi ca versiunea veche.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-103">Here are some settings and views you can change to make the new Outlook.com look like the old version.</span></span>
+<span data-ttu-id="30cbe-103">Aici sunt unele setări puteţi schimba pentru a face aspectul Outlook.com noi ca versiunea veche:</span><span class="sxs-lookup"><span data-stu-id="30cbe-103">Here are some settings you can change to make the new Outlook.com look like the old version:</span></span>
 
-1. <span data-ttu-id="8c8a7-104">Selectaţi pictograma roată din partea de sus a paginii pentru a deschide setările.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-104">Select the gear icon at the top of the page to open Settings.</span></span>
-2. <span data-ttu-id="8c8a7-105">Selectaţi preferat **tema**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-105">Select your preferred **Theme**.</span></span>
-3. <span data-ttu-id="8c8a7-106">Modificați **vizualizarea conversaţie** la **cele mai noi mesaje pe partea de sus**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-106">Change **Conversation view** to **Newest messages on top**.</span></span>
-4. <span data-ttu-id="8c8a7-107">Modifi **ascunde** **panoul de citire** .</span><span class="sxs-lookup"><span data-stu-id="8c8a7-107">Change **Reading pane** to **Hide**.</span></span>
-5. <span data-ttu-id="8c8a7-108">Comutaţi pe **orientarea inbox** **Off**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-108">Switch **Focused inbox** to **Off**.</span></span>
-6. <span data-ttu-id="8c8a7-109">Comutaţi pe **expeditor imagine** **Off**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-109">Switch **Sender image** to **Off**.</span></span> 
-7. <span data-ttu-id="8c8a7-110">Comutaţi **grup mesaje scrise de data** **afara**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-110">Switch **Group messages by date** to **Off**.</span></span> 
-8. <span data-ttu-id="8c8a7-111">Comutaţi **Attachment preview** **Off**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-111">Switch **Attachment preview** to **Off**.</span></span> 
-9. <span data-ttu-id="8c8a7-112">Comuta **textul de examinare a mesaj** la **pe**.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-112">Switch **Message preview text** to **On**.</span></span>
+1. <span data-ttu-id="30cbe-104">Du-te la [setările de Layout](https://outlook.live.com/mail/options/mail/layout).</span><span class="sxs-lookup"><span data-stu-id="30cbe-104">Go to [Layout settings](https://outlook.live.com/mail/options/mail/layout).</span></span>
+1. <span data-ttu-id="30cbe-105">În conformitate cu **orientarea primite**, selectaţi **nu sortaţi mesajele mele**.</span><span class="sxs-lookup"><span data-stu-id="30cbe-105">Under **Focused inbox**, select **Don't sort my messages**.</span></span>
+1. <span data-ttu-id="30cbe-106">În cadrul **organizaţiei de mesaj**, selectaþi **cele mai noi mesaje pe partea de sus**.</span><span class="sxs-lookup"><span data-stu-id="30cbe-106">Under **Message organization**, select **Newest messages on top**.</span></span>
+1. <span data-ttu-id="30cbe-107">La **expeditor imagine**, selectaţi **nu arata expeditorului imagini**.</span><span class="sxs-lookup"><span data-stu-id="30cbe-107">Under **Sender image**, select **Don't show sender images**.</span></span>
+1. <span data-ttu-id="30cbe-108">În **panoul de citire**, selectaţi **ascunde panoul de citire**.</span><span class="sxs-lookup"><span data-stu-id="30cbe-108">Under **Reading pane**, select **Hide reading pane**.</span></span>
+1. <span data-ttu-id="30cbe-109">Din **textul de examinare a mesaj**, selectaţi **textul de examinare Arată**.</span><span class="sxs-lookup"><span data-stu-id="30cbe-109">Under **Message preview text**, select **Show preview text**.</span></span>
+1. <span data-ttu-id="30cbe-110">La **avanpremiera Inline**, selectaţi **nu arată ataşamente în lista de mesaje**.</span><span class="sxs-lookup"><span data-stu-id="30cbe-110">Under **Inline previews**, select **Don't show attachments in message list**.</span></span>
 
-<span data-ttu-id="8c8a7-113">Notă: Acestea sunt doar cateva recomandat setări care pot oferi aspectul cel mai apropiat posibil la versiunea clasic de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-113">Note: These are just some recommended settings which can provide the closest possible layout to the classic version of Outlook.com.</span></span> <span data-ttu-id="8c8a7-114">Acesta va depinde încă de setările dorite.</span><span class="sxs-lookup"><span data-stu-id="8c8a7-114">It will still depend on your desired settings.</span></span>
-
-<span data-ttu-id="8c8a7-115">Pentru a modifica setările de poştă electronică astfel încât inbox Arată şi se comportă aşa cum doriţi să, a se vedea [Personalizare experienţa de Mail nou în Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="8c8a7-115">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Personalize your new Mail experience in Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="30cbe-111">Pentru a modifica setările de poştă electronică astfel încât inbox Arată şi se comportă aşa cum doriţi să, a se vedea [schimba aspectul cutiei poştale în Outlook.com şi nouă perspectivă pe web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="30cbe-111">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Change the look of your mailbox in Outlook.com and the new Outlook on the web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
