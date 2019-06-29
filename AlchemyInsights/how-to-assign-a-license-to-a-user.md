@@ -9,33 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "325"
+- "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: e437b5c029c8488589bd2636b265d09af550690c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399999"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385701"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Cum să atribuiţi o licenţă pentru un utilizator
 
 Un utilizator are nevoie de o licenţă pentru a avea acces la servicii. Aici sunt paşii pentru a adăuga, modifica sau elimina o licenţă de la un utilizator.
   
 1. În centrul de administrare, mergeţi la pagina de [Utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) , sau selectaţi **utilizatorii** \> **utilizatori activi**.
-    
+
 2. Selectaţi caseta de lângă numele de utilizator la care doriţi să asociaţi, să modificaţi sau să eliminaţi o licenţă.
-    
+
 3. Pe partea dreaptă, în rândul **licente de produs** , alegeţi **Editare**.
-    
-4. În panoul de **licente de produs** , toggle nuia a întrerupe **pe** pozitie pentru a da un permis pe care doriţi să îl atribuiţi acest utilizator. 
-    
-    În mod implicit, toate serviciile asociate cu această licenţă sunt atribuite automat pentru utilizator. Pentru a limita ce servicii sunt disponibile pentru a utilizatorului, comută nuia a întrerupe **Off** poziţia pentru serviciile care nu doriţi ca utilizatorul să aibă. 
-    
-    Comuta comutare în poziţia **Off** pentru a elimina o licenţă. 
-    
+
+4. În panoul de **licente de produs** , toggle nuia a întrerupe **pe** pozitie pentru a da un permis pe care doriţi să îl atribuiţi acest utilizator.
+
+    În mod implicit, toate serviciile asociate cu această licenţă sunt atribuite automat pentru utilizator. Pentru a limita ce servicii sunt disponibile pentru a utilizatorului, comută nuia a întrerupe **Off** poziţia pentru serviciile care nu doriţi ca utilizatorul să aibă.
+
+    Comuta comutare în poziţia **Off** pentru a elimina o licenţă.
+
 5. În partea de jos a panoului de **licente de produs** , alege **Save** \> **aproape** \> **aproape**.
-    
+
 Pentru informaţii suplimentare, consultaţi [atribuirea licenţe pentru utilizatori în Office 365 pentru afaceri](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)şi [eliminarea licenţe la utilizatori în Office 365 pentru afaceri](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
   
-

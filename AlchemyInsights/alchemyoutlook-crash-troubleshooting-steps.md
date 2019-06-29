@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883139"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357581"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Accident Outlook paşii de depanare
 
@@ -25,10 +27,9 @@ Dacă aveţi probleme de desktop accident Outlook, începe urmand 3 pasi de mai 
   
 Pasul 1: Investiga posibile probleme cu completare.
   
-Pasul 2: Reparare Outlook şi a alerga de [sprijin si asistent de recuperare instrument pentru a depana erori de startup Outlook](https://aka.ms/SaRA-OutlookWontStart) pe aparatul afectat. 
+Pasul 2: Reparare Outlook şi a alerga de [sprijin si asistent de recuperare instrument pentru a depana erori de startup Outlook](https://aka.ms/SaRA-OutlookWontStart) pe aparatul afectat.
   
-Pasul 3: Creaţi un profil Outlook nou sau executaţi [Instrumentul de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe aparatul afectat. 
+Pasul 3: Creaţi un profil Outlook nou sau executaţi [Instrumentul de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe aparatul afectat.
   
 Dacă problema a apărut după o actualizare şi paşii de mai sus nu funcţionează, trebuie să revină la o construi anterioare. Aflaţi [Cum pentru a reveni la o versiune anterioară de Office 2013 sau Office 2016 clic și pornire](https://support.microsoft.com/help/2770432).
   
-

@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1951
+ms.custom:
+- "1951"
+- "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 18a2bbba398ed5e693df080254ec7a0c1b24f941
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 5b256edb711d194584871c8072af9a266479e1bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096599"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390057"
 ---
 # <a name="outlook-not-synching-folders"></a>Outlook nu sincronizare foldere
 
@@ -25,5 +27,5 @@ Dacă Outlook nu este Sincronizarea folderelor cum era de aşteptat, există une
 1. Reducerea numărului de foldere din cutia poştală de primar sau comune. [Probleme de performanţă a vedea Outlook atunci când sunt prea multe articole sau pliant înăuntru un Cached modul .ost sau .pst fişier folder](https://support.microsoft.com/help/2768656).
 2. Dezactivarea cache-ul din toate folderele partajate.
 3. Modificaţi configuraţia secundar cutie poştală Exchange pentru un al doilea cont de schimb în profilul dvs.
- 
+
 Pentru mai multe informaţii, consultaţi [probleme de performanţă şi de sincronizare atunci când lucraţi cu foldere într-o cutie poştală secundar în Outlook](https://support.microsoft.com/help/3115602).

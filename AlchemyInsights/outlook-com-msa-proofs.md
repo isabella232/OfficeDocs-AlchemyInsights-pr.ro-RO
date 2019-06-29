@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA dovezile
+title: Outlook.com MSA dovezile
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392380"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373893"
 ---
 # <a name="security-info-and-security-codes"></a>Informašii de securitate şi codurile de securitate
 
-1. Conectaţi-vă la pagina dumneavoastră de [securitate de bază](https://account.microsoft.com/security) cu contul de Microsoft. 
-    
-2. Selectaţi **Actualizare informaţii**. 
-    
-3. Vi se poate cere să introduceţi un cod de securitate pentru a continua. Dacă nu aveţi acces la e-mail sau numărul de telefon, alege **nu am nici una din aceste** şi urmaţi instrucţiunile pentru a înlocui Informašii de securitate. 
-    
-4. Selectaţi **adăugaţi informaţii de securitate** , apoi urmaţi instrucţiunile pentru a introduce un nou e-mail sau numărul de telefon. 
-    
-5. Vă vom trimite un cod de securitate la acel număr nou de e-mail sau telefon. Introdu acest cod de securitate şi selectaţi **Următorul**. Informatiile noi de securitate va apărea în lista dvs. 
-    
-6. Alege **elimina** pentru orice doriţi să eliminaţi. 
-    
-7. Dacă doriţi să actualizaţi care Informašii de securitate vom trimite alerte, selectaþi **modificare alertă** şi debifaţi caseta de selectare pentru tine nu mai doriţi să primiţi alerte pentru, dacă nu sunt critice. 
-    
-Citeşte mai multe despre [Informašii de securitate si coduri de securitate](https://support.microsoft.com/help/12428/).
-  
+Pentru a adăuga informaţii de securitate pentru contul:
 
+1. Faceţi sign in la [elementele de bază de securitate](https://account.microsoft.com/security) cu contul de Microsoft.
+1. Selectaţi **Securitate informatii de contact**.
+1. Selectaţi **adăugaţi informaţii de securitate** şi urmaţi instrucţiunile pentru a introduce un telefon număr sau adresa de email.
+1. Veţi primi un cod de securitate la acel telefon număr sau adresa de email. Introduceţi codul de securitate pe care aţi primit în fereastra cu **informaţii de securitate Adăugare** şi selectaţi **Următorul**.
+
+Dacă doriţi să eliminaţi un telefon număr sau adresa de email, selectaţi **Eliminare** lângă ea.
+
+Dacă doriţi să modificaţi ce număr de telefon sau adresa de email primeşte alerte de securitate, selectaţi **modificaţi opţiunile de alertă**.
+
+Pentru a afla mai multe, citiţi [Microsoft cont informaţii şi verificarea codurile de securitate](https://support.microsoft.com/help/12428/).

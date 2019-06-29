@@ -8,22 +8,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "603"
+- "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 480dfc466a8f4f3ef40cfb50f76b8e6d46d45771
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 2a7828af4de1fb3febd6c0e76657d1605a3404cb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755236"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383253"
 ---
 # <a name="hybrid-configuration-wizard"></a>Expertul de configurare hibrid
 
 Expertul de configurare hibrid este o app care vă ajută să înfiinţeze noi coexistenţei între organizaţia Exchange locală şi Office 365. Dacă aveţi deja o implementare hibridă înfiinţat, expertul vă ajută să actualizaţi setările de implementare hibridă. Pentru mai multe informaţii, a verifica afară:
   
 - [Executați Expertul configurare hibrid](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
-    
-- [Expertul de configurare hibrid](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
-    
-- [Hibrid de configurare expertului întrebări frecvente](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
-    
 
+- [Expertul de configurare hibrid](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+
+- [Hibrid de configurare expertului întrebări frecvente](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

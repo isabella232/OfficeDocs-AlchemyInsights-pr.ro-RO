@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 606
+ms.custom:
+- "606"
+- "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 633fd9111cac64a8cb85db18d03968089bf2a128
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dddff0f6ab0fec8d2f8cac41ca3440d181f1dc67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410790"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382461"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegaţia depanare, în Outlook şi Outlook pe web
 
@@ -28,7 +30,7 @@ ms.locfileid: "32410790"
 1. Adauga adresa de e-mail a utilizatorului afectat
 1. Selectaţi "Am probleme cu permisiuni de delegat"
 1. La următorii prompt, dacă sunteţi persoana care permisiunile, introduceţi adresa de e-mail delegat de dvs. Dacă aţi primit permisiuni şi sunteţi delegatului, introduceţi adresa de e-mail a persoanei de la care ai dat permisiunile.
-1. La meniul următor, selectaţi opţiunea care se potriveşte scenariul dumneavoastră. 
+1. La meniul următor, selectaţi opţiunea care se potriveşte scenariul dumneavoastră.
 1. La meniul următor, selectaţi nivelul de permisiune.
 1. În acest stadiu, SaRA instrument va efectua controale automatizate şi vă va oferi cu rezoluţie posibilă sau alternativ va oferi un jurnal de diagnosticare, care pot fi folosite pentru alte troubleshooting.
 1. Puteţi găsi jurnalele în folderul SaRA rezultatele aflat la C:\Users\Username\AppData\Local\SaraResults
