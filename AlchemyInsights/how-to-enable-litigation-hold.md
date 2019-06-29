@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 976
+ms.custom:
+- "976"
+- "3100023"
 ms.assetid: ''
-ms.openlocfilehash: bf450ed6e619c46b7fc4d867284fe5b18854e769
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408695"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384765"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Loc o cutie poştală pe "hold" juridice
 
@@ -25,4 +27,3 @@ ms.locfileid: "32408695"
 - Pentru a permite litigiilor ţineţi pentru un singur utilizator, [urmaţi aceşti paşi](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Când litigiul Hold este activat, tot conţinutul în cutia poştală este păstrată.
 
 - Pentru a plasa o deţin toate cutiile poştale în organizaţia dumneavoastră, puteţi utiliza o politică de retenție Office 365 urmând [aceşti paşi](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Reţineţi că pentru strategiile de conservare la nivel de organizaţie, noi utilizatori va fi atribuită automat politica.
-
