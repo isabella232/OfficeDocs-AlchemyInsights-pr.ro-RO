@@ -1,5 +1,5 @@
 ---
-title: Pregătirea pentru utilizare TLS 1,2 în Office 365
+title: Pregătirea pentru utilizarea TLS 1.2 în Office 365
 ms.author: pebaum
 author: pebaum
 ms.date: 10/30/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485431"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370939"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a><span data-ttu-id="ce90b-102">Pregătirea pentru utilizare TLS 1,2 în Office 365</span><span class="sxs-lookup"><span data-stu-id="ce90b-102">Prepare for use of TLS 1.2 in Office 365</span></span>
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a><span data-ttu-id="2577d-102">Pregătirea pentru utilizarea TLS 1.2 în Office 365</span><span class="sxs-lookup"><span data-stu-id="2577d-102">Prepare for use of TLS 1.2 in Office 365</span></span>
 
-<span data-ttu-id="ce90b-p101">Începând cu 31 octombrie 2018, Office 365 va continua tranzitia de la TLS 1.2. Acest lucru înseamnă că Microsoft nu va rezolva probleme noi, care se găsesc în clienti, dispozitive sau servicii care să se conecteze la Office 365 folosind TLS 1.0 şi 1.1. **Acest lucru nu înseamnă Office 365 va bloca TLS 1.0 şi conexiuni 1,1.** La data de eventuala dezaprobare va fi determinată de client de utilizare şi starea actuală a moștenit TLS de securitate. După o decizie este făcută, va fi un anunţ șase luni în avans dacă devenim conştienţi de un compromis cunoscute, caz în care am putea avea să acţioneze în mai puţin de şase luni pentru a proteja clienţii care folosesc serviciile.</span><span class="sxs-lookup"><span data-stu-id="ce90b-p101">As of October 31st, 2018, Office 365 will continue transitioning to TLS 1.2. This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Office 365 by using TLS 1.0 and 1.1. **This does not mean Office 365 will block TLS 1.0 and 1.1 connections.** The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security. After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span> 
+<span data-ttu-id="2577d-103">Începând cu data de 31 octombrie 2018, Office 365 va continua tranziția la TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="2577d-103">As of October 31st, 2018, Office 365 will continue transitioning to TLS 1.2.</span></span> <span data-ttu-id="2577d-104">Acest lucru înseamnă că Microsoft nu va remedia problemele noi care sunt găsite cu clienții, dispozitivele sau serviciile care se conectează la Office 365 utilizând TLS 1.0 și 1.1.</span><span class="sxs-lookup"><span data-stu-id="2577d-104">This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Office 365 by using TLS 1.0 and 1.1.</span></span> <span data-ttu-id="2577d-105">**Acest lucru nu înseamnă că Office 365 o să blocheze conexiunile TLS 1.0 și 1.1.**</span><span class="sxs-lookup"><span data-stu-id="2577d-105">**This does not mean Office 365 will block TLS 1.0 and 1.1 connections.**</span></span> <span data-ttu-id="2577d-106">Data finală a perimării va fi determinată de utilizarea de către clienți și de starea curentă a securității TLS moștenite.</span><span class="sxs-lookup"><span data-stu-id="2577d-106">The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security.</span></span> <span data-ttu-id="2577d-107">După ce se ia o decizie, se va face un anunț cu șase luni în avans, cu excepția cazului în care aflăm de o compromitere cunoscută, situație în care poate fi necesar să acționăm în mai puțin de șase luni, pentru a-i proteja pe clienții care utilizează serviciile.</span><span class="sxs-lookup"><span data-stu-id="2577d-107">After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span>
   
-<span data-ttu-id="ce90b-108">Acesta este puternic sugerat că orice servere si clienti conectarea cu Office 365 necesară activarea TLS 1.2 cât mai repede posibil.</span><span class="sxs-lookup"><span data-stu-id="ce90b-108">It is strongly suggested that any servers and clients connecting with Office 365 need to enable TLS 1.2 as soon as possible.</span></span>
+<span data-ttu-id="2577d-108">Se recomandă ferm ca toate serverele și toți clienții care se conectează la Office 365 să activeze TLS 1.2 cât mai curând posibil.</span><span class="sxs-lookup"><span data-stu-id="2577d-108">It is strongly suggested that any servers and clients connecting with Office 365 need to enable TLS 1.2 as soon as possible.</span></span>
   
-<span data-ttu-id="ce90b-109">Pentru mai multe informaţii a se vedea [pregătirea pentru TLS 1.2 în Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="ce90b-109">For more information see [Preparing for TLS 1.2 in Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
+<span data-ttu-id="2577d-109">Pentru mai multe informații, consultați [Pregătirea pentru TLS 1.2 în Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="2577d-109">For more information see [Preparing for TLS 1.2 in Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
   
-
