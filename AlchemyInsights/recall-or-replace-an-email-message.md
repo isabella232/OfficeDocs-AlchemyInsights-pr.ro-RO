@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770820"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356609"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Amintesc sau să înlocuiască un mesaj de e-mail
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770820"
 - Dacă sunteţi un admin, puteţi **amintesc mesaje în numele utilizatorilor folosind PowerShell**. Nu pot aminti mesaje de la centrul de administrare. Defilaţi în jos la "Caută şi şterge mesajele de e-mail în organizaţia" pentru mai multe informaţii.
 
 ***Amintesc sau să înlocuiască un mesaj de e-mail pe care aţi trimis***
+
 1. În panoul de foldere pe partea stângă a ferestrei Outlook, selectaţi folderul Elemente trimise.
 2. Deschideţi mesajul pe care doriţi să-mi amintesc. Trebuie să faceţi dublu clic pentru a deschide mesajul. Selectarea mesajului, astfel încât aceasta apare în panoul de citire vă va permite să amintesc mesajul.
 3. Din fila mesaj, selectaţi **acţiunile** > **Amintesc acest mesaj**.
 4. Alegeţi **ştergeţi copiilor necitite ale acestui mesaj** sau **ştergeţi copiilor necitite și înlocuirea cu un mesaj nou**, apoi selectaţi **OK**.
 5. Dacă sunteţi trimite un mesaj de inlocuire, compune mesajul, apoi selectați **trimite**.
-6. Succesul sau eşecul de un recall de mesaj depinde de setările de destinatari în Outlook. 
+6. Succesul sau eşecul de un recall de mesaj depinde de setările de destinatari în Outlook.
 
 Pentru mai multe informaţii, inclusiv cum să verificaţi pe recall, [Recall](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)sau înlocuiţi un mesaj de e-mail pe care aţi trimis.
 

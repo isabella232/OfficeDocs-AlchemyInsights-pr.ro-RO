@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769463"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359371"
 ---
 # <a name="access-services-retirement"></a>Acces la servicii de pensionare
 
@@ -24,7 +27,7 @@ Aşa cum am anunţat în MC97576, în martie 2017, iniţial şi a continuat să 
 
 **Ce trebuie să fac pentru a se pregăti pentru această schimbare?**
 
-Vă recomandăm să creaţi un plan de tranzitie pentru organizaţia dumneavoastră web de acces baze de date. Administratori puteţi utiliza [SharePoint acces app scanerului](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pentru a obţine un inventar de aplicaţii de acces care utilizează site-uri. 
+Vă recomandăm să creaţi un plan de tranzitie pentru organizaţia dumneavoastră web de acces baze de date. Administratori puteţi utiliza [SharePoint acces app scanerului](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pentru a obţine un inventar de aplicaţii de acces care utilizează site-uri.
 
 Există mai multe modalităţi de a migra datelor de baze de date acces web:
 

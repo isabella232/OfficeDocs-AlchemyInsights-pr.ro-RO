@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914118"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381885"
 ---
 # <a name="install-visio"></a>Instalaţi Visio
 
 Visio este vândut ca un stand-alone aplicaţie astfel încât, dacă nu aveţi încă, [cumpara sau încercaţi Visio](https://products.office.com/visio). 
 
-Dacă aveţi un abonament pentru Visio Online Plan 2, utilizatorii nu vor vedea o opţiune a instala Visio la **meu se instalează** în [portalul meu cont](https://portal.office.com/account#installs) daca nu ai o [le-a atribuit o licenţă](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Notă**: Visio Online Plan 1 nu include un pupitru traducere de Visio, astfel încât nici o instalaţie este posibil.
 
-Pentru instrucţiuni specifice despre descărcarea şi instalarea Visio, consultaţi [Instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Dacă aveţi un abonament pentru Visio Online Plan 2, trebuie să [atribuiţi o licenţă](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) pentru un utilizator sau ei nu vor avea o opţiune la spre a instala Visio din **meu se instalează** în [mea cont portal](https://portal.office.com/account#installs). 
 
-Dacă aveţi un abonament/licenţă valabilă şi se execută în probleme în timpul instalării, încercaţi să instalaţi Visio folosind [suport si asistent de recuperare](https://aka.ms/SaRA-VisioSetupScenario).
+Non-volume a da un permis traducere de Visio Standard sau Visio Professional sunt asociate cu conturile Microsoft si nu pot fi gestionate în centrul de administrare. Pentru a instala aceste versiuni, utilizatorii trebuie să faceţi sign in la [account.microsoft.com](https://account.microsoft.com) cu contul de Microsoft asociate cu această versiune de Visio.
+
+Pentru asistenţă mai detaliate Vedeți [Instala Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) şi urmaţi paşii pentru versiunea de Visio.
 
 Pentru mai multe informaţii a se vedea:<br>
 [Ghid de implementare pentru Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

@@ -6,17 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1987"
+- "9000353"
 ms.assetid: ''
-ms.openlocfilehash: 0bb18c268e76629c0a63db4f2175d6c9e2d585f6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c42f9a274edf3a5617ca8d05aa7a4ea3ef18a8db
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757806"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353945"
 ---
 # <a name="sharepoint-throttling"></a>Supraîncărcarea SharePoint
 
-SharePoint Online foloseste supraîncărcarea pentru a menţine performanţe optime şi fiabilitate serviciului SharePoint Online. Supraîncărcarea limitele numărului de acţiunile utilizatorului sau concurente apeluri (de script sau cod) pentru a preveni suprasolicitarea resurselor. 
+SharePoint Online foloseste supraîncărcarea pentru a menţine performanţe optime şi fiabilitate serviciului SharePoint Online. Supraîncărcarea limitele numărului de acţiunile utilizatorului sau concurente apeluri (de script sau cod) pentru a preveni suprasolicitarea resurselor.
 
 Pentru mai multe informaţii vă rugăm să vizitaţi link-urile de mai jos:
 

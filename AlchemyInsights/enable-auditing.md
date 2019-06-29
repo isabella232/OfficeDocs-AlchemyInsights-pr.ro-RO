@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 286
+ms.custom:
+- "286"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398938"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388473"
 ---
 # <a name="search-the-audit-log"></a>Căutaţi în Jurnalul de audit
 
-Pentru a căuta în Jurnalul de audit Office 365, urmaţi [aceşti paşi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log). 
+Pentru a căuta în Jurnalul de audit Office 365, urmaţi [aceşti paşi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Schimb**
 
@@ -34,7 +36,7 @@ Pentru a căuta în Jurnalul de audit Office 365, urmaţi [aceşti paşi](https:
 
 - Nu există nici o configurare suplimentare necesare pentru a permite audit de SharePoint sau OneDrive.
 
-- SharePoint şi OneDrive acceptă următoarele tipuri de activităţi de audit: 
+- SharePoint şi OneDrive acceptă următoarele tipuri de activităţi de audit:
 
     - Dosar, pliant şi activităţi de filme
     - Activităţi de cerere de partajare şi acces
