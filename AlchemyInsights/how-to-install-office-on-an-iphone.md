@@ -10,18 +10,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
-ms.openlocfilehash: 768f616bb69f0c5689f968bb06a5dc161d30fec4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "753"
+- "2000016"
+ms.openlocfilehash: 44e254521a47aa1ca1fe0dc73aaad95d620542f8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417294"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384297"
 ---
 # <a name="how-to-install-office-on-an-iphone"></a>Cum pentru a instala Office pe un iPhone
 
+- Au utilizator [atingeţi linkul de download](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) la lor mobile drac, pentru Word, Excel, PowerPoint şi OneNote.
 
-- Au utilizator [atingeţi linkul de download](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) la lor mobile drac, pentru Word, Excel, PowerPoint şi OneNote. 
-    
-- Au utilizator începe app, atingeţi **conectaţi-vă** şi introduceţi munca lor sau şcoală acreditările. 
-    
-
+- Au utilizator începe app, atingeţi **conectaţi-vă** şi introduceţi munca lor sau şcoală acreditările.
