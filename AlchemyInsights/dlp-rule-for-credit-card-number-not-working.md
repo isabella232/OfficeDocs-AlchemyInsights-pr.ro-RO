@@ -1,51 +1,55 @@
 ---
 title: DLP regulă pentru numărul cardului de Credit nu de lucru
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1270"
+- "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d3bdb3b074c485a2b19e934724ba6e74c84deae
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404530"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389589"
 ---
-<span data-ttu-id="ea362-102">Aveti probleme cu **Prevenirea pierderii datelor (DLP)** neactiv pentru conţinut care conţine un **Număr de Card de Credit** , atunci când se utilizează un tip de informaţii sensibile DLP în O365?</span><span class="sxs-lookup"><span data-stu-id="ea362-102">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **Credit Card Number** when using a DLP sensitive information type in O365?</span></span> <span data-ttu-id="ea362-103">Dacă este aşa, asiguraţi-vă că conţinut conţine informaţiile necesare pentru a declanşa politica DLP atunci când este evaluată.</span><span class="sxs-lookup"><span data-stu-id="ea362-103">If so, make sure your content contains the needed information to trigger the the DLP policy when it is evaluated.</span></span> <span data-ttu-id="ea362-104">De exemplu, pentru un **Card de Credit politica** configurat cu un nivel de încredere de 85 %, următoarele sunt evaluate şi trebuie să fie detectat de regulă pentru a declanşa:</span><span class="sxs-lookup"><span data-stu-id="ea362-104">For example, for a **Credit Card policy** configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:</span></span> 
-  
-- <span data-ttu-id="ea362-105">**[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 cifre care pot fi formatate sau neformatate (dddddddddddddddd) şi trebuie să treacă testul Luhn.</span><span class="sxs-lookup"><span data-stu-id="ea362-105">**[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 digits which can be formatted or unformatted (dddddddddddddddd) and must pass the Luhn test.</span></span> 
-    
-- <span data-ttu-id="ea362-106">**[Model:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Model foarte complexă şi robustă care detectează cardurile de la toate marile branduri din întreaga lume, inclusiv Visa, Mastercard, descoperi Card, JCB, American Express, carduri cadou, şi carduri de cina.</span><span class="sxs-lookup"><span data-stu-id="ea362-106">**[Pattern:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Very complex and robust pattern that detects cards from all major brands worldwide, including Visa, MasterCard, Discover Card, JCB, American Express, gift cards, and diner cards.</span></span> 
-    
-- <span data-ttu-id="ea362-107">**[Control:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, control Luhn</span><span class="sxs-lookup"><span data-stu-id="ea362-107">**[Checksum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Yes, the Luhn checksum</span></span> 
-    
-- <span data-ttu-id="ea362-108">**[Definiţie:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** O politică de DLP este 85 % încrezător că a detectat acest tip de informaţii sensibile dacă, într-o proximitate de 300 de caractere:</span><span class="sxs-lookup"><span data-stu-id="ea362-108">**[Definition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** A DLP policy is 85% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span> 
-    
-  - <span data-ttu-id="ea362-109">Funcţia Func_credit_card găseşte conţinut care se potriveşte model.</span><span class="sxs-lookup"><span data-stu-id="ea362-109">The function Func_credit_card finds content that matches the pattern.</span></span>
-    
-  - <span data-ttu-id="ea362-110">Este adevărată una dintre următoarele:</span><span class="sxs-lookup"><span data-stu-id="ea362-110">One of the following is true:</span></span> 
-    
-  - <span data-ttu-id="ea362-111">Se găseşte un cuvânt cheie la Keyword_cc_verification.</span><span class="sxs-lookup"><span data-stu-id="ea362-111">A keyword from Keyword_cc_verification is found.</span></span>
-    
-  - <span data-ttu-id="ea362-112">Se găseşte un cuvânt cheie la Keyword_cc_name</span><span class="sxs-lookup"><span data-stu-id="ea362-112">A keyword from Keyword_cc_name is found</span></span>
-    
-  - <span data-ttu-id="ea362-113">Funcţia Func_expiration_date constată o dată în formatul corect.</span><span class="sxs-lookup"><span data-stu-id="ea362-113">The function Func_expiration_date finds a date in the right date format.</span></span>
-    
-  - <span data-ttu-id="ea362-114">Control trece</span><span class="sxs-lookup"><span data-stu-id="ea362-114">The checksum passes</span></span>
-    
-    <span data-ttu-id="ea362-115">De exemplu, următoarea probă ar declanşa pentru o politică de număr de Card de Credit DLP:</span><span class="sxs-lookup"><span data-stu-id="ea362-115">For example, the following sample would trigger for a DLP Credit Card Number Policy:</span></span>
-    
-  - <span data-ttu-id="ea362-116">Viza: 4485 3647 3952 7352</span><span class="sxs-lookup"><span data-stu-id="ea362-116">Visa: 4485 3647 3952 7352</span></span> 
-    
-  - <span data-ttu-id="ea362-117">Expira: 2/2009</span><span class="sxs-lookup"><span data-stu-id="ea362-117">Expires: 2/2009</span></span>
-    
-<span data-ttu-id="ea362-118">Pentru mai multe informaţii despre ceea ce este necesar pentru un **Număr de Card de Credit** să fie detectată pentru conţinutul dvs., a se vedea secţiunea următoare în acest articol: [Ce Sensitive informaţii tipuri arata pentru cardul de Credit #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span><span class="sxs-lookup"><span data-stu-id="ea362-118">For more information on what is required for a **Credit Card Number** to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span></span>
-  
-<span data-ttu-id="ea362-119">Folosind un tip de diferite informaţii sensibile predefinite, consultaţi următorul articol pentru informaţii pe ceea ce este necesar pentru alte tipuri: [ce Sensitive informaţii tipuri caute](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="ea362-119">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
-  
+# <a name="dlp-issues-with-credit-card-numbers"></a><span data-ttu-id="63b0e-102">DLP probleme cu numere de Card de Credit</span><span class="sxs-lookup"><span data-stu-id="63b0e-102">DLP issues with Credit Card Numbers</span></span>
 
+<span data-ttu-id="63b0e-103">Aveti probleme cu **Prevenirea pierderii datelor (DLP)** neactiv pentru conţinut care conţine un **Număr de Card de Credit** , atunci când se utilizează un tip de informaţii sensibile DLP în O365?</span><span class="sxs-lookup"><span data-stu-id="63b0e-103">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **Credit Card Number** when using a DLP sensitive information type in O365?</span></span> <span data-ttu-id="63b0e-104">Dacă este aşa, asiguraţi-vă că conţinut conţine informaţiile necesare pentru a declanşa politica DLP atunci când este evaluată.</span><span class="sxs-lookup"><span data-stu-id="63b0e-104">If so, make sure your content contains the needed information to trigger the the DLP policy when it is evaluated.</span></span> <span data-ttu-id="63b0e-105">De exemplu, pentru un **Card de Credit politica** configurat cu un nivel de încredere de 85 %, următoarele sunt evaluate şi trebuie să fie detectat de regulă pentru a declanşa:</span><span class="sxs-lookup"><span data-stu-id="63b0e-105">For example, for a **Credit Card policy** configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:</span></span>
+  
+- <span data-ttu-id="63b0e-106">**[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 cifre care pot fi formatate sau neformatate (dddddddddddddddd) şi trebuie să treacă testul Luhn.</span><span class="sxs-lookup"><span data-stu-id="63b0e-106">**[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 digits which can be formatted or unformatted (dddddddddddddddd) and must pass the Luhn test.</span></span>
+
+- <span data-ttu-id="63b0e-107">**[Model:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Model foarte complexă şi robustă care detectează cardurile de la toate marile branduri din întreaga lume, inclusiv Visa, MasterCard, descopera carte, JCB, American Express, carduri cadou, şi carduri de cina.</span><span class="sxs-lookup"><span data-stu-id="63b0e-107">**[Pattern:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Very complex and robust pattern that detects cards from all major brands worldwide, including Visa, MasterCard, Discover Card, JCB, American Express, gift cards, and diner cards.</span></span>
+
+- <span data-ttu-id="63b0e-108">**[Control:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, control Luhn</span><span class="sxs-lookup"><span data-stu-id="63b0e-108">**[Checksum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Yes, the Luhn checksum</span></span>
+
+- <span data-ttu-id="63b0e-109">**[Definiţie:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** O politică de DLP este 85 % încrezător că a detectat acest tip de informaţii sensibile dacă, într-o proximitate de 300 de caractere:</span><span class="sxs-lookup"><span data-stu-id="63b0e-109">**[Definition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** A DLP policy is 85% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span>
+
+  - <span data-ttu-id="63b0e-110">Funcţia Func_credit_card găseşte conţinut care se potriveşte model.</span><span class="sxs-lookup"><span data-stu-id="63b0e-110">The function Func_credit_card finds content that matches the pattern.</span></span>
+
+  - <span data-ttu-id="63b0e-111">Este adevărată una dintre următoarele:</span><span class="sxs-lookup"><span data-stu-id="63b0e-111">One of the following is true:</span></span>
+
+  - <span data-ttu-id="63b0e-112">Se găseşte un cuvânt cheie la Keyword_cc_verification.</span><span class="sxs-lookup"><span data-stu-id="63b0e-112">A keyword from Keyword_cc_verification is found.</span></span>
+
+  - <span data-ttu-id="63b0e-113">Se găseşte un cuvânt cheie la Keyword_cc_name</span><span class="sxs-lookup"><span data-stu-id="63b0e-113">A keyword from Keyword_cc_name is found</span></span>
+
+  - <span data-ttu-id="63b0e-114">Funcţia Func_expiration_date constată o dată în formatul corect.</span><span class="sxs-lookup"><span data-stu-id="63b0e-114">The function Func_expiration_date finds a date in the right date format.</span></span>
+
+  - <span data-ttu-id="63b0e-115">Control trece</span><span class="sxs-lookup"><span data-stu-id="63b0e-115">The checksum passes</span></span>
+
+    <span data-ttu-id="63b0e-116">De exemplu, următoarea probă ar declanşa pentru o politică de număr de Card de Credit DLP:</span><span class="sxs-lookup"><span data-stu-id="63b0e-116">For example, the following sample would trigger for a DLP Credit Card Number Policy:</span></span>
+
+  - <span data-ttu-id="63b0e-117">Viza: 4485 3647 3952 7352</span><span class="sxs-lookup"><span data-stu-id="63b0e-117">Visa: 4485 3647 3952 7352</span></span>
+  
+  - <span data-ttu-id="63b0e-118">Expira: 2/2009</span><span class="sxs-lookup"><span data-stu-id="63b0e-118">Expires: 2/2009</span></span>
+
+<span data-ttu-id="63b0e-119">Pentru mai multe informaţii despre ceea ce este necesar pentru un **Număr de Card de Credit** să fie detectată pentru conţinutul dvs., a se vedea secţiunea următoare în acest articol: [Ce Sensitive informaţii tipuri arata pentru cardul de Credit #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span><span class="sxs-lookup"><span data-stu-id="63b0e-119">For more information on what is required for a **Credit Card Number** to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span></span>
+  
+<span data-ttu-id="63b0e-120">Folosind un tip de diferite informaţii sensibile predefinite, consultaţi următorul articol pentru informaţii pe ceea ce este necesar pentru alte tipuri: [ce Sensitive informaţii tipuri caute](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="63b0e-120">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
+  
