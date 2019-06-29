@@ -7,21 +7,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771426"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354017"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a><span data-ttu-id="c4615-102">Aş dori să vă înscrieţi pentru gratuit de echipe, dar nu pot.</span><span class="sxs-lookup"><span data-stu-id="c4615-102">I'd like to sign up for Teams free, but I can't.</span></span>
+# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a><span data-ttu-id="40530-102">Aş dori să vă înscrieţi pentru gratuit de echipe, dar nu pot.</span><span class="sxs-lookup"><span data-stu-id="40530-102">I'd like to sign up for Teams free, but I can't.</span></span>
 
-- <span data-ttu-id="c4615-103">Dacă utilizați o lucrare de Office 365 sau scoala cont, această ofertă gratuită nu este disponibilă.</span><span class="sxs-lookup"><span data-stu-id="c4615-103">If you’re using an Office 365 work or school account, this free offer isn’t available.</span></span> <span data-ttu-id="c4615-104">Organizaţiei, deşi, poate deja fi utilizând echipe.</span><span class="sxs-lookup"><span data-stu-id="c4615-104">Your org, though, may already be using Teams.</span></span> <span data-ttu-id="c4615-105">Dacă nu, du-te la [Microsoft echipe](https://products.office.com/microsoft-teams/group-chat-software) pentru a vedea dacă sunt eligibile pentru un drum liber proces.</span><span class="sxs-lookup"><span data-stu-id="c4615-105">If not, go to [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) to see if it’s eligible for a free trial.</span></span>
+- <span data-ttu-id="40530-103">Dacă utilizați o lucrare de Office 365 sau scoala cont, această ofertă gratuită nu este disponibilă.</span><span class="sxs-lookup"><span data-stu-id="40530-103">If you’re using an Office 365 work or school account, this free offer isn’t available.</span></span> <span data-ttu-id="40530-104">Organizaţiei, deşi, poate deja fi utilizând echipe.</span><span class="sxs-lookup"><span data-stu-id="40530-104">Your org, though, may already be using Teams.</span></span> <span data-ttu-id="40530-105">Dacă nu, du-te la [Microsoft echipe](https://products.office.com/microsoft-teams/group-chat-software) pentru a vedea dacă sunt eligibile pentru un drum liber proces.</span><span class="sxs-lookup"><span data-stu-id="40530-105">If not, go to [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) to see if it’s eligible for a free trial.</span></span>
 
-- <span data-ttu-id="c4615-106">Instituţii academice nu sunt eligibile pentru această ofertă gratuită.</span><span class="sxs-lookup"><span data-stu-id="c4615-106">Academic institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="c4615-107">Profesori si elevi, deşi, puteţi obţine o versiune gratuită de Office 365, care include o versiune completă a Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="c4615-107">Teachers and students, though, can get a free version of Office 365, which includes a full version of Microsoft Teams.</span></span> <span data-ttu-id="c4615-108">A se vedea [Office 365 de acordare a licenţelor pentru echipele de Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="c4615-108">See [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
+- <span data-ttu-id="40530-106">Instituţii academice nu sunt eligibile pentru această ofertă gratuită.</span><span class="sxs-lookup"><span data-stu-id="40530-106">Academic institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="40530-107">Profesori si elevi, deşi, puteţi obţine o versiune gratuită de Office 365, care include o versiune completă a Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="40530-107">Teachers and students, though, can get a free version of Office 365, which includes a full version of Microsoft Teams.</span></span> <span data-ttu-id="40530-108">A se vedea [Office 365 de acordare a licenţelor pentru echipele de Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="40530-108">See [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
 
-- <span data-ttu-id="c4615-109">Instituţiile de guvernul SUA nu sunt eligibili pentru aceasta oferta gratuit.</span><span class="sxs-lookup"><span data-stu-id="c4615-109">U.S. government institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="c4615-110">Pentru a afla despre planuri Office 365 pentru organizaţiile guvernamentale (inclusiv o încercare gratuită), citit [Office 365 de acordare a licenţelor pentru echipele de Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="c4615-110">To learn about Office 365 plans for government organizations (including a free trial), read [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
-
-
+- <span data-ttu-id="40530-109">Instituţiile de guvernul SUA nu sunt eligibili pentru aceasta oferta gratuit.</span><span class="sxs-lookup"><span data-stu-id="40530-109">U.S. government institutions aren't eligible for this free offer.</span></span> <span data-ttu-id="40530-110">Pentru a afla despre planuri Office 365 pentru organizaţiile guvernamentale (inclusiv o încercare gratuită), citit [Office 365 de acordare a licenţelor pentru echipele de Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span><span class="sxs-lookup"><span data-stu-id="40530-110">To learn about Office 365 plans for government organizations (including a free trial), read [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).</span></span>
