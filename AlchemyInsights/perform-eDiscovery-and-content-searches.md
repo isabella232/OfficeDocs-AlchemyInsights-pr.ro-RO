@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373328"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371445"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cum pentru a efectua căutări conţinut şi căutări eDiscovery
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373328"
 2. Faceţi clic pe **Căutaţi & ancheta > căutare conţinutul**.
 3. Faceţi clic pe **Căutare nouă** pentru a crea o nouă căutare.
 4. Introduceţi condiţiile necesare căutare inclusiv cuvinte cheie şi conţinutul de locaţii.  
-5. Faceţi clic pe **salva o familie &** nume căutare, porniţi-l şi apoi Previzualizaţi rezultatele. 
- 
+5. Faceţi clic pe **salva o familie &** nume căutare, porniţi-l şi apoi Previzualizaţi rezultatele.
+
 Pentru instrucţiuni detaliate despre crearea de căutări şi exportul de rezultate, a se vedea [acest articol](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **căutări eDiscovery**

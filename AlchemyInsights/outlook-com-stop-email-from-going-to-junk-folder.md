@@ -1,26 +1,34 @@
 ---
-title: Mesaje de stop Outlook.com la a merge la folderul junk
+title: Opri mesajele de la a merge în folderul Junk E-mail din Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373256"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371805"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Opri mesajele merge la folderul Junk E-mail
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Opri mesajele de la a merge la folderul Junk E-mail
 
-Dacă descoperiţi că un mesaj de poştă electronică în folderul Junk E-mail nu a fost spam sau junk:
+Dacă descoperiţi că un mesaj de poştă electronică în folderul Junk E-mail nu este nedorită:
 
-1. Deschideţi [folderul Junk E-mail](https://outlook.live.com/mail/junkemail) şi selectaţi mesajul. (Elementele din folderul Junk E-mail sunt şterse după 30 de zile.)
+1. Deschideţi [folderul Junk E-mail](https://outlook.live.com/mail/junkemail).
+1. Selectaţi mesajul. (*Notă:* elemente în folderul Junk E-mail sunt şterse după 30 de zile.)
 1. Mai sus lista de mesaje, selectaţi **nu junk** > **nu nedorită**.
+
+Dacă doriţi pentru a preveni orice mesaje de la un expeditor la a merge la folderul Junk E-mail, Adăugare expeditor la lista de expeditori siguri:
+
 1. Deschideţi [setările de poştă electronică nedorită](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Sub **Expeditori**, introduceţi adresa de e-mail sau adăugaţi un domeniu, şi selectaţi **Add**. E-mail la adrese sau domenii pe expeditori lista nu obţine mutat în folderul Junk E-mail.
+1. Sub **Expeditori şi domenii**, selectaţi **Add**, introduceţi adresa de e-mail sau adăugaţi un domeniu şi selectaţi **Salvare**.
+
+Pentru a afla mai multe, citiţi [marca e-mail ca expeditorii junk sau bloc din Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

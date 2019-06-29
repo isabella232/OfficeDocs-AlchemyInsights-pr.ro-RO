@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632091"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373677"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Cota de poştă electronică şi stocarea în Outlook.com
 
@@ -24,4 +26,6 @@ Pentru a reduce spam, Outlook.com are un e-mail zilnic trimiterea limită. Pentr
 
 **Limitele de stocare**
 
-Daca inbox este plin, nu veţi fi capabil de a trimite sau primi mesaje, şi oameni care trimite e-mail va primi un mesaj de eroare că inbox este plin. Puteţi [vedea cât de mult le-aţi folosit de stocare](https://go.microsoft.com/fwlink/?linkid=2052089), sau aveţi posibilitatea să [Aflaţi cum pentru a face loc în cutia poştală](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Daca inbox este plin, nu veţi fi capabil de a trimite sau primi mesaje, şi oameni care trimite e-mail va primi un mesaj de eroare că inbox este plin. Puteţi vedea cât de mult de depozitare aveţi disponibile accesând [ **setările** > **Vezi toate setările de Outlook** > **generale**> stocare](https://outlook.live.com/mail/options/general/storage), sau puteţi [învăţa pentru a face loc în cutia poştală](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Dacă aveţi un cont Premium, puteţi vizualiza spaţiul de stocare de gând să [ **setari** > **Vezi toate setările de Outlook** > **Premium**> caracteristici](https://outlook.live.com/mail/options/premium/features).

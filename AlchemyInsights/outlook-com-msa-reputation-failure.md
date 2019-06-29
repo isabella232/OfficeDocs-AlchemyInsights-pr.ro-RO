@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000345
-ms.openlocfilehash: ff194e3ec13fda9a409c6d932427385c74191ea6
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.custom:
+- "1979"
+- "9000345"
+ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510198"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373821"
 ---
 # <a name="account-locked"></a>Cont blocat
 
@@ -22,3 +24,5 @@ Dacă vedeţi mesajul "contul a fost blocat", atunci când încearcă să facă 
 
 1. Du-te la [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) şi faceţi sign in la contul blocat.Pentru a debloca contul dumneavoastră, trebuie să introduceţi codul de siguranþã, furnizat în mesaj text de la Microsoft. Pentru a obţine mesajul text, trebuie să aveţi un telefon care acceptă mesaje text. Dacă telefonul nu acceptă mesaje text, puteţi solicita un prieten sau membru de familie pentru a folosi telefonul lor. Microsoft nu salvaţi acest număr de telefon, astfel încât numărul de telefon pe care le utiliza pentru a primi acest mesaj de text nu trebuie să fie asociate cu contul dvs.
 2. Dacă vedeţi mesajul "Depăşit limita de utilizare", du-te la [Contul repunerea](https://go.microsoft.com/fwlink/?linkid=2090483) si unul din agentii nostri va revizui contul dvs.
+
+Pentru a afla mai multe, citiţi [Deblocare contul Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
