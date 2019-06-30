@@ -8,26 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "639"
+- "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755861"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380013"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="a435a-102">Migrarea datelor de public folder la Office 365</span><span class="sxs-lookup"><span data-stu-id="a435a-102">Migrate public folder data to Office 365</span></span>
+# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="9b7e4-102">Migrarea datelor de public folder la Office 365</span><span class="sxs-lookup"><span data-stu-id="9b7e4-102">Migrate public folder data to Office 365</span></span>
 
-<span data-ttu-id="a435a-103">Dacă nu aveţi o mulţime de foldere publice pentru a aduce în Office 365, ar fi cel mai simplu mod pentru a le aduce pentru a copia datele în. PST fişiere şi apoi de import-le în Office 365.</span><span class="sxs-lookup"><span data-stu-id="a435a-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="a435a-104">Pentru cantităţi mici de date, un simplu drag şi drop de folder public într-o. PST fişier poate fi suficient.</span><span class="sxs-lookup"><span data-stu-id="a435a-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="a435a-105">Dacă aveţi mai multe date decât faptul că (până la 30GB), ne-am [documentat un proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) care le puteţi utiliza export pliant PST fişiere.</span><span class="sxs-lookup"><span data-stu-id="a435a-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span> 
+<span data-ttu-id="9b7e4-103">Dacă nu aveţi o mulţime de foldere publice pentru a aduce în Office 365, ar fi cel mai simplu mod pentru a le aduce pentru a copia datele în. PST fişiere şi apoi de import-le în Office 365.</span><span class="sxs-lookup"><span data-stu-id="9b7e4-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="9b7e4-104">Pentru cantităţi mici de date, un simplu drag şi drop de folder public într-o. PST fişier poate fi suficient.</span><span class="sxs-lookup"><span data-stu-id="9b7e4-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="9b7e4-105">Dacă aveţi mai multe date decât faptul că (până la 30GB), ne-am [documentat un proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) care le puteţi utiliza export pliant PST fişiere.</span><span class="sxs-lookup"><span data-stu-id="9b7e4-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
   
-<span data-ttu-id="a435a-106">Pentru organizații mai mari care sunt în mişcare foldere publice în Office 365, avem mai multe ghiduri disponibile:</span><span class="sxs-lookup"><span data-stu-id="a435a-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
+<span data-ttu-id="9b7e4-106">Pentru organizații mai mari care sunt în mişcare foldere publice în Office 365, avem mai multe ghiduri disponibile:</span><span class="sxs-lookup"><span data-stu-id="9b7e4-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
   
-- <span data-ttu-id="a435a-107">[Migra moştenire foldere publice](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 şi mai devreme)</span><span class="sxs-lookup"><span data-stu-id="a435a-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span> 
-    
-- [<span data-ttu-id="a435a-108">Migra foldere publice Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="a435a-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
-    
-- [<span data-ttu-id="a435a-109">Hemei foldere publice Exchange 2016</span><span class="sxs-lookup"><span data-stu-id="a435a-109">Mirate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-    
-<span data-ttu-id="a435a-110">De asemenea, aveţi opţiunea de a [migra foldere publice la Office 365 grupuri](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="a435a-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
-  
+- <span data-ttu-id="9b7e4-107">[Migra moştenire foldere publice](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 şi mai devreme)</span><span class="sxs-lookup"><span data-stu-id="9b7e4-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span>
 
+- [<span data-ttu-id="9b7e4-108">Migra foldere publice Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="9b7e4-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+
+- [<span data-ttu-id="9b7e4-109">Migrarea Exchange 2016 foldere publice</span><span class="sxs-lookup"><span data-stu-id="9b7e4-109">Migrate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+
+<span data-ttu-id="9b7e4-110">De asemenea, aveţi opţiunea de a [migra foldere publice la Office 365 grupuri](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="9b7e4-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
+  
