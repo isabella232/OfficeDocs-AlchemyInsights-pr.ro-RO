@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1245
+ms.custom:
+- "1245"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 01801612a1e2edee53e58005ee86afe304e1e85c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389492"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359262"
 ---
-# <a name="office-365-import-service"></a>Serviciul de Import Office 365 
+# <a name="office-365-import-service"></a>Serviciul de Import Office 365
 
-Serviciul Office 365 Import vă permite să import vrac-mai multe fişiere PST cutiile poştale Exchange Online. 
+Serviciul Office 365 Import vă permite să import vrac-mai multe fişiere PST cutiile poştale Exchange Online.
 
 Pentru a accesa serviciul de Import şi începe procesul de import:
 
@@ -28,10 +30,10 @@ Pentru a accesa serviciul de Import şi începe procesul de import:
 
 2. În panoul din stânga de **Securitate & centru de conformitate**, faceţi clic pe **date guvernare > Import**.
 
-3. În pagina **Import** , faceţi clic pe **New job de import**. 
+3. În pagina **Import** , faceţi clic pe **New job de import**.
 
 4. Pentru a finaliza paşii din expertul, vă rugăm să urmaţi aceste [instrucţiuni pas cu pas](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Important**: pentru a accesa pagina de **Import** în securitate & centru de conformitate, aţi fi asociat [permisiunile corespunzătoare](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin). 
+**Important**: pentru a accesa pagina de **Import** în securitate & centru de conformitate, aţi fi asociat [permisiunile corespunzătoare](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
 Dacă doriţi să importaţi un PST la cutia poştală, consultaţi [acest articol](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
