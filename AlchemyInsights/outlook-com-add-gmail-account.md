@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377637"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614182"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Adăugaţi contul de Gmail pentru Outlook.com
 
@@ -30,4 +30,4 @@ Sincronizarea de la un cont conectat la contul Outlook.com este doar într-o dir
 
 Puteti trimite e-mail în Outlook.com din contul Gmail conectate. Când scrieţi un mesaj, selectaţi **la** şi selectaţi ta adresa de Gmail sau [actualiza implicit la adresa](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Pentru informaţii suplimentare, consultaţi [adăugaţi alte conturile de e-mail pentru Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Pentru informaţii suplimentare, consultaţi [adăugaţi alte conturile de e-mail pentru Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
