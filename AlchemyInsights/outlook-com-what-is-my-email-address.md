@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361001"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701335"
 ---
 # <a name="see-your-own-email-address"></a>A se vedea adresa proprie de e-mail
 
@@ -28,4 +28,4 @@ Dacă aţi conectat un alt cont de email la contul Outlook.com, puteţi alege s�
 1. Selectaţi trei puncte la partea de jos a ferestrei de scriere mesaj şi selectaţi **Arată la** pentru a vedea linia de la.
 2. Deasupra liniei a, selectaţi **din** şi alege adresa de e-mail care doriţi să utilizaţi.
 
-Aflaţi mai multe despre [trimiterea de e-mail de la o altă adresă în Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Aflaţi mai multe despre [trimiterea de e-mail de la o altă adresă în Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
