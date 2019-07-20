@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
-ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
+ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35786425"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800057"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Necesare alchimie antet H1, H2 pe nu funcţionează.
 Cele mai bune practici și liniile directoare pentru authoring de Alchemy:
@@ -38,5 +38,3 @@ Cele mai bune practici și liniile directoare pentru authoring de Alchemy:
 Şi acest lucru este într-adevăr deja un pic prea lung. Cele mai bune practici este de aproximativ 400 de caractere---
 
 Odată ce conţinutul este gata, trageţi-l la sucursala live. Apoi, du-te la [portalului Partner de alchimie](https://alchemyportal.azurewebsites.net) şi introduceţi numele fişierului în câmpul URL-ul. 
-
-
