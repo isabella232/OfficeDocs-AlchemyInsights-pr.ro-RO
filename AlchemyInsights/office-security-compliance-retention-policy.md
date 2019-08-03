@@ -1,25 +1,24 @@
 ---
-title: Noi etichete de conservare create automat
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Mai multe informaţii despre strategiile de conservare
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223004"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448847"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Noi etichete de conservare create automat
+# <a name="more-info-about-retention-policies"></a>Mai multe informaţii despre strategiile de conservare
 
 Pentru majoritatea organizaţiilor, volumului şi complexităţii datelor lor este în creştere zi - email, documente, mesaje instant, şi mai mult.
-
-Eficient de gestionare sau reglementează această informaţie este important, o strategie de conservare poate ajuta să atingerea acestor obiective. Pentru mai multe informaţii despre strategiile de conservare, vă rugăm să vizitaţi link-urile de mai jos.
+Eficient de gestionare sau reglementează această informaţie este important, şi o politică de retenție vă poate ajuta să atingerea acestor obiective. Pentru mai multe informaţii despre strategiile de conservare, vă rugăm să vizitaţi aceste linkuri:
 
 - [Privire de ansamblu asupra strategiilor de conservare](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
