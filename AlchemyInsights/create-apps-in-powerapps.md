@@ -1,5 +1,5 @@
 ---
-title: Crea apps în PowerApps
+title: Creați aplicații în PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404975"
 ---
-# <a name="create-apps-with-powerapps"></a>Creaţi aplicaţii cu PowerApps
+# <a name="create-apps-with-powerapps"></a>Creați aplicații cu PowerApps
 
-PowerApps este o platforma de dezvoltare pentru afaceri apps. Ea are trei componente majore: 
+PowerApps este o platformă de dezvoltare pentru aplicații de business. Are trei componente majore: 
   
-- [Panza apps](https://go.microsoft.com/fwlink/?linkid=874495) începe cu experienţa utilizatorului, crafting o interfaţă extrem de adaptate cu puterea de o pânză albă şi conectându-l la alegerea surselor de date de 200. Puteţi construi panza aplicaţii pentru web, mobile şi aplicaţii comprimat. 
+- [Aplicațiile pânză ](https://go.microsoft.com/fwlink/?linkid=874495) pornesc de la experiența dvs. de utilizator și creează o interfață puternic personalizată cu puterea unei pânze necompletate pe care o puteți conecta la oricare dintre cele 200 de surse de date. Puteți să construiți aplicații pânză pentru web, pentru mobil și pentru tablete. 
     
-- [Aplicaţii bazate pe modelul](https://go.microsoft.com/fwlink/?linkid=874496) începem cu modelul dumneavoastră de date - construirea de forma de date de afaceri de bază şi procese în serviciul de date comune pentru modele de formulare, vizualizări şi alte componente. Model-driven aplicaţii genera automat UI mare, care este receptiv toate dispozitivele. 
+- [Aplicațiile bazate pe modele](https://go.microsoft.com/fwlink/?linkid=874496) pornesc de la modelul dvs. de date, se dezvoltă din forma datelor principale de business și a proceselor din Common Data Service pentru a modela formulare, vizualizări și alte componente. Aplicațiile bazate pe modele generează automat interfețe cu utilizatorul extraordinare care se adaptează pe toate dispozitivele. 
     
-- [Serviciu de date comune](https://go.microsoft.com/fwlink/?linkid=874497) este platforma de date care vine cu PowerApps şi vă permite să stocaţi şi model de afaceri de date. Este platforma pe care sunt construite aplicatii Dynamics 365. Dacă sunteţi un client de dinamica, datele sunt deja în serviciul de date comune. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) este platforma de date care se livrează cu PowerApps și care vă permite să stocați și să modelați date de business. Este platforma pe care sunt construite aplicațiile Dynamics 365. Dacă sunteți client Dynamics, datele dvs. se află deja în Common Data Service. 
     
-[Mai multe informaţii despre PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Mai multe informații despre PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
