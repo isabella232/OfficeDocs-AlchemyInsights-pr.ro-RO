@@ -1,31 +1,34 @@
 ---
-title: Permisiunea de probleme în timpul migrării
-ms.author: kirks
-author: Techwriter40
+title: Probleme în timp ce migrarea datelor la SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735469"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232558"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme în timp ce migrarea datelor la SharePoint Online
 
-Reiese că migraţi peste 100TB de date, SharePoint Online.
+Reiese că migraţi peste 100TB de date, SharePoint Online. Vă rugăm să urmaţi paşii de mai jos astfel încât să te ajutăm cât mai repede posibil. 
 
-Vă rugăm să faceţi clic pe **Nou serviciu solicita** prin telefon/email mai jos şi se lasă interogarea ca SharePoint migraţiei peste 100 TB în caseta text.
+1. Selectaţi **nou serviciu cerere**, apoi **noul serviciu cerere**. 
+2. Lăsaţi titlul și descrierea ca **SharePoint migraţiei peste 100 TB**.
+3. Odată ce s-a depus biletul, vă rugăm să actualizaţi-l cu următoarele informaţii: 
 
-Odată ce s-a depus biletul, vă rugăm să actualizaţi-l cu următoarele informaţii: 
-
-- Numele companiei dumneavoastră şi chiriaş URL
-- Mărimea estimată a migrarea
-- O estimare a când doriţi pentru a începe și finaliza migrarea
-- Descrie în cazul în care migraţi conţinutul dvs., cum ar fi SharePoint Server, cutie, GDrive, partajări de fişiere, etc.
+    - Mărimea estimată a migrarea.
+    - O estimare a când doriţi pentru a începe și finaliza migrarea.
+    - Descrie în cazul în care migraţi conţinutul dvs., cum ar fi SharePoint Server, cutie, GDrive, partajări de fişiere, etc...
 
 
   
