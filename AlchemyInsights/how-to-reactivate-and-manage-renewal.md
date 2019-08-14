@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383541"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389948"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cum de a reactiva şi de a gestiona recurente de facturare
 
 Se pare ca tu ai un abonament care a expirat. Dacă doriţi să reactivaţi-o, aici cum.
   
-1. În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau du-te la **Facturare** \> **abonamente**.
+1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Alege abonamentul care este **expirat** sau **cu handicap**.
 
@@ -36,11 +36,10 @@ Se pare ca tu ai un abonament care a expirat. Dacă doriţi să reactivaţi-o, a
 
 Pentru a gestiona lunar sau anual de facturare vă puteţi comuta **recurent facturare** on sau off.
   
-1. În centrul de administrare, mergeţi la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau du-te la **Facturare** \> **abonamente**.
+1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Alege abonamentul pentru care doriţi să gestionaţi recurente de facturare.
 
 3. Comutaţi **recurent facturare** toggle **On** sau **Off**.
 
-Pentru informaţii suplimentare, consultaţi: [Manage recurente facturare pentru abonamentul](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Pentru informaţii suplimentare, consultaţi [Turn recurente facturare sau](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
