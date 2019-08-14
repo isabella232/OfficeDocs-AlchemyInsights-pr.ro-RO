@@ -13,18 +13,18 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357113"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386198"
 ---
 # <a name="already-paid"></a>Deja plătit?
 
 În cazul în care le-aţi trimis deja plata, puteţi să ne anunţaţi:
   
-1. Du-te la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.
+1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Alege un abonament, şi în secţiunea de **factura mea** , alege **Vezi factura**.
 

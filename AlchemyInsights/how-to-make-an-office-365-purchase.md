@@ -13,29 +13,31 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384333"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390992"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Cum pentru a face o achiziţie de Office 365
 
-În centrul de administrare, se poate efectua achiziţii în Office 365. Du-te la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**.
+În centrul de administrare, se poate efectua achiziţii în Office 365.
   
-- Pentru a achiziţiona un Office 365 abonament Du-te la pagina [De cumpărare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) , sau alege **Facturare** \> **Servicii de cumpărare**.
+- Pentru a achiziţiona un Office 365 abonament Du-te la **Facturare** \> pagina [Achiziţiona servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- Să cumpere suplimentare licenţe Du-te la pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau alege **Facturare** \> **abonamente**. Pe pagina de **abonamente** , alege abonamentul care doriţi să adăugaţi licenţe la, şi apoi selectaţi **Adăugare/eliminare licenţe**.
+- Pentru a cumpăra licenţe suplimentare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) . Pe pagina de **abonamente** , alege abonamentul care doriţi să adăugaţi licenţe la, şi apoi selectaţi **Adăugare/eliminare licenţe**.
 
 - Pentru a comuta la un alt plan:
 
   - Alegeţi **Switch planuri** pentru a vizualiza lista de noi planuri disponibile.
 
   - Alegeţi un plan pentru a vedea costul total nou pe lună. Asiguraţi-vă că pentru a citi informaţii cheie, apoi alege **următoare** pentru a verifica afară.
+
+Sunt folosind noul centru de admin? Pentru noi paşi, consultaţi [upgrade-ul la un alt plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
   
  **Resurse suplimentare**
   
-- [Atribuiţi licenţe pentru utilizatori în Office 365 pentru afaceri](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Atribuiţi licenţe pentru utilizatori în Office 365 pentru afaceri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Anula Office 365 pentru afaceri](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Anula Office 365 pentru afaceri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

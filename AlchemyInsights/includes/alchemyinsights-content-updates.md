@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Săptămâna de 1 iulie 2019
-
-
-| Publicat pe |Titlul subiectului | Schimbare |
-|------|------------|--------|
-| 01.07.2019 | [Clasic SharePoint rapoarte de jurnal de audit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificate |
-| 02.07.2019 | [Mai multe informaţii despre strategiile de conservare](/AlchemyInsights/office-security-compliance-retention-policy) | modificate |
-
-
 ## <a name="week-of-july-08-2019"></a>Saptamana a 8 iulie 2019
 
 
@@ -220,3 +211,69 @@
 | 02.08.2019 | [Organize al tău poştă electronică în Outlook pe web](/AlchemyInsights/owa-organize-email) | modificate |
 | 02.08.2019 | [Imprima e-mail, calendare şi ataşări în Outlook pe web](/AlchemyInsights/owa-print-email-calendars-attachments) | modificate |
 | 02.08.2019 | [Confirmările de citire din Outlook pe web](/AlchemyInsights/owa-read-receipts) | modificate |
+
+
+## <a name="week-of-august-05-2019"></a>Saptamana 5 august 2019
+
+
+| Publicat pe |Titlul subiectului | Schimbare |
+|------|------------|--------|
+| 05.08.2019 | [Cum pentru a răspunde sau transmite mesaje în Outlook pe web](/AlchemyInsights/owa-reply-forward-messages) | modificate |
+| 05.08.2019 | [8000003 căutare Mail şi oameni în Outlook pe web](/AlchemyInsights/owa-search-mail-and-people) | modificate |
+| 05.08.2019 | [Crearea unei semnături în Outlook pe web](/AlchemyInsights/owa-signature) | modificate |
+| 05.08.2019 | [S/MIME în Outlook pe web](/AlchemyInsights/owa-smime) | modificate |
+| 05.08.2019 | [Opri mesajele de la a merge în folderul Junk E-mail din Outlook pe web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | modificate |
+| 05.08.2019 | [Nap off concentrat Inbox](/AlchemyInsights/owa-turn-off-focused-inbox) | modificate |
+| 05.08.2019 | [1332 OWA - Inbox rule(s) sunt nu executa pentru o cutie poştală](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modificate |
+| 06.08.2019 | [Alchimia inline imagini de testare](/AlchemyInsights/testing-alchemy-inline-images) | modificate |
+| 06.08.2019 | [Protecţie avansată ameninţare în SharePoint și OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificate |
+| 06.08.2019 | [Ransomware atac în SharePoint sau OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificate |
+| 06.08.2019 | [Site-ul modernă ca site-ul rădăcină](/AlchemyInsights/modern-site-as-the-root-site) | modificate |
+| 06.08.2019 | [Probleme în timp ce migrarea datelor la SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | modificate |
+| 06.08.2019 | [Descarca sau preveni Download fișierelor din OneDrive sau SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificate |
+| 06.08.2019 | [Depanare acces refuzat mesaje OneDrive pentru afaceri site-uri](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | modificate |
+| 06.08.2019 | [Restaurarea unui fişier şters sau folder](/AlchemyInsights/sharepoint-deleted-items-restore) | modificate |
+| 06.08.2019 | [Versiuni în SharePoint și OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificate |
+| 06.08.2019 | [OneDrive de retenţie şi ştergerea informaţiilor](/AlchemyInsights/one-drive-retention-and-deletion) | modificate |
+| 07.08.2019 | [Împiedica fişierele descărcate din SharePoint sau OneDrive](/AlchemyInsights/prevent-download) | modificate |
+| 07.08.2019 | [Restaurarea unui fişier şters sau folder](/AlchemyInsights/sharepoint-deleted-items-restore) | modificate |
+| 07.08.2019 | [Activa partajarea externă în SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | modificate |
+| 07.08.2019 | [Rezolva probleme de sincronizare OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | modificate |
+| 07.08.2019 | [Remedierea problemelor de sincronizare OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | modificate |
+| 07.08.2019 | [Flux de lucru e-mail nu este trimis](/AlchemyInsights/workflow-email-not-being-sent) | modificate |
+| 07.08.2019 | [Flux de lucru nu este de plecare](/AlchemyInsights/workflow-is-not-starting) | modificate |
+| 07.08.2019 | [Protecţie avansată ameninţare în SharePoint și OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificate |
+| 07.08.2019 | [Asociat un site Hub](/AlchemyInsights/associate-a-hub-site) | modificate |
+| 07.08.2019 | [Creaţi un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificate |
+| 07.08.2019 | [Site-ul modernă ca site-ul rădăcină](/AlchemyInsights/modern-site-as-the-root-site) | modificate |
+| 07.08.2019 | [Retenţie de OneDrive și ștergerea](/AlchemyInsights/one-drive-retention-and-deletion) | modificate |
+| 07.08.2019 | [Probleme frecvente OneDrive şi rezoluţiile](/AlchemyInsights/onedrive-common-issues-and-resolutions) | modificate |
+| 07.08.2019 | [Ransomware atac în SharePoint sau OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificate |
+| 07.08.2019 | [Externe partajare în SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | modificate |
+| 07.08.2019 | [Versiuni în SharePoint și OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificate |
+| 07.08.2019 | [Persoană de contact externă este imposibilitatea de a accepta o partajare a invita](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | modificate |
+| 07.08.2019 | [Probleme frecvente SharePoint Online şi rezoluţiile](/AlchemyInsights/sharepoint-get-started-faq) | modificate |
+| 07.08.2019 | [Site-ul modernă ca site-ul rădăcină](/AlchemyInsights/sharepoint-modernize-classic-site) | modificate |
+| 07.08.2019 | [Descarca sau preveni Download fișierelor din OneDrive sau SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificate |
+| 07.08.2019 | [Instalare, configurare, şi sincronizare OneDrive sau SharePoint fişiere pe Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | modificate |
+| 07.08.2019 | [Depanarea problemelor de "Deschidere cu Explorer" în SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificate |
+| 08.08.2019 | [Protecţie avansată ameninţare în SharePoint și OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificate |
+| 08.08.2019 | [Asociat un site Hub](/AlchemyInsights/associate-a-hub-site) | modificate |
+| 08.08.2019 | [Creaţi un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificate |
+| 08.08.2019 | [Eroare 404: Fişier negăsit](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | modificate |
+| 08.08.2019 | [Rezolva probleme de sincronizare OneDrive pe un Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | modificate |
+| 08.08.2019 | [Hartă o bibliotecă SharePoint la o unitate de reţea](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | modificate |
+| 08.08.2019 | [Site-ul modernă ca site-ul rădăcină](/AlchemyInsights/modern-site-as-the-root-site) | modificate |
+| 08.08.2019 | [Retenţie de OneDrive și ștergerea](/AlchemyInsights/one-drive-retention-and-deletion) | modificate |
+| 08.08.2019 | [Ransomware atac în SharePoint sau OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificate |
+| 08.08.2019 | [Restaurarea unui fişier şters sau folder](/AlchemyInsights/sharepoint-deleted-items-restore) | modificate |
+| 08.08.2019 | [Utilizatorul extern este în imposibilitatea de a accesa conţinut în SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | modificate |
+| 08.08.2019 | [SharePoint hub site-uri prezentare generală](/AlchemyInsights/sharepoint-hub-sites) | modificate |
+| 08.08.2019 | [Descarca sau preveni Download fișierelor din OneDrive sau SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificate |
+| 08.08.2019 | [Gestiona schemă de căutare în SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | modificate |
+| 08.08.2019 | [Paşi pentru a crea un flux de lucru SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | modificate |
+| 08.08.2019 | [Swap vă clasic site-ul rădăcină, cu un site Modern](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | modificate |
+| 08.08.2019 | [Depanarea problemelor de "Deschidere cu Explorer" în SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificate |
+| 08.08.2019 | [Rezolvarea problemelor de flux de lucru](/AlchemyInsights/workflow-troubleshooting) | modificate |
+| 08.08.2019 | [Enable şi căutaţi Audit jurnal](/AlchemyInsights/enable-auditing) | modificate |
+| 08.08.2019 | [Enable şi căutaţi Jurnalul de Audit](/AlchemyInsights/enable-auditing) | modificate |

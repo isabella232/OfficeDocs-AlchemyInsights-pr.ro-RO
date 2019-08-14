@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: ef09b8d69c41e4060bb948b0681f4a6543c74cc1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360677"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387064"
 ---
 # <a name="buy-additional-licenses"></a>Cumpara licente suplimentare
 
-1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
+1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Pe pagina de **abonamente** , alege abonamentul care doriţi să adăugaţi licenţe la, şi apoi selectaţi **Adăugare/eliminare licenţe**.
 
-    [Ce se întâmplă dacă nu pot vedea link-ul de Add/Remove?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [Ce se întâmplă dacă nu pot vedea link-ul de Add/Remove?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
 3. În caseta de **licenţele Total** , introduceţi numărul total de licenţe de care ai nevoie pentru acest abonament şi apoi selectaţi **Submit** \> **aproape**. De exemplu, dacă aveţi 100 licente şi aveţi nevoie să adăugaţi mai mult de 5, intre 105.
 
     > [!NOTE]
     > Dacă plătiţi pentru abonamentul de card de credit sau cont bancar, orice noi licente pe care le cumpăraţi sunt disponibile imediat după ce veţi primi o confirmare de comanda. Dacă plătiţi de factură, s-ar putea trebuie să aşteptaţi pentru o verificare de credit înainte de noi licenţele sunt disponibile pentru utilizare.
   
- **Resurse suplimentare**
-  
-- [Cumpara licente pentru dumneavoastră Office 365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+**Resurse suplimentare**
 
-- [Atribuiţi licenţe pentru utilizatori în Office 365 pentru afaceri](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Atribuiţi licenţe pentru utilizatori în Office 365 pentru afaceri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+
+Sunt folosind noul centru de admin? Pentru noi paşi, vedeţi [cumpere licenţe pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).

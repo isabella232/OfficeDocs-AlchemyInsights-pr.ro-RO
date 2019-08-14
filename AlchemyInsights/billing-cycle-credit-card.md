@@ -13,18 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 7627299a85e07148bddbbf8183a306d612de67c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: caeab31fa69c743b4f3d2df3d1e265957b518ce8
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359633"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386812"
 ---
 # <a name="billing-cycle-credit-card"></a>Card de credit de facturare ciclu
 
 Atunci când vă cumpăraţi un Office 365 pentru afaceri abonament direct de la Microsoft, puteţi plăti cu un card de credit sau de debit. În unele ţări sau regiuni, puteţi plăti, de asemenea, cu un cont bancar.
   
-Dacă alegeţi să folosiţi un card de credit ca metodă de plată, puteţi afla cum de a gestiona şi de a depana la [adăuga, actualiza, sau elimina un card de credit sau cont bancar în Office 365 pentru afaceri](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).
+Dacă alegeţi să folosiţi un card de credit ca metodă de plată, puteţi afla cum de a gestiona şi de a depana la [adăuga, actualiza, sau elimina un card de credit sau cont bancar în Office 365 pentru afaceri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
 Aceasta include rezolvarea problemelor atunci când cardul de credit este refuzată şi schimbarea informaţiile cărţii de credit, astfel încât cardul este acceptat.
-  

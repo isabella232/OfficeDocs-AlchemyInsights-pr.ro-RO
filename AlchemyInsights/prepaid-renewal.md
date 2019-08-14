@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371220"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388612"
 ---
 # <a name="prepaid-renewal"></a>Reînnoirea preplătite
 
-1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
+1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Alege abonamentul preplătit doriţi să prelungi, apoi alegeţi **extinde**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371220"
 5. Asiguraţi-vă că informaţia este corectă, apoi selectaţi **Următorul**.
 
 6. Selectaţi butonul radio pentru a prelungi data de sfârşit a licentelor existente, apoi selectaţi **Următorul**.
+
+Sunt folosind noul centru de admin? Pentru noi paşi, consultaţi [adăuga licenţe la sau de a prelungi un abonament plătit pentru utilizând o cheie de produs](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

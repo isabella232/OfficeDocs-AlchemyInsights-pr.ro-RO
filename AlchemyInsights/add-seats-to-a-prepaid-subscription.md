@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358553"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385624"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Adauga locuri la un abonament preplătite
 
-1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
+1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege abonamentul preplătit aţi dori să adăugaţi utilizatori.
+2. Alege abonamentul preplătit aţi dori să adăugaţi utilizatorii să.
 
 3. În meniul **mai multe acţiuni** , selectaţi **Renew sau Adauga licenta cu simbolul**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358553"
 6. Introduceţi cheia de produs, apoi selectaţi **Următorul**.
 
 7. Alege optiunea de a Adauga mai multi utilizatori, alegeţi **Următorul**, apoi alegeţi **răscumpăraţi**.
+
+Sunt folosind noul centru de admin? Pentru noi paşi, consultaţi [adăuga licenţe la sau de a prelungi un abonament plătit pentru utilizând o cheie de produs](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

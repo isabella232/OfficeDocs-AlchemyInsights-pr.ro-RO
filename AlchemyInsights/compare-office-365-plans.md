@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362225"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386632"
 ---
 # <a name="compare-office-365-plans"></a>Compara planurile de Office 365
 
@@ -28,7 +28,6 @@ Office 365 planuri sunt disponibile pentru [afaceri](https://products.office.com
   
 Dacă organizaţia dumneavoastră este interesat de comparare toate planurile şi de stabilire a preţurilor, revizuire [compara toate planurile de Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-În cazul în care organizaţia a cumpărat deja un plan de Office 365 şi este interesat de trecerea la un alt plan puteţi atât la centrul de administrare Microsoft 365, du-te la [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054), sau alege **Facturare** \> **abonamente**. Alegeţi **Switch planuri** pentru a vizualiza lista de noi planuri disponibile.
+În cazul în care organizaţia a cumpărat deja un plan de Office 365 şi este interesat de trecerea la un alt plan, se poate face la centrul de administrare Microsoft 365. Du-te la **Facturare** \> [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi alegeţi **Switch planuri** pentru a vizualiza lista de noi planuri disponibile.
   
-Organizaţia, de asemenea, puteţi amesteca şi potrivi planuri Office 365 pentru a satisface nevoile şi cerinţele caracteristică utilizatorilor. La Office 365 Admin, mergeţi la pagina de [Servicii de achiziţie](https://go.microsoft.com/fwlink/p/?linkid=868433) , sau alege **Facturare** \> **Servicii de cumpărare**.
-  
+Organizaţia, de asemenea, puteţi amesteca şi potrivi planuri Office 365 pentru a satisface nevoile şi cerinţele caracteristică utilizatorilor. La centrul de administrare, du-te la **Facturare** \> pagina [Achiziţionare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
