@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383649"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390848"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Cum să reactivați un abonament
 
 Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.
   
-1. În Centrul de administrare, accesați pagina [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) sau alegeți **Facturare** \> **Abonamente**.
+1. În centrul administrare, accesați pagina **Facturare** \> [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Alegeți abonamentul pe care doriți să-l reactivați.
 
@@ -36,5 +36,4 @@ Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl
 
 6. Dacă abonamentul nu apare ca Activ după câteva minute, reîmprospătați pagina.
 
-Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://docs.microsoft.com/ro-RO/office365/admin/subscriptions-and-billing/renew-your-subscription).
