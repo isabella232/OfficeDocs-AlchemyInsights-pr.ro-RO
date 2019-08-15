@@ -2,32 +2,51 @@
 title: Notificări de alertă SharePoint nelivrate
 ms.author: efrene
 author: efrene
+manager: pamgreen
 ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 65c9c31a0dfb49c636b719b27edd04428914a88d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.collection: Adm_O365
+ms.custom:
+- "9000118"
+- "1655"
+ms.openlocfilehash: e682a1b3dbd0d3a1c2e52be725dd2b57fc66109a
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840600"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404814"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Notificări de alertă SharePoint nelivrate 
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Notificări de alertă SharePoint nelivrate
 
-În primul rând, determina dacă toate alerte nu sunt livrate sau în cazul în care nu este emis o alertă individuale dintr-un fisier anume sau biblioteca.
+Vă rugăm să verificaţi folderul JUNK în e-mailul, ca uneori alerte ar putea merge acolo.
 
-- **Toate alertele nu sunt livrate**: în cazul în care toate alertele din mai multe fisiere sau biblioteci nu sunt livrate, vizitaţi [serviciu sănătate tabloul de bord](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a verifica pentru orice consultaţie/incidentele care pot fi produse cu SharePoint sau schimb. Problema ar putea fi cu capacitatea de alertă SharePoint sau întârzieri în e-mailuri prin schimb. De asemenea, este important să reţineţi dacă alte e-mail este livrat, iar dacă nu, problema este probabil cu întârzieri de schimb. 
+Determina dacă **toate alerte nu sunt livrate** sau dacă nu este emis **o alertă individuale** dintr-un fisier anume sau biblioteca.
 
-- **Alerte individuale nu sunt livrate**: în cazul în care nu este emis o alertă individuale dintr-un fisier anume sau bibliotecă, puteţi încerca să ştergeţi şi de a recrea aceasta. Vedea [Manage, Vezi, sau şterge SharePoint alerte</a> pentru a recrea alerta](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2#ID0EAADAAA=Online). 
- 
-Mai multe despre avertizări:
+- **Alerte individuale nu sunt livrate**: în cazul în care nu este emis o alertă individuale dintr-un fisier anume sau bibliotecă, puteţi încerca să ştergeţi şi de a recrea aceasta. A se vedea [Manage, Vezi, sau şterge SharePoint alerte](https://support.office.com/en-us/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) pentru a recrea alerta.
+- **Toate alertele nu sunt livrate**: în cazul în care toate alertele din mai multe fisiere sau biblioteci nu sunt livrate, vizitaţi [serviciu sănătate tabloul de bord](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a verifica pentru orice consultaţie/incidentele care pot fi produse cu SharePoint sau schimb. Problema ar putea fi cu capacitatea de alertă SharePoint sau întârzieri în e-mailuri prin schimb. De asemenea, este important să reţineţi dacă alte e-mail este livrat, iar dacă nu, problema este probabil cu întârzieri de schimb.
 
-- **Alertă de configurare**: pentru mai multe informaţii despre configurarea alerte, consultaţi [crearea o alertă pentru a obţine notificat atunci când un fişier sau dosar modificări în SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+FAQ pe alerte:
 
-- **Depanarea alerte**: pentru mai multe informaţii despre depanarea alerte, a se vedea [utilizatorii nu primesc notificări de alertă SharePoint Online](https://support.office.com/article/users-don-t-receive-sharepoint-online-alert-notifications-14fc22dd-e873-482c-844d-f67ad41313f1).
+- Nu este posibil pentru a trimite alerte grup de distribuire, doar de securitate şi O365 grupurile sunt acceptate.
+- Nu puteţi personaliza template-uri de e-mail de alertă; Trebuie să utilizaţi Microsoft FLOW sau flux de lucru SharePoint Designer pentru a obţine cei.
 
+Mai multe informaţii:
 
+- **Alertă de configurare**: pentru mai multe informaţii despre configurarea alerte, consultaţi [crearea o alertă pentru a obţine notificat atunci când un fişier sau dosar modificări în SharePoint](https://support.office.com/en-us/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Depanarea alerte**: pentru mai multe informaţii despre depanarea alerte, a se vedea [utilizatorii nu primesc notificări de alertă SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/support/sites/no-alert-notifications).
+- **Avansate O365 respectarea alertă politicilor**: pentru mai multe informaţii despre configurarea acestor alerte, consultaţi [Politicile de alertă conformitatea](https://docs.microsoft.com/en-us/office365/securitycompliance/alert-policies).
+- **SharePoint şi jurnalele de Audit OneDrive**: pentru mai multe informaţii despre modul de a prelua aceste evenimente, a se vedea [Căutaţi în Jurnalul de audit](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Alerte trimise de Advanced Protection ameninţare**: vedea [ATP pentru SharePoint și OneDrive](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Alerte trimise de Data Loss Prevention politici**: vedea [Notificări E-mail pentru DLP politici](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips).
 
+## <a name="related-topics"></a>Subiecte conexe
+
+Doriţi să încercaţi Flow Microsoft SharePoint Online?
+
+- [Crea fluxul](https://support.office.com/en-us/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+
+- [SharePoint şi fluxul](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
