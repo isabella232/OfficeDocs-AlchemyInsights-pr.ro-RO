@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369677"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444820"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Strategiile de conservare în centrul de administrare Exchange
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369677"
   ```
 
  **Notă:** Dacă o cutie poştală este mai mică de 10 MB, asistentul pentru foldere gestionate va nu automat procesează cutia poştală.
-  
+ 
+Pentru mai multe informaţii despre strategiile de conservare în centrul de administrare Exchange, consultaţi:
+- [Etichetele de conservare şi strategiile de conservare](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Aplica o strategie de conservare la cutiile poştale](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Adăugaţi sau eliminaţi etichete de conservare](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Cum de a identifica tipul de rost plasate pe o cutie poştală](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

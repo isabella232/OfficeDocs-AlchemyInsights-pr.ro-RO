@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371445"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444784"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cum pentru a efectua căutări conţinut şi căutări eDiscovery
 
-**Căutare conţinutul**
+Utilizaţi instrumentul de căutare conţinutul în & de securitate conformitatea centru pentru a găsi rapid poştă electronică în cutiile poştale Exchange, documente SharePoint site-uri şi contul OneDrive, şi conversaţiile din Skype pentru afaceri de mesagerie instantanee. Utilizaţi instrumentul de căutare de conţinut pentru a căuta de e-mail, documentele şi conversaţii mesagerie instant în Office 365 instrumente de colaborare, cum ar fi Microsoft Teams și Office 365 grupuri.
+
+**Pentru a efectua o căutare de conţinut**
 
 1. Du-te la [Securitate & centru de conformitate](https://protection.office.com) și conectați-vă.
-2. Faceţi clic pe **Căutaţi & ancheta > căutare conţinutul**.
+2. Faceţi clic pe **Căutare > de căutare de conţinut**.
 3. Faceţi clic pe **Căutare nouă** pentru a crea o nouă căutare.
 4. Introduceţi condiţiile necesare căutare inclusiv cuvinte cheie şi conţinutul de locaţii.  
 5. Faceţi clic pe **salva o familie &** nume căutare, porniţi-l şi apoi Previzualizaţi rezultatele.
 
-Pentru instrucţiuni detaliate despre crearea de căutări şi exportul de rezultate, a se vedea [acest articol](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Pentru instrucţiuni detaliate despre conţinut căutări, exportul rezultatelor şi crearea eDiscovery cazuri să deţină date, vedea [Conţinut de căutare](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) şi [eDiscovery cazuri](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**căutări eDiscovery**
-
-1. Du-te la [Securitate & centru de conformitate](https://protection.office.com) și conectați-vă.
-2. Faceţi clic pe **Căutaţi & ancheta > eDiscovery**.
-3. Deschideţi un caz existente sau creaţi una nouă.
-4. Caz pagina de pornire, faceţi clic pe fila **căutări** .  
-5. Faceţi clic pe **Căutare nouă** pentru a crea o nouă căutare.
-6. Introduceţi condiţiile necesare căutare inclusiv cuvinte cheie şi conţinutul de locaţii.  
-7. Faceţi clic pe **salva o familie &** nume căutare, porniţi-l şi apoi Previzualizaţi rezultatele.
-
-Pentru instrucţiuni detaliate despre crearea căutări asociate cu un caz de eDiscovery şi exportul rezultatelor, a se vedea [acest articol](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Înţeleg mai multe despre căutare conţinutul prin revizuirea [cerințelor și limitele](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) şi [investigarea indexate parţial elemente](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) şi alte rezultate să fie conştienţi de.
