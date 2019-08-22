@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 94a243d12e2a3d691b008d111c949ee46ffc3151
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381237"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497707"
 ---
-# <a name="learn-about-office-365-groups"></a><span data-ttu-id="adee5-102">Aflaţi mai multe despre grupurile de Office 365</span><span class="sxs-lookup"><span data-stu-id="adee5-102">Learn about Office 365 Groups</span></span>
+# <a name="learn-about-office-365-groups"></a><span data-ttu-id="5818d-102">Aflaţi mai multe despre grupurile de Office 365</span><span class="sxs-lookup"><span data-stu-id="5818d-102">Learn about Office 365 Groups</span></span>
 
-<span data-ttu-id="adee5-103">Pentru informaţii suplimentare, consultaţi [Aflaţi despre Office 365 grupuri](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="adee5-103">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="5818d-103">Office 365 grupuri este un serviciu care lucrează cu instrumente Office 365 utilizează deja, astfel încât aveţi posibilitatea să colaboraţi cu coechipierii la scrierea documentelor, crearea de spreadsheets, lucru pe planuri de proiect, programarea întâlnirilor, sau trimiterea de e-mail.</span><span class="sxs-lookup"><span data-stu-id="5818d-103">Office 365 Groups is a service that works with the Office 365 tools you use already, so you can collaborate with your teammates when writing documents, creating spreadsheets, working on project plans, scheduling meetings, or sending email.</span></span> <span data-ttu-id="5818d-104">Pentru informaţii suplimentare, consultaţi [Aflaţi despre Office 365 grupuri](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="5818d-104">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>

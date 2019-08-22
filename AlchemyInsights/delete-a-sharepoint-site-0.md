@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406324"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514067"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="fe04b-102">Şterge site-uri care aparţin unui grup de Office 365:</span><span class="sxs-lookup"><span data-stu-id="fe04b-102">Delete sites that belong to an Office 365 group:</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="81a26-102">Şterge site-uri care aparţin unui grup de Office 365</span><span class="sxs-lookup"><span data-stu-id="81a26-102">Delete sites that belong to an Office 365 group</span></span>
 
-<span data-ttu-id="fe04b-103">Atunci când utilizatorii creează un nou site de echipa de SharePoint acasa sau creaţi un nou site de echipă la noul centru de administrare SharePoint, un grup de Office 365 corespunzătoare se creează automat.</span><span class="sxs-lookup"><span data-stu-id="fe04b-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="fe04b-104">Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="fe04b-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="fe04b-105">Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine.</span><span class="sxs-lookup"><span data-stu-id="fe04b-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="81a26-103">Atunci când utilizatorii creează un nou site de echipa de SharePoint acasa sau creaţi un nou site de echipă la noul centru de administrare SharePoint, un grup de Office 365 corespunzătoare se creează automat.</span><span class="sxs-lookup"><span data-stu-id="81a26-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="81a26-104">Office 365 conectat la Grupa echipa site-uri, de asemenea, sunt create atunci când creaţi un grup de Office 365 sau o echipă în Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="81a26-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="81a26-105">Pentru a şterge un site SharePoint care aparţine unui grup de Office 365, trebuie să ştergeţi grupul de Office 365 în sine.</span><span class="sxs-lookup"><span data-stu-id="81a26-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="fe04b-106">Du-te la [pagina de grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="fe04b-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="81a26-106">Du-te la [pagina de grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="81a26-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="fe04b-107">Selectaţi caseta de lângă grupului.</span><span class="sxs-lookup"><span data-stu-id="fe04b-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="81a26-107">Selectaţi caseta de lângă grupului.</span><span class="sxs-lookup"><span data-stu-id="81a26-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="fe04b-108">Selectaţi **şterge**.</span><span class="sxs-lookup"><span data-stu-id="fe04b-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="81a26-108">Selectaţi **şterge**.</span><span class="sxs-lookup"><span data-stu-id="81a26-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="fe04b-109">Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de site-ul este eliminat din SharePoint.</span><span class="sxs-lookup"><span data-stu-id="fe04b-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="81a26-109">Notă: Atunci când ştergeţi un grup, poate exista o întârziere înainte de site-ul este eliminat din SharePoint.</span><span class="sxs-lookup"><span data-stu-id="81a26-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="fe04b-110">**Ştergeţi comunicare site-uri sau site-uri clasice:**</span><span class="sxs-lookup"><span data-stu-id="fe04b-110">**Delete communication sites or classic sites:**</span></span>
+<span data-ttu-id="81a26-110">**Ştergeţi comunicare site-uri sau site-uri clasice:**</span><span class="sxs-lookup"><span data-stu-id="81a26-110">**Delete communication sites or classic sites:**</span></span>
 
-1. <span data-ttu-id="fe04b-111">Du-te la site-ul.</span><span class="sxs-lookup"><span data-stu-id="fe04b-111">Go to the site.</span></span>
+1. <span data-ttu-id="81a26-111">Du-te la site-ul.</span><span class="sxs-lookup"><span data-stu-id="81a26-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="fe04b-112">Faceţi clic pe \* Setări \*\* pictogramă în colţul din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="fe04b-112">Click the \*\* Settings \*\* icon in the upper right.</span></span> 
+2. <span data-ttu-id="81a26-112">Faceţi clic pe pictograma **Setări** în colţul din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="81a26-112">Click the **Settings** icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="fe04b-113">Faceţi clic pe **Setări Site**.</span><span class="sxs-lookup"><span data-stu-id="fe04b-113">Click **Site settings**.</span></span> <span data-ttu-id="fe04b-114">**Site de informare** sau **Acțiuni Site**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**.</span><span class="sxs-lookup"><span data-stu-id="fe04b-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="81a26-113">Faceţi clic pe **Setări Site**.</span><span class="sxs-lookup"><span data-stu-id="81a26-113">Click **Site settings**.</span></span> <span data-ttu-id="81a26-114">**Site de informare** sau **Acțiuni Site**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**.</span><span class="sxs-lookup"><span data-stu-id="81a26-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="fe04b-115">**Ştergeţi o colecţie de site-ul SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="fe04b-115">**Delete a SharePoint site collection:**</span></span>
+<span data-ttu-id="81a26-115">**Ştergeţi o colecţie de site-ul SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="81a26-115">**Delete a SharePoint site collection:**</span></span>
 
-<span data-ttu-id="fe04b-116">Pentru a şterge un site:</span><span class="sxs-lookup"><span data-stu-id="fe04b-116">To delete a site:</span></span>
+<span data-ttu-id="81a26-116">Pentru a şterge un site:</span><span class="sxs-lookup"><span data-stu-id="81a26-116">To delete a site:</span></span>
   
-1. <span data-ttu-id="fe04b-117">În noul centru de administrare SharePoint, în pagina de site-uri, faceţi clic pe **caseta de selectare** de lângă site-ul pe care îl ștergeți.</span><span class="sxs-lookup"><span data-stu-id="fe04b-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
+1. <span data-ttu-id="81a26-117">În noul centru de administrare SharePoint, în pagina de site-uri, faceţi clic pe **caseta de selectare** de lângă site-ul pe care îl ștergeți.</span><span class="sxs-lookup"><span data-stu-id="81a26-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
     
-2. <span data-ttu-id="fe04b-118">Panglică de instrumente, faceţi clic pe **Ștergeți.**</span><span class="sxs-lookup"><span data-stu-id="fe04b-118">On the ribbon toolbar, click **Delete.**</span></span>
+2. <span data-ttu-id="81a26-118">Panglică de instrumente, faceţi clic pe **Ștergeți.**</span><span class="sxs-lookup"><span data-stu-id="81a26-118">On the ribbon toolbar, click **Delete.**</span></span>
     
-<span data-ttu-id="fe04b-119">**Elimină un site de accident?**</span><span class="sxs-lookup"><span data-stu-id="fe04b-119">**Deleted a site by accident?**</span></span>
+<span data-ttu-id="81a26-119">**Elimină un site de accident?**</span><span class="sxs-lookup"><span data-stu-id="81a26-119">**Deleted a site by accident?**</span></span>
 
-<span data-ttu-id="fe04b-120">A se vedea [restaura o colecţie de site-ul şterse](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="fe04b-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="81a26-120">A se vedea [restaura o colecţie de site-ul şterse](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="81a26-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 
