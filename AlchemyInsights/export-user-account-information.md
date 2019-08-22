@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697451"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526223"
 ---
-# <a name="export-user-account-information"></a><span data-ttu-id="ef120-102">Exportaţi informaţiile despre contul de utilizator</span><span class="sxs-lookup"><span data-stu-id="ef120-102">Export user account information</span></span>
+# <a name="export-user-account-information"></a><span data-ttu-id="b1e27-102">Exportaţi informaţiile despre contul de utilizator</span><span class="sxs-lookup"><span data-stu-id="b1e27-102">Export user account information</span></span>
 
-<span data-ttu-id="ef120-103">Să exportaţi contul utilizatorului informaţii, inclusiv informaţii despre licenţe, Politica de parola, blocat conturile, stare sincronizare Aimee şi mai mult, du-te la **utilizatorii** > [utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) pagină, apoi selectaţi **Utilizatorii de Export**.</span><span class="sxs-lookup"><span data-stu-id="ef120-103">To export user account information including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, then choose **Export Users**.</span></span>
+<span data-ttu-id="b1e27-103">Să exportaţi informaţii despre cont utilizator admin Microsoft 365 centru, inclusiv informaţii despre licenţe, Politica de parola, blocat conturile, stare sincronizare Aimee şi mai mult, du-te la **utilizatorii** > pagina de[utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) , şi apoi selectaţi **Export Utilizatorii**.</span><span class="sxs-lookup"><span data-stu-id="b1e27-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
