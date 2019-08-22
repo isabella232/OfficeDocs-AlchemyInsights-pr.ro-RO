@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403687"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527483"
 ---
 # <a name="enable-multi-factor-authentication"></a>Activa autentificarea multi-factor
 
-1. Navigaţi la **utilizatorii** \> **utilizatori activi**
+Pentru a activa autentificarea multi-factor în centrul de administrare Microsoft 365:
+
+1. Du-te la **utilizatorii** \> pagina de **utilizatori activi** .
     
-2. Faceţi clic pe **mai multe** \> **Setup Azure multi-factor de autentificare**. 
+2. În partea de sus a paginii, selectaţi **multi-factor de autentificare**. 
     
-3. Găsi utilizatorului sau utilizatorilor care doriţi să activaţi pentru Mae. Pentru a vedea toate utilizatori, va trebui să modifica vizualizarea statutul de autentificare multi-factor în partea de sus.
+3. Găsi utilizatorului sau utilizatorilor care doriţi să activaţi pentru multi-factor de autentificare. Pentru a vizualiza toţi utilizatorii, s-ar putea nevoie pentru a schimba filtrul de **autentificare multi-factor stare** din partea de sus.
     
-4. Bifaţi caseta de selectare lângă utilizatori activaţi.
+4. Selectaţi caseta de lângă utilizatori activaţi.
     
-5.  Pe panoul de informaţii dreptul utilizatorului, sub **pași rapizi** veţi vedea Enable şi gestiona setările de utilizator. Selectaţi **Activare**. 
+5.  În panoul de informaţii dreptul utilizatorului, sub **paşi rapizi**, selectaţi **Activare**. 
     
-6. În caseta de dialog care se deschide, **faceţi clic pe activare autentificare multi-factor**. 
+6. În caseta de dialog care se deschide, selectaţi **Activare autentificare multi-factor**. 
     
 
