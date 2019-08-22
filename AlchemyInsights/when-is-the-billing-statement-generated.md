@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 32a87bf8ea0a8254096a3a7e69a3fce8095f6a54
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387568"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530887"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Când este generat declaraţia de facturare
 
 În fiecare lună veţi primi un e-mail care vă spune că declaraţia dumneavoastră de facturare nou este disponibil în centrul de administrare Microsoft 365. Factura conţine două pagini. Pagina 1 este factură sumară şi conţine informaţii generale despre factura, comanda, suma datorată, cum se face o plată, şi cum să contactaţi asistenţa. Pagina 2 conține detalii despre activitatea de facturare pentru fiecare abonament.
   
-Pentru a afla mai multe despre concepte de facturare, a se vedea [intelege factura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Pentru a afla mai multe despre concepte de facturare, a se vedea [intelege factura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).

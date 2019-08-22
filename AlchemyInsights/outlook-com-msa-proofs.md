@@ -15,16 +15,16 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373893"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535979"
 ---
 # <a name="security-info-and-security-codes"></a>Informašii de securitate şi codurile de securitate
 
-Pentru a adăuga informaţii de securitate pentru contul:
+Pentru a adăuga informaţii de securitate pentru contul dumneavoastră Microsoft:
 
 1. Faceţi sign in la [elementele de bază de securitate](https://account.microsoft.com/security) cu contul de Microsoft.
 1. Selectaţi **Securitate informatii de contact**.

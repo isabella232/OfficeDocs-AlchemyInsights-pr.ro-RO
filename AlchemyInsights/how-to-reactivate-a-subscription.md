@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390848"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539941"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Cum să reactivați un abonament
 
 Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.
   
-1. În centrul administrare, accesați pagina **Facturare** \> [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Alegeți abonamentul pe care doriți să-l reactivați.
+2. Sub**Facturare**, lângă **Se reînnoiește la** sau **Expiră la**, selectați **Editare**.
 
-3. Alegeți butonul **Reactivare** din dreapta.
+3. În panoul **Setări pentru facturări recurente**, selectați opțiunea dorită. Dacă facturarea recurentă este deja dezactivată, selectați **Lunar** sau **O singură dată**pentru a o activa.
 
-4. Vi se va solicita să actualizați detaliile de plată. Când toate informațiile sunt corecte, alegeți **Remitere**.
+4. Selectați **Remitere modificare**.
 
-5. O confirmare se va afișa în partea de jos a ecranului. Alegeți **Închidere** pentru a reveni la pagina **Abonamente**.
-
-6. Dacă abonamentul nu apare ca Activ după câteva minute, reîmprospătați pagina.
-
-Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://docs.microsoft.com/ro-RO/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
