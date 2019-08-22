@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389758"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496123"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Amintesc sau să înlocuiască un mesaj de e-mail
+# <a name="recall-or-replace-an-outlook-email-message"></a>Amintesc sau să înlocuiască un mesaj de poştă electronică Outlook
 
 - Ca administrator, puteţi **amintesc mesaje în numele utilizatorilor folosind PowerShell**. Nu pot aminti mesaje de la centrul de administrare.
 - Puteţi **doar amintesc mesajele care sunt trimise la oameni în cadrul organizaţiei**. Dacă mesajul a fost trimis la o adresă de Gmail, de exemplu, tu nu pot aminti ea.

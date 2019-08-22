@@ -13,14 +13,14 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 70b09fc739d5967f40b7fa7a036e0721ff614e95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390165"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511524"
 ---
-# <a name="how-to-verify-your-account"></a>Cum pentru a verifica contul dvs.
+# <a name="how-to-verify-your-outlookcom-account"></a>Cum pentru a verifica contul Outlook.com
 
 În două etape de verificare ajută la a vă proteja de ceea ce face mai dificil pentru altcineva să faceţi sign in la contul de Microsoft. Acesta utilizează două forme diferite de identitate: parola, si o metoda de contact (cunoscut şi sub numele Informašii de securitate).
   

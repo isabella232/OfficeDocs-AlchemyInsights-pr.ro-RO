@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059264"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507643"
 ---
-# <a name="search-in-sharepoint-online"></a>Căutare în SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Accesarea cu crawlere conţinut şi indexarea în SharePoint Online
 
 Conţinutul trebuie să fie indexat şi adăugate la indexul de căutare pentru utilizatorilor să găsească ceea ce ei caută în SharePoint Online. Conţinutul este scotocit automat bazat pe un program de accesare cu crawlere pre-definite (programul de scotocire nu poate fi schimbat). Crawler-ul preia conţinutul pe care s-a schimbat ultima scotocire şi actualizează indexul. Pentru a se asigura de conţinut este indexat şi Indexul este actualizat, reţineţi următoarele:
 
@@ -30,7 +30,8 @@ Conţinutul trebuie să fie indexat şi adăugate la indexul de căutare pentru 
 
     În cazul în care mai mult de 24 de ore au trecut de cand ai initiat de accesare cu crawlere şi complet re-indexa, vă rugăm să vă un caz de suport. În multe cazuri, lucrăm deja la o soluţie. Vă rugăm să ne dea cel puţin 24 de ore pentru a finaliza o soluţie.
 
->[! Important!]: în cazul în care un site, documentul (biblioteca) sau o listă a fost şterse şi încă arată în rezultatele de căutare, utilizatorii ar trebui să primească o **Eroare 404 Fişier negăsit** atunci când încearcă să-l acces. Această problemă trebuie să fiţi conectat ca un caz de suport pentru o analiza ulterioara. 
+> [!IMPORTANT]
+> În cazul în care un site, documentul (biblioteca), sau o listă a fost şters şi prezintă încă în rezultatele de căutare, utilizatorii ar trebui să primiţi o **Eroare 404 Fişier negăsit** atunci când încearcă să-l acces. Această problemă trebuie să fiţi conectat ca un caz de suport pentru o analiza ulterioara. 
 
 
 

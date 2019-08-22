@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 4e18a07b54a3d47767998c7680d92f741b0fb5c6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387273"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520967"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Anularea abonament Office 365?
 
@@ -28,4 +28,4 @@ Pe baza datelor organizaţiei, credem că toate abonamentele curent au mai mult 
   
 Alternativ, utilizaţi opţiunea "să ne te sun" să vorbesc cu un inginer de suport.
   
-Pentru a afla mai multe despre anularea unui abonament sau pentru instrucţiuni pas cu pas, consultaţi acest articol: [anula abonamentul](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Pentru a afla mai multe despre anularea unui abonament sau pentru instrucţiuni pas cu pas, consultaţi acest articol: [anula abonamentul](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

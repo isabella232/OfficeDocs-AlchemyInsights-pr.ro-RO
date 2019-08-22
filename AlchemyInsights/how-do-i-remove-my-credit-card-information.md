@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390308"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523163"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Cum pot elimina informatiile cardului de credit?
 
-1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare Microsoft 365, du-te la **Facturare** \> pagina de [metode de plată](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
 
-2. Alege orice abonament, apoi alege **Actualizare detaliile de plata**.
+2. Pe pagina de **metode de plată** , alege cardul de credit sau cont bancar pentru a şterge.
 
-3. Alegeţi drop jos săgeata sub **Adăugare sau selectaţi o metodă de plată**, alege cardul de credit sau cont bancar pe care doriţi să ştergeţi, apoi alegeţi **eliminaţi**.
-
-4. Alegeţi **Eliminare** din nou să ştergeţi carduri de credit sau cont bancar.
+3. Pentru a elimina cartea de credit sau cont bancar, selectaţi **şterge metodă de plată.**
 
 > [!NOTE]
-> Puteţi elimina un card de credit sau cont bancar, atâta timp cât nu aveţi un sold neonorat pe cardul de credit sau cont bancar, şi nu îl folosiți pentru a plăti pentru un abonament activ.
+> Nu va fi capabil de a elimina un card de credit sau cont bancar, în cazul în care în prezent este folosit pentru a plăti pentru un abonament.
 
-Sunt folosind noul centru de admin? Pentru noi paşi, consultaţi [adăugaţi, actualizaţi, sau elimina un card de credit sau cont bancar în Office 365 pentru afaceri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+4. În panoul **şterge metodă de plată** , selectaţi **şterge**.
+
+Pentru mai multe informaţii, consultaţi [adăugarea, actualizarea, sau elimina un card de credit sau cont bancar în Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

@@ -12,14 +12,14 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 356528f2269dab7b1d9e3f7ec90a2ceb35adef61
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381813"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498643"
 ---
-# <a name="installation-hangs-or-gets-stuck"></a>Instalarea se blochează sau se blochează
+# <a name="office-installation-hangs-or-gets-stuck"></a>Birou instalarea se blochează sau se blochează
 
 Este posibil să vedeţi acest comportament din cauza de conectivitate în reţea, software-ul antivirus sau setările de actualizare Windows pe computer. Aici sunt unele lucruri pe care puteţi încerca pentru a rezolva problema.
   

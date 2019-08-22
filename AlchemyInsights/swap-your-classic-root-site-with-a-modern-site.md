@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270756"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501091"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap vă clasic site-ul rădăcină, cu un site Modern
 
 În cazul în care mediul vostru a fost creat înainte de aprilie 2019, puteţi schimba site-ul rădăcină a unui site modern utilizând Microsoft PowerShell:
 
 - Dacă aveţi un alt site pe care doriţi să o utilizaţi ca site-ul rădăcină, puteţi înlocui (swap) rădăcină site-ul cu ea. 
-    - Utilizaţi [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pentru a schimba locaţia de un site cu un alt site în timp ce site-ul original de arhivare. Disponibil pentru echipa site-ului (nu este conectat la un grup) şi de site-ul de comunicare. 
+    - Utilizaţi [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pentru a schimba locaţia de un site cu un alt site în timp ce site-ul original de arhivare. Disponibil pentru echipa site-ului (nu este conectat la un grup) şi de site-ul de comunicare. 
 
 - Capabilităţi suplimentare vor fi introduse în curând care vă va permite să păstraţi folosind conţinut pe site-ul, dar conversia site-ul existent la un site de comunicare. 
 >[!Important]
