@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 01a7c0983a7feb862df4d165f78d95631103647e
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606879"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497383"
 ---
-# <a name="manage-app-licenses"></a>Administrarea licenţelor în app
+# <a name="manage-office-365-app-licenses"></a>Administrarea licenţelor app în Office 365
 
 ## <a name="to-change-license-quantity"></a>Pentru a schimba cantitatea de licenţă
 

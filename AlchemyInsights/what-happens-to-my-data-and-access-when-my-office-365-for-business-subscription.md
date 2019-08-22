@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387594"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531263"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Ce se întâmplă cu meu date şi acces atunci când se termină meu Office 365 pentru afaceri abonament?
 
@@ -26,6 +26,6 @@ ms.locfileid: "36387594"
   
 Înainte de abonament fapt ajunge la data expirarii, aveţi câteva opţiuni pentru a **administra recurente facturare pentru abonamentul**.
   
-- Dacă **recurent de facturare** este deja activat, nu trebuie să ia orice acţiune. Abonamentul va fi facturat la data de **Facturare recurent** , şi veţi fi taxat pentru un an suplimentar sau luna, în funcţie de frecvenţa de plată curent. Dacă pentru orice motiv te-am oprit **recurente de facturare** , puteţi întotdeauna [transforma recurente de facturare pe spate](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Dacă **recurent de facturare** este deja activat, nu trebuie să ia orice acţiune. Abonamentul va fi facturat la data de **Facturare recurent** , şi veţi fi taxat pentru un an suplimentar sau luna, în funcţie de frecvenţa de plată curent. Dacă pentru orice motiv te-am oprit **recurente de facturare** , puteţi întotdeauna [transforma recurente de facturare pe spate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Dacă sunteţi un client Open licenţierea în volum cu un abonament de un an preplatite, contactaţi partenerul dumneavoastră pentru a cumpăra o cheie de produs nouă. Veţi primi instrucţiuni prin e-mail pentru a activa cheia în [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Pentru a afla cum de a găsi un nou partener sau parteneri ai lucrat cu în trecut, a se vedea [găsi Office 365 partenerul tau sau reseller](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).
+- Dacă sunteţi un client Open licenţierea în volum cu un abonament de un an preplatite, contactaţi partenerul dumneavoastră pentru a cumpăra o cheie de produs nouă. Veţi primi instrucţiuni prin e-mail pentru a activa cheia în [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Pentru a afla cum de a găsi un nou partener sau parteneri ai lucrat cu în trecut, a se vedea [găsi Office 365 partenerul tau sau reseller](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

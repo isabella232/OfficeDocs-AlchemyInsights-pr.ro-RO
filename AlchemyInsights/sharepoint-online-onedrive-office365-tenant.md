@@ -7,15 +7,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 108bed3dc8ca617abfaba2f7f1aa27a672f3d8c7
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736344"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535158"
 ---
-"Configurarea"
-
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online sau OneDrive "Setarea"
 
 Când un utilizator se adaugă un locatar existente de Office 365, ei pot vedea SharePoint Online sau OneDrive pentru afaceri icoane enumerate ca "Crearea" până la terminarea procesului de asigurare a accesului.
