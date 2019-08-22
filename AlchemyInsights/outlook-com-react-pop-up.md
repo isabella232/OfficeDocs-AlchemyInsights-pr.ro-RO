@@ -12,12 +12,12 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373173"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545487"
 ---
 # <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com este gata pentru prime time
 
@@ -25,4 +25,4 @@ Suntem conştienţi de faptul că unii clienţi pot vedea pop-up "Outlook.com es
 
 Ne pare rău despre asta.
 
-[Aflaţi mai multe despre noi Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001300)
+[Aflaţi mai multe despre noi Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

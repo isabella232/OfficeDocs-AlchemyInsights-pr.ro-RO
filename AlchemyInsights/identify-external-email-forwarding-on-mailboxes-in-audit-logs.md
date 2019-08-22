@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383109"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539113"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifica atunci când extern e-mail forwarding este configurat pe cutiile poştale
 
-Atunci când un utilizator se configurează externe e-mail forwarding pe o cutie poştală, activitatea este auditate ca parte a cmdlet-ul **Set-Mailbox** . Puteţi vedea activitatea folosind audit jurnal caută în & de securitate centru de conformitate.
+Atunci când un utilizator Office 365 configurează externe e-mail forwarding pe o cutie poştală, activitatea este auditate ca parte a cmdlet-ul **Set-Mailbox** . Puteţi vedea activitatea folosind audit jurnal caută în & de securitate centru de conformitate.
 
-1. Conectaţi-vă la [Centrul de conformitatea Office 365 securitate &](https://protection.office.com/)
+1. Conectaţi-vă la [Centrul de conformitatea Office 365 securitate &](https://protection.office.com/).
 
-2. Faceţi clic pe **Căutare şi ancheta** şi selectaţi **Căutare de jurnalul de Audit**.
+2. Du-te la **Căutare** > pagina de**Căutare de jurnalul de Audit** .
 
 3. Selectaţi intervalul de date în câmpurile **data de început** şi **data de sfârşit** . Nu aveţi nevoie să specificaţi un nume de utilizator. Verificaţi câmpul de **activităţi** este setată pentru a **afişa rezultate pentru toate acțiunile**.
 
