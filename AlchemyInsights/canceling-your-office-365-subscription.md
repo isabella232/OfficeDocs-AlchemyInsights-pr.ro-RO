@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387266"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519697"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Anularea abonament Office 365?
 
@@ -30,4 +30,4 @@ Ne pare rău pentru a vedea tu du-te, dar aici sunt opţiunile pentru a anula ab
 
 - Dacă aveţi mai mult de 25 de licenţe atribuite, fie eliminaţi utilizatori până când au mai puţin de 25, sau de a folosi opţiunea "să ne te sun" să vorbesc cu un inginer de suport.
 
-- Pentru a afla mai multe despre anularea unui abonament, sau pentru instrucţiuni pas cu pas, consultaţi [anula abonamentul](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Pentru a afla mai multe despre anularea unui abonament, sau pentru instrucţiuni pas cu pas, consultaţi [anula abonamentul](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

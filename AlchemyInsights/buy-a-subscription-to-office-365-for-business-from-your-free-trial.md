@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386884"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518015"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Cumpara un abonament pentru Office 365 de gratuită
 
@@ -26,16 +26,14 @@ Aţi încercat Office 365, şi acum sunteţi gata să cumpere. Aveţi două opţ
   
  **Puteţi cumpăra acelaşi plan ca proces dumneavoastră**
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege **cumpara acum** pentru abonament care doriţi şi urmaţi paşii pentru a verifica afară.
+2. Găsiţi abonament pe care vrei sa cumperi. În secţiunea de **licenţe** , selectaţi **achiziţie înscriere**şi urmaţi paşii pentru a verifica afară.
 
 sau **poti cumpara un abonament diferite**
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la **Facturare** \> pagina [achiziţionare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Pe pagina de **Abonare** , selectaţi **Adăugare abonamente**.
+3. Găsiţi abonament pe care doriţi să cumpere, selectaţi **cumpăra**şi urmaţi paşii pentru a verifica afară.
 
-3. Găsiţi abonament pe care doriţi să cumpere, selectaţi **Cumpara acum**şi urmaţi paşii pentru a verifica afară.
-
-Sunt folosind noul centru de admin? Pentru noi paşi, consultaţi [cumpara un abonament pentru Office 365 pentru afaceri la dumneavoastră gratuit trial](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Pentru informaţii suplimentare, consultaţi [cumpara un abonament pentru Office 365 pentru afaceri la dumneavoastră gratuit trial](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

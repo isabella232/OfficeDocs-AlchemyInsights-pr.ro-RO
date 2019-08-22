@@ -13,22 +13,22 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 11aed5546c78acdd14874c1539c78bbc7fe25d88
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362873"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521003"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Schimba adresa de e-mail alternativă pentru notificări de facturare
 
-Schimbarea adresei de e-mail alternative pentru facturare notificare este uşor! Urmaţi aceşti paşi:
+Schimbarea adresei de e-mail alternative pentru facturare notificare este uşor. Urmaţi aceşti paşi:
   
-1. În centrul de administrare, mergeţi la pagina de [Notificări de facturare](https://go.microsoft.com/fwlink/p/?linkid=853212) , sau alege **Facturare** \> **notificări de facturare**.
+1. În centrul de administrare Microsoft 365, du-te la **Facturare** \>pagina de [Notificări de facturare](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
 
-2. Alege un nume din lista.
+2. Selectaţi un nume din lista.
 
-3. În caseta de **e-mail alternativă** , tastaţi adresa e-mail secundară.
+3. În caseta **adresă de e-mail alternativă** , introduceţi adresa de e-mail alternativă.
 
 4. Selectaţi **salvaţi** şi aţi terminat!
 

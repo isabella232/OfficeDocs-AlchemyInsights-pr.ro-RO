@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
-ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
+ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35941080"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530303"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nu funcţionează conform aşteptărilor
 
@@ -42,7 +42,7 @@ Atunci când se utilizează **built-in informaţiile sensibile tipuri** în Offi
 
 **O politică de DLP de testare**
 
-Pentru a testa datele cu un tip de informaţii sensibile predefinite sau particularizate, utilizaţi opţiunea **tip de testare** în conformitate cu **clasificările** > **tipuri de informaţii sensibile**. Pentru mai multe informații, vedeți [tipuri de informaţii sensibile personalizate Test](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Pentru a testa datele cu un tip de informaţii sensibile predefinite sau particularizate, utilizaţi opţiunea **tip de testare** în conformitate cu **clasificările** > **tipuri de informaţii sensibile**. Pentru mai multe informații, vedeți [tipuri de informaţii sensibile personalizate Test](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Rapoarte**
   

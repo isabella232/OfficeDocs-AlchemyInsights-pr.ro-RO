@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115607"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513695"
 ---
-# <a name="delete-a-sharepoint-site"></a>Sterge un site SharePoint
-**Şterge site-uri la noul centru de administrare SharePoint** Utilizând noul centru de administrare SharePoint, aveţi posibilitatea să ştergeţi site-uri clasice şi moderne. Selectaţi **site-uri Active**, selectaţi site-ul, şi apoi selectaţi **ştergeţi**. Să [Vezi şi Restaurare şterse site-uri din centrul de administrare SharePoint nouă](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectaţi **şterge site-uri**. Pentru mai multe informaţii, consultaţi [Ştergerea unui site în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Sterge un site la noul centru de administrare SharePoint
+
+Utilizând noul centru de administrare SharePoint, aveţi posibilitatea să ştergeţi site-uri clasice şi moderne. Selectaţi **site-uri Active**, selectaţi site-ul, şi apoi selectaţi **ştergeţi**. Să [Vezi şi Restaurare şterse site-uri din centrul de administrare SharePoint nouă](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectaţi **şterge site-uri**. Pentru mai multe informaţii, consultaţi [Ştergerea unui site în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Importantă:** În cazul în care site-ul este parte dintr-o strategie de conservare, nu poate fi capabil să-l ştergeţi până când site-ul este scos din [de securitate &amp; Politica de conformitate Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). Pentru mai multe informaţii a se vedea [Imagine de ansamblu a strategiilor de conservare](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 

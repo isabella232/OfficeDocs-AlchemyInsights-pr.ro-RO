@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385405"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522515"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Cum de a atribui licente de Office pentru utilizatorii de Mac
 
-- În centrul de administrare Microsoft 365, mergeţi la pagina de [utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) , sau selectaţi **utilizatorii** \> **utilizatori activi**.
+1. În centrul de administrare, du-te la **utilizatorii** \> pagina de [utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- Selectaţi caseta din dreptul numelui utilizatorului căruia doriţi să îi asociaţi o licenţă.
+2. Selectaţi numele de utilizator la care doriţi să asociaţi, să modificaţi sau să eliminaţi o licenţă.
 
-- Pe partea dreaptă, în rândul **licente de produs** , alegeţi **Editare**.
+3. Pe fila **licenţe şi aplicaţii** , selectaţi licenţă pe care doriţi să îl atribuiţi acest utilizator.
 
-- În panoul de s **produs cu licenta**, toggle nuia a întrerupe **pe** pozitie pentru a da un permis pe care doriţi să îl atribuiţi acest utilizator.
+    În mod implicit, toate serviciile asociate cu această licenţă sunt atribuite automat pentru utilizator. Pentru a limita ce servicii sunt disponibile pentru a utilizatorului, goliţi caseta de selectare pentru serviciile pe care nu doriţi ca utilizatorul să aibă.
 
-- În partea de jos a panoului de **licente de produs** , alege **Save** \> **aproape** \> **aproape**.
+4. În partea de jos a panoului, selectaţi **salvaţi modificările**.
 
 Pentru mai multe informaţii: [atribuiţi licenţe pentru utilizatori în Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
