@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390452"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523055"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="66311-102">Cum adaug o carte de credit?</span><span class="sxs-lookup"><span data-stu-id="66311-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="fb574-102">Cum adaug o carte de credit?</span><span class="sxs-lookup"><span data-stu-id="fb574-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="66311-103">În centrul administrare, accesați pagina **Facturare** \> [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="66311-103">In the Admin center, go to the **Subscriptions** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) Subscriptions.</span></span>
+1. <span data-ttu-id="fb574-103">În Centrul de administrare Microsoft 365, accesați pagina **Facturare** \> [Metode de plată](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="fb574-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="66311-104">Alegeți abonamentul pentru care doriți să plătiți cu cartea de credit sau contul bancar nou, apoi alegeți **Actualizați detaliile de plată**.</span><span class="sxs-lookup"><span data-stu-id="66311-104">Pick the subscription that you want to pay for with the new credit card or bank account, then choose **Update payment details**.</span></span>
+2. <span data-ttu-id="fb574-104">Selectați **Adăugare metodă de plată**.</span><span class="sxs-lookup"><span data-stu-id="fb574-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="66311-105">Alegeți săgeata verticală de sub **Adăugați sau selectați o metodă de plată** și alegeți **Card de credit nou** sau **Cont bancar nou**.</span><span class="sxs-lookup"><span data-stu-id="66311-105">Choose the drop down arrow under **Add or select a payment method**, then choose **New credit card** or **New bank account**.</span></span>
+3. <span data-ttu-id="fb574-105">Pe pagina **Metode de plată**, alegeți o metodă de plată din meniul vertical.</span><span class="sxs-lookup"><span data-stu-id="fb574-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="66311-106">Introduceți informațiile pentru noul card de credit sau noul cont bancar, apoi alegeți Remitere.</span><span class="sxs-lookup"><span data-stu-id="66311-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="fb574-106">Introduceți informațiile despre noul card de credit sau noul cont bancar, apoi alegeți **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="fb574-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="66311-107">Utilizați noul centru de administrare?</span><span class="sxs-lookup"><span data-stu-id="66311-107">Are you using the new admin center?</span></span> <span data-ttu-id="66311-108">Pentru pași noi, consultați [Adăugarea, actualizarea sau eliminarea unui card de credit sau a unui cont bancar în Office 365 pentru firme](https://docs.microsoft.com/ro-RO/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="66311-108">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
+<span data-ttu-id="fb574-107">Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unui card de credit sau a unui cont bancar în Office 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="fb574-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
