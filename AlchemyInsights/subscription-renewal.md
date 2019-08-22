@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388210"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501377"
 ---
 # <a name="subscription-recurring-billing"></a>Abonament recurente de facturare
 
-Dacă vrei să ştii când abonamentul lunar sau anual va fi facturat (în cazul în care **recurent de facturare** este activată) sau expiră (în cazul în care **recurent de facturare** este oprit):
+Dacă vrei să ştii când tău lunar sau anual abonament Office 365 va fi facturat (în cazul în care **recurent de facturare** este activată) sau expiră (în cazul în care **recurent de facturare** este oprit):
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege abonamentul care doriţi să ştiţi mai multe despre.
+2. Pentru abonament pe care doriţi să ştiţi mai multe despre, sub **Facturare**, a se vedea **Renews pe** sau **Expiring pe** data.
 
-3. Pe partea dreaptă a plăcii de abonament este informaţiile despre starea abonamentului, setarea **recurent de facturare** şi următoarea dată de facturare sau expirarea.
+4. Pentru a face o schimbare, selectați **Editare** și apoi, în panoul de setări **recurent de facturare** , selectaţi **Dezactivaţi** să nap it off. Dacă deja este oprit recurente de facturare, selectaţi **lunar** sau **o dată** să îl porniţi.
 
-4. Pentru a continua utilizarea serviciului trecut aceasta data, comuta comutare **Setări de facturare recurent** la **pe**. Statutul va arăta următoarea dată de facturare pentru abonamentul.
-
-5. Pentru a opri serviciul pe această dată, **recurent facturare** toggle nuia a întrerupe **Off**. Statutul va arata data expira abonamentul.
-
-Sunt folosind noul centru de admin? Pentru noi paşi, a se vedea [Turn recurente facturare sau pe off](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Pentru informaţii suplimentare, consultaţi [Turn recurente facturare sau](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

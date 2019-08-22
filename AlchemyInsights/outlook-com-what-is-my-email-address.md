@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166092"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511525"
 ---
-# <a name="see-your-own-email-address"></a>A se vedea adresa proprie de e-mail
+# <a name="see-your-own-outlookcom-email-address"></a>Vedea propria ta adresa de email Outlook.com
 
 Pentru a vedea adresa de email implicit utilizați la trimiterea de e-mail, du-te la [setările de e-mail Sync](https://outlook.live.com/mail/options/mail/accounts) şi căutaţi sub **setat implicit la adresa**.
 

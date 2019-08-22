@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405820"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514149"
 ---
 # <a name="delete-a-communication-site"></a>Sterge un site de comunicare
 
@@ -25,14 +25,12 @@ Pentru a şterge un site de comunicare, efectuaţi următorii paşi:
   
 3. La **Site-ul informaţii**, faceţi clic pe **ştergeţi acest site**, şi apoi faceţi clic pe **Ştergere**. 
   
-Administratorii pot şterge, de asemenea, un site de comunicare din centrul de administrare Modern urmând aceşti paşi: 
+Administratorii pot şterge, de asemenea, un site de comunicare din nou centru de administrare urmând aceşti paşi: 
   
-1. Încercaţi noul centru de Admin făcând clic pe butonul **încercaţi-l acum** în colţul din dreapta. 
+1. Selectați **site-uri Active** din stânga. 
   
-2. Selectați **site-uri Active**. 
+2. Faceţi clic pe lângă site-ul pentru a şterge şi o opţiune de **Ştergere** va apărea în meniul de sus. 
   
-3. Faceţi clic pe lângă site-ul pentru a şterge şi o opţiune de **Ştergere** va apărea în meniul de sus. 
-  
- **Notă:** Dacă doriţi să ştergeţi definitiv locul de comunicare (de a scoate-l de la coşul de gunoi) re-utiliza URL-ul site-ului, utilizaţi [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) pentru a evalua coşul de gunoi şi [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) pentru a elimina site-ul la coşul de gunoi. 
+ **Notă:** Dacă doriţi să ştergeţi definitiv locul de comunicare (de a scoate-l de la coşul de gunoi) re-utiliza URL-ul site-ului, utilizaţi [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) pentru a evalua coşul de gunoi şi [Scoateţi-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) pentru a elimina site-ul la coşul de gunoi. 
   
 
