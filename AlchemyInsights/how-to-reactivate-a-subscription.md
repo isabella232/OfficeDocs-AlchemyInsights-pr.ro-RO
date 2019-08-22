@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390848"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539941"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="e930e-102">Cum să reactivați un abonament</span><span class="sxs-lookup"><span data-stu-id="e930e-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="1944b-102">Cum să reactivați un abonament</span><span class="sxs-lookup"><span data-stu-id="1944b-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="e930e-103">Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="e930e-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="1944b-103">Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="1944b-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="e930e-104">În centrul administrare, accesați pagina **Facturare** \> [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="e930e-104">In the Admin center, go to the **Subscriptions** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) Subscriptions.</span></span>
+1. <span data-ttu-id="1944b-104">În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="1944b-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="e930e-105">Alegeți abonamentul pe care doriți să-l reactivați.</span><span class="sxs-lookup"><span data-stu-id="e930e-105">Choose the subscription that you would like to reactivate.</span></span>
+2. <span data-ttu-id="1944b-105">Sub**Facturare**, lângă **Se reînnoiește la** sau **Expiră la**, selectați **Editare**.</span><span class="sxs-lookup"><span data-stu-id="1944b-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
 
-3. <span data-ttu-id="e930e-106">Alegeți butonul **Reactivare** din dreapta.</span><span class="sxs-lookup"><span data-stu-id="e930e-106">Choose the **Reactivate** button on the right.</span></span>
+3. <span data-ttu-id="1944b-106">În panoul **Setări pentru facturări recurente**, selectați opțiunea dorită.</span><span class="sxs-lookup"><span data-stu-id="1944b-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="1944b-107">Dacă facturarea recurentă este deja dezactivată, selectați **Lunar** sau **O singură dată**pentru a o activa.</span><span class="sxs-lookup"><span data-stu-id="1944b-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-4. <span data-ttu-id="e930e-107">Vi se va solicita să actualizați detaliile de plată.</span><span class="sxs-lookup"><span data-stu-id="e930e-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="e930e-108">Când toate informațiile sunt corecte, alegeți **Remitere**.</span><span class="sxs-lookup"><span data-stu-id="e930e-108">When all information is correct, choose **Submit**.</span></span>
+4. <span data-ttu-id="1944b-108">Selectați **Remitere modificare**.</span><span class="sxs-lookup"><span data-stu-id="1944b-108">Select **Submit change**.</span></span>
 
-5. <span data-ttu-id="e930e-109">O confirmare se va afișa în partea de jos a ecranului.</span><span class="sxs-lookup"><span data-stu-id="e930e-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="e930e-110">Alegeți **Închidere** pentru a reveni la pagina **Abonamente**.</span><span class="sxs-lookup"><span data-stu-id="e930e-110">Choose **Close** to return to the **Subscriptions** page.</span></span>
-
-6. <span data-ttu-id="e930e-111">Dacă abonamentul nu apare ca Activ după câteva minute, reîmprospătați pagina.</span><span class="sxs-lookup"><span data-stu-id="e930e-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
-
-<span data-ttu-id="e930e-112">Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://docs.microsoft.com/ro-RO/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="e930e-112">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="1944b-109">Pentru mai multe informații, consultați: [Reînnoirea Office 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="1944b-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
