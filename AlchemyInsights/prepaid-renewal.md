@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388612"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554633"
 ---
-# <a name="prepaid-renewal"></a>Reînnoirea preplătite
+# <a name="prepaid-office-365-renewal"></a>Reînnoire Office 365 preplătite
 
-1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege abonamentul preplătit doriţi să prelungi, apoi alegeţi **extinde**.
+2. Găsiţi abonament pe care doriţi să se extindă. În secţiunea **de facturare** , selectaţi **data de sfârşitul extinde**.
 
-3. Alegeţi opţiunea pentru **cheia de produs**. (În cazul în care aceasta a fost o cheie de produs cumpărat de la o locaţie de vânzare cu amănuntul, ar putea avea opţiunea de a extinde cu alte metode de plată).
+3. În panoul **Extend abonament** , selectaţi **utilizare o cheie de produs nou şi neutilizate**, apoi selectaţi **Următorul**.
 
-4. Introduceţi cheia de produs.
+4. Introduceţi cheia de produs, apoi selectaţi **Următorul**.
 
-5. Asiguraţi-vă că informaţia este corectă, apoi selectaţi **Următorul**.
+> [!NOTE]
+> Dacă aveţi mai mult de un rezultat cheie, aveţi posibilitatea să selectaţi **adăugaţi un alt cheie de produs** pentru a introduce-le.
 
-6. Selectaţi butonul radio pentru a prelungi data de sfârşit a licentelor existente, apoi selectaţi **Următorul**.
+5. Revizuiţi detaliile comenzii, apoi selectaţi **validare**.
 
-Sunt folosind noul centru de admin? Pentru noi paşi, consultaţi [adăuga licenţe la sau de a prelungi un abonament plătit pentru utilizând o cheie de produs](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Pentru informaţii suplimentare, consultaţi [adăuga licenţe la sau de a prelungi un abonament plătit pentru utilizând o cheie de produs](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

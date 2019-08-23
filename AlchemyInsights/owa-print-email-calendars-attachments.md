@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171327"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556721"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Imprima e-mail, calendare, şi attachments
 
-Pentru a imprima un mesaj de e-mail:
+Pentru a imprima un mesaj de poştă electronică în Outlook pe web:
   
 1. Selectaţi mesajul pe care doriţi să imprimaţi.
 1. La colţul din dreapta sus a mesajului, selectaţi trei puncte şi apoi selectaţi **printaţi**.

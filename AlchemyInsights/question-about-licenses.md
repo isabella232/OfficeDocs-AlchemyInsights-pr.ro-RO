@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388468"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553588"
 ---
-# <a name="question-about-licenses"></a>Întrebare despre licente
+# <a name="questions-about-your-office-365-license"></a>Întrebări despre licenţă Office 365
 
 Dacă vrei să ştii cât de multe licenţe cumpărate, sau cate licente sunt atribuite la un abonament:
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege abonamentul care doriţi să aflaţi mai multe despre.
+2. Sub numele de abonament pe care doriţi să ştiţi mai multe despre, puteţi vedea numărul de licenţe sunt plătiţi pentru, şi cât de multe sunt disponibile pentru a fi atribuite.
 
-3. Pe partea stângă a plăcii de abonament este informaţii despre licenţele:
-
-  - Numărul **achiziţionat** este numărul de licenţe sunt plătiţi pentru.
-
-  - **Atribuite** număr este numărul de licenţe atribuite unui utilizator.
-
-4. Dacă doriţi să adăugaţi mai multe licenţe, sau dacă aveţi prea multe, selectaţi **Adăugare/eliminare licenţe** să ajustaţi suma.
+Dacă doriţi să adăugaţi mai multe licenţe, sau dacă aveţi prea multe, selectaţi **Adăugare/eliminare licenţe** să ajustaţi suma.

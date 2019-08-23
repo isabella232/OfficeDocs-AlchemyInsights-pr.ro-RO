@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356609"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553444"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Amintesc sau să înlocuiască un mesaj de e-mail
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Amintesc sau să înlocuiască un mesaj de poştă electronică în Office 365
 
 - Puteţi **doar amintesc mesajele care sunt trimise la oameni în cadrul organizaţiei**. Dacă mesajul a fost trimis la o adresă de Gmail, de exemplu, tu nu pot aminti ea.
 - Puteţi **doar amintesc mesajele trimise din Outlook 2016 pentru PC**. Dacă un utilizator trimite un mesaj cu ajutorul Outlook pentru Mac sau Outlook de pe web, tu nu-l amintesc.
 - Dacă sunteţi un admin, puteţi **amintesc mesaje în numele utilizatorilor folosind PowerShell**. Nu pot aminti mesaje de la centrul de administrare. Defilaţi în jos la "Caută şi şterge mesajele de e-mail în organizaţia" pentru mai multe informaţii.
 
-***Amintesc sau să înlocuiască un mesaj de e-mail pe care aţi trimis***
+**Amintesc sau să înlocuiască un mesaj de e-mail pe care aţi trimis**
 
 1. În panoul de foldere pe partea stângă a ferestrei Outlook, selectaţi folderul Elemente trimise.
 2. Deschideţi mesajul pe care doriţi să-mi amintesc. Trebuie să faceţi dublu clic pentru a deschide mesajul. Selectarea mesajului, astfel încât aceasta apare în panoul de citire vă va permite să amintesc mesajul.
