@@ -11,19 +11,19 @@ ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 51d4baba2a24e801c77d3ff7346285f2fcf2e548
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 73545096f9f6c819162c82ff5c4d0e339fa4c6bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355601"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550563"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="ed89d-102">Incident de service în curs</span><span class="sxs-lookup"><span data-stu-id="ed89d-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="e516e-102">Incident de service în curs</span><span class="sxs-lookup"><span data-stu-id="e516e-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="ed89d-103">Te-ar putea fi afectate de un incident de service sau consultativ care este în prezent anchetat.</span><span class="sxs-lookup"><span data-stu-id="ed89d-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="ed89d-104">Puteţi verifica starea de ultima de a merge la pagina de [Servicii de sănătate](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="ed89d-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="e516e-103">Te-ar putea fi afectate de un incident de service sau consultativ care este în prezent anchetat.</span><span class="sxs-lookup"><span data-stu-id="e516e-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="e516e-104">Puteţi verifica starea de ultima de a merge la pagina de [Servicii de sănătate](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="e516e-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="ed89d-105">Pentru confortul dvs., puteţi găsi un rezumat al acestui incident mai jos:</span><span class="sxs-lookup"><span data-stu-id="ed89d-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="e516e-105">Pentru confortul dvs., puteţi găsi un rezumat al acestui incident mai jos:</span><span class="sxs-lookup"><span data-stu-id="e516e-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="ed89d-106">**Incident numărul:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ed89d-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="e516e-106">**Incident numărul:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="e516e-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="ed89d-107">Impactul Descriere: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="ed89d-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="e516e-107">Impactul Descriere: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="e516e-107">Impact description: {ImpactDescription}</span></span>
