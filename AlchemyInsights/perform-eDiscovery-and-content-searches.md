@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444784"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555245"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cum pentru a efectua căutări conţinut şi căutări eDiscovery
 
@@ -32,6 +32,6 @@ Utilizaţi instrumentul de căutare conţinutul în & de securitate conformitate
 4. Introduceţi condiţiile necesare căutare inclusiv cuvinte cheie şi conţinutul de locaţii.  
 5. Faceţi clic pe **salva o familie &** nume căutare, porniţi-l şi apoi Previzualizaţi rezultatele.
 
-Pentru instrucţiuni detaliate despre conţinut căutări, exportul rezultatelor şi crearea eDiscovery cazuri să deţină date, vedea [Conţinut de căutare](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) şi [eDiscovery cazuri](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Pentru instrucţiuni detaliate despre conţinut căutări, exportul rezultatelor şi crearea eDiscovery cazuri să deţină date, vedea [Conţinut de căutare](https://docs.microsoft.com/office365/securitycompliance/content-search) şi [eDiscovery cazuri](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Înţeleg mai multe despre căutare conţinutul prin revizuirea [cerințelor și limitele](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) şi [investigarea indexate parţial elemente](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) şi alte rezultate să fie conştienţi de.
+Înţeleg mai multe despre căutare conţinutul prin revizuirea [cerințelor și limitele](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) şi [investigarea indexate parţial elemente](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) şi alte rezultate să fie conştienţi de.

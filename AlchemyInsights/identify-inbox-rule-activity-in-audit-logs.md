@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383037"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539185"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifica activitatea de regulă inbox în jurnalele de auditare
 
-Utilizaţi căutare de jurnal audit în & de securitate conformitatea Center pentru a vizualiza evenimente de regulă inbox (crearea, modificarea şi ştergerea regulilor inbox).
+Utilizaţi căutare de jurnal audit în Office 365 securitate & centru de conformitate pentru a vizualiza evenimente de regulă inbox (crearea, modificarea şi ştergerea regulilor inbox).
 
-1. Conectaţi-vă la [Centrul de conformitatea Office 365 securitate &](https://protection.office.com/)
+1. Conectaţi-vă la [Centrul de conformitatea Office 365 securitate &](https://protection.office.com/).
 
-2. Faceţi clic pe **Căutare şi ancheta** şi selectaţi **Căutare de jurnalul de Audit**.
+2. Du-te la **Căutare** > pagina de**Căutare de jurnalul de Audit** .
 
 3. Selectaţi intervalul de date în câmpurile **data de început** şi **data de sfârşit** .
 
