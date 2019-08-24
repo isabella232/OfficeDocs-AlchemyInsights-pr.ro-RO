@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520967"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576104"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="75431-102">Anularea abonament Office 365?</span><span class="sxs-lookup"><span data-stu-id="75431-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="b8d01-102">Anularea abonament Office 365?</span><span class="sxs-lookup"><span data-stu-id="b8d01-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="75431-103">Ne pare rău pentru a vedea tu du-te!</span><span class="sxs-lookup"><span data-stu-id="75431-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="b8d01-103">Ne pare rău pentru a vedea tu du-te!</span><span class="sxs-lookup"><span data-stu-id="b8d01-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="75431-104">Pe baza datelor organizaţiei, credem că toate abonamentele curent au mai mult de 25 de licenţe atribuite.</span><span class="sxs-lookup"><span data-stu-id="75431-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="75431-105">Aveţi posibilitatea să eliminaţi utilizatori până când au mai puţin de 25, apoi du-te la **Facturare** \> [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, şi apoi selectaţi **mai multe acţiuni** \> **anula abonamentul**.</span><span class="sxs-lookup"><span data-stu-id="75431-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, and then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="b8d01-104">Pe baza datelor organizaţiei, credem că toate abonamentele curent au mai mult de 25 de licenţe atribuite.</span><span class="sxs-lookup"><span data-stu-id="b8d01-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="b8d01-105">Aveţi posibilitatea să eliminaţi utilizatori până când au mai puţin de 25, apoi du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="b8d01-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="b8d01-106">În secţiunea **Setări & acţiuni** , alegeţi **anula abonamentul**.</span><span class="sxs-lookup"><span data-stu-id="b8d01-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="75431-106">Alternativ, utilizaţi opţiunea "să ne te sun" să vorbesc cu un inginer de suport.</span><span class="sxs-lookup"><span data-stu-id="75431-106">Alternatively, use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="b8d01-107">Alternativ, selectaţi **nevoie de ajutor** pentru a vorbi cu un inginer de suport.</span><span class="sxs-lookup"><span data-stu-id="b8d01-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
   
-<span data-ttu-id="75431-107">Pentru a afla mai multe despre anularea unui abonament sau pentru instrucţiuni pas cu pas, consultaţi acest articol: [anula abonamentul](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="75431-107">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+<span data-ttu-id="b8d01-108">Sunt folosind centrul vechi admin?</span><span class="sxs-lookup"><span data-stu-id="b8d01-108">Are you using the old admin center?</span></span> <span data-ttu-id="b8d01-109">Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [anula abonamentul](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="b8d01-109">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
