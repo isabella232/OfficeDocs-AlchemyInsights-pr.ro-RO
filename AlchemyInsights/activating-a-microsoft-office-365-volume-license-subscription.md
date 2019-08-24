@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385877"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574482"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Activează un abonament de licenţă de volum Microsoft Office 365
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385877"
 
 5. Conectaţi-vă la Office 365 ([https://portal.office.com](https://portal.office.com)) utilizând acreditările de administrator Office 365 existente. După ce vă conectaţi cu succes, veţi primi un alt e-mail ce confirma achiziţia.
 
-6. După ce aţi semnat, puteţi merge la **Facturare** \> pagina de [abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054) pentru a verifica că abonamentele achiziţionate Office 365 sunt activate în cadrul chiriaşul dumneavoastră. (De asemenea, alegeţi fila **abonament** în VLSC să Vezi detalii verificarea că abonamentul a fost depus.)
+6. După ce aţi semnat, puteţi merge la **Facturare** \> pagina de [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) pentru a verifica că abonamentele achiziţionate Office 365 sunt activate în cadrul chiriaşul dumneavoastră. (De asemenea, alegeţi fila **abonament** în VLSC să Vezi detalii verificarea că abonamentul a fost depus.)

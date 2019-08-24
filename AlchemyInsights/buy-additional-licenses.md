@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518051"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575960"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Cumpara licente suplimentare în Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518051"
 
     > [!NOTE]
     > Dacă plătiţi pentru abonamentul de card de credit sau cont bancar, orice noi licente pe care le cumpăraţi sunt disponibile imediat după ce veţi primi o confirmare de comanda. Dacă plătiţi de factură, s-ar putea trebuie să aşteptaţi pentru o verificare de credit înainte de noi licenţele sunt disponibile pentru utilizare.
-  
+
+Sunt folosind centrul vechi admin? Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [cumpere licenţe pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Resurse suplimentare**
 
 - [Atribuiţi licenţe pentru utilizatori în Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Pentru informaţii suplimentare, consultaţi [cumpere licenţe pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522443"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574954"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Cum să adăugaţi sau să reducă licenţe
 
@@ -39,7 +39,7 @@ Iată cum să eliminaţi sau să achiziţionaţi mai multe licente de Office 365
 > [!NOTE]
 > Orice nou taxa (permis creşterea) sau credit (licenţă scadere) vor apărea pe factura viitoare.
 
-Pentru informaţii suplimentare, consultaţi [cumpere licenţe pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Sunt folosind centrul vechi admin? Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [cumpere licenţe pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Resurse suplimentare**
   
