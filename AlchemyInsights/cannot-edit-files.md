@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519696"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631639"
 ---
-# <a name="cant-edit-files"></a>Nu puteţi edita fişiere?
+# <a name="cant-edit-files"></a>Nu puteţi edita fişiere? 
 
 În cazul în care un document, foaie de lucru sau prezentarea este blocat pentru editare şi nu se poate deschide în aplicaţii de desktop Windows, este că fişierul este deja în curs de editare de altcineva, sau au fişierul verificat. Haideţi să aruncăm o privire la unele dintre motivele [de ce nu ar putea fi capabil de a edita fişierul](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
