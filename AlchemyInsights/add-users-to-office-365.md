@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903085"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660696"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="ee444-102">Adăugarea unui utilizator la Office 365</span><span class="sxs-lookup"><span data-stu-id="ee444-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="fdf7f-102">Adăugarea unui utilizator la Office 365</span><span class="sxs-lookup"><span data-stu-id="fdf7f-102">Add a user to Office 365</span></span>
 
-<span data-ttu-id="ee444-103">Utilizați acești pași pentru a adăuga un utilizator la Office 365:</span><span class="sxs-lookup"><span data-stu-id="ee444-103">Use these steps to add a user to Office 365:</span></span>
-  
-1. <span data-ttu-id="ee444-104">Accesați [Utilizatori activi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (sau, în navigarea din stânga, alegeți **Utilizatori** \> **Utilizatori activi**).</span><span class="sxs-lookup"><span data-stu-id="ee444-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
+1. <span data-ttu-id="fdf7f-103">În Centrul de administrare Microsoft 365, accesați **Utilizatori** >  [Utilizatori activi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="fdf7f-103">In the Microsoft 365 admin center, go to **Users** >  [Active users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
 
-2. <span data-ttu-id="ee444-105">Faceți clic pe **Adăugați un utilizator**.</span><span class="sxs-lookup"><span data-stu-id="ee444-105">Click **Add a user**.</span></span>
+2. <span data-ttu-id="fdf7f-104">Faceți clic pe **Adăugați un utilizator**.</span><span class="sxs-lookup"><span data-stu-id="fdf7f-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="ee444-106">Completați informațiile despre utilizator.</span><span class="sxs-lookup"><span data-stu-id="ee444-106">Fill in the information for the user.</span></span> <span data-ttu-id="ee444-107">Alegeți **Adăugare** când ați terminat.</span><span class="sxs-lookup"><span data-stu-id="ee444-107">Choose **Add** when you are done.</span></span>
+3. <span data-ttu-id="fdf7f-105">Completați informațiile despre utilizator.</span><span class="sxs-lookup"><span data-stu-id="fdf7f-105">Fill in the information for the user.</span></span> <span data-ttu-id="fdf7f-106">Alegeți **Terminare adăugare** când ați terminat.</span><span class="sxs-lookup"><span data-stu-id="fdf7f-106">Choose **Add** when you are done.</span></span>
 
-[<span data-ttu-id="ee444-108">Citiți mai multe...</span><span class="sxs-lookup"><span data-stu-id="ee444-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+<span data-ttu-id="fdf7f-107">Folosiți vechiul centru de administrare?</span><span class="sxs-lookup"><span data-stu-id="fdf7f-107">Are you using the old admin center?</span></span> <span data-ttu-id="fdf7f-108">Pentru pașii vechi sau pentru a afla mai multe, consultați [ Adăugarea utilizatorilor individual sau în bloc în Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec). </span><span class="sxs-lookup"><span data-stu-id="fdf7f-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span></span>
   
