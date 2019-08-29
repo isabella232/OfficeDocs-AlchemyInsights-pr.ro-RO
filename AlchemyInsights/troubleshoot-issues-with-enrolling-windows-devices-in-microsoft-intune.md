@@ -1,9 +1,8 @@
 ---
-title: Depanarea problemelor cu inscrierea dispozitivele Windows în Microsoft Intune
+title: Depanarea problemelor cu înscrierea dispozitivelor Windows în Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +11,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: be66135b80f32f78266ef2b6a7b3f5b30e24d5fc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559673"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665844"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Depanarea problemelor cu inscrierea dispozitivele Windows în Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Depanarea problemelor cu înscrierea dispozitivelor Windows în Microsoft Intune
 
-Consultaţi resurse enumerate mai jos pentru a rezolva problema acum.
+Revizuiți resursele listate mai jos pentru a rezolva problema acum.
   
-Unele mesaje de eroare comune şi rezoluţie paşi:
+Unele mesaje de eroare obișnuite și pașii de rezolvare:
   
- **Software-ul nu poate fi instalat, 0x80cf4017:** Certificatul dumneavoastră de cont a expirat. Re-Descarca pachetul de programe PC Client în consola de administrare Intune. Revizui această documentaţie pentru mai multe informaţii.
+ **Software-ul nu poate fi instalat, 0x80cf4017:** Certificatul de cont a expirat. Redescărcați pachetul software PC client în consola de administrare Intune. Examinați această documentație pentru mai multe informații.
   
- **Cod de eroare 0x801c0003:** Eroarea poate apărea în următoarele situaţii:
+ **Cod de eroare 0x801c0003:** Eroarea poate apărea în următoarele scenarii:
   
-1. Utilizatorul are mai multe dispozitive înscris decât limita de dispozitiv. Examina aceste documente pentru a [elimina un dispozitiv](https://docs.microsoft.com/intune/devices-wipe) sau [schimba limita de dispozitiv](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Utilizatorul are mai multe dispozitive înscrise decât limita de dispozitiv. Revizuiți aceste documente pentru a [elimina un dispozitiv](https://docs.microsoft.com/intune/devices-wipe) sau pentru a [modifica limita dispozitivului](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
-2. "Utilizatorii pot adera dispozitive azuriu AD" este setat la "niciunul". Setaţi-l la toate sau selectaţi utilizatorii. Revizui [această documentaţie](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) pentru mai multe informaţii.
+-  "Utilizatorii pot asocia dispozitive la Azure AD" este setată la "none." Setați-l la toate sau selectați utilizatori. Examinați [această documentație](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) pentru mai multe informații.
 
-3. Aparatul este înscris de un alt utilizator. Dacă este cazul, eliminaţi dispozitivul din consola de Azure Intune sau unenroll manual aparatul înainte de a încerca din nou.
+-  Dispozitivul este deja înscris de un alt utilizator. Dacă acesta este cazul, eliminați dispozitivul din consola Azure Intune sau deînregistrați manual dispozitivul înainte de a încerca din nou.
 
-4. Aparatul este Windows 10 Home. Numai Windows 10 Pro, educaţie şi Enterprise SKU se poate alătura Azure Active Directory.
+-  Dispozitivul este Windows 10 Home. Numai Windows 10 Pro, Education și Enterprise SKUs se pot alătura Azure Active Directory.
 
-Resurse suplimentare pentru a rezolva problema:
+Resurse suplimentare pentru a vă rezolva problema:
   
-1. Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii.
+-  Utilizați [Intune depanare portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica și rezolva eșecuri de înscriere comune. Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii.
 
-2. Revizuirea acestor documente pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare: [Ghid de depanare](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) şi [Depanare doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Revizuiți aceste documente pentru o listă de erori obișnuite care împiedică înscrierea și rezoluțiile la fiecare: [Ghid de depanare](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) și [Depanare Doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[Aflaţi cum să înscrie dispozitive Windows Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Aflați să înregistrați dispozitive Windows în Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

@@ -3,7 +3,6 @@ title: Enable şi căutaţi Jurnalul de Audit
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527735"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665088"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Permite şi căutaţi în Jurnalul de Audit
+
+**Office 365**
 
 Pentru a căuta în Jurnalul de audit Office 365, urmaţi [aceşti paşi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Pentru a căuta în Jurnalul de audit Office 365, urmaţi [aceşti paşi](https:
 
 - Activităţi de admin Exchange sunt auditate în mod implicit.
 
-- Suntem în procesul care să permită cutia poştală de audit în mod implicit în Office 365. Până atunci, pentru a permite audit pentru o singură cutie poştală sau pentru toate cutiile poştale din organizaţie, consultaţi [acest articol](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Cutia poştală de audit este activată în mod implicit în Office 365. Pentru informaţii suplimentare, consultaţi [acest articol](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Poştale de grup Office 365 şi cutiile poştale din foldere publice în Exchange Online nu acceptă înregistrarea de audit în jurnal.
 

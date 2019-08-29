@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549087"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665952"
 ---
 # <a name="too-many-licenses"></a>Prea multe licente?
 
@@ -32,4 +32,4 @@ Dacă credeţi că sunteţi taxat pentru prea multe licente de Office 365, acest
 
 3. În caseta de **licenţele Total** , introduceţi numărul total de licenţe de care ai nevoie pentru acest abonament, şi selectaţi **Submit schimba**. De exemplu, dacă aveţi 110 licenţe şi eliminaţi 5 dintre ele, intre 105.
 
-Pentru informaţii suplimentare, consultaţi [elimina licenţe la dumneavoastră Office 365 pentru afaceri abonament](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Pentru a afla mai multe, consultaţi [elimina licenţe la dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

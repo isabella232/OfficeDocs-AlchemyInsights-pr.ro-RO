@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501377"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666024"
 ---
 # <a name="subscription-recurring-billing"></a>Abonament recurente de facturare
 
@@ -30,4 +30,4 @@ Dacă vrei să ştii când tău lunar sau anual abonament Office 365 va fi factu
 
 4. Pentru a face o schimbare, selectați **Editare** și apoi, în panoul de setări **recurent de facturare** , selectaţi **Dezactivaţi** să nap it off. Dacă deja este oprit recurente de facturare, selectaţi **lunar** sau **o dată** să îl porniţi.
 
-Pentru informaţii suplimentare, consultaţi [Turn recurente facturare sau](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Pentru a afla mai multe, consultaţi [Turn recurente facturare sau pe off](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

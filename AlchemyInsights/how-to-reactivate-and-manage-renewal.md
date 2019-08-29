@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574554"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663972"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cum de a reactiva şi de a gestiona recurente de facturare
 
@@ -32,7 +32,7 @@ Se pare ca tu ai un abonament care a expirat. Dacă doriţi să reactivaţi-o, a
 
 3. Confirma detaliile de plată. Puteţi actualiza informaţiile de plată existente aici. Când aţi terminat introducerea metoda de plată, selectați **reactiva**.
 
-Sunt folosind centrul vechi admin? Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [reactiva abonamentul](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Pentru a afla mai multe, consultaţi [reactiva abonamentul](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Pentru a gestiona lunar sau anual de facturare vă puteţi comuta **recurent facturare** on sau off.
   
@@ -46,4 +46,4 @@ Pentru a gestiona lunar sau anual de facturare vă puteţi comuta **recurent fac
 
 5. Selectaţi **Submit schimba**.
 
-Sunt folosind centrul vechi admin? Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [Turn recurente facturare sau](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pentru a afla mai multe, consultaţi [Turn recurente facturare sau pe off](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

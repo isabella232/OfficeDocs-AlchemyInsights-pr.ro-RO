@@ -1,8 +1,7 @@
 ---
-title: Configurarea de proiect
+title: Configurarea proiectului
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Ţintă nu mai mult de 500 de cuvinte pentru un articol.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Țintă nu mai mult de 500 de cuvinte pentru un articol.
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508867"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666204"
 ---
-# <a name="setting-up-project"></a>Configurarea de proiect
+# <a name="setting-up-project"></a>Configurarea proiectului
 
-Se pare ca ai nevoie de ajutor crearea proiectului cu abonament Office 365.
-Notă pentru utilizatorii de Mac: proiectul produsul nu este disponibil pentru MacOS în acest moment. Dacă aveţi un PC, ar trebui să instalaţi software-ul folosind paşii de mai jos.
+ Pentru a configura Microsoft Project, urmați pașii din [acest articol](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+
+**Notificare pentru utilizatorii de Mac:** Produsul Project nu este disponibil pentru MacOS în acest moment. 
   
-Puteţi să urmaţi paşii din [acest articol](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)pentru a obţine setup-ul finalizat.
-  
-În cazul în care se execută în erorile în timpul instalării, [proiect de instala folosind suport si asistent de recuperare](https://aka.ms/SaRA-ProjectSetupScenario)
+Dacă executați în erori în timpul instalării, [instalați Project utilizând asistentul de asistență și recuperare](https://aka.ms/SaRA-ProjectSetupScenario).

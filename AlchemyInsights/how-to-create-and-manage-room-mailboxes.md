@@ -1,9 +1,8 @@
 ---
-title: 614 cum să creați și să gestionați cutii poştale de camere
+title: 614 de a crea și gestiona cutiile poștale de cameră
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 8717573bde50cf64ffc8174b116674dec217dc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b5c7f7e349f7124002ad15d3986b12458153ff3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541210"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664178"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Cum de a crea şi gestiona cutii poştale de camere
+# <a name="how-to-create-and-manage-room-mailboxes"></a>de a crea și gestiona cutiile poștale de cameră
 
-Pentru a crea şi modifica cutii poştale de camere, a se vedea [creaţi şi gestionaţi cutii poştale de camere](https://technet.microsoft.com/library/jj215781.aspx).
+Pentru a crea și a modifica cutiile poștale de cameră, consultați [crearea și gestionarea cutiilor poștale de cameră](https://technet.microsoft.com/library/jj215781.aspx).
 
-Pentru a afla mai multe despre cameră şi echipamente poştale (cunoscut și ca cutiile poştale de resurse), consultaţi [cutiile poştale de cameră şi de echipamente](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).
+Pentru a afla mai multe despre cutiile poștale de camere și echipamente (denumite și cutii poștale de resurse), consultați [cutiile poștale pentru camere și echipamente](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).
