@@ -3,7 +3,6 @@ title: Extinde dumneavoastră Trial pentru Office 365 pentru afaceri
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575647"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665016"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Extinde dumneavoastră Trial pentru Office 365 pentru afaceri
+# <a name="extend-your-trial-for-office-365-for-business"></a>Extinde dumneavoastră trial pentru Office 365 pentru afaceri
 
 În cazul în care dumneavoastră abonament este în termen de 15 zile de la care expiră şi procesul nu a fost prelungit înainte, poate extinde proces dumneavoastră pentru o nouă perioadă de 30 de zile. Puteţi face doar acest o singură dată.
   
@@ -32,4 +31,4 @@ ms.locfileid: "36575647"
 
 4. Trebuie să furnizeze informaţiile cărţii de credit pentru a prelungi proces dumneavoastră. Noi nu va încasa cardul de credit pentru extinderea proces.
 
-Sunt folosind centrul vechi admin? Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [Extend vă trial pentru Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Pentru a afla mai multe, consultaţi [Extend vă trial pentru Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
