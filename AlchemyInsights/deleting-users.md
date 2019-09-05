@@ -1,9 +1,8 @@
 ---
-title: Ştergerea utilizatorilor
+title: Ștergerea utilizatorilor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: 96559948c0c7c127f3ccf6e00be4485ffe3df883
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513071"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740513"
 ---
-# <a name="deleting-users"></a>Ştergerea utilizatorilor
+# <a name="deleting-users"></a>Ștergerea utilizatorilor
 
-Dacă doriţi să blocaţi imediat accesul utilizatorilor şi necesitatea de a menţine informaţiile lor, vă rugăm să consultaţi [au un angajat care părăsesc şi să blocheze accesul la date un e-mail?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)
+Dacă doriți să blocați imediat accesul utilizatorilor și trebuie să păstrați informațiile, vă rugăm să consultați [blocarea accesului unui fost angajat la datele Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).
   
-În cazul în care pur şi simplu doriţi să ştergeţi utilizatorul şi nu sunt în cauză cu oricare dintre datele lor, consultaţi [Ştergerea unui utilizator de la organizaţie](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e). Acest lucru va elibera imediat licenţa lor.
+Dacă pur și simplu doriți să ștergeți utilizatorul și nu sunteți preocupat de niciuna dintre datele lor, consultați [ștergerea unui utilizator din organizația dvs](https://docs.microsoft.com/office365/admin/add-users/delete-a-user). Acest lucru va elibera imediat permisul lor.
   

@@ -1,6 +1,6 @@
 ---
-title: Restricţiona accesul în SharePoint sau OneDrive
-ms.author: kirks
+title: Restricționați accesul în SharePoint sau OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559889"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750676"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restricţiona accesul în SharePoint sau OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restricționați accesul în SharePoint sau OneDrive
 
-Există multe modalităţi de a restricţiona accesul la servicii de SharePoint Online/OneDrive. Aceste diferite metode de restricţii de acces sunt prezentate mai jos. 
+Există multe modalități de a restricționa accesul la serviciile SharePoint Online/OneDrive. Aceste diferite metode de restricționare a accesului sunt prezentate mai jos. 
 
-**Permisiunea de restricţie**
+**Restricție permisiune**
 
-În SharePoint Online şi OneDrive pentru afaceri, vom restricţiona accesul la elemente cum ar fi site-uri, fişiere şi foldere numai acorda acces la aceste grupuri/persoanele care ar trebui să aibă acces.
+În SharePoint Online și OneDrive for Business, restricționăm accesul la elemente ar fi site-uri, fișiere și foldere prin acordarea accesului numai la acele grupuri/persoane care ar trebui să aibă acces.
 
-- [Personaliza permisiuni pentru o listă SharePoint sau biblioteca](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Particularizarea permisiunilor pentru o listă sau o bibliotecă SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Personaliza permisiunile de site-ul SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Particularizarea permisiunilor de site SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Schimba permisiunile de pe un subfolder](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Modificarea permisiunilor unui subfolder](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Control acces la dispozitive negestionată](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Controlul accesului de la dispozitive negestionate](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Ca SharePoint sau administrator global în Office 365, puteţi bloca sau limita accesul la conținut SharePoint și OneDrive de la negestionată dispozitive (acele nu hibrid AD s-au alăturat sau compatibil în Intune).
+Ca un SharePoint sau Global admin în Office 365, aveți posibilitatea să blocați sau să limitați accesul la conținut SharePoint și OneDrive de pe dispozitive negestionate (cei care nu hibrid AD alăturat sau conforme în Intune).
 
-**Restricţie de locaţie reţea**
+**Restricție Locație rețea**
 
-Ca un IT admin, puteţi controla accesul la resursele SharePoint și OneDrive bazat pe locațiile de rețea definită care aveţi încredere. Acest lucru este, de asemenea, cunoscut sub numele politicii bazate pe locaţie. Pentru mai multe informaţii, consultaţi [controlul accesului la SharePoint Online si OneDrive date bazate pe locaţie de reţea](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Ca administrator IT, puteți controla accesul la resursele SharePoint și OneDrive pe baza unor locații de rețea definite în care aveți încredere. Acest lucru este cunoscut și ca politică bazată pe locație. Pentru mai multe informații, consultați [controlul accesului la datele SharePoint Online și OneDrive bazate pe locația de rețea](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Restricţie de blocare site-ul** 
+**Restricționare blocare site** 
 
-În SharePoint Online, aveţi posibilitatea de a bloca în jos o colecţie de site-ul, astfel incat nimeni nu are acces. Acest câmp este setat prin intermediul PowerShell şi [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) utilizând proprietatea - LockState [Set-petre](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) .
+În SharePoint Online aveți posibilitatea de a bloca o colecție de site-uri, astfel încât nimeni nu are acces. Acest lucru este setat prin PowerShell și [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) utilizând proprietatea [set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
 
-**Limita de utilizatori la crearea de site-uri sau subsite-uri**
+**Restricționarea utilizatorilor de crearea de site-uri sau subsite-uri**
 
-Ca SharePoint admin sau administrator global Office 365, puteti lasa utilizatorii crea şi administra propriile site-uri SharePoint, determina ce fel de site-uri pe care le poate crea, şi specificaţi locaţia de site-uri. Pentru mai multe informaţii, vă rugăm să consultaţi [Administreaza crearea de site-ul SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Ca administrator SharePoint sau Office 365 global admin, puteți lăsa utilizatorii să creeze și să administreze propriile site-uri SharePoint, să determine ce fel de site-uri pot crea și să precizeze locația site-urilor. Pentru mai multe informații, consultați [gestionarea creării site-ului în SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

@@ -13,21 +13,21 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525272"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739901"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Remedierea problemelor de sincronizare OneDrive
 
-- Verificaţi că puteţi accesa ţi OneDrive cont online: faceţi clic pe pictograma lansator app în stânga sus, şi apoi faceţi clic pe OneDrive.
+- Verificați dacă aveți posibilitatea să accesați online contul OneDrive: faceți clic pe pictograma lansator de aplicații în partea din stânga sus, apoi faceți clic pe OneDrive.
     
-- Asiguraţi-vă că computerul este până la data de: [Descărcaţi cele mai recente actualizări de Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Descărcaţi cea mai recentă versiune de OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- Asigurați-vă că computerul este actualizat: [Descărcați cele mai recente actualizări Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Descărcați cea mai recentă versiune de OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- Deconectarea OneDrive și executați din nou instalarea OneDrive: faceţi clic dreapta pe pictograma albastră de cloud OneDrive în zona de notificare, de la extrema dreaptă a barei de activităţi. Faceţi clic pe **Setări**, şi apoi faceţi clic pe **Anulare legătură acest PC**. Urmaţi paşii din bun venit la Expertul OneDrive pentru a parametriza OneDrive din nou.
+- Deconectați OneDrive și executați din nou programul de instalare OneDrive: faceți clic dreapta pe pictograma albastru OneDrive Cloud din zona de notificare, în extremitatea dreaptă a barei de activități. Faceți clic pe **Setări**, apoi faceți clic pe **DEZLEGARE acest PC**. Urmați pașii din Expertul Welcome to OneDrive pentru a configura OneDrive din nou.
     
-[Paşi mai mult pentru probleme de sincronizare de depanare](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[Mai mulți pași pentru depanarea problemelor de sincronizare](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 
