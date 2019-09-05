@@ -1,5 +1,5 @@
 ---
-title: A crea şi de a folosi o cutie poştală partajată
+title: Crearea și utilizarea unei cutii poștale partajate
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515963"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736517"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>A crea şi de a folosi o cutie poştală partajată
+# <a name="create-and-use-a-shared-mailbox"></a>Crearea și utilizarea unei cutii poștale partajate
 
-O cutie poştală partajată permite mai multe persoane, trimite şi primi email pentru un alias, cum ar fi **sales@contoso.com**, fără atribuirea de o altă licenţă.
+O cutie poștală partajată permite mai mult de o persoană trimite și primi e-mail pentru un alias, ar fi **Sales@contoso.com**, fără a atribui o altă licență.
   
-[Crearea unei cutii poştale partajate](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) explică cum să: 
+[Creați o cutie poștală partajată](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) explică să: 
   
 - Crearea unei cutii poștale partajate
     
-- Da utilizatorilor permisiunea de a utiliza o cutie poştală partajată
+- Oferiți utilizatorilor permisiuni de utilizare a unei cutii poștale partajate
     
-- Acces la cutia poştală partajată din Outlook sau în Outlook pe web
+- Accesați cutia poștală partajată din Outlook sau din Outlook pe web
     
 

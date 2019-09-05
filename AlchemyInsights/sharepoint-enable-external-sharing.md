@@ -1,5 +1,5 @@
 ---
-title: Activa partajarea externă în SharePoint Online
+title: Activați partajarea externă în SharePoint Online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503899"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744437"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>Activa partajarea externă în SharePoint Online
+# <a name="enable-external-sharing-in-sharepoint-online"></a>Activați partajarea externă în SharePoint Online
 
-Dacă organizaţia efectuează lucrările care implică schimbul de documente sau colaboreaza direct cu furnizorii, clienţii sau clienţii, apoi puteţi folosi [extern sharing features de SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) pentru a partaja conţinut cu oameni din afara ta Organizaţia.
+Dacă organizația efectuează lucrări care implică partajarea documentelor sau colaborarea directă cu furnizorii, clienții sau clienții, atunci puteți utiliza [caracteristicile de partajare externă ale SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) pentru a partaja conținut cu persoane din afara Organizaţie.
 
-Pentru mai multe informaţii despre partajarea externă (persoane) vizitati linkurile de mai jos.
+Pentru mai multe informații despre partajarea externă (oaspeți), vă rugăm să vizitați linkurile de mai jos.
 
 - [Ce este un utilizator extern?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Ce se întâmplă când împărtăşesc un site sau un document?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Ce se întâmplă când partajez un site sau un document?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Transforma externe sharing on sau off pentru SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Activați sau dezactivați partajarea externă pentru SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Transforma partajarea on sau off pentru un site extern](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Activați sau dezactivați partajarea externă pentru un site](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Gestionarea accesului la comentarii în Office 365 grupuri](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Gestionați accesul invitat în grupuri Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [Utilizaţi Sharepoint Online ca o soluţie de extranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Utilizați SharePoint Online ca soluție extranet business-to-Business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Share SharePoint dosar sau pliant](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Partajarea fișierelor sau folderului SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Oprire partajare OneDrive sau SharePoint fişiere sau foldere, sau schimba permisiunile](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Opriți partajarea fișierelor sau folderelor OneDrive sau SharePoint sau modificarea permisiunilor](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Sterge un utilizator extern](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Ștergerea unui utilizator extern](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Primesc o eroare cu un utilizator extern (oaspete)?**
+**Primirea unei erori cu un utilizator extern (oaspete)?**
 
-Verifica link-urile de mai jos. 
+Verificați linkurile de mai jos. 
 
-- [OSE de partajare erori în Sharepoint sau OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE partajarea erorilor în SharePoint sau OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Mesaj de eroare atunci când un utilizator extern acceptă o invitaţie SharePoint Online utilizând un alt cont](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Mesaj de eroare atunci când un utilizator extern acceptă o invitație SharePoint Online utilizând un alt cont](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Acces interzis la un folder partajat](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Acces refuzat la un folder partajat](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

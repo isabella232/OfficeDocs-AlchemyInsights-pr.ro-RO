@@ -1,5 +1,5 @@
 ---
-title: 1800014 set up e-mail în Outlook mobile app
+title: 1800014 configurați e-mailul în aplicația mobilă Outlook
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509193"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734177"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurarea e-mail în Outlook mobile app
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurați e-mailul în aplicația mobilă Outlook
 
-1. Selectaţi **A începe** în cazul în care este setarea primul timp sus e-mail din aplicaţia de mobil. În caz contrar, apăsaţi **Menu** şi apoi atingeţi **Setări** \> **Adăugare cont** \> **Adăuga contul de E-mail**.
+1. Selectați Începeți dacă este prima **dată când configurați** e-mailul în aplicația mobilă. În caz contrar, atingeți **meniu** și apoi atingeți **Setări** \> **Adăugare** \> cont Adăugare cont de **e-mail**.
 
-2. Introduceţi adresa completă de e-mail şi apăsaţi pe **continuare** sau **Adăugare cont**.
+2. Introdu adresa de e-mail completă și atinge **continuă** sau **adaugă cont**.
 
-3. Introduceţi parola contului de e-mail şi atingeţi **Conectaţi-vă** sau **viitoare**.
+3. Introdu parola contului de e-mail și atinge **conectează-te** sau **urmează**.
 
-4. Dacă este activată [autentificarea multi-factor](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , verifica folosind metoda parametrizaţi (codul de 6 cifre, telefon sau Microsoft Authenticator app).
+4. Dacă este activată [autentificarea multi-factor](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , Verificați utilizând metoda pe care ați configurat-o (cod de 6 cifre, apel telefonic sau aplicație Microsoft Authenticator).
 
-5. În cazul în care suplimentare IT admin politici sunt în vigoare, atingeţi **Activate** pentru a le activa.
+5. Dacă sunt în vigoare politici de administrator IT suplimentare, atingeți ușor **Activare** pentru a le activa.
 
-6. Outlook poate solicita permisiunea de a accesa calendarul, contactele şi alte informații. Selectaţi **Da** sau de a **permite**.
+6. Outlook poate solicita permisiunea de a accesa calendarul, contactele și alte informații. Selectați **Da** sau **Permiteți**.
 
-Obţine detaliate set up instrucţiuni pentru [Outlook pentru Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) sau [Outlook pentru iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) aici.
+Obțineți instrucțiuni detaliate de instalare pentru [Outlook pentru Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) sau [Outlook pentru iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) aici.
   
- **Nevoie de ajutor?**
+ **Ai nevoie de ajutor?**
   
-- [Depanarea configurare e-mail pe telefonul mobil](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Depanarea configurării de e-mail pe dispozitive mobile](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Obţine ajutor de in-app pentru Outlook pentru iOS şi Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Obțineți ajutor în aplicație pentru Outlook pentru iOS și Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

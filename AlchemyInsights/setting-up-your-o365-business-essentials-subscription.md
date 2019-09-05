@@ -1,5 +1,5 @@
 ---
-title: Configurarea abonamentul Business Essentials este O365
+title: Configurarea abonamentului O365 Business Essentials
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508903"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744725"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurarea abonamentul Business Essentials este O365
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurarea abonamentului O365 Business Essentials
 
-Creaţi conturi Office 365 şi adăugaţi domeniului
+Creați conturi Office 365 și adăugați domeniul dvs.
   
-- În acest pas, utilizaţi Expertul de instalare pentru a crea conturi Office 365 pentru utilizatorii dumneavoastră şi adăuga propriul domeniu. Expertul vă permite să vă personaliza user identitate şi e-mail pentru afacerea dvs., cum ar fi [rob@contoso.com](mailto:rob@contoso.com).
+- În acest pas, utilizați Expertul de instalare pentru a crea Office 365 conturi pentru utilizatorii și adăugați propriul domeniu. Expertul vă permite să personalizați ID-ul de utilizator al tuturor și e-mailul pentru afacerea dvs., ar fi [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Accesaţi [Centrul de administrare Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Accesați centrul de [administrare Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Pentru a porni Expertul, alege **programul de instalare**. Pentru a afla mai multe, consultaţi [adăugaţi utilizatorii şi domeniu la Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Pentru a porni Expertul, alegeți **Mergeți la instalare**. Pentru a afla mai multe, consultați [adăugarea unui domeniu la Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
-E-mail de import
+Import e-mail
   
-- Muta adresa de email existente şi persoane de contact din alte sisteme de e-mail către căsuța poștală de Office 365 astfel încât îl puteţi vedea toate într-un singur loc. Pentru opţiuni de migraţie, [migra de e-mail şi persoane de contact pentru Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Mutați e-mailurile și contactele existente din alte sisteme de e-mail în cutia poștală Office 365, astfel încât să puteți vedea totul într-un singur loc. Pentru opțiunile de migrare, [migrarea e-mailului și a contactelor la Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
-- Conecta conturile de e-mail
+- Conectarea conturilor de e-mail
     
-  - În plus faţă de gestionare a e-mail Office 365 în Outlook, puteţi conecta alte conturi de e-mail pentru Outlook, prea, cum ar fi conturile de Gmail si Yahoo. Acest lucru vă permite să gestionaţi toate e-mailul într-un singur loc. Vă puteţi conecta până la 5 conturi de email în Outlook. Pentru mai multe detalii, consultaţi [conecta conturile de e-mail în Outlook pe web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - În plus față de gestionarea e-mail Office 365 în Outlook, puteți conecta alte conturi de e-mail la Outlook, de asemenea, ar fi conturile Gmail și Yahoo. Acest lucru vă permite să gestionați toate e-mailurile într-un singur loc. Puteți conecta până la 5 conturi de e-mail în Outlook. Consultați [conectarea conturilor de e-mail în Outlook pe web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) pentru mai multe detalii. 
     
 Instalați Skype pentru afaceri
   
-- Tu şi membrii echipei pot [descărca şi instala Skype pentru afaceri](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) pe toate PC-uri, Mac-uri, tablete, și telefoane. Apoi veţi fi capabil pentru a vedea starea online de colegii dumneavoastră, începe chat-uri de la alte aplicaţii Office, şi întâlniri pagina gazdă cu până la 250 de persoane. 
+- Tu și membrii echipei tale puteți [descărca și instala Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) pe toate PC-urile, Mac, tabletele și telefoanele. Apoi, veți putea vedea starea online a colegilor dvs., puteți începe chaturile din alte aplicații Office și vă vom găzdui întâlniri video cu până la 250 de persoane. 
     
-Magazin fisiere online
+Stocarea fișierelor online
   
-- Pentru a afla ce locatii de stocare sunt cele mai bune pentru afacerea ta, a se vedea [în cazul în care puteţi stoca fişierele în Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Toată lumea devine o locaţie de stocare cloud **OneDrive** automat când creaţi conturi Office 365 pentru ei. Cu OneDrive, puteţi accesa fişierele în întreaga ta computere, telefoane și tablete. 
+- Pentru a afla ce locații de stocare sunt cele mai bune pentru afacerea dvs., consultați [unde puteți stoca fișiere în Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Toată lumea primește o locație de stocare în cloud **OneDrive** automat atunci când creați Office 365 conturi pentru ei. Cu OneDrive, aveți posibilitatea să accesați fișiere pe computere, telefoane și tablete. 
     
-Paşii detaliaţi de configurare pot fi găsite în [acest articol](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+Pași detaliați pentru instalare pot fi găsite în [acest articol](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

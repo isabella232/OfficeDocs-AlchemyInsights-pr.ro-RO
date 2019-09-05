@@ -1,6 +1,6 @@
 ---
-title: Rolul admin şi cum pentru a asocia
-ms.author: kirks
+title: Rolul administratorului și modul de atribuire
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544623"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754096"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Se confruntă cu probleme cu un serviciu de nor?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Întâmpinați probleme cu un serviciu cloud?
 
-Dacă aveţi probleme cu un serviciu de nor, puteţi verifica [serviciul sănătăţii](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) în centrul de administrare Microsoft 365 pentru a determina dacă este o problemă cunoscută cu o rezoluţie în curs de desfăşurare înainte de a apela de asistenţă sau petrece timp de depanare. Problema poate fi foarte temporară şi deja identificate de către Microsoft, totuşi, nu poate fi devine caducă în timp între problema identificarea şi înregistrarea la serviciul de sănătate tabloul de bord. Vă rugăm să continuaţi să verificaţi tabloul de serviciu pentru mai multe actualizări.
+Dacă întâmpinați probleme cu un serviciu de cloud, puteți verifica [starea de sănătate a serviciului](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) în centrul de administrare Microsoft 365 pentru a determina dacă este o problemă cunoscută cu o rezolvare în curs înainte de a apela suport sau petrece timpul de depanare. Problema poate fi foarte temporară și deja identificate de către Microsoft, cu toate acestea, pot exista expira în timp între emiterea de identificare și de a posta la service Health tabloul de bord. Vă rugăm să continuați să verificați tabloul de bord de service pentru actualizări suplimentare.
 
 **Politica de notificare**
 
-Atunci când se produce un incident de service, Microsoft recunoaşte că în timp util, orientate, şi precise de comunicaţii sunt critice pentru clienţii. Microsoft anunţă Office 365 administratori prin actualizarea chiriaş specifice [Serviciului sănătate tabloul de bord (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pe portalul Office 365 Admin. Serviciu incident actualizări sunt furnizate pe o cadenţă pe oră sau, în cazul în care este necesară o cadenţă diferite, ea se exprimă în SHD comunicare postarea. Pentru mai multe informaţii, a se vedea [cum să verificaţi Office 365 serviciul sănătăţii](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Când se produce un incident de serviciu, Microsoft recunoaște că comunicările prompte, orientate și exacte sunt critice pentru clienți. Microsoft notifică administratorii Office 365 actualizând serviciul specific de entitate găzduită [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) din Office 365 admin portal. Actualizările incidentelor de serviciu sunt furnizate pe o cadență orară sau, dacă este necesară o altă cadență, aceasta va fi indicată în postarea de comunicații SHD. Pentru mai multe informații, consultați [se verifică Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

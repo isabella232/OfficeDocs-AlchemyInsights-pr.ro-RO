@@ -1,6 +1,6 @@
 ---
-title: Schimbul de anonim
-ms.author: kirks
+title: Partajare anonimă
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512471"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747842"
 ---
-# <a name="anonymous-sharing"></a>Schimbul de anonim
+# <a name="anonymous-sharing"></a>Partajare anonimă
 
- **Permite acces anonim**
+ **Activare acces anonim**
   
-În centrul de administrare SharePoint nouă, faceţi clic pe **Partajare** din panoul din stânga. 
+În noul centru de administrare SharePoint, faceți clic pe **Partajare** în panoul din stânga. 
   
-- Selectaţi următoarele: **permite partajarea autentifică utilizatorii externi şi utilizând acces anonim.**
+- Selectați următoarele: **Permiteți partajarea utilizatorilor externi autentificați și utilizarea accesului anonim.**
   
-(Opţional, puteţi seta link-uri expiră într-un anumit număr de zile, şi selectaţi cum destinatarii pot folosi link-uri.)
+(Opțional, puteți seta linkurile să expire într-un anumit număr de zile și să selectați modul în care destinatarii pot utiliza linkurile.)
     
- **Împărtăşesc un fișier sau folder anonim**
+ **Partajarea anonimă a unui fișier sau a unui folder**
   
-- Selectaţi fişierul sau folderul pe care doriţi să împărtăşiţi, şi apoi faceţi clic pe **Share**. 
+- Selectați fișierul sau folderul pe care doriți să îl partajați, apoi faceți clic pe **Partajare**. 
     
-- Cine ar dori acest link pentru a lucra pentru? faceţi clic pe **oricine.**
+- Pentru cine doriți ca acest link să funcționeze? Faceți clic pe **oricine.**
   
- **Notă**: **cineva** creează o legătură pe care oricine o poate utiliza pentru a accesa acel document sau folder, chiar dacă acestea nu esti logat la Office 365 sau OneDrive. Folosi aceasta pentru a împărtăşi cu cineva, în interiorul sau în exteriorul companiei dumneavoastra. Acest link poate, de asemenea, transmisă în apropiere de oricine. 
+ **Notițe**: **oricine** creează un link pe care oricine îl poate utiliza pentru a accesa documentul sau folderul, chiar dacă nu sunt autentificat la Office 365 sau OneDrive. Utilizați acest lucru pentru a partaja cu oricine, în interiorul sau în afara companiei dumneavoastră. Acest link poate fi, de asemenea, transmise în jurul oricui. 
     
 

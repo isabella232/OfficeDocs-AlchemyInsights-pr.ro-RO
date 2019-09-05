@@ -1,26 +1,25 @@
 ---
-title: Nu pot deschide documente în SharePoint
-ms.author: kirks
+title: Imposibil de deschis documente în SharePoint
+ms.author: pebaum
 author: Techwriter40
-ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ba9cb05aec6718b5aa347be9d0300600a2f7395c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9534aaa07e54d35f6600053e88f2072936c1c461
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533244"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748557"
 ---
-# <a name="unable-to-open-documents-in-sharepoint"></a>Nu pot deschide documente în SharePoint
+# <a name="unable-to-open-documents-in-sharepoint"></a>Imposibil de deschis documente în SharePoint
 
-Dacă aveţi probleme la deschiderea fişierelor Office şi documente din bibliotecile de documente SharePoint sau OneDrive, iată câteva sugestii pentru a vă ajuta să le rezolvaţi:
+Dacă aveți probleme la deschiderea fișierelor Office și a documentelor din bibliotecile de documente SharePoint sau OneDrive, iată câteva sugestii pentru a vă ajuta să le remediați:
 
-- [Verificaţi fişierul limitări pentru a asigura fişierul este susţinută](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
-- [Sterge cache-ul office document](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
-- [O reparaţie a alerga pe birou](https://support.office.com/en-US/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Verificați limitările fișierelor pentru a vă asigura că fișierul este acceptat](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Ștergerea memoriei cache a documentului Office](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Executați o reparare pe Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Pentru mai multe informatii sau detalii vedeți [Fix probleme la deschiderea documente în biblioteci de SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
+Pentru mai multe informații sau detalii, consultați [remedierea problemelor de deschidere a documentelor în bibliotecile SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).

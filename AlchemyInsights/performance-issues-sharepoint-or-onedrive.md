@@ -1,6 +1,6 @@
 ---
-title: Probleme de performanţă-SharePoint sau OneDrive
-ms.author: kirks
+title: Probleme de performanță-SharePoint sau OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666744"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752728"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint sau OneDrive lent, inaccesibile, sau pentru mai mulţi utilizatori
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint sau OneDrive lent, inaccesibil sau indisponibil pentru mai mulți utilizatori
 
-SharePoint sau OneDrive poate fi lent, inaccesibile, sau indisponibil din mai multe motive:
+SharePoint sau OneDrive pot fi lente, inaccesibile sau indisponibile din mai multe motive:
   
-- În cazul în care site-ul SharePoint sau OneDrive este lent sau întârziate pentru mai mulţi utilizatori, poate fi o problemă temporară serviciu unde utilizatorii experienţă intermitentă întârzieri sau erori de navigare atunci când accesează site-uri SharePoint sau OneDrive conţinut. Verifica [serviciul sănătate tabloul de bord](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a vedea dacă organizaţia dumneavoastră este afectat.
+- Dacă site-ul SharePoint sau OneDrive este lent sau întârziat pentru mai mulți utilizatori, poate exista o problemă de serviciu temporar în cazul în care utilizatorii experimenta întârzieri intermitente sau erori de navigare la accesarea site-uri SharePoint sau OneDrive. Verificați [tabloul de bord sănătate Service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a vedea dacă organizația este afectată.
   
-- Dacă vă confruntaţi cu lent de performanţă cu un **clasic** site-ul SharePoint sau filme, utilizaţi [Page Diagnostic Unealtă](https://aka.ms/perftool) pentru a analiza paginile.
+- Dacă întâmpinați performanțe lente cu un site SharePoint **clasic** sau o pagină, utilizați [instrumentul diagnostic pagină](https://aka.ms/perftool) pentru a analiza paginile.
   
-- Dacă întâmpinaţi încă generale de performanţă lentă, vă rugăm să consultaţi resurse în partea de jos a acestui articol: [Introducere în performanţă tuning pentru SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Dacă încă vă confruntați cu performanțe lente generale, vă rugăm să revizuiți resursele din partea de jos a acestui articol: [Introducere în reglarea performanței pentru SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

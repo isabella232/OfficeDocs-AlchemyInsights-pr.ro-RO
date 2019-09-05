@@ -1,6 +1,6 @@
 ---
-title: OneDrive nu este furnizat de acest utilizator
-ms.author: kirks
+title: OneDrive nu este furnizat pentru acest utilizator
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543644"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753376"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive nu este furnizat de acest utilizator
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive nu este furnizat pentru acest utilizator
 
-Pentru conturile nou create, utilizatorii trebuie să faceţi sign in la portalul Office 365 cu cont propriu şi faceţi clic pe OneDrive pentru a porni manual furnizarea de site-ul OneDrive.
+Pentru conturile nou create, utilizatorii trebuie să se autentifică la centrul de administrare Microsoft 365 cu propriul cont și faceți clic pe OneDrive pentru a porni manual furnizarea site-ului OneDrive.
   
-Cu toate acestea, în cazul în care utilizatorul a făcut deja clic OneDrive si site-ul lor personal nu este furnizat în termen de 24 de ore, vă rugăm să vă un bilet de sprijin pentru asistenţă suplimentară.
+Cu toate acestea, dacă utilizatorul a făcut deja clic pe OneDrive și site-ul lor personal nu este furnizat în termen de 24 de ore, vă rugăm să conectați un bilet de suport pentru asistență suplimentară.
   
 

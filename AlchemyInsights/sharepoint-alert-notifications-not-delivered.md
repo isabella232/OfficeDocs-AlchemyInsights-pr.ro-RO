@@ -1,5 +1,5 @@
 ---
-title: Notificări de alertă SharePoint nelivrate
+title: Notificări de alertă SharePoint nu sunt livrate
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504475"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744653"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Notificări de alertă SharePoint nelivrate
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Notificări de alertă SharePoint nu sunt livrate
 
-Vă rugăm să verificaţi folderul JUNK în e-mailul, ca uneori alerte ar putea merge acolo.
+Vă rugăm să verificați folderul JUNK în e-mailul dvs., deoarece uneori alertele pot merge acolo.
 
-Determina dacă **toate alerte nu sunt livrate** sau dacă nu este emis **o alertă individuale** dintr-un fisier anume sau biblioteca.
+Determinați dacă **toate avertizările nu sunt livrate** sau dacă nu este livrată **o alertă individuală** dintr-un anumit fișier sau bibliotecă.
 
-- **Alerte individuale nu sunt livrate**: în cazul în care nu este emis o alertă individuale dintr-un fisier anume sau bibliotecă, puteţi încerca să ştergeţi şi de a recrea aceasta. A se vedea [Manage, Vezi, sau şterge SharePoint alerte](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) pentru a recrea alerta.
-- **Toate alertele nu sunt livrate**: în cazul în care toate alertele din mai multe fisiere sau biblioteci nu sunt livrate, vizitaţi [serviciu sănătate tabloul de bord](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a verifica pentru orice consultaţie/incidentele care pot fi produse cu SharePoint sau schimb. Problema ar putea fi cu capacitatea de alertă SharePoint sau întârzieri în e-mailuri prin schimb. De asemenea, este important să reţineţi dacă alte e-mail este livrat, iar dacă nu, problema este probabil cu întârzieri de schimb.
+- **Avertizările individuale nu sunt livrate**: dacă nu este livrată o alertă individuală dintr-un anumit fișier sau bibliotecă, puteți încerca să o ștergeți și să o recreați. Consultați [gestionarea, vizualizarea sau ștergerea alertelor SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) pentru a recrea alerta.
+- **Toate avertizările nu sunt livrate**: dacă toate avertizările din mai multe fișiere sau biblioteci nu sunt livrate, vizitați [tabloul de bord Health Service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a verifica orice recomandări/incidente care pot apărea cu SharePoint sau Exchange. Problema ar putea fi cu capacitatea de alertă SharePoint sau întârzieri în e-mailuri prin Exchange. De asemenea, va fi important să rețineți dacă este livrat alt e-mail, și dacă nu, problema este probabil cu întârzieri Exchange.
 
-FAQ pe alerte:
+Întrebări frecvente privind alertele:
 
-- Nu este posibil pentru a trimite alerte grup de distribuire, doar de securitate şi O365 grupurile sunt acceptate.
-- Nu puteţi personaliza template-uri de e-mail de alertă; Trebuie să utilizaţi Microsoft FLOW sau flux de lucru SharePoint Designer pentru a obţine cei.
+- Nu este posibil să trimiteți alerte grupului de distribuire, numai grupurile de securitate și O365 sunt acceptate.
+- Nu puteți personaliza șabloane de e-mail de avertizare; Trebuie să utilizați Microsoft FLOW sau SharePoint Designer workflow pentru a le realiza.
 
-Mai multe informaţii:
+Mai multe informații:
 
-- **Alertă de configurare**: pentru mai multe informaţii despre configurarea alerte, consultaţi [crearea o alertă pentru a obţine notificat atunci când un fişier sau dosar modificări în SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Depanarea alerte**: pentru mai multe informaţii despre depanarea alerte, a se vedea [utilizatorii nu primesc notificări de alertă SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Avansate O365 respectarea alertă politicilor**: pentru mai multe informaţii despre configurarea acestor alerte, consultaţi [Politicile de alertă conformitatea](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint şi jurnalele de Audit OneDrive**: pentru mai multe informaţii despre modul de a prelua aceste evenimente, a se vedea [Căutaţi în Jurnalul de audit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Alerte trimise de Advanced Protection ameninţare**: vedea [ATP pentru SharePoint și OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Alerte trimise de Data Loss Prevention politici**: vedea [Notificări E-mail pentru DLP politici](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Configurare alertă**: pentru mai multe informații despre configurarea avertizărilor, consultați [crearea unei alerte pentru a primi notificări atunci când un fișier sau folder se modifică în SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Depanarea avertizărilor**: pentru mai multe informații despre depanarea avertizărilor, consultați [utilizatorii nu primesc notificări de alertă SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Politici de alertă pentru conformitatea cu O365 avansate**: pentru mai multe informații despre configurarea acestor alerte, consultați [politicile de alertă pentru conformitate](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **Jurnalele de audit SharePoint și OneDrive**: pentru mai multe informații despre se recuperează aceste evenimente, consultați [Căutați Jurnalul de audit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Alerte trimise de protecție avansată împotriva amenințărilor**: consultați [ATP pentru SharePoint și OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Alerte trimise de politici de prevenire a pierderii datelor**: consultați [notificările prin e-mail pentru politicile DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Subiecte conexe
 
-Doriţi să încercaţi Flow Microsoft SharePoint Online?
+Doriți să încercați Microsoft Flow în SharePoint Online?
 
-- [Crea fluxul](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Creare flux](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint şi fluxul](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint și flux](https://flow.microsoft.com//blog/sharepoint-and-flow/)

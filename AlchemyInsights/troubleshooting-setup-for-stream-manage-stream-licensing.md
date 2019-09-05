@@ -1,5 +1,5 @@
 ---
-title: Rezolvarea problemelor de instalare pentru Stream - gestionarea Stream licenţiere
+title: Depanarea instalării pentru Stream-gestionarea licențierii în flux
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559205"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742637"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Gestionarea licenţelor Microsoft Stream
+# <a name="managing-microsoft-stream-licenses"></a>Gestionarea licențelor Microsoft Stream
 
-**Importantă:** Trebuie sa fii în rolul de chiriaş Admin să efectuaţi operaţiunile descrise în acest subiect.
+**Important:** Trebuie să fiți în rolul de administrator de entități găzduite pentru a efectua operațiuni descrise în acest subiect.
 
-Trebuie să fie un administrator Global sau un utilizator de Management admin. Pentru mai multe informaţii, consultaţi [rolurile de admin despre Office 365](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Ai nevoie pentru a fi fie un admin global sau un user management admin. Pentru mai multe informații, consultați [despre rolurile de administrator](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Atribuiţi [licenţe la conturi de utilizator cu Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Aveți posibilitatea să atribuiți [licențe pentru conturile de utilizator cu Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).

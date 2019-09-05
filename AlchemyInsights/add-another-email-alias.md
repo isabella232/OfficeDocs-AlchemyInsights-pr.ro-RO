@@ -1,5 +1,5 @@
 ---
-title: Adauga un alt e-mail alias
+title: Adăugați un alt alias de e-mail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495115"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737345"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Crea sau adăuga un alias de poştă electronică pentru un utilizator
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Crearea sau adăugarea unui alias de e-mail pentru un utilizator
 
-Necesitatea de a crea un alias de poştă electronică pentru un utilizator, sau pentru a adăuga o adresă de e-mail suplimentară? Urmaţi aceşti paşi!
+Necesitatea de a crea un alias de e-mail pentru un utilizator, sau de a adăuga o adresă de e-mail suplimentare? Doar urmați acești pași!
   
-1. În centrul de administrare Microsoft 365, du-te la pagina de [utilizatori](https://go.microsoft.com/fwlink/p/?linkid=834822) , sau selectaţi **utilizatorii** \> **Utilizatori activi**.
+1. În centrul de administrare Microsoft 365, accesați pagina [utilizatori](https://go.microsoft.com/fwlink/p/?linkid=834822) **sau alegeți** \> utilizatori **activi**utilizatori.
     
-2. **Utilizatori activi** în pagina, selectaţi numele persoanei pe care doriţi să o editaţi. 
+2. În pagina **utilizatori activi** , selectați numele persoanei pe care doriți să o editați. 
     
-3. Pe dreapta, în **nume de utilizator / E-mail alias** rând, alegeţi **Editare**.
+3. În dreapta, în rândul **nume de utilizator/E-mail pseudonime** , alegeți **Editare**.
     
-4. În caseta de **pseudonim** , tip un e-mail nou, apoi selectaţi **adăugaţi**. Dacă aţi achiziţionat abonamentul la GoDaddy sau un alt partener, pentru a seta pseudonim nou ca primar, tu trebuie să meargă la GoDaddy/partener management console. 
+4. În caseta **alias** , tastați un e-mail nou, apoi alegeți **Adăugare**. Dacă ați achiziționat abonamentul de la GoDaddy sau de la un alt partener, pentru a seta noul alias ca primar, trebuie să mergeți la GoDaddy/Partner Management Console. 
     
-    **IMPORTANT**: Dacă primiţi mesajul de eroare " **un parametru nu poate fi găsit că se potriveşte cu numele parametrului" EmailAddresses**"Aceasta înseamnă că durează un pic mai mult pentru Office 365 pentru a termina configurarea chiriaşul dumneavoastră sau domeniu personalizat, dacă aţi adăugat recent unul . Procesul de instalare poate dura până la 4 ore pentru a finaliza. Aşteptaţi un timp astfel înfiinţat proces are timp să termine și încercați din nou. Dacă problema persistă, apela de asistenţă şi vor face o sincronizare completă pentru tine.
+    **Important**: Dacă primiți mesajul de eroare " **nu se poate găsi un parametru care se potrivește cu parametrul de nume" EmailAddresses**"înseamnă că durează un pic mai mult pentru Office 365 pentru a finaliza configurarea entității găzduite sau a domeniului personalizat dacă ați adăugat recent unul . Procesul de configurare poate dura până la 4 ore pentru a finaliza. Așteptați un timp, astfel încât procesul de configurat are timp pentru a termina, și apoi încercați din nou. Dacă problema persistă, apelați asistența și vor face o sincronizare completă pentru dvs.
     
-    Durează de obicei aproximativ 30 de minute pentru alias noi să aibă efect.
+    De obicei durează aproximativ 30 de minute pentru ca noul alias să aibă efect.
     
-    **Pentru mai multe detalii, vedeți acest articol:** [Adăugare aliasuri suplimentare e-mail pentru un utilizator](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Pentru mai multe detalii, consultați acest articol:** [Adăugați un alt alias de e-mail pentru un utilizator](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

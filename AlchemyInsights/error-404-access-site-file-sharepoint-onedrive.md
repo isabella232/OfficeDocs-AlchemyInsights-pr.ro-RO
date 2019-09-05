@@ -1,5 +1,5 @@
 ---
-title: 'Eroare 404: Fişier negăsit'
+title: 'Eroare 404: fișierul nu a fost găsit'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527411"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740225"
 ---
-# <a name="error-404-file-not-found"></a>Eroare 404: Fişier negăsit
+# <a name="error-404-file-not-found"></a>Eroare 404: fișierul nu a fost găsit
 
-**Error 404: fişier negăsit** este primită atunci când utilizatorii încearcă să acceseze un site-ul sau un fişier în SharePoint sau OneDrive. Acest lucru este adesea cauzate de un site sau fişier sau grup obtinerea redenumite, mutate sau şterse.
-Utilizatorii vor experimenta eroare atunci când încearcă să acceseze colecția de site-ul rădăcină şi a fost ştearsă.
+**Eroare 404: fișierul nu a fost găsit** este primit atunci când utilizatorii încearcă să acceseze un site sau un fișier în SharePoint sau OneDrive. Acest lucru este adesea cauzat de un site sau un fișier sau un grup care devine redenumit, mutat sau șters.
+Utilizatorii vor experimenta eroarea atunci când încearcă să acceseze colecția de site-ul rădăcină și a fost șters.
 
-Următoarele pot ajuta cu rezolvarea acestei probleme:
-- [Vezi şi Restaurare şterse site-uri în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): pentru modern site-uri (comunicare, conectat la grup, sau alte site-uri) care există în noi admin centru de examinare.
-- [Restaura elementele din Coșul de reciclare al unui sit SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): pentru a rezolva fişier (sau un alt element) care a fost redenumit, mutate sau şterse Du-te la site-ul SharePoint sau OneDrive si Vezi Recycle Bin la conţinutul site-ului.
-- [Căutarea Jurnalul de audit în Office 365 securitate &amp; respectarea centrul](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): Search Jurnalul de audit (daca logarea este activată), dacă sunteţi încă în imposibilitatea de a găsi elementul.
+Următoarele pot ajuta la rezolvarea acestei probleme:
+- [Vizualizați și restaurați site-uri șterse în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): pentru site-uri moderne (comunicare, conectat la grup sau alte site-uri) care există în noua previzualizare a centrului de administrare.
+- [Restaurați elementele din Coșul de reciclare al unui site SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): pentru a rezolva fișierul (sau alt element) care a fost redenumit, mutat sau șters mergeți la site-ul SharePoint sau OneDrive și vizualizați Coșul de reciclare din conținutul site-ului.
+- [Căutați în Jurnalul de audit din centrul &amp; de conformitate securitate](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): căutați Jurnalul de audit (dacă este activată înregistrarea în jurnal) dacă încă nu reușiți să găsiți elementul.

@@ -1,5 +1,5 @@
 ---
-Title: Reîmprospătare folosind Web conector nu funcţionează corect
+title: Reîmprospătarea utilizând conectorul web nu funcționează corect
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753312"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748912"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Reîmprospătare folosind Web conector nu funcţionează corect
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Reîmprospătarea utilizând conectorul web nu funcționează corect
 
-Dacă aveţi un script de conectorului web care utilizează funcţia de [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) , şi o actualizare set de date sau de raport după 18 noiembrie 2016, trebuie să utilizaţi un gateway pentru ca reîmprospătare pentru a funcţiona corect.
+Dacă aveți un script de conector web care utilizează funcția [Web. Page](https://msdn.microsoft.com/library/mt260924.aspx) și ați actualizat setul de date sau raportul după 18 noiembrie, 2016, trebuie să utilizați un Gateway pentru ca reîmprospătarea să funcționeze corect.
 
-Pentru mai multe informaţii:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Pentru mai multe informații:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

@@ -1,6 +1,6 @@
 ---
-title: Caracteristica de cereri acces
-ms.author: kirks
+title: Caracteristica solicitări de acces
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503827"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751540"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Accesul utilizatorilor la site-ul SharePoint
+# <a name="give-users-access-to-sharepoint-site"></a>Acorda utilizatorilor acces la site-ul SharePoint
 
-Caracteristica de cerere acces permite oamenilor de a solicita accesul la un conţinut care nu au în prezent permisiunea de a vedea. Ca un proprietar de site-ul, puteţi configura caracteristica pentru a trimite mail ai atunci când cineva solicită accesul la un site. Pentru mai multe informaţii, vă rugăm să vizitaţi [Set up şi gestiona cererile de acces](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Caracteristica de solicitare de acces permite oamenilor să solicite acces la conținut pe care nu au în prezent permisiunea de a vedea. Ca proprietar de site, aveți posibilitatea să configurați caracteristica pentru a vă trimite mail atunci când cineva solicită acces la un site. Pentru mai multe informații, vă rugăm să vizitați [configurați și gestionați solicitările de acces](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-Aici sunt cateva link-uri frecvente cu privire la cererile de acces:
+Iată câteva linkuri comune privind solicitările de acces:
 
-- [Acces refuzat"la lista de cereri de acces sau"Solicita aprobarea failed"când vă procesa o cerere în așteptare în SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Acces refuzat "la lista de solicitări de acces sau" solicitare aprobare nu a reușit "atunci când procesați o solicitare în așteptare în SharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Modificare acces solicită setările](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Modificarea setărilor pentru solicitările de acces](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Aproba sau respinge cererile de acces pentru un site](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Aprobați sau refuzați solicitările de acces pentru un site](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Gestiona cererile utilizatorilor externi (SharePoint Online numai)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Gestionați invitații către utilizatori externi (numai SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Retrimiteți invitația de](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Retriarea unei invitații](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

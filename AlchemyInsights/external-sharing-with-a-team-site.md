@@ -1,6 +1,6 @@
 ---
-title: Externe de partajare cu un Site de echipă
-ms.author: kirks
+title: Partajare externă cu un site de echipă
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525992"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755896"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Externe de partajare cu un Site de echipă
+# <a name="external-sharing-with-a-team-site"></a>Partajare externă cu un site de echipă
 
-Pentru a activa utilizator extern de partajare pentru site-uri de echipă, urmaţi aceşti paşi: 
+Pentru a activa partajarea de utilizator extern pentru site-uri de echipă, urmați acești pași: 
   
-1. În centrul de administrare SharePoint nouă, faceţi clic pe **site-uri Active**.
+1. În noul centru de administrare SharePoint, faceți clic pe **site-uri active**.
   
-2. Selectați un site care are un şablon de **Site-ul echipei** . 
+2. Selectați un site care are un șablon de **site de echipă** . 
   
-3. Selectaţi butonul de **Partajare** din meniul de sus. 
+3. Selectați butonul **Partajare** din meniul de sus. 
   
- **Notă**: în mod implicit, atunci când este creat un Site Modern de echipa, externe optiunea de partajare va fi setată la noi şi existente de utilizatori externi. 
+ **Notițe**: în mod implicit, atunci când este creată o echipă modernă site, opțiunea partajare externă va fi setată la utilizatori externi noi și existenți. 
   
- **Notă:** Dacă aveţi mai multe site-ul selectat, butonul de **Partajare** va apărea cu handicap. Selectaţi doar un singur site. 
+ **Notă:** Dacă aveți mai mult de un site selectat, butonul de **Partajare** va apărea dezactivat. Selectați un singur site. 
   
 

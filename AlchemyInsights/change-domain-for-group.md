@@ -1,5 +1,5 @@
 ---
-title: Schimba domeniu pentru Office 365 grup
+title: Modificare domeniu pentru Office 365 grup
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519743"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736841"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Schimba domeniu pentru Office 365 grup
+# <a name="change-the-domain-for-office-365-group"></a>Modificați domeniul pentru Office 365 grup
 
-Dacă doriţi să modificaţi domeniu pentru un grup de Office 365 în timpul creării, urmaţi paşii din [alege domeniu pentru a utiliza atunci când crearea grupurilor de 365 birou](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Dacă doriți să modificați domeniul pentru un grup Office 365 în timpul creării, urmați pașii din [Alegeți domeniul de utilizat la crearea Office 365 grupuri](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-După ce grupul Office 365 este deja creat, există în prezent nici o modalitate de a schimba domeniul. Singura cale este de a crea un nou grup de Office 365 şi şterge cel vechi, dacă este necesar (adrese de e-mail suplimentare pot fi adăugate prin [Centrul de administrare Exchange](https://outlook.office365.com/ecp.aspx)).
+După ce grupul Office 365 este deja creat, nu există în prezent nici o modalitate de a schimba domeniul. Singura modalitate este de a crea un nou Office 365 grup și ștergeți cel vechi, dacă este necesar (adrese de e-mail suplimentare pot fi adăugate prin [Centrul de administrare Exchange](https://outlook.office365.com/ecp.aspx)).

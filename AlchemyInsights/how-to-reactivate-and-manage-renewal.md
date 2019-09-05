@@ -1,5 +1,5 @@
 ---
-title: Cum de a reactiva şi de a gestiona reînnoirea
+title: să reactivați și să gestionați reînnoirea
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663972"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739325"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cum de a reactiva şi de a gestiona recurente de facturare
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>să reactivați și să gestionați facturarea periodică
 
-Se pare ca tu ai un abonament care a expirat. Dacă doriţi să reactivaţi-o, aici cum.
+Se pare ca ai un abonament care a expirat. Dacă doriți să-l reactivați, iată.
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la pagina de **Facturare** \> [produse _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Găsiţi abonament pe care veti dori sa reactivati. În secţiunea **de facturare** , selectaţi **reactiva**.
+2. Găsiți abonamentul pe care doriți să îl reactivați. În secțiunea **Facturare** , selectați **reactivați**.
 
-    Dacă nu vedeţi **reactiva** ca o opţiune, utilizaţi butonul "Aveţi nevoie de ajutor" pentru a vorbi cu un inginer de suport pentru a reactiva abonamentul.
+    Dacă nu vedeți **reactivați** ca opțiune, utilizați butonul "nevoie de ajutor" pentru a vorbi cu un inginer de suport pentru a reactiva abonamentul.
 
-3. Confirma detaliile de plată. Puteţi actualiza informaţiile de plată existente aici. Când aţi terminat introducerea metoda de plată, selectați **reactiva**.
+3. Confirmați detaliile de plată. Aici aveți posibilitatea să actualizați informațiile de plată existente. După ce ați terminat de introdus metoda de plată, selectați **reactivați**.
 
-Pentru a afla mai multe, consultaţi [reactiva abonamentul](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Pentru a afla mai multe, consultați [reactivarea abonamentului](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Pentru a gestiona lunar sau anual de facturare vă puteţi comuta **recurent facturare** on sau off.
+Pentru a gestiona facturarea lunară sau anuală, puteți comuta sau dezactiva **facturarea recurentă** .
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la pagina de **Facturare** \> [produse _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege abonamentul pentru care doriţi să gestionaţi recurente de facturare.
+2. Alegeți abonamentul pentru care doriți să gestionați facturarea periodică.
 
-3. Sub **Facturare**, lângă **Renews pe** sau **Expiring pe**, selectaţi **Editare**.
+3. Sub **Facturare**, lângă **reînnoire** sau **expiră**, selectați **Editare**.
 
-4. În panoul de **Setări de facturare recurent** , selectaţi **Dezactivaţi** să nap it off. Dacă deja este oprit recurente de facturare, selectaţi **lunar** sau **o dată** să îl porniţi.
+4. În panoul de **Setări de facturare recurent** , selectați **Dezactivare** pentru a o dezactiva. Dacă facturarea recurentă este deja dezactivată, selectați **lunar** sau **o dată** pentru a o activa.
 
-5. Selectaţi **Submit schimba**.
+5. Selectați **Remitere modificare**.
 
-Pentru a afla mai multe, consultaţi [Turn recurente facturare sau pe off](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pentru a afla mai multe, consultați [Activarea sau dezactivarea facturării recurente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

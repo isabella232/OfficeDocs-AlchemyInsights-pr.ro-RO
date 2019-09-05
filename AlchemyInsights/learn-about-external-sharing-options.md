@@ -1,5 +1,5 @@
 ---
-title: 617 aflaţi mai multe despre externe opţiunile de partajare
+title: 617 Aflați despre opțiunile de partajare externă
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497779"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735365"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Aflaţi mai multe despre calendar extern opţiunile de partajare
+# <a name="learn-about-external-calendar-sharing-options"></a>Aflați despre opțiunile de partajare a calendarului extern
 
-Dacă aveţi nevoie să planificaţi întâlniri cu persoane din afara organizaţiei, Office 365 vă permite să faceţi calendarele disponibile utilizatorilor"extern," cei care au nevoie pentru a vedea liber/ocupat timp dar nu au conturi de utilizator pentru mediul Office 365. Pentru informaţii suplimentare, consultaţi [Share calendare cu utilizatorii externi](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Dacă trebuie să planificați întâlniri cu persoane din afara organizației, Office 365 vă permite să faceți calendare disponibile pentru "utilizatori externi", cei care au nevoie pentru a vedea timpul liber/ocupat, dar nu au conturi de utilizator pentru mediul Office 365. Pentru mai multe informații, consultați [partajarea calendarelor cu utilizatori externi](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

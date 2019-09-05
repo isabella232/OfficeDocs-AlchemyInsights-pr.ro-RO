@@ -1,6 +1,6 @@
 ---
-title: Accesul la un Site de comunicare cu utilizatorii externi
-ms.author: kirks
+title: Partajarea unui site de comunicare cu utilizatori externi
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 0bdcc0c42cf73f6538de1613d710dd2143dbf887
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508723"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751972"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Accesul la un Site de comunicare cu utilizatorii externi
+# <a name="share-a-communication-site-with-external-users"></a>Partajarea unui site de comunicare cu utilizatori externi
 
-Pentru a activa utilizator extern de partajare pentru site-uri de comunicare, urmaţi aceşti paşi: 
+Pentru a activa partajarea de utilizator extern pentru site-uri de comunicare, urmați acești pași: 
   
-1. Deschidere **Centru de administrare modernă** - în cazul în care sunteţi în centrul de administrare clasic veţi vedea un **încercaţi-l acum** sau ** încercaţi previzualizare ** butonul din dreapta sus. Acest lucru vă va duce la centrul de administrare Modern. 
+1. Deschideți **centrul modern de administrare** -dacă sunteți în centrul de administrare clasic veți vedea o **Încercați acum** sau * * încercați butonul de previzualizare * * din dreapta sus. Acest lucru vă va duce la centrul modern de administrare. 
   
-2. Selectaţi **Active site-uri.**
+2. Selectați **site-uri active.**
   
-3. Selectați un site care are un **şablon de site-ul de comunicare**. 
+3. Selectați un site care are un **șablon de site de comunicare**. 
   
-4. Selectaţi butonul de **Partajare** din meniul de sus. 
+4. Selectați butonul **Partajare** din meniul de sus. 
   
- **Notă:** Dacă aveţi mai multe site-ul selectat, butonul de **Partajare** va apărea cu handicap. Selectaţi doar un singur site. 
+ **Notă:** Dacă aveți mai mult de un site selectat, butonul de **Partajare** va apărea dezactivat. Selectați un singur site. 
   
 

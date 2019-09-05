@@ -1,5 +1,5 @@
 ---
-title: 959 schimbare nume afişat
+title: 959 modificare nume afișat
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519815"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736733"
 ---
-# <a name="change-your-display-name"></a>Modifica numele de afişare
+# <a name="change-your-display-name"></a>Schimbați numele afișat
   
-Pentru a modifica numele de afişare în Outlook, utilizaţi paşii următori.
+Pentru a modifica numele afișat în Outlook, utilizați pașii următori.
   
-1. În Outlook, selectaţi **fişier** \> **Setările de cont** \> **Socoteală aranjare**.
+1. În Outlook **, selectați** \> **** \> **Setări**cont setările contului.
 
-2. Selectaţi contul de e-mail şi selectaţi **schimbare**.
+2. Selectați contul de e-mail și apoi selectați **modificare**.
 
     > [!NOTE]
-    > Dacă nu vedeţi opţiunea de a schimba numele afişat, probabil, utilizaţi un cont de e-mail Microsoft Exchange. În acest caz, trebuie să luaţi legătura cu administratorul pentru a modifica numele afişat. A se vedea [schimba numele de utilizator şi poştă electronică adresă în Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Dacă nu vedeți opțiunea de a modifica numele afișat, probabil că utilizați un cont de e-mail Microsoft Exchange. În acest caz, trebuie să contactați administratorul pentru a modifica numele afișat. Consultați [modificarea unui nume de utilizator și a unei adrese de e-mail în Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. După ce v-aţi schimbat numele afişat, faceţi clic pe **OK** pentru a salva modificările. Aceasta poate dura câteva ore pentru modificările pentru a reflecta în întreaga organizaţie.
+3. După ce ați modificat numele afișat, faceți clic pe **OK** pentru a salva modificările. Poate dura câteva ore pentru ca modificările să reflecte întreaga organizație.
 
-Pentru informaţii suplimentare, consultaţi [modificarea numelui afişat, care vedea poştă electronică recipients](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Pentru mai multe informații, consultați [modificarea numelui afișat pe care îl văd destinatarii de e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

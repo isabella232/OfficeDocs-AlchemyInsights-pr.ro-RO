@@ -1,5 +1,5 @@
 ---
-title: 955 cum să configuraţi Mae
+title: 955 se configurează MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 851aed83ff87777666130dfd2009073d852cb643
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664044"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739649"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Configuraţi autentificarea multi-factor în Office 365
+# <a name="configure-multi-factor-authentication-in-office-365"></a>Configurați autentificarea multi-factor în Office 365
 
-Pentru a configura Mae, consultaţi [Configurarea multi-factor de autentificare pentru utilizatorii de Office 365](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx).
+Pentru a configura MFA, consultați [Configurarea autentificării multi-factor pentru utilizatorii de Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Reţineţi că aveţi nevoie să fie un administrator global Office 365 pentru a activa şi configura Mae.
+Rețineți că trebuie să fie un Office 365 global admin pentru a activa și configura MFA.

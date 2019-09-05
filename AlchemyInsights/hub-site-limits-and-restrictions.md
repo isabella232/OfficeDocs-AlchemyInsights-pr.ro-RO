@@ -1,26 +1,26 @@
 ---
-title: Limite de site-ul hub şi restricţii
-ms.author: kirks
+title: Limitele și restricțiile site-ului hub
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: be714787d426164e9e0d03050c8fe3fc8d858124
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539293"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754708"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Limite de site-ul SharePoint hub şi restricţii
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Limitele și restricțiile site-ului SharePoint hub
 
-- Este recomandat pentru a selecta un site de comunicare, sau un site de echipă care utilizează şablonul moderne noi. Dacă utilizaţi o clasic echipa site-ului, hub-ul de navigare va apărea numai paginile moderne, şi setările de site-ul hub vor apărea numai paginile moderne.
+- Se recomandă selectarea unui site de comunicare sau a unui site de echipă care utilizează noul șablon modern. Dacă utilizați un site de echipă clasic, navigarea hub va apărea numai pe paginile moderne, iar setările site-ului hub vor apărea numai pe paginile moderne.
 
-- Site-urile care sunt deja asociat cu un alt hub-ul **nu poate** fi convertit la un site hub.
+- Site-urile care sunt deja asociate cu un alt hub **nu pot** fi convertite într-un site de hub.
 
-- Puteţi crea până la 100 site-uri de hub pentru organizaţia dvs. Nu există nici o limită a numărului de site-uri care pot fi asociate cu un site hub.
+- Aveți posibilitatea să creați până la 100 hub-uri pentru organizația dvs. Nu există nici o limită cu privire la numărul de site-uri care pot fi asociate cu un site hub.
 
-- Atunci când utilizatorii asociat site-urile lor cu un site hub, ea nu are impact permisiunile site-ul hub-ul sau site-uri asociate. Este important să vă asiguraţi că toţi utilizatorii vă permite să se asocieze site-uri de la hub au permisiunea de la hub.
+- Atunci când utilizatorii asociază site-urile lor cu un site hub, acesta nu are impact permisiunile de site-ul hub sau site-urile asociate. Este important să vă asigurați că toți utilizatorii pe care îi permiteți să asocieze site-uri la hub au permisiunea de a hub.
 

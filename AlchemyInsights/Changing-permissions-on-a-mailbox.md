@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661416"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734393"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Modificarea permisiunilor unei cutii poștale
 
 Dacă utilizatorii au nevoie de acces la cutiile poștale Office 365, altele decât cele proprii, trebuie să li se acorde permisiuni pentru a lucra cu cutiile poștale respective. Modul în care atribuiți aceste permisiuni depinde de tipul cutiei poștale. Dacă utilizatorii au nevoie de acces la:
   
-- Alte cutii poștale ale utilizatorului-vă rugăm să consultați [Da permisiuni de cutie poștală pentru un alt utilizator în Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Alte cutii poștale ale utilizatorului-vă rugăm să consultați [Da permisiuni de cutie poștală pentru un alt utilizator în Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - O cutie poștală partajată-vă rugăm să consultați [adăugarea sau eliminarea membrilor dintr-o cutie poștală partajată](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

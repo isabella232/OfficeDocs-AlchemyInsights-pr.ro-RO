@@ -1,5 +1,5 @@
 ---
-title: instrument de export eDiscovery
+title: Instrumentul de export eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,22 +15,22 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528275"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736337"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nu pot instala sau de a alerga eDiscovery instrument de Export?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nu se poate instala sau executa instrumentul de export eDiscovery?
 
-În cazul în care nu se poate instala sau executaţi Office 365 eDiscovery Export instrument pentru a descărca rezultatele căutării, verifică următoarele lucruri:
+Dacă nu se poate instala sau executa Office 365 eDiscovery Export Tool pentru a descărca rezultatele căutării, verificați următoarele lucruri:
   
-- Computer îl utilizaţi îndeplineşte aceste premise:
+- Computerul pe care îl utilizați îndeplinește aceste pre-rechizite:
 
-  - versiunile de 32 sau 64 de biţi de Windows 7 și versiunile ulterioare
+  - 32-sau 64-bit traducere de Ferestre 7 și tîrziu traducere
 
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
 
   - Un browser acceptat:
 
@@ -38,13 +38,13 @@ ms.locfileid: "36528275"
 
     Sau
 
-  - Internet Explorer 10 şi versiunile ulterioare
+  - Internet Explorer 10 și versiunile ulterioare
 
-    Nu sunt acceptate alte browsere, cum ar fi Google Chrome si Mozilla Firefox.
+    Alte browsere, ar fi Google Chrome și Mozilla Firefox, nu sunt acceptate.
 
-- Organizaţia se poate conecta la final în Azure, care este ** \*. blob.core.windows.net** (metacaracterul reprezintă un Identificator unic pentru munca ta de export).
+- Organizația dumneavoastră se poate conecta la punctul final în Azure, care este ** \*. blob.Core.Windows.net** (metacaractere reprezintă un Identificator unic pentru activitatea de export).
 
-- Sunteţi atribuit rolul de Export în Office 365 securitate &amp; centru de conformitate. În mod implicit, acest rol numai este atribuit grupului de roluri de Manager eDiscovery. Consultaţi [atribuirea permisiunilor eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Sunteți atribuit rolul de export în Office 365 Security &amp; conformitatea Center. În mod implicit, acest rol este atribuit numai grupului de roluri eDiscovery Manager. Consultați [atribuirea permisiunilor eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Pentru mai multe informaţii, a se vedea [rezultatele de căutare de conţinut de Export](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Pentru mai multe informații, consultați [Exportul rezultatelor căutării de conținut](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

@@ -1,5 +1,5 @@
 ---
-title: Schimbare UPN
+title: Modificare UPN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520859"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738605"
 ---
-# <a name="change-a-users-email-address"></a>Schimbarea adresei de e-mail un utilizator
+# <a name="change-a-users-email-address"></a>Modificarea adresei de e-mail a unui utilizator
 
-Schimbă adresa de e-mail cuiva este uşor! Urmaţi aceşti paşi:
+Schimbarea adresei de e-mail a cuiva este ușoară! Doar urmați acești pași:
   
-1. În centrul de administrare Microsoft 365, du-te la pagina de [utilizatori](https://go.microsoft.com/fwlink/p/?linkid=834822) , sau selectaţi **utilizatorii** \> **Utilizatori activi**.
+1. În centrul de administrare Microsoft 365, accesați pagina [utilizatori](https://go.microsoft.com/fwlink/p/?linkid=834822) **sau alegeți** \> utilizatori **activi**utilizatori.
     
-2. Selectaţi utilizatorul.
+2. Selectați utilizatorul.
     
-3. Pe dreapta, în **nume de utilizator / E-mail alias** rând, alegeţi **Editare**.
+3. În dreapta, în rândul **nume de utilizator/E-mail pseudonime** , alegeți **Editare**.
     
-4. În caseta de **pseudonim** , tip un e-mail nou, apoi selectaţi **adăugaţi**.
+4. În caseta **alias** , tastați un e-mail nou, apoi alegeți **Adăugare**.
     
-    **IMPORTANT**: Dacă primiţi mesajul de eroare " **un parametru nu poate fi găsit că se potriveşte cu numele parametrului" EmailAddresses**"Aceasta înseamnă că durează un pic mai mult pentru Office 365 pentru a termina configurarea chiriaşul dumneavoastră sau domeniu personalizat, dacă aţi adăugat recent unul . Procesul de instalare poate dura până la 4 ore pentru a finaliza. Aşteptaţi un timp, astfel încât procesul de configurare a timp să termine și încercați din nou. Dacă problema persistă, apela de asistenţă şi vor face o sincronizare completă pentru tine.
+    **Important**: Dacă primiți mesajul de eroare " **nu se poate găsi un parametru care se potrivește cu parametrul de nume" EmailAddresses**"înseamnă că durează un pic mai mult pentru Office 365 pentru a finaliza configurarea entității găzduite sau a domeniului personalizat dacă ați adăugat recent unul . Procesul de configurare poate dura până la 4 ore pentru a finaliza. Așteptați un timp, astfel încât procesul de instalare are timp pentru a termina, și apoi încercați din nou. Dacă problema persistă, apelați asistența și vor face o sincronizare completă pentru dvs.
     
-    Dacă primiţi mesajul de eroare " **ne pare rău, utilizatorul nu a putut fi editate. Revizuiți informațiile de utilizator și încercați din nou**"inseamna ca nu esti un administrator global Office 365 şi nu aveţi permisiunea de a schimba numele de utilizator.
+    Dacă obțineți mesajul de eroare " **ne pare rău, utilizatorul nu a putut fi editat. Examinați informațiile de utilizator și încercați din nou**"Aceasta înseamnă că nu sunteți un Office 365 global admin și nu aveți permisiuni pentru a modifica numele utilizatorului.
     
-5. Alegeti **ca primar** pentru adresa de e-mail pe care doriţi să setaţi ca adresa de email primar pentru acea persoană. Dacă aţi achiziţionat abonamentul la GoDaddy, vă trebuie să conectaţi la lor consola de administrare pentru a seta adresa de email primar. 
+5. Alegeți **Setați ca principal** pentru adresa de e-mail pe care doriți să o setați ca adresă de e-mail principală pentru acea persoană. Dacă ați achiziționat abonamentul de la GoDaddy, trebuie să vă conectați la consola lor de gestionare pentru a seta adresa de e-mail principală. 
     
-6. Alege **Salvare**, apoi **aproape**, şi aţi terminat!
+6. Alegeți **Salvare**, apoi **Închideți**și ați terminat!
     
-Nu a fost asa de usor? Pentru mai multe detalii şi paşii cu capturi de ecran, a verifica afară acest articol: [schimba numele de utilizator şi poştă electronică adresă în Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Nu a fost ușor? Pentru mai multe detalii și pași cu capturi de ecran, consultați acest articol: [Schimbați un nume de utilizator și o adresă de e-mail în Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

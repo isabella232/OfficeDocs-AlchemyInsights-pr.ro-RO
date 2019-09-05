@@ -1,5 +1,5 @@
 ---
-title: Cum să cumparare oferta de educaţie
+title: de a achiziționa oferta de învățământ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663936"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739469"
 ---
-# <a name="how-to-purchase-education-offer"></a>Cum să cumparare oferta de educaţie
+# <a name="how-to-purchase-education-offer"></a>de a achiziționa oferta de învățământ
 
-Tu au fost aprobate pentru Office 365 educaţie. Pentru a achiziţiona:
+Ați fost aprobat pentru Office 365 Education. Pentru a achiziționa:
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, du-te la pagina de **Facturare** \> [produse _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Alege proces pentru **studenti sau facultate**.
+2. Alegeți procesul pentru **studenți sau facultatea**.
 
-3. În secţiunea de **licenţe** , alege **abonamentul de cumpărare**.
+3. În secțiunea **licențe** , alegeți **abonamentul de achiziție**.
 
-4. Urmaţi paşii rămaşi pentru a verifica afară.
+4. Urmați pașii rămași pentru a verifica afară.
 
-Dacă doriţi să achiziţionaţi un abonament decât ceea ce este în proces, du-te la **Facturare** \> [Achiziţiona servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) pagină, şi alegeţi din lista în conformitate cu **Planurile de învăţământ**.
+Dacă doriți să cumpărați un abonament în afară de ceea ce este în proces, mergeți la pagina **** \> [servicii de achiziționare](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturare și alegeți din lista de sub **planurile de educație**.
 
-Pentru a afla mai multe, consultaţi [cumpara acelaşi plan ca proces dumneavoastră](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Pentru a afla mai multe, consultați [Cumpărați același plan ca și procesul dvs](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).

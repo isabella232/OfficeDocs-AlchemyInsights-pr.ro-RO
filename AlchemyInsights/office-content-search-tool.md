@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-not-returning-expected-results
-ms.author: kirks
+title: 1491-căutare-nu-întoarcere-rezultate preconizate
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132699"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753872"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Instrument de căutare pentru a găsi informaţii relevante de conţinut
+# <a name="content-search-tool-to-find-relevant-info"></a>Instrument de căutare conținut pentru a găsi informații relevante
 
-Utilizaţi instrumentul de căutare conţinutul în & de securitate conformitatea centru pentru a găsi rapid poştă electronică în cutiile poştale Exchange, documente SharePoint site-uri şi locaţii OneDrive şi conversaţiile din Skype pentru afaceri de mesagerie instantanee. Puteţi utiliza instrumentul de căutare de conţinut pentru a căuta de e-mail, documentele şi conversaţii în Office 365 instrumente de colaborare, cum ar fi Microsoft Teams și Office 365 grupuri de mesagerie instantanee.
+Utilizați instrumentul căutare conținut din centrul de conformare securitate _ Amp_ pentru a găsi rapid e-mailuri în cutiile poștale Exchange, documente în site-uri SharePoint și locații OneDrive și conversații de mesagerie instant în Skype pentru afaceri. Aveți posibilitatea să utilizați instrumentul de căutare conținut pentru a căuta e-mailuri, documente și conversații de mesagerie instant în Office 365 instrumente de colaborare, ar fi Microsoft teams și Office 365 grupuri.
 
 
-Înainte de a utiliza [Căutare conţinutul](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) de [Securitate & centru de conformitate](https://sip.protection.office.com/homepage), veţi dori să completaţi setările de configurare [configura permisiunile](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [viteze de download de stabilire](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) şi [setările de export](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Înainte de a utiliza [Căutare conținut](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) din centrul de conformare la [Securitate](https://sip.protection.office.com/homepage), veți dori să finalizați setările de configurare, inclusiv [permisiunile](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search)de configurare, [Setarea vitezelor de descărcare](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) și a [setărilor de export](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Înţelege mai multe despre căutare conţinutul prin revizuirea [cerințelor și limitele](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [instrumentare elemente parţial indexate](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) şi alte rezultate să fie conştienţi de.
+Înțelegeți mai multe despre căutarea conținutului prin revizuirea [cerințelor și limitelor](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [investigarea elementelor indexate parțial](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) și a altor rezultate de care trebuie să știți.
 
-După trecerea în revistă setările de configurare şi restricţii de căutare de conţinut, se referă la [folosind căutare conţinutul</a> la spre cercetare pentru înăuntru-place elemente cum ar fi e-mail, documentele şi conversaţii în organizaţia Office 365 de mesagerie instantanee](https://docs.microsoft.com/office365/securitycompliance/content-search).
+După revizuirea setărilor de configurare și a restricțiilor de căutare conținut, consultați [Utilizarea căutării</a> de conținut pentru a căuta elemente în loc, ar fi e-mail, documente și conversații de mesagerie instant în organizația Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Pentru o completă pas cu pas de căutare de conţinut, consultaţi [căutarea conţinut în Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) pentru mai multe informaţii.
+Pentru o completă pas-cu-pas de căutare conținut, consultați [căutarea conținutului în Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) pentru mai multe informații.

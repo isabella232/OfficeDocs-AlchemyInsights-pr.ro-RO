@@ -1,5 +1,5 @@
 ---
-title: Sugestii de rezolvare erori "Produs fără licenţă"
+title: Sugestii pentru rezolvarea erorilor "produs fără licență"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501055"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743285"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestii de rezolvare erori "Produs fără licenţă"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestii pentru rezolvarea erorilor "produs fără licență"
 
-Vă asigura că aveţi un abonament care permite clientului de licente, cum ar fi Office 365 Business sau Business Premium, asigurând [utilizatorul are o licenta atribuite](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Dezactivare o instalare](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) pentru a verifica dacă au depășit numărul de instalări de abonament.
+Asigurați-vă că aveți un abonament care permite licențe de client, ar fi Office 365 Business sau Business Premium, și să [se asigure că utilizatorul are o licență atribuită](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Dezactivați o instalare](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) pentru a verifica dacă ați depășit numărul de instalări suportate de abonament.
   
-Asigură utilizatorului este conectarea cu acelaşi cont care are licenta atribuite.
+Asigurați-vă că utilizatorul face sign in cu același cont care are licența atribuită.
   
-Executaţi [Instrumentul de depanare pentru activare](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Executați [depanatorul de activare](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Verificaţi dacă starea de abonament a expirat
+Verificați dacă starea abonamentului a expirat
   
-Verifica [pagina de sănătate de serviciul Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) pentru a vedea dacă există orice probleme cunoscute cu serviciul.
+Verificați [pagina Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) pentru a vedea dacă există probleme cunoscute cu serviciul.
   
-[Efectuați o reparare on-line al Oficiului](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Efectuați o reparare online de Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Pentru solutii de depanare suplimentare, a se vedea: [produs fără licenţă şi activarea erori în birou](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Pentru soluții suplimentare de depanare, consultați: [eroare de produs și de activare fără licență în Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

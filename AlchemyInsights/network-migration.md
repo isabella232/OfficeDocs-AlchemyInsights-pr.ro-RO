@@ -1,5 +1,5 @@
 ---
-title: Migraţia de reţea
+title: Migrarea rețelei
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538485"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734717"
 ---
-# <a name="network-migration"></a>Migraţia de reţea
+# <a name="network-migration"></a>Migrarea rețelei
 
-Chiriaşul dumneavoastră O365 este, eventual, asociat cu mai multe reţele Yammer într-un chiriaş 1: mai multe reţele de configurare. Începând cu 16 octombrie 2018, Yammer nu va mai sprijini mai multe reţele de Yammer asociate cu un chiriaş Office 365. Aveţi posibilitatea să efectuaţi o migrare de reţea pentru a ajunge la o configuraţie preferat de 1:1.
+Entitate găzduită O365 este posibil asociată cu mai multe rețele Yammer într-o entitate găzduită 1: multe rețele de configurare. Începând cu 16 octombrie 2018, Yammer nu va mai accepta mai multe rețele Yammer asociate cu o entitate găzduită Office 365. Aveți posibilitatea să efectuați o migrare de rețea pentru a ajunge la o configurație preferată 1:1.
   
-- Pentru a vizualiza o listã de reþele asociate cu chiriaşul dumneavoastră, conectaţi-vă la Yammer ca Office 365 Global Administrator şi navigaţi la **Network Admin**, apoi **Network migraţiei**. Alege **următoare**.
+- Pentru a vizualiza o listă a rețelelor asociate cu chiriașul, conectați-vă la Yammer ca Office 365 global administrator și navigați la **administrator de rețea**, apoi **migrare rețea**. Alegeți **Următorul**.
 
-- Dacă Vedeţi mai multe rețele specificate la pasul 2 din 3, apoi ai mai multe reţele de Yammer asociate cu chiriaşul dumneavoastră O365.
+- Dacă Vedeți mai multe rețele listate la pasul 2 din 3, atunci aveți mai multe rețele Yammer asociate cu entității găzduite O365.
 
-- Pentru a corecta configuraţia dumneavoastră la o configurație de 1:1, continua folosind instrumentul de reţea migraţiei.
+- Pentru a corecta configurația la o configurație 1:1, continuați să utilizați instrumentul migrare rețea.
 
-- Pentru mai multe informaţii despre migrarea de reţea vă rugăm să consultaţi [migraţiei de reţea: consolidarea existenţa mai multor reţele Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Pentru mai multe informații despre migrarea rețelei [, consultați migrarea rețelei: consolidați mai multe rețele Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Vă rugăm să reţineţi:
+Vă rugăm să rețineți:
   
-- **O migraţie de reţea migrează numai active şi până la utilizatorii.** Împreună cu utilizatorii activi, informaţiile utilizatorilor, cum ar fi numele şi profil imagine, este, de asemenea, au migrat. Orice conţinut de reţea, inclusiv grupuri, este nu au migrat.
+- **O migrare de rețea migrează numai utilizatorii activi și în așteptare.** Împreună cu utilizatorii activi, informațiile utilizatorilor, ar fi numele și fotografia de profil, sunt, de asemenea, migrate. Orice conținut de rețea, inclusiv grupuri, nu este migrat.
 
-- **Migraţia de reţea nu poate fi inversat.** Nu va putea accesa reţeaua de filiale şi conţinutul său după migrare. Deci, înainte de a te considera o migrare, vrei să planificaţi cu atenţie.
+- **Migrarea rețelei nu poate fi inversată.** Nu veți putea accesa rețeaua subsidiară și conținutul acestuia după migrare. Deci, înainte de a lua în considerare o migrare, pe care doriți să plan cu atenție.

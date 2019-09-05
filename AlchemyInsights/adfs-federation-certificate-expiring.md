@@ -1,5 +1,5 @@
 ---
-title: PERIMAT Federaţia certificatul expiră
+title: Certificat de federalizare ADFS expirând
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499903"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737201"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>PERIMAT Federaţia certificatul expiră
+# <a name="adfs-federation-certificate-expiring"></a>Certificat de federalizare ADFS expirând
 
-Pentru a rezolva această problemă, urmaţi aceşti paşi:
+Pentru a rezolva această problemă, urmați acești pași:
   
-1. Instalaţi Microsoft Azure Active Director modulul pentru Windows PowerShell pe calculator (în cazul în care modulul nu este deja instalat). Pentru aceasta, accesaţi [Manage AD azuriu utilizând Windows PowerShell](https://aka.ms/aadposh).
+1. Instalați Microsoft Azure Active Directory Module pentru Windows PowerShell pe computer (dacă modulul nu este deja instalat). Pentru aceasta, du-te pentru a [gestiona AZURE AD utilizând Windows PowerShell](https://aka.ms/aadposh).
 
-2. Urmaţi paşii din "scenariul 1: AD FS token-semnarea certificat expirat" secţiunea de [eroare "a fost o problemă de accesarea site-ului" de la AD FS atunci când un utilizator federalizate semnele Office 365, Azure, sau Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Urmați pașii din "scenariul 1: AD FS token-semnarea certificatului expirat" secțiunea ["nu a fost o problemă accesarea site-ului" eroare la AD FS atunci când un utilizator federalizate semne în Office 365, Azure sau Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Urmaţi paşii din [Cum pentru a actualiza sau a repara setările de un domeniu federativ în Office 365, Azure, sau Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Urmați pașii din [actualizarea sau repararea setărilor unui domeniu federalizate în Office 365, Azure sau Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Pentru a afla mai multe despre certificate de Federaţia de reînnoire, a se vedea [Renew Federaţia certificate pentru Office 365 şi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Pentru a afla mai multe despre reînnoirea certificatelor de federalizare, consultați [reînnoirea certificatelor de federalizare pentru Office 365 și Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

@@ -1,24 +1,21 @@
 ---
 title: Probleme de asigurare a accesului în OneDrive și SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422391"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752476"
 ---
 # <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Probleme de asigurare a accesului în OneDrive și SharePoint
 
-Când un utilizator se adaugă un locatar existente de Office 365, ei pot vedea SharePoint Online sau OneDrive pentru afaceri icoane enumerate ca "Crearea" până la terminarea procesului de asigurare a accesului. Pentru conturile nou create, utilizatorii trebuie să faceţi sign in la portalul Office 365 cu contul lor, şi apoi faceţi clic pe OneDrive pentru a porni manual furnizarea de site-ul OneDrive.
+Când un utilizator este adăugat la o entitate găzduită Office 365 existente, ele pot vedea SharePoint Online sau OneDrive for Business pictograme listate ca "Parametrizarea" până când procesul de asigurare a accesului a fost finalizat. Pentru conturile nou create, utilizatorii trebuie să faceți sign in la centrul de administrare Microsoft 365 cu propriul cont, apoi faceți clic pe OneDrive pentru a porni manual furnizarea site-ului OneDrive.
   
-În cazul în care mai mult de 24 de ore au trecut de când aţi văzut prima dată această problemă, vă rugăm să vă un caz de suport. În multe cazuri, lucrăm deja la o soluţie. Vă rugăm să ne dea cel puţin 24 de ore pentru a finaliza o soluţie.
+Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să înregistrați un caz de suport. În multe cazuri, suntem deja de lucru pe o soluție. Vă rugăm să ne acordați cel puțin 24 de ore pentru a finaliza o soluție.
   
-

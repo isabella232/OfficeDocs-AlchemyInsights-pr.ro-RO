@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemelor cu deschidere cu Explorer
+title: Depanarea problemelor utilizând deschidere cu Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500227"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742745"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Remediați problemele cu deschidere cu Explorer
 
-Remediați problemele comune cu deschiderea o bibliotecă de documente SharePoint sau OneDrive utilizând comanda **Deschidere cu Explorer** : 
+Remediați problemele obișnuite cu deschiderea unei biblioteci de documente în SharePoint sau OneDrive utilizând comanda **Deschidere cu Explorer** : 
   
-- Utilizarea Internet Explorer 10 sau Internet Explorer 11. **Deschidere cu Explorer** nu este compatibil cu Microsoft Edge, Google Chrome, Firefox şi altele. **Deschidere cu Explorer** este dezactivată în toate browserele cu excepția Internet Explorer. 
+- Utilizați Internet Explorer 10 sau Internet Explorer 11. **Deschiderea cu Explorer** nu este compatibilă cu Microsoft Edge, Google Chrome, Firefox și alții. **Deschis cu Explorer** este dezactivat în toate browserele, cu excepția Internet Explorer. 
     
-- **Deschidere cu Explorer** nu este disponibilă în experienţa moderne pentru bibliotecile SharePoint. Utilizarea **vizualizării în File Explorer** în schimb. Selectaţi **opţiunile de vizualizare** \> **din File Explorer**. Din File Explorer nu este compatibil cu Microsoft Edge, Google Chrome, Firefox şi altele. **Din File Explorer** în disponibilă numai în Internet Explorer. 
+- **Deschidere cu Explorer** nu este disponibilă în experiența modernă pentru bibliotecile SharePoint. Utilizați **vizualizare în Explorer în** schimb. Selectați vizualizare **Opțiuni** \> vizualizare **în Explorer**. Vizualizarea în File Explorer nu este compatibilă cu Microsoft Edge, Google Chrome, Firefox și alții. **Vizualizare în Explorer** disponibil numai în Internet Explorer. 
     
-- Asiguraţi-vă că se execută serviciul WebClient. În caseta de căutare Windows, a alerga de tip, selectaţi Run desktop app, tip services.msc, şi apoi apăsaţi Enter. Derulaţi în jos serviciu WebClient şi asiguraţi-vă că coloana **stare** afişează "Running." Dacă nu, faceţi dublu clic pe servicii, faceţi clic pe **Start**şi apoi faceţi clic pe **OK**. (Trebuie mai întâi să activați serviciul prin selectarea fie **Manual** , fie **automat** în caseta de **tip Startup** .) 
+- Asigurați-vă că serviciul WebClient se execută. În caseta de căutare Windows, tastați Run, selectați aplicația executare desktop, tastați Services. msc, apoi apăsați Enter. Derulați în jos la serviciul WebClient și asigurați-vă că coloana de **stare** afișează "running". Dacă nu, faceți dublu clic pe serviciu, faceți clic pe **Start**, apoi faceți clic pe **OK**. (Este posibil să fie necesar să activați mai întâi serviciul selectând **manual** sau **automat** în caseta **tip Startup** .) 
     
 > [!NOTE]
-> O bibliotecă de deschidere în File Explorer este la îndemână dacă aveţi nevoie pentru a copia sau muta mai multe fişiere şi foldere, o dată, dar în cazul în care doriţi să lucraţi în mod regulat în bibliotecă, vă recomandăm sincronizarea-l. Pentru a depana probleme de deschidere în File Explorer, consultaţi [deschis în Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Pentru informaţii despre configurarea sincronizării, consultaţi [SharePoint sincronizare fişiere cu noul client de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> Deschiderea unei biblioteci în Explorer este utilă dacă trebuie să copiați sau să mutați mai multe fișiere și foldere o dată, dar dacă doriți să lucrați în mod regulat în bibliotecă, vă recomandăm să o sincronizați. Pentru a depana problemele de deschidere în Explorer, consultați [Deschidere în Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Pentru informații despre configurarea sincronizării, consultați [sincronizarea fișierelor SharePoint cu noul client de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Vă rugăm să consultaţi articolul [cum se utilizează comanda "deschidere cu Explorer" pentru a depana probleme în SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) pentru mai multe informaţii. 
+Vă rugăm să consultați articolul [se utilizează comanda deschidere cu Explorer pentru a depana probleme în SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) pentru mai multe informații. 
   
 

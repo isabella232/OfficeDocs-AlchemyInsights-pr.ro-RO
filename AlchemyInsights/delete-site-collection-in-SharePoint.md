@@ -1,6 +1,6 @@
 ---
-title: Ştergeţi o colecţie de site-ul SharePoint
-ms.author: kirks
+title: Ștergeți o colecție de site-uri în SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513119"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748192"
 ---
-# <a name="delete-a-site-collection"></a>Ştergeţi o colecţie de site-ul
+# <a name="delete-a-site-collection"></a>Ștergerea unei colecții de site-uri
 
-Atunci când ai, globală sau SharePoint admin în Office 365, ştergeţi un site (anterior numit o colecţie de"site"), este mutat în Coșul de reciclare al colecției de site-uri şi păstrate pentru 93 zile. 
+Când, ca un administrator global sau SharePoint în Office 365, ștergeți un site (denumit anterior "colecție de site-uri"), este mutat la colecția de site-ul de reciclare Coșul și păstrate pentru 93 zile. 
 
-Atunci când ştergeţi un site, totul în cadrul acestuia se elimină inclusiv:
+Când ștergeți un site, tot ce se află în interiorul acestuia este șters, inclusiv:
 
-- Bibliotecile de documente şi fişiere.
-- Listele şi lista datelor.
-- Setări site şi istorie.
-- Orice subsite-urile și conținutul lor.
+- Biblioteci de documente și fișiere.
+- Listele și datele listei.
+- Setările site-ului și istoricul.
+- Orice sub-site-uri și conținutul lor.
 
-Ar trebui să notifice adminii site-ului şi nici proprietarii de subsite-ul înainte de a şterge un site-ul astfel încât să poate muta datele lor spre o altă locaţie, şi spune, de asemenea, utilizatorii atunci când site-urile vor fi sterse. 
+Ar trebui să notifice administratorii site-ului și orice proprietari de subsite înainte de a șterge un site astfel încât să poată muta datele lor într-o altă locație, și, de asemenea, spune utilizatorilor atunci când site-urile vor fi șterse. 
 
-Pentru informaţii suplimentare, consultaţi [şterge o colecţie de site-ul](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Pentru mai multe informații, consultați [ștergerea unei colecții de site-](https://docs.microsoft.com/sharepoint/delete-site-collection)uri. 

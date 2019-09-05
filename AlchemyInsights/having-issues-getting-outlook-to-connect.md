@@ -1,5 +1,5 @@
 ---
-title: Au probleme obtinerea Outlook să se conecteze?
+title: Aveți probleme în obținerea conectării Outlook?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,23 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 0f576239078d9807dbf0b11d7d705f1b7d56acca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 024aa4d8b747af61f9253b40e2edbad9f6df77d9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523199"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735689"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Au probleme obtinerea Outlook să se conecteze?
+# <a name="having-issues-getting-outlook-to-connect"></a>Aveți probleme în obținerea conectării Outlook?
 
-Ne-am detectat că Outlook nu este configurat pentru a funcţiona corect în cadrul domeniului următoarele:
+Am detectat că Outlook nu este configurat să funcționeze corect sub următorul domeniu (e):
   
 {HealthCheckString}
   
-NS sau CNAME records a setărilor de domeniu (DNS) nu sunt corect setup. Puteți consulta [Actualizarea înregistrărilor DNS în Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) pentru instrucțiuni detaliate. 
+Înregistrările NS sau CNAME ale setărilor de domeniu (DNS) nu se configurează corect. Se poate referi la [crearea înregistrărilor DNS la orice furnizor de găzduire DNS pentru Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pentru instrucțiuni detaliate. 
   
 Pentru a remedia problema, accesați pagina [Domenii](https://admin.microsoft.com/adminportal/home#/Domains) din Centrul de administrare Microsoft 365 și vă vom ajuta în acest sens. 
-  
-[Consultați Întrebările frecvente despre domenii](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) pentru alte soluții uzuale. 
+
   
 

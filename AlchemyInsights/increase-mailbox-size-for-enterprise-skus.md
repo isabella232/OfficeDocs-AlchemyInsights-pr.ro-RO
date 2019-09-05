@@ -1,5 +1,5 @@
 ---
-title: Creşte dimensiunea cutiei poştale pentru Enterprise SKU
+title: Măriți dimensiunea cutiei poștale pentru Enterprise SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499435"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739289"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ce să fac dacă dimensiunea cutiei poştale este deja 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ce să faceți dacă dimensiunea cutiei poștale este deja 100GB
 
-Cu un plan de E3 sau E5, dimensiunea cutiei poştale este deja 100 GB şi nu există nici o modalitate de a creşte. În schimb, şterge vechi de e-mail, sau transforma pe e-mail arhivare pentru a îl depozitaţi în nor. 
+Cu un plan de E3 sau E5, dimensiunea cutiei poștale este deja 100 GB, și nu există nici o modalitate de a crește. În schimb, ștergeți e-mailul vechi sau activați arhivarea prin e-mail pentru a o stoca în cloud. 
   
-Pentru a activa Arhivarea e-mail:
+Pentru a activa Arhivarea prin e-mail:
   
-1. În centrul de administrare Microsoft 365, du-te la **Admin Centre** \> **schimb**. 
+1. În Microsoft 365 Admin Center, du-te la **admin Centre** \> de **schimb**. 
     
-2. Alege **Destinatarii** \> **cutiile poştale**, şi selectaţi o cutie poştală. 
+2. Alegeți **** \> **cutiile poștale**destinatari și selectați o cutie poștală. 
     
-3. În panoul de detalii în **Loc Arhiva**, alegeti **Enable**. 
+3. În panoul de detalii din **Arhiva în loc**, alegeți **Activare**. 
     
-4. După câteva minute, un folder nou va apărea în dumneavoastră utilizator Outlook pe web numit *În locul Arhiva* sau în Outlook app numit *Online Archive - \<numele\> * . Utilizator poate trageţi şi plasaţi e-mail la Arhiva. 
+4. După câteva minute, un folder nou va apărea în Outlook-ul utilizatorului pe web numit *arhivă în loc* , sau în Outlook app numit * \<online Archive-Name\> * . Utilizatorul poate drag and drop e-mail la arhivă. 
     
-Puteţi accesa o cantitate nelimitată de stocare pentru arhivare. Pentru a afla mai multe, consultaţi [Enable archiving nelimitat](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Puteți accesa o cantitate nelimitată de spațiu de stocare pentru arhivare. Pentru a afla mai multe, consultați [activați arhivarea nelimitată](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

@@ -1,6 +1,6 @@
 ---
-title: Lipsă de flux de lucru nu a reuşit pentru a activa
-ms.author: kirks
+title: Flux de lucru lipsă nu a reușit să activați
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,37 +8,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543937"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753808"
 ---
-# <a name="missing-workflow-failed-to-activate"></a>Lipsă de flux de lucru nu a reuşit pentru a activa
+# <a name="missing-workflow-failed-to-activate"></a>Flux de lucru lipsă nu a reușit să activați
 
-Într-o colecţie de site-ul Microsoft SharePoint, nu puteţi adăuga un flux de lucru reutilizabil la nivel global (cum ar fi "aprobare - SharePoint 2010") o listă sau o bibliotecă.
+Într-o colecție de site-ul Microsoft SharePoint, nu puteți adăuga un flux de lucru reutilizabile global (cum ar fi "aprobare-SharePoint 2010") la o listă sau bibliotecă.
   
-Pentru a rezolva această problemă, urmaţi aceşti paşi: 
+Pentru a rezolva această problemă, urmați acești pași: 
   
-1. Deschide site-ul rădăcină din colecția de site-ul în SharePoint Designer 2013.
+1. Deschideți site-ul rădăcină al colecția de site-uri în SharePoint Designer 2013.
   
-2. Cu **Site-ul obiectele**, selectați **fluxuri de lucru**. 
+2. Sub **obiecte site**, selectați **fluxuri**de lucru. 
   
-3. În secţiunea **noua** de panglica de **fluxuri de lucru** , selectaţi **Flux de lucru reutilizabil**. 
+3. În secțiunea **nouă** a panglicii **fluxurilor** de lucru, selectați **flux de lucru reutilizabile**. 
   
-4. Formular **Creare flux de lucru reutilizabil** , introduceţi numele ** *Repair2010* **. Pentru **Platforma de tip**, faceţi clic pe **Flux de lucru SharePoint 2010**, şi apoi faceţi clic pe **OK**. 
+4. În formularul **Creare flux de lucru reutilizabile** , introduceți numele * * *Repair2010* * *. Pentru **tip de platformă**, faceți clic pe **SharePoint 2010 flux de lucru**, și apoi faceți clic pe **OK**. 
   
-1. În secţiunea **Salvare** de panglica de **flux de lucru** , selectaţi **Publicare**. 
+1. În secțiunea **Salvare** a panglicii **fluxului de lucru** , selectați **Publicare**. 
   
-2. În secţiunea de **administrare** a panglicii de **flux de lucru** , selectaţi **Publica la nivel global**. În casetă de dialog de confirmare care apare, selectaţi **OK**. 
+2. În secțiunea **gestionare** a panglicii **fluxului de lucru** , selectați **Publicare globală**. În caseta de dialog de confirmare care apare, selectați **OK**. 
   
-3. Într-un browser web, localizați site-ul rădăcină al colecției de site-uri, şi apoi accesa **Site-ul setările** \> **Caracteristici de colectare site-ului**. Apoi, comuta caracteristica de **fluxuri de lucru** : 
+3. Într-un browser web, localizați site-ul web rădăcină al colecției de site-uri, apoi accesați **caracteristicile de colecție**site-ul de **Setări** \> site. Apoi, comutați caracteristica **fluxuri** de lucru: 
   
-· În cazul în care funcţia este *activ* , faceţi clic pe **Dezactivare,** şi apoi faceţi clic pe **Activare**. 
+· Dacă caracteristica este *activată* , faceți clic pe **Dezactivare,** apoi faceți clic pe **Activare**. 
   
-· În cazul în care funcţia este *dezactivata* , faceţi clic pe **Activare**. 
+· Dacă caracteristica este *dezactivată* , faceți clic pe **Activare**. 
   
-Pentru mai multe informaţii vă rugăm să consultaţi următorul [articol](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Pentru mai multe informații vă rugăm să consultați următorul [articol](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

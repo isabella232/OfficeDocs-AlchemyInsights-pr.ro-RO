@@ -1,5 +1,5 @@
 ---
-title: Instalarea office pe un Server Terminal - fără licenţă
+title: Instalarea Office pe un terminal server-fără licență
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498427"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735401"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Instalarea Office pe un Server Terminal
+# <a name="installing-office-on-a-terminal-server"></a>Instalarea Office pe un server terminal
 
-Pentru implementarea Office 365 ProPlus pe un Windows Server folosind Remote Desktop servicii (RDS), fostă numit Terminal Services:
+Pentru implementarea Office 365 ProPlus pe un Windows Server utilizând consolidare servicii Desktop la distanță (RDS), denumit anterior Terminal Services:
   
-- Trebuie să aveţi un plan de Office 365 care include Office 365 ProPlus, cum ar fi Office 365 Intreprindere E3 sau Intreprindere E5. Planuri Office 365 Business si Office 365 Business Premium nu includ Office 365 ProPlus.
+- Trebuie să aveți un plan Office 365 care include Office 365 ProPlus, ar fi Office 365 Enterprise E3 sau Enterprise E5. Planurile Office 365 Business și Office 365 Business Premium nu includ Office 365 ProPlus.
 
-- Aveţi nevoie pentru a permite [Activarea shared calculator](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Trebuie să activați [activarea computerului partajat](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Dacă doriţi să instalaţi Office 365 ProPlus pe RDS la portalul Office 365, ***care utilizează setările de instalare***, urmaţi aceşti paşi:
+Dacă doriți să instalați Office 365 ProPlus pe RDS de la centrul de administrare Microsoft 365, ***care utilizează setările de instalare implicite***, urmați acești pași:
   
-1. Verifica ce plan de Office 365 care aveţi. [Afla cum](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Verificați ce Office 365 plan aveți. [Aflați](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Dacă este necesar, trecerea la o diferite Office 365 planul. [Afla cum](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Dacă este necesar, comutați la un alt plan Office 365. [Aflați](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. În cazul în care biroul este deja instalat pe serverul RDS folosind orice alte planuri Office 365, dezinstalaţi-l. De exemplu, de a merge la panoul de Control \> dezinstala un program. Uninstall folosire [Microsoft Support si asistent de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy) în cazul în care se execută în probleme.
+3. Dacă Office este deja instalat pe serverul RDS utilizând orice alte planuri de Office 365, dezinstalați-l. De exemplu, mergând la panoul \> de control Dezinstalați un program. Dezinstalați utilizând [asistența Microsoft și asistentul de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy) dacă executați probleme.
 
-4. Pe serverul RDS, faceţi sign in la portalul Office 365 cu contul de administrator şi [instala Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Pe serverul RDS, conectați-vă la centrul de administrare Microsoft 365 cu contul de administrator și [Instalați Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. După ce este instalat Office, ***nu deschideţi sau faceţi sign in*** la orice aplicatii de birou.
+5. După ce Office este instalat, ***nu deschideți sau faceți sign in*** la orice aplicații Office.
 
-6. Pe serverul RDS, permite activarea computer partajat prin editarea registry urmând aceşti paşi:
+6. Pe serverul RDS, activați activarea computerului partajat editând registry urmând acești pași:
 
-1. Faceţi clic dreapta pe butonul de Windows în colţul din stânga jos a ecranului, şi selectaţi Executare. În Deschidere cutie, tip **regedit**, şi apoi selectaţi OK.
+1. Faceți clic dreapta pe butonul Windows din colțul din stânga jos al ecranului și selectați executare. În caseta Deschidere, tastați **regedit**, apoi selectați OK.
 
-2. Selectați Da când vi se solicită să permită Registry Editor pentru a face modificări la aparatul dvs.
+2. Selectați Da când vi se solicită să permiteți Registry Editor să facă modificări pe dispozitiv.
 
-3. În Registry Editor, adăugaţi o valoare şir de **SharedComputerLicensing** cu o setare de 1 sub HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. În editorul de registry, adăugați o valoare șir de **Sharedcomputerlicensing** cu o setare de 1 sub HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Pe serverul RDS, ***conectaţi-vă ca un utilizator final*** şi [să verifice că shared calculator activation is enabled pentru Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Pe serverul RDS, ***Conectați-vă ca utilizator final*** și [Verificați că activarea computerului partajat este activată pentru Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Pentru mai multe detalii pe premise, instrucţiuni de configurare şi îndrumări cu privire la instalări particularizate utilizând instrumentul de implementare Office, vă rugăm să consultaţi [Implementaţi Office 365 ProPlus folosind Remote Desktop servicii](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Pentru mai multe detalii despre cerințe preliminare, instrucțiuni de instalare și îndrumare pe instalări particularizate utilizând instrumentul de implementare Office, consultați [implementarea office 365 ProPlus utilizând consolidare servicii Desktop la distanță](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Pentru a rezolva erorile legate de shared calculator activare, vă rugăm să consultaţi [Depanarea problemelor cu activare shared calculator pentru Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Pentru a remedia erorile legate de activarea computerului partajat, consultați [Depanarea problemelor cu activarea computerului partajat pentru Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

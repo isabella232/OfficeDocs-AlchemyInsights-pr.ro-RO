@@ -1,6 +1,6 @@
 ---
-title: Mesaj de eroare Metadata Service gestionat
-ms.author: kirks
+title: Mesaj de eroare serviciu metadate gestionate
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542023"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754312"
 ---
-# <a name="managed-metadata-service-error-message"></a>Mesaj de eroare Metadata Service gestionat
+# <a name="managed-metadata-service-error-message"></a>Mesaj de eroare serviciu metadate gestionate
 
-Când deschide depozitul de termeni, este posibil să vedeţi un mesaj de eroare: "Managed Metadata Service sau conexiunea nu este disponibil momentan. Rezervor de aplicații sau serviciul Web de metadate gestionate poate nu au fost demarate. Vă rugăm să contactaţi administratorul dvs."
+Când deschideți depozitul de termeni, este posibil să vedeți un mesaj de eroare: "serviciul de metadate gestionate sau conexiunea nu este disponibil în prezent. Este posibil ca rezervorul de aplicații sau serviciul web de metadate gestionate să nu fi fost pornit. Vă rugăm să contactați administratorul. "
   
-În cazul în care mai mult de 24 de ore au trecut de când aţi văzut prima dată această problemă, vă rugăm să vă un caz de suport. Noi înţelegem că 24 de ore poate părea o lungă perioadă de timp. În multe cazuri, deja lucrăm la o soluţie aşa că vă rugăm să ne dea cel puţin 24 de ore.
+Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să înregistrați un caz de suport. Am înțeles că 24 de ore poate părea o lungă perioadă de timp. În multe cazuri, suntem deja de lucru pe o soluție așa încât vă rugăm să ne dea cel puțin 24 de ore.
   

@@ -1,6 +1,6 @@
 ---
-title: Permisiunile de probleme în timpul migrării
-ms.author: kirks
+title: Probleme de permisiuni în timpul migrării
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554913"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752620"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Sincronizare profil utilizator şi foto
+# <a name="user-profile-and-photo-synchronization"></a>Sincronizarea profilului de utilizator și a fotografiilor
 
- **Profilul Photo Synchronization** - utilizatorii pot observa că lor fotografia de profil nu este sincronizarea la SharePoint. Sau poate au încercat să actualizeze lor fotografia de profil şi fotografie încă apare ca fotografie veche. Pentru a asigura fotografia de profil arată cum era de aşteptat, utilizatorul va trebui să iniţieze o sincronizare de fotografie. 
+ **Profil Sincronizarea fotografiilor** -utilizatorii pot observa că fotografia lor de profil nu este sincronizarea la SharePoint. Sau, ele pot fi încercat să actualizeze fotografia lor de profil și fotografia încă apare ca fotografie vechi. Pentru a vă asigura că fotografia de profil Arată conform așteptărilor, utilizatorul va trebui să inițieze o sincronizare foto. 
   
-Pentru mai multe informaţii despre procesul de sincronizare photo, vizualizaţi [informaţii despre profilul poze pentru sincronizarea în Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Pentru mai multe informații despre procesul de sincronizare a fotografiilor, consultați [informații despre sincronizarea imaginii de profil în Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Sincronizare profil** - în momentul în care este necesar pentru a finaliza o sincronizare profil depinde de numărul de modificări (de lucru) AD Import Job a procesului. În cazul în care există multe schimbări, cronometrare are o mulţime de lucru pentru a face, şi că va dura mai mult pentru ca modificările să fie reflectate în aplicația de profil utilizator. În cazul în care lucrarea cronometrată are un volum mic de lucru, modificările se vor reflecta în aplicația de profil utilizator mult mai rapid. 
+- **Sincronizarea profilului** -timpul necesar pentru finalizarea sincronizării profilului depinde de numărul de modificări (de lucru) pe care trebuie să le proceseze lucrarea de import AD. Dacă există multe modificări, activitatea de cronometrare are o mulțime de lucru de făcut și va dura mai mult pentru ca modificările să se reflecte în aplicația profil utilizator. Dacă activitatea de cronometrare are un volum mic de lucru de făcut, modificările vor fi reflectate în aplicația profil utilizator mult mai rapid. 
   
-Pentru mai multe informaţii despre procesul de sincronizare profil, consultaţi [informaţiile despre sincronizare profil utilizator în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Pentru mai multe informații despre procesul de sincronizare profil, consultați [informații despre sincronizarea profilului de utilizator în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Actualizare profil în biroul îngropa** - adânci utilizatorii pot gestiona profilul lor Office 365. Pentru mai multe informaţii, a se vedea [vedere şi actualizarea profilului în biroul îngropa](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Actualizare profil în Office Delve** -Delve utilizatorii pot gestiona lor Office 365 profil. Pentru mai multe informații, consultați [vizualizarea și actualizarea profilului în Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

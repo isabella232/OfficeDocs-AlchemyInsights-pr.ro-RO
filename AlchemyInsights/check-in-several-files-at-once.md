@@ -1,6 +1,6 @@
 ---
-title: Check-in mai multe fişiere simultan
-ms.author: kirks
+title: Verificați în mai multe fișiere simultan
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 70b441ca4c8751a84603e923adabd56c87f3ea92
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631738"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755032"
 ---
-# <a name="check-in-several-files-at-once"></a>Check-in mai multe fişiere simultan
+# <a name="check-in-several-files-at-once"></a>Verificați în mai multe fișiere simultan
 
-Pentru a verifica în mai multe fişiere în foldere mai multe într-o bibliotecă SharePoint, selectaţi **Arată toate elementele fără dosare** în **dosare** pe **Editare Vezi** pagina. 
+Pentru a verifica în mai multe fișiere în mai multe foldere într-o bibliotecă SharePoint, selectați **Afișați toate elementele fără foldere** sub **foldere** pe pagina de **Vizualizare Editare** . 
   
- **Notă**: SharePoint Online si Office 365 nu în prezent permit mai multe fişiere atunci când verificarea în cu modul de moderne. 
+ **Notă**: SharePoint Online și Office 365 nu permit în prezent mai multe fișiere atunci când se verifică cu modul modern. 
   
-Vezi mai multe intrebari frecvente despre check-in/check-out, consultaţi [Top intrebari despre check-out, check-in, şi versiuni](https://go.microsoft.com/fwlink/?linkid=2018786).
+Vedeți mai multe întrebări frecvente despre Check-in/Check-out, consultați [întrebări de top despre Check-in, Check-in și versiuni](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

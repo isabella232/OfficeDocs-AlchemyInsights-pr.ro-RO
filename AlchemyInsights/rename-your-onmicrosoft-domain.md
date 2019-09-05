@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666492"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741233"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Redenumiți domeniul onmicrosoft.com
 
  **Nu se poate redenumi domeniul onmicrosoft după înscriere.** De exemplu, dacă domeniul inițial pe care l-ați ales a fost *fourthcoffee.onmicrosoft.com*, nu îl puteți modifica pentru a fi *fabrikam.onmicrosoft.com*. Pentru a utiliza un alt domeniu onmicrosoft.com, va trebui să începeți un abonament nou cu Office 365.
   
-Dacă doriți să utilizați un domeniu particularizat, ar fi *contoso.com* , puteți [adăuga unul pe care îl dețineți](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) sau [Cumpărați unul de la Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Dacă doriți să utilizați un domeniu particularizat, ar fi *contoso.com* , puteți [adăuga unul pe care îl dețineți](https://docs.microsoft.com/office365/admin/setup/add-domain) sau [Cumpărați unul de la Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

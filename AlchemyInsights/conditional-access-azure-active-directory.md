@@ -1,26 +1,26 @@
 ---
-title: Acces condiţionat cu Intune
-ms.author: kirks
+title: Acces condiționat cu Intune
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520176"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755572"
 ---
-# <a name="conditional-access"></a>Acces condiţionat
+# <a name="conditional-access"></a>Acces condiționat
 
-Acces condiţionat este o capabilitate de Azure Active Directory. Cu acces condiționat, aveţi posibilitatea să implementaţi automate acces control deciziile pentru accesul la aplicaţiile de nor bazate pe condiţii. Pentru mai multe informaţii, vă rugăm să vizitaţi [Configuring Location-Based politici](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Acces condiționat este o capacitate de Azure Active Directory. Cu acces condiționat, puteți implementa decizii automatizate de control al accesului pentru accesarea aplicațiilor cloud care se bazează pe condiții. Pentru mai multe informații, vă rugăm să vizitați [Configurarea politicilor bazate pe locație](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Ca un IT admin, se poate controla, de asemenea, accesul la resursele SharePoint și OneDrive bazat pe locațiile de rețea definită sau dispozitive, ave ț i încredere. Pentru mai multe informaţii, vă rugăm să vizitaţi link-urile de mai jos.
+Ca administrator IT, puteți, de asemenea, să controlați accesul la resursele SharePoint și OneDrive în funcție de locațiile de rețea definite sau de dispozitivele în care aveți încredere. Pentru mai multe informații, vă rugăm să vizitați link-urile de mai jos.
 
-- [Control acces la datele SharePoint Online si OneDrive bazate pe locaţie de reţea](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Controlați accesul la datele SharePoint Online și OneDrive bazate pe locația rețelei](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Control acces la dispozitive negestionată](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Controlul accesului de la dispozitive negestionate](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

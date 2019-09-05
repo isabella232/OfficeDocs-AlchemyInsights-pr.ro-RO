@@ -1,5 +1,5 @@
 ---
-title: Stabili sau modifica permisiunile folderului public
+title: Setați sau modificați permisiunile folderului public
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550167"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734681"
 ---
-# <a name="permissions-and-public-folders"></a>Permisiuni şi foldere publice
+# <a name="permissions-and-public-folders"></a>Permisiuni și foldere publice
 
-Puteţi modifica permisiunile pe folderele publice utilizând Outlook, centrul de administrare Exchange (EAC), sau PowerShell:
+Aveți posibilitatea să modificați permisiunile din folderele publice utilizând Outlook, centrul de administrare Exchange (EAC) sau PowerShell:
   
-- Pentru instrucţiuni de Outlook, [faceţi clic aici](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Pentru instrucțiuni Outlook, [Faceți clic aici](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- Pentru EAC, consultaţi [acest articol](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pentru instrucţiuni. Puteţi să faceţi clic [aici](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) pentru a naviga la EAC. 
+- Pentru EAC, consultați [acest articol](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pentru instrucțiuni. 
     
-- Pentru Powershell, consultaţi [acest articol](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pentru instrucţiuni privind utilizarea configura Add-PublicFolderClientPermission. Dacă aveţi nevoie de instrucţiuni pentru conectarea la Exchange Powershell, click [aici](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Pentru PowerShell, consultați [acest articol](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pentru instrucțiuni despre utilizarea Commandlet Add-PublicFolderClientPermission. Dacă aveți nevoie de instrucțiuni pentru a vă conecta la Exchange PowerShell, faceți clic [aici](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Dacă **utilizatorii externi nu pot trimite email-uri într-un Folder Public cu corespondenţa activată**, motivul ar putea fi că folderul public lipseşte permisiunile necesare pentru e-mail extern livrare. Se poate remedia acest lucru utilizând instrucţiunile Outlook [aici](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), sau PowerShell instrucţiuni [aici](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Dacă **utilizatorii externi nu pot trimite e-mailuri la un folder public activat pentru e-mail**, motivul ar putea fi că folderul public lipsește permisiunile necesare pentru livrarea de e-mail extern. Aveți posibilitatea să remediați acest lucru utilizând instrucțiunile Outlook [aici](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)sau instrucțiunile PowerShell [aici](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

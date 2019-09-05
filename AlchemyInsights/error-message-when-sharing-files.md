@@ -1,6 +1,6 @@
 ---
-title: Mesaj de eroare atunci când partajarea fişierelor
-ms.author: kirks
+title: Mesaj de eroare la partajarea fișierelor
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527303"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755968"
 ---
-# <a name="error-messages-when-sharing"></a>Mesaje de eroare atunci când schimbul de
+# <a name="error-messages-when-sharing"></a>Mesaje de eroare la partajarea
 
-Dacă primiţi un mesaj de eroare atunci când încearcă să împartă cu un utilizator externe, schimbul extern cel mai probabil nu este activat sau partajarea este setat pentru a permite nivelul de partajare de utilizator este de a încerca.
+Dacă primiți un mesaj de eroare atunci când încercați să partajați cu un utilizator extern, cel mai probabil partajarea externă nu este activată sau partajarea este setată pentru a nu permite nivelul de partajare utilizatorul încearcă.
   
-În centrul de administrare SharePoint nouă, faceţi clic pe **Partajare** din panoul din stânga. Alege nivelul de partajare vă doresc pentru a permite. Asiguraţi-vă că partajarea externă este activată pentru site-ul. 
+În noul centru de administrare SharePoint, faceți clic pe **Partajare** în panoul din stânga. Alegeți nivelul de partajare pe care doriți să-l permiteți. Asigurați-vă că partajarea externă este activată pentru site. 
   
-Dacă utilizatorul încearcă să vă autentificaţi primeşte un mesaj de eroare, vă rugăm să încercaţi următorii paşi:
+Dacă utilizatorul încearcă să se conecteze primește un mesaj de eroare, vă rugăm să încercați următorii pași:
   
-- Asiguraţi-vă că utilizatorul a acceptat invitaţia partajare care a fost trimis.
+- Asigurați-vă că utilizatorul a acceptat invitația de partajare care a fost trimisă.
     
-- Asiguraţi-vă că utilizatorul este de a accepta invitaţia cu adresa de e-mail a fost trimis.
+- Asigurați-vă că utilizatorul acceptă invitația cu adresa de e-mail la care a fost trimisă.
     
 

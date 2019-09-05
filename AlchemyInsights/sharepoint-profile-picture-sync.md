@@ -1,30 +1,30 @@
 ---
-title: Sincronizare profil
-ms.author: kirks
+title: Sincronizarea profilului
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d3b8a40c0612ce76423d5adce02ebd6c597d2ad2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502927"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750081"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Când sincronizează modificările de profil aplicația de profil utilizator SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Când se modifică profilul meu sincronizarea la aplicația profil de utilizator SharePoint?
 
-Profil poze pentru sincronizarea în SharePoint Online necesită un utilizator de acţiune pentru a iniţia sync lor foto. Nu există nici o sincronizarea automată de fotografii la SharePoint Online. SharePoint Online sincronizează numai fotografii din Exchange Online, nu Azure Active Directory.
+Sincronizarea imaginii de profil în SharePoint Online necesită acțiunea unui utilizator pentru a iniția sincronizarea fotografiei lor. Nu există nici o sincronizare automată a fotografiilor la SharePoint Online. SharePoint Online sincronizează numai fotografii din Exchange Online, nu Azure Active Directory.
 
-Dacă un utilizator nu a efectuat o acţiune care ar prompt o sincronizare sau le-au actualizat lor poza de profil si noi unul nu apare în SharePoint Online, utilizatorul poate fi necesar să cere-l să sync. Iată cum pot face acest lucru:
+Dacă un utilizator nu a efectuat o acțiune care ar solicita o sincronizare sau le-au actualizat imaginea de profil și unul nou nu apare în SharePoint Online, utilizatorul poate avea nevoie pentru a solicita sincronizarea. Iată pot face acest lucru:
 
-- Deschideţi un browser web într-o sesiune In privat sau Incognito şi [Du-te la Office.com](http://www.office.com/).
+- Deschideți un browser Web într-o sesiune în-privat sau incognito și [accesați Office.com](http://www.office.com/).
 
-- Autentificaţi-vă prin munca lor sau scoala cont, şi faceţi clic pe ţiglă OneDrive sau SharePoint.
+- Conectați-vă cu contul lor de lucru sau școală și faceți clic pe dala OneDrive sau SharePoint.
 
-- [Adauga poza ta de profil la Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+- [Adăugați fotografia de profil la Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- [Informaţii despre profilul poze pentru sincronizarea în Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+- [Informații despre sincronizarea imaginii de profil în Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
 

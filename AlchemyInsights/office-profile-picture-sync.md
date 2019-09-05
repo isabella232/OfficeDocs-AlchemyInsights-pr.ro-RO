@@ -1,33 +1,33 @@
 ---
-title: Sincronizare poza de profil a utilizatorului
-ms.author: kirks
+title: Sincronizarea imaginii de profil a unui utilizator
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521867"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753867"
 ---
-# <a name="sync-a-users-profile-picture"></a>Sincronizare poza de profil a utilizatorului
+# <a name="sync-a-users-profile-picture"></a>Sincronizarea imaginii de profil a unui utilizator
 
-Puteţi adăuga sau schimba fotografia de profil în Office 365 din [Office.com](http://www.office.com), sau în timp ce utilizaţi aplicaţii Office 365 pe computer sau într-un browser pe telefonul dvs. Fotografia va apărea peste tot, există un cerc de fotografie de profil în Office 365.
+Aveți posibilitatea să adăugați sau să modificați fotografia de profil în Office 365 din [Office.com](http://www.office.com)sau în timp ce utilizați aplicațiile Office 365 pe computer sau într-un browser de pe telefon. Fotografia va apărea peste tot acolo ' un cerc foto profil în Office 365.
 
-Pentru a adăuga fotografia de profil la Office 365 pentru afaceri
+Pentru a adăuga fotografia de profil la Office 365 pentru firme
 
-- Găsi o fotografie pe care doriţi să folosiţi şi stocaţi-o pe computer, OneDrive sau altă locaţie, puteţi ajunge la
+- Găsiți o fotografie pe care doriți să o utilizați și stocați-o pe computer, pe OneDrive sau în altă locație pe care o puteți obține
 
-- Înscrie în Office 365 cu munca sau scoala cont la [office.com](http://www.office.com).
+- Conectați-vă la Office 365 cu contul de la serviciu sau de la școală la [Office.com](http://www.office.com).
 
-- Selecteaza cercul în colţul din dreapta a paginii care arată iniţialele dumneavoastră sau o icoana a unei persoane.
+- Selectați cercul din colțul din dreapta sus al paginii care afișează inițialele sau o pictogramă a unei persoane.
 
-- În meu panoul de conturi, selecteaza cercul care arată iniţialele dumneavoastră sau o icoana a unei persoane. Schimba fotografia în pop-up care apare.
+- În panoul conturi mele, selectați cercul care afișează inițialele sau o pictogramă a unei persoane. Schimbați fotografia în fereastra pop-up care apare.
 
-Notă: Dacă aţi încărcat deja o imagine poate doriţi să încercaţi să faceţi clic pe ţiglă SharePoint sau OneDrive pentru a re-sincronizare acea imagine.
+Notițe: dacă ați încărcat deja o imagine, poate doriți să încercați să faceți clic pe dala SharePoint sau OneDrive pentru a resincroniza acea imagine.
 
-Pentru mai multe informaţii, accesaţi [informaţii despre profilul poze pentru sincronizarea în Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US).
+Pentru mai multe informații, vă rugăm să vizitați [informații despre sincronizarea imaginii de profil în Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

@@ -1,6 +1,6 @@
 ---
-title: Infrastructura publicare cu un Site de comunicare
-ms.author: kirks
+title: Publicarea infrastructurii cu un site de comunicare
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/14/2019
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: fb6607f90369f2b98aa3e957132c8c97182cc13b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 66e133f427913282e21fb8edb9f9b2b2294734f8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553682"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752404"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastructura publicare cu un Site de comunicare
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Publicarea infrastructurii cu un site de comunicare
 
 
-Activarea caracteristicii infrastructurii de publicare SharePoint Server este **neacceptat** cu site-uri de comunicare. 
+Activarea caracteristicii infrastructură de publicare SharePoint Server **nu este acceptată** cu site-uri de comunicare. 
   
-Pentru mai multe informaţii, consultaţi [Mutarea la publicarea site-uri de site-uri de comunicare](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Pentru mai multe informații, consultați [Mutarea de la site-uri de publicare la site-uri de comunicare](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 

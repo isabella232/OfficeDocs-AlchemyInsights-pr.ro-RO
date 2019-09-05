@@ -1,21 +1,21 @@
 ---
-title: 'OneDrive: Lipsă fişiere sau foldere'
-ms.author: kirks
+title: 'OneDrive: fișierele sau folderele lipsă'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: d111986696ba0977deed4309d267e3775916162b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521435"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753340"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Depanarea 'Prelucrare modific─ârile'
+# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Depanarea "procesarea modificărilor"
 
-Dacă vedeţi "Prelucrare schimbă" pentru o perioadă îndelungată de timp, ar putea fi pentru că aveţi un online dosar deschis, o mulţime de fişiere blocat într-o coadă, sau sincronizarea unui fișier foarte mare, vedea [OneDrive blocat pe prelucrarea](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
+Dacă vedeți "procesarea modificărilor" pentru o perioadă extinsă de timp, ar putea fi pentru că aveți un fișier online deschis, o mulțime de fișiere blocate într-o coadă sau un fișier foarte mare sincronizarea, consultați [OneDrive blocat la procesare](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
 
-Citiţi acest articol pentru a depana "Schimbări de procesare." Veţi vedea, de asemenea, acest mesaj în cazul în care aveţi un fişier care se schimbă tot timpul (cum ar fi un Outlook. PST fişier sau o bază de date). Aflaţi cum să [mutaţi fişierele de date Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) care îl utilizaţi în mod regulat din OneDrive.
+Citiți acest articol pentru a depana "procesarea modificărilor." Veți vedea, de asemenea, acest mesaj dacă aveți un fișier care se modifică tot timpul (cum ar fi o Outlook. PST sau o bază de date). Aflați să [mutați fișierele de date Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) pe care le utilizați în mod regulat din OneDrive.

@@ -1,5 +1,5 @@
 ---
-title: Swap vă clasic site-ul rădăcină, cu un site Modern
+title: Swap site-ul rădăcină clasic cu un site modern
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501091"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749272"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap vă clasic site-ul rădăcină, cu un site Modern
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap site-ul rădăcină clasic cu un site modern
 
-În cazul în care mediul vostru a fost creat înainte de aprilie 2019, puteţi schimba site-ul rădăcină a unui site modern utilizând Microsoft PowerShell:
+Dacă mediul a fost configurat înainte de aprilie 2019, aveți posibilitatea să modificați site-ul rădăcină la un site modern utilizând Microsoft PowerShell:
 
-- Dacă aveţi un alt site pe care doriţi să o utilizaţi ca site-ul rădăcină, puteţi înlocui (swap) rădăcină site-ul cu ea. 
-    - Utilizaţi [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pentru a schimba locaţia de un site cu un alt site în timp ce site-ul original de arhivare. Disponibil pentru echipa site-ului (nu este conectat la un grup) şi de site-ul de comunicare. 
+- Dacă aveți un site diferit pe care doriți să-l utilizați ca site-ul rădăcină, puteți înlocui [(swap) site-ul rădăcină](https://docs.microsoft.com/sharepoint/modern-root-site) cu ea. 
+    - Utilizați [Invoke-,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pentru a schimba locația unui site cu un alt site în timp ce arhivați site-ul original. Disponibil pentru ambele site-uri de echipă (nu sunt conectate la un grup) și site-ul de comunicare. 
 
-- Capabilităţi suplimentare vor fi introduse în curând care vă va permite să păstraţi folosind conţinut pe site-ul, dar conversia site-ul existent la un site de comunicare. 
+- Capacitățile suplimentare vor fi introduse în curând, care vă va permite să păstrați folosind conținutul de pe site-ul, dar converti site-ul existent la un site de comunicare. 
 >[!Important]
->Aceste capabilităţi va fi lansat treptat. Continuaţi pentru a verifica Office 365 centru de mesaje pentru actualizări. 
+>Aceste capacități vor fi laminate treptat. Continuați pentru a verifica Office 365 Message Center pentru actualizări. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Probleme cunoscute cu schimbarea site-uri
 
-- Site-ul ţintă poate returna o eroare "nu a fost găsit" (HTTP 404) pentru o perioadă scurtă de timp.
-- Conținutul va trebui să fie el scotocit din nou pentru a actualiza indexul de căutare. Nu există nici un pas manuală necesară - acest lucru se va face automat.
-- Nimic depinde şi de link-uri "statice" (cum ar fi fişiere fişier sincronizare și OneNote) va trebui să manual corectate.
-- În cazul în care site-ul sursă a fost un site de ştiri organizaţionale, Actualizaţi URL-ul.Obţineţi o listă de toate site-urile de ştiri organizatorice.
-- Proiect Server site-uri trebuie să fie validate pentru a se asigura că acestea sunt încă asociate corect.
+- Site-ul țintă poate returna o eroare "nu a fost găsit" (HTTP 404) pentru o perioadă scurtă de timp.
+- Conținutul va trebui să fie scotocit din nou pentru a actualiza indexul de căutare. Nu există nici un pas manual necesar-acest lucru se va face în mod automat.
+- Orice depinde de "static" link-uri (cum ar fi fișiere de sincronizare și fișiere OneNote) va trebui să fie corectate manual.
+- Dacă site-ul sursă a fost un site de știri organizaționale, actualizați URL-ul.Obțineți o listă cu toate site-urile de știri organizatorice.
+- Site-uri de proiect Server poate fi necesar să fie validate pentru a se asigura că acestea sunt încă asociate corect.
 
 
 

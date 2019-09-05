@@ -1,6 +1,6 @@
 ---
-title: Renunțare la o extragere
-ms.author: kirks
+title: Renunțați la un control
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ca494779e43ac84f5243d69ab579d8bc919be5f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512687"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755644"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Renunțare la extragere la o bibliotecă de documente
+# <a name="discard-a-check-out-from-a-document-library"></a>Renunțare la o verificare dintr-o bibliotecă de documente
 
-1. Faceţi clic dreapta pe fişierul pe care doriţi să renunțați la extragere.
+1. Faceți clic dreapta pe fișierul pe care doriți să renunțați la extragere.
     
-2. Faceţi clic pe **mai multe**, şi apoi faceţi clic pe **Renunțare la extragere**. 
+2. Faceți clic pe **mai multe**, apoi faceți clic pe **renunțare**la extragere. 
     
-3. Din caseta de dialog, faceţi clic pe **Renunțare la extragere** pentru a şterge a verifica. 
+3. Din caseta de dialog, faceți clic pe **renunțare** la extragere pentru a goli verificarea. 
     
-Pentru întrebări suplimentare despre Check-in şi check-out, a se vedea [Top intrebari despre check-out, check-in, şi versiuni](https://go.microsoft.com/fwlink/?linkid=2018786).
+Pentru întrebări suplimentare despre verificarea și verificarea, consultați [întrebări de top despre Check-out, Check-in și versiuni](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

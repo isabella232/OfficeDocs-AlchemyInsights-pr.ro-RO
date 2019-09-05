@@ -1,5 +1,5 @@
 ---
-title: 712 o listă de distribuire de conversie la un grup de Office 365
+title: 712 conversia unei liste de distribuire într-un grup Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516431"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738353"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Conversia unui grup de distribuire a unui grup de Office 365
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Conversia unui grup de distribuire într-un grup Office 365
 
-Puteţi converti grupuri de distribuire în Office 365 grupuri în cazul în care îndeplinesc anumite criterii. Pentru a converti un grup sau depanați probleme de conversie, consultaţi [Upgrade liste de distribuţie pentru Office 365 grupuri în Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
+Aveți posibilitatea să convertiți grupuri de distribuire la Office 365 grupuri dacă îndeplinesc anumite criterii. Pentru a converti un grup sau depanarea problemelor de conversie, consultați [listele de distribuire upgrade la Office 365 grupuri în Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

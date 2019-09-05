@@ -1,5 +1,5 @@
 ---
-title: Ai un "Parametru nu poate fi găsit" eroare?
+title: Ai o eroare ' parametru nu poate fi găsit '?
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523487"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739865"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrarea de e-mail de la sistemul de e-mail IMAP la Office 365
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrarea e-mail de la sistemul de e-mail IMAP la Office 365
 
-Pentru a migra de e-mail la un sistem de poştă electronică IMAP, vă rugăm să urmaţi acest proces: [migrarea IMAP în centrul de administrare Microsoft 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+Pentru a migra e-mailul dintr-un sistem de corespondență IMAP, urmați acest proces: [migrarea IMAP în centrul de administrare Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Multe organizaţii mari va trebui să planificaţi cu atenţie pentru a gestiona asteptarile utilizatorului. Articolul [ce trebuie să ştii despre migrarea cutiilor poştale IMAP la Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) va ajuta să gestiona schimbarea.
+Multe organizații mari vor trebui să planifice cu atenție pentru a gestiona așteptările utilizatorilor. [Ceea ce trebuie să știți despre migrarea cutiilor poștale IMAP la Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) articol vă va ajuta să gestionați modificarea.
 
-Vă rugăm, de asemenea, verificaţi pagina de [adopte Office 365 cu FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ajutor asistat cu migraţia, dacă eligibile.
+Vă rugăm să verificați, de asemenea, [adoptarea Office 365 cu FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) Page pentru ajutor asistat cu migrarea, dacă este eligibil.
   
 
-Vă rugăm, de asemenea, verificaţi pagina de [adopte Office 365 cu FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ajutor asistat cu migraţia, dacă eligibile.
+Vă rugăm să verificați, de asemenea, [adoptarea Office 365 cu FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) Page pentru ajutor asistat cu migrarea, dacă este eligibil.
   

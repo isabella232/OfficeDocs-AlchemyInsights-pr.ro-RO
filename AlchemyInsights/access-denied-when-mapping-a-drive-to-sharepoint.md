@@ -1,5 +1,5 @@
 ---
-title: Acces interzis atunci când o unitate de cartografiere SharePoint
+title: Acces refuzat când mapați o unitate la SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495871"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737489"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Remediați problemele cu bibliotecile SharePoint mapate la unităţi de reţea
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Remedierea problemelor cu bibliotecile SharePoint mapate la unitățile de rețea
 
-Atunci când navigaţi la reţea, este posibil să vedeţi unul dintre următoarele mesaje:
+Când navigați la o unitate de rețea mapate, este posibil să vedeți unul dintre următoarele mesaje:
   
-- **\\Traseul nu este accesibil. Nu ar putea avea permisiunea de a utiliza această resursă din reţea. Contactaţi administratorul de acest server pentru a afla dacă aveţi permisiunile de acces.**
+- **\\Calea nu este accesibilă. Este posibil să nu aveți permisiunea de a utiliza această resursă de rețea. Contactați administratorul acestui server pentru a afla dacă aveți permisiuni de acces.**
 
-- **Acces interzis. Înainte de a deschide fişiere în această locaţie, vă trebuie în primul rând adăuga site-ul web în lista de situri de încredere, parcurge site-ul, şi selectaţi opţiunea să login automat.**
+- **Acces refuzat. Înainte de a deschide fișiere în această locație, trebuie să adăugați mai întâi site-ul web la lista de site-uri de încredere, navigați la site-ul web și selectați opțiunea de conectare automată.**
 
-[Primi ajutor depanare mapate unităţi de reţea](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Obțineți ajutor pentru depanarea unităților de rețea mapate](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Maparea unei biblioteci ca o unitate de reţea este temporară şi acceptate doar în Internet Explorer. În schimb, [sincroniza SharePoint fişiere cu noul client de sincronizare OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) care include [Fişiere On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Acces la toate fişierele în OneDrive fără a utiliza spaţiu de stocare locale.
+Cartografierea unei biblioteci ca unitate de rețea este temporară și acceptată numai în Internet Explorer. În schimb, [Sincronizați fișierele SharePoint cu noul client de sincronizare OneDrive,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) care include [fișiere la cerere](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Accesați toate fișierele din OneDrive fără a utiliza spațiul de stocare local.
   

@@ -1,5 +1,5 @@
 ---
-title: Flux de lucru nu este de plecare
+title: Fluxul de lucru nu pornește
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557994"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738101"
 ---
-# <a name="workflow-is-not-starting"></a>Flux de lucru nu este de plecare
+# <a name="workflow-is-not-starting"></a>Fluxul de lucru nu pornește
 
-- Fluxuri de lucru SharePoint 2010 şi SharePoint 2013 nu incep.
+- SharePoint 2010 și SharePoint 2013 fluxuri de lucru nu pornesc.
 
-    - În cazul în care nu începe fluxul de lucru, poate fi o problemă temporară de serviciu în cazul în care utilizatorii pot experienţă întârzieri intermitentă cu progresul de flux de lucru. Verifica [Serviciul sănătate tabloul de bord](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a vedea dacă organizaţia dumneavoastră este afectat.
+    - Dacă fluxul de lucru nu pornește, este posibil să existe o problemă de serviciu temporară în care utilizatorii pot experimenta întârzieri intermitente cu progresul fluxului de lucru. Verificați [tabloul de bord sănătate Service](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) pentru a vedea dacă organizația este afectată.
 
-    - În cazul în care mai mult de 24 de ore au trecut de când aţi văzut prima dată această problemă, vă rugăm să vă un bilet de sprijin. În multe cazuri, lucrăm deja la o soluţie. Vă rugăm să ne dea cel puţin 24 de ore pentru a finaliza o soluţie.
+    - Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să înregistrați un bilet de suport. În multe cazuri, suntem deja de lucru pe o soluție. Vă rugăm să ne acordați cel puțin 24 de ore pentru a finaliza o soluție.
 
-- Fluxuri de lucru SharePoint 2010 întârziat pe start.
+- Fluxurile de lucru SharePoint 2010 întârziate la pornire.
 
-    - Acest lucru se întâmplă în cazul în care fluxul de lucru este declanşată în loturi mari. (de exemplu, când mai multe elemente se adaugă la o dată).
+    - Acest lucru se întâmplă dacă fluxul de lucru este declanșat în loturi mari. (de exemplu, atunci când mai multe elemente sunt adăugate la o dată).
 
-    - Fluxurile de lucru nu sunt concepute pentru a rula în timp real, astfel încât o întârziere este comportamentul de design.
+    - Fluxurile de lucru nu sunt proiectate să ruleze în timp real, astfel încât o întârziere este un comportament de proiectare.
 
-   -  În cazul în care fluxul de lucru este complex extensibil obiect Markup Language (XMOL), compilaţie poate fi lent. Verificaţi [acest](https://support.microsoft.com/en-us/kb/3043697) articol.
+   -  Dacă fluxul de lucru este complex extensibil obiect Markup Language (XMOL), compilarea poate fi lentă. Verificați [acest](https://support.microsoft.com//kb/3043697) articol.
 
-    - Ar simplifica fluxul de lucru sau redesign-l utilizând tipul de platforma Microsoft SharePoint 2013 de flux de lucru.
+    - Trebuie să Simplificați fluxul de lucru sau să îl reproiectați utilizând tipul platformei Microsoft SharePoint 2013 Workflow.
 
-    - În cazul în care istoricul de flux de lucru a crescut mare, poate doriţi să purge elementele sau creați o listă nouă de istorie.
+    - Dacă Istoricul fluxului de lucru a crescut mare, este posibil să doriți să curățați elementele sau să creați o nouă listă de istoric.
 
-        Mai multe informaţii: [epurare istorie de flux de lucru](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Mai multe informații: [golirea istoricului fluxului de lucru](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Subiecte asociate
-Doriţi să încercaţi Flow Microsoft SharePoint Online?
-- [Crea fluxul](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint şi fluxul](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Doriți să încercați Microsoft Flow în SharePoint Online?
+- [Creare flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint și flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
