@@ -1,5 +1,5 @@
 ---
-title: A bloca accesul la Yammer
+title: Dezactivați accesul la Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 50f10f68670ca7fd68a771405f07f3bea4220ff4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512878"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740369"
 ---
-# <a name="disable-access-to-yammer"></a><span data-ttu-id="97875-102">A bloca accesul la Yammer</span><span class="sxs-lookup"><span data-stu-id="97875-102">Disable access to Yammer</span></span>
+# <a name="disable-access-to-yammer"></a><span data-ttu-id="ae4d7-102">Dezactivați accesul la Yammer</span><span class="sxs-lookup"><span data-stu-id="ae4d7-102">Disable access to Yammer</span></span>
 
-<span data-ttu-id="97875-103">Soluţia pentru a bloca accesul Yammer este de a bloca şi dezasigna Yammer licenţe pentru utilizatori de Office 365.</span><span class="sxs-lookup"><span data-stu-id="97875-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="97875-104">Vă rugăm să consultaţi următorul articol pentru mai multe informaţii.</span><span class="sxs-lookup"><span data-stu-id="97875-104">Please refer to the following article for more information.</span></span>
+<span data-ttu-id="ae4d7-103">Soluția pentru a dezactiva accesul Yammer este de a bloca și de a deatribui licențe Yammer pentru utilizatorii de Office 365.</span><span class="sxs-lookup"><span data-stu-id="ae4d7-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="ae4d7-104">Vă rugăm să consultați următorul articol pentru mai multe informații.</span><span class="sxs-lookup"><span data-stu-id="ae4d7-104">Please refer to the following article for more information.</span></span>
   
-- [<span data-ttu-id="97875-105">Nap off Yammer accesul pentru utilizatorii de Office 365</span><span class="sxs-lookup"><span data-stu-id="97875-105">Turn off Yammer access for Office 365 users</span></span>](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
+- [<span data-ttu-id="ae4d7-105">Dezactivați accesul Yammer pentru utilizatorii Office 365</span><span class="sxs-lookup"><span data-stu-id="ae4d7-105">Turn off Yammer access for Office 365 users</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

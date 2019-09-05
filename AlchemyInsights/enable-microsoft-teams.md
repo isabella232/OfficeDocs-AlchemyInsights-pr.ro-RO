@@ -1,5 +1,5 @@
 ---
-title: Permite Microsoft echipe
+title: Activare echipe Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527605"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736121"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="a899c-102">Enable şi folos Microsoft echipe</span><span class="sxs-lookup"><span data-stu-id="a899c-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="f43e2-102">Activați și utilizați Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="f43e2-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="a899c-103">Dacă nu aveţi acces la Microsoft Teams la toate, a verifica afară [Cum pot obţine acces la Microsoft echipe](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="a899c-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+<span data-ttu-id="f43e2-103">Dacă nu aveți acces la Microsoft teams deloc, consultați [pot obține acces la Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="f43e2-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
 
-<span data-ttu-id="a899c-104">Dacă deja aveţi Microsoft Teams şi trebuie să ştiţi cum să configuraţi şi să-l gestioneze, consultaţi [setările de Administrator pentru Microsoft echipe](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="a899c-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
+<span data-ttu-id="f43e2-104">Dacă aveți deja Microsoft teams și trebuie să știți să îl configurați și să îl gestionați, consultați [Gestionarea setărilor Microsoft teams pentru organizația dvs](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span><span class="sxs-lookup"><span data-stu-id="f43e2-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>

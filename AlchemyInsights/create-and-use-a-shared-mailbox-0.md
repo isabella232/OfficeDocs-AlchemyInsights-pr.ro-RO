@@ -1,5 +1,5 @@
 ---
-title: A crea şi de a folosi o cutie poştală partajată
+title: Crearea și utilizarea unei cutii poștale partajate
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515963"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736517"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="8ff09-102">A crea şi de a folosi o cutie poştală partajată</span><span class="sxs-lookup"><span data-stu-id="8ff09-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="ba06c-102">Crearea și utilizarea unei cutii poștale partajate</span><span class="sxs-lookup"><span data-stu-id="ba06c-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="8ff09-103">O cutie poştală partajată permite mai multe persoane, trimite şi primi email pentru un alias, cum ar fi **sales@contoso.com**, fără atribuirea de o altă licenţă.</span><span class="sxs-lookup"><span data-stu-id="8ff09-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="ba06c-103">O cutie poștală partajată permite mai mult de o persoană trimite și primi e-mail pentru un alias, ar fi **Sales@contoso.com**, fără a atribui o altă licență.</span><span class="sxs-lookup"><span data-stu-id="ba06c-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="8ff09-104">[Crearea unei cutii poştale partajate](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) explică cum să:</span><span class="sxs-lookup"><span data-stu-id="8ff09-104">[Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) explains how to:</span></span> 
+<span data-ttu-id="ba06c-104">[Creați o cutie poștală partajată](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) explică să:</span><span class="sxs-lookup"><span data-stu-id="ba06c-104">[Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) explains how to:</span></span> 
   
-- <span data-ttu-id="8ff09-105">Crearea unei cutii poștale partajate</span><span class="sxs-lookup"><span data-stu-id="8ff09-105">Create a shared mailbox</span></span>
+- <span data-ttu-id="ba06c-105">Crearea unei cutii poștale partajate</span><span class="sxs-lookup"><span data-stu-id="ba06c-105">Create a shared mailbox</span></span>
     
-- <span data-ttu-id="8ff09-106">Da utilizatorilor permisiunea de a utiliza o cutie poştală partajată</span><span class="sxs-lookup"><span data-stu-id="8ff09-106">Give your users permissions to use a shared mailbox</span></span>
+- <span data-ttu-id="ba06c-106">Oferiți utilizatorilor permisiuni de utilizare a unei cutii poștale partajate</span><span class="sxs-lookup"><span data-stu-id="ba06c-106">Give your users permissions to use a shared mailbox</span></span>
     
-- <span data-ttu-id="8ff09-107">Acces la cutia poştală partajată din Outlook sau în Outlook pe web</span><span class="sxs-lookup"><span data-stu-id="8ff09-107">Access the shared mailbox in Outlook or in Outlook on the web</span></span>
+- <span data-ttu-id="ba06c-107">Accesați cutia poștală partajată din Outlook sau din Outlook pe web</span><span class="sxs-lookup"><span data-stu-id="ba06c-107">Access the shared mailbox in Outlook or in Outlook on the web</span></span>
     
 

@@ -1,6 +1,6 @@
 ---
-title: Mesaj de eroare Metadata Service gestionat
-ms.author: kirks
+title: Mesaj de eroare serviciu metadate gestionate
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542023"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754312"
 ---
-# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="8f9dc-102">Mesaj de eroare Metadata Service gestionat</span><span class="sxs-lookup"><span data-stu-id="8f9dc-102">Managed Metadata Service error message</span></span>
+# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="daf6d-102">Mesaj de eroare serviciu metadate gestionate</span><span class="sxs-lookup"><span data-stu-id="daf6d-102">Managed Metadata Service error message</span></span>
 
-<span data-ttu-id="8f9dc-103">Când deschide depozitul de termeni, este posibil să vedeţi un mesaj de eroare: "Managed Metadata Service sau conexiunea nu este disponibil momentan.</span><span class="sxs-lookup"><span data-stu-id="8f9dc-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="8f9dc-104">Rezervor de aplicații sau serviciul Web de metadate gestionate poate nu au fost demarate.</span><span class="sxs-lookup"><span data-stu-id="8f9dc-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="8f9dc-105">Vă rugăm să contactaţi administratorul dvs."</span><span class="sxs-lookup"><span data-stu-id="8f9dc-105">Please Contact your Administrator."</span></span>
+<span data-ttu-id="daf6d-103">Când deschideți depozitul de termeni, este posibil să vedeți un mesaj de eroare: "serviciul de metadate gestionate sau conexiunea nu este disponibil în prezent.</span><span class="sxs-lookup"><span data-stu-id="daf6d-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="daf6d-104">Este posibil ca rezervorul de aplicații sau serviciul web de metadate gestionate să nu fi fost pornit.</span><span class="sxs-lookup"><span data-stu-id="daf6d-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="daf6d-105">Vă rugăm să contactați administratorul. "</span><span class="sxs-lookup"><span data-stu-id="daf6d-105">Please Contact your Administrator."</span></span>
   
-<span data-ttu-id="8f9dc-106">În cazul în care mai mult de 24 de ore au trecut de când aţi văzut prima dată această problemă, vă rugăm să vă un caz de suport.</span><span class="sxs-lookup"><span data-stu-id="8f9dc-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="8f9dc-107">Noi înţelegem că 24 de ore poate părea o lungă perioadă de timp.</span><span class="sxs-lookup"><span data-stu-id="8f9dc-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="8f9dc-108">În multe cazuri, deja lucrăm la o soluţie aşa că vă rugăm să ne dea cel puţin 24 de ore.</span><span class="sxs-lookup"><span data-stu-id="8f9dc-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="daf6d-106">Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să înregistrați un caz de suport.</span><span class="sxs-lookup"><span data-stu-id="daf6d-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="daf6d-107">Am înțeles că 24 de ore poate părea o lungă perioadă de timp.</span><span class="sxs-lookup"><span data-stu-id="daf6d-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="daf6d-108">În multe cazuri, suntem deja de lucru pe o soluție așa încât vă rugăm să ne dea cel puțin 24 de ore.</span><span class="sxs-lookup"><span data-stu-id="daf6d-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   

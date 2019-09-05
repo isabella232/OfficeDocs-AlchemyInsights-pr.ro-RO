@@ -1,5 +1,5 @@
 ---
-title: Acces interzis atunci când o unitate de cartografiere SharePoint
+title: Acces refuzat când mapați o unitate la SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495871"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737489"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="d8d92-102">Remediați problemele cu bibliotecile SharePoint mapate la unităţi de reţea</span><span class="sxs-lookup"><span data-stu-id="d8d92-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="06e4d-102">Remedierea problemelor cu bibliotecile SharePoint mapate la unitățile de rețea</span><span class="sxs-lookup"><span data-stu-id="06e4d-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
 
-<span data-ttu-id="d8d92-103">Atunci când navigaţi la reţea, este posibil să vedeţi unul dintre următoarele mesaje:</span><span class="sxs-lookup"><span data-stu-id="d8d92-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
+<span data-ttu-id="06e4d-103">Când navigați la o unitate de rețea mapate, este posibil să vedeți unul dintre următoarele mesaje:</span><span class="sxs-lookup"><span data-stu-id="06e4d-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
   
-- <span data-ttu-id="d8d92-104">**\\Traseul nu este accesibil. Nu ar putea avea permisiunea de a utiliza această resursă din reţea. Contactaţi administratorul de acest server pentru a afla dacă aveţi permisiunile de acces.**</span><span class="sxs-lookup"><span data-stu-id="d8d92-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
+- <span data-ttu-id="06e4d-104">**\\Calea nu este accesibilă. Este posibil să nu aveți permisiunea de a utiliza această resursă de rețea. Contactați administratorul acestui server pentru a afla dacă aveți permisiuni de acces.**</span><span class="sxs-lookup"><span data-stu-id="06e4d-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
 
-- <span data-ttu-id="d8d92-105">**Acces interzis. Înainte de a deschide fişiere în această locaţie, vă trebuie în primul rând adăuga site-ul web în lista de situri de încredere, parcurge site-ul, şi selectaţi opţiunea să login automat.**</span><span class="sxs-lookup"><span data-stu-id="d8d92-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
+- <span data-ttu-id="06e4d-105">**Acces refuzat. Înainte de a deschide fișiere în această locație, trebuie să adăugați mai întâi site-ul web la lista de site-uri de încredere, navigați la site-ul web și selectați opțiunea de conectare automată.**</span><span class="sxs-lookup"><span data-stu-id="06e4d-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
 
-<span data-ttu-id="d8d92-106">[Primi ajutor depanare mapate unităţi de reţea](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span><span class="sxs-lookup"><span data-stu-id="d8d92-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
+<span data-ttu-id="06e4d-106">[Obțineți ajutor pentru depanarea unităților de rețea mapate](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span><span class="sxs-lookup"><span data-stu-id="06e4d-106">[Get help troubleshooting mapped network drives](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span></span>
   
-<span data-ttu-id="d8d92-107">Maparea unei biblioteci ca o unitate de reţea este temporară şi acceptate doar în Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="d8d92-107">Mapping a library as a network drive is temporary and supported only in Internet Explorer.</span></span> <span data-ttu-id="d8d92-108">În schimb, [sincroniza SharePoint fişiere cu noul client de sincronizare OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) care include [Fişiere On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="d8d92-108">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="d8d92-109">Acces la toate fişierele în OneDrive fără a utiliza spaţiu de stocare locale.</span><span class="sxs-lookup"><span data-stu-id="d8d92-109">Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="06e4d-107">Cartografierea unei biblioteci ca unitate de rețea este temporară și acceptată numai în Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="06e4d-107">Mapping a library as a network drive is temporary and supported only in Internet Explorer.</span></span> <span data-ttu-id="06e4d-108">În schimb, [Sincronizați fișierele SharePoint cu noul client de sincronizare OneDrive,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) care include [fișiere la cerere](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="06e4d-108">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="06e4d-109">Accesați toate fișierele din OneDrive fără a utiliza spațiul de stocare local.</span><span class="sxs-lookup"><span data-stu-id="06e4d-109">Access all your files in OneDrive without using local storage space.</span></span>
   

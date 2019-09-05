@@ -1,5 +1,5 @@
 ---
-title: Au probleme obtinerea Outlook să se conecteze?
+title: Aveți probleme în obținerea conectării Outlook?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,23 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 9fc653723e873ca11d83b363af938589b1a5a87b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1167b104ca86c4823da578b0dc9dbb708ec8b6c6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523271"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739721"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="1dfe3-102">Au probleme obtinerea Outlook să se conecteze?</span><span class="sxs-lookup"><span data-stu-id="1dfe3-102">Having issues getting Outlook to connect?</span></span>
+# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="ab64a-102">Aveți probleme în obținerea conectării Outlook?</span><span class="sxs-lookup"><span data-stu-id="ab64a-102">Having issues getting Outlook to connect?</span></span>
 
-<span data-ttu-id="1dfe3-103">Ne-am detectat că Outlook nu este configurat pentru a funcţiona corect în cadrul domeniului următoarele:</span><span class="sxs-lookup"><span data-stu-id="1dfe3-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
+<span data-ttu-id="ab64a-103">Am detectat că Outlook nu este configurat să funcționeze corect sub următorul domeniu (e):</span><span class="sxs-lookup"><span data-stu-id="ab64a-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
   
-<span data-ttu-id="1dfe3-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="1dfe3-104">{HealthCheckString}</span></span>
+<span data-ttu-id="ab64a-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="ab64a-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="1dfe3-105">NS sau CNAME records a setărilor de domeniu (DNS) nu sunt configurat corect.</span><span class="sxs-lookup"><span data-stu-id="1dfe3-105">The NS or CNAME records of the domain (DNS) settings aren't set up correctly.</span></span> <span data-ttu-id="1dfe3-106">Puteți consulta [Actualizarea înregistrărilor DNS în Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) pentru instrucțiuni detaliate.</span><span class="sxs-lookup"><span data-stu-id="1dfe3-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="ab64a-105">Înregistrările NS sau CNAME ale setărilor de domeniu (DNS) nu sunt parametrizat corect.</span><span class="sxs-lookup"><span data-stu-id="ab64a-105">The NS or CNAME records of the domain (DNS) settings aren't set up correctly.</span></span> <span data-ttu-id="ab64a-106">Se poate referi la [crearea înregistrărilor DNS la orice furnizor de găzduire DNS pentru Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pentru instrucțiuni detaliate.</span><span class="sxs-lookup"><span data-stu-id="ab64a-106">You can refer to [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
   
-<span data-ttu-id="1dfe3-107">Pentru a remedia problema, accesați pagina [Domenii](https://admin.microsoft.com/adminportal/home#/Domains) din Centrul de administrare Microsoft 365 și vă vom ajuta în acest sens.</span><span class="sxs-lookup"><span data-stu-id="1dfe3-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
-  
-<span data-ttu-id="1dfe3-108">[Consultați Întrebările frecvente despre domenii](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) pentru alte soluții uzuale.</span><span class="sxs-lookup"><span data-stu-id="1dfe3-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="ab64a-107">Pentru a remedia problema, accesați pagina [Domenii](https://admin.microsoft.com/adminportal/home#/Domains) din Centrul de administrare Microsoft 365 și vă vom ajuta în acest sens.</span><span class="sxs-lookup"><span data-stu-id="ab64a-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+
   
 
