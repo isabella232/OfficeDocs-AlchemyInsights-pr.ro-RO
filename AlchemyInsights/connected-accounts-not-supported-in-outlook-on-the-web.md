@@ -1,5 +1,5 @@
 ---
-title: 1800029 conturile conectate nu este acceptată în Outlook pe web
+title: 1800029 Conturi conectate care nu sunt acceptate în Outlook pe web
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504788"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821814"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="15981-102">Conturile conectate nu mai sunt suportate</span><span class="sxs-lookup"><span data-stu-id="15981-102">Connected accounts are no longer supported</span></span>
+# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="7bb2c-102">Conturile conectate nu mai sunt acceptate</span><span class="sxs-lookup"><span data-stu-id="7bb2c-102">Connected accounts are no longer supported</span></span>
 
-<span data-ttu-id="15981-103">Microsoft a eliminat posibilitatea de a adauga noi conturi în Outlook pe web utilizând caracteristica conturile conectate pe 15 septembrie 2018 şi se va opri sincronizarea conturilor existente pe 30 octombrie 2018, care s-au conectat înainte de 15 septembrie 2018.</span><span class="sxs-lookup"><span data-stu-id="15981-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="15981-104">Pe 15 noiembrie, opţiunea conturile conectate ( **Setări** \> **Mail** \> **Conturi**) vor fi eliminate din Outlook de pe web.</span><span class="sxs-lookup"><span data-stu-id="15981-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="15981-105">Pentru mai multe informaţii consultaţi, [conturile conectate nu mai este acceptată în Outlook pe web (Office 365 pentru conturile de afaceri)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="15981-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
+<span data-ttu-id="7bb2c-103">Microsoft a eliminat capacitatea de a adăuga conturi noi în Outlook pe Web utilizând caracteristica Conturi conectate pe 15 septembrie, 2018 și va opri sincronizarea conturilor existente pe 30 octombrie, 2018 care au fost conectate înainte de 15 septembrie 2018.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="7bb2c-104">În 15 noiembrie, opțiunea Conturi conectate ( **Setări** \> \*\*\*\* \> **Conturi**de e-mail) va fi eliminată din Outlook pe web.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="7bb2c-105">Pentru mai multe informații, consultați, [conturile conectate nu mai este acceptată în Outlook pe web (Office 365 pentru conturile de afaceri)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="7bb2c-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
   
-<span data-ttu-id="15981-106">Să continue să vadă e-mail din alte conturi: încă puteþi retransmite poştă electronică din conturile respective în Outlook pe web.</span><span class="sxs-lookup"><span data-stu-id="15981-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="15981-107">Pentru informații suplimentare, consultați:</span><span class="sxs-lookup"><span data-stu-id="15981-107">For more information, see:</span></span>
+<span data-ttu-id="7bb2c-106">Pentru a continua să vedeți e-mailul din alte conturi: puteți redirecționați în continuare e-mailul din acele conturi în Outlook de pe web.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="7bb2c-107">Pentru informații suplimentare, consultați:</span><span class="sxs-lookup"><span data-stu-id="7bb2c-107">For more information, see:</span></span>
   
-[<span data-ttu-id="15981-108">Activarea sau dezactivarea redirecţionării automate în Outlook.com</span><span class="sxs-lookup"><span data-stu-id="15981-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
+[<span data-ttu-id="7bb2c-108">Activați sau dezactivați redirecționarea automată în Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7bb2c-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[<span data-ttu-id="15981-109">Transmite automat Gmail cãtre un alt cont</span><span class="sxs-lookup"><span data-stu-id="15981-109">Automatically forward Gmail messages to another account</span></span>](https://support.google.com/mail/answer/10957?hl=en)
+[<span data-ttu-id="7bb2c-109">Redirecționați automat mesajele Gmail către un alt cont</span><span class="sxs-lookup"><span data-stu-id="7bb2c-109">Automatically forward Gmail messages to another account</span></span>](https://aka.ms/forward-gmail-messages)
   
-[<span data-ttu-id="15981-110">Redirecţionare automată e-mail Yahoo mail</span><span class="sxs-lookup"><span data-stu-id="15981-110">Automatic email forwarding in Yahoo mail</span></span>](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[<span data-ttu-id="7bb2c-110">Redirecționare automată e-mail în mail Yahoo</span><span class="sxs-lookup"><span data-stu-id="7bb2c-110">Automatic email forwarding in Yahoo mail</span></span>](https://aka.ms/yahoo-email-forwarding)
   
