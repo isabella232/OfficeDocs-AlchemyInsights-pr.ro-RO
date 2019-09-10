@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 036de86ef0d18869a47bed6306e2df1b711ee764
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b50d8c94d831a1836a65077bc33cd7665db9baa9
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556037"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822132"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Outlook nou pe web
+# <a name="the-new-outlook-on-the-web"></a>Noua Outlook de pe web
 
-Nu mai este posibil să se întoarcă la Outlook clasic pe web experienţă. Dacă doriţi pentru a da feedback despre experienţa nou, du-te la [UserVoice forum](https://outlook.uservoice.com/forums/313228--outlook-on-the-web-office-365). Puteti vota pe ideile sau aspecte ar dori să vadă abordate, şi ne veţi răspunde direct la top comentarii şi sugestii.
+Nu mai este posibil pentru a reveni la clasic Outlook pe web experience. Dacă doriți să dea feedback despre noua experienta, du-te la [forumul uservoice](https://go.microsoft.com/fwlink/?linkid=2103182). Puteți vota cu privire la ideile sau problemele pe care doriți să le vedeți abordate, și vom răspunde direct la comentariile de top și sugestii.
 
-[Obțineți ajutor cu Outlook nou pe web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Obțineți ajutor cu noua Outlook de pe web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

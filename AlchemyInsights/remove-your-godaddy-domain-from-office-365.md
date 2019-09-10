@@ -1,5 +1,5 @@
 ---
-title: Elimina GoDaddy domeniu din Office 365
+title: Eliminați-vă GoDaddy domeniu din Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/20/2018
@@ -11,16 +11,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: b2420aaf0d208042a0c2e260753ca62ed18f062c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af726a59e3488ba25651b066c5e141311b28dc71
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552795"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822096"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a>Elimina GoDaddy domeniu din Office 365
+# <a name="remove-your-godaddy-domain-from-office-365"></a>Eliminați-vă GoDaddy domeniu din Office 365
 
-Noi nu poate elimina GoDaddy domeniu din Office 365 pentru tine. Sunati [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) pentru ajutor.
+Nu putem elimina dumneavoastră GoDaddy domeniu de la Office 365 pentru tine. Sunați la [serviciul clienți GoDaddy](https://aka.ms/contact-godaddy) pentru ajutor.
   
-În cazul în care numele organizaţiei nu conţine "NETORG" sau nu a fost achiziţionat de la GoDaddy, elimina domeniului urmând aceşti paşi [elimina un domeniu din Office 365.](https://support.office.com/article/f09696b2-8c29-4588-a08b-b333da19810c)
+Dacă numele organizației nu conține "NETORG" sau nu a fost achiziționat de la GoDaddy, eliminați domeniul urmând acești pași [Eliminați un domeniu din Office 365.](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   

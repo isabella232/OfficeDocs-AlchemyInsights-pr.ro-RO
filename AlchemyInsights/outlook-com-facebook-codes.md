@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546783"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822318"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Primirea nu codurile de Facebook folosind Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nu primesc coduri Facebook folosind Outlook.com
 
-În cazul în care aţi solicitat o noua parola la Facebook, dar nu am primit parola resetare e-mail:
+Dacă ai solicitat o parolă nouă de la Facebook, dar nu ai primit e-mailul de resetare a parolei:
 
-- Verifica al tău [spam sau junk e-mail dosarul](https://outlook.live.com/mail/junkemail).
-- Încercaţi să [reiniţializaţi parola de Facebook din nou](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Verificați [dosarul spam sau junk mail](https://outlook.live.com/mail/junkemail).
+- Încearcă să [resetezi din nou parola Facebook](https://aka.ms/facebook-password-reset).
 
-În cazul în care nu se poate reseta parola pentru că nu pot accesa e-mail sau numărul de telefon mobil pe contul, încercaţi [Facebook Password Reset sfaturi](https://www.facebook.com/help/218815984812734).
+Dacă nu vă puteți reseta parola, deoarece nu puteți accesa adresa de e-mail sau numărul de telefon mobil din cont, încercați [Sfaturi de resetare a parolei](https://aka.ms/facebook-password-help)de pe Facebook.

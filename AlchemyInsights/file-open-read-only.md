@@ -1,5 +1,5 @@
 ---
-title: Fişier deschis doar în citire
+title: Fișier deschis doar în citire
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,43 +9,46 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525683"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822246"
 ---
-# <a name="file-open-read-only"></a>Fişier deschis doar în citire
+# <a name="file-open-read-only"></a>Fișier deschis doar în citire
 
-Puteţi găsi că, atunci când îl deschideți fișierele, au deschis doar în citire. În unele cazuri, acest lucru este pentru securitate sporită, cum ar fi atunci când sunt deschiderea fişierelor de pe internet, şi alte ori, poate fi din cauza unei setări care poate fi schimbat. Iată câteva scenarii în cazul în care se deschide un fişier doar în citire şi unele măsuri puteţi lua pentru a schimba asta.
+Este posibil să găsiți că, atunci când deschideți fișiere, acestea se deschid ca doar în citire. În unele cazuri, acest lucru este pentru securitate adăugată, ar fi atunci când deschideți fișiere de pe Internet și alte ori, se poate datora unei setări care poate fi schimbată. Iată câteva scenarii în care un fișier se deschide doar în citire și câțiva pași pe care îi puteți lua pentru a schimba acest lucru.
   
- **Antivirus meu este cauza le deschideți doar în citire**
+ **Antivirus meu este făcându-le pentru a deschide doar în citire**
   
-Unele programe antivirus vă poate proteja de fişiere potenţial nesigure prin deschiderea ei doar-în-citire. Trebuie să verificaţi cu furnizorul de antivirus pentru a învăţa cum să se adapteze aceste setări. BitDefender, de exemplu, are un conţinut pe adăugarea excluderi cererea aici: [cum să adăugaţi cererea sau excluderi de proces în centrul de Control Bitdefender](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Unele programe antivirus vă pot proteja de fișiere potențial nesigure deschizându-le doar în citire. Este posibil să trebuiască să verificați cu furnizorul de antivirus pentru a afla să ajustați aceste setări. BitDefender, de exemplu, are conținut pe adăugarea excluderilor de aplicații aici: [se adaugă excluderi de aplicații sau procese în Bitdefender Control Center](https://aka.ms/AA6098i).
   
- **Sunt proprietăţile fişierului setate la doar în citire?**
+ **Proprietățile fișierului sunt setate doar în citire?**
   
-Puteţi verifica proprietăţile fişierului făcând clic dreapta pe fişierul şi alege Properties. Dacă este bifată atributul doar în citire, puteţi debifaţi-l şi faceţi clic pe OK.
+Puteți verifica proprietățile fișierului făcând clic dreapta pe fișier și alegând Proprietăți. Dacă este bifată atributul doar în citire, îl puteți debifa și faceți clic pe OK.
   
- **Conţinutul este în Vizualizare protejată**
+ **Conținutul este în Vizualizare protejată**
   
-Fişiere de pe Internet şi de la alte locaţii potenţial nesigure pot conţine viruşi, viermi, sau alte tipuri de malware, care poate dăuna computerului dvs. Acest lucru este, de asemenea, frecvent cazul cu ataşamente e-mail sau fişierele pe care le-aţi descărcat. Pentru a proteja computerul, fişierele din aceste locaţii potenţial nesigure sunt deschise în vizualizarea protejat. Utilizând vizualizarea protejată, puteţi citi un fişier şi de a vedea conţinutul său în timp ce reducerea riscurilor. Pentru mai multe informaţii despre protejat Vezi şi cum să modificaţi setările, vedeți acest articol: [ce este vizualizarea protejată?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Fișierele de pe Internet și din alte locații potențial nesigure pot conține viruși, viermi sau alte tipuri de malware care pot dăuna computerului. Acest lucru este, de asemenea, frecvent cazul cu atașamente de e-mail sau fișiere pe care le-ați descărcat. Pentru a contribui la protejarea computerului, fișierele din aceste locații potențial nesigure sunt deschise în Vizualizare protejată. Utilizând vizualizarea protejată, puteți citi un fișier și vedea conținutul său reducând în același timp riscurile. Pentru mai multe informații despre vizualizarea protejată și despre se modifică setările, consultați acest articol: [ce este vizualizarea protejată?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive este plin?**
   
-Dacă fişierul este stocat pe OneDrive şi spaţiul de stocare OneDrive este completă, va fi în imposibilitatea de a salva documentul până când sunteţi în spaţiul alocat. Puteţi verifica dumneavoastră spaţiu liber pe OneDrive făcând clic pe pictograma OneDrive în centrul de notificare şi alegerea Manage de stocare, sau puteţi merge la [http://onedrive.live.com](http://onedrive.live.com), conectaţi-vă şi reţineţi cantitatea de spaţiu folosit în partea de jos stânga a ecranului.
+Dacă fișierul este stocat pe OneDrive și spațiul de stocare OneDrive este plin, nu veți putea salva documentul până când nu vă aflați în spațiul alocat. Puteți verifica spațiul liber pe OneDrive făcând clic pe pictograma OneDrive din centrul de notificări și alegând Gestionare stocare sau puteți merge la [http://onedrive.live.com](http://onedrive.live.com), conectați-vă și notați cantitatea de spațiu utilizat din partea stângă jos a ecranului.
   
- **Este activat Office?**
+ **Office este activat?**
   
-În cazul în care Oficiul nu este activat, sau în cazul în care abonamentul a expirat, ai putea fi în doar-în-citire reduce modul de funcţionalitate. Pentru informaţii privind modul de a activa Office, consultaţi: [produs fără licenţă şi activarea erori în birou](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Dacă Office nu este activat sau dacă abonamentul a expirat, este posibil să fiți în modul de funcționalitate redusă doar în citire. Pentru informații despre se activează Office, consultați: [eroare de produs și activare fără licență în Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Dacă toate altceva nu reuşeşte...**
+ **Dacă toate celelalte eșuează...**
   
-- Încercaţi să reporniţi computerul
+- Încercați să reporniți computerul
     
-- Instalați actualizări Office
+- Instalarea actualizărilor Office
     
-- Efectuați o reparare Online de birou
+- Efectuați o reparare online de Office
     
 
