@@ -1,5 +1,5 @@
 ---
-title: Clasic SharePoint rapoarte de jurnal de audit
+title: Rapoarte de jurnal de audit SharePoint clasic
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504403"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068035"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint și OneDrive jurnalele de audit
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Jurnalele de audit SharePoint și OneDrive
 
-**Busteni de SharePoint si OneDrive moderne unificată de Audit de conformitate**
+**SharePoint și OneDrive modern audit Unified jurnalele de conformitate**
 
-- [Activa/dezactiva unificată Audit logare](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Activați/dezactivați înregistrarea în jurnal a auditului unificat](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Nici o configurare suplimentară este necesară în SharePoint sau OneDrive.
+Nu este necesară nicio configurație suplimentară în SharePoint sau OneDrive.
 
-- Utilizaţi Căutaţi de logare de audit pentru a verifica activitatea de fişiere, foldere, utilizator(i), permisiuni:
+- Utilizați căutarea în jurnal de audit pentru a verifica activitatea fișierului (fișierelor), folderului (ilor), utilizatorilor, permisiunilor:
 
-    - [Activităţi fişier şi filme](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Folderul activităţi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Activităţi de cerere de partajare şi acces](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Activităţi de sincronizare](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Activităţi de administrare site](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Pentru mai multe informaţii despre modul de a prelua aceste evenimente, a se vedea [Căutaţi în Jurnalul de audit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Activități de fișier și de pagini](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Activități folder](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Activități de partajare și acces la solicitări](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Activități de sincronizare](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Activitati de administrare a site-ului](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Pentru mai multe informații despre se recuperează aceste evenimente, consultați [Căutați Jurnalul de audit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**Jurnalele de Audit clasic SharePoint**
+**Jurnalele de audit clasic SharePoint**
 
-- [Vezi şi permite clasic jurnalelor de SharePoint Audit](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Am migrat SPO moștenire de audit pentru Unified audit log (UAL). Aceasta înseamnă, în esență, că toate rapoartele de audit moștenite SPO vor fi acum alimentate prin UAL, iar semnalele de audit moștenite au fost migrate la UAL.
 
-Audit trebuie să fie activat pe fiecare colecție de site-ul. 
+Modificări cheie:
 
-**Notă**: vă recomandăm să utilizaţi jurnalele de Audit moderne unificată pentru o mai bună şi avansate de audit opţiuni decât aceste jurnale de audit clasic.
+- Tundere ca o capacitate nu este disponibil.
+- Secțiunea în care alegeți evenimente specifice pentru audit nu este disponibilă. Vă rugăm să consultați [acest document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) pentru o listă completă a evenimentelor auditate disponibile în mod prestabilit.
+- Opțiunea "locație" sub **rapoarte PARTICULARIZATE** nu este disponibilă. 
+- Evenimentele "deschiderea sau descărcarea documentelor" nu sunt disponibile. 
 
