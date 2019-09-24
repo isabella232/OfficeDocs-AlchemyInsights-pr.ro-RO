@@ -15,20 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f8b2bcebf875df2ff64521b0a489aa1aff50e0be
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741845"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122190"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Utilizarea unei cutii poștale partajate pe un dispozitiv mobil
 
-Nu puteți accesa o cutie poștală partajată din aplicația Outlook care este instalat pe dispozitivul mobil. Vrei această caracteristică? Să echipa de inginerie Outlook știu. [Votează aici](https://go.microsoft.com/fwlink/?linked=862116)!
+Pentru a utiliza o cutie poștală partajată pe dispozitivul mobil, ar trebui să [Descărcați Outlook Mobile](https://products.office.com/en-us/outlook-mobile-for-android-and-ios) și apoi [Adăugați o cutie poștală partajată în Outlook Mobile](https://support.office.com/en-us/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-Aveți posibilitatea să utilizați o cutie poștală partajată pe un dispozitiv mobil deschizând browserul, conectându-vă la Office 365, apoi mergând la Outlook pe web. Pentru instrucțiuni, consultați [adăugarea unei cutii poștale partajate în Outlook pe web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
-  
-Dacă trebuie să accesați cutiile poștale partajate utilizând aplicația Outlook pe un dispozitiv mobil, luați în considerare crearea unui grup de 365 Office în loc de a utiliza o cutie poștală partajată. Pentru mai multe informații, consultați [compararea grupurilor](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
-  
-Aflați mai multe: [Obțineți ajutor în aplicație pentru Outlook pentru iOS și Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Pentru a obține ajutor: [Obțineți ajutor în aplicație pentru Outlook pentru iOS și Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
