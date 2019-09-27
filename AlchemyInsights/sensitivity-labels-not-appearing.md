@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744833"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207237"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Etichetele de sensibilitate nu apar
 
-Etichetele de sensibilitate vă permit să clasificați și să contribuiți la protejarea conținutului sensibil. Pentru a afla mai multe despre această caracteristică, consultați [Prezentare generală a etichetelor de sensibilitate](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Etichetele de sensibilitate vă permit să clasificați și să contribuiți la protejarea conținutului sensibil. Ele pot fi create în centrul de conformitate Microsoft 365, Microsoft 365 centru de securitate, sau Office 365 Security & centrul de conformitate în conformitate cu clasificarea > sensibilitate etichete. Pentru a afla mai multe despre această caracteristică, consultați [Prezentare generală a etichetelor de sensibilitate](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Dacă ați configurat etichetele de sensibilitate, dar acestea nu apar în aplicațiile Office, verificați următoarele:
 
@@ -32,5 +32,10 @@ Dacă ați configurat etichetele de sensibilitate, dar acestea nu apar în aplic
 - Dacă [migrarea etichetelor de protecție informații Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), fiți conștienți de considerațiile listate [aici](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Suport pentru prevenirea pierderii datelor (DLP): în prezent, numai etichetele de retenție pot fi utilizate ca o condiție în politicile DLP.  Suport pentru etichetele de sensibilitate într-o politică DLP nu este disponibil încă, dar suntem de lucru pe ea.
+
+- Când criptarea este activată pe o etichetă de sensibilitate, puteți alege fie să:
+    - Atribuiți permisiuni acum
+    - Permiteți utilizatorilor să atribuie permisiuni
+
 
 Pentru mai multe informații despre posibilele probleme, consultați [probleme cunoscute cu etichete de sensibilitate](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

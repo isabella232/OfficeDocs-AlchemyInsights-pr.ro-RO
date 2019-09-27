@@ -2,7 +2,6 @@
 title: Instalarea Office pe un terminal server-fără licență
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735401"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205421"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalarea Office pe un server terminal
 
@@ -26,7 +25,10 @@ Pentru implementarea Office 365 ProPlus pe un Windows Server utilizând consolid
 
 - Trebuie să activați [activarea computerului partajat](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Dacă doriți să instalați Office 365 ProPlus pe RDS de la centrul de administrare Microsoft 365, ***care utilizează setările de instalare implicite***, urmați acești pași:
+Dacă doriți să instalați Office 365 ProPlus pe RDS de la centrul de administrare Microsoft 365, ***care utilizează setările de instalare implicite***, utilizați pașii următori.
+
+> [!TIP]
+> De asemenea, aveți posibilitatea să descărcați și să executați [Asistentul Microsoft pentru asistență și recuperare](https://aka.ms/SaRA_OfficeSCA_M365Portal) pentru a instala Office 365 ProPlus în modul de activare a computerului partajat.
   
 1. Verificați ce Office 365 plan aveți. [Aflați](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
