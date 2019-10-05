@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-Litigation-Hold
+title: 976-modul de activare-litigii-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540769"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398639"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Loc o cutie poştală pe "hold" juridice
+# <a name="place-a-mailbox-on-legal-hold"></a>Plasați o cutie poștală pe o așteptare legală
 
-- Pentru a plasa deţin o cutie poştală pe litigii deţin sau In-Place, este necesară o licenţă Exchange Online Plan 2 [licenţă Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Dacă o cutie poştală este asociată o licenţă de planul 1, aveţi posibilitatea să asociaţi Exchange Online arhivare supliment licențe diferite [Exchange Online arhivare supliment licenţă](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Pentru a plasa o cutie poștală pe litigii de așteptare sau în loc de așteptare, este necesară o licență Exchange Online Plan 2 [Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Dacă o cutie poștală este atribuit o licență plan 1, aveți posibilitatea să atribuiți o licență de add-on Exchange Online arhivate [Exchange Online arhivare](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)licență de completare.
 
-- Pentru a permite litigiilor ţineţi pentru un singur utilizator, [urmaţi aceşti paşi](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Când litigiul Hold este activat, tot conţinutul în cutia poştală este păstrată.
+- Pentru a activa litigii de așteptare pentru un singur utilizator, [urmați acești pași](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Când este activată litigii de așteptare, tot conținutul din cutia poștală este păstrată.
 
-- Pentru a plasa o deţin toate cutiile poştale în organizaţia dumneavoastră, puteţi utiliza o politică de retenție Office 365 urmând [aceşti paşi](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Reţineţi că pentru strategiile de conservare la nivel de organizaţie, noi utilizatori va fi atribuită automat politica.
+- Pentru a păstra conținutul în toate cutiile poștale din organizația dvs., aveți posibilitatea să utilizați o [politică de conservare Office 365 la nivel de organizație](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Rețineți că pentru politicile de conservare la nivel de organizație, utilizatorii noi vor fi asociați automat politicii.
