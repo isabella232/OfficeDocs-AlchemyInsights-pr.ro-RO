@@ -1,5 +1,5 @@
 ---
-title: Outlook.com peste contingent
+title: Outlook.com peste cotă
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,23 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: b54c7d21dc3cc8f027f7c5d9136a361657d416f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bcfbe9cc479a36c4d1ffd9d19a403e146794f024
+ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546063"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "37414095"
 ---
-# <a name="email-and-storage-quota-in-outlookcom"></a>Cota de poştă electronică şi stocarea în Outlook.com
+# <a name="email-and-storage-quota-in-outlookcom"></a>E-mail și cota de stocare în Outlook.com
 
-**Trimiterea limitele**
+**Limite de expediere**
 
-Pentru a reduce spam, Outlook.com are un e-mail zilnic trimiterea limită. Pentru a afla cum vă puteţi mări limita de expediere zilnica, consultaţi [trimiterea limitele în Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru a ajuta la reducerea spamului, Outlook.com are o limită zilnică de trimitere a mesajelor de e-mail. Pentru a afla puteți crește limita zilnică de expediere, consultați [limitele de trimitere în Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Limitele de stocare**
+**Limite de depozitare**
 
-Daca inbox este plin, nu veţi fi capabil de a trimite sau primi mesaje, şi oameni care trimite e-mail va primi un mesaj de eroare că inbox este plin. Puteţi vedea cât de mult de depozitare aveţi disponibile accesând <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+În cazul în care Inbox-ul este plin, nu veți putea trimite sau primi mesaje, iar persoanele care vă trimit e-mail vor primi un mesaj de eroare care este plin de Inbox. Puteți vedea cât spațiu de stocare aveți la dispoziție mergând la <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
  [**Setări**
- > **Vezi toate setările de Outlook** > **generale**> **stocare**] (https://outlook.live.com/mail/options/general/storage), sau puteţi [învăţa pentru a face loc în cutia poştală](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
+ > **Vizualizați toate setările** > **generale**> **de stocare**Outlook]https://outlook.live.com/mail/options/general/storage)(sau puteți [învăța să faceți loc în cutia poștală](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Dacă aveţi un cont Premium, puteţi vizualiza spaţiul de stocare de gând să [ **setari** > **Vezi toate setările de Outlook** > **Premium**> caracteristici](https://outlook.live.com/mail/options/premium/features).
+**Goliți elementele șterse** E-mailul din elementele șterse contează spre dimensiunea cutiei poștale. Puteți goli [folderul Elemente șterse](https://go.microsoft.com/fwlink/?linkid=2029241) selectând folderul și alegând **folder gol**.
+
+**să ștergeți definitiv e-mailul** Pentru a șterge definitiv e-mailul, selectați sau Evidențiați mesajul și apăsați **Shift** și **del** pe tastatură.
+
+Dacă aveți un cont premium, puteți vizualiza spațiul de stocare mergând la [ **Setări** > **Vizualizați toate** > caracteristicile**Premium**> ale setărilor Outlook](https://outlook.live.com/mail/options/premium/features).
