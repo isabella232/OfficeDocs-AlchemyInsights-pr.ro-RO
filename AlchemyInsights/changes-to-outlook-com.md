@@ -17,10 +17,10 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520643"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="a10ba-102">Aflați despre noul Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a10ba-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="94c2b-102">Aflați despre noul Outlook.com</span><span class="sxs-lookup"><span data-stu-id="94c2b-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="a10ba-103">[Aflați mai multe](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) despre modificările din noul Outlook.com sau căutați în caseta de mai jos.</span><span class="sxs-lookup"><span data-stu-id="a10ba-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="94c2b-103">[Aflați mai multe](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) despre modificările din noul Outlook.com sau căutați în caseta de mai jos.</span><span class="sxs-lookup"><span data-stu-id="94c2b-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="a10ba-104">Defilați în jos pentru a vedea rezultatele.</span><span class="sxs-lookup"><span data-stu-id="a10ba-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="94c2b-104">Defilați în jos pentru a vedea rezultatele.</span><span class="sxs-lookup"><span data-stu-id="94c2b-104">Scroll down to see the results.</span></span>
   
 
