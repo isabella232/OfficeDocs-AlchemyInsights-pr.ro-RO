@@ -1,5 +1,5 @@
 ---
-title: Permisiunile utilizatorului
+title: Permisiuni utilizator
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 5/21/2018
@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531947"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisiunile utilizatorului în SharePoint și OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisiuni de utilizator în SharePoint și OneDrive
 
-În cazul în care un utilizator în organizaţia dumneavoastră nu este capabil de a accesa SharePoint sau OneDrive, asiguraţi-vă că acestea au o licenţă care include SharePoint și OneDrive. 
+Dacă un utilizator din organizație nu este capabil să acceseze SharePoint sau OneDrive, asigurați-vă că au o licență care include SharePoint și OneDrive. 
   
-1. Du-te la [pagina de utilizatori activi în centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/users) şi selectaţi utilizator. 
+1. Accesați [pagina utilizatori activi din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/users) și selectați utilizatorul. 
     
-2. Asiguraţi-vă că sub **licente de produs**, o licenţă este asociată şi **SharePoint Online** este selectat. 
+2. Asigurați-vă că, sub **licențe de produs**, este atribuită o licență și **SharePoint Online** este selectată. 
     
- Pentru a da unui utilizator permisiunea de a accesa un site SharePoint: 
+ Pentru a da un utilizator permisiunea de a accesa un site SharePoint: 
   
-1. Deschide site-ul într-un browser web.
+1. Deschideți site-ul într-un browser web.
     
-2. În cazul în care site-ul apartine unui grup de Office 365, faceţi clic pe pictograma setări în colţul din dreapta sus, şi apoi faceţi clic pe **permisiuni de la site-ul**. Faceţi clic pe **Invitare persoane**, şi apoi selectaţi pentru a adăuga membri la grup de Office 365 sau partajaţi numai site-ul. 
+2. Dacă site-ul aparține unui grup Office 365, faceți clic pe pictograma Setări din dreapta sus, apoi faceți clic pe **permisiuni de site**. Faceți clic pe **invitați persoane**, apoi alegeți să adăugați membri la grupul Office 365 sau partajați numai site-ul. 
     
-    Pentru un site de comunicare, faceţi clic pe **partajare site** în dreapta sus, introduceţi numele persoanei şi apoi selectaţi nivelul de permisiune (citire, editare sau Full Control). 
+    Pentru un site de comunicare, faceți clic pe **partajare site** în dreapta sus, introduceți numele persoanei, apoi selectați nivelul de permisiune (citire, editare sau control total). 
     
-    Pentru un clasic echipa site-ului, faceţi clic pe **distribuiţi** în partea sus-dreapta. Introduceţi numele persoanei pe care doriţi să invite sau tip toată lumea să împartă cu toată lumea din organizaţia dvs. Faceţi clic pe **distribuiţi**.
+    Pentru un site de echipă clasic, dați clic pe **partajați** în dreapta sus. Introduceți numele persoanei pe care doriți să o invitați sau tastați toată lumea pentru a partaja cu toată lumea din organizația dvs. Faceți clic pe **Partajare**.
     
 > [!NOTE]
-> Dacă sunteţi un membru al unui site, dar nu un proprietar, puteţi invita oamenii la site-ul, dar invitaţia dumneavoastră va genera o cerere de acces, care pot fi fie aprobate sau a scăzut cu un proprietarul site-ului. 
+> Dacă sunteți membru al unui site, dar nu și proprietar, puteți invita persoane pe site, dar invitația va genera o solicitare de acces care poate fi aprobată sau refuzată de un proprietar de site. 
   
-[Aflaţi cum pentru a partaja un fişier sau un folder cu un utilizator](https://go.microsoft.com/fwlink/?linkid=533408)
+[Aflați să partajați un fișier sau un folder cu un utilizator](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Accesul utilizatorilor la SharePoint și OneDrive
+title: Oferiți utilizatorilor acces la SharePoint și OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36523775"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Accesul utilizatorilor la SharePoint și OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Oferiți utilizatorilor acces la SharePoint și OneDrive
 
 > [!NOTE]
-> În cazul în care un site OneDrive sau SharePoint nu este disponibil pentru mai mulţi utilizatori care anterior a avut acces, poate fi o problemă temporară de serviciu. [Verificaţi tabloul de sănătate servicii](https://portal.office.com/adminportal/home#/servicehealth)
+> Dacă un site OneDrive sau SharePoint nu este disponibil pentru mai mulți utilizatori care au avut anterior acces, poate exista o problemă de serviciu temporar. [Verificați tabloul de bord de sănătate Service](https://portal.office.com/adminportal/home#/servicehealth)
   
-Dacă vrei ca oamenii din cadrul organizaţiei pentru a putea să vă conectaţi şi utilizaţi SharePoint şi OneDrive, aveţi nevoie pentru a adăuga conturi pentru ei şi asiguraţi-vă că acestea au o licenţă care le oferă acces la SharePoint și OneDrive. Cel mai simplu mod pentru a adăuga utilizatori este în centrul de administrare Microsoft 365.
+Dacă doriți ca persoanele din organizație să se poată conecta și să utilizeze SharePoint și OneDrive, trebuie să adăugați conturi pentru ele și să vă asigurați că au o licență care le oferă acces la SharePoint și OneDrive. Cel mai simplu mod de a adăuga utilizatori este în centrul de administrare Microsoft 365.
   
-1. Du-te la [pagina de utilizatori activi în centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/users), şi apoi faceţi clic pe **adăugaţi un utilizator**.
+1. Accesați [pagina utilizatori activi din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/users), apoi faceți clic pe **Adăugare utilizator**.
     
-2. Completaţi informaţiile pentru utilizator, şi asiguraţi-vă că sub **licente de produs**, o licenţă este asociată şi **SharePoint Online** este selectat. 
+2. Completați informațiile pentru utilizator și asigurați-vă că, sub licențe de **produs**, se atribuie o licență și este selectată opțiunea **SharePoint Online** . 
     
-Reţineţi că dacă vă permite externe de partajare din organizaţie, utilizatorii pot partaja conținutul SharePoint și OneDrive cu persoane din afara organizaţiei. Nu aveţi nevoie pentru a da aceste licenţe de utilizatori externi. De asemenea, nu trebuie să adăugaţi conturi pentru ei, cu excepţia cazului în schimbul este setat la "Numai extern utilizatorii existenţi." În acest caz, dacă oamenii nu sunt în directorul organizaţiei, trebuie să le adăugaţi ca utilizatori în centrul de administrare azuriu AD.
+Rețineți că, dacă permiteți partajarea externă în organizația dvs., utilizatorii pot partaja conținut SharePoint și OneDrive cu persoane din afara organizației. Nu aveți nevoie pentru a da aceste licențe de utilizatori externi. De asemenea, nu trebuie să adăugați conturi pentru ei, cu excepția cazului în care partajarea este setată la "numai utilizatorii externi existenți." În acest caz, dacă oamenii nu sunt în directorul organizației dvs., trebuie să le adăugați ca utilizatori de oaspeți în centrul de administrare Azure AD.
   
 

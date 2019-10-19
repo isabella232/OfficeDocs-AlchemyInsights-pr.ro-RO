@@ -1,5 +1,5 @@
 ---
-title: Creaţi un site Modern echipa
+title: Creați un site modern Team
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516329"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Creaţi un site-ul conectat la Grupa echipa Office 365
+# <a name="create-an-office-365-group-connected-team-site"></a>Creați un site de echipă conectat la grup Office 365
 
-1. Faceţi clic pe lansator app în colţul din stânga sus şi selectaţi **SharePoint**. Dacă nu vedeţi dală SharePoint, faceți clic pe **toate apps**.
+1. Faceți clic pe lansatorul de aplicații în colțul din stânga sus și selectați **SharePoint**. Dacă nu vedeți dala SharePoint, faceți clic pe **toate aplicațiile**.
     
-2. La partea de sus a paginii de pornire SharePoint, faceţi clic pe **Creare site-ului** şi alegeţi opţiunea **echipa site-ului** . 
+2. În partea de sus a paginii de pornire SharePoint, faceți clic pe **Creare site** și alegeți opțiunea **site-ul echipei** . 
     
     > [!NOTE]
-    > Dacă nu apare comanda Creare site, creare de site nu poate fi activat din organizaţie. Pentru ao activa, consultaţi [crearea de site-ul administrare](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Dacă nu vedeți comanda Creare site, este posibil ca crearea site-ului să nu fie activată în organizația dvs. Pentru a-l activa, consultați [gestionarea creării site-ului](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Urmaţi paşii de pe ecran pentru a numi site-ul şi de a crea o adresă de email pentru grupul de Office 365, şi apoi faceţi clic pe **Următorul**. De asemenea, puteţi adăuga alte proprietarii grupului şi membri. Faceți clic pe **Terminare**.
+3. Urmați pașii de pe ecran pentru a denumi site-ul și a crea o adresă de e-mail pentru grupul Office 365, și apoi faceți clic pe **Următorul**. Puteți adăuga, de asemenea, alți proprietari de grup și membri. Faceți clic pe **Terminare**.
   
- **Notă:** Pentru a crea un Site de echipă fără un grup de legătură, urmaţi paşii de mai sus, dar în loc de selectarea site-ul echipei în pasul 2. selectaţi alte opţiuni. Acest lucru vă va ghida prin crearea unui Site de echipă fără un grup. 
+ **Notă:** Pentru a crea un site de echipă fără un grup conectat, urmați pașii de mai sus, dar în loc să selectați site-ul echipei în pasul 2. selectaþi alte opþiuni. Acest lucru vă va ghida prin crearea unui site de echipă fără un grup. 
     
 

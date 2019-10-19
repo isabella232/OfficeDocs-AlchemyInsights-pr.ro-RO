@@ -1,5 +1,5 @@
 ---
-title: Modifica permisiunile pentru o listă SharePoint sau biblioteca
+title: Modificarea permisiunilor pentru o listă sau o bibliotecă SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519095"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Modifica permisiunile pentru o listă SharePoint sau biblioteca
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Modificarea permisiunilor pentru o listă sau o bibliotecă SharePoint
 
-1. Du-te la site-ul SharePoint într-un browser web şi deschideţi lista sau biblioteca.
+1. Accesați site-ul SharePoint într-un browser web și deschideți lista sau biblioteca.
     
-2. Faceţi clic pe pictograma setări în colţul din dreapta sus, şi apoi faceţi clic pe **Setări bibliotecă** sau **listă Setări**. (Dacă nu apare comanda, alegeţi fila **bibliotecă** sau **listă** pentru a deschide panglica, şi apoi faceţi clic pe **Setări bibliotecă** sau **Listă setările** pe panglică). 
+2. Faceți clic pe pictograma Setări din dreapta sus, apoi faceți clic pe Setări **bibliotecă** sau pe **Setări listă**. (Dacă nu vedeți comanda, alegeți fila **bibliotecă** sau **listă** pentru a deschide panglica, apoi faceți clic pe **Setări bibliotecă** sau pe **Setări listă** pe panglică.) 
     
-3. Sub **permisiuni şi gestionare**, faceţi clic pe **permisiuni pentru această listă** sau **permisiuni pentru această bibliotecă de documente**.
+3. Sub **permisiuni și gestionare**, faceți clic pe **permisiuni pentru această listă** sau **permisiuni pentru această bibliotecă de documente**.
     
-Reţineţi că, în mod implicit, listele SharePoint şi biblioteci moșteni lor permisiuni de la site-ul. În cazul în care te rupe Moștenire permisiuni, permisiuni de curent va fi copiată în lista sau biblioteca şi totul în ea. În cazul în care mai târziu se modifică permisiunile pentru site-ul, nu va aplicate modificările la lista sau biblioteca şi elementele într-o.
+Rețineți că, în mod implicit, listele SharePoint și bibliotecile moștenesc permisiunile lor de pe site-ul. Dacă rupeți moștenirea permisiunilor, permisiunile curente vor fi copiate în listă sau în bibliotecă și în tot ce se află în acesta. Dacă permisiunile pentru site sunt modificate ulterior, modificările nu vor fi aplicate listei sau bibliotecii și articolelor din acesta.
   
 

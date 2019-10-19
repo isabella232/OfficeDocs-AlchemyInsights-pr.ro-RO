@@ -1,5 +1,5 @@
 ---
-title: Ștergere elemente din SharePoint
+title: Ștergeți elementele din SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513657"
 ---
-# <a name="delete-items-in-sharepoint"></a>Ștergere elemente din SharePoint
+# <a name="delete-items-in-sharepoint"></a>Ștergeți elementele din SharePoint
 
-[Ştergeţi o listă](https://go.microsoft.com/fwlink/?linkid=869393)
+[Ștergerea unei liste](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[Ştergeţi o bibliotecă de documente](https://go.microsoft.com/fwlink/?linkid=869392)
+[Ștergerea unei biblioteci de documente](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[Ștergere elemente dintr-o listă](https://go.microsoft.com/fwlink/?linkid=869397)
+[Ștergerea elementelor dintr-o listă](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[Ștergere elemente dintr-o bibliotecă de documente](https://go.microsoft.com/fwlink/?linkid=869399)
+[Ștergerea elementelor dintr-o bibliotecă de documente](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[Ştergeţi o coloană într-o pagină](https://go.microsoft.com/fwlink/?linkid=869394)
+[Ștergerea unei coloane dintr-o pagină](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Ştergeţi o coloană dintr-o listă sau o bibliotecă](https://go.microsoft.com/fwlink/?linkid=869396)
+[Ștergerea unei coloane dintr-o listă sau dintr-o bibliotecă](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

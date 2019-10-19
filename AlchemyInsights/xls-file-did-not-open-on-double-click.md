@@ -1,5 +1,5 @@
 ---
-title: XLS fişiere nu deschidere pe dublu clic
+title: Fișierul XLS nu s-a deschis pe dublu clic
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530759"
 ---
-# <a name="excel-file-doesnt-open"></a>Fi ș ierul Excel nu se deschide
+# <a name="excel-file-doesnt-open"></a>Fișierul Excel nu se deschide
 
-Încercaţi una dintre aceste sugestii:
+Încercați una dintre aceste sugestii:
 
-**Alege Excel ca implicit**
+**Alegeți Excel ca implicit**
 
-* Faceţi clic dreapta pe foaia de lucru, alege **Open cu**şi apoi alegeţi **Excel**
+* Faceți clic dreapta pe foaia de lucru, alegeți **Deschidere cu**, apoi alegeți **Excel**
 
-**O reparare rapidă a alerga**
+**Rulați o reparare rapidă**
 
-1. Du-te la **Control Panel > programe > programe și caracteristici**.
+1. Accesați **panoul de Control > programe > programe și caracteristici**.
 
-2. Selectaţi produsul Office vă doriţi să o reparaţi şi apoi selectaţi **schimbare**.
+2. Selectați produsul Office pe care doriți să îl reparați, apoi alegeți **modificare**.
 
-3. Alegeți opțiunea de **Reparare rapidă** şi apoi selectaţi **Reparare**.
+3. Alegeți opțiunea **reparare rapidă** , apoi alegeți **Reparare**.
 
-**Dezinstalaţi versiunile de Office nu utilizaţi**
+**Dezinstalați versiunile Office pe care nu le utilizați**
 
-1. Du-te la **panoul de Control > dezinstalare Program**şi apoi selectaţi versiunea de Office pe care doriţi să eliminaţi.
+1. Accesați **panoul de Control > dezinstalați un program**, apoi selectați versiunea de Office pe care doriți să o eliminați.
 
-2. Faceţi clic pe **Dezinstalare**.
+2. Faceți clic pe **Dezinstalare**.
 
-3. Reporni ț i computerul.
+3. Reporniți computerul.
 
-**Executaţi acest instrument de depanare pentru a seta extensii de birou pentru a deschide în Office**
+**Executați acest depanator pentru a seta Office extensii de fișiere pentru a deschide în Office**
 
-1. Executaţi acest instrument de depanare: https://aka.ms/diag_officefile.
+1. Executați acest depanator https://aka.ms/diag_officefile:.
 
-2. În funcţie de browser-ul dvs., **deschideţi** sau **salvaţi** depanatorul desktop, şi apoi atunci **a alerga** it.
+2. În funcție de browserul dvs., **deschideți** sau **Salvați** depanatorul pe desktop, apoi **Executați** -l.

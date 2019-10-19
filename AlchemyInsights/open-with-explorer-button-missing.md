@@ -1,5 +1,5 @@
 ---
-title: Deschidere cu Explorer buton lipsă
+title: Deschideți cu butonul Explorer lipsește
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543073"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>Deschidere cu Explorer buton lipseşte
+# <a name="the-open-with-explorer-button-is-missing"></a>Butonul Deschidere cu Explorer lipsește
 
-Butonul de **Deschidere cu Explorer** nu apare în experienţa moderne SharePoint şi OneDrive. Pentru a deschide o bibliotecă de documente în File Explorer, răsfoiţi în Internet Explorer şi selectaţi meniul \> **din File Explorer**. Opţiunea de **vizualizare în File Explorer** nu este disponibilă în Microsoft Edge, Google Chrome sau Firefox. 
+Butonul **Deschidere cu Explorer** nu apare în experiența modernă a SharePoint și OneDrive. Pentru a deschide o bibliotecă de documente în Explorer, navigați la acesta în Internet Explorer și selectați vizualizarea meniului \> de vizualizare **în Explorer**. Opțiunea **vizualizare în Explorer** nu este disponibilă în Microsoft Edge, Google Chrome sau Firefox. 
   
 > [!NOTE]
-> Deschidere cu Explorer este acceptat doar prin Internet Explorer. În schimb, [sincroniza SharePoint fişiere cu noul client de sincronizare OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) care provides [Dosar On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Acces la toate fişierele în OneDrive fără a utiliza spaţiu de stocare locale. 
+> Deschidere cu Explorer este acceptată numai prin Internet Explorer. În schimb, [Sincronizați fișierele SharePoint cu noul client de sincronizare OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) care furnizează [fișiere la cerere](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Accesați toate fișierele din OneDrive fără a utiliza spațiul de stocare local. 
   
 

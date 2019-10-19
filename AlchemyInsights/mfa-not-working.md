@@ -1,5 +1,5 @@
 ---
-title: Probleme cu Mae
+title: Probleme cu MFA
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545189"
 ---
-# <a name="issues-with-mfa"></a>Probleme cu Mae
-Există câteva lucruri pentru a verifica dacă utilizatorii nu pot autentifica utilizând autentificarea multi-factor (MAE)
+# <a name="issues-with-mfa"></a>Probleme cu MFA
+Există câteva lucruri pentru a verifica dacă utilizatorii nu pot login utilizând autentificarea multi-factor (MFA)
 
-1. Utilizator afectate pot fi blocați în Azure Active Director Portal. Dacă este cazul, autentificare încearcă pentru că anumit utilizator va fi negat automat. [Vă rugăm să urmaţi paşii din acest articol pentru a le debloca.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Utilizatorul afectat poate fi blocat în Azure Active Directory portal. În acest caz, încercările de autentificare pentru acel utilizator specific vor fi refuzate automat. [Vă rugăm să urmați pașii din acest articol pentru a le debloca.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. În cazul în care nu ajuta la deblocarea utilizatorul sau utilizatorul nu este blocat, puteţi încerca să resetaţi Mae pentru utilizator şi ei vor merge prin procesul de înscriere din nou. [Vă rugăm să urmaţi paşii din acest articol.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Dacă deblocarea utilizatorului nu a ajutat sau utilizatorul nu este blocat, puteți încerca să reinițializați MFA pentru utilizator și vor trece prin procesul de înscriere din nou. [Vă rugăm să urmați pașii din acest articol.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-În cazul în care acest lucru este prima dată când aţi activat Mae şi utilizatorii sunt în imposibilitatea de a conecta la clientii non-browsere, cum ar fi Outlook, Skype, etc, poate ADAL (Active Director autentificare biblioteca) nu este activat pe abonamentul de O365. În acest caz va trebui să conectaţi la Exchange Online Powershell şi de a executa acest cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Dacă aceasta este prima dată când ați activat MFA și utilizatorii nu pot să se autentifice la clienții non-browsere, ar fi Outlook, Skype, etc, poate ADAL (Active Directory Authentication Library) nu este activată pe abonamentul O365. În acest caz, va trebui să vă conectați la Exchange Online PowerShell și executați acest cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $True*

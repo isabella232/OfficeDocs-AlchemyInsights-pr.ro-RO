@@ -1,5 +1,5 @@
 ---
-title: Sincronizare Calendar pentru Outlook SharePoint
+title: Sincronizați calendarul SharePoint în Outlook
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,24 +13,24 @@ ms.custom:
 - "9000677"
 - "2586"
 ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507355"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleme de sincronizare calendar pentru dispozitive
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleme la sincronizarea calendarului pe dispozitive
 
-SharePoint calendare sunt tipurile de listă clasic, care sunt uneori confundate cu Office 365 grup calendare.
+Calendarele SharePoint sunt tipuri de liste clasice, care sunt uneori confundate cu Office 365 calendare de grup.
 
-Pentru a sincroniza un Calendar de SharePoint în Outlook, urmaţi aceşti paşi:
+Pentru a sincroniza un calendar SharePoint în Outlook, urmați acești pași:
 
-1. Faceţi clic pe pictograma de viteze **setările** şi faceţi clic pe **Conţinutul site-ului**.
-2. Deschidere calendar aţi dori să sync (care este un tip de listă de evenimente).
-3. În meniul clasic panglică, faceţi clic pe **Calendar**, apoi faceţi clic pe **Conectare la Outlook**.
-4. În pop-up vă cere să confirmaţi sincronizare, faceţi clic pe **se permite**.
+1. Faceți clic pe pictograma **Setări** Gear și apoi faceți clic pe **site-ul cuprins**.
+2. Deschideți calendarul pe care doriți să îl sincronizați (care este un tip de listă evenimente).
+3. În meniul panglică clasic, faceți clic pe **Calendar**, apoi faceți clic pe **Conectare la Outlook**.
+4. În fereastra pop-up care vă solicită confirmarea sincronizării, faceți clic pe se **permite**.
 
 >[!Note]
-> Atunci cand faci o schimbare în calendarul Outlook sincronizate, acesta va apărea în calendarul SharePoint şi vice-versa.
+> Când efectuați o modificare în calendarul Outlook sincronizat, acesta va apărea în calendarul SharePoint și invers.
 
-Pentru mai multe informaţii despre Office 365 grupuri, a se vedea acest [articol](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Pentru mai multe informații despre Office 365 grupuri, consultați acest [articol](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

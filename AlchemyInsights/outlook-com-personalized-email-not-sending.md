@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalizate e-mail adresa nu este trimiterea sau primirea
+title: Outlook.com adresa de e-mail personalizată nu este trimiterea sau primirea
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545883"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Adresa de email Outlook.com personalizat nu este trimiterea sau primirea
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Adresa mea de e-mail personalizată Outlook.com nu trimite sau primește
 
-Selectaţi pictograma de diamante din bara de instrumente pentru a deschide tabloul de bord premium.
+Selectați pictograma diamant din bara de instrumente pentru a deschide tabloul de bord Premium.
 
-În cazul în care nu veţi vedea o pictogramă de diamant în inbox (şi veţi vedea anunţuri), inseamna ca a expirat abonament Office 365. Du-te la [https://account.microsoft.com/services](https://account.microsoft.com/services) pentru a re-activa abonamentul, apoi reconectaţi domeniului utilizând paşii din "Get started".
+Dacă nu vedeți o pictogramă de diamant în Inbox (și vedeți anunțuri), înseamnă că abonamentul Office 365 a expirat. Accesați [https://account.microsoft.com/services](https://account.microsoft.com/services) pentru a reactiva abonamentul, apoi reconectați-vă domeniul utilizând pașii din "începeți".
 
-Dacă fila "Adresa de e-mail personalizate" are o bara de stare rosii, poate au expirat domeniu.
+Dacă fila "adresă de e-mail personalizată" are o bară de stare roșie, este posibil ca domeniul să fi expirat.
 
-Citeste mai multe paşi de depanare pe [adrese de e-mail personalizate în Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Citiți mai multe pașii de depanare pe [adresele de e-mail personalizate în Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

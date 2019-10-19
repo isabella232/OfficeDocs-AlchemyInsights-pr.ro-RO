@@ -1,5 +1,5 @@
 ---
-title: Cum de a anula un app
+title: se anulează o aplicație
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542129"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Cum de a anula aplicaţii software-as-a-service 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>se anulează aplicațiile software-as-a-Service 
 
-1. În centrul de administrare Microsoft 365, la **Facturare** > [produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi selectaţi fila **aplicaţii** .
+1. În Microsoft 365 Admin Center, la pagina de produse de **Facturare** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , apoi alegeți fila **aplicații** .
 
-2. Găsiţi şi selectaţi aplicaţia pe care doriţi să gestionaţi.
+2. Găsiți și selectați aplicația pe care doriți să o gestionați.
 
-3. La **acţiuni de & Setări**, selectaţi **anula abonamentul**.
+3. Sub **setări & acțiuni**, selectați **Revocare abonament**.

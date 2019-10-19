@@ -1,5 +1,5 @@
 ---
-title: Creaţi un flux
+title: Crearea unui flux
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516215"
 ---
-# <a name="microsoft-flow"></a>Fluxul de Microsoft
+# <a name="microsoft-flow"></a>Flux Microsoft
 
-Microsoft Flow vă ajută să automatizaţi activităţile comune. Utilizaţi-l pentru a parametriza fluxuri de lucru pentru liste și biblioteci. Pentru a afla cum să adăugaţi un flux de o listă sau bibliotecă SharePoint Online sau OneDrive, consultaţi [crearea unui flux](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow vă ajută să automatizați activitățile obișnuite. Utilizați-l pentru a configura fluxuri de lucru pentru liste și biblioteci. Pentru a afla să adăugați un flux la o listă sau o bibliotecă în SharePoint Online sau OneDrive, consultați [crearea unui flux](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Videoclipuri despre Microsoft fluxul](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoclipuri despre Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Site-ul Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Site-ul Web Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

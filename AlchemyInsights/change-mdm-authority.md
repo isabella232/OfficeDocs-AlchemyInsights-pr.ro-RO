@@ -1,5 +1,5 @@
 ---
-title: Schimba MDM autoritatea
+title: Modificare autoritate MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519311"
 ---
-# <a name="change-intune-mdm-authority"></a>Schimba Intune MDM autoritatea
+# <a name="change-intune-mdm-authority"></a>Modificare autoritate Intune MDM
 
-Puteţi schimba MDM autoritatea dumneavoastră fără a deschide un caz de suport. Consultaţi următoarele documente pentru instrucţiuni:
+Puteți schimba autoritatea MDM fără a deschide un caz de asistență. Consultați următoarele documente pentru instrucțiuni:
   
-- [Schimba MDM autoritatea din Managerul de configurare Intune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Modificați autoritatea MDM din Configuration Manager la Intune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Schimba MDM autoritatea la Intune independentă cu Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Modificare autoritate MDM de la Intune standalone la Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM autoritatea Co-existenţa**
+ **Coexistența autorității MDM**
   
-- Puteţi avea atât autorităţile MDM active concomitent în cazul în care aveţi deja Office 365 MDM activat, dar doriţi să încercaţi Intune MDM.
+- Puteți avea ambele MDM autorități active concomitent dacă aveți deja Office 365 MDM activat, dar doriți să încercați Intune MDM.
     
-- Administratori care au deja O365 MDM activ poate pur şi simplu marca Intune MDM activ din portalul azuriu.
+- Administratori care au deja O365 MDM active poate marca pur și simplu Intune MDM ca activă din portalul Azure.
     
-- Dacă aveţi Intune MDM, dar doresc să facă uz de Office 365 MDM: vă rugăm să deschideţi un bilet de mai jos şi un agent de suport va ajuta permite acest lucru pentru tine.
+- Dacă aveți Intune MDM, dar doriți să faceți uz de Office 365 MDM: vă rugăm să deschideți un bilet de mai jos și un agent de asistență vă va ajuta să activați acest lucru pentru tine.
     
 

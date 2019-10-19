@@ -1,5 +1,5 @@
 ---
-title: Adăugaţi Gmail cont Outlook.com
+title: Adauga cont Gmail la Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538140"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Adăugaţi contul de Gmail pentru Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Adăugați contul Gmail la Outlook.com
 
-1. Deschideţi [Setări de sincronizare Email](https://go.microsoft.com/fwlink/?linkid=875264).
-2. La **Conturi conectate**, selectaţi **Gmail**.
-3. Introduceţi un nume de afișare (numele beneficiarilor va vedea atunci când primesc un mesaj de email de la tine).
-4. Alege dacă Outlook.com ar trebui să importe e-mail Gmail şi în cazul în care e-mail importate vor fi stocate.
-5. Selectaþi **OK** pentru a merge la pagina de conectare Google.
+1. Deschideți [setările de e-mail de sincronizare](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Sub **Conturi conectate**, selectați **Gmail**.
+3. Introduceți un nume afișat (destinatarii numelui vor vedea când primesc un mesaj de e-mail de la dvs.).
+4. Alegeți dacă Outlook.com ar trebui să vă importe e-mailul din Gmail și unde va fi stocat e-mailul importat.
+5. Selectați **OK** pentru a merge la pagina de sign in Google.
 
-Sincronizarea de la un cont conectat la contul Outlook.com este doar într-o direcţie. E-mail trimis din contul de Gmail, folosind Outlook.com nu vor apărea în elemente trimise în Gmail.
+Sincronizarea de la un cont conectat la contul Outlook.com este doar într-o singură direcție. E-mail trimis din contul Gmail folosind Outlook.com nu va apărea în elemente trimise în Gmail.
 
-Puteti trimite e-mail în Outlook.com din contul Gmail conectate. Când scrieţi un mesaj, selectaţi **la** şi selectaţi ta adresa de Gmail sau [actualiza implicit la adresa](https://go.microsoft.com/fwlink/?linkid=875264).
+Puteți trimite e-mailuri în Outlook.com din contul Gmail conectat. Când compuneți un e-mail, selectați **din** și alegeți adresa Gmail sau [actualizați adresa implicită](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Pentru informaţii suplimentare, consultaţi [adăugaţi alte conturile de e-mail pentru Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru mai multe informații, consultați [adăugarea altor conturi de e-mail la Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

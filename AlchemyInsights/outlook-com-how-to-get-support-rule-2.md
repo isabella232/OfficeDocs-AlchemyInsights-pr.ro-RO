@@ -1,5 +1,5 @@
 ---
-title: Outlook.com cum pentru a obţine sprijin
+title: Outlook.com să obțineți asistență
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536488"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Cum pentru a obţine sprijin în Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>să obțineți asistență în Outlook.com
 
-Ne pare rau, Outlook.com nu oferă asistenţă prin telefon, dar avem echipe dedicate, care vă pot ajuta.
-Introduceţi întrebarea dumneavoastră sau descrie problema dumneavoastră în caseta **ajuta** de mai sus, şi apoi selectaţi **Ajutor**.
+Ne pare rău, Outlook.com nu oferă suport telefonic, dar avem echipe dedicate care vă pot ajuta.
+Introduceți întrebarea sau descrieți problema în caseta de **Ajutor** de mai sus, apoi selectați **Obțineți ajutor**.
 
-[Obţineţi ajutor pentru Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Obțineți ajutor cu Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

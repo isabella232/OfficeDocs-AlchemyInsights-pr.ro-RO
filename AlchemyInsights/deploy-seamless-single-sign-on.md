@@ -1,5 +1,5 @@
 ---
-title: Implementarea fără sudură Sign-On unic
+title: Implementare fără sudură single sign-on
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512795"
 ---
-# <a name="enable-seamless-sso"></a>Enable Seamless SSO
+# <a name="enable-seamless-sso"></a>Activare fără sudură SSO
 
-Azure Active Directory (AD azuriu) fără sudură Sign-On unic (SSO fără sudură) automat semne în utilizatorii atunci când acestea sunt pe desktop-urile lor corporative, care sunt conectate la reţeaua corporativă.
+Azure Active Directory (Azure AD) fără sudură sign-on unic (SSO fără sudură) automat semne în utilizatorii atunci când acestea sunt pe desktop-urile lor corporative care sunt conectate la rețeaua corporativă.
   
-[Urmaţi paşii din acest articol la spre enable Seamless SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Urmați pașii din acest articol pentru a activa SSO fără sudură](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

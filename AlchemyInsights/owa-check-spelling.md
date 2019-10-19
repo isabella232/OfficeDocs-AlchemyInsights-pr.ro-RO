@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510563"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Utilizaţi browser-ul pentru verificarea ortografică
+# <a name="use-your-browser-to-check-spelling"></a>Utilizați browserul pentru a verifica ortografia
 
-Nu există nici o opţiune de selectare a vraja în Outlook pe web. Pentru a verifica ortografia, trebuie să utilizaţi browser-ul web. Verificarea ortografiei este disponibilă în Microsoft Edge, Internet Explorer 10 şi versiunile ulterioare și versiunile curente de Firefox, Chrome si Safari. Examinaţi opţiunile pentru browser-ul web pentru a afla mai multe despre cum pentru a verifica ortografia.
+Nu există nicio opțiune de verificare ortografică în Outlook pe web. Pentru a verifica ortografia, va trebui să utilizați browserul web. Verificarea ortografică este disponibilă în Microsoft Edge, Internet Explorer 10 și versiunile ulterioare și versiunile curente de Firefox, Chrome și Safari. Verificați opțiunile browserului web pentru a afla mai multe despre să verificați ortografia.

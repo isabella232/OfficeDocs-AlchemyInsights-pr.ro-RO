@@ -1,5 +1,5 @@
 ---
-title: 9000215 Outlook.com abonamente
+title: 9000215 abonamente Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511823"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonamente şi dezabonare
+# <a name="subscriptions-and-unsubscribing"></a>Abonamente și dezabonare
 
-Dacă doriţi pentru a opri primirea newslettere sau promoţii, există două moduri vă puteţi dezabona în Outlook.com:
+Dacă doriți să opriți primirea buletinelor informative sau a promoțiilor, există două modalități prin care vă puteți dezabona în Outlook.com:
 
-1. În inbox, selectați un buletin informativ sau e-mail promoţionale. În partea de sus din panoul de citire, selectaţi **dezabonare**.
-2. Deschideţi [Setări de abonamente Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Setări** > **Vezi toate setările de Outlook** > **E-mail** > **abonamente**) şi selectaţi **dezabonare**.
+1. În Inbox, selectați un buletin informativ sau un e-mail promoțional. În partea de sus a panoului de citire, selectați **dezabonare**.
+2. Deschideți [setările abonamentelor Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Setări** > **Vizualizați toate** > **** > **abonamentele**de e-mail ale setărilor Outlook) și selectați **dezabonare**.
 
 Note:
 
-- Nu toţi clienţii pot beneficia de această facilitate în acest moment.
-- Veţi vedea doar această facilitate dacă aţi primit un e-mail de la compania trimiterea e-mail subscris.
+- Nu toți clienții pot beneficia de această caracteristică în acest moment.
+- Veți vedea această caracteristică numai dacă ați primit un e-mail de la compania care trimite e-mail abonat.

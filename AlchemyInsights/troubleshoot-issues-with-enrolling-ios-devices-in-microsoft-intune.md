@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemelor cu inscrierea dispozitivele iOS în Microsoft Intune
+title: Depanarea problemelor cu înscrierea dispozitive iOS în Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507015"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Depanarea problemelor cu inscrierea dispozitivele iOS în Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Depanarea problemelor cu înscrierea dispozitive iOS în Microsoft Intune
 
-Consultaţi resurse enumerate mai jos pentru a rezolva problema acum. 
+Revizuiți resursele listate mai jos pentru a rezolva problema acum. 
   
-Unele mesaje de eroare comune şi rezoluţie paşi:
+Unele mesaje de eroare obișnuite și pașii de rezolvare:
   
-- **Cap de aparat ajunge** Utilizatorul are mai multe dispozitive înscris decât limita de dispozitiv. Examina aceste documente pentru a [elimina un dispozitiv](https://docs.microsoft.com/intune/devices-wipe) sau [schimba limita de dispozitiv](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Capac dispozitiv atins** Utilizatorul are mai multe dispozitive înscrise decât limita de dispozitiv. Revizuiți aceste documente pentru a [elimina un dispozitiv](https://docs.microsoft.com/intune/devices-wipe) sau pentru a [modifica limita dispozitivului](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Acest serviciu nu este acceptată. Nici o politică de înscriere:** Apple Push Notification serviciu (APNS) trebuie să fie configurat sau reînnoit. Consultaţi [acest document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) pentru instrucţiuni despre cum să faci asta. 
+- **Acest serviciu nu este acceptat. Nicio politică de înscriere:** serviciul de notificare Push Apple (APNS) trebuie să fie configurat sau reînnoit. Examinați [acest document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) pentru instrucțiuni despre se face acest lucru. 
     
-- **User a da un permis tip incorectă sau numele de utilizator nu este recunoscut:** Utilizatorul trebuie să li se atribuie o licenţă Intune sau EMS. Examina aceste documente pentru a atribui o licenţă prin: [Centrul de administrare birou](https://docs.microsoft.com/intune/licenses-assign) sau [portal de Azur](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Tip licență utilizator invalid sau nume utilizator nerecunoscut:** Utilizatorul trebuie să i se atribuie o licență Intune sau EMS. Examinați aceste documente pentru a atribui o licență prin: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) sau [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Resurse suplimentare pentru a rezolva problema:
+Resurse suplimentare pentru a vă rezolva problema:
   
-1. Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii. 
+1. Utilizați [Intune depanare portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica și rezolva eșecuri de înscriere comune. Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii. 
     
-2. Revizuirea acestor documente pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare: [Ghid de depanare](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) şi [Depanare doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Revizuiți aceste documente pentru o listă de erori obișnuite care împiedică înscrierea și rezoluțiile la fiecare: [Ghid de depanare](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) și [Depanare Doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Aflaţi cum să înscrie dispozitivele iOS în Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Aflați să înregistrați dispozitive iOS în Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 

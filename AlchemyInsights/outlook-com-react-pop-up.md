@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com reacţiona pop-up
+title: 8000091 Outlook.com React pop sus
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545487"
 ---
 # <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com este gata pentru prime time
 
-Suntem conştienţi de faptul că unii clienţi pot vedea pop-up "Outlook.com este gata pentru prime time" ei de fiecare dată sign in, şi noi suntem de lucru pe un fix.
+Suntem conștienți de faptul că unii clienți pot vedea "Outlook.com este gata pentru prime time" pop-up de fiecare dată când se conectează, și suntem de lucru pe un fix.
 
-Ne pare rău despre asta.
+Îmi pare rău pentru asta.
 
-[Aflaţi mai multe despre noi Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Află mai multe despre noul Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

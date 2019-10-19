@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Premium
+title: Outlook.com premium
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "1831"
 - "9000243"
 ms.openlocfilehash: ad9d095803fae20865bf0161cf4ddc36f86dbaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545811"
 ---
-# <a name="outlookcom-premium"></a>Outlook.com Premium
+# <a name="outlookcom-premium"></a>Outlook.com premium
 
-**Existente de abonaţi Premium**
+**Abonații Premium existenți**
 
-- Dacă aveţi deja un abonament Outlook.com Premium, citiţi [FAQ de Premium Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Dacă aveți deja un abonament Outlook.com premium, citiți [întrebările frecvente Outlook.com premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Noii abonaţi**
+**Abonați noi**
 
-- Ne pare rău, dar Outlook.com Premium este acum închis pentru noii abonaţi.
-- Multe dintre [caracteristicile şi beneficiile](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) sunt acum incluse în [abonamente la Office 365 Home şi Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Ne pare rău, dar Outlook.com premium este acum închis pentru abonații noi.
+- Multe dintre [caracteristicile și beneficiile](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) sunt acum incluse cu [abonamente la Office 365 acasă și Office 365 personal](https://go.microsoft.com/fwlink/?linkid=2017122).

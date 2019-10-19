@@ -1,5 +1,5 @@
 ---
-title: Documentul încărcat
+title: Încărcarea documentelor
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529457"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Încărca fişiere pe OneDrive sau SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Încărcarea fișierelor în OneDrive sau SharePoint
 
-1. În browser-ul web, du-te la locaţia în care doriţi să încărcaţi fişiere.
+1. În browserul web, accesați locația în care doriți să încărcați fișiere.
     
-2. Deschidere dosar Explorer şi navigaţi la fişierele pe care doriţi să încărcaţi.
+2. Deschideți Explorer și navigați la fișierele pe care doriți să le încărcați.
     
-3. Selectaţi fişierele şi glisaţi-le în locaţia în OneDrive sau SharePoint. Notă: Dacă utilizaţi Microsoft Edge, Mozilla FireFox sau Google Chrome, puteţi să încărcaţi un folder şi toate fişierele în ea.
+3. Selectați fișierele și glisați-le în locația din OneDrive sau SharePoint. Notă: Dacă utilizați Microsoft Edge, Mozilla FireFox sau Google Chrome, puteți încărca, de asemenea, un folder și toate fișierele din acesta.
     
 > [!NOTE]
->  Aveţi posibilitatea să încărcaţi fişiere de până la 15 GB înăuntru size. > calea completă pentru un fişier (inclusiv numele fişierului) nu poate fi mai mult de 400 de caractere în lungime. > în cazul în care aveţi nevoie pentru a încărca fişiere mai mult de 100, [utilizaţi clientul de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Puteți încărca fișiere de până la 15 GB în mărime. > calea completă pentru un fișier (inclusiv numele fișierului) nu poate fi mai mare de 400 caractere în lungime. > dacă trebuie să încărcați mai mult de 100 de fișiere, [utilizați clientul de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

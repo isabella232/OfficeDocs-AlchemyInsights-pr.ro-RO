@@ -1,5 +1,5 @@
 ---
-title: Nivelurile de permisiune SharePoint Online
+title: Niveluri de permisiune SharePoint Online
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534899"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Nivelurile de permisiune SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>Niveluri de permisiune SharePoint Online
 
-SharePoint vine cu unele implicit nivelurile de permisiune care se pot utiliza, cum ar fi implică-te şi vezi numai. În cazul în care acestea nu corespund nevoilor dumneavoastră, puteţi crea niveluri de permisiuni suplimentare. Este mai uşor pentru a urmări permisiuni dacă nu editaţi sau ştergeţi nivelul implicit, şi dacă adăugaţi persoane la grupuri şi atribui niveluri de permisiune la aceste grupuri în loc de a atribui niveluri de permisiune pentru utilizatorii individuali.
+SharePoint vine cu unele niveluri de permisiuni implicite pe care le puteți utiliza, ar fi contribuție și vizualizare numai. Dacă nu vă satisface nevoile, puteți crea niveluri de permisiune suplimentare. Este mai ușor să urmăriți permisiunile dacă nu editați sau ștergeți nivelurile implicite și dacă adăugați persoane la grupuri și atribuiți niveluri de permisiune acelor grupuri în loc să atribuiți niveluri de permisiune utilizatorilor individuali.
   
-- [Nivelurile de permisiune](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Înțelegerea nivelurilor de permisiune](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Cum de a crea şi edita nivelurile de permisiune](https://go.microsoft.com/fwlink/?linkid=867072)
+- [se creează și se editează nivelurile de permisiune](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

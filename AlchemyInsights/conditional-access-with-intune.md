@@ -1,5 +1,5 @@
 ---
-title: Acces condiţionat cu Intune
+title: Acces condiționat cu Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505006"
 ---
-# <a name="conditional-access-with-intune"></a>Acces condiţionat cu Intune
+# <a name="conditional-access-with-intune"></a>Acces condiționat cu Intune
 
-Folosind **Accesul condiționat** cu Intune necesită 3 pasi: 
+Utilizarea **condițională de acces** cu Intune necesită 3 pași: 
   
-- Creaţi o **Politica de acces condiționat** , care defineşte ce resurse sunt protejata, şi ce condiţii trebuie să fie îndeplinite pentru a accesa aceste resurse. De exemplu, un aparat trebuie să fie compatibile cu înainte de a accesa e-mail corporative. 
+- Creați o **politică de acces condiționată** care definește ce resurse sunt protejate și ce condiții trebuie îndeplinite pentru a accesa aceste resurse. De exemplu, un dispozitiv trebuie să fie conforme înainte de accesarea e-mailului corporativ. 
     
-- Creaţi o **Politică de conformitate** pentru a defini setările care trebuie îndeplinite înainte ca dispozitivul este considerat compatibil cu. De exemplu, un aparat trebuie să aibă un ac de cel puţin 6 cifre înainte se consideră conforme. 
+- Creați o **politică de conformitate** pentru a defini setările care trebuie îndeplinite înainte ca dispozitivul să fie considerat conform. De exemplu, un dispozitiv trebuie să aibă un PIN de cel puțin 6 cifre înainte de a fi considerat compatibil. 
     
-- Asigura **Respectarea politicilor** şi de **Politici de acces condiționat** sunt direcţionate către grupuri dorit de utilizatori. Acest lucru poate necesita crearea grupuri specifice de utilizatori în Azure Active Directory. 
+- Asigurarea **respectării politicilor de conformitate** și a **politicilor de acces condițional** sunt direcționate către grupurile dorite de utilizatori. Acest lucru poate necesita crearea anumitor grupuri de utilizatori în Azure Active Directory. 
     
-Citeşte mai mult:
+Citeste mai mult:
   
-- [Condiţionată de acces cele mai bune practici](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Cele mai bune practici de acces condiționat](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Noţiuni de bază cu acces condiționat](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Noțiuni introductive despre accesul condiționat](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

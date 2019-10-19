@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517439"
 ---
 # <a name="auditing-results-are-blank"></a>Rezultatele auditului sunt necompletate
 
  **Rapoarte de audit pentru site-uri clasice**
   
-Pentru a vizualiza un raport de audit pentru o colecţie de site-ul SharePoint, trebuie să fie un administrator pentru colecția de site-ul. Pentru a adăuga-vă ca administrator, consultaţi [adăugaţi site-ul de colectare administratori ca globală sau administrator SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Pentru informaţii despre lucrul cu jurnalul de audit, a se vedea [Vezi jurnal rapoartele de audit](https://go.microsoft.com/fwlink/?linkid=395237). 
+Pentru a vizualiza un raport de audit pentru o colecție de site-uri SharePoint, trebuie să fiți administrator pentru colecția de site-uri. Pentru a vă adăuga ca administrator, consultați [adăugarea administratorilor de colecție de site-uri ca administrator global sau SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Pentru informații despre lucrul cu jurnalul de audit, consultați [vizualizarea rapoartelor de jurnal de audit](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Căutaţi în Jurnalul de audit Office 365**
+ **Căutați Jurnalul de audit Office 365**
   
-Trebuie să fie un administrator global în Office 365 pentru a funcţiona cu jurnalul de audit în [Securitate &amp; centru de conformitate](https://protection.office.com). Înainte de a începe, activa înregistrarea de audit în jurnal. Apoi, puteţi rula o căutare de jurnal de audit. 
+Trebuie să fiți un administrator global în Office 365 pentru a lucra cu jurnalul de audit în [Centrul de &amp; conformitate de securitate](https://protection.office.com). Înainte de a începe, activați înregistrarea în jurnal de audit. Apoi, aveți posibilitatea să executați o căutare jurnal de audit. 
   
-[Aflaţi cum să Căutaţi în Jurnalul de audit](https://go.microsoft.com/fwlink/?linkid=708432).
+[Aflați să căutați în Jurnalul de audit](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

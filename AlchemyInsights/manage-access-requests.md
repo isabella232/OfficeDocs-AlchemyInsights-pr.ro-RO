@@ -1,5 +1,5 @@
 ---
-title: Gestiona cererile de acces
+title: Gestionați solicitările de acces
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542508"
 ---
-# <a name="manage-access-requests"></a>Gestiona cererile de acces
+# <a name="manage-access-requests"></a>Gestionați solicitările de acces
 
-Atunci când un utilizator încearcă să acceseze un element în SharePoint şi nu au permisiunea, le veţi vedea un mesaj care au nevoie de permisiunea de a accesa elementul. Utilizatorul poate solicita acces (în unele cazuri, la elementul specifice sau să se alăture grupului) şi un proprietarul site-ului poate aproba sau refuza solicitarea. În cazul în care cineva care nu este un proprietar de site-ul parts un site cu o alta persoana, proprietarul site-ului va primi, de asemenea, o cerere de acces pentru noul utilizator. A aproba sau respinge cererile de acces:
+Când un utilizator încearcă să acceseze un element în SharePoint și nu au permisiune, vor vedea un mesaj că au nevoie de permisiune pentru a accesa elementul. Utilizatorul poate solicita acces (în unele cazuri, la elementul specific sau să se alăture grupului) și un proprietar de site-ul poate aproba sau refuza cererea. Dacă cineva care nu este un proprietar de site partajează un site cu o altă persoană, proprietarul site-ului va primi, de asemenea, o solicitare de acces pentru noul utilizator. Pentru a aproba sau a refuza solicitările de acces:
   
-1. Du-te la site-ul, faceţi clic pe pictograma setări în colţul din dreapta sus, şi apoi faceţi clic pe **Setări Site**. (În cazul în care nu veţi vedea site-ul Setări, faceţi clic pe **permisiuni de la site-ul**, şi apoi faceţi clic pe **setările de permisiuni avansate**. Uita-te pentru un banner care are un link numit "Arată cereri de acces şi invitaţii.")
+1. Accesați site-ul, faceți clic pe pictograma Setări din dreapta sus, apoi faceți clic pe **Setări site**. (Dacă nu vedeți setările site-ului, faceți clic pe **permisiuni de site**, apoi faceți clic pe **Setări complexe de permisiuni**. Uita-te pentru un banner care are un link numit "Arată cererile de acces și invitații.")
     
-2. La **utilizatori şi permisiuni**, faceţi clic pe **cererile de acces şi invitaţii**. (În cazul în care acest lucru nu apare, nu cereri de acces au fost făcute.)
+2. Sub **utilizatori și permisiuni**, faceți clic pe **solicitări de acces și invitații**. (Dacă acest lucru nu apare, nu s-au făcut solicitări de acces.)
     
-3. Pentru a da permisiunea utilizatorului individual, faceţi clic pe **aprobare** sau **declin**. Pentru a selecta un nivel de permisiune, mai întâi faceţi clic pe puncte de suspensie (...) din dreptul numelui persoanei. Alternativ, Adauga utilizator la un grup care are permisiunea de a site-ului. Pentru site-uri de comunicare şi clasic echipa site-uri, puteţi face acest lucru pe site-ul setările. Pentru site-uri care aparţin unui grup de Office 365, puteţi adăuga utilizatorul în grupul.
+3. Pentru a da permisiunea utilizatorului în mod individual, faceți clic pe **aprobare** sau **declin**. Pentru a selecta un anumit nivel de permisiune, faceți mai întâi clic pe puncte de suspensie (...) lângă numele persoanei. Alternativ, adăugați utilizatorul la un grup care are permisiunea de a site-ului. Pentru site-uri de comunicare și site-uri de echipă clasice, puteți face acest lucru pe pagina Setări site. Pentru site-urile care aparțin unui grup Office 365, aveți posibilitatea să adăugați utilizatorul la grup.
     
-    [Gestiona cererile de acces](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Gestionați solicitările de acces](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Mai multe informaţii despre nivelurile de permisiune](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Mai multe informații despre nivelurile de permisiune](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

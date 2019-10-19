@@ -1,5 +1,5 @@
 ---
-title: Schimba cantitatea de licenţă app
+title: Schimbați cantitatea de licență a aplicației
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519779"
 ---
-# <a name="change-app-license-quantity"></a>Schimba cantitatea de licenţă app
+# <a name="change-app-license-quantity"></a>Schimbați cantitatea de licență a aplicației
 
-Puteţi vizualiza sau modifica numărul de licenţe ai şi atribuiţi-le utilizatorilor din centrul de administrare Microsoft 365. 
+Aveți posibilitatea să vizualizați sau să modificați numărul de licențe pe care le aveți și să le atribuiți utilizatorilor din centrul de administrare Microsoft 365. 
 
-## <a name="to-change-license-quantity"></a>Pentru a schimba cantitatea de licenţă
+## <a name="to-change-license-quantity"></a>Pentru a modifica cantitatea de licență
 
-1. Du-te la **Facturare** > [produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi selectaţi fila **aplicaţii** .
+1. Accesați pagina[produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) de **Facturare** > , apoi alegeți fila **aplicații** .
 
-2. Găsiţi şi selectaţi aplicaţia pe care doriţi să gestionaţi.  
+2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
-3. Selectaţi **Adăugare/eliminare licenţe**.
+3. Selectați **Adăugare/eliminare licențe**.
 
-4. Introduceţi noul număr de licenţe necesare. De exemplu, dacă aveţi în prezent 5 licenţe şi nevoie doar de 4, introduceţi 4 în caseta de **licenţele Total** . Dacă aveţi în prezent 5 licenţe şi nevoie 10 licenţe totală, introduceţi 10 în caseta de **licenţele Total** .
+4. Introduceți noul număr de licențe necesare. De exemplu, dacă aveți în prezent 5 licențe și aveți nevoie doar de 4, introduceți 4 în caseta **Total licențe** . Dacă în prezent aveți 5 licențe și aveți nevoie de 10 licențe totale, introduceți 10 în caseta **Total licențe** .
 
-## <a name="to-assign-app-licenses"></a>Pentru a asocia app licenţe
+## <a name="to-assign-app-licenses"></a>Pentru a atribui licențe de aplicații
 
-1. Du-te la **Facturare** > [produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi selectaţi fila **aplicaţii** .
+1. Accesați pagina[produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) de **Facturare** > , apoi alegeți fila **aplicații** .
 
-2. Găsiţi şi selectaţi aplicaţia pe care doriţi să gestionaţi.  
+2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
-3. La **acţiuni de & Setări**, selectaţi link-ul de **administrare publica pe portalul**.
+3. Sub **setări & acțiuni**, selectați linkul de **gestionat în portalul editorului**.

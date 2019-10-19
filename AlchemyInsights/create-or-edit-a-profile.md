@@ -1,5 +1,5 @@
 ---
-title: 1800001 creaţi sau editaţi un profil
+title: 1800001 crearea sau editarea unui profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515171"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Crea sau a edita un profil Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Crearea sau editarea unui profil Outlook
 
-Pentru a crea un profil Outlook nou, a edita un profil sau a redenumi un profil, utilizaţi paşii următori.
+Pentru a crea un profil Outlook nou, editați un profil sau redenumiți un profil, utilizați pașii următori.
   
-1. În Outlook, selectaţi **fişier** \> **Setările de cont** \> **Gestiona profiluri**.
+1. În Outlook, selectați **** \> **setările** \> contului de fișier **Gestionați profilurile**.
     
-2. Din caseta de dialog **Configurare poştă** , selectaţi **Arată profile**.
+2. Din dialogul **configurare corespondență** , selectați **Afișare profiluri**.
     
-3. Efectuaţi una din următoarele:
+3. Procedați într-una din următoarele variante:
     
-  - Pentru a crea un nou profil, selectaþi **Adãugaþi**.
+  - Pentru a crea un profil nou, selectați **Adăugare**.
     
-  - Pentru a edita sau redenumi un profil, selectaţi **Properties**.
+  - Pentru a edita sau a redenumi un profil, selectați **Proprietăți**.
     
-Dacă aveţi probleme la crearea sau editarea un profil Outlook, executaţi [Instrumentul de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe aparatul afectat. Se va efectua unele controale, şi atunci când sunteţi gata va crea un profil Outlook cu adresa ta de email. 
+Dacă întâmpinați probleme la crearea sau editarea unui profil Outlook, aveți posibilitatea să executați [Instrumentul de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe computerul afectat. Acesta va efectua unele verificări, iar atunci când sunteți gata va crea un profil Outlook cu adresa de e-mail. 
   
 
