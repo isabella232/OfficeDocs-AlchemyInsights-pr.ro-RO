@@ -1,5 +1,5 @@
 ---
-title: Limitele de fişier
+title: Limitele fișierului
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525791"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a><span data-ttu-id="ec696-102">Limitele de încărcare fişier în SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ec696-102">File upload limits in SharePoint Online</span></span>
+# <a name="file-upload-limits-in-sharepoint-online"></a><span data-ttu-id="57b42-102">Limitele de încărcare a fișierelor în SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="57b42-102">File upload limits in SharePoint Online</span></span>
 
-- <span data-ttu-id="ec696-103">O bibliotecă poate avea până la 30 de milioane de fişiere şi foldere.</span><span class="sxs-lookup"><span data-stu-id="ec696-103">A library can have up to 30 million files and folders.</span></span>
+- <span data-ttu-id="57b42-103">O bibliotecă poate avea până la 30.000.000 de fișiere și foldere.</span><span class="sxs-lookup"><span data-stu-id="57b42-103">A library can have up to 30 million files and folders.</span></span>
     
-- <span data-ttu-id="ec696-104">Lungimea totală a URL-ul, inclusiv numele de fişier, nu poate depăşi 400 de caractere.</span><span class="sxs-lookup"><span data-stu-id="ec696-104">The total length of the URL, including the file name, can't exceed 400 characters.</span></span>
+- <span data-ttu-id="57b42-104">Lungimea totală a adresei URL, inclusiv numele fișierului, nu poate depăși 400 de caractere.</span><span class="sxs-lookup"><span data-stu-id="57b42-104">The total length of the URL, including the file name, can't exceed 400 characters.</span></span>
     
-- <span data-ttu-id="ec696-105">Fiecare fişier terci fi mai mic de 15 GB.</span><span class="sxs-lookup"><span data-stu-id="ec696-105">Each file mush be less than 15 GB.</span></span> <span data-ttu-id="ec696-106">Fişiere ataşate la elementele listei poate fi de pana la 250 MB înăuntru size.</span><span class="sxs-lookup"><span data-stu-id="ec696-106">Files attached to list items can be up to 250 MB in size.</span></span>
+- <span data-ttu-id="57b42-105">Fiecare fișier terci fi mai mică de 15 GB.</span><span class="sxs-lookup"><span data-stu-id="57b42-105">Each file mush be less than 15 GB.</span></span> <span data-ttu-id="57b42-106">Fișierele atașate la lista de elemente poate fi de până la 250 MB în mărime.</span><span class="sxs-lookup"><span data-stu-id="57b42-106">Files attached to list items can be up to 250 MB in size.</span></span>
     
-- <span data-ttu-id="ec696-107">Pentru performanţa optimă pentru sincronizarea cu noul client de sincronizare OneDrive, am recomanda stocarea nu mai mult de 100.000 de fişiere într-o bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="ec696-107">For optimum performance syncing with the new OneDrive sync client, we recommend storing no more than 100,000 files in a library.</span></span> 
+- <span data-ttu-id="57b42-107">Pentru performanțe optime sincronizarea cu noul client de sincronizare OneDrive, vă recomandăm stocarea nu mai mult de 100.000 fișiere într-o bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="57b42-107">For optimum performance syncing with the new OneDrive sync client, we recommend storing no more than 100,000 files in a library.</span></span> 
     
-[<span data-ttu-id="ec696-108">Caractere care nu pot fi utilizate în numele de fişiere</span><span class="sxs-lookup"><span data-stu-id="ec696-108">Characters that can't be used in file names</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
+[<span data-ttu-id="57b42-108">Caractere care nu pot fi utilizate în nume de fișiere</span><span class="sxs-lookup"><span data-stu-id="57b42-108">Characters that can't be used in file names</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[<span data-ttu-id="ec696-109">Tipuri de fisiere care nu pot fi adăugate la o listă sau o bibliotecă</span><span class="sxs-lookup"><span data-stu-id="ec696-109">Types of files that can't be added to a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=273757)
+[<span data-ttu-id="57b42-109">Tipuri de fișiere care nu pot fi adăugate la o listă sau la o bibliotecă</span><span class="sxs-lookup"><span data-stu-id="57b42-109">Types of files that can't be added to a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[<span data-ttu-id="ec696-110">Mai multe informaţii despre limitele de SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ec696-110">More info about SharePoint Online limits</span></span>](https://go.microsoft.com/fwlink/?linkid=271273)
+[<span data-ttu-id="57b42-110">Mai multe informații despre limitele SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="57b42-110">More info about SharePoint Online limits</span></span>](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

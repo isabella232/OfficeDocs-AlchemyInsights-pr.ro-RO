@@ -1,5 +1,5 @@
 ---
-title: Pauză un previous traducere de dosar
+title: Restaurarea unei versiuni anterioare a fișierului
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552363"
 ---
-# <a name="restore-a-previous-file-version"></a><span data-ttu-id="1dabf-102">Pauză un previous traducere de dosar</span><span class="sxs-lookup"><span data-stu-id="1dabf-102">Restore a previous file version</span></span>
+# <a name="restore-a-previous-file-version"></a><span data-ttu-id="e6d00-102">Restaurarea unei versiuni anterioare a fișierului</span><span class="sxs-lookup"><span data-stu-id="e6d00-102">Restore a previous file version</span></span>
 
-<span data-ttu-id="1dabf-103">Cu versiunea online istorie, puteţi vedea şi de a restaura versiuni mai vechi ale fișierelor în OneDrive sau SharePoint.</span><span class="sxs-lookup"><span data-stu-id="1dabf-103">With online version history, you can see and restore older versions of your files in OneDrive or SharePoint.</span></span> <span data-ttu-id="1dabf-104">Istoricul versiunilor funcţionează cu toate tipurile de fişiere, inclusiv PDF-uri, fişiere CAD, fotografii şi clipuri video.</span><span class="sxs-lookup"><span data-stu-id="1dabf-104">Version history works with all file types, including PDFs, CAD files, photos, and videos.</span></span> <span data-ttu-id="1dabf-105">Pentru a restaura o versiune anterioară de fişier:</span><span class="sxs-lookup"><span data-stu-id="1dabf-105">To restore a previous file version:</span></span>
+<span data-ttu-id="e6d00-103">Cu Istoricul versiunilor online, puteți vedea și restaura versiunile mai vechi ale fișierelor în OneDrive sau SharePoint.</span><span class="sxs-lookup"><span data-stu-id="e6d00-103">With online version history, you can see and restore older versions of your files in OneDrive or SharePoint.</span></span> <span data-ttu-id="e6d00-104">Istoricul versiunilor funcționează cu toate tipurile de fișiere, inclusiv PDF-uri, fișiere CAD, fotografii și videoclipuri.</span><span class="sxs-lookup"><span data-stu-id="e6d00-104">Version history works with all file types, including PDFs, CAD files, photos, and videos.</span></span> <span data-ttu-id="e6d00-105">Pentru a restaura o versiune de fișier anterioară:</span><span class="sxs-lookup"><span data-stu-id="e6d00-105">To restore a previous file version:</span></span>
   
-1. <span data-ttu-id="1dabf-106">Deschide biblioteca de documente SharePoint sau OneDrive locaţie.</span><span class="sxs-lookup"><span data-stu-id="1dabf-106">Open the SharePoint document library or OneDrive location.</span></span>
+1. <span data-ttu-id="e6d00-106">Deschideți biblioteca de documente SharePoint sau locația OneDrive.</span><span class="sxs-lookup"><span data-stu-id="e6d00-106">Open the SharePoint document library or OneDrive location.</span></span>
     
-2. <span data-ttu-id="1dabf-107">Faceţi clic în partea stângă a fişierului pentru ao selecta, şi apoi faceţi clic pe **Istoricul versiunilor**.</span><span class="sxs-lookup"><span data-stu-id="1dabf-107">Click to the left of the file to select it, and then click **Version history**.</span></span> <span data-ttu-id="1dabf-108">Dacă nu vedeţi Istoricul versiunilor pe bara comandă, faceţi clic pe mai multe ( **...** ).</span><span class="sxs-lookup"><span data-stu-id="1dabf-108">If you don't see Version history on the command bar, click More ( **...** ).</span></span> 
+2. <span data-ttu-id="e6d00-107">Faceți clic în partea stângă a fișierului pentru a-l selecta, apoi faceți clic pe **Istoricul versiunilor**.</span><span class="sxs-lookup"><span data-stu-id="e6d00-107">Click to the left of the file to select it, and then click **Version history**.</span></span> <span data-ttu-id="e6d00-108">Dacă nu vedeți Istoricul versiunilor în bara de comenzi, faceți clic pe mai multe ( **...** ).</span><span class="sxs-lookup"><span data-stu-id="e6d00-108">If you don't see Version history on the command bar, click More ( **...** ).</span></span> 
     
-3. <span data-ttu-id="1dabf-109">Faceţi clic pe versiunea pe care doriţi să Vezi, sau faceţi clic pe mai multe ( **...** ) din dreapta o versiune şi apoi faceţi clic pe **Restore**.</span><span class="sxs-lookup"><span data-stu-id="1dabf-109">Click the version you want to view, or click More ( **...** ) to the right of a version and then click **Restore**.</span></span>
+3. <span data-ttu-id="e6d00-109">Faceți clic pe versiunea pe care doriți să o vizualizați sau faceți clic pe mai multe ( **...** ) la dreapta unei versiuni și apoi faceți clic pe **Restaurare**.</span><span class="sxs-lookup"><span data-stu-id="e6d00-109">Click the version you want to view, or click More ( **...** ) to the right of a version and then click **Restore**.</span></span>
     
 

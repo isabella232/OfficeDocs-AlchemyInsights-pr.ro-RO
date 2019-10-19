@@ -12,24 +12,24 @@ ms.custom:
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736733"
 ---
-# <a name="change-your-display-name"></a><span data-ttu-id="3f1e0-102">Schimbați numele afișat</span><span class="sxs-lookup"><span data-stu-id="3f1e0-102">Change your display name</span></span>
+# <a name="change-your-display-name"></a><span data-ttu-id="eda36-102">Schimbați numele afișat</span><span class="sxs-lookup"><span data-stu-id="eda36-102">Change your display name</span></span>
   
-<span data-ttu-id="3f1e0-103">Pentru a modifica numele afișat în Outlook, utilizați pașii următori.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-103">To change your display name in Outlook, use the following steps.</span></span>
+<span data-ttu-id="eda36-103">Pentru a modifica numele afișat în Outlook, utilizați pașii următori.</span><span class="sxs-lookup"><span data-stu-id="eda36-103">To change your display name in Outlook, use the following steps.</span></span>
   
-1. <span data-ttu-id="3f1e0-104">În Outlook **, selectați** \> \*\*\*\* \> **Setări**cont setările contului.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+1. <span data-ttu-id="eda36-104">În Outlook **, selectați** \> \*\*\*\* \> **Setări**cont setările contului.</span><span class="sxs-lookup"><span data-stu-id="eda36-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
 
-2. <span data-ttu-id="3f1e0-105">Selectați contul de e-mail și apoi selectați **modificare**.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-105">Select the email account and then select **Change**.</span></span>
+2. <span data-ttu-id="eda36-105">Selectați contul de e-mail și apoi selectați **modificare**.</span><span class="sxs-lookup"><span data-stu-id="eda36-105">Select the email account and then select **Change**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="3f1e0-106">Dacă nu vedeți opțiunea de a modifica numele afișat, probabil că utilizați un cont de e-mail Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="3f1e0-107">În acest caz, trebuie să contactați administratorul pentru a modifica numele afișat.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="3f1e0-108">Consultați [modificarea unui nume de utilizator și a unei adrese de e-mail în Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span><span class="sxs-lookup"><span data-stu-id="3f1e0-108">See [Change a user name and email address in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>
+    > <span data-ttu-id="eda36-106">Dacă nu vedeți opțiunea de a modifica numele afișat, probabil că utilizați un cont de e-mail Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="eda36-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="eda36-107">În acest caz, trebuie să contactați administratorul pentru a modifica numele afișat.</span><span class="sxs-lookup"><span data-stu-id="eda36-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="eda36-108">Consultați [modificarea unui nume de utilizator și a unei adrese de e-mail în Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span><span class="sxs-lookup"><span data-stu-id="eda36-108">See [Change a user name and email address in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>
   
-3. <span data-ttu-id="3f1e0-109">După ce ați modificat numele afișat, faceți clic pe **OK** pentru a salva modificările.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="3f1e0-110">Poate dura câteva ore pentru ca modificările să reflecte întreaga organizație.</span><span class="sxs-lookup"><span data-stu-id="3f1e0-110">It can take a few hours for your changes to reflect throughout your organization.</span></span>
+3. <span data-ttu-id="eda36-109">După ce ați modificat numele afișat, faceți clic pe **OK** pentru a salva modificările.</span><span class="sxs-lookup"><span data-stu-id="eda36-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="eda36-110">Poate dura câteva ore pentru ca modificările să reflecte întreaga organizație.</span><span class="sxs-lookup"><span data-stu-id="eda36-110">It can take a few hours for your changes to reflect throughout your organization.</span></span>
 
-<span data-ttu-id="3f1e0-111">Pentru mai multe informații, consultați [modificarea numelui afișat pe care îl văd destinatarii de e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="3f1e0-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+<span data-ttu-id="eda36-111">Pentru mai multe informații, consultați [modificarea numelui afișat pe care îl văd destinatarii de e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="eda36-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
   

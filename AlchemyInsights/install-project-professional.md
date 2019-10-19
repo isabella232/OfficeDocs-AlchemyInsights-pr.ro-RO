@@ -13,19 +13,19 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739145"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="e47cc-102">Instalare proiect Professional</span><span class="sxs-lookup"><span data-stu-id="e47cc-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="ed493-102">Instalare proiect Professional</span><span class="sxs-lookup"><span data-stu-id="ed493-102">Install Project Professional</span></span>
 
-<span data-ttu-id="e47cc-103">Consultați [instalarea proiectului](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) pentru a afla să instalați versiunea de abonament Project Online și versiunea non-abonament de Project 2019, 2016 sau 2013.</span><span class="sxs-lookup"><span data-stu-id="e47cc-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="ed493-103">Consultați [instalarea proiectului](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) pentru a afla să instalați versiunea de abonament Project Online și versiunea non-abonament de Project 2019, 2016 sau 2013.</span><span class="sxs-lookup"><span data-stu-id="ed493-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="e47cc-104">Pentru Project 2010 sau 2007, urmați pașii din [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) sau [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="e47cc-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="ed493-104">Pentru Project 2010 sau 2007, urmați pașii din [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) sau [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="ed493-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="e47cc-105">Proiectul este vândut ca o aplicație independentă, așa că, dacă nu îl aveți încă, [cumpărați sau încercați Project](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="e47cc-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="ed493-105">Proiectul este vândut ca o aplicație independentă, așa că, dacă nu îl aveți încă, [cumpărați sau încercați Project](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="ed493-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
 
 
 
