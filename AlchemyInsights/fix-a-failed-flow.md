@@ -1,5 +1,5 @@
 ---
-title: Stabilească un flux nu a reuşit
+title: Remedierea unui flux nereușit
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525261"
 ---
-# <a name="fix-a-flow-that-failed"></a><span data-ttu-id="488b2-102">Stabilească un flux care nu a reuşit</span><span class="sxs-lookup"><span data-stu-id="488b2-102">Fix a flow that failed</span></span>
+# <a name="fix-a-flow-that-failed"></a><span data-ttu-id="4997f-102">Remediați un flux care nu a reușit</span><span class="sxs-lookup"><span data-stu-id="4997f-102">Fix a flow that failed</span></span>
 
-1. <span data-ttu-id="488b2-103">Du-te la [Fluxul de Microsoft](https://flow.microsoft.com/), şi faceţi clic pe pictograma de notificări în dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="488b2-103">Go to [Microsoft Flow](https://flow.microsoft.com/), and click the Notifications icon in the upper right.</span></span> <span data-ttu-id="488b2-104">(Sau în app mobil, selectaţi fila activitate.) Selectează fluxul care nu a reuşit să se uite la detalii.</span><span class="sxs-lookup"><span data-stu-id="488b2-104">(Or in the mobile app, select the Activity tab.) Select the flow that failed to look at the details.</span></span>
+1. <span data-ttu-id="4997f-103">Accesați [Microsoft Flow](https://flow.microsoft.com/)și faceți clic pe pictograma notificări din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="4997f-103">Go to [Microsoft Flow](https://flow.microsoft.com/), and click the Notifications icon in the upper right.</span></span> <span data-ttu-id="4997f-104">(Sau în aplicația mobilă, selectați fila activitate.) Selectați fluxul care nu a reușit să se uite la detalii.</span><span class="sxs-lookup"><span data-stu-id="4997f-104">(Or in the mobile app, select the Activity tab.) Select the flow that failed to look at the details.</span></span>
     
-2. <span data-ttu-id="488b2-105">Găsi pas cu pictograma de exclamare roșu pentru a vedea mesajul de eroare pentru fluxul.</span><span class="sxs-lookup"><span data-stu-id="488b2-105">Find the step with the red exclamation icon to see the error message for the flow.</span></span>
+2. <span data-ttu-id="4997f-105">Găsiți pasul cu pictograma de exclamare roșie pentru a vedea mesajul de eroare pentru flux.</span><span class="sxs-lookup"><span data-stu-id="4997f-105">Find the step with the red exclamation icon to see the error message for the flow.</span></span>
     
-3. <span data-ttu-id="488b2-106">In functie de mesajul de eroare, ar trebui să fie posibilitatea de a edita fluxul şi fixaţi-l.</span><span class="sxs-lookup"><span data-stu-id="488b2-106">Depending on the error message, you should be able to edit the flow and fix it.</span></span> 
+3. <span data-ttu-id="4997f-106">În funcție de mesajul de eroare, ar trebui să puteți edita fluxul și să-l remediați.</span><span class="sxs-lookup"><span data-stu-id="4997f-106">Depending on the error message, you should be able to edit the flow and fix it.</span></span> 
     
-[<span data-ttu-id="488b2-107">Comune eşecuri de flux</span><span class="sxs-lookup"><span data-stu-id="488b2-107">Common flow failures</span></span>](https://go.microsoft.com/fwlink/?linkid=872110)
+[<span data-ttu-id="4997f-107">Defecțiuni de flux comune</span><span class="sxs-lookup"><span data-stu-id="4997f-107">Common flow failures</span></span>](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
