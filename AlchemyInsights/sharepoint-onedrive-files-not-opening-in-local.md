@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
 ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750856"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Probleme la deschiderea fișierelor Office din SharePoint
@@ -29,5 +29,5 @@ Dacă aveți probleme la deschiderea fișierelor Office și a documentelor din S
 
 Pentru mai multe informații sau detalii, vă rugăm să faceți referire la articol, să [remediați problemele de deschidere a documentelor în bibliotecile SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Notițe**: dacă aveți probleme cu deschiderea documentelor în browser sau client în mod implicit, poate fi necesar să modificați setarea bibliotecii. Pentru aceasta, navigați la biblioteca care are probleme cu pictograma de viteze _ Gt_ în colțul din dreapta sus _ Gt_ setările bibliotecii _ Gt_ Setări avansate _ Gt_ deschiderea documentelor în browser.
+**Notițe**: dacă aveți probleme cu deschiderea documentelor în browser sau client în mod implicit, poate fi necesar să modificați setarea bibliotecii. Pentru aceasta, navigați la biblioteca care are probleme > Gear icon în colțul din dreapta sus > Setări bibliotecă > Setări complexe > deschiderea documentelor în browser.
 

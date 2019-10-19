@@ -13,15 +13,15 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661308"
 ---
 # <a name="office-365-alert-policies"></a>Politicile de alertă Office 365
 
-Centrul de conformare Office 365 Security _ Amp_ oferă [politici de alertă implicite](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) care declanșează alerte pentru organizațiile cu un abonament Office 365 Enterprise sau Office 365 US Government E1/G1, E3/G3 sau E5/G5. De aceea, administratorii pot primi o notificare de e-mail de avertizare trimise de Office365Alerts@microsoft.com cu o linie de subiect, ar fi o alertă de severitate scăzută: *nume de politică de alertă*. Notificările de alertă sunt trimise atunci când se declanșează alerte pentru activități obișnuite, ar fi atunci când utilizatorii:
+Centrul de securitate & de conformitate Office 365 oferă [politici de alertă implicite](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) care declanșează alerte pentru organizațiile cu un abonament Office 365 Enterprise sau Office 365 US Government E1/G1, E3/G3 sau E5/G5. De aceea, administratorii pot primi o notificare de e-mail de avertizare trimise de Office365Alerts@microsoft.com cu o linie de subiect, ar fi o alertă de severitate scăzută: *nume de politică de alertă*. Notificările de alertă sunt trimise atunci când se declanșează alerte pentru activități obișnuite, ar fi atunci când utilizatorii:
 
 - Creați reguli Inbox care redirecționați e-mailul.
 - Atribuiți permisiuni cutia poștală.
@@ -30,8 +30,8 @@ Centrul de conformare Office 365 Security _ Amp_ oferă [politici de alertă imp
 
 Pentru a examina și a acționa în alertă:
 
-1. Accesați centrul de [respectare a conformității _ amp_](https://protection.office.com) și conectați-vă.
-2.  > Faceți **clic**pe alerte**Vizualizare**alerte.
+1. Accesați centrul de [securitate & conformitate](https://protection.office.com) și conectați-vă.
+2.  > Faceți **clic pe alerte****Vizualizare**alerte.
 3. Faceți clic pe o alertă pentru a afișa o pagină de fișă cu informații despre alertă.
 
 Puteți acționa într-o alertă, ar fi [eliminarea unei reguli de Inbox suspecte](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Sau puteți închide pur și simplu alerta făcând clic pe **Rezolvare** în pagina de avertizare a avertizării.

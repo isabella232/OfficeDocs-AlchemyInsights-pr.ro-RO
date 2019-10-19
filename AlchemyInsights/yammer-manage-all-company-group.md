@@ -1,5 +1,5 @@
 ---
-title: Yammer gestiona toate companiei grup
+title: Yammer gestionați toate grupul de companii
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558053"
 ---
-# <a name="all-company-group"></a>Toate grup de companii
+# <a name="all-company-group"></a>Grupul de firme
 
-Grup de **Companii de toate** este creat automat atunci când creați o rețea Yammer. Acesta este un grup de sistem implicit, care nu poate fi redenumit sau şters. Oricine isi poate publica la grupul de **Toate compania** , dar numai Yammer administratorii de retea pot posta anunţuri grupului. Utilizaţi **Grup Insights**pentru a vizualiza informaţii despre logodna în grupul **All companiei** .
+Grupul **toate companie** este creat automat atunci când creați o rețea Yammer. Este un grup de sistem implicit care nu poate fi redenumit sau șters. Toată lumea poate posta la **toate companie** grup, dar numai Yammer administratorii de rețea poate posta anunțuri pentru grup. Utilizați **Statistici grup**pentru a vizualiza informații despre implicare în grupul **All Company** .
 
-Pentru informaţii suplimentare, consultaţi [gestiona un grup în Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+Pentru mai multe informații, consultați [gestionarea unui grup în Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).

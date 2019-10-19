@@ -1,5 +1,5 @@
 ---
-title: Ransomware atac în SharePoint sau OneDrive
+title: Atac ransomware în SharePoint sau OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553408"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745553"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware atac în SharePoint sau OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Atac ransomware în SharePoint sau OneDrive
 
-1.  Dacă sunteţi în căutarea pentru ajutor pe ce să fac atunci când un fişier rău intenţionat este găsit pe OneDrive sau SharePoint sau echipe, vedem [ce să fac atunci când se găseşte un fişier rău intenţionat](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Dacă sunteţi în căutarea pentru modul de a proteja datele de ransomware, consultaţi:
+1.  Dacă sunteți în căutarea pentru ajutor cu privire la ce să faceți atunci când un fișier rău intenționat se găsește pe OneDrive sau SharePoint sau echipe, consultați [ce să faceți atunci când se găsește un fișier rău intenționat](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Dacă sunteți în căutarea pentru modul de a proteja datele de la ransomware, a se vedea:
     - [Protejarea datelor în SharePoint și OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Protecție Ransomware ameninţare](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+    - [Protecție împotriva amenințărilor Ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Sunt toate fişierele dumneavoastră OneDrive sau SharePoint afectate de Ransomware Malware sau virus cripto? 
+3.  Sunt toate fișierele de pe OneDrive sau SharePoint afectate de Ransomware sau malware sau Crypto virus? 
 
-Imediat stop/pauză sincronizare OneDrive (dacă există) sau deconectaţi Explorer vedere mapate la biblioteca din computer afectate (dacă există), şi apoi aveţi posibilitatea să restabiliţi întreaga bibliotecă OneDrive sau SharePoint la o dată anterioară prin utilizarea caracteristicii Restabilire fişiere. 
+Opriți imediat/întrerupeți sincronizarea OneDrive (dacă există) sau deconectați Vizualizarea Explorer mapate la bibliotecă de pe computerul afectat (dacă este cazul), și apoi puteți restaura întreaga OneDrive sau biblioteca SharePoint la o oră anterioară utilizând fișierele de restaurare caracteristică. 
 
-Pentru mai multe informaţii despre modul de a restabili, a se vedea:
+Pentru mai multe informații despre să restaurați, consultați:
 
-- [Restaura o bibliotecă OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Restaura o bibliotecă de documente](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [Restaurarea unei biblioteci OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Restaurarea unei biblioteci de documente](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Pentru mai multe informaţii despre Advanced ameninţare protecţie (ATP), a se vedea:
-- [ATP pentru SharePoint, OneDrive şi echipe](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Ameninţare Explorer Views](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+Pentru mai multe informații despre protecție avansată împotriva amenințărilor (ATP), consultați:
+- [ATP pentru SharePoint, OneDrive și echipe](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Amenințări Explorer vizualizări](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-Informaţii suplimentare:
+Informații suplimentare:
 
 - [Detectarea virusului în SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Criptarea datelor în ODB şi SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Ransomware detectarea și recuperarea fişierelor](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Ameninţare Explorer si in timp real informatii](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Criptarea datelor în ODB și SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Detectarea Ransomware și recuperarea fișierelor](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Amenințări Explorer și în timp real detectii](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

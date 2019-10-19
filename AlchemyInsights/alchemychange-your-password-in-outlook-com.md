@@ -1,5 +1,5 @@
 ---
-title: Alchimia - schimbare parola în Outlook.com
+title: Alchemy-schimba parola în Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 3597dd795138af78a2b4cc547deb603fe66593f9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494178"
 ---
-# <a name="change-your-password"></a>Schimbaţi-vă parola
+# <a name="change-your-password"></a>Schimbați parola
 
-Dacă aţi uitat parola, accesaţi [contul Microsoft filme de resetare a parolei](https://go.microsoft.com/fwlink/p/?linkid=841909). În caz contrar, urmaţi instrucţiunile de mai jos.
+Dacă ați uitat parola, accesați [pagina de reinițializare a parolei contului Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). În caz contrar, urmați instrucțiunile de mai jos.
   
-1. Selectaţi imaginea ta numele sau profil în colţul din dreapta şi selectaţi **Vezi contul**. 
+1. Selectați numele sau fotografia de profil în colțul din dreapta sus și selectați **Vizualizare cont**. 
     
-2. În cadrul Hello! banner, selectați **modificare parolă**. 
+2. Sub Hello! banner, selectați **Schimbați parola**. 
     
-3. Alege o parolă nouă şi selectaţi **Salvare**. 
+3. Alegeți o parolă nouă și selectați **Salvare**. 
     
-Pentru a afla mai multe, consultaţi [modificarea parola în Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Pentru a afla mai multe, consultați [modificarea parolei în Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
   
 

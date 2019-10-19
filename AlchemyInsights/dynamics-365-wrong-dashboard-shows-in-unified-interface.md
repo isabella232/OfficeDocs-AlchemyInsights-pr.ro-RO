@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - tabloul de bord greşit arată în interfaţă unificată Dynamics 365
+title: Dynamics 365-greșit tabloul de bord arată în Dynamics 365 interfață unificată
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528563"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Tabloul de bord greşit arată în interfaţă unificată Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Greșit tabloul de bord arată în Dynamics 365 interfață unificată
 
-Există mai multe motive de ce pot vedea un tablou de bord diferite decât cea pe care aţi aştepta:
+Există mai multe motive pentru care este posibil să vedeți un tablou de bord diferit de cel la care vă așteptați:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Utilizatorul a stabilit un tablou de bord utilizator implicit 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Utilizatorul a setat un tablou de bord implicit de utilizator 
 
-De obicei poate identifica un utilizator implicit tabloul de bord este situat în cazul în care butonul **Setat ca implicit** nu arată în bara de comenzi tabloul de bord. Tabloul de bord utilizator implicit va suprascrie toate alte dashboards implicit, chiar dacă utilizatorul implicit tabloul de bord nu este în app curent.
+De obicei, aveți posibilitatea să identificați un tablou de bord implicit de utilizator este setată dacă butonul **set as default** nu se afișează în bara de comenzi a tabloului de bord. Tabloul de bord implicit de utilizator va suprascrie toate celelalte tablouri de bord implicite, chiar dacă tabloul de bord implicit al utilizatorului nu este în aplicația curentă.
 
-Utilizaţi următoarele workaround pentru a demarca implicit tabloul de bord.
+Utilizați următoarea soluție pentru a deseta tabloul de bord implicit.
 
-1. Creați un nou tablou de bord personale.
+1. Creați un tablou de bord personal nou.
 
-2. Setaţi ca nou tablou de bord utilizator implicit.
+2. Setați tabloul de bord nou ca implicit de utilizator.
 
-3. Şterge acest tablou de bord.
+3. Ștergeți tabloul de bord.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Tabloul de bord este situat în sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Tabloul de bord este setat în Sitemap
 
-Poate aţi setat o organizaţie implicit tabloul de bord prin selectarea un tablou de bord şi alegerea 'Setat ca Default' sub 'Particularizarea sistemului'. Dar tabloul de bord definite în sitemap proiectantul vor avea prioritate peste acest tablou de bord, în cazul în care utilizatorul are acces la aceasta.
+Este posibil să fi setat un tablou de bord implicit de organizație selectând un tablou de bord și alegând "setați ca implicit" sub "Particularizare sistem". Dar tabloul de bord definit în proiectantul de Sitemap va avea prioritate față de acest tablou de bord, dacă utilizatorul are acces la acesta.
 
-Pentru ca utilizatorii vedea tabloul de bord pe care aţi setat ca implicit organizaţie, aveţi posibilitatea să fie:
+Pentru ca utilizatorii să vadă tabloul de bord pe care l-ați setat ca implicit al Organizației, puteți fie:
 
-* Stabilit că tabloul de bord în sitemap
+* Setați tabloul de bord în Sitemap
 
-* Elimina accesul la tabloul de bord sitemap definite pentru acei utilizatori
+* Eliminați accesul la tabloul de bord definit de Sitemap pentru acei utilizatori

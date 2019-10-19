@@ -1,5 +1,5 @@
 ---
-title: Eroare AttributeValueMustBeUnique
+title: Eroare Atributevaluemustbeunique
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527043"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Eroare: AttributeValueMustBeUnique
 
-Cel mai frecvent motiv pentru erori de AttributeValueMustBeUnique este două obiecte cu diferite SourceAnchor (immutableId) au aceeaşi valoare pentru atributele ProxyAddresses şi/sau UserPrincipalName. Pentru a remedia eroarea AttributeValueMustBeUnique:
+Cel mai frecvent motiv pentru eroarea AttributeValueMustBeUnique este două obiecte cu SourceAnchor diferite (immutableId) au aceeași valoare pentru atributele ProxyAddresses și/sau UserPrincipalName. Pentru a remedia eroarea AttributeValueMustBeUnique:
   
-1. Identifica proxyAddresses duplicat, userPrincipalName sau altă valoare de atribut care provoacă eroarea. De asemenea, identifica care două (sau mai multe) obiecte sunt implicate în conflict. Raportul generat de sănătate Azure AD Connect pentru sincronizare vă pot ajuta să identifice două obiecte.
+1. Identificați proxyAddresses duplicate, userPrincipalName sau altă valoare de atribut care cauzează eroarea. De asemenea, identificați care două (sau mai multe) obiecte sunt implicate în conflict. Raportul generat de Azure AD Connect Health pentru sincronizare vă poate ajuta să identificați cele două obiecte.
     
-2. Identificarea obiectului care ar trebui să continue să aibă valoarea duplicat şi obiect care ar trebui să nu.
+2. Identificați care obiect ar trebui să continue să aibă valoarea duplicată și care obiectul nu ar trebui să.
     
-3. Elimina valoarea duplicat la obiect pe care ar trebui să aibă această valoare. Reţineţi că ar trebui să facă schimbare în directorul în care obiectul este provin din. În unele cazuri, trebuie să ştergeţi unul dintre obiectele în conflict.
+3. Eliminați valoarea duplicată din obiectul care nu ar trebui să aibă această valoare. Rețineți că ar trebui să efectuați modificarea în directorul de unde provine obiectul. În unele cazuri, poate fi necesar să ștergeți unul dintre obiectele din conflict.
     
-4. În cazul în care aţi făcut schimbarea în incinta pe AD, să Azure AD conecta sincronizare schimbarea de eroare pentru a obţine stabilite.
+4. Dacă ați făcut modificarea în local AD, permiteți Azure AD Connect sincroniza modificarea pentru eroarea pentru a obține fix.
     
 

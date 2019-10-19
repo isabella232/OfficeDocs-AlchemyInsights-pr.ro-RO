@@ -1,5 +1,5 @@
 ---
-title: Partaja un fişier OneDrive sau SharePoint cu utilizatorii externi
+title: Partajarea unui fișier OneDrive sau SharePoint cu utilizatori externi
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549627"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Împărtăşesc un OneDrive sau SharePoint dosar sau pliant cu utilizatorii externi
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Partajarea unui fișier sau a unui folder OneDrive sau SharePoint cu utilizatori externi
 
-1. Într-un browser, du-te la fișierul sau folderul pe care doriţi să împărtăşiţi, selectaţi-l şi apoi faceţi clic pe **Share**.
+1. Într-un browser, accesați fișierul sau folderul pe care doriți să îl partajați, selectați-l, apoi faceți clic pe **Partajare**.
     
-2. În caseta de dialog Trimitere link-ul, faceţi clic pe săgeata în jos pentru a schimba tipul de link-ul.
+2. În caseta de dialog Trimitere legătură, faceți clic pe săgeata în jos pentru a modifica tipul de link.
     
-3. În **care doriţi acest link pentru a lucra pentru**, selectaţi **cineva** dacă doriţi beneficiarilor pentru a putea share link-ul sau **anumite persoane** pentru a da acces doar la oamenii vă specifica. 
+3. Sub **cine doriți ca acest link să funcționeze**, selectați **pe oricine** dacă doriți ca destinatarii să poată partaja linkul sau **anumite persoane** pentru a acorda acces numai la persoanele pe care le specificați. 
     
-    În cazul în care aceste opţiuni nu sunt disponibile, trebuie să vă asiguraţi că sunteţi permis pentru organizaţia dumneavoastră şi pentru colecția de site-ul. Pentru a face acest lucru, a se vedea [transforma externe sharing on sau off pentru SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    Dacă aceste opțiuni nu sunt disponibile, trebuie să vă asigurați că sunt permise pentru organizația dumneavoastră și pentru colecția de site-uri. Pentru aceasta, consultați [Activarea sau dezactivarea partajării externe pentru SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
     
-4. Faceţi clic pe **se aplică**.
+4. Faceți clic pe **se aplică**.
     
-5. Introduceţi numele persoanelor care doriţi să împartă cu, şi apoi faceţi clic pe **trimite**.
+5. Introduceți numele persoanelor cu care doriți să partajați, apoi faceți clic pe **Trimitere**.
     
 

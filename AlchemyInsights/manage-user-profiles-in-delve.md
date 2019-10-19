@@ -1,5 +1,5 @@
 ---
-title: Gestionați profiluri de utilizator în adânci
+title: Gestionați profilurile de utilizator în Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497203"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Gestionați profiluri de utilizator în adânci
+# <a name="manage-user-profiles-in-delve"></a>Gestionați profilurile de utilizator în Delve
 
-Birou adânci lets users a gestiona profilul lor de utilizator Office 365. Utilizatorii pot:
+Office Delve permite utilizatorilor să gestioneze profilul de utilizator Office 365. Utilizatorii pot:
   
-- Vezi şi actualiza informaţiile lor
+- Vizualizați și actualizați informațiile lor
     
-- Păstra unele informaţii private
+- Păstrați unele informații private
     
-- Schimba imaginea lor de acoperire sau profil
+- Schimbarea profilului sau a imaginii de copertă
     
-- Modificarea formatului de limbă şi de timp pentru adânci
+- Modificarea formatului limbii și orei pentru Delve
     
 > [!NOTE]
-> În cazul în care un utilizator actualizat lor poza de profil şi schimbare nu este care apar în SharePoint sau OneDrive, cereţi-le să deschideţi un browser web, [Du-te la Office.com](https://www.office.com), conectaţi-vă cu lor de lucru sau scoala cont, şi apoi faceţi clic pe ţiglă OneDrive sau SharePoint. Acest lucru va prompt poza de profil pentru a sincroniza. Utilizatorul poate fi necesar să încercaţi aceşti paşi cu versiunea privată a browser-ului lor de completare. 
+> Dacă un utilizator și-a actualizat fotografia de profil și modificarea nu apare în SharePoint sau OneDrive, cerați-le să deschidă un browser web, [accesați Office.com](https://www.office.com), conectați-vă cu contul lor de serviciu sau de școală, apoi faceți clic pe dala OneDrive sau SharePoint. Aceasta va solicita sincronizarea imaginii de profil. Utilizatorul poate avea nevoie pentru a încerca completarea acestor pași cu versiunea privată a browser-ului lor. 
   
-[Aflaţi mai multe despre actualizarea profiluri în adânci](https://go.microsoft.com/fwlink/?linkid=735070)
+[Aflați mai multe despre actualizarea profilurilor în Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

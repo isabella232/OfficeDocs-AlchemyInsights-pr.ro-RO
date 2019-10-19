@@ -1,5 +1,5 @@
 ---
-title: Acces interzis la un site de proiect Web App
+title: Acces refuzat la un site Project Web App
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661236"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Da utilizatorilor permisiuni în proiect Online
+# <a name="give-users-permissions-in-project-online"></a>Acordați permisiuni utilizatorilor în Project Online
 
-Accesul utilizatorilor la un proiect Web App folosind site-ul SharePoint permisiunea modul:
+Oferiți utilizatorilor acces la un site Project Web App utilizând modul de permisiune SharePoint:
 
-1. Conectaţi-vă la proiect Online, ca un admin.
-2. Pe pagina de start a proiectului Web App, selectaţi **Share** în colţul din dreapta.
-3. În caseta de dialog **Partajare proiectul Web App** , tastaţi numele de utilizator al persoanei pe care doriţi să dea acces în caseta **Invita oameni** .
-4. Selectaţi **Afişare opţiuni**şi în meniul **selectaţi un nivel de permisiune** , selectați **Manageri de proiect pentru proiectul Web App**.
-5. Selectaţi **Share**.
+1. Conectați-vă la Project Online ca administrator.
+2. Pe pagina de pornire Project Web App, selectați **Partajare** în colțul din dreapta sus.
+3. În caseta de dialog **Partajare proiect Web App** , tastați numele de utilizator al persoanei căreia doriți să îi acordați acces în caseta **invitați persoane** .
+4. Selectați **Afișare opțiuni**, și în **Selectați un nivel de permisiune** meniu, selectați **Project managerii pentru Project Web App**.
+5. Selectați **Partajare**.
 
-Dacă utilizaţi modul proiect permisiunile, sau pentru mai multe informaţii, vă rugăm să consultaţi [oameni Adăugare proiect online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Dacă utilizați modul de permisiuni de proiect sau pentru mai multe informații, consultați [adăugarea de persoane la Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

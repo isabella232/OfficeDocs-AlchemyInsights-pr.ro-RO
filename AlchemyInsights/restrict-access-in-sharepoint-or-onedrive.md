@@ -1,5 +1,5 @@
 ---
-title: Restricţiona accesul în SharePoint sau OneDrive
+title: Restricționați accesul în SharePoint sau OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 8/7/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551463"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restricţiona accesul în SharePoint sau OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restricționați accesul în SharePoint sau OneDrive
 
-În SharePoint şi OneDrive, vă restricţiona accesul la elemente ca fişiere, foldere şi listelor de acordare acces numai la grupuri sau persoane care doriţi să aibă acces. În mod implicit, permisiuni în SharePoint sunt moștenite de la mai sus în ierarhia. Deci un fişier moștenește permisiuni sale de la folderul care moștenește permisiuni sale de la biblioteca, care moștenește permisiuni sale de la site-ul.
+În SharePoint și OneDrive, Restricționați accesul la elemente ar fi fișiere, foldere și liste prin acordarea accesului numai la grupuri sau persoane pe care doriți să aveți acces. În mod implicit, permisiunile în SharePoint sunt moștenite de sus în ierarhia. Deci, un fișier moșteneste permisiunile sale din folderul, care moșteneste permisiunile sale de la biblioteca, care moșteneste permisiunile sale de la site-ul.
   
-Aveţi posibilitatea să partajaţi la un nivel superior (cum ar fi prin schimbul de un întreg site-ul) şi apoi rupe moştenire, în cazul în care nu doriţi să partajaţi toate elementele de pe site-ul. Cu toate acestea, nu recomandăm acest lucru pentru că face mentinerea permisiuni mai complexe şi confuze în viitor. Aici este ceea ce ai putea face în schimb:
+Puteți partaja la un nivel mai înalt (cum ar fi prin partajarea unui întreg site) și apoi rupe moștenirea dacă nu doriți să partajați toate elementele de pe site-ul. Cu toate acestea, nu recomandăm acest lucru, deoarece face menținerea permisiunile mai complexe și confuze în viitor. Iată ce ai putea face în schimb:
   
-- În cazul în care, de exemplu, doriţi să partajaţi toate conţinutul unui folder cu excepţia un fişier în ea, mutaţi fişierul respectiv într-o locaţie nouă, care nu este partajat.
+- Dacă, de exemplu, doriți să partajați tot conținutul unui folder, cu excepția unui fișier din acesta, mutați fișierul într-o locație nouă care nu este partajată.
     
-- Dacă aveţi două subfoldere într-un folder, şi doriţi să partajaţi un subfolder cu grupele A și B şi permite doar Grupa A acces la al doilea subdosar, partajaţi folderul părinte cu Grupa A şi adăugaţi grupa B la primul subfolder.
+- Dacă aveți două subfoldere într-un folder și doriți să partajați un subfolder cu grupurile A și B și să permiteți numai grupului A acces la al doilea subfolder, partajați folderul părinte cu grupul A și adăugați Grupa B la primul subfolder.
     
-[Opri partajarea unui fişier sau folder](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Oprirea partajării unui fișier sau a unui folder](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

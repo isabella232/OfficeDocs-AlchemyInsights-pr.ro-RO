@@ -1,5 +1,5 @@
 ---
-title: Adauga locuri la un abonament preplătite
+title: Adăugarea locurilor la un abonament preplătit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661020"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Adauga locuri la un abonament preplătite
+# <a name="add-seats-to-a-prepaid-subscription"></a>Adăugarea locurilor la un abonament preplătit
 
-Preplătit Office 365 licenţe sunt eliberate ca un cod de 25 de caractere alfanumerice. După ce aţi achiziţionat licenţe trebuie, adăugați-le la abonamentul. 
+Licențele preplătite Office 365 sunt emise pentru a vă ca un cod alfanumerice de 25 de caractere. După ce ați achiziționat licențele de care aveți nevoie, le puteți adăuga la abonament. 
 
-1. În centrul de administrare, du-te la **Facturare** > pagina[servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, accesați pagina produse de **Facturare** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Găsiţi abonament adăugaţi licenţe pentru. În secţiunea de **licenţe** , selectaţi **adăugaţi mai multe licenţe**.
+2. Găsiți abonamentul la care doriți să adăugați licențe. În secțiunea **licențe** , selectați **Adăugați mai multe licențe**.
 
-3. În panoul **adăugaţi mai multe licente** , selectaţi **utilizare o cheie de produs nou şi neutilizate**, apoi selectaţi **Următorul**.
+3. În panoul **Adăugați mai multe licențe** , selectați **Utilizați o cheie de produs nouă și neutilizată**, apoi selectați **Următorul**.
 
-4. Introduceţi cheia de produs, apoi selectaţi **Următorul**.
+4. Introduceți cheia de produs, apoi selectați **Următorul**.
 
     > [!NOTE]
-    > Dacă aveţi mai mult de un rezultat cheie, aveţi posibilitatea să selectaţi **adăugaţi un alt cheie de produs** pentru a introduce-le.
+    > Dacă aveți mai mult de o cheie de produs, puteți selecta **Adăugați o altă cheie de produs** pentru a le introduce.
 
-5. Revizuiţi detaliile comenzii, apoi selectaţi **validare**.
+5. Revizuiește detaliile comenzii, apoi selectează **valorifică**.
 
-Pentru a afla mai multe, consultaţi [adăuga licenţe la sau de a prelungi un abonament plătit pentru utilizând o cheie de produs](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Pentru a afla mai multe, consultați [adăugarea licențelor la sau extinderea unui abonament plătit pentru utilizarea unei chei de produs](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

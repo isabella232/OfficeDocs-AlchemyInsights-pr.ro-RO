@@ -1,5 +1,5 @@
 ---
-title: Activa şi atribuiţi licenţe software-as-a-service app
+title: Activați și atribuiți licențe pentru aplicații software-as-a-Service
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385732"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activa şi atribuiţi licenţe software-as-a-service app 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activați și atribuiți licențe pentru aplicații software-as-a-Service 
 
-## <a name="to-activate-apps"></a>Pentru a activa apps
+## <a name="to-activate-apps"></a>Pentru a activa aplicațiile
 
-1. În centrul de administrare, du-te la **Facturare** > [produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi selectaţi fila **aplicaţii** .
+1. În centrul de administrare, accesați pagina produse de **Facturare** > [& servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) , apoi alegeți fila **aplicații** .
 
-2. Găsiţi şi selectaţi aplicaţia pe care doriţi să gestionaţi.
+2. Găsiți și selectați aplicația pe care doriți să o gestionați.
 
-3. Sub **licenţe**, selectaţi **Configurarea contului în mesajul de eroare**.  
+3. Sub **licențe**, selectați **configurați contul în mesajul de eroare**.  
 
-## <a name="to-assign-app-licenses"></a>Pentru a asocia app licenţe
+## <a name="to-assign-app-licenses"></a>Pentru a atribui licențe de aplicații
 
-1. În centrul de administrare, du-te la **Facturare** > [produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi selectaţi fila **aplicaţii** .
+1. În centrul de administrare, accesați pagina produse de **Facturare** > [& servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) , apoi alegeți fila **aplicații** .
 
-2. Găsiţi şi selectaţi aplicaţia pe care doriţi să gestionaţi.  
+2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
-3. La **acţiuni de & Setări**, selectaţi link-ul de **administrare publica pe portalul**.
+3. Sub **setări & acțiuni**, selectați linkul de **gestionat în portalul editorului**.

@@ -1,5 +1,5 @@
 ---
-title: Adăugaţi un grup la un sit SharePoint
+title: Adăugarea unui grup la un sit SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495223"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Adăugaţi un grup la un sit SharePoint
+# <a name="add-a-group-to-a-sharepoint-site"></a>Adăugarea unui grup la un sit SharePoint
 
-Unele SharePoint team site-uri (inclusiv cele create în Microsoft Teams) sunt gestionate de către proprietarii de grup Office 365. Site-urile SharePoint și conținutul poate fi comun cu Office 365 grupuri şi cu grupuri SharePoint. Un grup SharePoint este o colecţie de utilizatori, care toate au acelaşi set de permisiuni de la site-uri şi conţinut. Pentru site-urile clasice, vă recomandăm să utilizaţi grupuri pentru a asocia convenabil acelaşi nivel de permisiune la mulţi oameni deodată, mai degrabă decât atribuirea permisiunilor o singură persoană la un moment dat.
+Unele site-uri de echipă SharePoint (inclusiv cele create în Microsoft teams) sunt gestionate de către proprietarii de grup Office 365. De asemenea, site-urile și conținutul SharePoint pot fi partajate cu grupurile Office 365 și cu grupurile SharePoint. Un grup SharePoint este o colecție de utilizatori care au toate același set de permisiuni pentru site-uri și conținut. Pentru site-urile clasice, vă recomandăm să utilizați grupuri pentru a atribui în mod convenabil același nivel de permisiune multor persoane simultan, în loc să atribuiți permisiuni unei persoane la un moment dat.
   
-Gestiona Office 365 membri ai grupului:
+Gestionați membrii grupului Office 365:
   
-1. Du-te la [pagina de grupuri în centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Accesați [pagina grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Selectaţi un grup pentru a vedea sale proprietarii şi membri. Pentru a adăuga sau elimina oameni, faceţi clic pe linkul **editaţi** în rândul **proprietarilor** sau **Membri** . 
+2. Selectați un grup pentru a vedea proprietarii și membrii săi. Pentru a adăuga sau a elimina persoane, faceți clic pe linkul **editați** din rândul **proprietarilor** sau **membrilor** . 
     
-Împărtăşesc un site de comunicare cu un grup de Office 365:
+Partajați un site de comunicare cu un grup Office 365:
   
-1. Du-te la site-ul într-un browser şi faceţi clic pe **partajare site** în dreapta sus. 
+1. Accesați site-ul într-un browser și dați clic pe **partajați site-ul** din dreapta sus. 
     
-2. Introduceţi numele grupului, şi apoi selectaţi nivelul de permisiune (citire, editare sau Full Control).
+2. Introduceți numele grupului, apoi selectați nivelul de permisiune (citire, editare sau control total).
     
-Creaţi un grup SharePoint pentru a utiliza cu un site clasic:
+Creați un grup SharePoint pentru a utiliza cu un site clasic:
   
-1. Du-te la site-ul într-un browser şi faceţi clic pe pictograma setări în colţul din dreapta sus.
+1. Accesați site-ul într-un browser și dați clic pe pictograma Setări din dreapta sus.
     
-2. Faceţi clic pe **Setări Site**, şi apoi la **utilizatori şi permisiuni**, faceţi clic pe **permisiuni de la site-ul**.
+2. Faceți clic pe **Setări site**, apoi sub **utilizatori și permisiuni**, faceți clic pe **permisiuni site**.
     
-3. Pe fila permisiuni, faceţi clic pe **Creare grup**.
+3. În fila permisiuni, faceți clic pe **Creare grup**.
     
-[Conectaţi un clasic echipa site-ului la un nou grup de Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Conectați un site de echipă clasic la un nou grup de 365 Office](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Aflaţi mai multe despre lucrul cu grupuri SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+[Aflați mai multe despre lucrul cu grupurile SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

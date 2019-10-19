@@ -1,5 +1,5 @@
 ---
-title: Fisier Word nu deschide pe dublu clic
+title: Fișierul Word nu s-a deschis pe dublu clic
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558197"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word document deschise în app greşit sau nu deschide
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Documentul Word deschis în aplicația greșită sau nu s-a deschis
 
-Încercaţi una dintre aceste sugestii:
+Încercați una dintre aceste sugestii:
 
-**Alege cuvântul ca implicit**
+**Alegeți Word ca implicit**
 
-- Faceţi clic dreapta pe document, alegeţi **Open cu**şi apoi alegeţi **cuvântul**
+- Faceți clic dreapta pe document, alegeți **Deschidere cu**, apoi alegeți **Word**
 
-**O reparare rapidă a alerga**
+**Rulați o reparare rapidă**
 
-1. Du-te la **Control Panel > programe > programe și caracteristici**.
+1. Accesați **panoul de Control > programe > programe și caracteristici**.
 
-2. Selectaţi produsul Office vă doriţi să o reparaţi şi apoi selectaţi **schimbare**.
+2. Selectați produsul Office pe care doriți să îl reparați, apoi alegeți **modificare**.
 
-3. Alegeți opțiunea de **Reparare rapidă** şi apoi selectaţi **Reparare**.
+3. Alegeți opțiunea **reparare rapidă** , apoi alegeți **Reparare**.
 
-**Dezinstalaţi versiunile de Office nu utilizaţi**
+**Dezinstalați versiunile Office pe care nu le utilizați**
 
-1. Du-te la **panoul de Control > dezinstalare Program**şi apoi selectaţi versiunea de Office pe care doriţi să eliminaţi.
+1. Accesați **panoul de Control > dezinstalați un program**, apoi selectați versiunea de Office pe care doriți să o eliminați.
 
-2. Faceţi clic pe **Dezinstalare**.
+2. Faceți clic pe **Dezinstalare**.
 
-3. Reporni ț i computerul.
+3. Reporniți computerul.
 
-**Executaţi acest instrument de depanare pentru a seta extensii de birou pentru a deschide în Office**
+**Executați acest depanator pentru a seta Office extensii de fișiere pentru a deschide în Office**
 
-1. Executaţi acest instrument de depanare: https://aka.ms/diag_officefile.
+1. Executați acest depanator https://aka.ms/diag_officefile:.
 
-2. În funcţie de browser-ul dvs., **deschideţi** sau **salvaţi** depanatorul desktop, şi apoi atunci **a alerga** it.
+2. În funcție de browserul dvs., **deschideți** sau **Salvați** depanatorul pe desktop, apoi **Executați** -l.

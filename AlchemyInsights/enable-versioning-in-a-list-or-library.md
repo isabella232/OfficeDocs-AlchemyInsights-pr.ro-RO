@@ -1,5 +1,5 @@
 ---
-title: Permite controlul versiunilor într-o listă sau o bibliotecă
+title: Activați versiuni într-o listă sau bibliotecă
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527447"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a>Permite controlul versiunilor pentru o listă sau o bibliotecă
+# <a name="enable-versioning-for-a-list-or-library"></a>Activați versiuni pentru o listă sau o bibliotecă
 
-1. Du-te la lista sau biblioteca.
+1. Accesați lista sau biblioteca.
     
-2. Faceţi clic pe **Setări**, şi apoi faceţi clic pe **Setări bibliotecă** sau **listă Setări**.
+2. Faceți clic pe **Setări**, apoi pe Setări **bibliotecă** sau pe **Setări listă**.
     
-3. Faceţi clic pe **Setări versiune**.
+3. Faceți clic pe **Setări versiune**.
     
-4. Selectați setările pe care doriţi, şi apoi faceţi clic pe **OK**.
+4. Selectați setările dorite, apoi faceți clic pe **OK**.
     
 

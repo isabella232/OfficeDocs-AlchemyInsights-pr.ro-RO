@@ -1,5 +1,5 @@
 ---
-title: Începeţi cu fluxul
+title: Începeți cu Flow
 ms.author: toresing
 author: tomresing
 ms.date: 5/18/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
 ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524207"
 ---
-# <a name="get-started-with-microsoft-flow"></a>Începeţi cu Microsoft Flow
+# <a name="get-started-with-microsoft-flow"></a>Începeți să începeți cu Microsoft Flow
 
-Cu Microsoft Flow, puteţi:
+Cu Microsoft Flow, aveți posibilitatea să:
   
-- Uşor de căutare pentru template-uri şi servicii.
+- Căutați cu ușurință șabloane și servicii.
     
-- Alege din cele mai populare servicii.
+- Alegeți dintre cele mai populare servicii.
     
-- Vedeți o prezentare generală a fiecare flux.
+- Vedeți o prezentare generală a fiecărui flux.
     
-[Aflaţi mai multe despre Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
+[Aflați mai multe despre Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

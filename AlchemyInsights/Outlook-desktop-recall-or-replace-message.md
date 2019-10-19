@@ -1,5 +1,5 @@
 ---
-title: Outlook amintesc Desktop sau înlocuiţi un mesaj de e-mail
+title: Outlook desktop amintesc sau înlocui un mesaj de e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496123"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Amintesc sau să înlocuiască un mesaj de poştă electronică Outlook
+# <a name="recall-or-replace-an-outlook-email-message"></a>Retragerea sau înlocuirea unui mesaj de e-mail Outlook
 
-- Ca administrator, puteţi **amintesc mesaje în numele utilizatorilor folosind PowerShell**. Nu pot aminti mesaje de la centrul de administrare.
-- Puteţi **doar amintesc mesajele care sunt trimise la oameni în cadrul organizaţiei**. Dacă mesajul a fost trimis la o adresă de Gmail, de exemplu, tu nu pot aminti ea.
-- Puteţi **doar amintesc mesajele trimise din Outlook 2016 pe PC-ul**. Dacă un utilizator trimite un mesaj cu ajutorul Outlook pentru Mac sau Outlook de pe web, tu nu-l amintesc.
+- Ca admin, puteți **aminti mesaje în numele utilizatorilor folosind PowerShell**. Nu vă puteți aminti mesajele de la centrul de administrare.
+- Puteți **aminti doar mesajele care sunt trimise către persoane din organizația dvs**. Dacă mesajul a fost trimis la o adresă Gmail, de exemplu, nu vă puteți aminti.
+- Puteți **aminti doar mesajele trimise din Outlook 2016 pe PC**. Dacă un utilizator trimite un mesaj utilizând Outlook pentru Mac sau Outlook pe web, nu vă puteți aminti.
 
-Să-mi amintesc sau să înlocuiască un mesaj de e-mail:
+Pentru a rechema sau a înlocui un mesaj e-mail:
 
-1. În panoul de foldere pe partea stângă a ferestrei Outlook, selectaţi folderul Elemente trimise.
-1. Faceţi dublu clic pe mesajul pe care doriţi să se amintească pentru a o deschide.
-1. Selectaţi fila **mesaj** şi selectaţi **Acţiuni** > **Amintesc acest mesaj**.
-1. Selectaţi **ştergeţi copiilor necitite ale acestui mesaj** sau **ştergeţi copiilor necitite și înlocuirea cu un mesaj nou**, şi apoi selectaţi **OK**.
-1. Dacă sunteţi trimite un mesaj de inlocuire, compune mesajul şi selectaţi **trimite**.
-1. Succesul sau eşecul de un recall de mesaj depinde de setările de destinatar în Outlook. Pentru câţiva paşi pentru a verifica pe recall, a se vedea [acest articol](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. În panoul de foldere din partea stângă a ferestrei Outlook, selectați folderul Elemente trimise.
+1. Faceți dublu clic pe mesajul pe care doriți să-l reamintiți pentru a-l deschide.
+1. Selectați fila **mesaj** , apoi selectați **acțiuni** > **reamintiți acest mesaj**.
+1. Selectați **ștergeți copiile necitite ale acestui mesaj** sau **ștergeți copiile necitite și înlocuiți cu un mesaj nou**, apoi selectați **OK**.
+1. Dacă trimiteți un mesaj de înlocuire, compuneți mesajul, apoi selectați **Trimitere**.
+1. Succesul sau eșecul unui mesaj de retragere depinde de setările destinatarului în Outlook. Pentru pași pentru a verifica pe Recall, a se vedea [acest articol](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Caută şi ştergeţi mesajele de e-mail în cadrul organizaţiei
+Căutați și ștergeți mesajele de e-mail din organizația dvs.
 
-- Dacă nu sunteţi un administrator global, contul trebuie să fie adăugat rolul de Manager eDiscovery sau rol de gestionare conformitate Search pentru a căuta mesajele. Pentru a ºterge mesaje, veţi avea nevoie să se alăture grupului de roluri Gestionare organizaţie sau rol de gestionare căutare și Golire. Permisiunile pentru aceste roluri sunt atribuite în [Centrul de securitate şi de conformitate](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Creaţi un conţinut de căutare](https://docs.microsoft.com/office365/securitycompliance/content-search) pentru a găsi mesajul pentru a şterge.
-- [Conecta la securitatea şi conformitatea centrul PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Dacă nu sunteți administrator global, contul trebuie adăugat la rolul eDiscovery Manager sau la rolul de gestionare a căutării de conformitate pentru a căuta mesaje. Pentru a șterge mesajele, va trebui să vă alăturați grupului de roluri Gestionare organizație sau rolului de gestionare căutare și Golire. Permisiunile pentru aceste roluri sunt atribuite în [Centrul de securitate și conformitate](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Creați o căutare de conținut](https://docs.microsoft.com/office365/securitycompliance/content-search) pentru a găsi mesajul de șters.
+- [Conectați-vă la centrul de securitate și conformitate PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Dacă utilizaţi autentificarea multi-factor, consultaţi [Conectare la Office 365 securitatea şi conformitatea centrul PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Dacă utilizați autentificarea multi-factor, consultați [conectarea la Office 365 securitate și centrul de conformitate PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

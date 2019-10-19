@@ -1,5 +1,5 @@
 ---
-title: Alchimia - nu se poate conecta la Outlook.com
+title: Alchemy-nu se poate conecta la Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
 ms.openlocfilehash: 6c13c50e66dc8575c5b1803e83b8842c0481511e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36493963"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Puteţi conecta la Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>Imposibil de făcut sign in la Outlook.com
 
-Dacă întâmpini probleme semnarea în contul dumneavoastră, asiguraţi-vă că contul dumneavoastră nu a fost inactiv pentru mai mult de 365 de zile. Dupa 365 de zile de inactivitate, adresa de email va fi ştearsă şi nu pot fi recuperate.
+Dacă întâmpinați probleme la conectarea contului dvs., asigurați-vă că contul nu a fost inactiv mai mult de 365 de zile. După 365 de zile de inactivitate, e-mailul va fi șters și nu poate fi recuperat.
   
-Contul ar putea fi blocate temporar deoarece am observat ceva neobişnuit sign in activitate. În cazul în care contul tău este blocat, citiţi cum să [Deblocare contul Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
+Este posibil ca contul tău să fie blocat temporar pentru că am observat o activitate de conectare neobișnuită. În cazul în care contul este blocat, citiți să [deblocați contul meu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
   
-Dacă bănuiţi că a fost spart contul Outlook.com, consultaţi [cont Outlook.com meu a fost piratat](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
+Dacă bănuiți că contul Outlook.com a fost tocat, consultați [contul meu Outlook.com a fost tocat](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
   
-Dacă v-aţi uitat sau pierdut parola, poti [reseta parola](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Dacă v-ați uitat sau ați pierdut parola, puteți [reseta parola](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Citeşte mai multe despre [atunci când nu vă puteţi conecta la contul de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Citiți mai multe despre [când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
 
