@@ -1,5 +1,5 @@
 ---
-title: 9000215 Outlook.com abonamente
+title: 9000215 abonamente Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511823"
 ---
-# <a name="subscriptions-and-unsubscribing"></a><span data-ttu-id="71c79-102">Abonamente şi dezabonare</span><span class="sxs-lookup"><span data-stu-id="71c79-102">Subscriptions and unsubscribing</span></span>
+# <a name="subscriptions-and-unsubscribing"></a><span data-ttu-id="ebf5e-102">Abonamente și dezabonare</span><span class="sxs-lookup"><span data-stu-id="ebf5e-102">Subscriptions and unsubscribing</span></span>
 
-<span data-ttu-id="71c79-103">Dacă doriţi pentru a opri primirea newslettere sau promoţii, există două moduri vă puteţi dezabona în Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="71c79-103">If you want to stop receiving newsletters or promotions, there are two ways you can unsubscribe in Outlook.com:</span></span>
+<span data-ttu-id="ebf5e-103">Dacă doriți să opriți primirea buletinelor informative sau a promoțiilor, există două modalități prin care vă puteți dezabona în Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="ebf5e-103">If you want to stop receiving newsletters or promotions, there are two ways you can unsubscribe in Outlook.com:</span></span>
 
-1. <span data-ttu-id="71c79-104">În inbox, selectați un buletin informativ sau e-mail promoţionale.</span><span class="sxs-lookup"><span data-stu-id="71c79-104">In your inbox, select a newsletter or promotional email.</span></span> <span data-ttu-id="71c79-105">În partea de sus din panoul de citire, selectaţi **dezabonare**.</span><span class="sxs-lookup"><span data-stu-id="71c79-105">At the top of the reading pane, select **Unsubscribe**.</span></span>
-2. <span data-ttu-id="71c79-106">Deschideţi [Setări de abonamente Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Setări** > **Vezi toate setările de Outlook** > **E-mail** > **abonamente**) şi selectaţi **dezabonare**.</span><span class="sxs-lookup"><span data-stu-id="71c79-106">Open your [Outlook.com subscriptions settings](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Settings** > **View all Outlook settings** > **Email** > **Subscriptions**) and select **Unsubscribe**.</span></span>
+1. <span data-ttu-id="ebf5e-104">În Inbox, selectați un buletin informativ sau un e-mail promoțional.</span><span class="sxs-lookup"><span data-stu-id="ebf5e-104">In your inbox, select a newsletter or promotional email.</span></span> <span data-ttu-id="ebf5e-105">În partea de sus a panoului de citire, selectați **dezabonare**.</span><span class="sxs-lookup"><span data-stu-id="ebf5e-105">At the top of the reading pane, select **Unsubscribe**.</span></span>
+2. <span data-ttu-id="ebf5e-106">Deschideți [setările abonamentelor Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Setări** > **Vizualizați toate** > \*\*\*\* > **abonamentele**de e-mail ale setărilor Outlook) și selectați **dezabonare**.</span><span class="sxs-lookup"><span data-stu-id="ebf5e-106">Open your [Outlook.com subscriptions settings](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Settings** > **View all Outlook settings** > **Email** > **Subscriptions**) and select **Unsubscribe**.</span></span>
 
-<span data-ttu-id="71c79-107">Note:</span><span class="sxs-lookup"><span data-stu-id="71c79-107">Notes:</span></span>
+<span data-ttu-id="ebf5e-107">Note:</span><span class="sxs-lookup"><span data-stu-id="ebf5e-107">Notes:</span></span>
 
-- <span data-ttu-id="71c79-108">Nu toţi clienţii pot beneficia de această facilitate în acest moment.</span><span class="sxs-lookup"><span data-stu-id="71c79-108">Not all customers can benefit from this feature at the moment.</span></span>
-- <span data-ttu-id="71c79-109">Veţi vedea doar această facilitate dacă aţi primit un e-mail de la compania trimiterea e-mail subscris.</span><span class="sxs-lookup"><span data-stu-id="71c79-109">You'll only see this feature if you've received an email from the company sending subscribed email.</span></span>
+- <span data-ttu-id="ebf5e-108">Nu toți clienții pot beneficia de această caracteristică în acest moment.</span><span class="sxs-lookup"><span data-stu-id="ebf5e-108">Not all customers can benefit from this feature at the moment.</span></span>
+- <span data-ttu-id="ebf5e-109">Veți vedea această caracteristică numai dacă ați primit un e-mail de la compania care trimite e-mail abonat.</span><span class="sxs-lookup"><span data-stu-id="ebf5e-109">You'll only see this feature if you've received an email from the company sending subscribed email.</span></span>
