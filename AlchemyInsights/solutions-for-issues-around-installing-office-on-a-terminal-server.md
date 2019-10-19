@@ -1,5 +1,5 @@
 ---
-title: Soluţii pentru probleme în jurul instalarea office pe un Server Terminal
+title: Soluții pentru probleme în jurul instalării Office pe un server terminal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501487"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Soluţii pentru probleme în jurul instalarea office pe un Server Terminal
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Soluții pentru probleme în jurul instalării Office pe un server terminal
 
-Pentru a utiliza shared calculator activation, trebuie să aveţi un plan de Office 365 care include Office 365 ProPlus.
+Pentru a utiliza activarea computerului partajat, trebuie să aveți un plan Office 365 care include Office 365 ProPlus.
   
-- Verificaţi că shared calculator activation is enabled pentru Office 365 ProPlus
+- Verificați că activarea computerului partajat este activată pentru Office 365 ProPlus
     
-- Verificaţi că i-a succedat de activare pentru Office 365 ProPlus
+- Verificați că activarea pentru Office 365 ProPlus a reușit
     
-- Mesaje de eroare pentru shared calculator activation de revizuire:
+- Examinați mesajele de eroare pentru activarea computerului partajat:
     
-  - "Produsele am găsit în contul nu poate fi folosit la activate Office în scenarii de shared calculator"
+  - "Produsele pe care le-am găsit în contul dvs. nu pot fi utilizate pentru a activa Office în scenarii de computer partajate"
   
-Această eroare înseamnă că nu aveţi un plan de Office 365 care include Office 365 ProPlus.
+Această eroare înseamnă că nu aveți un plan Office 365 care include Office 365 ProPlus.
     
-  - "Produs fără licenţă"
+  - "Produs fără licență"
     
-  - Verificaţi că utilizatorul este asociată o licenta pentru Office 365 ProPlus.
+  - Verificați dacă utilizatorului i se atribuie o licență pentru Office 365 ProPlus.
     
-  - Verificaţi că utilizatorul semnează cu ei contul de utilizator pentru Office 365
+  - Verificați dacă utilizatorul se conectează cu contul de utilizator pentru Office 365
     
-  - Verificaţi că nu există conectivitate între shared calculator şi Internet.
+  - Verificați dacă există conectivitate între computerul partajat și internet.
     
-Pentru alte sfaturi de depanare, vă rugăm să consultaţi: [Depanarea problemelor cu activare shared calculator pentru Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Pentru alte sfaturi de depanare, vă rugăm să consultați: [Depanarea problemelor cu activarea computerului partajat pentru Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

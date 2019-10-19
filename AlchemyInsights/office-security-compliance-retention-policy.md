@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753772"
 ---
 # <a name="more-info-about-retention-policies"></a>Mai multe informații despre politicile de conservare
@@ -26,13 +26,13 @@ Pentru majoritatea organizațiilor, volumul și complexitatea datelor lor este �
 
 ## <a name="a-from-security-and-compliance-center"></a>A) de la centrul de securitate și conformitate
 
-- Mergeți la securitate și conformitate _ Gt_ administrare date _ Gt_ retenție
+- Du-te la securitate și conformitate > guvernanța datelor > retenție
   - Consultați [acest](https://docs.microsoft.com/office365/securitycompliance/retention-policies) articol
 
-- Accesați securitate și conformitate _ Gt_ eDiscovery> Advanced eDiscovery 
+- Accesați securitate și conformitate > eDiscovery> Advanced eDiscovery 
   - Consultați [acest](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) articol
 
-- Mergeți la securitate și conformitate _ Gt_ clasificări _ Gt_ retenție
+- Du-te la securitate și conformitate > clasificări > retenție
   - A se vedea aceste articole
     - [Etichete sensibilitate](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Prezentare generală a etichetelor](https://docs.microsoft.com/office365/securitycompliance/labels)

@@ -7,12 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1828"
+- "9000231"
+ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750081"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818798"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Când se modifică profilul meu sincronizarea la aplicația profil de utilizator SharePoint?
 
@@ -20,11 +23,11 @@ Sincronizarea imaginii de profil în SharePoint Online necesită acțiunea unui 
 
 Dacă un utilizator nu a efectuat o acțiune care ar solicita o sincronizare sau le-au actualizat imaginea de profil și unul nou nu apare în SharePoint Online, utilizatorul poate avea nevoie pentru a solicita sincronizarea. Iată pot face acest lucru:
 
-- Deschideți un browser Web într-o sesiune în-privat sau incognito și [accesați Office.com](http://www.office.com/).
+1. Deschideți un browser Web într-o sesiune în-privat sau incognito și [accesați Office.com](http://www.office.com/).
 
-- Conectați-vă cu contul lor de lucru sau școală și faceți clic pe dala OneDrive sau SharePoint.
+2. Conectați-vă cu contul lor de lucru sau școală și faceți clic pe dala OneDrive sau SharePoint.
 
-- [Adăugați fotografia de profil la Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+3. [Adăugați fotografia de profil la Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-- [Informații despre sincronizarea imaginii de profil în Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+[Informații despre sincronizarea imaginii de profil în Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

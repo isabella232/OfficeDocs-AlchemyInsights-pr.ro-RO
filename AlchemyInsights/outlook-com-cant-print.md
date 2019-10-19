@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36547935"
 ---
-# <a name="unable-to-print"></a>Imposibilitatea de a imprima
+# <a name="unable-to-print"></a>Imposibil de imprimat
 
-Suntem conştienţi de o problemă în cazul în care unii utilizatori nu poate imprima atunci când utilizaţi browser-ele Safari sau Edge. În timp ce lucram pe un fix pentru acest lucru, va rugam sa folositi un alt browser. Ne cerem scuze pentru neplăcerile create.
+Suntem conștienți de o problemă în cazul în care unii utilizatori nu pot imprima atunci când se utilizează Safari sau Edge browsere. În timp ce lucrăm la o remediere pentru acest lucru, vă rugăm să utilizați un alt browser. Ne cerem scuze pentru deranj.

@@ -1,5 +1,5 @@
 ---
-title: Site-ul modernă ca site-ul rădăcină
+title: Site-ul modern ca site-ul rădăcină
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503503"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576698"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernizarea site-ul SharePoint clasic
+# <a name="modernize-your-classic-sharepoint-site"></a>Modernizați site-ul SharePoint clasic
 
-A se vedea următoarele pentru detalii despre utilizarea nouă experienţă moderne:
+Pentru a comuta la o interfață de utilizator modernă, trebuie să vă concentrați pe următoarele:
 
-- Pentru o privire de ansamblu-cu-pas de modernizarea clasic site-urile SharePoint la experienţa moderne, a se vedea [Modernize clasic site-urile SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Tranzitia **listele și bibliotecile** pentru a utiliza interfața cu utilizatorul moderne (de asemenea, menționată ca lista moderna si experienta biblioteca).
+- Transformarea **paginile site-ului** de la wiki-uri clasice și pagini Web parte în paginile moderne de partea client.
+- Crearea de **site-uri moderne** (site-ul echipei sau site-ul de comunicare).
 
-- Să maximizeze utilizarea de interfaţă de utilizator modern pentru site-ul pagini şi pagini lista şi biblioteca, a se vedea [Modernize interfaţa cu utilizatorul](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Modernizați-vă experiența prin:
+- [Permiterea listelor și bibliotecilor să apară în interfața cu utilizatorul modernă](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) înlocuind particularizările, eliminând coloanele incompatibile din vizualizările utilizate sau (ca ultimă instanță) mutarea datelor într-un tip de listă compatibil cu interfața de utilizator modernă.
+- [Conectarea site-ul la un grup de Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), care oferă site-ul o pagină de pornire modernă și permite site-ul pentru a utiliza, de exemplu, o cutie poștală sau Microsoft Planner. Acest lucru vă permite să utilizați o versiune modernă a unui calendar și a listei de activități.
+- [Crearea de pagini moderne](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), este o modalitate foarte bună de a partaja idei folosind imagini, Excel, Word și PowerPoint documente, video, și mai mult.
+- [Crearea de pagini moderne de partea clientului](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) și configurarea acestora pentru a fi "similare" pentru a vă cheie clasic wiki și pagini Web parte. Transformarea programatic pagina ar trebui să se facă pentru paginile cheie ale site-urile dvs., ca transformarea toate paginile este consumatoare de resurse și de multe ori nu este necesar. Pentru a asista la acest triaj, scanerul de modernizare SharePoint vă poate oferi informații de utilizare despre paginile wiki și partea Web curentă.
+- [Crearea de site-uri moderne](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Ar trebui să creez un site de echipă sau un site de comunicare?
 
-- Pentru a afla mai multe despre cum pentru a debloca dumneavoastră liste și biblioteci, atunci când se utilizează o interfaţă de utilizator modern, a se vedea [Maximizaţi utilizarea moderne liste și biblioteci](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Informații suplimentare: 
+- Pentru o prezentare generală pas cu pas a modernizării site-urilor SharePoint clasice la experiența modernă, consultați [modernizarea site-urilor SharePoint clasice](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- A se vedea un ghid pentru [experiența modernă](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Vedeți [experiențele SharePoint Classic și modern](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Pentru informaţii suplimentare despre conectarea la un grup de Office 365 şi efectuează o conexiune de Grupa, a se vedea [conectarea la un grup de Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+
