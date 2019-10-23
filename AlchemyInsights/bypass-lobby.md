@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376789"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637789"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Setările lobby-ului de control și nivelul de participare
 
-Aceste setări controlează care participanți la întâlnire așteaptă în lobby înainte de a fi admiși la întâlnire și nivelul de participare pe care sunt permise într-o întâlnire. Aveți posibilitatea să utilizați PowerShell pentru a actualiza setările de politică de întâlnire care nu au fost încă implementate (etichetate "în curând") în centrul de administrare echipe.  Consultați mai jos pentru un exemplu cmdlet PowerShell care permite tuturor utilizatorilor să ocolească lobby-ul.  
+Dacă doriți să permiteți tuturor, inclusiv utilizatorilor dial-in, externi și anonimi să ocolească lobby-ul, puteți utiliza PowerShell pentru a o face. Iată un exemplu de modificare a politicii globale de întâlnire pentru organizația dvs.:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Acest cmdlet necesită în prezent utilizarea Skype pentru afaceri PowerShell modulul. Pentru a obține instalarea pentru a utiliza acest cmdlet, consultați Gestionarea politicilor prin intermediul PowerShell.
+
+Aveți posibilitatea să configurați o politică nouă, pe care va trebui apoi să o aplicați utilizatorilor. Dacă modificați politica globală, aceasta se va aplica automat utilizatorilor. Pentru orice schimbare de politică trebuie să așteptați cel puțin 4 ore și până la 24 de ore pentru ca politicile să aibă efect.
+
+Asigurați-vă că pentru a revizui documentația de mai jos înainte de a face aceste modificări pentru a înțelege exact ceea ce permite acest lucru.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Înțelegerea echipelor de întâlnire controale politica lobby
 
 - [Recunoaște automat că persoanele](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) sunt o politică per organizator care controlează dacă persoanele se alătură direct unei întâlniri sau așteaptă în lobby până când sunt admise de un utilizator autentificat.
 
@@ -30,15 +40,4 @@ Aceste setări controlează care participanți la întâlnire așteaptă în lob
 
 - [Permiteți organizatorilor să suprascrie setările lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) -ului (**în curând**) este o politică per-organizator care controlează dacă organizatorul întâlnirii poate suprascrie setările de lobby pe care un administrator le-a setat în **mod automat să admită persoane** și să **permită dial-in utilizatorii să ocolească lobby-** ul când programează o nouă întâlnire.
 
-**Notă:** Citiți [Gestionați politicile de întâlnire în echipe](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) pentru o prezentare generală completă a politicilor de întâlnire Microsoft teams. 
-
-
-**Exemplu PowerShell**
-
-Dacă doriți să permiteți tuturor, inclusiv utilizatorilor externi sau anonimi, să ocoliți lobby-ul, puteți utiliza și PowerShell pentru a realiza această activitate.  Iată un exemplu de modificare a politicii globale de întâlnire pentru organizația dvs.   
-
-(Asigurați-vă că pentru a revizui documentația de mai sus înainte de a face aceste modificări pentru a înțelege exact ceea ce permite acest lucru.)
-
-Set-CsTeamsMeetingPolicy-identitate global-AutoAdmittedUsers "toată lumea"-AllowPSTNUsersToBypassLobby $True
-
-Pentru mai multe informații, consultați [set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Notă:** Citiți [Gestionați politicile de întâlnire în echipe](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) pentru o prezentare generală completă a politicilor de întâlnire Microsoft teams.
