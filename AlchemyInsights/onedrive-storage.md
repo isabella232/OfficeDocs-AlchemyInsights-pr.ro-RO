@@ -1,5 +1,5 @@
 ---
-title: Stocare OneDrive
+title: Stocarea OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661056"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658305"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="6b163-102">Gestiona spaţiul de stocare OneDrive</span><span class="sxs-lookup"><span data-stu-id="6b163-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="9e3c0-102">Gestionați spațiul de stocare OneDrive</span><span class="sxs-lookup"><span data-stu-id="9e3c0-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="6b163-103">Pentru a schimba implicit de stocare pentru utilizatorii OneDrive noi şi existente:</span><span class="sxs-lookup"><span data-stu-id="6b163-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="6b163-104">Du-te la [pagina de stocare OneDrive admin Center](https://admin.onedrive.com/?v=StorageSettings), şi apoi introduceţi o valoare nouă în GB.</span><span class="sxs-lookup"><span data-stu-id="6b163-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="9e3c0-103">Spațiu de stocare OneDrive nu se contorizați spre global entitate găzduită cotă.</span><span class="sxs-lookup"><span data-stu-id="9e3c0-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="6b163-105">Depozitare spaţiu setarea se aplică tuturor utilizatorilor pentru care nu s-au stabilit limitele de stocare specifice.</span><span class="sxs-lookup"><span data-stu-id="6b163-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="6b163-106">Pentru a modifica spaţiul de stocare pentru anumiţi utilizatori, trebuie să utilizaţi Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="6b163-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="6b163-107">Pentru informaţii despre cum să facă acest lucru, a se vedea [schimbarea utilizatorilor spaţiu de stocare OneDrive folosind PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="6b163-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="6b163-108">Pentru a verifica cât de mult de stocare folosiţi în propriul OneDrive, consultaţi [Administreaza dumneavoastră OneDrive pentru Business Magazin](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="6b163-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="6b163-109">Pentru informaţii despre stocare care vine cu fiecare plan, a se vedea [OneDrive pentru Descrierea de serviciu de afaceri](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="6b163-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="9e3c0-104">Aflați [se alocă spațiul de stocare OneDrive per utilizator/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="9e3c0-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="9e3c0-105">Aflați [cât de mult spațiu de stocare utilizați în OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="9e3c0-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="9e3c0-106">Aflați [să obțineți cota de stocare OneDrive utilizând PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="9e3c0-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="9e3c0-107">Microsoft va furniza inițial 1 TB per utilizator, care administratorii pot crește până la 5 TB per utilizator.</span><span class="sxs-lookup"><span data-stu-id="9e3c0-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="9e3c0-108">Aflați să [Setați spațiul de stocare implicit pentru utilizatorii OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="9e3c0-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="9e3c0-109">Aflați [să schimbați spațiul de stocare OneDrive al unui anumit utilizator](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="9e3c0-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="9e3c0-110">Aflați [Global Admins poate seta cota de stocare OneDrive pentru toți utilizatorii care utilizează PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="9e3c0-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   
