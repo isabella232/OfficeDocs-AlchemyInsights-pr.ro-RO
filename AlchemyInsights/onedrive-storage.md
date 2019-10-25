@@ -1,5 +1,5 @@
 ---
-title: Stocare OneDrive
+title: Stocarea OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661056"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658305"
 ---
-# <a name="manage-your-onedrive-storage"></a>Gestiona spaţiul de stocare OneDrive
+# <a name="manage-your-onedrive-storage"></a>Gestionați spațiul de stocare OneDrive
 
-Pentru a schimba implicit de stocare pentru utilizatorii OneDrive noi şi existente:
-  
-- Du-te la [pagina de stocare OneDrive admin Center](https://admin.onedrive.com/?v=StorageSettings), şi apoi introduceţi o valoare nouă în GB.
+Spațiu de stocare OneDrive nu se contorizați spre global entitate găzduită cotă. 
 
-Depozitare spaţiu setarea se aplică tuturor utilizatorilor pentru care nu s-au stabilit limitele de stocare specifice. Pentru a modifica spaţiul de stocare pentru anumiţi utilizatori, trebuie să utilizaţi Microsoft PowerShell. Pentru informaţii despre cum să facă acest lucru, a se vedea [schimbarea utilizatorilor spaţiu de stocare OneDrive folosind PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Pentru a verifica cât de mult de stocare folosiţi în propriul OneDrive, consultaţi [Administreaza dumneavoastră OneDrive pentru Business Magazin](https://go.microsoft.com/fwlink/?linkid=866429). Pentru informaţii despre stocare care vine cu fiecare plan, a se vedea [OneDrive pentru Descrierea de serviciu de afaceri](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Aflați [se alocă spațiul de stocare OneDrive per utilizator/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Aflați [cât de mult spațiu de stocare utilizați în OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Aflați [să obțineți cota de stocare OneDrive utilizând PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Microsoft va furniza inițial 1 TB per utilizator, care administratorii pot crește până la 5 TB per utilizator. Aflați să [Setați spațiul de stocare implicit pentru utilizatorii OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Aflați [să schimbați spațiul de stocare OneDrive al unui anumit utilizator](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Aflați [Global Admins poate seta cota de stocare OneDrive pentru toți utilizatorii care utilizează PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637789"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654268"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Setările lobby-ului de control și nivelul de participare
 
@@ -24,7 +24,7 @@ Dacă doriți să permiteți tuturor, inclusiv utilizatorilor dial-in, externi �
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Acest cmdlet necesită în prezent utilizarea Skype pentru afaceri PowerShell modulul. Pentru a obține instalarea pentru a utiliza acest cmdlet, consultați Gestionarea politicilor prin intermediul PowerShell.
+Acest cmdlet necesită în prezent utilizarea Skype pentru afaceri PowerShell modulul. Pentru a obține instalarea pentru a utiliza acest cmdlet, consultați [gestionarea politicilor prin intermediul PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Aveți posibilitatea să configurați o politică nouă, pe care va trebui apoi să o aplicați utilizatorilor. Dacă modificați politica globală, aceasta se va aplica automat utilizatorilor. Pentru orice schimbare de politică trebuie să așteptați cel puțin 4 ore și până la 24 de ore pentru ca politicile să aibă efect.
 

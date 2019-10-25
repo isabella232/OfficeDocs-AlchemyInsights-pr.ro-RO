@@ -1,9 +1,8 @@
 ---
-title: Depozit SharePoint
+title: Stocare SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502736"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658269"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Gestiona spaţiul de stocare SharePoint Online
+# <a name="manage-your-sharepoint-online-storage"></a>Gestionați spațiul de stocare SharePoint Online
 
-Pentru majoritatea organizaţiilor, depozit SharePoint este gestionat automat, Deci nu este nevoie să se stabilească limite pe site-ul de colectare. Pentru a verifica cât de mult aveţi de stocare SharePoint:
-  
-- În noul centru de administrare SharePoint, în partea superioară dreapta a paginii site-uri, uita-te pentru spaţiul de stocare disponibil şi total.
+Aflați [se calculează stocarea chiriașului](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) pe baza planului dvs.
 
-Pentru informaţii despre cum se calculeaza limita, a se vedea [Limite Online SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Pentru a cumpăra suplimentare de depozitare, a se vedea [schimbarea spaţiu de stocare pentru abonamentul](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Pentru informaţii despre depozitul de site-uri individuale de monitorizare folosind PowerShell şi gestionarea stocarea de colecţie site-ul manual, consultaţi [Administreaza site-ul de colectare limitele de stocare](https://go.microsoft.com/fwlink/?linkid=867833)
+Pentru majoritatea organizațiilor, stocarea SharePoint este gestionată automat, astfel încât nu este necesar să setați limite pentru fiecare colecție de site-uri.
+
+Aflați să [Vizualizați spațiul de stocare total și disponibil pentru organizația dvs](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Aflați să [Gestionați limitele individuale de stocare a colecției de site-](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)uri.
+
+Dacă site-ul este în afara spațiului sau doriți să aflați ce bibliotecă sau listă utilizează spațiul, accesați **site-ul Setări** > **de stocare valori** (site-ul colecție permisiuni de administrator sunt necesare).
+
+Aflați să [monitorizați limitele de stocare a site-ului utilizând PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Aflați să [cumpărați un spațiu de stocare suplimentar](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
