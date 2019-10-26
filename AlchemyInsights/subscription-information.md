@@ -1,5 +1,5 @@
 ---
-title: Informatii legate de inscriere
+title: Informații despre abonament
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501244"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576888"
 ---
-# <a name="subscription-information"></a>Informatii legate de inscriere
+# <a name="subscription-information"></a>Informații despre abonament
 
-Pentru informaţii despre abonamentele Office 365 proprii, în centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Pentru informații despre abonamentele pe care le dețineți, accesați pagina produse de **Facturare** \> [& servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Informaţii cheie despre fiecare abonament:
+Informații cheie despre fiecare abonament:
   
-- Statutul de fiecare
+- Starea fiecărui
 
-- Licenţe achiziţionate
+- Licențe achiziționate
 
-- Licenţe atribuite
+- Licențe atribuite
 
-- Statutul recurente de facturare
+- Stare de facturare recurentă
 
-- Echilibru
+- Ballance
 
-- Metodă de plată
+- Modalitatea de plată
 
-- Următoarea dată de facturare sau expirare
+- Următoarea dată de facturare sau de expirare
