@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36740153"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="50f5f-102">550 5.7.501 acces refuzat, abuzul de spam detectat</span><span class="sxs-lookup"><span data-stu-id="50f5f-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="8b5c2-102">550 5.7.501 acces refuzat, abuzul de spam detectat</span><span class="sxs-lookup"><span data-stu-id="8b5c2-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="50f5f-103">De obicei, acest mesaj apare atunci când utilizatorii trimit mesaje de poștă electronică de la adresele IP utilizând domeniul *onmicrosoft.com* inițială care este atribuită chiriașilor noi în Office 365.</span><span class="sxs-lookup"><span data-stu-id="50f5f-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="50f5f-104">Cel mai simplu mod de a rezolva această problemă este de a:</span><span class="sxs-lookup"><span data-stu-id="50f5f-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="8b5c2-103">De obicei, acest mesaj apare atunci când utilizatorii trimit mesaje de poștă electronică de la adresele IP utilizând domeniul *onmicrosoft.com* inițială care este atribuită chiriașilor noi în Office 365.</span><span class="sxs-lookup"><span data-stu-id="8b5c2-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="8b5c2-104">Cel mai simplu mod de a rezolva această problemă este de a:</span><span class="sxs-lookup"><span data-stu-id="8b5c2-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="50f5f-105">[Adăugați un domeniu la entitate găzduită](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="50f5f-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="8b5c2-105">[Adăugați un domeniu la entitate găzduită](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="8b5c2-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="50f5f-106">[Schimbați adresa de e-mail principală a utilizatorilor](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) la noul domeniu personalizat pe care tocmai l-ați adăugat.</span><span class="sxs-lookup"><span data-stu-id="50f5f-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="8b5c2-106">[Schimbați adresa de e-mail principală a utilizatorilor](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) la noul domeniu personalizat pe care tocmai l-ați adăugat.</span><span class="sxs-lookup"><span data-stu-id="8b5c2-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
