@@ -1,5 +1,5 @@
 ---
-title: Încărca fişiere pe OneDrive sau SharePoint
+title: Încărcarea fișierelor în OneDrive sau SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532523"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769891"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="3a24a-102">Încărca fişiere pe OneDrive sau SharePoint</span><span class="sxs-lookup"><span data-stu-id="3a24a-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="ec4b5-102">Încărcarea fișierelor în OneDrive sau SharePoint</span><span class="sxs-lookup"><span data-stu-id="ec4b5-102">Upload files to OneDrive or SharePoint</span></span>
 
-1. <span data-ttu-id="3a24a-103">În browser-ul web, du-te la locaţia în care doriţi să încărcaţi fişiere.</span><span class="sxs-lookup"><span data-stu-id="3a24a-103">In your web browser, go to the location where you want to upload files.</span></span>
+1. <span data-ttu-id="ec4b5-103">În browserul web, accesați locația în care doriți să încărcați fișiere.</span><span class="sxs-lookup"><span data-stu-id="ec4b5-103">In your web browser, go to the location where you want to upload files.</span></span>
     
-2. <span data-ttu-id="3a24a-104">Deschidere dosar Explorer şi navigaţi la fişierele pe care doriţi să încărcaţi.</span><span class="sxs-lookup"><span data-stu-id="3a24a-104">Open File Explorer and browse to the files you want to upload.</span></span>
+2. <span data-ttu-id="ec4b5-104">Deschideți Explorer și navigați la fișierele pe care doriți să le încărcați.</span><span class="sxs-lookup"><span data-stu-id="ec4b5-104">Open File Explorer and browse to the files you want to upload.</span></span>
     
-3. <span data-ttu-id="3a24a-105">Selectaţi fişierele şi glisaţi-le în locaţia în OneDrive sau SharePoint.</span><span class="sxs-lookup"><span data-stu-id="3a24a-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="3a24a-106">Notă: Dacă utilizaţi Microsoft Edge, Mozilla FireFox sau Google Chrome, puteţi să încărcaţi un folder şi toate fişierele în ea.</span><span class="sxs-lookup"><span data-stu-id="3a24a-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
+3. <span data-ttu-id="ec4b5-105">Selectați fișierele și glisați-le în locația din OneDrive sau SharePoint.</span><span class="sxs-lookup"><span data-stu-id="ec4b5-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="ec4b5-106">Notă: Dacă utilizați Microsoft Edge, Mozilla FireFox sau Google Chrome, puteți încărca, de asemenea, un folder și toate fișierele din acesta.</span><span class="sxs-lookup"><span data-stu-id="ec4b5-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
     
-> [!NOTE]
->  <span data-ttu-id="3a24a-107">Aveţi posibilitatea să încărcaţi fişiere de până la 15 GB înăuntru size.</span><span class="sxs-lookup"><span data-stu-id="3a24a-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="3a24a-108">> calea completă pentru un fişier (inclusiv numele fişierului) nu poate fi mai mult de 400 de caractere în lungime.</span><span class="sxs-lookup"><span data-stu-id="3a24a-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="3a24a-109">> în cazul în care aveţi nevoie pentru a încărca fişiere mai mult de 100, [utilizaţi clientul de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="3a24a-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
+<span data-ttu-id="ec4b5-107">**Note:**</span><span class="sxs-lookup"><span data-stu-id="ec4b5-107">**Notes:**</span></span>
+- <span data-ttu-id="ec4b5-108">Puteți încărca fișiere de până la 15 GB în mărime.</span><span class="sxs-lookup"><span data-stu-id="ec4b5-108">You can upload files up to 15 GB in size.</span></span> 
+- <span data-ttu-id="ec4b5-109">Calea completă pentru un fișier (inclusiv numele fișierului) nu poate fi mai mare de 400 caractere în lungime.</span><span class="sxs-lookup"><span data-stu-id="ec4b5-109">The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> 
+- <span data-ttu-id="ec4b5-110">Dacă trebuie să încărcați mai mult de 100 fișiere, [utilizați clientul de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="ec4b5-110">If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Office 365 URL-uri şi IP adrese
+title: Office 365 URL-uri și adrese IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522047"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775327"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="75242-102">Office 365 URL-uri şi de IP adresa variază</span><span class="sxs-lookup"><span data-stu-id="75242-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="bbcbf-102">Office 365 URL-uri și intervale de adrese IP</span><span class="sxs-lookup"><span data-stu-id="bbcbf-102">Office 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="75242-103">Office 365 necesită conexiune la internet.</span><span class="sxs-lookup"><span data-stu-id="75242-103">Office 365 requires connectivity to the Internet.</span></span> <span data-ttu-id="75242-104">Obiective în acest articol, [Office 365 URL-uri şi intervalele de adrese IP](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), trebuie să fie accesibil pentru utilizatori pentru a accesa Office 365.</span><span class="sxs-lookup"><span data-stu-id="75242-104">The endpoints in this article, [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), need to be reachable for users to access Office 365.</span></span>
+<span data-ttu-id="bbcbf-103">Office 365 necesită conectivitate la internet prin intermediul adreselor IP specifice numite *puncte finale*.</span><span class="sxs-lookup"><span data-stu-id="bbcbf-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="bbcbf-104">Pentru o listă de puncte finale care trebuie să fie accesibile, consultați [Office 365 URL-uri și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="bbcbf-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+
+<span data-ttu-id="bbcbf-105">Serviciul Web Office 365 adresă IP și URL vă ajută să identificați și să diferențiați mai bine traficul de rețea Office 365, facilitând evaluarea, configurarea și rămânerea la zi cu modificările.</span><span class="sxs-lookup"><span data-stu-id="bbcbf-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="bbcbf-106">Consultați [Office 365 adresa IP și serviciul web URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span><span class="sxs-lookup"><span data-stu-id="bbcbf-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>
