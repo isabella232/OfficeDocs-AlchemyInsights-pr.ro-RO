@@ -1,9 +1,8 @@
 ---
-title: 714 permiterea expeditori externi să e-mail liste de distribuţie
+title: 714 permiterea expeditorilor externi la listele de distribuire prin e-mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506563"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768236"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Permite expeditorilor externi pentru a trimite mesaje către grupuri de distribuire
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Se permite expeditorilor externi să trimită mesaje grupurilor de distribuire
 
-Dacă utilizatorii din afara organizaţiei primi erori atunci când acestea trimite mesaje către grupuri de distribuire, sau doriţi să verificaţi că grupurile de distribuire sunt configurate pentru a primi mesaje de la expeditori externi, urmaţi aceşti paşi:
+Dacă utilizatorii din afara organizației primesc erori atunci când trimit mesaje grupurilor de distribuire sau dacă doriți să verificați dacă grupurile de distribuire sunt configurate pentru a primi corespondență de la expeditori externi, urmați acești pași:
 
-1. Du-te la nodul de **grupuri** în [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).
+1. În centrul de administrare Office 365, accesați > pagina[grupuri](https://portal.office.com/adminportal/home#/groups) grupuri. ****  
 
-2. Selectaţi grupul de distribuire şi în grup proprietati zbura afară care apare, faceţi clic pe **editaţi** în secţiunea care conţine **permite expeditorilor externi**.
+2. Selectați grupul de distribuire și, în panoul de proprietăți de grup, selectați fila **Setări** .
 
-3. În **Editare detalii** zbura afară care apare, verifica dacă **permite oamenilor din afara organizaţiei mele să trimiteţi e-mail la acest grup de distribuire.** **este**, şi apoi faceţi clic pe **salvaţi**.
+3. Selectați **Permiteți expeditorilor externi să trimiteți prin e-mail acest grup**, apoi selectați **Salvare**.

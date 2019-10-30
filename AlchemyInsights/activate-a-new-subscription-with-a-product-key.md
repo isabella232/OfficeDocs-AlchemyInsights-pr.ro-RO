@@ -1,9 +1,8 @@
 ---
-title: Activarea unui abonament nou cu o cheie de produs
+title: Activați un abonament nou cu o cheie de produs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495655"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766399"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Activarea unui abonament nou cu o cheie de produs
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Activați un abonament nou cu o cheie de produs
 
-1. Pentru a activa un abonament nou cu cheia produsului, accesați [https://office.com/setupkey](https://office.com/setupkey) filme.
+1. Pentru a activa un nou abonament Office 365 cu cheia de produs, accesați [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Introduceţi cheia de produs Office 365 şi urmaţi instrucţiunile pentru a activa abonarea. Dacă aveţi probleme cu activarea, verificaţi această [listă de comune erori de cheie de produs şi soluţii](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Introduceți cheia de produs Office 365 și urmați instrucțiunile pentru a activa abonamentul. Dacă aveți probleme cu activarea, consultați această [listă de erori și soluții cheie de produs comune](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

@@ -1,9 +1,8 @@
 ---
-title: 717 permiterea utilizatorilor să trimită e-mail ca o listă de distribuire
+title: 717 permiterea utilizatorilor să trimită e-mailuri ca listă de distribuire
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506181"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768272"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permite utilizatorilor să trimită e-mail ca un grup de distribuire
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permiteți utilizatorilor să trimită e-mailuri ca grup de distribuire
 
-Pentru a permite utilizatorilor să trimită mesaje care par să vină de la un grup de distribuire existente, urmaţi aceşti paşi:
+Pentru a permite utilizatorilor să trimită mesaje care par să vină dintr-un grup de distribuire existent, urmați acești pași:
 
-1. În [Centrul de administrare Exchange](https://outlook.office365.com/ecp/), du-te la **destinatari** \> **grupuri**.
+1. În [Centrul de administrare Exchange](https://outlook.office365.com/ecp/), accesați **grupuri**de **destinatari** \> .
 
-2. Selectaţi grupul de distribuire pe care doriţi să modificaţi, şi apoi faceţi clic pe **Editare**.
+2. Selectați grupul de distribuire pe care doriți să îl modificați, apoi faceți clic pe **Editare**.
 
-3. În proprietăţile grupului, mergeţi la fila de **grup delegaţia** pentru a specifica utilizatorii care pot trimite ca sau trimite în numele grupului de distribuire.
+3. În proprietățile grupului, mergeți la fila **delegare grup** pentru a specifica utilizatorii care pot trimite ca sau trimite în numele grupului de distribuire.
 
-Pentru informaţii suplimentare, consultaţi [Opţiuni de E-mail](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Pentru mai multe informații, consultați [opțiunile de e-mail](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

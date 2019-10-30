@@ -1,9 +1,8 @@
 ---
-title: Schimba aspectul cutiei poştale Outlook.com
+title: Schimbați aspectul cutiei poștale Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +13,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 612f3ef22dbad3ea4b77b26bb1d2e5d38f70e33f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a537e7e2b6d78948660ad3a98e02d73bfd73a449
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520895"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769711"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Schimba aspectul cutiei poştale
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Modificarea look-ului cutiei poștale Outlook
 
-Puteţi schimba aspectul din lista mesaj, panoul de citire în [setările de aspect](https://outlook.live.com/mail/options/mail/layout). Alege dacă e-mailul trebuie să fie afişate ca mesaje individuale sau conversaţii, în cazul în care mesajele noi ar trebui să apară la partea de sus sau de jos a listei de mesaje şi multe altele.
+Aveți posibilitatea să modificați aspectul listei de mesaje și al panoului de citire în [Setări aspect](https://outlook.live.com/mail/options/mail/layout). Alegeți dacă e-mailul trebuie afișat ca mesaje individuale sau conversații, dacă mesajele noi ar trebui să apară în partea de sus sau de jos a listei de mesaje și altele.
   
-Pentru a afla mai multe, consultaţi [schimba aspectul cutiei poştale Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru a afla mai multe, consultați [modificarea look-ului cutiei poștale Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36736913"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768380"
 ---
 # <a name="become-an-admin"></a>Deveniți administrator
 
-Pentru a prelua rolul de administrator pentru această organizație, trebuie să preia chiriașul.
+Pentru a prelua rolul de administrator pentru organizația dvs., trebuie să preia chiriașul în Office 365.
   
 Urmați instrucțiunile din acest ghid: [nu o preluare admin în Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754204"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768813"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Depanarea problemei-utilizatorul nu a fost găsit în directorul
 
-Dacă utilizatorii primesc mesaj de eroare "utilizatorul nu poate fi găsit" în directorul. Încercați din nou în cazul în care tipul de problemă este utilizator nu în director.
+Dacă utilizatorii primesc mesaj de eroare "utilizatorul nu poate fi găsit" în directorul, vă rugăm să încercați din nou în cazul în care tipul de problemă este utilizator nu în director.
 
 Următorii pași se pot finaliza pentru a depana problema.
 
@@ -27,9 +27,9 @@ Pentru mai multe informații, consultați [se gestionează aliasuri pentru</a> c
 
 - Răsfoiți la fiecare site (e) în care utilizatorul primește eroarea. 
 
-Adăugați "/_layout/15/People.aspx/MembershipGroupId = 0" (în ghilimele duble) până la sfârșitul adresei URL a site-ului. 
+Adăugați "/_layouts/15/People.aspx/MembershipGroupId = 0" (în ghilimele duble) până la sfârșitul URL-ul site-ului. 
 
-Exemplu: https://_ _ \ "Contosoa _ Gt_. SharePoint. com/_ Layouts/15/People. aspx/membershipGroupId = 0.
+Exemplu: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Selectați utilizatorul din listă.
 

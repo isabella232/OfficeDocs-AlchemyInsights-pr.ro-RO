@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545189"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768849"
 ---
-# <a name="issues-with-mfa"></a>Probleme cu MFA
-Există câteva lucruri pentru a verifica dacă utilizatorii nu pot login utilizând autentificarea multi-factor (MFA)
+# <a name="issues-with-azure-mfa"></a>Probleme cu Azure MFA
+Există câteva lucruri pentru a verifica dacă utilizatorii nu pot conecta utilizând autentificarea multi-factor (MFA)
 
 1. Utilizatorul afectat poate fi blocat în Azure Active Directory portal. În acest caz, încercările de autentificare pentru acel utilizator specific vor fi refuzate automat. [Vă rugăm să urmați pașii din acest articol pentru a le debloca.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

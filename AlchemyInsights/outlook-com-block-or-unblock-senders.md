@@ -1,5 +1,5 @@
 ---
-title: Blocarea sau deblocarea expeditorii din Outlook.com
+title: Blocați sau deblocați expeditori în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643706"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768740"
 ---
-# <a name="block-or-unblock-senders"></a>Blocarea sau deblocarea expeditori
+# <a name="block-or-unblock-senders"></a>Blocarea sau deblocarea expeditorilor
 
-Mesaje la adresele de e-mail sau domenii pe dumneavoastră expeditori merge direct la folderul Junk E-mail. E-mail automat este scos din folderul Junk E-mail după 30 de zile şi nu este recuperabilă. Se; ect un articol pentru a vedea când vor fi eliminate.
+Mesajele din adresele de e-mail sau din domeniile de pe expeditorii blocați merg direct la folderul Outlook Junk Email. E-mailul este eliminat automat din folderul E-mail nedorit după 30 de zile și nu este recuperabil. Selectați un element pentru a vedea când va fi eliminat.
 
-**Din inbox:**
+**Din Inbox:**
 
-- În lista de mesaje, selectaţi mesajul şi selectaţi **Junk** > **bloc**.
-- **Notă:** Blocarea unui element deja în folderul Junk E-mail nu se va şterge.
+- În lista de mesaje, selectați mesajul și apoi selectați **junk** > **Block**.
+- **Notă:** Blocarea unui element deja în folderul de poștă electronică nedorită nu o va șterge.
 
-**La setări:**
+**Din Setări:**
 
-1. Deschideţi setările de [Junk e-mail](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Sub **expeditori blocat şi domenii**, selectaþi **Adãugaþi**.
-3. Introduceţi adresa e-mail de domeniu pe care doriţi să blocaţi şi apăsaţi Enter.
-4. Selectaţi **Salvare**.
+1. Deschideți Setări de [poștă electronică nedorită](https://outlook.live.com/mail/options/mail/junkEmail) .
+2. Sub **Expeditori și domenii blocate**, selectați **Adăugare**.
+3. Tastați adresa de e-mail a domeniului pe care doriți să îl blocați și apăsați Enter.
+4. Selectați **Salvare**.
 
-Pentru a debloca un expeditor, selectaţi pictograma de gunoi de lângă adresa de e-mail sau doriţi pentru a debloca un domeniu.
+Pentru a debloca un expeditor, selectați pictograma Coș de gunoi de lângă adresa de e-mail sau domeniul pe care doriți să îl deblocați.
 
-Pentru mai multe informaţii, a se vedea [marca e-mail ca expeditorii junk sau bloc din Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru a afla mai multe, consultați [marcarea e-mailului ca junk sau blocați expeditorii în Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

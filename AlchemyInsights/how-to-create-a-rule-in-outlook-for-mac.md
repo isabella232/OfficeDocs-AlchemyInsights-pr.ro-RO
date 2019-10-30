@@ -1,8 +1,7 @@
 ---
-title: 1800021 cum să creaţi o regulă în Outlook pentru Mac
+title: 1800021 se creează o regulă în Outlook pentru Mac
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541129"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769099"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Cum se creează o regulă în Outlook pentru Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>se creează o regulă în Outlook pentru Mac
 
-1. Pentru a crea un folder pentru a organiza mesajele de e-mail trimise de regula, selectaţi cutia poştală de rădăcină, pe fila **Organize** , faceţi clic pe **Noul Folder**, introduceţi numele folderului şi apăsaţi Enter.
+1. Pentru a crea un folder care să dețină mesajele de poștă electronică trimise de regulă, selectați cutia poștală rădăcină, în fila **Organizare** , faceți clic pe **folder nou**, tastați numele folderului și apăsați pe Enter.
 
-    Dacă vă 
+2. În lista de mesaje, faceți clic pe un mesaj de poștă electronică pentru care doriți să creați o regulă.
 
-2. În lista de mesaje, faceţi clic pe un mesaj de poştă electronică pentru care doriţi o crea o regulă.
+3. În fila **pornire** , faceți clic pe **reguli**, apoi faceți clic pe **Creare regulă**.
 
-3. **Prima** fila, faceţi clic pe **reguli**, şi apoi faceţi clic pe **Creare regulă**.
+4. Sub **când sosește un mesaj nou** editați criteriile pentru a se potrivi nevoilor dumneavoastră. 
 
-4. Sub **atunci când un mesaj nou ajunge** edita criterii pentru a se potrivi nevoilor dumneavoastră. 
-
-Pentru instrucţiuni detaliate despre crearea de reguli personalizate, consultaţi [crearea unei reguli în Outlook pentru Mac](https://aka.ms/AA1uy0v)
+Pentru instrucțiuni detaliate privind crearea regulilor particularizate, consultați [crearea unei reguli în Outlook pentru Mac](https://aka.ms/AA1uy0v)
   
