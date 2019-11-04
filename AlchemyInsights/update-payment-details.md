@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660948"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921826"
 ---
 # <a name="update-payment-details"></a>Actualizarea detaliilor de plată
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660948"
 4. Faceți actualizările și alegeți **Salvare**.
 
 5. Pentru a elimina această metodă de plată, alegeți **Ștergere**.
+
+**Depanare**
+
+Dacă întâmpinați probleme cu încărcarea paginii, încercați să deschideți pagina web într-un alt browser sau încercați să deschideți pagina într-o fereastră de browser privată, cum este fereastra InPrivate din Microsoft Edge sau fereastra incognito din Google Chrome. 
 
 Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unei cărți de credit sau a unui cont bancar în Office 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) și [Depanarea problemelor cu cărțile de credit și conturile bancare](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
