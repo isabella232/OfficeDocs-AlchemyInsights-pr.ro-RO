@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36557261"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="bab8e-102">Crearea unui folder</span><span class="sxs-lookup"><span data-stu-id="bab8e-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="6e4cc-102">Crearea unui folder</span><span class="sxs-lookup"><span data-stu-id="6e4cc-102">Create a folder</span></span>
 
-1. <span data-ttu-id="bab8e-103">În partea de jos a panoului de foldere din Outlook de pe web, selectați **folder nou**.</span><span class="sxs-lookup"><span data-stu-id="bab8e-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="bab8e-104">Poate fi necesar să derulați în jos în panoul de foldere pentru a vedea butonul **folder nou** .</span><span class="sxs-lookup"><span data-stu-id="bab8e-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-1. <span data-ttu-id="bab8e-105">În caseta text, introduceți un nume pentru folder, apoi apăsați Enter.</span><span class="sxs-lookup"><span data-stu-id="bab8e-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="6e4cc-103">În partea de jos a panoului de foldere din Outlook de pe web, selectați **folder nou**.</span><span class="sxs-lookup"><span data-stu-id="6e4cc-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="6e4cc-104">Poate fi necesar să derulați în jos în panoul de foldere pentru a vedea butonul **folder nou** .</span><span class="sxs-lookup"><span data-stu-id="6e4cc-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+1. <span data-ttu-id="6e4cc-105">În caseta text, introduceți un nume pentru folder, apoi apăsați Enter.</span><span class="sxs-lookup"><span data-stu-id="6e4cc-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="bab8e-106">Pentru a afla mai multe, consultați [lucrul cu folderele de mesaje din Outlook pe web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="bab8e-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="6e4cc-106">Pentru a afla mai multe, consultați [lucrul cu folderele de mesaje din Outlook pe web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="6e4cc-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
