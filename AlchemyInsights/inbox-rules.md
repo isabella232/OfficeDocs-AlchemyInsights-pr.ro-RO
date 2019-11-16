@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499651"
 ---
 # <a name="inbox-rules"></a>Reguli Inbox
@@ -27,4 +27,4 @@ Pentru mai multe informații despre utilizarea regulilor Inbox în propria căsu
 
 - [Gestionați-vă mesajele utilizând reguli Inbox în Outlook pe web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-De asemenea, aveți posibilitatea să gestionați reguli Inbox în Exchange Online PowerShell. Pentru mai multe informații, [consultați Obțineți-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (vizualizare) [, New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Creare), [Eliminați-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Ștergere), [set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modificați existente), [Dezactivați-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (dezactivați existente) și [activați-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(Activare existentă).
+De asemenea, aveți posibilitatea să gestionați reguli Inbox în Exchange Online PowerShell. Pentru mai multe informații, [consultați Obțineți-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (vizualizare) [, New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Creare), [Eliminați-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Ștergere), [set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modificați existente), [Dezactivați-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (dezactivați existente) și [activați-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (activați existente).
