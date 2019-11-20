@@ -1,5 +1,5 @@
 ---
-title: Copia sau muta elemente într-o bibliotecă de documente SharePoint
+title: Copierea sau mutarea elementelor într-o bibliotecă de documente SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,31 +13,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0db9b6b20cb77c709c24273e089c2e511535e7ab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516251"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711768"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copia sau muta elemente într-o bibliotecă de documente SharePoint
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copierea sau mutarea elementelor într-o bibliotecă de documente SharePoint
 
-Puteţi copia şi muta fişiere, foldere şi link-uri la diferite locaţii într-o bibliotecă de documente. Asemenea, puteţi copia elemente în site-uri. Dacă v-aţi [înfiinţat Targeted versiune opţiune](https://go.microsoft.com/fwlink/?linkid=622980), aveţi posibilitatea să mutaţi elementele în site-uri, prea.
+Aveți posibilitatea să copiați și să mutați fișiere, foldere și linkuri către diferite locații dintr-o bibliotecă de documente. De asemenea, aveți posibilitatea să copiați elemente pe site-uri. 
   
-1. Într-un browser, navigaţi la fişierele, folderele, sau link-uri pe care doriţi să mutaţi, şi apoi faceţi clic pe **copiaţi** sau **mutaţi**.
+1. Într-un browser, răsfoiți la fișierele, folderele sau linkurile pe care doriți să le mutați, apoi faceți clic pe **Copiere în** sau **Mutare în**.
 
     > [!NOTE]
-    > **Copiaţi** şi **mutaţi** nu sunt disponibile dacă utilizaţi experienţa clasic SharePoint Online.
+    > **Copiați** și **mutați la** nu sunt disponibile dacă utilizați experiența clasică a SharePoint Online.
   
-2. Sub **alege o destinaţie**, selectaţi locaţia la care doriţi să copiaţi sau mutaţi elemente sau faceţi clic pe **răsfoiţi site-uri** pentru a vedea lista completa de site-uri.
+2. Sub **Alegeți o destinație**, selectați locația la care doriți să copiați sau mutați elementele sau faceți clic pe **Răsfoire site-uri** pentru a vedea lista completă de site-uri.
 
     > [!NOTE]
-    > Dacă nu vedeţi alte site-uri listate când copiaţi elementele, copierea în site-uri nu a fost configurat. Pentru ao activa, du-te la pagina de setări din centrul de administrare SharePoint şi faceţi clic pe **OK**.
+    > Dacă nu vedeți alte site-uri listate atunci când copiați elemente, copierea pe site-uri nu a fost configurată. Pentru a o activa, accesați pagina de setări a centrului de administrare SharePoint și faceți clic pe **OK**.
   
-    Pentru a crea un folder nou, selectaţi o locaţie din ierarhia folderului, faceţi clic pe **noul folder**, introduceți un nume pentru dosar şi faceţi clic pe marcaj pentru a salva numele.
+    Pentru a crea un folder nou, selectați o locație din ierarhia folderelor, faceți clic pe **folder nou**, introduceți un nume pentru folder și faceți clic pe marcajul de selectare pentru a salva numele.
 
-3. Faceţi clic pe **Copiere aici** sau **muta aici**.
+3. Faceți clic pe **Copiere aici** sau **mutați aici**.
 
-> [!NOTE]
-> Aveţi posibilitatea să copiaţi până la 500 MB de dosar şi pliant la un moment dat. > când copiaţi documente care au Istoricul versiunilor, numai cea mai recentă versiune este copiat. Atunci când vă deplasaţi documente, istoria lor este, de asemenea, s-a mutat.
+    > [!NOTE]
+    > Aveți posibilitatea să copiați până la 500 MB de fișiere și foldere la un moment dat. > când copiați documente care au Istoricul versiunilor, se copiază numai cea mai recentă versiune. Când mutați documente, istoria lor este, de asemenea, mutate.
   
+ Când un fișier este în mișcare, acesta va apărea în continuare în directorul sursă până când sa mutat complet la destinație, și apoi va fi șters. Fișierul va rămâne în Coșul de reciclare site-uri sursă după mutarea este completă și să fie supus la programul de reciclare normal, cu excepția cazului în care un utilizator recuperează-l din Coșul de reciclare.
+
+Pentru informații suplimentare, consultați:
+
+ - [Mutați sau copiați fișiere în SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (articol de asistență Office)
+ - [Mutați fișierele din orice folder în Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog articol)  
