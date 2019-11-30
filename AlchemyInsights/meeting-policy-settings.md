@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376784"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627586"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Gestionați politicile de întâlnire în Microsoft teams
 
@@ -24,7 +24,7 @@ Politicile de întâlnire sunt utilizate pentru a controla caracteristicile care
 
 Pentru mai multe informații despre politicile de întâlnire, consultați următoarele resurse:
 
-- Pentru a afla despre crearea politicilor, efectuarea modificărilor și asocierea utilizatorilor la politică, consultați [gestionarea politicilor de întâlnire în echipe](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Pentru a afla despre crearea politicilor, efectuarea modificărilor și asocierea utilizatorilor la politică, consultați [gestionarea politicilor de întâlnire în echipe](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Pentru a face modificări de politică utilizând cmdleturi PowerShell, consultați [Prezentare generală a echipelor PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Trebuie să utilizați [Skype pentru afaceri PowerShell modulul](https://www.microsoft.com/download/details.aspx?id=39366) pentru echipele de întâlnire politici. 

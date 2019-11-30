@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316958"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627334"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Skype pentru afaceri probleme comune și rezoluții 
 
@@ -34,4 +34,4 @@ Iată câteva subiecte frecvent solicitate:
 
 **Comunică cu Skype Contacts:** [Permiteți utilizatorilor Skype for Business să adauge contacte Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
 
-**Upgrade Skype pentru afaceri la Microsoft teams:** Examinați [Noțiuni introductive despre upgrade-ul Microsoft teams](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) și aflați mai multe despre [coexistență](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) cu Microsoft teams în timp ce adoptați echipe în organizația dvs. 
+**Upgrade Skype pentru afaceri la Microsoft teams:** Examinați [Noțiuni introductive despre upgrade-ul Microsoft teams](https://docs.microsoft.com/microsoftteams/upgrade-start-here) și aflați mai multe despre [coexistență](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) cu Microsoft teams în timp ce adoptați echipe în organizația dvs. 

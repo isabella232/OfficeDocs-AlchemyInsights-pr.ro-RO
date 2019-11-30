@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469112"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626324"
 ---
 # <a name="microsoft-teams-upgrade"></a>Upgrade-ul echipelor Microsoft
 
@@ -32,4 +32,4 @@ Indiferent dacă tocmai ați început să începeți cu echipele, utilizați dej
 
 [Efectuarea upgrade-ul de la Skype pentru afaceri local la echipe](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Verificați starea Skype pentru afaceri online la echipele upgrade cu PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Verificați starea Skype pentru afaceri online la echipele upgrade cu PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
