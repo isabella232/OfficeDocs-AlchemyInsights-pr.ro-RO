@@ -1,7 +1,7 @@
 ---
-title: Protecţie avansată ameninţare în SharePoint și OneDrive
-ms.author: efrene
-author: efrene
+title: Protecție avansată împotriva amenințărilor în SharePoint și OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493891"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050429"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="bc974-102">Protecţie avansată ameninţare (ATP) în SharePoint și OneDrive</span><span class="sxs-lookup"><span data-stu-id="bc974-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="b0dc7-102">Protecție avansată împotriva amenințărilor (ATP) în SharePoint și OneDrive</span><span class="sxs-lookup"><span data-stu-id="b0dc7-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="bc974-103">Consultaţi următoarele:</span><span class="sxs-lookup"><span data-stu-id="bc974-103">See the following:</span></span>
-- [<span data-ttu-id="bc974-104">ATP pentru SharePoint, OneDrive şi echipe</span><span class="sxs-lookup"><span data-stu-id="bc974-104">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [<span data-ttu-id="bc974-105">Ameninţare Explorer si in timp real informatii</span><span class="sxs-lookup"><span data-stu-id="bc974-105">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+<span data-ttu-id="b0dc7-103">Consultați următoarele:</span><span class="sxs-lookup"><span data-stu-id="b0dc7-103">See the following:</span></span>
+- [<span data-ttu-id="b0dc7-104">ATP pentru SharePoint, OneDrive și echipe</span><span class="sxs-lookup"><span data-stu-id="b0dc7-104">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [<span data-ttu-id="b0dc7-105">Amenințări Explorer și în timp real detectii</span><span class="sxs-lookup"><span data-stu-id="b0dc7-105">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
-<span data-ttu-id="bc974-106">Informaţii suplimentare:</span><span class="sxs-lookup"><span data-stu-id="bc974-106">Additional Information:</span></span>
+<span data-ttu-id="b0dc7-106">Informații suplimentare:</span><span class="sxs-lookup"><span data-stu-id="b0dc7-106">Additional Information:</span></span>
 
-- [<span data-ttu-id="bc974-107">Detectarea virusului în SPO</span><span class="sxs-lookup"><span data-stu-id="bc974-107">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [<span data-ttu-id="bc974-108">Criptarea datelor în ODB şi SPO</span><span class="sxs-lookup"><span data-stu-id="bc974-108">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [<span data-ttu-id="bc974-109">Protejarea datelor din SharePoint</span><span class="sxs-lookup"><span data-stu-id="bc974-109">Safeguarding your data in SharePoint</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [<span data-ttu-id="bc974-110">Ransomware detectarea și recuperarea fişierelor</span><span class="sxs-lookup"><span data-stu-id="bc974-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [<span data-ttu-id="b0dc7-107">Detectarea virusului în SPO</span><span class="sxs-lookup"><span data-stu-id="b0dc7-107">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [<span data-ttu-id="b0dc7-108">Criptarea datelor în ODB și SPO</span><span class="sxs-lookup"><span data-stu-id="b0dc7-108">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [<span data-ttu-id="b0dc7-109">Protejarea datelor în SharePoint</span><span class="sxs-lookup"><span data-stu-id="b0dc7-109">Safeguarding your data in SharePoint</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [<span data-ttu-id="b0dc7-110">Detectarea Ransomware și recuperarea fișierelor</span><span class="sxs-lookup"><span data-stu-id="b0dc7-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

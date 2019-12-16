@@ -1,7 +1,7 @@
 ---
 title: Imposibil de adăugat implicit 2010 aprobare flux de lucru
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 1/28/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7b1de3cd373105399dee75efde89403d0ede664a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36747688"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050285"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="dbaa5-102">Imposibil de adăugat implicit 2010 aprobare flux de lucru</span><span class="sxs-lookup"><span data-stu-id="dbaa5-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="6cbd4-102">Imposibil de adăugat implicit 2010 aprobare flux de lucru</span><span class="sxs-lookup"><span data-stu-id="6cbd4-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="dbaa5-103">Într-o colecție de site-ul Microsoft SharePoint, nu puteți adăuga un flux de lucru reutilizabile global (cum ar fi "aprobare-SharePoint 2010") la o listă sau bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="dbaa5-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="dbaa5-104">Este posibil ca fluxul de lucru de aprobare să lipsească.</span><span class="sxs-lookup"><span data-stu-id="dbaa5-104">The approval workflow may be missing.</span></span> <span data-ttu-id="dbaa5-105">Pentru a rezolva această problemă, consultați [nu se poate adăuga un flux de lucru reutilizabile global la o listă SharePoint sau bibliotecă](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="dbaa5-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
+<span data-ttu-id="6cbd4-103">Într-o colecție de site-ul Microsoft SharePoint, nu puteți adăuga un flux de lucru reutilizabile global (cum ar fi "aprobare-SharePoint 2010") la o listă sau bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="6cbd4-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="6cbd4-104">Este posibil ca fluxul de lucru de aprobare să lipsească.</span><span class="sxs-lookup"><span data-stu-id="6cbd4-104">The approval workflow may be missing.</span></span> <span data-ttu-id="6cbd4-105">Pentru a rezolva această problemă, consultați [nu se poate adăuga un flux de lucru reutilizabile global la o listă SharePoint sau bibliotecă](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="6cbd4-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
 
-<span data-ttu-id="dbaa5-106">Pentru mai multe informații despre aprobările fluxului de lucru, consultați [totul despre fluxuri de lucru de aprobare](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="dbaa5-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
+<span data-ttu-id="6cbd4-106">Pentru mai multe informații despre aprobările fluxului de lucru, consultați [totul despre fluxuri de lucru de aprobare](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="6cbd4-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
  
-<span data-ttu-id="dbaa5-107">Aflați mai multe despre [aprobările moderne în Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="dbaa5-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
+<span data-ttu-id="6cbd4-107">Aflați mai multe despre [aprobările moderne în Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="6cbd4-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
   
