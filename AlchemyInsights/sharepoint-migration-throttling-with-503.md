@@ -1,7 +1,7 @@
 ---
-title: Migraţia SharePoint supraîncărcarea cu erori de 503
-ms.author: efrene
-author: efrene
+title: Migrare SharePoint limitare cu 503 erori
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503611"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054065"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>Migraţia SharePoint supraîncărcarea cu erori de 503
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>Migrare SharePoint limitare cu 503 erori
 
-Se pare sunt migrarea de la SharePoint Online şi primirea 503 erori. Vă rugăm să urmaţi paşii de mai jos astfel încât să te ajutăm cât mai repede posibil. 
+Se pare că migrarea la SharePoint Online și primirea 503 erori. Vă rugăm să urmați pașii de mai jos, astfel încât să vă putem asista cât mai curând posibil. 
 
-1. Faceţi clic pe **contactaţi asistenţa**, apoi **noul serviciu cerere**.
-2. Pentru titlu şi descriere, de tip **SharePoint migraţiei supraîncărcarea cu 503**.
-3. Odată ce s-a depus biletul, vă rugăm să actualizaţi-l cu următoarele informaţii:
-    - Cât de mult plecat de migrare (de exemplu, de câte linguri?).
-    - Migraţia încep şi se termină data.
-    - Descrie în cazul în care migraţi conţinutul dvs., cum ar fi SharePoint Server, cutie, GDrive, partajări de fişiere, etc...
-    - Estima numărul de limitare erori (de exemplu, x acceleratia pe oră?) şi când a făcut supraîncărcarea întâmpla.
-    - Instrument de migrare care vă sunt utilizaţi (de exemplu, SPMT sau ShareGate).
+1. Faceți clic pe **suport de contact**și apoi **noua solicitare de serviciu**.
+2. Pentru titlu și descriere, tastați **migrare SharePoint throttling cu 503**.
+3. După ce biletul a fost trimis, vă rugăm să-l actualizați cu următoarele informații:
+    - Cât de mult stânga de migrare (de exemplu, cât de multe TBs?).
+    - Data de începere și de încheiere a migrației.
+    - Descrieți de unde migrați conținutul, ar fi SharePoint Server, box, GDrive, partajări de fișiere etc.
+    - Estimați numărul de erori de limitare (de exemplu, x accelerație pe oră?) și când a avut loc supraîncărcarea.
+    - Ce instrument de migrare utilizați (de exemplu, SPMT sau ShareGate).
 
 
