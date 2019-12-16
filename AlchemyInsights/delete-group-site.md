@@ -1,7 +1,7 @@
 ---
-title: Site-ul Ştergere grup
-ms.author: kaarins
-author: kaarins
+title: Ștergere site grup
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513731"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053057"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Sterge un site SharePoint care aparţine unui grup de Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Ștergeți un site SharePoint care aparține unui grup Office 365
 
-Global administratori şi administratori de SharePoint acum puteţi şterge site-uri care aparţin unui grup de Office 365. Ştergerea aceste site-uri va şterge grupul şi toate resursele, inclusiv cutia poştală Outlook calendaristic și orice canale de echipe.
+Administratorii global și administratorii SharePoint pot acum șterge site-uri care aparțin unui grup Office 365. Ștergerea acestor site-uri va șterge grupul și toate resursele sale, inclusiv cutia poștală și calendarul Outlook și orice canale teams.
   
 Important:
 
-- Puteţi recupera şterse site-uri pentru 93 zile. Pentru mai multe informaţii, a se vedea vedere şi restabilirea site-uri sterse. Reţineţi că elimină grupuri trebuie să fie restaurat în termen de 30 de zile.
-- În cazul în care site-ul este parte dintr-o strategie de conservare, nu poate fi capabil să-l ştergeţi până când site-ul este scos din [de securitate &amp; centrul de administrare respectarea](https://protection.office.com/?rfr=AdminCenter#/retention). Pentru mai multe informaţii a se vedea [Imagine de ansamblu a strategiilor de conservare](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Puteți recupera site-uri șterse pentru 93 zile. Pentru mai multe informații, consultați Vizualizarea și restaurarea site-urilor șterse. Rețineți că grupurile șterse trebuie restaurate în termen de 30 de zile.
+- Dacă site-ul face parte dintr-o politică de retenție, este posibil să nu aveți posibilitatea să îl ștergeți până când site-ul nu este eliminat din [Centrul de administrare a conformității de securitate &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Consultați [Prezentare generală a politicilor de conservare](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) pentru mai multe informații.
   
-Să [Vezi şi Restaurare şterse site-uri din centrul de administrare SharePoint nouă](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectaţi **şterge site-uri**. Selectaţi site-ul care a fost ştearsă şi selectaţi restaurare sau Delete (care va şterge permanent site-ul). Pentru a şterge un site activ, selectaţi site-uri **Active** , selectaţi site-ul şi selectaţi **ştergeţi**. Pentru mai multe informaţii, a se vedea [site-uri de gestionare în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Pentru a [vizualiza și restaura site-uri șterse în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selectați **site-uri șterse**. Selectați site-ul care a fost șters și alegeți fie restaurare sau ștergere (care va șterge definitiv site-ul). Pentru a șterge un site activ, selectați site-uri **Active** , selectați site-ul și selectați **Ștergere**. Pentru mai multe informații, consultați [Gestionați site-uri în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

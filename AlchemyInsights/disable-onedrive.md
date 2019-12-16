@@ -1,7 +1,7 @@
 ---
-title: Dezactivaţi OneDrive
-ms.author: efrene
-author: efrene
+title: Dezactivați OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512903"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052949"
 ---
-# <a name="disable-onedrive"></a>Dezactivaţi OneDrive
+# <a name="disable-onedrive"></a>Dezactivați OneDrive
 
-Există mai multe moduri puteţi dezactiva accesul la OneDrive şi serviciile sale în funcţie de nevoile dumneavoastră de afaceri:
+Există mai multe modalități prin care puteți dezactiva accesul la OneDrive și la serviciile sale, în funcție de necesitățile afacerii dvs.:
 
-[Deconectarea, ascunde sau de a dezinstala aplicația OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Dezlegarea, ascunderea sau dezinstalarea aplicației OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Numai permite sincronizarea specifice organizaţiilor](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Permiteți numai sincronizarea pentru anumite organizații](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[Dezactivează crearea de site-ul OneDrive pentru unii utilizatori](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[Dezactivați crearea de site-uri OneDrive pentru unii utilizatori](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Control acces la datele SharePoint Online si OneDrive bazate pe locaţie de reţea](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Controlați accesul la datele SharePoint Online și OneDrive bazate pe locația rețelei](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Dezactiva sincronizare OneDrive personale](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Dezactivați sincronizarea personală OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Gestionați conexiunile din Windows dispozitive la OneDrive și alte servicii](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Gestionați conexiunile de la dispozitive Windows la OneDrive și alte servicii](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

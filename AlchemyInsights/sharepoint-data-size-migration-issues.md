@@ -1,7 +1,7 @@
 ---
-title: Probleme în timp ce migrarea datelor la SharePoint Online
-ms.author: efrene
-author: efrene
+title: Probleme în timpul migrării datelor la SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504367"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051761"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme în timp ce migrarea datelor la SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme în timpul migrării datelor la SharePoint Online
 
-Reiese că migraţi peste 100TB de date, SharePoint Online. Vă rugăm să urmaţi paşii de mai jos astfel încât să te ajutăm cât mai repede posibil. 
+Se pare că migrați peste 100TB de date la SharePoint Online. Vă rugăm să urmați pașii de mai jos, astfel încât să vă putem asista cât mai curând posibil. 
 
-1. Selectaţi **nou serviciu cerere**, apoi **noul serviciu cerere**. 
-2. Lăsaţi titlul și descrierea ca **SharePoint migraţiei peste 100 TB**.
-3. Odată ce s-a depus biletul, vă rugăm să actualizaţi-l cu următoarele informaţii: 
+1. Selectați **solicitare service nouă**, apoi **solicitare service nouă**. 
+2. Lăsați titlul și descrierea ca **migrare SharePoint peste 100TB**.
+3. După ce biletul a fost trimis, vă rugăm să-l actualizați cu următoarele informații: 
 
-    - Mărimea estimată a migrarea.
-    - O estimare a când doriţi pentru a începe și finaliza migrarea.
-    - Descrie în cazul în care migraţi conţinutul dvs., cum ar fi SharePoint Server, cutie, GDrive, partajări de fişiere, etc...
+    - Dimensiunea estimată a migrației.
+    - O estimare a când doriți să începeți și să finalizați migrarea.
+    - Descrieți de unde migrați conținutul, ar fi SharePoint Server, box, GDrive, partajări de fișiere etc.
 
 
   

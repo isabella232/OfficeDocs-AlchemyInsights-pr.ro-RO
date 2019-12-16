@@ -1,7 +1,7 @@
 ---
-title: Doar în citire pentru întreţinere mesaj atunci când încercarea de a utiliza SharePoint sau OneDrive
-ms.author: efrene
-author: efrene
+title: Doar în citire pentru întreținere mesaj atunci când încercați să utilizați SharePoint sau OneDrive
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620735"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051293"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Doar în citire pentru întreţinere mesaj atunci când încercarea de a utiliza SharePoint sau OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Doar în citire pentru întreținere mesaj atunci când încercați să utilizați SharePoint sau OneDrive
 
-Utilizatorii pot primi un **Read-Only pentru întreţinere** mesaj atunci când încercarea de a utiliza SharePoint sau OneDrive pentru unul dintre următoarele scenarii. 
+Utilizatorii pot primi un mesaj **doar în citire pentru întreținere** atunci când încercați să utilizați SharePoint sau OneDrive pentru unul dintre următoarele scenarii. 
 
--   O activitate de întreţinere planificate sau activ.  Verificaţi pentru ei prin navigarea la [Centru de mesaje](https://portal.office.com/adminportal/home#/messagecenter).
--   O înaltă prioritate, serviciul activ incident care poate fi care apar. Verificaţi pentru orice consultaţie/incidente de navigaţie la [Servicii de sănătate](https://portal.office.com/adminportal/home#/servicehealth).
--   Un minor auto-vindecare recuperare scenariu care ar putea fi întâmplă din cauza unor cazuri neprevăzute pe servere care ar putea dura mai puţin de 30 de minute sau cam asa ceva. 
+-   O activitate de întreținere planificată sau activă.  Verificați-le navigând la [Centrul de mesaje](https://portal.office.com/adminportal/home#/messagecenter).
+-   Un incident de serviciu activ, de înaltă prioritate, care poate apărea. Verificați pentru orice recomandări/incidente prin navigarea la [serviciul de sănătate](https://portal.office.com/adminportal/home#/servicehealth).
+-   Un minor auto-vindecare scenariu de recuperare care ar putea fi întâmplă din cauza oricăror evenimente neașteptate pe serverele care ar putea dura mai puțin de 30 min sau cam asa ceva. 
     
-    Există nici un centru de mesaje sau imagini sănătate posturi pentru aceste recuperări minore, dar ar trebui să fie înapoi la normal foarte curând.
+    Nu există mesaje centrul de mesaje sau servicii de sănătate pentru aceste recuperări minore, dar ar trebui să fie înapoi la normal foarte curând.
 
-Foarte puţine ocazii am observat că unul dintre trei situaţii enumerate mai sus au fost cauza, şi serviciul a fost restaurată, dar utilizatorii browser-ul cache-ul nu a fost clarificat.
+În foarte puține ocazii am observat că unul dintre cele trei scenarii enumerate mai sus au fost cauza, și serviciul a fost restaurat, dar cache-ul utilizatorilor browser-ul nu a fost clarificat.
 
-Vă rugăm să încercaţi să goliţi memoria cache a browserului înainte de navigaţie la site-ul.
+Vă rugăm să încercați să goliți memoria cache a browserului înainte de a naviga pe site.
 
-1. În browserul Microsoft Edge, selectaţi **Setări**, şi apoi selectaţi **confidenţialitate şi securitate**.
-2. Sub **clar de navigare**, selectaţi **alege ce să clare**.
-3. Selectaţi **cookie-uri şi site-ul salvat date**şi selectaţi **Clear**.
-
->[!Note] 
-> Aceşti paşi pot să difere atunci când utilizaţi alte browsere precum Mozilla Firefox sau Google Chrome.
+1. În browserul Microsoft Edge, selectați **Setări**, apoi selectați **confidențialitate și securitate**.
+2. Sub **Navigare clară**, selectați **Alegeți ce să goliți**.
+3. Selectați **cookie-uri și date salvate pe site-ul web**și selectați **Golire**.
 
 >[!Note] 
-> O altă opţiune ar fi pentru a deschide site-ul SharePoint sau OneDrive dvs într-o fereastră nouă InPrivate.
+> Acești pași pot diferi atunci când se utilizează alte browsere, ar fi Mozilla Firefox sau Google Chrome.
+
+>[!Note] 
+> O altă opțiune ar fi să deschideți site-ul SharePoint sau OneDrive într-o fereastră InPrivate nouă.

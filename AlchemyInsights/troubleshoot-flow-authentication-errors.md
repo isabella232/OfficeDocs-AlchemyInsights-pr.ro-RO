@@ -1,32 +1,32 @@
 ---
-title: Depanarea erori de autentificare flux
-ms.author: kaarins
-author: kaarins
+title: Depanarea erorilor de autentificare a fluxului
+ms.author: pebaum
+author: pebaum
 ms.date: 6/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d49d15d243dd98afc6f78b9e75f0cfa74c2cd7c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393625"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050645"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Depanarea erori de autentificare flux
+# <a name="troubleshoot-flow-authentication-errors"></a>Depanarea erorilor de autentificare a fluxului
 
-În multe cazuri, fluxurile eşuează din cauza unei erori de autentificare. În cazul în care aveţi acest tip de eroare, mesajul de eroare conţine "Neautorizat", sau un cod de eroare de 401 sau 403 apare. Puteţi rezolva, de obicei, o eroare de autentificare prin actualizarea conexiune:
+În multe cazuri, fluxurile nu reușesc din cauza unei erori de autentificare. Dacă aveți acest tip de eroare, mesajul de eroare conține "neautorizat" sau un cod de eroare de 401 sau 403 apare. De obicei, puteți remedia o eroare de autentificare prin actualizarea conexiunii:
   
-1. La partea de sus a portalului web, faceţi clic sau atingeţi pictograma de viteze pentru a deschide meniul de setări, apoi faceţi clic sau atingeţi **conexiuni**.
+1. În partea de sus a portalului web, faceți clic sau atingeți pictograma roată pentru a deschide meniul Setări, apoi faceți clic sau atingeți **conexiuni**.
     
-2. Alegeþi conexiunea pentru care ai vazut mesajul de eroare neautorizate.
+2. Defilați la conexiunea pentru care ați văzut mesajul de eroare neautorizat.
     
-3. Lângă conexiunea, faceţi clic sau atingeţi linkul de **Verificare parolă** din mesajul despre conexiunea nu fi autentificat. 
+3. Lângă conexiune, faceți clic sau atingeți linkul **Verificare parolă** din mesaj despre conexiunea care nu este autentificată. 
     
-4. Verifica acreditările urmând instrucţiunile care apar, a reveni la dumneavoastră insuficienţă fluxul de o familie, şi apoi faceţi clic sau atingeţi **retrimiteţi**.
+4. Verificați acreditările urmând instrucțiunile care apar, reveniți la eșecul de rulare a fluxului, apoi faceți clic sau atingeți **reremitere**.
     
-Pentru mai mult ajutor, consultaţi [Depanarea un flux](https://go.microsoft.com/fwlink/?linkid=872110).
+Pentru ajutor mai mult, consultați [Depanarea unui flux](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

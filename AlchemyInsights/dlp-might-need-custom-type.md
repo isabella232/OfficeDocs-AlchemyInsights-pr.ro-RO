@@ -1,7 +1,7 @@
 ---
 title: DLP ar putea avea nevoie de un tip personalizat
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530363"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052913"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP ar putea avea nevoie de un tip personalizat
 
-Cu o politică de prevenire (DLP) pierderea de date, puteţi identifica şi protejarea datelor sensibile în cadrul organizaţiei. În unele situaţii, trebuie să creaţi propriul **personalizat** tip de informaţii sensibile pentru a proteja datele organizaţiei.
+Cu o politică de prevenire a pierderii datelor (DLP), puteți identifica și proteja datele sensibile din organizația dvs. În unele scenarii, poate fi necesar să creați propriul tip de informații sensibile **particularizate** pentru a proteja datele organizației.
 
-De exemplu, organizaţia s-ar putea nevoie pentru a identifica şi de a proteja angajat ID-uri sau alte date în unele format specific pentru dumneavoastră org. Dacă este aşa, consultaţi următoarele articole pentru mai multe informaţii.
+De exemplu, este posibil ca organizația dumneavoastră să trebuiască să identifice și să protejeze ID-urile angajaților sau alte date în anumite formate specifice organizației dvs. Dacă da, consultați următoarele articole pentru mai multe informații.
   
- **Personaliza un tip de clădire-înăuntru informaţii sensibile**
+ **Particularizarea unui tip de informații sensibile încorporat**
   
-În cazul în care un tip de clădire-înăuntru informaţii sensibile ar satisface nevoile dumneavoastra cu doar o cateva trucuri, puteţi [personaliza un tip de clădire-înăuntru informaţii sensibile](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). De exemplu, puteţi adăuga sau elimina cuvinte cheie, sau adăugaţi sau eliminaţi documentele justificative, cum ar fi o dată sau o adresa.
+Dacă un tip de informații sensibile încorporat ar răspunde nevoilor dumneavoastră cu doar câteva ajustări, puteți [personaliza un tip de informații sensibile încorporat](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). De exemplu, aveți posibilitatea să adăugați sau să eliminați cuvinte cheie sau să adăugați sau să eliminați dovezi justificative, ar fi o dată sau o adresă.
   
- **Creaţi un tip personalizat de informaţii sensibile**
+ **Crearea unui tip de informații sensibile particularizate**
   
-Dar în cazul în care aveţi nevoie pentru a identifica şi de a proteja cu totul un alt tip de informaţii sensibile, puteţi [crea un tip personalizat de informaţii sensibile](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) în UI de securitate & centru de conformitate.
+Dar dacă aveți nevoie pentru a identifica și proteja un alt tip de informații sensibile cu totul, puteți [crea un tip de informații sensibile particularizate](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) în interfața cu utilizatorul de securitate & centrul de conformitate.
   
-**Creaţi un tip personalizat de informaţii sensibile în securitate & PowerShell de centrul conformitatea**
+**Creați un tip de informații sensibile particularizate în securitate & centrul de conformitate PowerShell**
 
-În cele din urmă, dacă interfaţa nu oferă toate opţiunile de care aveţi nevoie, puteţi [crea un tip de informaţii sensibile personalizat în securitate & respectarea centrul PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). De a începe cu un fişier XML, utilizaţi fiecare opţiune disponibilă.
+În cele din urmă, dacă interfața cu utilizatorul nu oferă toate opțiunile de care aveți nevoie, puteți [crea un tip de informații sensibile particularizate în securitate & centrul de conformitate PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Începând cu un fișier XML, puteți utiliza fiecare opțiune disponibilă.

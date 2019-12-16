@@ -1,23 +1,23 @@
 ---
 title: Activați partajarea externă în SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744437"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051689"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Activați partajarea externă în SharePoint Online
 
-Dacă organizația efectuează lucrări care implică partajarea documentelor sau colaborarea directă cu furnizorii, clienții sau clienții, atunci puteți utiliza [caracteristicile de partajare externă ale SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) pentru a partaja conținut cu persoane din afara Organizaţie.
+Dacă organizația efectuează lucrări care implică partajarea documentelor sau colaborarea directă cu furnizorii, clienții sau clienții, atunci puteți utiliza [caracteristicile de partajare externă ale SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) pentru a partaja conținut cu persoane din afara organizației.
 
 Pentru mai multe informații despre partajarea externă (oaspeți), vă rugăm să vizitați linkurile de mai jos.
 

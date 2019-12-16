@@ -1,37 +1,37 @@
 ---
 title: Căutare în SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507643"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044055"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Accesarea cu crawlere conţinut şi indexarea în SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Conținut scotocire și indexare în SharePoint Online
 
-Conţinutul trebuie să fie indexat şi adăugate la indexul de căutare pentru utilizatorilor să găsească ceea ce ei caută în SharePoint Online. Conţinutul este scotocit automat bazat pe un program de accesare cu crawlere pre-definite (programul de scotocire nu poate fi schimbat). Crawler-ul preia conţinutul pe care s-a schimbat ultima scotocire şi actualizează indexul. Pentru a se asigura de conţinut este indexat şi Indexul este actualizat, reţineţi următoarele:
+Conținutul trebuie scotocit și adăugat la indexul de căutare pentru ca utilizatorii să găsească ceea ce caută în SharePoint Online. Conținutul este scotocit automat pe baza unui program de scotocire predefinit (programul de scotocire nu poate fi modificat). Crawlerul preia conținut care s-a modificat de la ultima accesare cu crawlere și actualizează indexul. Pentru a asigura că conținutul este scotocit și indexul este actualizat, rețineți următoarele:
 
-- Asiguraţi-vă că de conţinut pot fi găsite făcând [conţinutul site-ului poate fi căutat](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Asigurați-vă că conținutul poate fi găsit prin [crearea de conținut site-ul de căutare](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Aţi modificat o proprietate gestionată, sau atunci când aţi schimbat cartografierea accesate şi gestionate proprietăţi, site-ul trebuie să fie re-scotocite înainte de modificările vor fi reflectate în indexul de căutare. 
+- Când ați modificat o proprietate gestionată sau când ați modificat Maparea proprietăților scotocite și gestionate, situl trebuie rescotocit înainte ca modificările să se reflecte în indexul de căutare. 
 
-    Deoarece modificările sunt făcute în schemă de căutare, şi nu la site-ul real, crawlerul va automat re-indexa site-ul. 
+    Deoarece modificările sunt făcute în schema de căutare, și nu la site-ul real, crawlerul nu va reindexa automat site-ul. 
 
-    Pentru mai multe informaţii, consultaţi [manual solicita accesarea cu crawlere şi re-indexarea unui site, o listă sau o bibliotecă](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Pentru mai multe informații, consultați [solicitați manual accesarea cu crawlere și reindexarea unui site, a unei biblioteci sau a unei liste](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Aşteptaţi cel puţin 24 de ore după manual solicită o accesare cu crawlere şi complet re-index pentru a vedea dacă vă confruntaţi în continuare o problemă. 
+- Așteptați cel puțin 24 de ore după ce solicitați manual o accesare cu crawlere și o Reindexare completă pentru a vedea dacă întâmpinați încă o problemă. 
 
-    În cazul în care mai mult de 24 de ore au trecut de cand ai initiat de accesare cu crawlere şi complet re-indexa, vă rugăm să vă un caz de suport. În multe cazuri, lucrăm deja la o soluţie. Vă rugăm să ne dea cel puţin 24 de ore pentru a finaliza o soluţie.
+    Dacă au trecut mai mult de 24 de ore de la inițierea scotocire și reindex complet, vă rugăm să faceți log un caz de suport. În multe cazuri, suntem deja de lucru pe o soluție. Vă rugăm să ne acordați cel puțin 24 de ore pentru a finaliza o soluție.
 
 > [!IMPORTANT]
-> În cazul în care un site, documentul (biblioteca), sau o listă a fost şters şi prezintă încă în rezultatele de căutare, utilizatorii ar trebui să primiţi o **Eroare 404 Fişier negăsit** atunci când încearcă să-l acces. Această problemă trebuie să fiţi conectat ca un caz de suport pentru o analiza ulterioara. 
+> Dacă un site, document (bibliotecă), sau o listă a fost șters și încă arată în rezultatele căutării, utilizatorii ar trebui să primească o **eroare 404 fișier negăsit** atunci când încearcă să-l acceseze. Această problemă ar trebui să fie înregistrată ca un caz de sprijin pentru investigații suplimentare. 
 
 
 
