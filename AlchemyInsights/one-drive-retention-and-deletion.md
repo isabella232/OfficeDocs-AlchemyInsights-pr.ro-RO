@@ -1,7 +1,7 @@
 ---
-title: Retenţie de OneDrive și ștergerea
-ms.author: efrene
-author: efrene
+title: Păstrarea și ștergerea OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521579"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053345"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="2d4c5-102">Retenţie de OneDrive și ștergerea</span><span class="sxs-lookup"><span data-stu-id="2d4c5-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="51245-102">Păstrarea și ștergerea OneDrive</span><span class="sxs-lookup"><span data-stu-id="51245-102">OneDrive retention and deletion</span></span>
 
-- <span data-ttu-id="2d4c5-103">Puteţi [restaura o sterse utilizatorii OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) -te.</span><span class="sxs-lookup"><span data-stu-id="2d4c5-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="2d4c5-104">Ele sunt în Coșul de reciclare pentru 93 zile.</span><span class="sxs-lookup"><span data-stu-id="2d4c5-104">They are in recycle bin for 93 Days.</span></span> 
+- <span data-ttu-id="51245-103">Aveți posibilitatea să [restaurați un utilizator șters OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) .</span><span class="sxs-lookup"><span data-stu-id="51245-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="51245-104">Acestea sunt în Coșul de reciclare pentru 93 zile.</span><span class="sxs-lookup"><span data-stu-id="51245-104">They are in recycle bin for 93 Days.</span></span> 
 
-- <span data-ttu-id="2d4c5-105">A se vedea [acest articol](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) pentru a afla:</span><span class="sxs-lookup"><span data-stu-id="2d4c5-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
-    - <span data-ttu-id="2d4c5-106">Cum acord altui utilizator acces la un utilizator şters OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2d4c5-106">How to give another user access to a deleted user's OneDrive.</span></span>
-    - <span data-ttu-id="2d4c5-107">Ce se întâmplă cu un utilizator OneDrive când ştergeţi contul de Office 365 utilizatorului pentru organizaţia dvs.</span><span class="sxs-lookup"><span data-stu-id="2d4c5-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
-    - <span data-ttu-id="2d4c5-108">Cum sa Configurarea delegării de acces automat.</span><span class="sxs-lookup"><span data-stu-id="2d4c5-108">How to configure automatic access delegation.</span></span>
-    - <span data-ttu-id="2d4c5-109">Cum funcţionează procesul de ştergere OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2d4c5-109">How OneDrive deletion process works.</span></span>
+- <span data-ttu-id="51245-105">A se vedea [acest articol](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) pentru a afla:</span><span class="sxs-lookup"><span data-stu-id="51245-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="51245-106">să dea un alt utilizator acces la un utilizator șters OneDrive.</span><span class="sxs-lookup"><span data-stu-id="51245-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="51245-107">Ce se întâmplă cu un utilizator OneDrive atunci când ștergeți contul de Office 365 de utilizator pentru organizația dvs.</span><span class="sxs-lookup"><span data-stu-id="51245-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="51245-108">se configurează delegația de acces automat.</span><span class="sxs-lookup"><span data-stu-id="51245-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="51245-109">funcționează procesul de ștergere OneDrive.</span><span class="sxs-lookup"><span data-stu-id="51245-109">How OneDrive deletion process works.</span></span>
 
-- <span data-ttu-id="2d4c5-110">Interesate în securitatea şi conformitatea centrul de retenţie şi ţineţi?:</span><span class="sxs-lookup"><span data-stu-id="2d4c5-110">Interested in Security and Compliance Center retention and hold?:</span></span>
-    - [<span data-ttu-id="2d4c5-111">Strategiile de conservare pentru OneDrive și SharePoint site-uri</span><span class="sxs-lookup"><span data-stu-id="2d4c5-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [<span data-ttu-id="2d4c5-112">eDiscovery ţineţi pentru OneDrive și SharePoint site-uri</span><span class="sxs-lookup"><span data-stu-id="2d4c5-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- <span data-ttu-id="51245-110">Interesat de securitate și centrul de conformitate de retenție și țineți?:</span><span class="sxs-lookup"><span data-stu-id="51245-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="51245-111">Politici de retenție pentru site-uri OneDrive și SharePoint</span><span class="sxs-lookup"><span data-stu-id="51245-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="51245-112">eDiscovery Hold pentru OneDrive și SharePoint site-uri</span><span class="sxs-lookup"><span data-stu-id="51245-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
