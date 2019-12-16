@@ -1,7 +1,7 @@
 ---
-title: Restaurarea unui grup de Office 365 şterse
-ms.author: kaarins
-author: kaarins
+title: Restaurați un grup de 365 Office șters
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509265"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048844"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Restaurarea unui grup de Office 365 şterse
+# <a name="restore-a-deleted-office-365-group"></a>Restaurați un grup de 365 Office șters
 
-Elimină grupuri sunt păstrate timp de 30 de zile. Pentru a restaura un grup şterse:
+Grupurile șterse sunt păstrate timp de 30 de zile. Pentru a restaura un grup șters:
   
-1. În [Centrul de administrare Exchange](https://outlook.office365.com/ecp/), selectaţi **Destinatarii** din panoul din stânga, şi apoi selectaţi **grupuri**. În cazul în care un grup a fost şters de mai puţin de 30 de zile în urmă, acesta va apărea în lista şi coloana stare se va lista data șters.
+1. În [Centrul de administrare Exchange](https://outlook.office365.com/ecp/), selectați **destinatari** în panoul din stânga și apoi selectați **grupuri**. Dacă un grup a fost șters cu mai puțin de 30 de zile în urmă, acesta va apărea în listă și coloana stare va lista data ștearsă.
 
-2. Selectaţi grupul, apoi faceţi clic pe **Restore** pe bara comandă sau faceţi clic pe linkul "Click aici pentru a restabili" în panoul de detalii.
+2. Selectați grupul, apoi faceți clic pe **Restaurare** în bara de comenzi sau faceți clic pe linkul "faceți clic aici pentru a restaura" din panoul de detalii.
 
-Pentru mai multe informaţii sau pentru a afla cum de a restabili grupuri folosind PowerShell, consultaţi [restabilirea unui grup de Office 365 şterse](https://go.microsoft.com/fwlink/?linkid=867802).
+Pentru mai multe informații sau pentru a afla să restaurați grupuri utilizând PowerShell, consultați [restaurarea unui grup de 365 Office șterse](https://go.microsoft.com/fwlink/?linkid=867802).
   

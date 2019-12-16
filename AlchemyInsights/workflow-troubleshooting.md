@@ -1,7 +1,7 @@
 ---
-title: Rezolvarea problemelor de flux de lucru
-ms.author: efrene
-author: efrene
+title: Depanarea fluxului de lucru
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558089"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049313"
 ---
-# <a name="workflow-troubleshooting"></a>Rezolvarea problemelor de flux de lucru
+# <a name="workflow-troubleshooting"></a>Depanarea fluxului de lucru
 
-Pentru informaţii despre depanare fluxuri de lucru SharePoint, revedeţi următoarele:
-- Depanare fluxuri de lucru seamănă cu cea din versiunile anterioare.  Pentru mai multe informaţii, consultaţi [Depanarea SharePoint fluxuri de lucru](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Pentru mai multe informaţii despre depanarea, consultaţi [Depanarea SharePoint Server erori de validare flux de lucru](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Pentru informații despre depanarea fluxurilor de lucru SharePoint, examinați următoarele:
+- Depanarea fluxurilor de lucru seamănă cu cea a versiunilor anterioare.  Pentru mai multe informații, consultați [Depanarea fluxurilor](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)de lucru SharePoint.
+- Pentru mai multe informații despre depanare, consultați [Depanarea erorilor de validare a fluxului de lucru SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Subiecte asociate
-Doriţi să încercaţi Flow Microsoft SharePoint Online?
-- [Crea fluxul](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint şi fluxul](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Doriți să încercați Microsoft Flow în SharePoint Online?
+- [Creare flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint și flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 

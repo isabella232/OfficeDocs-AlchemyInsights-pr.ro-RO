@@ -1,7 +1,7 @@
 ---
-title: Flux de lucru e-mail nu este trimis
-ms.author: efrene
-author: efrene
+title: E-mailul fluxului de lucru nu este trimis
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 7/25/2019
 ms.audience: Admin
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530898"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049385"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Flux de lucru e-mail nu este trimis pentru o listă SharePoint sau biblioteca
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-mail de flux de lucru nu este trimis pentru o listă SharePoint sau bibliotecă
 
-1. E-mail de la fluxurile de lucru nu sunt trimise tuturor utilizatorilor sau doar anumiţi utilizatori, sau tu a vedea eroare **mesajul de poștă electronică nu poate fi trimis. Asiguraţi-vă că adresa de e-mail a destinatarului valid**.
+1. E-mailurile din fluxuri de lucru nu sunt trimise tuturor utilizatorilor sau numai utilizatorilor specifici sau vedeți eroarea **mesajul de poștă electronică nu poate fi trimis. Asigurați-vă că poșta electronică are un destinatar valid**.
 
-    Verificaţi dacă utilizatorul există în **Toţi oamenii** permisiunile grupului (lista informații utilizator) pentru că colecției de site-uri.  Proba directă URL: https://<tenant>.sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId = 0
+    Verificați dacă utilizatorul există în grupul de permisiuni **toate persoanele** (lista de informații de utilizator) pentru acea colecție de site-uri.  Exemplu de URL direct:<tenant>https://.<sitename>SharePoint.com/sites//_layouts/15/People.aspx? MembershipGroupId = 0
 
-    - În cazul în care utilizatorul nu exista, asiguraţi-vă că utilizatorul este semnat în pagină. 
-    - În cazul în care este un utilizator extern, asiguraţi-vă că invitaţia a fost acceptată.
-    - Dacă utilizatorul există în grupul de permisiuni, asiguraţi-vă că adresa de e-mail este corectă.
-    - În cazul în care adresa de e-mail a utilizatorilor nu este stabilit aici, apoi creaţi o alertă de probă pentru acel utilizator care forţele sincronizare acel cont de utilizator la User profile de SharePoint pentru această colecție de site-ul.
+    - Dacă utilizatorul nu există, asigurați-vă că utilizatorul este conectat în pagină. 
+    - Dacă este un utilizator extern, asigurați-vă că invitația lor a fost acceptată.
+    - Dacă utilizatorul există în grupul de permisiuni, asigurați-vă că adresa de e-mail este corectă.
+    - Dacă adresa de e-mail a utilizatorilor nu este setată aici, apoi creați o alertă de eșantion pentru acel utilizator care obligă sincronizarea acelui cont de utilizator din profilurile de utilizator ale SharePoint la această colecție de site-uri.
  
-2. E-mail de la fluxuri de lucru sunt trimise la administratori ai colecției de site-ul dar nu de la alţi utilizatori şi vedea de eroare **HTTP interzis la <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
+2. E-mailul din fluxurile de lucru sunt trimise administratorilor de colecție de site-uri, dar nu și altor utilizatori și vedeți eroarea **http interzisă la <span>https:</span>//_vti_bin/client.XVC.SP.Utilities.Utility.SendEmail**.
  
 
-    A se vedea [Acces refuzat atunci când trimiteţi un mesaj către un grup SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Consultați [acces refuzat atunci când trimiteți un e-mail la un grup SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    De asemenea, să verifice dacă caracteristica de colectare **modul acces limitat utilizator permisiunea lockdown** site-ul nu este activ.
+    De asemenea, Verificați că caracteristica de colectare a site-ului de **blocare permisiuni de acces limitat de utilizator** nu este activă.
 
 
 ## <a name="related-topics"></a>Subiecte asociate
-Doriţi să încercaţi Flow Microsoft SharePoint Online?
-- [Crea fluxul](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint şi fluxul](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Doriți să încercați Microsoft Flow în SharePoint Online?
+- [Creare flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint și flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

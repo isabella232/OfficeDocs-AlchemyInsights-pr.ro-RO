@@ -1,7 +1,7 @@
 ---
-title: Converti un site la un site-ul hub
-ms.author: kaarins
-author: kaarins
+title: Conversia unui site pe un site de hub
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516755"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049961"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Creaţi un site hub SharePoint
+# <a name="create-a-sharepoint-hub-site"></a>Crearea unui site hub SharePoint
 
-1. În noul centru de administrare SharePoint, în **site-uri**, faceţi clic pe **site-uri Active**.
+1. În noul centru de administrare SharePoint, sub **site-uri**, faceți clic pe **site-uri active**.
 
-2. Selectaţi site-ul pe care doriţi să fie un site hub, faceţi clic pe **site-ul Hub**, şi apoi faceţi clic pe **registru ca site-ul hub**.
+2. Selectați site-ul pe care doriți să fie un site hub, faceți clic pe **site-ul Hub**, și apoi faceți clic pe **înregistrați ca site-ul Hub**.
 
-3. Introduceţi un nume afişat pentru site-ul hub şi specificaţi utilizatori individuali sau grupuri de securitate, permiteți să se asocieze site-uri cu hub-ul.
+3. Introduceți un nume afișat pentru site-ul Hub și specificați utilizatorii individuali sau grupurile de securitate pe care doriți să le permiteți să asocieze site-uri cu hubul.
 
     > [!NOTE]
-    >  Vă recomandăm să selectați un site de comunicare, sau un site de echipă care utilizează noul şablon. Dacă utilizaţi o clasic echipa site-ului, hub-ul de navigare va apărea numai paginile moderne, şi setările de site-ul hub vor apărea numai paginile moderne. Site-urile care sunt deja asociat cu un alt hub nu poate fi înregistrată ca un site hub.
+    >  Vă recomandăm să selectați un site de comunicare sau un site de echipă care utilizează noul șablon. Dacă utilizați un site de echipă clasic, navigarea hub va apărea numai pe paginile moderne, iar setările site-ului hub vor apărea numai pe paginile moderne. Site-urile care sunt deja asociate cu un alt hub nu pot fi înregistrate ca site hub.
   
-[Aflaţi mai multe despre hub-ul site-uri](https://go.microsoft.com/fwlink/?linkid=869149)
+[Aflați mai multe despre site-urile hub](https://go.microsoft.com/fwlink/?linkid=869149)
   
