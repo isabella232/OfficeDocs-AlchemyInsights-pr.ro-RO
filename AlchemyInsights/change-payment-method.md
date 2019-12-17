@@ -1,5 +1,5 @@
 ---
-title: Schimba metoda de plată
+title: Modificarea metodei de plată
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665364"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068303"
 ---
-# <a name="change-payment-method"></a>Schimba metoda de plată
+# <a name="change-payment-method"></a>Modificarea metodei de plată
 
-Puteţi verifica şi modifica modalitatea de plată, care este configurat în centrul de administrare Microsoft 365. Alege abonamentul care doriţi să verificaţi. Metodă de plată care este configurat pentru abonamentul apare sub **Facturare**. 
+Aveți posibilitatea să verificați și să modificați metoda de plată care este configurată în centrul de administrare Microsoft 365. Alegeți abonamentul pe care doriți să îl verificați. Metoda de plată configurată pentru abonament apare sub **Facturare**.
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Lângă metoda de plata pentru abonament pe care doriţi să modificaţi modul de plata pentru, selectaţi **Editare**.
+2. Găsiți abonamentul pentru care doriți să schimbați metoda de plată. Lângă metoda de plată, selectați **Editare**.
 
-3. Urmaţi paşii de pe ecran pentru a finaliza schimbarea.
+3. Urmați pașii de pe ecran pentru a finaliza modificarea.
 
-Sunt folosind centrul vechi admin? Pentru paşii de vechi, sau pentru a afla mai multe, consultaţi [modificarea metoda de plată pentru Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Pentru a afla mai multe, consultați [modificarea metodei de plată pentru Office 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
