@@ -1,9 +1,8 @@
 ---
-title: Schimbare permisiuni public folder
+title: Modificarea permisiunilor folderului public
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631735"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022209"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="29b24-102">Schimbare permisiuni public folder</span><span class="sxs-lookup"><span data-stu-id="29b24-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="7f428-102">Modificarea permisiunilor folderului public</span><span class="sxs-lookup"><span data-stu-id="7f428-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="29b24-103">Permisiunile folderului public poate fi schimbat de către utilizatori şi administratori în Outlook.</span><span class="sxs-lookup"><span data-stu-id="29b24-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="29b24-104">Administratorii pot controla, de asemenea, permisiuni la schimb Admin Center (EAC), efectuând următoarele:</span><span class="sxs-lookup"><span data-stu-id="29b24-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
+<span data-ttu-id="7f428-103">Permisiunile folderului public pot fi modificate de utilizatori și administratori în Outlook.</span><span class="sxs-lookup"><span data-stu-id="7f428-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="7f428-104">Administratorii pot controla, de asemenea, permisiunile de la centrul de administrare Exchange (EAC), procedând astfel:</span><span class="sxs-lookup"><span data-stu-id="7f428-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
   
-1. <span data-ttu-id="29b24-105">Centrul de administrare IIn Microsoft 365, du-te la **Admin Centre** \> **schimb**.</span><span class="sxs-lookup"><span data-stu-id="29b24-105">IIn the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="7f428-105">În Microsoft 365 Admin Center, du-te la **admin Centre** \> de **schimb**.</span><span class="sxs-lookup"><span data-stu-id="7f428-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="29b24-106">Selectaţi **folderele publice**.</span><span class="sxs-lookup"><span data-stu-id="29b24-106">Select **Public folders**.</span></span>
+2. <span data-ttu-id="7f428-106">Selectați **foldere publice**.</span><span class="sxs-lookup"><span data-stu-id="7f428-106">Select **Public folders**.</span></span>
 
-3. <span data-ttu-id="29b24-107">De acolo, puteţi modifica permisiunile pentru foldere publice individuale asociind grupuri de securitate permisiuni.</span><span class="sxs-lookup"><span data-stu-id="29b24-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="29b24-108">Pentru un utilizator final pentru a modifica permisiunile folderului public, utilizatorul trebuie să aibă drepturi de proprietar pe folderul.</span><span class="sxs-lookup"><span data-stu-id="29b24-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+3. <span data-ttu-id="7f428-107">De acolo, aveți posibilitatea să modificați permisiunile pentru foldere publice individuale prin asocierea grupurilor de securitate la permisiuni.</span><span class="sxs-lookup"><span data-stu-id="7f428-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="7f428-108">Pentru ca un utilizator final să modifice permisiunile folderului public, utilizatorul trebuie să aibă drepturi de proprietar în folder.</span><span class="sxs-lookup"><span data-stu-id="7f428-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="7f428-109">Există mai multe probleme cunoscute s-ar putea întâlni atunci când încercați să modificați permisiunile pentru foldere publice.</span><span class="sxs-lookup"><span data-stu-id="7f428-109">There are several known issues you might encounter when you try to change permissions on public folders.</span></span> <span data-ttu-id="7f428-110">Consultați următoarele articole pentru mai multe informații.</span><span class="sxs-lookup"><span data-stu-id="7f428-110">See the following articles for more information.</span></span>
+>
+> [<span data-ttu-id="7f428-111">Imposibil de aplicat permisiuni la subfolderele de foldere publice în EAC</span><span class="sxs-lookup"><span data-stu-id="7f428-111">Can’t apply permissions to public folder subfolders in EAC</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> [<span data-ttu-id="7f428-112">"Cutia poștală nu se găsește în pădurea locală" eroare atunci când accesați foldere publice</span><span class="sxs-lookup"><span data-stu-id="7f428-112">"The mailbox is not found in the local forest" error when you access public folders</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
