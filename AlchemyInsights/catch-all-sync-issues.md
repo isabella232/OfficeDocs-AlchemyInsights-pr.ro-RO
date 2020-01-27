@@ -1,5 +1,5 @@
 ---
-title: Captură toate problemele de sincronizare
+title: Prinde toate problemele de sincronizare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 73d944622953fa3486816b4d8a8fbf53a8f7c0a6
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
+ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663369"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41551009"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="d8a5b-102">Depanarea sincronizării de bază Outlook</span><span class="sxs-lookup"><span data-stu-id="d8a5b-102">Basic Outlook sync troubleshooting</span></span>
+# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="00913-102">Depanarea de bază a sincronizării Outlook</span><span class="sxs-lookup"><span data-stu-id="00913-102">Basic Outlook sync troubleshooting</span></span>
 
-<span data-ttu-id="d8a5b-103">Dacă întâmpinați probleme de sincronizare, încercați următoarele:</span><span class="sxs-lookup"><span data-stu-id="d8a5b-103">If you're having sync issues, try the following:</span></span>
+<span data-ttu-id="00913-103">Dacă întâmpinați probleme de sincronizare, încercați următoarele:</span><span class="sxs-lookup"><span data-stu-id="00913-103">If you're having sync issues, try the following:</span></span>
 
-- <span data-ttu-id="d8a5b-104">Executați [acest instrument de diagnosticare](https://aka.ms/sara-outlooksendreceive) pe mașina afectată.</span><span class="sxs-lookup"><span data-stu-id="d8a5b-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
-- <span data-ttu-id="d8a5b-105">[Creați un profil Outlook nou](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) și setați-l ca implicit.</span><span class="sxs-lookup"><span data-stu-id="d8a5b-105">[Create a new Outlook profile](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) and set it as the default.</span></span> <span data-ttu-id="d8a5b-106">Aveți posibilitatea să [executați profilul Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe computerul afectat.</span><span class="sxs-lookup"><span data-stu-id="d8a5b-106">You can [run the Outlook profile](https://aka.ms/SaRA-OutlookSetupProfile) on the affected computer.</span></span>
-- <span data-ttu-id="d8a5b-107">Asigurați-vă că utilizatorul se poate conecta la internet.</span><span class="sxs-lookup"><span data-stu-id="d8a5b-107">Make sure the user can connect to the Internet.</span></span> 
-- <span data-ttu-id="d8a5b-108">[Verificați](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)dacă sunteți online.</span><span class="sxs-lookup"><span data-stu-id="d8a5b-108">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
-- <span data-ttu-id="d8a5b-109">[Determinați dacă se aplică o regulă](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="d8a5b-109">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
-- <span data-ttu-id="d8a5b-110">Verificați că **Descărcarea folderelor partajate** este activată **mergând la** > \*\*\*\* > Setări cont setările**contului** > **Setări mai multe setări** > **avansate**.</span><span class="sxs-lookup"><span data-stu-id="d8a5b-110">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
+- <span data-ttu-id="00913-104">Executați [acest instrument](https://aka.ms/sara-outlooksendreceive) de diagnosticare pe mașina afectată.</span><span class="sxs-lookup"><span data-stu-id="00913-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
+- <span data-ttu-id="00913-105">Reduceți numărul de foldere din cutia poștală principală sau partajată.</span><span class="sxs-lookup"><span data-stu-id="00913-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="00913-106">Consultați [probleme de performanță Outlook atunci când există prea multe elemente sau foldere într-un folder de fișier .ost modul cached sau .pst.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span><span class="sxs-lookup"><span data-stu-id="00913-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span></span>
+- <span data-ttu-id="00913-107">Asigurați-vă că utilizatorul se poate conecta la Internet.</span><span class="sxs-lookup"><span data-stu-id="00913-107">Make sure the user can connect to the Internet.</span></span> 
+- <span data-ttu-id="00913-108">[Verificați dacă sunteți online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="00913-108">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
+- <span data-ttu-id="00913-109">[Determinați dacă se aplică o regulă](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="00913-109">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
+- <span data-ttu-id="00913-110">Verificați dacă **descărcarefoldere partajate** este activată prin a merge la \*\*\*\* > **Setări** > cont de fișiere**Setări** > **cont Mai multe setări** > **complexe**.</span><span class="sxs-lookup"><span data-stu-id="00913-110">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
