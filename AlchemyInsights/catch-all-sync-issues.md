@@ -1,5 +1,5 @@
 ---
-title: Captură toate problemele de sincronizare
+title: Prinde toate problemele de sincronizare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 73d944622953fa3486816b4d8a8fbf53a8f7c0a6
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
+ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663369"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41551009"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Depanarea sincronizării de bază Outlook
+# <a name="basic-outlook-sync-troubleshooting"></a>Depanarea de bază a sincronizării Outlook
 
 Dacă întâmpinați probleme de sincronizare, încercați următoarele:
 
-- Executați [acest instrument de diagnosticare](https://aka.ms/sara-outlooksendreceive) pe mașina afectată.
-- [Creați un profil Outlook nou](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) și setați-l ca implicit. Aveți posibilitatea să [executați profilul Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe computerul afectat.
-- Asigurați-vă că utilizatorul se poate conecta la internet. 
-- [Verificați](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)dacă sunteți online.
+- Executați [acest instrument](https://aka.ms/sara-outlooksendreceive) de diagnosticare pe mașina afectată.
+- Reduceți numărul de foldere din cutia poștală principală sau partajată. Consultați [probleme de performanță Outlook atunci când există prea multe elemente sau foldere într-un folder de fișier .ost modul cached sau .pst.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
+- Asigurați-vă că utilizatorul se poate conecta la Internet. 
+- [Verificați dacă sunteți online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
 - [Determinați dacă se aplică o regulă](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Verificați că **Descărcarea folderelor partajate** este activată **mergând la** > **** > Setări cont setările**contului** > **Setări mai multe setări** > **avansate**.
+- Verificați dacă **descărcarefoldere partajate** este activată prin a merge la **** > **Setări** > cont de fișiere**Setări** > **cont Mai multe setări** > **complexe**.
