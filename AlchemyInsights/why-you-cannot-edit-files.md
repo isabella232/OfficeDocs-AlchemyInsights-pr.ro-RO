@@ -13,26 +13,26 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049421"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771155"
 ---
 # <a name="why-cant-i-edit-files"></a>De ce nu pot edita fișiere?
 
-Dacă un document, o foaie de lucru sau o prezentare este blocată pentru editare și nu se poate deschide în aplicațiile desktop Windows, este posibil ca fișierul să fie deja editat de altcineva sau să fi verificat fișierul. Să aruncăm o privire rapidă la unele dintre motivele pentru [care s-ar putea să nu fie capabil de a edita fișierul](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Aruncati o privire rapida la unele dintre motivele pentru care [este posibil sa nu mai puteaedita fisierul](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Dacă aveți biblioteci cu **Checkout, coloane necesare** sau **validare** sau metadate, sau când **proiect de securitate element** este setată fie **numai utilizatorii care pot edita** sau **numai utilizatorii care pot aproba elemente** în setările de versiune a bibliotecii:
+Dacă aveți biblioteci cu coloane sau metadate **Checkout, Obligatoriu** sau **Validare** sau când **Securitatea articolului schiță** este setată fie **numai pentru utilizatorii care pot edita,** fie **numai utilizatorii care pot aproba elemente** din Setările de versiune ale bibliotecii:
 
-- Pentru bibliotecile de documente SharePoint, aceste elemente vor fi sincronizate ca doar în citire.
+- Pentru bibliotecile de documente SharePoint, aceste elemente vor fi sincronizate doar în citire.
 
-- Pentru bibliotecile OneDrive, OneDrive va afișa o pictogramă de blocare (pictograma fișierului OneDrive blocat) lângă starea de sincronizare și utilizatorul nu va putea sincroniza biblioteca până când setările menționate au fost eliminate. 
+- Pentru bibliotecile OneDrive, OneDrive va afișa o pictogramă de blocare (pictograma OneDrive file locked ) lângă starea de sincronizare și utilizatorul nu va putea sincroniza biblioteca până când setările menționate nu au fost eliminate. 
 
-Pentru mai multe informații privind fișierele blocate pentru Word sau Excel, vă rugăm să consultați articolele de mai jos.
+Pentru mai multe informații despre fișierele blocate pentru Word sau Excel, vă rugăm să faceți referire la articolele de mai jos.
 
-- [Fișierul Excel este blocat pentru editare de un alt utilizator](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Fișierul Excel este blocat pentru editare de alt utilizator](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Fișierul Word este blocat pentru editare de un alt utilizator](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Fișierul Word este blocat pentru editare de alt utilizator](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

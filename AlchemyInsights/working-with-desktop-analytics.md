@@ -1,5 +1,5 @@
 ---
-title: Cum să închideţi contul Desktop Analytics
+title: să vă închideți contul Desktop Analytics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800540"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771119"
 ---
-# <a name="working-with-desktop-analytics"></a>De lucru cu Desktop Analytics
+# <a name="working-with-desktop-analytics"></a>Lucrul cu Desktop Analytics
 
-Se pare ca vi se cere despre Desktop Analytics. Am putea ajuta cu un raspuns mai precis, în cazul în care vă reformulaţi întrebarea.
+Se pare că întrebați despre Desktop Analytics. Am putea fi în măsură să ajute cu un răspuns mai precis, dacă reformula întrebarea dumneavoastră.
 
-- [Ce este desktop-ul Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Cum să înfiinţeze Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Întrebări frecvente](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Depanarea Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Ce este Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [se configurează Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Întrebări frecvente](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Depanarea analizelor desktop](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

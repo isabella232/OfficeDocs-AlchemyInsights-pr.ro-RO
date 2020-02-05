@@ -1,8 +1,8 @@
 ---
-title: Crearea unui sit SharePoint
+title: Crearea unui site SharePoint
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049889"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770867"
 ---
-# <a name="create-a-sharepoint-site"></a>Crearea unui sit SharePoint
+# <a name="create-a-sharepoint-site"></a>Crearea unui site SharePoint
 
-Puteți vedea următoarele informații despre crearea de site-uri SharePoint:
-- [Gestionați site-uri în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Aflați despre opțiunile de creare a site-ului, inclusiv despre se creează un site clasic sau un site de echipe care nu include un grup Office 365.
-- [Creați un site de echipă în SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Aflați să creați un site de echipă.
-- [Creați un site de comunicare în SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Aflați să creați un site de comunicații.
-- [Gestionați site-uri în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Aflați să creați un site clasic sau un site de echipă care nu include un grup Office 365.
+Creați sau gestionați site-uri din [Site-uri active](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) din Centrul de administrare SharePoint. Pentru mai multe informații, consultați [Gestionarea site-urilor în noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
+## <a name="tips"></a>Sfaturi:
 
-  
-**Sfaturi:**
-- Imposibil de creat un site cu același URL al unui site existent. Dacă ați șters un site și doriți să reutilizați adresa URL, este posibil ca site-ul șters să existe în continuare sub **site-uri șterse**. Pentru a gestiona site-urile șterse, consultați, [Ștergeți un site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Pentru a elimina complet un site cu PowerShell, consultați exemplu cmdletul [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Este posibil ca unii utilizatori să nu poată crea un site. Consultați [gestionarea creării site-ului în SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Este posibil site-ul apare blocat la **crearea** mai mult decât se aștepta. Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să înregistrați un bilet de suport. În multe cazuri, suntem deja de lucru pe o soluție. Vă rugăm să ne acordați cel puțin 24 de ore pentru a finaliza o soluție.
-- Dacă trebuie să creați un nou site de echipă care nu include un grup Office 365, 
-
-
+- Imposibil **de** creat un site cu același URL al unui site existent. Dacă ați șters un site și doriți să reutilizați URL-ul, este posibil ca site-ul șters să existe în continuare sub [Site-uri șterse](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Site-ul va trebui să fie șters definitiv pentru a reutiliza URL-ul. Pentru a elimina complet un site cu Powershell, consultați exemplul cmdletului [Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Este posibil ca unii utilizatori să nu poată crea un site. [Consultați Gestionarea creării de site-uri în SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Este posibil ca site-ul să apară blocat la **Crearea** mai mult decât se aștepta. Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să vă conectați un bilet de asistență. În multe cazuri, lucrăm deja la o soluție. Vă rugăm să ne dea cel puțin 24 de ore pentru a finaliza o soluție.

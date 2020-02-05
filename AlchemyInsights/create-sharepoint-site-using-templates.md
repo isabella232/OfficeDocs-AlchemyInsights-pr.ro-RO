@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052481"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770435"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Crearea de site-uri SharePoint utilizând șabloane
+# <a name="create-sharepoint-sites-using-templates"></a>Crearea site-urilor SharePoint utilizând șabloane
 
-Șabloanele de site SharePoint sunt definiții predefinite proiectate în jurul unei nevoi speciale de afaceri. Pentru mai multe informații, consultați [utilizarea șabloanelor pentru a crea diferite tipuri de site-uri SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Capacitatea de a salva un site ca șablon nu este acceptată cu site-uri moderne de comunicare sau de echipă. Pentru mai multe informații despre utilizarea șabloanelor, consultați [Salvarea, descărcarea și încărcarea unui site SharePoint ca șablon](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Iată câteva probleme/soluții obișnuite privind salvarea unui site sau a unei liste ca șablon în SharePoint Online. 
+Iată câteva probleme/soluții obișnuite în ceea ce privește salvarea unui site sau a unei liste ca șablon în Sharepoint Online. 
 
-**Salvați butonul șablon de site/listă nu este disponibil sau lipsește**
+**Butonul Salvare șablon site/listă nu este disponibil sau lipsește**
 
-Administratorii vor trebui să permită script particularizat pentru a activa caracteristicile șablonului. Pentru pași detaliați, exemplele și considerațiile 
+Administratorii vor trebui să permită script personalizat pentru a activa caracteristicile șablonului. Pentru pași detaliați, exemple și considerații, a se vedea 
 
-- [Permiteți sau împiedicați scriptul particularizat](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Permiterea sau prevenirea scriptului particularizat](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Comanda Salvare site ca șablon nu este acceptată și poate provoca probleme pe site-uri care utilizează infrastructura de publicare SharePoint Server.
+- Comanda Salvare site-ul ca șablon nu este acceptată și poate provoca probleme pe site-uri care utilizează infrastructura de publicare SharePoint Server.
 
-**Imposibil de creat șablonul de site sau nu funcționează corect**
+**Șablonul de site nu se poate crea sau nu funcționează corect**
 
-Este posibil ca șablonul să lipsească o [caracteristică](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) și să nu se activeze. Dacă caracteristica nu este disponibilă pentru a activa în colecția de site-uri curentă, nu se poate utiliza șablonul de site-ul pentru a crea un site.
+Este posibil ca șablonul să lipsească o [caracteristică](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) și să nu se activeze. Dacă caracteristica nu este disponibilă pentru activare în colecția de site-uri curentă, aveți posibilitatea să utilizați șablonul de site pentru a crea un site.
 
-- Verificați pentru a vedea dacă orice liste sau biblioteci depășesc [pragul de vedere listă limită](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de 5000 elemente, deoarece acest lucru poate bloca crearea unui șablon de site-ul.
+- Verificați dacă listele sau bibliotecile depășesc [pragul limită](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de vizualizare listă de 5000 de elemente, deoarece acest lucru poate bloca crearea unui șablon de site.
 
 - Site-ul poate fi folosind prea multe resurse și, prin urmare, șablonul de site-ul depășește limita de 50 MB.
 
 
-- Există probleme la afișarea datelor dintr-o listă care utilizează o coloană de căutare. Pentru mai multe informații, consultați [șablon generat listă nu afișează date din Listă tabel de căutare corectă în SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- Există probleme la afișarea datelor dintr-o listă care utilizează o coloană de căutare. Pentru mai multe informații, consultați [Lista generată de șabloane nu afișează date din lista](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)de căutare corectă din SharePoint Online .
 
-Pentru informații mai detaliate despre problemele și soluțiile obișnuite, consultați [crearea și utilizarea șabloanelor de site](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Pentru informații mai detaliate despre problemele și soluțiile obișnuite, verificați [Creați și utilizați șabloane de site.](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
 
 
 

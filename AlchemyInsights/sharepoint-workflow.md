@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050933"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770471"
 ---
 # <a name="workflows-in-sharepoint"></a>Fluxuri de lucru în SharePoint
 
-Fluxurile de lucru SharePoint sunt pre-programate mini-aplicații care simplifică și automatizează o mare varietate de procese de afaceri. Fluxurile de lucru pot varia de la colectarea semnăturilor, feedback-ului sau aprobărilor pentru un plan sau document, pentru urmărirea stării curente a unei proceduri de rutină.
+Fluxurile de lucru SharePoint sunt aplicații pre-programate care simplifică o mare varietate de procese de afaceri. A se vedea link-urile de mai jos pentru mai multe informații.
 
-**Noțiuni introductive:** Dacă tocmai ați început să începeți cu fluxuri de lucru SharePoint, consultați [Introducere în fluxuri de lucru SharePoint pentru mai multe informații](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Introducere
 
-**Microsoft Flow**: luați în considerare utilizarea Microsoft Flow în locul soluțiilor de flux de lucru SharePoint clasice. Pentru mai multe informații, consultați [crearea unui flux pentru o listă sau o bibliotecă în SharePoint Online sau OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Dacă abia începeți să utilizați fluxuride lucru SharePoint, consultați [Intro la fluxuri de lucru SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Depanare și depanare flux de lucru**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Depanarea și depanarea unui flux de lucru SharePoint
 
-Depanarea fluxurilor de lucru seamănă cu cea a versiunilor anterioare. Pentru mai multe informații, consultați [Depanarea fluxurilor](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)de lucru SharePoint. Pentru mai multe informații despre depanare, consultați [Depanarea erorilor de validare a fluxului de lucru SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Consultați [Depanarea erorilor](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) de validare a fluxului de lucru SharePoint și [depanarea fluxurilor de lucru SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Automatizare de alimentare
+
+Luați în considerare utilizarea [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) în locul soluțiilor clasice de flux de lucru SharePoint.

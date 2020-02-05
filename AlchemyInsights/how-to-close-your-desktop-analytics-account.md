@@ -1,5 +1,5 @@
 ---
-title: Cum să închideţi contul Desktop Analytics
+title: să vă închideți contul Desktop Analytics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541737"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771047"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Cum să închideţi contul Desktop Analytics
+# <a name="how-to-close-your-desktop-analytics-account"></a>să vă închideți contul Desktop Analytics
 
-În cazul în care configurarea Desktop Analytics în mediul dumneavoastră, şi apoi decide tu nevoie pentru ao îndepărta, de a folosi procesul în următorul link:
+Dacă configurați Desktop Analytics în mediul dvs., apoi decideți că trebuie să îl eliminați, utilizați procesul în următorul link:
 
-[Cum să închideţi contul](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[să vă închideți contul](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Primul pas este să contactaţi Microsoft Support. Deschideţi un caz de suport pentru a închide contul Desktop Analytics. Nu continua cu paşi suplimentari până când veţi primi confirmarea că Microsoft închis contul dvs.
+Primul pas este de a contacta Microsoft Support. Deschideți un caz de asistență pentru a vă închide contul Desktop Analytics. Nu continuați cu pași suplimentari până când primiți confirmarea că Microsoft v-a închis contul.

@@ -1,5 +1,5 @@
 ---
-title: Imposibil de creat o evaluare de compatibilitate
+title: Imposibil de creat o evaluare a compatibilității
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800546"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771083"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Imposibil de creat o evaluare de compatibilitate
+# <a name="cant-create-a-compatibility-assessment"></a>Imposibil de creat o evaluare a compatibilității
 
-Configurare Manager configurat cu succes dispozitivul, dar Desktop Analytics nu poate crea o evaluare de compatibilitate. Ea nu are un set complet de date pentru configurarea (recensământ) sau instala apps (inventar).
+Microsoft Endpoint Configuration Manager a configurat cu succes dispozitivul, dar Desktop Analytics nu poate crea o evaluare a compatibilității. Nu are un set complet de date pentru configurația (recensământul) dispozitivului sau pentru aplicațiile instalate (inventar).
 
-Această problemă este adesea fix automat atunci când aparatul încercări. Dacă aceasta persistă, asiguraţi-vă că să poată comunica cu serviciul. Pentru mai multe informaţii, a se vedea [capetele](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) şi [Lipsesc date](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Această problemă este adesea remediată automat atunci când dispozitivul se reîncearcă. Dacă persistă, asigurați-vă că dispozitivul poate comunica cu serviciul. Pentru mai multe informații, consultați [Puncte finale](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) și [Date lipsă](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
