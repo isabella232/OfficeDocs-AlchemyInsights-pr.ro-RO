@@ -1,5 +1,5 @@
 ---
-title: Întrebați administratorul pentru a activa Microsoft teams
+title: Solicitați administratorului să activeze Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328829"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962309"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Pierzi! Întrebați administratorul pentru a activa Microsoft teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Pierzi! Solicitați administratorului să activeze Microsoft Teams
 
-Sunt Facultatea și personalul capabil de a accesa echipele, dar studenții nu pot, sau sunt utilizatorii de F1 licențiat în imposibilitatea de a accesa echipele?
+Sunt profesorii și personalul posibilitatea de a accesa Echipe, dar studenții nu pot, sau sunt utilizatorii dumneavoastră f1 licențiat în imposibilitatea de a accesa Echipe?
 
-Echipele trebuie să fie activate în mod explicit pentru studenți și licențe F1. Pentru instrucțiuni, consultați [Office 365 studenții și conturile de servicii nu se pot conecta la Microsoft teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in). 
-
-Puteți găsi mai multe instrucțiuni detaliate despre să activați echipele pentru școala dumneavoastră în [Configurarea echipelor pentru educație](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+Echipele trebuie să fie activate în mod explicit pentru studenți și licențe LeF1. Puteți găsi instrucțiuni mai detaliate despre să activați Echipele pentru școala dumneavoastră în [Configurarea echipelor pentru educație](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
