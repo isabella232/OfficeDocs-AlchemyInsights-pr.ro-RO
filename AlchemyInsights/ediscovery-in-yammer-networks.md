@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033907"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162924"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Descoperire a informațiilor electronice în rețelele Yammer
 
 Acum puteți efectua căutări eDiscovery pentru conținutul Yammer în Office 365.  Efectuarea căutărilor sau exportului de eDiscovery pe conținut Yammer necesită următoarele:
 
-1. Trebuie mai întâi să migrați rețeaua Yammer Enterprise în modul nativ pentru a face mesajele și fișierele Yammer descoperite.
-
-   > [!NOTE] 
-   >Dacă sunteți un client nou Office 365 începând cu data de 9 ianuarie 2020 și rețeaua Yammer este deja în modul nativ, datele pot fi descoperite acum cu eDiscovery.
+1. Trebuie mai întâi să migrați rețeaua Yammer Enterprise în modul nativ pentru a face mesajele și fișierele Yammer descoperite. **Notă: dacă sunteți un client Office 365 nou începând cu data de 9 ianuarie 2020 și rețeaua Yammer este deja în modul nativ, datele pot fi descoperite acum cu eDiscovery**.
 
 2. Pentru ieșirea din clienți, eDiscovery pentru Yammer va fi disponibil odată ce instrumentul Native Mode Alignment este lansat și migrarea mod nativ se termină pentru Yammer în entitate găzduită.
 
