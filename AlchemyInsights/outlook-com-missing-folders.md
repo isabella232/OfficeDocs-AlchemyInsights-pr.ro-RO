@@ -1,5 +1,5 @@
 ---
-title: Outlook.com lipsă pliant
+title: Outlook.com Foldere lipsă
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536195"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260254"
 ---
-# <a name="find-missing-folders"></a><span data-ttu-id="4f8b4-102">Găsiţi lipsă pliant</span><span class="sxs-lookup"><span data-stu-id="4f8b4-102">Find missing folders</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="1c6c0-102">Găsirea folderelor lipsă</span><span class="sxs-lookup"><span data-stu-id="1c6c0-102">Find missing folders</span></span>
 
-<span data-ttu-id="4f8b4-103">Dacă nu vedeți folderele, verificaţi că folderele nu s-a prăbușit.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="4f8b4-104">Selectaţi săgeata de lângă **foldere** din panoul din stânga.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-104">Select the arrow next to **Folders** in the left pane.</span></span>
-  
-<span data-ttu-id="4f8b4-105">Dacă ştergeţi din greşeală un folder, poate recupera în cazul în care este încă în folderul Elemente şterse.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="4f8b4-106">Pentru a afla mai multe, citiţi [restaurarea elimină mesaje e-mail în Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="4f8b4-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
-  
-<span data-ttu-id="4f8b4-107">Există o problemă cunoscută în cazul în care dosarele sunt lipsă.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="4f8b4-108">Lucrăm pentru a rezolva această problemă.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-108">We're working to fix this.</span></span> <span data-ttu-id="4f8b4-109">Puteţi găsi încă elemente salvate în foldere lipsă utilizând **Căutare**</span><span class="sxs-lookup"><span data-stu-id="4f8b4-109">You can still find items saved within the missing folders using **Search**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' /><span data-ttu-id="4f8b4-110">, şi ar putea ajuta în cazul în care vă faceţi sign out si apoi sign în din nou.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-110">, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="4f8b4-111">Click aici pentru a semna.</span><span class="sxs-lookup"><span data-stu-id="4f8b4-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
+<span data-ttu-id="1c6c0-103">Este posibil ca unii utilizatori să nu poată vedea panoul folderului din stânga atunci când se vizualizează pe un ecran mic.</span><span class="sxs-lookup"><span data-stu-id="1c6c0-103">Some users may not be able to see the left folder pane when viewing on a small screen.</span></span>
+
+- <span data-ttu-id="1c6c0-104">Extindeți panoul de foldere numai atunci când aveți nevoie.</span><span class="sxs-lookup"><span data-stu-id="1c6c0-104">Expand the folder pane only when you need it.</span></span> <span data-ttu-id="1c6c0-105">Selectați pictograma cu trei linii din bara din partea stângă pentru a afișa sau a ascunde foldere.</span><span class="sxs-lookup"><span data-stu-id="1c6c0-105">Select the three line icon in the left side bar to show or hide folders.</span></span>
+- <span data-ttu-id="1c6c0-106">Deschideți [setările de aspect](https://outlook.live.com/mail/options/mail/layout) și selectați Ascundeți panoul de **citire,** apoi **Salvați**.</span><span class="sxs-lookup"><span data-stu-id="1c6c0-106">Open [layout settings](https://outlook.live.com/mail/options/mail/layout) and select **Hide reading pane** and then **Save**.</span></span> <span data-ttu-id="1c6c0-107">Acest lucru va oferi ecranului mai mult spațiu pentru a afișa foldere.</span><span class="sxs-lookup"><span data-stu-id="1c6c0-107">This will give the screen more space to show folders.</span></span>
+
+<span data-ttu-id="1c6c0-108">Dacă ștergeți accidental un folder, aveți posibilitatea să îl recuperați dacă se află încă în folderul Elemente șterse.</span><span class="sxs-lookup"><span data-stu-id="1c6c0-108">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="1c6c0-109">Pentru a afla mai multe, citiți [Restaurarea mesajelor de e-mail șterse în Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="1c6c0-109">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
