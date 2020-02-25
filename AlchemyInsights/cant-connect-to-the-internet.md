@@ -1,5 +1,5 @@
 ---
-title: Nu se poate conecta la internet
+title: Nu se poate conecta la Internet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627966"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265064"
 ---
-# <a name="fix-network-connection-issues"></a>Remedierea problemelor de conexiune la rețea
+# <a name="fix-network-connection"></a>Remedierea conexiunii la rețea
 
-Pentru a rezolva problemele de conexiune la rețea, încercați mai întâi să executați Depanatorul rețea. 
+Pentru a rezolva problemele de conexiune la rețea, încercați mai întâi să executați depanatorul Rețea. 
 
-În caseta de căutare din bara de activități, tastați **depanator rețea**, apoi selectați **identificați și reparați problemele de rețea**.
+1. [Deschideți setările Depanare](ms-settings:troubleshoot).
 
-**Notă:** Dacă aveți nevoie de ajutor la conectarea la Internet utilizând un PC care rulează Windows 7 sau Windows 8,1, consultați [remedierea problemelor de conexiune la rețea în Windows](https://support.microsoft.com/help/15287) 
+2. Sub **Conexiuni Internet**, selectaþi **Executaþi depanatorul**.
 
-Dacă folosești o conexiune wireless (Wi-fi), asigură-te că Wi-fi este activat pentru dispozitivul tău (inclusiv orice comutator Wi-fi fizic) și că modul avion nu este activat.
+Dacă utilizați o conexiune Wi-Fi, asigurați-vă că Wi-Fi este activat pentru dispozitiv (inclusiv orice comutator Wi-Fi fizic) și că modul avion nu este activat.
 
-Dacă folosești o conexiune cu fir (Ethernet), asigură-te că cablul este conectat în siguranță la PC și la router sau modem.
+Dacă utilizați o conexiune Ethernet, asigurați-vă că cablul este conectat în siguranță la PC și la ruter sau modem.
 
 Dacă acest lucru nu funcționează, încercați să reporniți PC-ul, modemul și ruterul (dacă aveți unul):
 
-1. Deconectați alimentarea de la modem și router. Dacă modemul are o copie de rezervă a bateriei, va trebui să scoateți bateria pentru a opri complet alimentarea.
-2. Așteaptă cam 30 de secunde. Dacă ați scos bateria din modem, puneți-o la loc.
+1. Deconectați alimentarea de la modem și de la ruter. Dacă modemul are o copie de rezervă a bateriei, va trebui să scoateți bateria pentru a opri complet alimentarea.
+
+2. Așteaptă 30 de secunde. Dacă ați scos bateria din modem, puneți-o înapoi.
+
 3. Conectați cablul de alimentare pentru modem și router.
-4. În timp ce așteptați ca modemul și routerul să se alimentați complet, reporniți PC-ul. Selectați **pornire** > **** > **Repornire**alimentare. (Asigurați-vă că selectați **Repornire**, nu **Închideți**.)
 
-**Depanare avansată**
+4. În timp ce așteptați ca modemul și ruterul să pornească complet, reporniți PC-ul: **Porniți** > **Pornire****pornire** > .
 
-Pentru pașii de depanare mai [avansați, consultați Remedierea problemelor de conexiune la rețea în Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). Acest articol include mai multe informații tehnice despre să remediați conexiunea la internet, ar fi:
+**Depanare complexă**
 
-- Utilizarea promptului de comandă pentru a executa comenzi de rețea
-- Actualizarea driverului adaptorului de rețea
-- Verificarea pentru a vedea dacă paravanul de protecție sau software-ul antivirus interferează cu conexiunea la internet
-- Utilizarea resetării rețelei pentru a reinstala dispozitivele de rețea
+Pentru pași de depanare mai avansați, consultați [Remedierea problemelor de conexiune Wi-Fi în Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-**Notă:** Dacă nu vă convine să utilizați pașii de depanare mai tehnici, puteți vorbi cu o persoană pentru mai mult ajutor alegând butonul **contactați-ne** .
+Dacă nu vă convine să utilizați pașii de depanare mai tehnici, [Contactați-ne](https://support.microsoft.com/contactus).

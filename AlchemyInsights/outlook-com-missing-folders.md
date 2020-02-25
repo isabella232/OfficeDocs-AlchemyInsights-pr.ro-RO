@@ -1,5 +1,5 @@
 ---
-title: Outlook.com lipsă pliant
+title: Outlook.com Foldere lipsă
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536195"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260254"
 ---
-# <a name="find-missing-folders"></a>Găsiţi lipsă pliant
+# <a name="find-missing-folders"></a>Găsirea folderelor lipsă
 
-Dacă nu vedeți folderele, verificaţi că folderele nu s-a prăbușit. Selectaţi săgeata de lângă **foldere** din panoul din stânga.
-  
-Dacă ştergeţi din greşeală un folder, poate recupera în cazul în care este încă în folderul Elemente şterse. Pentru a afla mai multe, citiţi [restaurarea elimină mesaje e-mail în Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Există o problemă cunoscută în cazul în care dosarele sunt lipsă. Lucrăm pentru a rezolva această problemă. Puteţi găsi încă elemente salvate în foldere lipsă utilizând **Căutare** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, şi ar putea ajuta în cazul în care vă faceţi sign out si apoi sign în din nou. [Click aici pentru a semna.](https://login.live.com/logout.srf)
+Este posibil ca unii utilizatori să nu poată vedea panoul folderului din stânga atunci când se vizualizează pe un ecran mic.
+
+- Extindeți panoul de foldere numai atunci când aveți nevoie. Selectați pictograma cu trei linii din bara din partea stângă pentru a afișa sau a ascunde foldere.
+- Deschideți [setările de aspect](https://outlook.live.com/mail/options/mail/layout) și selectați Ascundeți panoul de **citire,** apoi **Salvați**. Acest lucru va oferi ecranului mai mult spațiu pentru a afișa foldere.
+
+Dacă ștergeți accidental un folder, aveți posibilitatea să îl recuperați dacă se află încă în folderul Elemente șterse. Pentru a afla mai multe, citiți [Restaurarea mesajelor de e-mail șterse în Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
