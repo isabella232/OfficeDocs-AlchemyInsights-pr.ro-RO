@@ -1,8 +1,9 @@
 ---
-title: Goliți folderul Elemente șterse din Outlook.com
+title: Golirea folderului Elemente șterse în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768704"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277943"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Golirea folderului Elemente șterse
 
- Pentru a șterge toate mesajele Outlook șterse, accesați [folderul Elemente șterse](https://outlook.live.com/mail/deleteditems)și selectați **Golire folder**, apoi selectați **recuperați elementele șterse din acest folder** de deasupra listei de mesaje și selectați din nou **folderul** gol.
+1. Deschideți folderul Elemente șterse și selectați **Golire folder**.
+2. Selectați **Elemente recuperabile** în partea de sus a paginii și selectați Din nou **Golire folder.**
 
-Dacă ați șters o mulțime de mesaje, este posibil să dureze ceva timp pentru ca acele elemente să se mute sau să fie eliminate din folderul Elemente șterse. Vă rugăm să lăsați fereastra browserului deschisă până când elementele sunt șterse.
+**Imposibil de golit folderul Elemente șterse**
 
-Dacă mesajele nu reușesc să șteargă corect, încercați să ștergeți un număr mai mic de mesaje.
+- Dacă ați șters o mulțime de e-mailuri, poate dura ceva timp pentru ca aceste elemente să se mute sau să fie șterse din folderul Elemente șterse. Lăsați fereastra browserului deschisă în timp ce are loc ștergerea.
+- Dacă e-mailul tot nu reușește să șteargă corect, selectați un lot mai mic de șters.
+- Dacă e-mailul șters revine, ar putea fi pentru că ați șters recent o mulțime de e-mailuri. Încercați din nou mai târziu.
