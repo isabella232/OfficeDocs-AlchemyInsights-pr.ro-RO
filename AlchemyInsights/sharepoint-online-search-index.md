@@ -7,31 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
+ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044055"
+ms.lasthandoff: 02/29/2020
+ms.locfileid: "42341126"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Conținut scotocire și indexare în SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Conținut scotocitor și indexare în SharePoint Online
 
-Conținutul trebuie scotocit și adăugat la indexul de căutare pentru ca utilizatorii să găsească ceea ce caută în SharePoint Online. Conținutul este scotocit automat pe baza unui program de scotocire predefinit (programul de scotocire nu poate fi modificat). Crawlerul preia conținut care s-a modificat de la ultima accesare cu crawlere și actualizează indexul. Pentru a asigura că conținutul este scotocit și indexul este actualizat, rețineți următoarele:
+Conținutul trebuie scotocit și adăugat la indexul de căutare pentru utilizatori pentru a găsi ceea ce caută în SharePoint Online.
 
-- Asigurați-vă că conținutul poate fi găsit prin [crearea de conținut site-ul de căutare](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Asigurați-vă că conținutul poate fi găsit făcând [conținutul site-ului căutat](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Când ați modificat o proprietate gestionată sau când ați modificat Maparea proprietăților scotocite și gestionate, situl trebuie rescotocit înainte ca modificările să se reflecte în indexul de căutare. 
+- După ce ați modificat o proprietate gestionată sau când ați modificat maparea proprietăților scotocite și gestionate, site-ul trebuie să fie re-scotocit înainte ca modificările să se reflecte în indexul de căutare.
 
-    Deoarece modificările sunt făcute în schema de căutare, și nu la site-ul real, crawlerul nu va reindexa automat site-ul. 
+- Pentru mai multe informații, consultați Solicitarea manuală a [scotocirii și reindexării unui site, a unei biblioteci sau](https://docs.microsoft.com/sharepoint/crawl-site-content)a unei liste .
 
-    Pentru mai multe informații, consultați [solicitați manual accesarea cu crawlere și reindexarea unui site, a unei biblioteci sau a unei liste](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+- Așteptați cel puțin 24 de ore după ce solicitați manual o scotocire și un index complet pentru a vedea dacă întâmpinați în continuare o problemă.
 
-- Așteptați cel puțin 24 de ore după ce solicitați manual o accesare cu crawlere și o Reindexare completă pentru a vedea dacă întâmpinați încă o problemă. 
+- Dacă au trecut mai mult de 24 de ore de când ați inițiat crawl-ul și reindexarea completă, vă rugăm să vă conectați un caz de asistență. În multe cazuri, lucrăm deja la o soluție. Vă rugăm să ne dea cel puțin 24 de ore pentru a finaliza o soluție.
 
-    Dacă au trecut mai mult de 24 de ore de la inițierea scotocire și reindex complet, vă rugăm să faceți log un caz de suport. În multe cazuri, suntem deja de lucru pe o soluție. Vă rugăm să ne acordați cel puțin 24 de ore pentru a finaliza o soluție.
-
-> [!IMPORTANT]
-> Dacă un site, document (bibliotecă), sau o listă a fost șters și încă arată în rezultatele căutării, utilizatorii ar trebui să primească o **eroare 404 fișier negăsit** atunci când încearcă să-l acceseze. Această problemă ar trebui să fie înregistrată ca un caz de sprijin pentru investigații suplimentare. 
+**Important**: Dacă un site, un document (bibliotecă) sau o listă a fost ștearsă și se afișează în continuare în rezultatele căutării, utilizatorii ar trebui să primească un **fișier eroare 404 negăsit** atunci când încearcă să îl acceseze. Această problemă ar trebui să fie înregistrate ca un caz de sprijin pentru investigații suplimentare.
 
 
 
