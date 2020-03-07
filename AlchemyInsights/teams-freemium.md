@@ -1,5 +1,5 @@
 ---
-title: Echipele Freemium
+title: Echipe Freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354017"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556676"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Aş dori să vă înscrieţi pentru gratuit de echipe, dar nu pot.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Aș dori să vă înscrieți pentru Echipe gratuit
 
-- Dacă utilizați o lucrare de Office 365 sau scoala cont, această ofertă gratuită nu este disponibilă. Organizaţiei, deşi, poate deja fi utilizând echipe. Dacă nu, du-te la [Microsoft echipe](https://products.office.com/microsoft-teams/group-chat-software) pentru a vedea dacă sunt eligibile pentru un drum liber proces.
+Echipele sunt disponibile gratuit prin intermediul unui cuplu de programe diferite. Deoarece contactați asistența cu această solicitare, aveți deja o entitate găzduită Microsoft 365 existentă, ceea ce înseamnă că aveți deja Microsoft Teams.
 
-- Instituţii academice nu sunt eligibile pentru această ofertă gratuită. Profesori si elevi, deşi, puteţi obţine o versiune gratuită de Office 365, care include o versiune completă a Microsoft Teams. A se vedea [Office 365 de acordare a licenţelor pentru echipele de Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+În majoritatea cazurilor, Echipele sunt activate în mod implicit pentru toți utilizatorii. Odată ce este activat, utilizatorii pot rula Echipe, fie prin instalarea de desktop https://teams.microsoft.com [](https://office.visualstudio.com/MAX/_workitems/edit/desktop) și clienți [mobili,](https://office.visualstudio.com/MAX/_workitems/edit/desktop) fie [din browserla](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) .
 
-- Instituţiile de guvernul SUA nu sunt eligibili pentru aceasta oferta gratuit. Pentru a afla despre planuri Office 365 pentru organizaţiile guvernamentale (inclusiv o încercare gratuită), citit [Office 365 de acordare a licenţelor pentru echipele de Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Excepție de la aceasta este Microsoft Teams for Education (EDU). Dacă aveți o licență EDU, trebuie să activați manual Microsoft Teams. Pentru aceasta, accesați centrul de administrare Microsoft 365 **> Services și programele de completare > Microsoft Teams**. Dacă utilizați noul centru de administrare Teams, va trebui să **dezactivați Încercați noul centru** de administrare pentru a găsi **Servicii și programe de completare**. IMPORTANT: Poate fi necesar să așteptați până la 24 de ore pentru ca modificările să intre în vigoare.
+
+Nu ratați toate instrucțiunile noastre pentru [sprijinirea lucrătorilor de la distanță cu echipe](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
