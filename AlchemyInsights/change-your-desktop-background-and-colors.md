@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063726"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581433"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Modificarea fundalului și culorilor desktopului
 
-Pentru a modifica setarea culorilor, selectați **Setări** > **setări** > culori**personalizare** > **,** apoi alegeți propria culoare sau lăsați Windows să tragă o culoare de accent din fundal.
+Pentru a modifica setarea culorilor, accesați Setări setări**Culori** > **personalizare** > **** **Start,** > apoi alegeți propria culoare sau lăsați Windows să tragă o culoare de accent din fundal.
 
-Pentru a modifica fundalul desktopului, selectați **Start** > **Settings** > **Personalization** > **Background**( Fundal personalizare setări ), apoi selectați o imagine, o culoare solidă sau creați o expunere de diapozitive cu imagini. Doriți mai multe fundaluri și culori pentru desktop? Vizitați [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) pentru a alege din zeci de teme gratuite.
+![Personalizați-vă culorile în Windows.](media/windows-personalization-colors.png)
+
+Pentru a modifica fundalul desktopului, accesați **Start** > **Settings** > **Personalization** > **Background**, apoi alegeți o imagine, o culoare solidă sau creați o expunere de diapozitive cu imagini. 
+
+![Modificați fundalul desktopului Windows.](media/windows-desktop-background.png)
+
+Doriți mai multe fundaluri și culori pentru desktop? Vizitați [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) pentru a alege din zeci de teme gratuite.
