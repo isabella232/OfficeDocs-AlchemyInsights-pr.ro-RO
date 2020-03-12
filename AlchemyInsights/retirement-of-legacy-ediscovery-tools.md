@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157684"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600393"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Retragerea instrumentelor eDiscovery moștenite
 
@@ -37,7 +37,7 @@ Ca urmare a funcționalității eDiscovery noi și îmbunătățite în Centrul 
     - [SetHoldOnCutii poștale](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnCutii poștale](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Cronologie pentru pensionare:**
 - 1 aprilie 2020: Nu veți putea crea căutări și rețineri noi, dar puteți să rulați, să editați și să ștergeți căutările existente pe propriul risc. Asistența Microsoft nu va mai accepta eDiscovery pe loc & deține în EAC.
@@ -46,9 +46,9 @@ Ca urmare a funcționalității eDiscovery noi și îmbunătățite în Centrul 
 
 **Pentru mai multe informații, consultați**:
 
- - [Migrarea căutărilor eDiscovery moștenite și deține la centrul de conformitate Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Retragerea instrumentelor eDiscovery moștenite](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Întrebări frecvente despre descoperirea electronică locală și deținerile pe loc](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migrarea căutărilor eDiscovery moștenite și deține la centrul de conformitate Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Retragerea instrumentelor eDiscovery moștenite](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Întrebări frecvente despre descoperirea electronică locală și deținerile pe loc](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

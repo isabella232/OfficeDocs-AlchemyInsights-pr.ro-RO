@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031626"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600144"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Rezolvarea erorilor la deschiderea sau salvarea fișierelor Word
 
@@ -25,7 +25,7 @@ Dacă întâmpinați probleme la deschiderea sau salvarea documentelor Word, în
 - [Instalați actualizări Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Pentru lista celor mai recente actualizări Office, consultați [Cele mai recente actualizări](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Depanarea documentelor deteriorate în Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Repararea unei aplicații Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Dacă documentul conține modificări urmărite, utilizați sugestiile din [Word încetinește sau nu mai răspunde dacă există modificări sau comentarii urmărite excesiv](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) pentru a rezolva problema.
+- Dacă documentul conține modificări urmărite, utilizați sugestiile din [Word încetinește sau nu mai răspunde dacă există modificări sau comentarii urmărite excesiv](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) pentru a rezolva problema.
 
 Dacă ați primit o eroare ca una dintre următoarele, utilizați sugestiile din mesaj de [eroare în Office atunci când un fișier este blocat de setările de politică de registry:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 

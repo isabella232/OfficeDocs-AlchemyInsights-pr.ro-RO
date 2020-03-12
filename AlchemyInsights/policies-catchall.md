@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274955"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599964"
 ---
 # <a name="teams-policies"></a>Politicile echipelor
 
-Setările Microsoft teams sunt controlate de politici. Pentru a face o modificare, trebuie să configurați politica corespunzătoare și apoi să o aplicați utilizatorilor. Cel mai rapid mod de a face acest lucru pentru toți utilizatorii este de a modifica politica implicită denumită global. 
+Setările Microsoft Teams sunt controlate de politici. Pentru a efectua o modificare, trebuie să configurați politica corespunzătoare, apoi să o aplicați utilizatorilor. Cel mai rapid mod de a face acest lucru pentru toți utilizatorii este de a modifica politica implicită numită Global. 
 
-**Notă** Modificările de politică iau ***cel puțin 4 până la 48 de ore pentru a avea efect***. Dacă creați o politică particularizată, trebuie să așteptați cel puțin 4 ore înainte de a putea face modificări suplimentare la acesta. Apoi, puteți aplica această politică pentru utilizatori. Aceasta înseamnă că politicile particularizate pot dura până la 48 de ore pentru a avea efect. Politicile globale sunt setate ca implicite pentru toți utilizatorii, iar modificările aduse politicii globale pot dura până la 24 de ore pentru a avea efect. Dacă ați creat o politică particularizată, ați aplicat-o utilizatorilor și încă nu a avut efect după 48 de ore sau ați modificat Politica globală și ați așteptat cel puțin 24 de ore, vă rugăm să deschideți un caz de asistență.
+**NOTĂ NOTĂ** Modificările de politică durează ***cel puțin 4 până la 48 de ore pentru a intra în vigoare***. Dacă creați o politică particularizată, trebuie să așteptați cel puțin 4 ore înainte de a putea efectua modificări suplimentare. Apoi, puteți aplica această politică utilizatorilor. Aceasta înseamnă că politicile personalizate pot dura până la 48 de ore pentru a intra în vigoare. Politicile globale sunt setate ca implicite pentru toți utilizatorii, iar modificările aduse politicii globale pot dura până la 24 de ore pentru a intra în vigoare. Dacă ați creat o politică particularizată, ați aplicat-o utilizatorilor și tot nu a intrat în vigoare după 48 de ore sau ați modificat politica globală și ați așteptat cel puțin 24 de ore, vă rugăm să deschideți un caz de asistență.
 
 Politicile echipelor sunt împărțite în următoarele domenii:
 
 - [Politicile echipelor](https://docs.microsoft.com/MicrosoftTeams/teams-policies) controlează descoperirea de către utilizatori a echipelor private în căutarea și crearea de canale private.  
-- [Politicile de întâlnire](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) controlează ce pot face utilizatorii cu întâlnirile echipelor, inclusiv controlarea lobby-ului. Pentru ajutor cu probleme de lobby, ar fi configurarea echipelor pentru a admite toată lumea, consultați [setările lobby-ului de control și nivelurile de participare](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
-- [Politicile de mesagerie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) controlează ce pot face utilizatorii cu conversațiile și mesajele, inclusiv activarea sau dezactivarea conversației, ștergerea conversațiilor, solicitarea confirmărilor de citire, utilizarea de giphys și autocolante și multe altele.
-- [Politicile de instalare a aplicațiilor](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) controlează aplicațiile disponibile utilizatorilor, inclusiv aplicațiile particularizate și terțe, precum și ordinea în care apar.  
-- [Politicile de retenție](https://docs.microsoft.com/microsoftteams/retention-policies) de date pentru echipele se găsesc în centrul de securitate și conformitate Office 365.
-- Echipele de agendă politici sunt setate prin [căutare Director au activat](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Politicile de întâlnire](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) controlează ce pot face utilizatorii cu întâlnirile Echipelor, inclusiv controlul lobby-ului. Pentru ajutor în problemele de lobby, ar fi configurarea echipelor pentru a admite pe toată lumea, consultați [Controlarea setărilor lobby-ului și a nivelurilor de participare.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Politicile](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) de mesagerie controlează ce pot face utilizatorii cu chatul și mesajele, inclusiv activarea sau dezactivarea conversațiilor, ștergerea conversațiilor, solicitarea de confirmări de citire, utilizarea giphys și autocolante și multe altele.
+- [Politicile](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) de configurare a aplicațiilor controlează aplicațiile disponibile pentru utilizatori, inclusiv aplicațiile personalizate și terțe, precum și ordinea în care apar.  
+- [Politicile](https://docs.microsoft.com/microsoftteams/retention-policies) de păstrare a datelor pentru echipe se găsesc în Centrul de securitate și conformitate Office 365.
+- Politicile agendei echipelor sunt setate prin [căutarea directoarelor scoped](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

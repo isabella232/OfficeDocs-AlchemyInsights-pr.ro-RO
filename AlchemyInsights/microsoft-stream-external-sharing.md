@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 06ec178a2012872a0a4d5462b795229aeca67016
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371674"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600540"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Partajare externă Microsoft Stream
 
 Microsoft Stream nu acceptă încă scenarii de partajare externă pentru oaspeți sau persoane din afara organizației. Știm că aceste caracteristici sunt extrem de necesare și lucrăm la planuri pentru modul de a construi aceste caracteristici.
 
-- [Partajare externă în flux](https://docs.microsoft.com/en-us/stream/portal-share-video#external-sharing)
+- [Partajare externă în flux](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Partajarea videoclipurilor în Microsoft Stream](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [Partajarea videoclipurilor în Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
