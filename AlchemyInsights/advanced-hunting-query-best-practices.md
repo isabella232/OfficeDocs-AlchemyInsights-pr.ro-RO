@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e0e6f6409b5d9521ff50c142c3d78c81d1930215
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063723"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599316"
 ---
-# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="ab049-102">Cele mai bune practici avansate privind interogarea de vânătoare</span><span class="sxs-lookup"><span data-stu-id="ab049-102">Advanced hunting query best practices</span></span>
+# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="d9021-102">Cele mai bune practici avansate privind interogarea de vânătoare</span><span class="sxs-lookup"><span data-stu-id="d9021-102">Advanced hunting query best practices</span></span>
 
-<span data-ttu-id="ab049-103">Vă rugăm să consultați articolul complet Avansate de [vânătoare interogare cele mai bune practici](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) pentru recomandări detaliate și orientări cu privire la:</span><span class="sxs-lookup"><span data-stu-id="ab049-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
-- <span data-ttu-id="ab049-104">Optimizarea performanței interogării.</span><span class="sxs-lookup"><span data-stu-id="ab049-104">Optimizing query performance.</span></span>
-- <span data-ttu-id="ab049-105">Sfaturi de interogare și capcane.</span><span class="sxs-lookup"><span data-stu-id="ab049-105">Query tips and pitfalls.</span></span>
-- <span data-ttu-id="ab049-106">Interogări cu linii de comandă.</span><span class="sxs-lookup"><span data-stu-id="ab049-106">Queries with command lines.</span></span>
+<span data-ttu-id="d9021-103">Vă rugăm să consultați articolul complet Avansate de [vânătoare interogare cele mai bune practici](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) pentru recomandări detaliate și orientări cu privire la:</span><span class="sxs-lookup"><span data-stu-id="d9021-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
+- <span data-ttu-id="d9021-104">Optimizarea performanței interogării.</span><span class="sxs-lookup"><span data-stu-id="d9021-104">Optimizing query performance.</span></span>
+- <span data-ttu-id="d9021-105">Sfaturi de interogare și capcane.</span><span class="sxs-lookup"><span data-stu-id="d9021-105">Query tips and pitfalls.</span></span>
+- <span data-ttu-id="d9021-106">Interogări cu linii de comandă.</span><span class="sxs-lookup"><span data-stu-id="d9021-106">Queries with command lines.</span></span>
 
 
