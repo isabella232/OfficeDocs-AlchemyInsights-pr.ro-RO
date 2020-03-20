@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745016"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856479"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Probleme frecvente și soluții în Teams
 
@@ -35,13 +35,13 @@ Pentru toți clienții Teams:
 - **Întâlniri Teams și Dial-In**: Aveți nevoie de ajutor pentru a activa sau a configura conferința audio în Microsoft Teams? A fost creat recent acest utilizator ? Dacă este așa, va trebui să așteptați 2 - 24 de ore **pentru ca setările să se aplice**. 
 
     Pentru a verifica dacă utilizatorul este licențiat pentru conferințe audio și are un număr cu taxă implicit:
-    1.    Accesați utilizatori activi și apoi selectați utilizatorul respectiv.
-    2.    În funcție de versiunea centrului de administrare, alegeți ori licențe și aplicații sau faceți clic pe Editare licențe de produs.
+    1.    Accesați utilizatorii activi și apoi selectați utilizatorul respectiv.
+    2.    În funcție de versiunea centrului de administrare, alegeți **Licențe și aplicații** sau faceți clic pe **Editare** pe **Licențe de produs**.
     3.    Confirmați că utilizatorul are licențe selectate pentru conferințe audio, Microsoft Teams și Skype for Business Online (Plan 2).
-    4.    Utilizator centre de administrare faceți clic pe Afișați tot și apoi pe Teams.
-    5.    În centrul de administrare Microsoft Teams faceți clic pe portal moștenit.
-    6.    În centrul de administrare Skype for Business faceți clic pe conferințe audio și apoi pe utilizatori.
-    7.    Selectați utilizatorul în cauză și verificați dacă utilizatorul are un Număr apelare cu taxă implicit.
+    4.    Centrele de administrare de utilizator faceți click pe **se afișează toate** apoi **Teams**. 
+    5.    În centrul de administrare Microsoft Teams, faceți clic pe **Portal de moștenire**.
+    6.    În centrul de administrare Skype for Business, faceți clic pe **conferințe audio** apoi **utilizatori**.
+    7.    Selectați utilizatorul în cauză și verificați dacă utilizatorul are un număr cu taxă implicit.
     
     Pentru mai multe informații, consultați [Planurile de apelare pentru Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru a vă ajuta cu întrebările legate de licențiere.
 
