@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959506"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891761"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook nu se poate conecta la foldere publice
 
-Dacă accesul public folder nu funcționează pentru puțini utilizatori, încercați următoarele:
+Dacă accesul la foldere publice nu funcționează pentru unii utilizatori, încercați următoarele:
 
-Conectați-vă la EXO PowerShell și configurați DefaultPublicFolderMailbox pe contul de utilizator problema pentru a se potrivi cu unul pe un cont de utilizator de lucru.
+Conectați-vă la EXO PowerShell și configurați parametrul DefaultPublicFolderMailbox pe contul de utilizator problemă pentru a se potrivi parametrului pe un cont de utilizator de lucru.
 
 Exemplu:
 
-Get-cutie poștală WorkingUser | ft DefaultPublicFolderMailbox, Efectivepublicfoldermailbox
+Ia-Cutie poștală WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-Mailbox Problemusutilizator-DefaultPublicFolderMailbox \<valoare de la comanda anterioară>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<valoare din comanda anterioară>
 
 Așteptați cel puțin o oră pentru ca modificarea să aibă efect.
+
+Dacă problema rămâne, urmați [această procedură](https://aka.ms/pfcte) pentru a depana problemele de acces la folderele publice utilizând Outlook.
