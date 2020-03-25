@@ -1,5 +1,5 @@
 ---
-title: DLP politica sfaturi nu de lucru
+title: Dlp Politica Sfaturi nu funcționează
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530327"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932598"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP Policy Tip probleme
+# <a name="dlp-policy-tip-issues"></a>Probleme cu vârful de politică DLP
 
-Atunci când se utilizează **politicile de DLP**, utilizatorii pot notificată o încălcare de politici cu **politica sfaturi**. Administratorii pot configura politica de sfaturi pentru a afişa în timp ce testarea lor politica DLP sau atunci când politica este în modul de aplicare completă.
+**Important:** Mulți clienți SharePoint Online și OneDrive executați aplicații critice pentru afaceri împotriva serviciului care se execută în fundal. Acestea includ migrarea conținutului, Prevenirea pierderilor de date (DLP) și soluțiide copiere de rezervă. În timpul acestor momente fără precedent, luăm măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân foarte disponibile și fiabile pentru utilizatorii care depind de serviciu mai mult ca niciodată în scenarii de lucru la distanță.
+
+În sprijinul acestui obiectiv, am implementat limite mai stricte de limitare a aplicațiilor de fundal (migrare, DLP și soluții de backup) în timpul orelor de zi din timpul săptămânii. Ar trebui să vă așteptați ca aceste aplicații să obțină un debit foarte limitat în aceste perioade. Cu toate acestea, în timpul orelor de seară și de weekend pentru regiune, serviciul va fi gata să proceseze un volum semnificativ mai mare de solicitări din aplicațiile de fundal.
+
+**Sfaturi de politică DLP**
+
+Când se **utilizează politici DLP**, utilizatorii pot fi notificați cu privire la o încălcare a politicii cu **sfaturi de politică**. Administratorii pot configura sfaturi de politică pentru a afișa în timp ce testează politica DLP sau atunci când politica este în modul de aplicare completă.
   
-Pentru a configura politica sfaturi pe polita DLP în centrul securitatea şi conformitatea în modul de aplicare completă, efectuaţi următoarele:
+Pentru a configura sfaturi de politică privind politica DLP în centrul de securitate și conformitate în modul de aplicare completă, procedați astfel:
   
-- Asigura politica sfaturi au fost **activat** pe regula DLP folosind paşii de [aici](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Asigurați-vă că sfaturile de **politică** au fost activate pe regula DLP utilizând pașii [de aici](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-- Asigurarea dumneavoastră **conţinut se potriveşte** ceea ce este **necesar** pentru a declanşa regula prezentate în acest articol [aici](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Asigurați-vă că **conținutul corespunde cu** ceea ce este **necesar** pentru a declanșa regula descrisă în acest articol [aici](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- Politica sfaturi afişa atât Elena, cât şi Outlook. Cu toate acestea, atunci când utilizaţi **Outlook 2013 sau mai târziu**, sfaturi de politică sunt afişate doar în anumite condiţii. Aceste condiţii sunt enumerate aici: [condiţiile acceptate pentru Outlook 2013 sau mai târziu pentru afişarea politica sfaturi](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Sfaturi de politică se afișează atât în OWA, cât și în Outlook. Cu toate acestea, atunci când se utilizează **Outlook 2013 sau o versiune ulterioară**, sfaturi de politică sunt afișate numai în anumite condiții. Aceste condiții sunt listate aici: [condiții acceptate pentru Outlook 2013 sau o versiune ulterioară pentru afișarea sfaturilor de politică](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
 
-Pentru informaţii suplimentare despre sfaturi de politica DLP, a se vedea: [Arată politica sfaturi pentru DLP politici](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Pentru informații suplimentare despre sfaturile de politică DLP, consultați: [Afișare sfaturi de politică pentru politicile DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   

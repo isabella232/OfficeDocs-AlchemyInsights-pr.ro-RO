@@ -1,5 +1,5 @@
 ---
-title: Limitare online SharePoint
+title: Limitare SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 9/17/2018
@@ -8,22 +8,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
-ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
+ms.custom:
+- "9000149"
+- "1662"
+- "3491"
+ms.openlocfilehash: 59104ef96c95de4e4bc7744825245bdafba97d7c
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/16/2019
-ms.locfileid: "40065570"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931238"
 ---
-# <a name="sharepoint-online-throttling"></a>Limitare online SharePoint
+# <a name="sharepoint-online-throttling"></a>Limitare SharePoint Online
 
-Utilizatorii pot primi un server 503 este ocupat de eroare atunci când încercați să navigați la site-uri SharePoint sau OneDrive. 
+**Important:** Mulți clienți SharePoint Online și OneDrive executați aplicații critice pentru afaceri împotriva serviciului care se execută în fundal. Acestea includ migrarea conținutului, Prevenirea pierderilor de date (DLP) și soluțiide copiere de rezervă. În timpul acestor momente fără precedent, luăm măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân foarte disponibile și fiabile pentru utilizatorii care depind de serviciu mai mult ca niciodată în scenarii de lucru la distanță.
 
-Această eroare poate fi cauzată de limitare în cadrul serviciului SharePoint. SharePoint Online utilizează supraîncărcarea pentru a menține performanța optimă și fiabilitatea serviciului SharePoint Online. Limitare limitează numărul de acțiuni de utilizator sau apeluri simultane (prin script sau cod) pentru a preveni utilizarea excesivă a resurselor. 
+În sprijinul acestui obiectiv, am implementat limite mai stricte de limitare a aplicațiilor de fundal (migrare, DLP și soluții de backup) în timpul orelor de zi din timpul săptămânii. Ar trebui să vă așteptați ca aceste aplicații să obțină un debit foarte limitat în aceste perioade. Cu toate acestea, în timpul orelor de seară și de weekend pentru regiune, serviciul va fi gata să proceseze un volum semnificativ mai mare de solicitări din aplicațiile de fundal.
 
-Pentru mai multe informații despre limitare a se vedea, [evitați obtinerea limitate sau blocat în SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+**503 server este ocupat de eroare**
 
-Dacă credeți că această eroare nu are legătură cu supraîncărcarea, puteți verifica dacă există întreținere activă care apare pe entitate găzduită navigând la centrul de [mesaje](https://portal.office.com/adminportal/home#/MessageCenter).
+Utilizatorii pot primi un server 503 este ocupat eroare atunci când încercați să navigați la site-uri SharePoint sau OneDrive. 
 
- În cele din urmă, asigurați-vă că vizitați pagina de [sănătate a serviciului](https://portal.office.com/adminportal/home#/servicehealth) pentru a verifica pentru orice recomandări/incidente care pot fi apărute.
+Această eroare poate fi cauzată de limitare în cadrul serviciului SharePoint. SharePoint Online utilizează limitarea pentru a menține performanța optimă și fiabilitatea serviciului SharePoint Online. Limitarea limitează numărul de acțiuni ale utilizatorilor sau apeluri simultane (după script sau cod) pentru a preveni utilizarea exagerată a resurselor. 
+
+Pentru mai multe informații despre limitare, [consultați, Evitați să fiți sugrumat sau blocat în SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+
+Dacă credeți că această eroare nu are legătură cu limitarea, aveți posibilitatea să verificați dacă există întreținere activă care are loc pe entitategăzduită navigând la [centrul de mesaje](https://portal.office.com/adminportal/home#/MessageCenter).
+
+ În cele din urmă, asigurați-vă că vizitați pagina [De sănătate a serviciilor](https://portal.office.com/adminportal/home#/servicehealth) pentru a verifica orice recomandări/incidente care pot apărea.
 

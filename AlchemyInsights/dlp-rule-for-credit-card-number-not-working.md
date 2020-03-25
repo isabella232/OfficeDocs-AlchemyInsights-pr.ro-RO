@@ -1,5 +1,5 @@
 ---
-title: DLP regulă pentru numărul cardului de Credit nu de lucru
+title: Dlp Regulă pentru numărul cardului de credit nu funcționează
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,44 +12,50 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 875afb47175a78c22894720cb0db8222f6f41614
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b28534d072c024a98a9b05f6cb55bfdc3435db6
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529967"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932455"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>DLP probleme cu numere de Card de Credit
+# <a name="dlp-issues-with-credit-card-numbers"></a>DLP probleme cu numerele de card de credit
 
-Aveti probleme cu **Prevenirea pierderii datelor (DLP)** neactiv pentru conţinut care conţine un **Număr de Card de Credit** , atunci când se utilizează un tip de informaţii sensibile DLP în O365? Dacă este aşa, asiguraţi-vă că conţinut conţine informaţiile necesare pentru a declanşa politica DLP atunci când este evaluată. De exemplu, pentru un **Card de Credit politica** configurat cu un nivel de încredere de 85 %, următoarele sunt evaluate şi trebuie să fie detectat de regulă pentru a declanşa:
+**Important:** Mulți clienți SharePoint Online și OneDrive executați aplicații critice pentru afaceri împotriva serviciului care se execută în fundal. Acestea includ migrarea conținutului, Prevenirea pierderilor de date (DLP) și soluțiide copiere de rezervă. În timpul acestor momente fără precedent, luăm măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân foarte disponibile și fiabile pentru utilizatorii care depind de serviciu mai mult ca niciodată în scenarii de lucru la distanță.
+
+În sprijinul acestui obiectiv, am implementat limite mai stricte de limitare a aplicațiilor de fundal (migrare, DLP și soluții de backup) în timpul orelor de zi din timpul săptămânii. Ar trebui să vă așteptați ca aceste aplicații să obțină un debit foarte limitat în aceste perioade. Cu toate acestea, în timpul orelor de seară și de weekend pentru regiune, serviciul va fi gata să proceseze un volum semnificativ mai mare de solicitări din aplicațiile de fundal.
+
+**DLP probleme cu numerele de card de credit**
+
+Aveți probleme cu **prevenirea pierderilor de date (DLP)** nu funcționează pentru conținut care conține un **număr de card de credit** atunci când utilizați un tip de informații sensibile DLP în O365? Dacă da, asigurați-vă că conținutul conține informațiile necesare pentru a declanșa politica DLP atunci când este evaluat. De exemplu, pentru o **politică de card de credit** configurat cu un nivel de încredere de 85%, următoarele sunt evaluate și trebuie să fie detectate pentru regula pentru a declanșa:
   
-- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 cifre care pot fi formatate sau neformatate (dddddddddddddddd) şi trebuie să treacă testul Luhn.
+- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 cifre care pot fi formatate sau neformatate (dddddddddddddddddddddd) și trebuie să treacă testul Luhn.
 
-- **[Model:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Model foarte complexă şi robustă care detectează cardurile de la toate marile branduri din întreaga lume, inclusiv Visa, MasterCard, descopera carte, JCB, American Express, carduri cadou, şi carduri de cina.
+- **[Model de model:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Model foarte complex și robust, care detectează carduri de la toate mărcile importante din întreaga lume, inclusiv Visa, MasterCard, Discover Card, JCB, American Express, carduri cadou și carduri de restaurant.
 
-- **[Control:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, control Luhn
+- **[Suma de control:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, suma de control Luhn
 
-- **[Definiţie:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** O politică de DLP este 85 % încrezător că a detectat acest tip de informaţii sensibile dacă, într-o proximitate de 300 de caractere:
+- **[Definiție:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** O politică DLP este 85% încrezător că este detectat acest tip de informații sensibile în cazul în care, într-o apropiere de 300 de caractere:
 
-  - Funcţia Func_credit_card găseşte conţinut care se potriveşte model.
+  - Funcția Func_credit_card găsește conținut care se potrivește cu modelul.
 
-  - Este adevărată una dintre următoarele:
+  - Una dintre următoarele este adevărat:
 
-  - Se găseşte un cuvânt cheie la Keyword_cc_verification.
+  - Se găsește un cuvânt cheie din Keyword_cc_verification.
 
-  - Se găseşte un cuvânt cheie la Keyword_cc_name
+  - Se găsește un cuvânt cheie din Keyword_cc_name
 
-  - Funcţia Func_expiration_date constată o dată în formatul corect.
+  - Funcția Func_expiration_date găsește o dată în formatul de dată corect.
 
-  - Control trece
+  - Suma de control trece
 
-    De exemplu, următoarea probă ar declanşa pentru o politică de număr de Card de Credit DLP:
+    De exemplu, următorul eșantion ar declanșa pentru o politică de număr dlp card de credit:
 
   - Viza: 4485 3647 3952 7352
   
-  - Expira: 2/2009
+  - Expiră: 2/2009
 
-Pentru mai multe informaţii despre ceea ce este necesar pentru un **Număr de Card de Credit** să fie detectată pentru conţinutul dvs., a se vedea secţiunea următoare în acest articol: [Ce Sensitive informaţii tipuri arata pentru cardul de Credit #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Pentru mai multe informații despre ceea ce este necesar pentru ca un **număr de card de credit** să fie detectat pentru conținutul dvs., consultați următoarea secțiune din acest articol: Ce caută tipurile de informații [sensibile pentru cardul de credit#](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
-Folosind un tip de diferite informaţii sensibile predefinite, consultaţi următorul articol pentru informaţii pe ceea ce este necesar pentru alte tipuri: [ce Sensitive informaţii tipuri caute](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Utilizând un alt tip de informații sensibile încorporat, consultați următorul articol pentru informații despre ce este necesar pentru alte tipuri: [Ce caută tipurile de informații sensibile](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
