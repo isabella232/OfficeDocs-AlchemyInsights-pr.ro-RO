@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemelor și erorilor legate de instrumentul de migrare SharePoint
+title: Depanarea problemelor și erorilor instrumentului de migrare SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -13,16 +13,22 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913661"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931130"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a><span data-ttu-id="d4008-102">Depanarea problemelor și erorilor legate de instrumentul de migrare SharePoint</span><span class="sxs-lookup"><span data-stu-id="d4008-102">Troubleshooting SharePoint Migration Tool issues and errors</span></span>
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a><span data-ttu-id="a8af1-102">Depanarea problemelor și erorilor instrumentului de migrare SharePoint</span><span class="sxs-lookup"><span data-stu-id="a8af1-102">Troubleshooting SharePoint Migration Tool issues and errors</span></span>
 
-<span data-ttu-id="d4008-103">Este posibil să întâmpinați unele probleme obișnuite și erori atunci când utilizați instrumentul de migrare SharePoint (SPMT).</span><span class="sxs-lookup"><span data-stu-id="d4008-103">You may encounter some common issues and errors when using the SharePoint Migration Tool (SPMT).</span></span> <span data-ttu-id="d4008-104">Vă rugăm să referință link-urile de mai jos pentru mai multe informații.</span><span class="sxs-lookup"><span data-stu-id="d4008-104">Please reference the links below for more information.</span></span>
+<span data-ttu-id="a8af1-103">**Important:** Mulți clienți SharePoint Online și OneDrive executați aplicații critice pentru afaceri împotriva serviciului care se execută în fundal.</span><span class="sxs-lookup"><span data-stu-id="a8af1-103">**Important**: Many SharePoint Online and OneDrive customers run business-critical applications against the service that run in the background.</span></span> <span data-ttu-id="a8af1-104">Acestea includ migrarea conținutului, Prevenirea pierderilor de date (DLP) și soluțiide copiere de rezervă.</span><span class="sxs-lookup"><span data-stu-id="a8af1-104">These include content migration, Data Loss Prevention (DLP), and backup solutions.</span></span> <span data-ttu-id="a8af1-105">În timpul acestor momente fără precedent, luăm măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân foarte disponibile și fiabile pentru utilizatorii care depind de serviciu mai mult ca niciodată în scenarii de lucru la distanță.</span><span class="sxs-lookup"><span data-stu-id="a8af1-105">During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available and reliable for your users who depend on the service more than ever in remote work scenarios.</span></span>
 
-* [<span data-ttu-id="d4008-105">Depanarea problemelor frecvente SPMT și erori</span><span class="sxs-lookup"><span data-stu-id="d4008-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-* [<span data-ttu-id="d4008-106">Depanarea problemelor de instalare SPMT</span><span class="sxs-lookup"><span data-stu-id="d4008-106">Troubleshooting SPMT install issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+<span data-ttu-id="a8af1-106">În sprijinul acestui obiectiv, am implementat limite mai stricte de limitare a aplicațiilor de fundal (migrare, DLP și soluții de backup) în timpul orelor de zi din timpul săptămânii.</span><span class="sxs-lookup"><span data-stu-id="a8af1-106">In support of this objective, we have implemented tighter throttling limits on background apps (migration, DLP and backup solutions) during weekday daytime hours.</span></span> <span data-ttu-id="a8af1-107">Ar trebui să vă așteptați ca aceste aplicații să obțină un debit foarte limitat în aceste perioade.</span><span class="sxs-lookup"><span data-stu-id="a8af1-107">You should expect that these apps will achieve very limited throughput during these times.</span></span> <span data-ttu-id="a8af1-108">Cu toate acestea, în timpul orelor de seară și de weekend pentru regiune, serviciul va fi gata să proceseze un volum semnificativ mai mare de solicitări din aplicațiile de fundal.</span><span class="sxs-lookup"><span data-stu-id="a8af1-108">However, during evening and weekend hours for the region, the service will be ready to process a significantly higher volume of requests from background apps.</span></span>
+
+<span data-ttu-id="a8af1-109">**Probleme și erori comune**</span><span class="sxs-lookup"><span data-stu-id="a8af1-109">**Common issues and errors**</span></span>
+
+<span data-ttu-id="a8af1-110">Este posibil să întâmpinați unele probleme comune și erori atunci când utilizați Instrumentul de migrare SharePoint (SPMT).</span><span class="sxs-lookup"><span data-stu-id="a8af1-110">You may encounter some common issues and errors when using the SharePoint Migration Tool (SPMT).</span></span> <span data-ttu-id="a8af1-111">Vă rugăm să faceți referire la link-urile de mai jos pentru mai multe informații.</span><span class="sxs-lookup"><span data-stu-id="a8af1-111">Please reference the links below for more information.</span></span>
+
+* [<span data-ttu-id="a8af1-112">Depanarea problemelor și erorilor SPMT comune</span><span class="sxs-lookup"><span data-stu-id="a8af1-112">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+* [<span data-ttu-id="a8af1-113">Depanarea problemelor de instalare SPMT</span><span class="sxs-lookup"><span data-stu-id="a8af1-113">Troubleshooting SPMT install issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
