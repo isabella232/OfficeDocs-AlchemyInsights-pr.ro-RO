@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856479"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030412"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Probleme frecvente și soluții în Teams
+
+**Important**: din cauza unei creșteri recente a utilizării Teams, atunci când atribuiți o licență Teams unui utilizator, poate fi necesar să treacă aproximativ 24 de ore înainte ca licența să fie complet configurată. Până atunci, nu veți putea să le atribuiți politici Teams și este posibil ca aceștia să nu aibă acces la anumite caracteristici Teams, cum ar fi apelarea și conferințele audio.
+
+**Probleme uzuale și rezolvări**
 
 Pentru un răspuns mai specific, încercați să reformulați întrebarea pentru a include toate erorile pe care le vedeți sau caracteristicile Teams pe care le utilizați.
 
