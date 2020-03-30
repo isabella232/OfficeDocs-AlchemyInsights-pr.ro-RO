@@ -38,7 +38,7 @@ Puteți utiliza suportul de instalare (o unitate flash USB sau un DVD) pentru a 
 
 3. **Instalați Windows pe un PC nefuncțional utilizând unitatea flash USB sau DVD-ul de la pasul 2**.
 
-    - Conectați suportul de instalare pe care l-ați creat la PC-ul nefuncțional; apoi porniți-l.
+    - Conectați suportul de instalare la PC-ul nefuncțional pe care l-ați creat; apoi porniți-l.
 
     - Pe ecranul de configurare inițială, introduceți limba și alte preferințe și faceți clic pe **Următorul**. Dacă nu vedeți ecranul de instalare, este posibil ca PC-ul să nu fie configurat să booteze de pe o unitate. Consultați site-ul web al producătorului PC-ului pentru informații despre cum să modificați ordinea de bootare a PC-ului, apoi încercați din nou.
 
