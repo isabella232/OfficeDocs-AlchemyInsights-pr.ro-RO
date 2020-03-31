@@ -1,5 +1,5 @@
 ---
-title: Cum de a adăuga sau edita o VatID
+title: se adaugă sau se editează un VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664332"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059748"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Cum de a adăuga sau edita o VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>se adaugă sau se editează un VatID
 
-1. În centrul de administrare Microsoft 365, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**Notă:** Dacă vă aflați într-o țară care utilizează taxa pe valoarea adăugată (TVA), ar fi Regatul Unit, Facturarea Microsoft calculează TVA-ul pentru dvs., și aplică suma facturilor. Pentru mai multe informații, a se vedea [exonerarea](https://go.microsoft.com/fwlink/?LinkID=841741) de răspundere VIES publicată de Comisia Europeană.
 
-2. Găsiţi cartela de abonament pentru abonament pe care doriţi să actualizaţi.
+**Adăugarea sau editarea unui VatID**
 
-3. În secţiunea **Setări & acţiuni** , selectaţi **Editare adresa serviciului de utilizare**.
+1. În centrul de administrare Microsoft 365, accesați pagina Produse **de facturare** \> [& servicii.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-4. Pagina **Editare adresa de utilizare serviciu** , introduceţi Identificatorul de TVA în caseta **numărul TVA** , şi apoi selectaţi **Save**.
+2. Găsiți fișa de abonament pentru abonamentul pe care doriți să îl actualizați.
 
-    Când complet, nu va fi încasat TVA pe factura viitoare.
+3. În secțiunea **Setări & acțiuni,** selectați **Editare adresă de utilizare a serviciului**.
 
-Pentru mai multe informaţii, a se vedea [ce taxa va fi taxat pentru Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. Pe pagina **Editare adresă de utilizare a serviciului,** introduceți ID-ul TVA în caseta număr **TVA,** apoi selectați **Salvare**.
+
+    Când se termină, TVA-ul nu va fi debitat pentru următoarea factură.
+
+Pentru a afla mai multe, consultați [Ce taxă voi fi taxat pentru Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Resurse suplimentare**
 
-[Adauga ID-ul de TVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Adăugați ID-ul de TVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
