@@ -1,5 +1,5 @@
 ---
-title: Cum de a adăuga sau edita o VatID
+title: se adaugă sau se editează un VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664332"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059748"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="7ddab-102">Cum de a adăuga sau edita o VatID</span><span class="sxs-lookup"><span data-stu-id="7ddab-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="40075-102">se adaugă sau se editează un VatID</span><span class="sxs-lookup"><span data-stu-id="40075-102">How to add or edit a VatID</span></span>
 
-1. <span data-ttu-id="7ddab-103">În centrul de administrare Microsoft 365, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="7ddab-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="40075-103">**Notă:** Dacă vă aflați într-o țară care utilizează taxa pe valoarea adăugată (TVA), ar fi Regatul Unit, Facturarea Microsoft calculează TVA-ul pentru dvs., și aplică suma facturilor.</span><span class="sxs-lookup"><span data-stu-id="40075-103">**Note**: If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span> <span data-ttu-id="40075-104">Pentru mai multe informații, a se vedea [exonerarea](https://go.microsoft.com/fwlink/?LinkID=841741) de răspundere VIES publicată de Comisia Europeană.</span><span class="sxs-lookup"><span data-stu-id="40075-104">For more info, see [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span>
 
-2. <span data-ttu-id="7ddab-104">Găsiţi cartela de abonament pentru abonament pe care doriţi să actualizaţi.</span><span class="sxs-lookup"><span data-stu-id="7ddab-104">Find the subscription card for the subscription you want to update.</span></span>
+<span data-ttu-id="40075-105">**Adăugarea sau editarea unui VatID**</span><span class="sxs-lookup"><span data-stu-id="40075-105">**Adding or editing a VatID**</span></span>
 
-3. <span data-ttu-id="7ddab-105">În secţiunea **Setări & acţiuni** , selectaţi **Editare adresa serviciului de utilizare**.</span><span class="sxs-lookup"><span data-stu-id="7ddab-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
+1. <span data-ttu-id="40075-106">În centrul de administrare Microsoft 365, accesați pagina Produse **de facturare** \> [& servicii.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="40075-106">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-4. <span data-ttu-id="7ddab-106">Pagina **Editare adresa de utilizare serviciu** , introduceţi Identificatorul de TVA în caseta **numărul TVA** , şi apoi selectaţi **Save**.</span><span class="sxs-lookup"><span data-stu-id="7ddab-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
+2. <span data-ttu-id="40075-107">Găsiți fișa de abonament pentru abonamentul pe care doriți să îl actualizați.</span><span class="sxs-lookup"><span data-stu-id="40075-107">Find the subscription card for the subscription you want to update.</span></span>
 
-    <span data-ttu-id="7ddab-107">Când complet, nu va fi încasat TVA pe factura viitoare.</span><span class="sxs-lookup"><span data-stu-id="7ddab-107">When complete, VAT will not be charged on your next bill.</span></span>
+3. <span data-ttu-id="40075-108">În secțiunea **Setări & acțiuni,** selectați **Editare adresă de utilizare a serviciului**.</span><span class="sxs-lookup"><span data-stu-id="40075-108">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
 
-<span data-ttu-id="7ddab-108">Pentru mai multe informaţii, a se vedea [ce taxa va fi taxat pentru Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="7ddab-108">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+4. <span data-ttu-id="40075-109">Pe pagina **Editare adresă de utilizare a serviciului,** introduceți ID-ul TVA în caseta număr **TVA,** apoi selectați **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="40075-109">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
 
-<span data-ttu-id="7ddab-109">**Resurse suplimentare**</span><span class="sxs-lookup"><span data-stu-id="7ddab-109">**Additional resources**</span></span>
+    <span data-ttu-id="40075-110">Când se termină, TVA-ul nu va fi debitat pentru următoarea factură.</span><span class="sxs-lookup"><span data-stu-id="40075-110">When complete, VAT will not be charged on your next bill.</span></span>
 
-<span data-ttu-id="7ddab-110">[Adauga ID-ul de TVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="7ddab-110">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
+<span data-ttu-id="40075-111">Pentru a afla mai multe, consultați [Ce taxă voi fi taxat pentru Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="40075-111">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+
+<span data-ttu-id="40075-112">**Resurse suplimentare**</span><span class="sxs-lookup"><span data-stu-id="40075-112">**Additional resources**</span></span>
+
+<span data-ttu-id="40075-113">[Adăugați ID-ul de TVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="40075-113">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
