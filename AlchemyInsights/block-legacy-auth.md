@@ -1,5 +1,5 @@
 ---
-title: Bloclegacyauth
+title: BlockLegacyAuth (În)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 73c46cc9ad17553f53f90a53fa272609a208d4a6
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
+ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627298"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43079272"
 ---
 # <a name="blocking-legacy-authentication"></a>Blocarea autentificării moștenite
 
 Autentificarea moștenită este un termen care se referă la o solicitare de autentificare făcută de:
 
-- Clienții mai vechi Office care nu utilizează autentificarea modernă (de exemplu, Office 2010 client)
-- Orice client care utilizează protocoale de corespondență moștenite, ar fi IMAP/SMTP/POP3  
+- Clienții Office mai vechi care nu utilizează autentificarea modernă (de exemplu, clientul Office 2010).
 
-Pentru mai multe informații despre blocarea autentificare moștenite și activarea autentificare moderne, consultați [blocarea autentificare moștenite](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+- Orice client care utilizează protocoale de poștă electronică moștenite, ar fi IMAP/SMTP/POP3.
+
+Pentru mai multe informații despre blocarea autentificării moștenite și activarea autentificării moderne, consultați [Blocarea autentificării moștenite](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+
+Valorile implicite de securitate din Azure Active Directory (Azure AD) facilitează securizarea și protejarea organizației. Valorile implicite de securitate conțin setări de securitate preconfigurate pentru atacuri lecomune.
+Pentru mai multe informații despre valorile implicite de securitate, consultați [Ce sunt valorile implicite de securitate?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+
+**Notă:** Dacă entitatea găzduită a fost creată la sau după 22 octombrie 2019, este posibil să vă confruntați cu noul comportament sigur în mod implicit și aveți deja valorile implicite de securitate activate în entitatea găzduită.  Într-un efort de a proteja toți utilizatorii noștri, valorile implicite de securitate sunt implementate pentru toți chiriașii noi creați.
