@@ -1,5 +1,5 @@
 ---
-title: 126 obtinerea unei cutii poştale nu poate fi găsit de eroare în OWA?
+title: 126 Noțiuni de bază o cutie poștală nu poate fi găsit eroare în OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523883"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105251"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="ec1a2-102">Noţiuni de bază o cutie poştală nu a întemeia error în Outlook pe web?</span><span class="sxs-lookup"><span data-stu-id="ec1a2-102">Getting a mailbox not found error in Outlook on the web?</span></span>
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="8d02d-102">Obținerea unei cutii poștale nu s-a găsit eroare în Outlook pe web?</span><span class="sxs-lookup"><span data-stu-id="8d02d-102">Getting a mailbox not found error in Outlook on the web?</span></span>
 
-<span data-ttu-id="ec1a2-103">Dacă utilizaţi Outlook de pe web şi veţi obţine o eroare de **cutie poştală nu a putut fi găsit pentru** , în contul pe care aţi utilizat pentru a conecta Outlook de pe web nu are o licenţă Exchange Online şi prin urmare, nici o cutie poştală este asociat cu contul.</span><span class="sxs-lookup"><span data-stu-id="ec1a2-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="ec1a2-104">Admin dumneavoastră poate atribui o licenţă în contul urmând aceşti paşi:</span><span class="sxs-lookup"><span data-stu-id="ec1a2-104">Your admin can assign a license to your account by following these steps:</span></span>
+<span data-ttu-id="8d02d-103">Dacă utilizați Outlook pe web și obțineți o **cutie poștală nu a putut fi găsit pentru** eroare, contul pe care l-ați utilizat pentru a vă conecta la Outlook pe web nu are o licență Exchange Online și, prin urmare, nici o cutie poștală este asociată cu contul.</span><span class="sxs-lookup"><span data-stu-id="8d02d-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="8d02d-104">Administratorul poate atribui o licență contului dvs., urmând acești pași:</span><span class="sxs-lookup"><span data-stu-id="8d02d-104">Your admin can assign a license to your account by following these steps:</span></span>
 
-1. <span data-ttu-id="ec1a2-105">Deschideţi [Centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) si la **utilizatori activi**, selectaţi **Editare un utilizator**.</span><span class="sxs-lookup"><span data-stu-id="ec1a2-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
+1. <span data-ttu-id="8d02d-105">Deschideți centrul de [administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) și accesați **Utilizatori activi** în secțiunea **Utilizatori** și selectați utilizatorul care vede eroarea.</span><span class="sxs-lookup"><span data-stu-id="8d02d-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and go to **Active users** under the **Users** section, and select the user who is seeing the error.</span></span>
 
-2. <span data-ttu-id="ec1a2-106">Din **edita un utilizator** în pagina care se deschide, selectaţi utilizatorul.</span><span class="sxs-lookup"><span data-stu-id="ec1a2-106">In the **Edit a user** page that opens, select the user.</span></span> <span data-ttu-id="ec1a2-107">În pagina de proprietăţi utilizatorului care se deschide, faceţi clic pe **editaţi** licente de **produs**.</span><span class="sxs-lookup"><span data-stu-id="ec1a2-107">In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
-
-3. <span data-ttu-id="ec1a2-108">În pagina de **produs de licenţe** care se deschide, selectaţi valoarea corespunzătoare **locaţie** şi atribuiţi o licenţă care conţine Exchange Online (extinde licenţa pentru a vedea detaliile sale).</span><span class="sxs-lookup"><span data-stu-id="ec1a2-108">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="ec1a2-109">Când ați terminat, faceți clic pe **Salvați**.</span><span class="sxs-lookup"><span data-stu-id="ec1a2-109">When you're finished, click **Save**.</span></span>
+2. <span data-ttu-id="8d02d-106">În pagina de utilizator care se deschide, accesați secțiunea **Licențe și aplicații,** selectați valoarea **locație ise** corespunzătoare și atribuiți o licență care conține Exchange Online (extindeți licența pentru a vedea detaliile).</span><span class="sxs-lookup"><span data-stu-id="8d02d-106">In the user page that opens, go to the **Licenses and Apps** section, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="8d02d-107">Când ați terminat, faceți clic pe **Salvare modificări**.</span><span class="sxs-lookup"><span data-stu-id="8d02d-107">When you're finished, click **Save changes**.</span></span>
