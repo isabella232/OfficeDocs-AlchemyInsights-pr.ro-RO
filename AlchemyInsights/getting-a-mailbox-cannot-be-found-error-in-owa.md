@@ -1,5 +1,5 @@
 ---
-title: 126 obtinerea unei cutii poştale nu poate fi găsit de eroare în OWA?
+title: 126 Noțiuni de bază o cutie poștală nu poate fi găsit eroare în OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523883"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105251"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Noţiuni de bază o cutie poştală nu a întemeia error în Outlook pe web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Obținerea unei cutii poștale nu s-a găsit eroare în Outlook pe web?
 
-Dacă utilizaţi Outlook de pe web şi veţi obţine o eroare de **cutie poştală nu a putut fi găsit pentru** , în contul pe care aţi utilizat pentru a conecta Outlook de pe web nu are o licenţă Exchange Online şi prin urmare, nici o cutie poştală este asociat cu contul. Admin dumneavoastră poate atribui o licenţă în contul urmând aceşti paşi:
+Dacă utilizați Outlook pe web și obțineți o **cutie poștală nu a putut fi găsit pentru** eroare, contul pe care l-ați utilizat pentru a vă conecta la Outlook pe web nu are o licență Exchange Online și, prin urmare, nici o cutie poștală este asociată cu contul. Administratorul poate atribui o licență contului dvs., urmând acești pași:
 
-1. Deschideţi [Centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) si la **utilizatori activi**, selectaţi **Editare un utilizator**.
+1. Deschideți centrul de [administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) și accesați **Utilizatori activi** în secțiunea **Utilizatori** și selectați utilizatorul care vede eroarea.
 
-2. Din **edita un utilizator** în pagina care se deschide, selectaţi utilizatorul. În pagina de proprietăţi utilizatorului care se deschide, faceţi clic pe **editaţi** licente de **produs**.
-
-3. În pagina de **produs de licenţe** care se deschide, selectaţi valoarea corespunzătoare **locaţie** şi atribuiţi o licenţă care conţine Exchange Online (extinde licenţa pentru a vedea detaliile sale). Când ați terminat, faceți clic pe **Salvați**.
+2. În pagina de utilizator care se deschide, accesați secțiunea **Licențe și aplicații,** selectați valoarea **locație ise** corespunzătoare și atribuiți o licență care conține Exchange Online (extindeți licența pentru a vedea detaliile). Când ați terminat, faceți clic pe **Salvare modificări**.
