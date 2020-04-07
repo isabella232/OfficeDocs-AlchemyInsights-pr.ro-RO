@@ -1,5 +1,5 @@
 ---
-title: Plata a refuzat
+title: Plata a fost refuzată
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164166"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160828"
 ---
-# <a name="update-or-add-a-new-payment-method"></a><span data-ttu-id="eb050-102">Actualizarea sau adăugarea unei noi metode de plată</span><span class="sxs-lookup"><span data-stu-id="eb050-102">Update or add a new payment method</span></span>
+# <a name="payment-declined"></a><span data-ttu-id="b7df0-102">Plata a fost refuzată</span><span class="sxs-lookup"><span data-stu-id="b7df0-102">Payment declined</span></span>
 
-1. <span data-ttu-id="eb050-103">Accesați pagina**Metodă**& > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">plată</a> facturi de **facturare.** > </span><span class="sxs-lookup"><span data-stu-id="eb050-103">Go to the **Billing** > **Bills & Payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.</span></span>
-2. <span data-ttu-id="eb050-104">Selectați **Adăugați o metodă** de plată sau alegeți cardul sau contul bancar pentru a actualiza și selectați **Editare**.</span><span class="sxs-lookup"><span data-stu-id="eb050-104">Select **Add a payment method** or pick the card or bank account to update and select **Edit**.</span></span>
-3. <span data-ttu-id="eb050-105">Actualizați informațiile despre metoda de plată (numele de pe card sau contul bancar, adresa de facturare, numărul de telefon sau data expirării), apoi selectați **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="eb050-105">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save**.</span></span>
-4. <span data-ttu-id="eb050-106">Nu uitați să modificați modul în care plătiți pentru abonamentele la această nouă metodă de plată.</span><span class="sxs-lookup"><span data-stu-id="eb050-106">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="eb050-107">Instrucțiuni cu privire la modul de a face acest lucru sunt în secțiunea următoare.</span><span class="sxs-lookup"><span data-stu-id="eb050-107">Instructions on how to do this are in the next section.</span></span>
+<span data-ttu-id="b7df0-103">Microsoft va încerca să vă debiteze cardul de mai multe ori în cele 3-4 săptămâni de la data facturii.</span><span class="sxs-lookup"><span data-stu-id="b7df0-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="b7df0-104">Dacă ați primit doar una sau două notificări de refuz pentru această perioadă de facturare, Microsoft va încerca automat să debiteze din nou instrumentul de plată.</span><span class="sxs-lookup"><span data-stu-id="b7df0-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
 
-<span data-ttu-id="eb050-108">Dacă ați adăugat un card nou și primiți în continuare o notificare de refuz pe vechiul card de credit, poate fi necesar să asociați cardul nou la abonament.</span><span class="sxs-lookup"><span data-stu-id="eb050-108">If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card to the subscription.</span></span>
+<span data-ttu-id="b7df0-105">**Important:** Dacă ați adăugat un card nou și primiți în continuare o notificare de refuz pe vechiul card de credit, poate fi necesar să asociați acel card nou cu abonamentul.</span><span class="sxs-lookup"><span data-stu-id="b7df0-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
 
-1. <span data-ttu-id="eb050-109">Accesați<a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Servicii & produse</a> de **facturare** > </span><span class="sxs-lookup"><span data-stu-id="eb050-109">Go to **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a></span></span>
-2. <span data-ttu-id="eb050-110">Selectați abonamentul pe care doriți să îl plătiți cu noul card sau cu noul cont bancar.</span><span class="sxs-lookup"><span data-stu-id="eb050-110">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="eb050-111">Sub **secțiunea Facturare,** lângă metoda de plată, selectați **Editare**.</span><span class="sxs-lookup"><span data-stu-id="eb050-111">Under the **Billing** section, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="eb050-112">Selectați **Modificare** lângă metoda de plată curentă.</span><span class="sxs-lookup"><span data-stu-id="eb050-112">Select **Change** next to the current payment method.</span></span>
-4. <span data-ttu-id="eb050-113">Din meniul drop-down, selectați o metodă de plată alternativă sau adăugați o nouă metodă de plată.</span><span class="sxs-lookup"><span data-stu-id="eb050-113">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+1. <span data-ttu-id="b7df0-106">Accesați **Servicii [de & produse](https://go.microsoft.com/fwlink/p/?linkid=842054)> de facturare**.</span><span class="sxs-lookup"><span data-stu-id="b7df0-106">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-[<span data-ttu-id="eb050-114">Adăugarea, actualizarea sau eliminarea metodelor de plată</span><span class="sxs-lookup"><span data-stu-id="eb050-114">Add, update, or remove your payment methods</span></span>](https://go.microsoft.com/fwlink/?linkid=2118133)
+2. <span data-ttu-id="b7df0-107">Selectați abonamentul pe care doriți să îl plătiți cu noul card sau cu un cont bancar.</span><span class="sxs-lookup"><span data-stu-id="b7df0-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="b7df0-108">Sub **secțiunea Facturare,** lângă metoda de plată, faceți clic pe **Editare**.</span><span class="sxs-lookup"><span data-stu-id="b7df0-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
+
+3. <span data-ttu-id="b7df0-109">Dați clic pe **Modificați** lângă metoda de plată curentă.</span><span class="sxs-lookup"><span data-stu-id="b7df0-109">Click **Change** next to the current payment method.</span></span>
+
+4. <span data-ttu-id="b7df0-110">Din meniul drop-down, selectați o metodă de plată alternativă sau adăugați o nouă metodă de plată.</span><span class="sxs-lookup"><span data-stu-id="b7df0-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+
+<span data-ttu-id="b7df0-111">**Actualizarea sau adăugarea unei noi metode de plată**</span><span class="sxs-lookup"><span data-stu-id="b7df0-111">**Update or add a new payment method**</span></span>
+
+1. <span data-ttu-id="b7df0-112">Accesați pagina \*\*Facturare > facturi & plăți > metode de [plată.](https://go.microsoft.com/fwlink/p/?linkid=2018806) \*\*</span><span class="sxs-lookup"><span data-stu-id="b7df0-112">Go to the **Billing > Bills & Payments > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
+
+2. <span data-ttu-id="b7df0-113">Faceți clic pe **Adăugare metodă de plată,** alegeți cardul sau contul bancar pentru a-l actualiza și faceți clic pe **Editare**.</span><span class="sxs-lookup"><span data-stu-id="b7df0-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
+
+3. <span data-ttu-id="b7df0-114">Actualizați informațiile privind metoda de plată (numele de pe card sau din contul bancar, adresa de facturare, numărul de telefon sau data expirării), apoi faceți clic pe **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="b7df0-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
+
+4. <span data-ttu-id="b7df0-115">Nu uitați să modificați modul în care plătiți pentru abonamentele la această nouă metodă de plată.</span><span class="sxs-lookup"><span data-stu-id="b7df0-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="b7df0-116">Pentru informații suplimentare, consultați [Adăugați, actualizați sau eliminați metode de plată](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="b7df0-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span> 
