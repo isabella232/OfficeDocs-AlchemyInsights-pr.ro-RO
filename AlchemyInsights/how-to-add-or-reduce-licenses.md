@@ -1,5 +1,5 @@
 ---
-title: Cum să adăugaţi sau să reducă licenţe
+title: se adaugă sau se reduce licențele
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664296"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207385"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Cum să adăugaţi sau să reducă licenţe
+# <a name="how-to-add-or-reduce-licenses"></a>se adaugă sau se reduce licențele
 
-Iată cum să eliminaţi licente de Office 365 sau mai multe licenţe de cumpărare.
+Iată să adăugați/eliminați licențele.
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Navigați la ** [Abonamente](https://portal.office.com/adminportal/home#/subscriptions)> de facturare**.
 
-2. Alege abonamentul la care doriţi pentru a adăuga/elimina licenţe.
+2. Alegeți abonamentul din care doriți să adăugați/eliminați licențe.
 
-3. Selectaţi **Adăugare/eliminare licenţe**.
+3. Faceți clic pe **Adăugare/eliminare licențe**.
 
-4. Introduceți numărul total de utilizatori necesare.
+4. Introduceți numărul total de utilizatori necesari. De exemplu, dacă aveți în prezent 25 de licențe și doriți să eliminați 5, introduceți 20 în acest câmp.
 
-    De exemplu, dacă aveţi în prezent 25 de licenţe şi eliminaţi 5, introduceţi 20 în acest domeniu.
+5. Faceți clic pe **Remitere modificare**.
 
-5. Alegeţi **trimiteţi modificarea**.
+**Notă:** Orice nouă taxă (creștere a licenței) sau credit (scăderea licenței) va apărea pe următoarea factură.
 
-> [!NOTE]
-> Orice nou taxa (permis creşterea) sau credit (licenţă scadere) vor apărea pe factura viitoare.
+Pentru informații despre atribuirea licențelor, consultați [Atribuirea licențelor utilizatorilor](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Pentru a afla mai multe, consultaţi [cumpere licenţe pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Resurse suplimentare**
+ **Resurse**
   
-- [Elimina licenţe de dumneavoastră Office 365 pentru afaceri abonament](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Gestionarea licențelor de abonament - cumpărați sau eliminați](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Anula Office 365 pentru afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Revocarea Office 365 pentru firme](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Cumpara un alt Office 365 pentru afaceri abonament](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Cumpărați un alt abonament Office 365 pentru firme](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

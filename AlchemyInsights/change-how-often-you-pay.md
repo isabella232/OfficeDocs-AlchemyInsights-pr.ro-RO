@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195030"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217876"
 ---
 # <a name="change-how-often-you-pay"></a>Modificați cât de des plătiți
 
@@ -28,4 +29,4 @@ Atunci când cumpărați un abonament, alegeți facturarea lunară sau anuală. 
 
 2. Găsiți abonamentul pe care doriți să îl modificați. În **secțiunea Facturare,** lângă **facturat lunar** sau **facturat anual,** faceți clic pe **Editare**.
 
-3. Alegeți opțiunea pentru cât de des doriți să fiți facturat, apoi selectați **Modificare**.
+3. Alegeți opțiunea pentru cât de des doriți să fiți facturat, apoi faceți clic pe **Modificare**.
