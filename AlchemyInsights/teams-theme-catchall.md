@@ -24,7 +24,7 @@ ms.locfileid: "43231467"
 
 **Probleme uzuale și rezolvări**
 
-**Nu ați mai utilizat Teams?** Consultați [Introducere în Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Nu uitați să consultați videoclipurile de instruire pentru administratorii în IT Microsoft Teams, Punți și multe alte informații.
+**Nu ați mai utilizat Teams?** Consultați [Introducere în Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Nu uitați să consultați videoclipurile de instruire pentru administratori IT Microsoft Teams, pachetele de documentație și multe alte informații.
 
 Dacă aveți nevoie de ajutor să implementați Teams pentru a susține lucrătorii la distanță (WFH) din cauza COVID-19, consultați [Asistență pentru lucrătorii de la distanță utilizând Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). De asemenea, este posibil să fiți eligibil pentru asistență la implementare din partea Programului Microsoft 365 FastTrack - vizitați [Centrul FastTrack](https://www.microsoft.com/fasttrack) pentru a remite o solicitare.
 
@@ -37,7 +37,7 @@ Pentru toți clienții Teams:
 
 - **Întâlniri Teams și Dial-In**: Aveți nevoie de ajutor pentru a activa sau a configura conferința audio în Microsoft Teams? A fost creat recent acest utilizator ? Dacă este așa, va trebui să așteptați 2 - 24 de ore **pentru ca setările să se aplice**. 
 
-Pentru a verifica dacă utilizatorul este licențiat pentru conferințe audio și are un număr cu taxă implicit, consultați întâlnirile Teams și dial-in din [Probleme comune și rezoluții în Teams](https://docs.microsoft.com/microsoftteams/known-issues).
+Pentru a verifica dacă utilizatorul este are licențiă pentru conferințe audio și are un număr cu taxă implicit, consultați Întâlnirile Teams și dial-in din [Probleme frecvente și soluții în Teams](https://docs.microsoft.com/microsoftteams/known-issues).
 
 Pentru mai multe informații privind întâlnirile, consultați [Planurile de apelare pentru Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru a vă ajuta cu întrebările legate de licențiere. De asemenea, consultați:
 
@@ -45,7 +45,7 @@ Pentru mai multe informații privind întâlnirile, consultați [Planurile de ap
  - [Conferințe audio în Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Politicile privind întâlnirile**: politicile privind întâlnirile sunt utilizate pentru a controla caracteristicile disponibile pentru participanți pentru întâlnirile care sunt planificate de către utilizatorii din organizația dvs. După ce creați o politică și efectuați modificările, puteți apoi să alocați utilizatori la politică. 
-    - **Pentru a modifica sau a crea o politică de întâlnire**, consultați întâlnirile Teams și dial-in în [Probleme și rezoluții comune](https://docs.microsoft.com/microsoftteams/known-issues). 
+    - **Pentru a modifica sau a crea o politică de întâlnire**, consultați Întâlnirile Teams și dial-in în [Probleme frecvente și soluții în Teams](https://docs.microsoft.com/microsoftteams/known-issues). 
   
 - **Depanarea unei tastaturi telefonice lipsă:**  
 

@@ -20,11 +20,11 @@ ms.locfileid: "43231431"
 ---
 # <a name="unlocking-an-account"></a>Deblocarea unui cont
 
-Este posibil ca accesul utilizatorilor să fie blocat în Office 365 din cauza încercărilor cu parola incorectă sau a altor compromisuri. Pentru a-i ajuta pe utilizatori să se conecteze din nou la Microsoft 365, **puteți încerca pașii următori înainte de a deschide o Solicitare de asistență**. 
+Este posibil ca accesul utilizatorilor să fie blocat în Office 365 din cauza încercărilor de introducere a unei parole incorectă sau a altor încercări de compromitere. Pentru a-i ajuta pe utilizatori să se conecteze din nou la Microsoft 365, **puteți încerca pașii următori înainte de a deschide o solicitare de asistență**. 
 
-**Restricționarea e-mailului**
+**E-mail restricționat**
 
-În calitate de administrator, dacă unul dintre utilizatori are restricții de a trimite mesaje de e-mail, puteți să [deblocați singur contul](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Utilizatorul va putea trimite mesaje de e-mail în aproximativ o oră după eliminarea restricției.
+În calitate de administrator, dacă unuia dintre utilizatori i se restricționează posibilitatea de a trimite mesaje de e-mail, puteți să [deblocați singur contul](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Utilizatorul va putea trimite mesaje de e-mail în aproximativ o oră după eliminarea restricției.
 
 **Resetarea parolei de utilizator**
 

@@ -1,5 +1,5 @@
 ---
-title: 'Probleme uzuale în Visio și rezoluții '
+title: Probleme uzuale în Visio și rezolvări
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,7 +18,7 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 04/11/2020
 ms.locfileid: "43231680"
 ---
-# <a name="visio-common-issues-and-resolutions"></a>Probleme uzuale în Visio și rezoluții 
+# <a name="visio-common-issues-and-resolutions"></a>Probleme uzuale în Visio și rezolvări
 
 Iată câteva subiecte solicitate frecvent privind Microsoft Visio:
 

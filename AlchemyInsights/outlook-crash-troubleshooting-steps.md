@@ -20,7 +20,7 @@ ms.locfileid: "43232803"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pașii de depanare la căderea Outlook
 
-Dacă întâmpinați probleme cu căderile în Outlook pentru desktop, încercați următoarele soluții:
+Dacă întâmpinați probleme cu căderile în aplicația Outlook desktop, încercați următoarele soluții:
 
 1. Investigați posibilele probleme cu programele de completare.
 
