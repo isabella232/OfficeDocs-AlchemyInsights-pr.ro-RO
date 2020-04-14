@@ -1,5 +1,5 @@
 ---
-title: Cum să cumparare Office 365 educaţie planuri
+title: se achiziționează planurile Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390920"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286275"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Cum să cumparare Office 365 educaţie planuri
+# <a name="how-to-purchase-office-365-education-plans"></a>se achiziționează planurile Office 365 Education
 
-Tu au fost aprobate pentru Office 365 educaţie. Pentru a achiziţiona:
-  
-1. În centrul de administrare, du-te la **Facturare** \> pagina [Achiziţionare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Ați primit aprobarea pentru Office 365 Education.  Pentru a cumpăra:
 
-2. Alegeţi din lista în conformitate cu **Planurile de învăţământ**.
+1. Navigați la **[ Facturare> Servicii de achiziție](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Hover peste abonament pe care doriţi să cumpere, şi alege **Cumpara acum**.
+2. Alegeți din lista de sub **Planuri pentru educație**.
+
+3. Țineți mouse-ul peste abonamentul pe care doriți să-l cumpărați și alegeți **Cumpărați acum**.
+
+**Predare și învățare de la distanță**
+
+- Consultați [Predare și învățare de la distanță în Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) pentru a învăța cele mai actuale instrucțiuni privind configurarea planului dvs. de lecție școlară, întâlnirile virtuale și partajarea conținutului cu studenții.
+
+- Există instrucțiuni IT suplimentare în [Introducere în Microsoft Teams pentru învățarea la distanță](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) și [Cum se face tranziția către învățarea la distanță](https://www.microsoft.com/education/remote-learning).
