@@ -13,16 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
-ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
+ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36851732"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529616"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="8f7c5-102">se verifică domeniul cu Office 365</span><span class="sxs-lookup"><span data-stu-id="8f7c5-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="19177-102">se verifică domeniul cu Office 365</span><span class="sxs-lookup"><span data-stu-id="19177-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="8f7c5-103">Pentru a vă verifica domeniul, va trebui să adăugați o înregistrare TXT la registratorul de domeniu pentru a verifica dacă dețineți domeniul dvs.</span><span class="sxs-lookup"><span data-stu-id="8f7c5-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="8f7c5-104">Mai întâi, urmați [Expertul Adăugare domeniu](https://portal.office.com/adminportal/home#/Domains) selectând **Setări** \> **domenii**și apoi **Adăugați domeniu**.</span><span class="sxs-lookup"><span data-stu-id="8f7c5-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="19177-103">Pentru a verifica domeniul dvs., va trebui să adăugați o înregistrare TXT la registratorul de domeniu pentru a verifica dacă dețineți domeniul.</span><span class="sxs-lookup"><span data-stu-id="19177-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="19177-104">Mai întâi, urmați [expertul Adăugare domeniu](https://portal.office.com/adminportal/home#/Domains/Wizard) făcând clic pe Domenii **de** **instalare** \> , apoi pe **Adăugare domeniu**.</span><span class="sxs-lookup"><span data-stu-id="19177-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="8f7c5-105">Urmați instrucțiunile din [crearea înregistrărilor DNS la orice furnizor de găzduire DNS pentru Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pentru a adăuga o înregistrare txt pentru a vă verifica domeniul.</span><span class="sxs-lookup"><span data-stu-id="8f7c5-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
-  
+<span data-ttu-id="19177-105">Urmați instrucțiunile din [Crearea înregistrărilor DNS la orice furnizor de găzduire DNS pentru Office 365 pentru](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) a adăuga o înregistrare TXT pentru a vă verifica domeniul.</span><span class="sxs-lookup"><span data-stu-id="19177-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+
+<span data-ttu-id="19177-106">Pentru alte probleme de domenii încercați [domenii FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="19177-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
