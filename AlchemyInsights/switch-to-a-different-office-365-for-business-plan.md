@@ -1,5 +1,5 @@
 ---
-title: Trecerea la o diferite Office 365 pentru planul de afaceri
+title: Comutarea la un alt plan Office 365 pentru firme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665988"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548010"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Trecerea la o diferite Office 365 pentru planul de afaceri
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Comutarea la un alt plan Office 365 pentru firme
 
-Atunci când modificările de afaceri, sau ai nevoie de mai multe caracteristici de Office 365, puteţi să faceţi upgrade la un nou plan.
+Atunci când compania se modifică sau aveți nevoie de mai multe caracteristici Office 365, puteți face upgrade la un plan nou.
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, accesați **Servicii de & \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054)de facturare**.
 
-2. Selectati abonamentul pe care doriţi să faceţi upgrade.
+2. Selectați abonamentul pe care doriți să faceți upgrade.
 
-3. Abonament pagina de detalii, selectați **Upgrade**.
+3. În [pagina cu detaliile abonamentului](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), selectați **Upgrade**.
 
-4. Găsi planul în care doriţi să faceţi upgrade, apoi selectaţi butonul **Upgrade** .
+4. Găsiți planul la care doriți să faceți upgrade, apoi selectați butonul **Upgrade.**
 
-5. Introduceţi numărul de licenţe de care ai nevoie alege dacă să plătească în fiecare lună sau pentru tot anul, apoi selectaţi **Checkout**.
+5. Introduceți numărul de licențe de care aveți nevoie, alegeți dacă să plătiți în fiecare lună sau pentru întregul an, apoi selectați **Extragere**.
 
-Pentru a afla mai multe, consultaţi [upgrade-ul la un alt plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Pentru a afla mai multe, consultați [Upgrade la un alt plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
