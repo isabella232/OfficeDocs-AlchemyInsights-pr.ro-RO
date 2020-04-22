@@ -1,9 +1,9 @@
 ---
-title: Schimba adresa mea de e-mail în Outlook.com
+title: Modificarea adresei mele de e-mail în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: 6a944bbd2fa77370c081b2464683efdc8e8f95a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bfca8cbf03b2561a433032e79c09727b83bacf43
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712938"
 ---
-# <a name="change-your-email-address"></a><span data-ttu-id="ef6c9-102">Schimba adresa de e-mail</span><span class="sxs-lookup"><span data-stu-id="ef6c9-102">Change your email address</span></span>
+# <a name="change-your-email-address"></a><span data-ttu-id="dbd6c-102">Modificarea adresei de e-mail</span><span class="sxs-lookup"><span data-stu-id="dbd6c-102">Change your email address</span></span>
 
-<span data-ttu-id="ef6c9-103">Pentru a schimba adresa de email Outlook.com, va trebui să adăugaţi un alt unul şi să-l aliasul de poştă electronică principală.</span><span class="sxs-lookup"><span data-stu-id="ef6c9-103">To change your Outlook.com email address, you'll need to add another one and make it your primary email alias.</span></span>
+<span data-ttu-id="dbd6c-103">Pentru a vă modifica adresa de e-mail Outlook.com, va trebui să adăugați alta și să o faceți aliasul principal de e-mail.</span><span class="sxs-lookup"><span data-stu-id="dbd6c-103">To change your Outlook.com email address, you'll need to add another one and make it your primary email alias.</span></span>
   
-<span data-ttu-id="ef6c9-104">Urmaţi instrucţiunile din [Add or remove un alias de poştă electronică în Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ef6c9-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="dbd6c-104">Urmați instrucțiunile din [Adăugarea sau eliminarea unui alias de e-mail în Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="dbd6c-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

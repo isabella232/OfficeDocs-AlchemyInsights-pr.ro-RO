@@ -1,5 +1,5 @@
 ---
-title: Antispam-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9a2a6eb8736c2fd9b4b3cdc548461d5b15feb4a4
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682249"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712650"
 ---
-# <a name="banned-sending-ip"></a><span data-ttu-id="e4bc2-102">Interzis trimiterea IP</span><span class="sxs-lookup"><span data-stu-id="e4bc2-102">Banned sending IP</span></span>
+# <a name="banned-sending-ip"></a><span data-ttu-id="09e24-102">Interzis trimiterea IP</span><span class="sxs-lookup"><span data-stu-id="09e24-102">Banned sending IP</span></span>
 
-<span data-ttu-id="e4bc2-103">Atunci când trimiteți la Office 365, un expeditor poate experimenta această eroare.</span><span class="sxs-lookup"><span data-stu-id="e4bc2-103">When sending to Office 365, a sender might experience this error.</span></span> <span data-ttu-id="e4bc2-104">Expeditorul trebuie să viziteze https://sender.office.com și să urmeze instrucțiunile.</span><span class="sxs-lookup"><span data-stu-id="e4bc2-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="e4bc2-105">În cazul în care nu primesc un e-mail de verificare de la portal, le-au verifica folderul spam și/sau încercați cu o altă adresă de e-mail.</span><span class="sxs-lookup"><span data-stu-id="e4bc2-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>
+<span data-ttu-id="09e24-103">Când trimiteți corespondență la Microsoft 365, este posibil ca un expeditor să apară această eroare.</span><span class="sxs-lookup"><span data-stu-id="09e24-103">When sending mail to Microsoft 365, a sender might experience this error.</span></span> <span data-ttu-id="09e24-104">Expeditorul trebuie să https://sender.office.com viziteze și să urmeze instrucțiunile.</span><span class="sxs-lookup"><span data-stu-id="09e24-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="09e24-105">Dacă nu primesc un e-mail de verificare de la portal, rugați-i să verifice dosarul de spam și/sau să încerce cu o altă adresă de e-mail.</span><span class="sxs-lookup"><span data-stu-id="09e24-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>

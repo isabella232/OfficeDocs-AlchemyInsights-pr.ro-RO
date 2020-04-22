@@ -3,7 +3,7 @@ title: de a schimba limba în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3352bf86e926bf4242a2826b773b1d7cf4ac4faf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36541678"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711283"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="32f06-102">Schimbați-vă limba</span><span class="sxs-lookup"><span data-stu-id="32f06-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="81bd0-102">Schimbați-vă limba</span><span class="sxs-lookup"><span data-stu-id="81bd0-102">Change your language</span></span>
 
-1. <span data-ttu-id="32f06-103">Pentru a Chang limba în Outlook, accesați setările pentru [**limbă și oră**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Setări** \> **Vizualizați toate setările** > Outlook limba**generală** > **și ora**).</span><span class="sxs-lookup"><span data-stu-id="32f06-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="81bd0-103">Pentru a schimba limba în Outlook, accesați Setări [**limbă și oră**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) **(Setări** \> **Vizualizați toate setările** > Outlook**Limbă și oră\*\*\*\*generală** > ).</span><span class="sxs-lookup"><span data-stu-id="81bd0-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="32f06-104">Alege limba ta.</span><span class="sxs-lookup"><span data-stu-id="32f06-104">Choose your language.</span></span>
+2. <span data-ttu-id="81bd0-104">Alege-ți limba.</span><span class="sxs-lookup"><span data-stu-id="81bd0-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="32f06-105">Selectați **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="32f06-105">Select **Save**.</span></span>
+3. <span data-ttu-id="81bd0-105">Selectați **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="81bd0-105">Select **Save**.</span></span>
 
-<span data-ttu-id="32f06-106">Pentru a afla mai multe, consultați [modificarea setărilor de fus orar și de limbă din Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="32f06-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="81bd0-106">Pentru a afla mai multe, consultați [Modificarea setărilor de fus orar și de limbă în Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="81bd0-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>

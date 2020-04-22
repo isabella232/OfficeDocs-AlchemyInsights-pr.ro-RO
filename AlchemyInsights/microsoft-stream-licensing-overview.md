@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713946"
 ---
-# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="b953e-102">Prezentare generală a licențelor Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="b953e-102">Microsoft Stream Licensing overview</span></span>
+# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="0c6cc-102">Prezentare generală a licențelor Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0c6cc-102">Microsoft Stream Licensing overview</span></span>
 
-<span data-ttu-id="b953e-103">Microsoft Stream este un serviciu cloud licențiat pe bază de abonament per utilizator.</span><span class="sxs-lookup"><span data-stu-id="b953e-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="b953e-104">Acesta este disponibil ca parte a abonamentelor Office 365 eligibile.</span><span class="sxs-lookup"><span data-stu-id="b953e-104">It is available as part of eligible Office 365 subscriptions.</span></span> <span data-ttu-id="b953e-105">Consultați Prețurile Office 365 pentru informații despre fiecare tip de abonament.</span><span class="sxs-lookup"><span data-stu-id="b953e-105">See Office 365 pricing for information on each subscription type.</span></span>
+<span data-ttu-id="0c6cc-103">Microsoft Stream este un serviciu cloud licențiat per abonament de utilizator.</span><span class="sxs-lookup"><span data-stu-id="0c6cc-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="0c6cc-104">Acesta este disponibil ca parte a abonamentelor Microsoft 365 eligibile.</span><span class="sxs-lookup"><span data-stu-id="0c6cc-104">It is available as part of eligible Microsoft 365 subscriptions.</span></span> <span data-ttu-id="0c6cc-105">Consultați Prețuri Microsoft 365 pentru informații despre fiecare tip de abonament.</span><span class="sxs-lookup"><span data-stu-id="0c6cc-105">See Microsoft 365 pricing for information on each subscription type.</span></span>
 
-- [<span data-ttu-id="b953e-106">Prezentare generală a licențelor Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="b953e-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
+- [<span data-ttu-id="0c6cc-106">Prezentare generală a licențelor Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0c6cc-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)

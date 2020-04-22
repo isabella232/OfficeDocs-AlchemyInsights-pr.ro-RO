@@ -1,31 +1,31 @@
 ---
-title: Setările de eDiscovery
+title: Setări descoperire e
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714414"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="552fd-102">Setările de eDiscovery</span><span class="sxs-lookup"><span data-stu-id="552fd-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="34c07-102">Setări descoperire e</span><span class="sxs-lookup"><span data-stu-id="34c07-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="552fd-103">eDiscovery/conţinut căutări în Office 365 vă permit să căutaţi, ţineţi şi export de conţinut din cutiile poştale Exchange Online, SharePoint Online si OneDrive pentru afaceri site-uri, Skype pentru afaceri conversaţii, Microsoft Teams şi grupuri de Office 365.</span><span class="sxs-lookup"><span data-stu-id="552fd-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="34c07-103">Căutările de informații electronice/conținut vă permit să căutați, să țineți continuu și să exportați conținut din cutiile poștale Exchange Online, din SharePoint Online și OneDrive for Business site-uri, conversații Skype for Business, Microsoft Teams și grupuri Office 365.</span><span class="sxs-lookup"><span data-stu-id="34c07-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="552fd-104">Dacă sunteţi în căutarea eDiscovery sau opţiuni de meniu conținut de căutare, a se vedea [eDiscovery probleme](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="552fd-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="552fd-105">Aflaţi despre permisiunile necesare pentru efectuarea eDiscovery căutări de [permisiunile necesare pentru eDiscovery căutări](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="552fd-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="552fd-106">În cazul în care căutarea nu este întoarcerea rezultatele aşteptate, vedea [Căutaţi nu se întoarce aşteaptă rezultatele](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="552fd-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="34c07-104">Dacă căutați opțiunile de meniu Căutare a informațiilor electronice sau Căutare conținut, consultați [Probleme de descoperire a informațiilor .](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)</span><span class="sxs-lookup"><span data-stu-id="34c07-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="34c07-105">Aflați despre permisiunile necesare pentru efectuarea căutărilor de descoperire electronică din [permisiunile necesare pentru căutările eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="34c07-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="34c07-106">Dacă căutarea nu returnează rezultatele așteptate, consultați [Căutarea nu returnează rezultatele așteptate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="34c07-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="552fd-107">Pentru mai multe informaţii despre ediscovery în Office 365, consultaţi [Ediscovery în Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="552fd-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="34c07-107">Pentru mai multe informații despre descoperirea site-ului, consultați [Descoperirea .](https://docs.microsoft.com/office365/securitycompliance/ediscovery)</span><span class="sxs-lookup"><span data-stu-id="34c07-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
