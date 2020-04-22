@@ -1,8 +1,8 @@
 ---
-title: Incident de service în curs
+title: Incident de serviciu în curs
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 10/9/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 73545096f9f6c819162c82ff5c4d0e339fa4c6bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550563"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681656"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="e516e-102">Incident de service în curs</span><span class="sxs-lookup"><span data-stu-id="e516e-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="3a02c-102">Incident de serviciu în curs</span><span class="sxs-lookup"><span data-stu-id="3a02c-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="e516e-103">Te-ar putea fi afectate de un incident de service sau consultativ care este în prezent anchetat.</span><span class="sxs-lookup"><span data-stu-id="e516e-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="e516e-104">Puteţi verifica starea de ultima de a merge la pagina de [Servicii de sănătate](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="e516e-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="3a02c-103">Este posibil să fiți afectat de un incident de serviciu sau de o recomandare care este investigată în prezent.</span><span class="sxs-lookup"><span data-stu-id="3a02c-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="3a02c-104">Puteți verifica cea mai recentă stare mergând la pagina [Sănătate serviciu.](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="3a02c-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="e516e-105">Pentru confortul dvs., puteţi găsi un rezumat al acestui incident mai jos:</span><span class="sxs-lookup"><span data-stu-id="e516e-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="3a02c-105">Pentru confortul dumneavoastră, puteți găsi un rezumat al acestui incident de mai jos:</span><span class="sxs-lookup"><span data-stu-id="3a02c-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="e516e-106">**Incident numărul:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="e516e-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="3a02c-106">**Numărul incidentului:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="3a02c-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="e516e-107">Impactul Descriere: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="e516e-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="3a02c-107">Descriere impact: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="3a02c-107">Impact description: {ImpactDescription}</span></span>

@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698286"
 ---
-# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="ef3dc-102">Întrebări despre licența Office 365</span><span class="sxs-lookup"><span data-stu-id="ef3dc-102">Questions about your Office 365 license</span></span>
+# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="b3098-102">Întrebări despre licența Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b3098-102">Questions about your Microsoft 365 license</span></span>
 
-<span data-ttu-id="ef3dc-103">Dacă doriți să știți câte licențe ați achiziționat sau câte licențe sunt atribuite dintr-un abonament:</span><span class="sxs-lookup"><span data-stu-id="ef3dc-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="b3098-103">Dacă doriți să știți câte licențe ați achiziționat sau câte licențe sunt atribuite dintr-un abonament:</span><span class="sxs-lookup"><span data-stu-id="b3098-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="ef3dc-104">În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="ef3dc-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="b3098-104">În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="b3098-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="ef3dc-105">Găsiți abonamentul despre care doriți să știți mai multe.</span><span class="sxs-lookup"><span data-stu-id="ef3dc-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="ef3dc-106">Puteți vedea numărul de licențe pentru care plătiți și câte sunt disponibile pentru a fi atribuite.</span><span class="sxs-lookup"><span data-stu-id="ef3dc-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
+2. <span data-ttu-id="b3098-105">Găsiți abonamentul despre care doriți să aflați mai multe.</span><span class="sxs-lookup"><span data-stu-id="b3098-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="b3098-106">Puteți vedea numărul de licențe pentru care plătiți și câte sunt disponibile pentru a fi atribuite.</span><span class="sxs-lookup"><span data-stu-id="b3098-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-<span data-ttu-id="ef3dc-107">Dacă doriți să adăugați mai multe licențe sau dacă aveți prea multe, alegeți **Adăugați/eliminați licențele** pentru a ajusta suma cumpărată.</span><span class="sxs-lookup"><span data-stu-id="ef3dc-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="b3098-107">Dacă doriți să adăugați mai multe licențe sau dacă aveți prea multe, **alegeți Adăugare/eliminare licențe** pentru a ajusta suma achiziționată.</span><span class="sxs-lookup"><span data-stu-id="b3098-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
