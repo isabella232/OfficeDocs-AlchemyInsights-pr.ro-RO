@@ -1,9 +1,9 @@
 ---
-title: Depanarea Intune politică şi profile
+title: Depanarea politicii și profilurilor Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533639"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766685"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Depanarea Intune politica si profile
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Depanarea politicii și profilurilor Intune
 
-Pentru a vedea politicile existente, Depanarea conflictelor, datele de jurnal de revizuire, şi a vedea comune întrebări şi probleme, ghiduri următoarele poate ajuta.
+Pentru a vedea politicile existente, a depana conflictele, a examina datele jurnalului și a vedea întrebări și probleme obișnuite, următoarele ghiduri pot ajuta.
 
-- [Depanarea politici şi profiluri în Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Depanarea politicilor și profilurilor în Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Frecvente întrebări, probleme şi rezoluţii cu politicile de dispozitiv şi profiluri în Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Întrebări, probleme și rezolvări comune cu politicile și profilurile dispozitivelor în Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Monitoriza profiluri de configurare dispozitiv şi Vezi conflicte în Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Monitorizați profilurile de configurare ale dispozitivului și vizualizați conflictele în Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Depanarea dispozitiv conformitatea şi acces condiţionat în Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Depanarea conformității dispozitivului și a accesului condiționat în Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Monitoriza conformitatea politicilor şi Vezi conflicte în Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Monitorizarea politicilor de conformitate și vizualizarea conflictelor în Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Trimite datele de jurnal Intune pentru stocare azuriu, eveniment hub-uri, sau jurnal de analiză](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Trimiteți date de jurnal Intune la stocare Azure, hub-uri de evenimente sau analize de jurnal](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-A se vedea imaginea de ansamblu pentru a [configura dispozitivele](https://docs.microsoft.com/intune/device-profiles) sau de a [folosi conformitatea politicilor](https://docs.microsoft.com/intune/device-compliance-get-started).
+Consultați prezentarea generală pentru a [configura dispozitivele](https://docs.microsoft.com/intune/device-profiles) sau [pentru a utiliza politicile de conformitate](https://docs.microsoft.com/intune/device-compliance-get-started).

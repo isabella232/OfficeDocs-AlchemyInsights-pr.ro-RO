@@ -3,7 +3,7 @@ title: Încărcarea unui folder sau a fișierelor într-o bibliotecă de documen
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 62c21ba16892102c5597d8cee1f22cd5cf2b2753
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36532631"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766469"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Încărcarea unui folder sau a fișierelor într-o bibliotecă de documente SharePoint
 
@@ -26,8 +26,8 @@ Pentru a încărca un folder, trebuie să utilizați Microsoft Edge, Google Chro
     
 2. Deschideți Explorer pe computer și navigați la folderul sau fișierele pe care doriți să le încărcați.
     
-3. Glisați folderul sau fișierele în biblioteca de documente. Dacă nu vedeți elementele pe care le-ați încărcat apar în bibliotecă, reîmprospătați pagina. 
+3. Glisați folderul sau fișierele în biblioteca de documente. Dacă nu vedeți că elementele pe care le-ați încărcat apar în bibliotecă, reîmprospătați pagina. 
     
-Dacă nu doriți să încărcați prin glisarea elementelor între ferestre, puteți utiliza și butonul de **încărcare** din biblioteca de documente pentru a selecta folderul sau fișierele pe care doriți să le încărcați. 
+Dacă nu doriți să încărcați prin glisarea elementelor între ferestre, puteți utiliza și butonul **Încărcare** din biblioteca de documente pentru a selecta folderul sau fișierele pe care doriți să le încărcați. 
   
 

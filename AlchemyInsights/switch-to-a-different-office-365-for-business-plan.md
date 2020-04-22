@@ -1,5 +1,5 @@
 ---
-title: Comutarea la un alt plan Office 365 pentru firme
+title: Comutarea la un alt Microsoft 365 pentru planul de afaceri
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548010"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763805"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Comutarea la un alt plan Office 365 pentru firme
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Comutarea la un alt abonament Microsoft 365 pentru firme
 
-Atunci când compania se modifică sau aveți nevoie de mai multe caracteristici Office 365, puteți face upgrade la un plan nou.
+Atunci când afacerea se modifică sau aveți nevoie de mai multe caracteristici, puteți face upgrade la un plan nou.
   
 1. În centrul de administrare, accesați **Servicii de & \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054)de facturare**.
 

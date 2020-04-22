@@ -1,8 +1,8 @@
 ---
-title: 323 probleme cu întârzieri în e-mail
+title: 323 Probleme cu întârzierile în e-mail
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "323"
 - "3100002"
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 49752f57f11d74fbd5ebde08661ff8334a72525d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 343c5d63f33bbb56cb0de67d0f2ecd56122cd638
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497851"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762941"
 ---
-# <a name="delays-in-email-message-delivery"></a>Întârzieri în livrare de mesaj email
+# <a name="delays-in-email-message-delivery"></a>Întârzieri în livrarea mesajelor de e-mail
 
-Se pare ca tu ai o problemă de fluxul de corespondenţă. Avem de diagnosticare care vă va ajuta să identifica multe probleme comune fluxul de corespondenţă. Faceţi clic pe **executați Diagnostice** mai jos.
+Se pare că aveți o problemă de flux de mail. Avem diagnostice care vor ajuta la identificarea multor probleme comune de flux de corespondență. Faceți clic pe **Executare diagnosticare mai** jos.

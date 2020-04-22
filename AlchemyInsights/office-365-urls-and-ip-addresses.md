@@ -1,9 +1,9 @@
 ---
-title: Office 365 URL-uri și adrese IP
+title: Adrese URL și adrese IP Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
-ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
+ms.openlocfilehash: 4a8de785b02e60f035d6a6f24e726f58fb15929c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37775327"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761610"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL-uri și intervale de adrese IP
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 URL-uri și intervale de adrese IP
 
-Office 365 necesită conectivitate la internet prin intermediul adreselor IP specifice numite *puncte finale*.
-Pentru o listă de puncte finale care trebuie să fie accesibile, consultați [Office 365 URL-uri și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Microsoft 365 necesită conectivitate la Internet prin intermediul unor adrese IP specifice, denumite *puncte finale*.
+Pentru o listă de puncte finale care trebuie să fie accesibile, consultați [Microsoft 365 URL-uri și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Serviciul Web Office 365 adresă IP și URL vă ajută să identificați și să diferențiați mai bine traficul de rețea Office 365, facilitând evaluarea, configurarea și rămânerea la zi cu modificările. Consultați [Office 365 adresa IP și serviciul web URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
+Serviciul web Adresă IP și URL Microsoft 365 vă ajută să identificați și să diferențiați mai bine traficul de rețea Microsoft 365, facilitând evaluarea, configurarea și rămânerea la curent cu modificările. Consultați [Serviciul web Adresă IP și URL Office 365](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

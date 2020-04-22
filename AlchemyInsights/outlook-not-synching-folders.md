@@ -1,9 +1,9 @@
 ---
-title: Outlook nu sincronizare foldere
+title: Outlook nu sintetizează foldere
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557344"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768701"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook nu sincronizare foldere
+# <a name="outlook-not-synching-folders"></a>Outlook nu sintetizează foldere
 
-Dacă Outlook nu este Sincronizarea folderelor cum era de aşteptat, există unele lucruri pe care încercați să-l repari.
+Dacă Outlook nu sintetizează folderele așa vă așteptați, există unele lucruri pe care puteți încerca să le remediați.
 
-1. Reducerea numărului de foldere din cutia poştală de primar sau comune. [Probleme de performanţă a vedea Outlook atunci când sunt prea multe articole sau pliant înăuntru un Cached modul .ost sau .pst fişier folder](https://support.microsoft.com/help/2768656).
-2. Dezactivarea cache-ul din toate folderele partajate.
-3. Modificaţi configuraţia secundar cutie poştală Exchange pentru un al doilea cont de schimb în profilul dvs.
+1. Reduceți numărul de foldere din cutia poștală principală sau partajată. [Consultați Probleme de performanță Outlook atunci când există prea multe elemente sau foldere într-un folder de fișier .ost mode sau .pst în modul Cached](https://support.microsoft.com/help/2768656).
+2. Dezactivați memorarea în cache a tuturor folderelor partajate.
+3. Modificați configurația cutiei poștale Exchange secundare la un al doilea cont Exchange în profilul dvs.
 
-Pentru mai multe informaţii, consultaţi [probleme de performanţă şi de sincronizare atunci când lucraţi cu foldere într-o cutie poştală secundar în Outlook](https://support.microsoft.com/help/3115602).
+Pentru mai multe informații, consultați [Probleme de performanță și sincronizare atunci când lucrați cu foldere într-o cutie poștală secundară în Outlook](https://support.microsoft.com/help/3115602).

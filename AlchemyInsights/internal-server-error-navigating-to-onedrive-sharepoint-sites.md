@@ -1,36 +1,36 @@
 ---
-title: Probleme de performanță-SharePoint sau OneDrive
+title: Probleme de performanță - SharePoint sau OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 0b55008cc83b4302801150239926439d8d198ae2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763157"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Eroare internă de server atunci când navigați la site-uri SharePoint sau OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Eroare internă de server la navigarea la site-uri Sharepoint sau OneDrive
 
-Utilizatorii pot primi o eroare internă de Server 500 atunci când încercați să navigați la site-uri SharePoint sau OneDrive. 
+Utilizatorii pot primi o eroare de server intern 500 atunci când încearcă să navigheze la site-uri SharePoint sau OneDrive. 
 
-Vă rugăm să încercați să goliți memoria cache a browserului înainte de a naviga pe site.
+Încercați să goliți memoria cache a browserului înainte de a naviga pe site.
 
 
-1. În browserul Microsoft Edge, accesați mai multe... Setări >
+1. În browserul Microsoft Edge, accesați Mai multe...> Setări
 
 2. Sub Ștergeți datele de navigare, selectați **Alegeți ce să ștergeți**
 
-3. Bifați caseta de selectare cookies și datele salvate pentru site-ul web și selectați **Golire**.
+3. Bifați caseta de selectare Cookie-uri și datele salvate ale site-ului web și **selectați Golire**.
 
-Notă: acești pași pot diferi atunci când se utilizează alte browsere, ar fi Firefox sau Chrome.
+Notă: acești pași pot diferi atunci când folosești alte browsere, ar fi Firefox sau Chrome.
 
-Dacă acest lucru nu rezolvă problema, puteți verifica dacă există întreținere activă care apar pe chiriașul dvs., prin navigarea la [Centrul de mesaje](https://portal.office.com/adminportal/home#/MessageCenter).
+Dacă aceasta nu rezolvă problema, aveți posibilitatea să verificați dacă există întreținere activă care are loc pe entitategăzduită navigând la [centrul de mesaje](https://portal.office.com/adminportal/home#/MessageCenter).
 
-În cele din urmă, asigurați-vă că vizitați pagina de [sănătate a serviciului](https://portal.office.com/adminportal/home#/servicehealth) pentru a verifica pentru orice recomandări/incidente care pot fi apărute.
+În cele din urmă , asigurați-vă că vizitați pagina [De sănătate a serviciilor](https://portal.office.com/adminportal/home#/servicehealth) pentru a verifica orice recomandări/incidente care pot apărea.
 

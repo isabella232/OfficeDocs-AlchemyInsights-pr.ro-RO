@@ -1,9 +1,9 @@
 ---
-title: Intune Insider Bug depunerea
+title: Intune Insider bug depunerea
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663609"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765965"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune Insider Bug depunerea
+# <a name="intune-insider-bug-filing"></a>Intune Insider bug depunerea
 
-Vă mulțumim pentru interesul dumneavoastră în programul Intune Insiders. Dacă sunteți deja urcat pentru programul Intune Insiders și trebuie să solicitați o solicitare de asistență, atunci:
+Vă mulțumim pentru interesul dumneavoastră în programul Intune Insiders. Dacă sunteți deja la bord pentru programul Intune Insiders și trebuie să depuneți o solicitare de asistență, atunci:
 
 1. Descrieți problema în câmpul de mai sus.
 2. Creați o nouă solicitare de serviciu utilizând opțiunile de mai jos.

@@ -1,8 +1,8 @@
 ---
-title: Eroare de adresa proxy în timp ce crearea unei cutii poştale partajate
+title: Eroare de adresă proxy la crearea unei cutii poștale partajate
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a02c57da97e76cec1cd3bdcd84b92c73530bdfa1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554200"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767909"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Eroare de adresa proxy în timp ce crearea unei cutii poştale partajate
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Eroare de adresă proxy la crearea unei cutii poștale partajate
 
-În cazul în care aţi încercat să creaţi o cutie poştală partajată şi primit această eroare "Adresă proxy"SMTP:alias@domain.com"este deja folosit...", adresa de e-mail pe care aţi ales deja luat de o altă cutie poştală din organizaţie.
+Dacă ați încercat să creați o cutie poștală partajată și ați primit această eroare "adresa proxy "SMTP:alias@domain.com" este deja utilizată...", adresa de e-mail aleasă este deja preluată de o altă cutie poștală din organizația dvs.
   
-Aveţi nevoie pentru a găsi utilizator, grup sau cutie poştală partajată care are această adresă de e-mail şi ştergeţi-l sau schimba adresa sa de e-mail. Apoi creaţi o cutie poştală partajată cu adresa de email eliberat. Utilizaţi căutare pe pagina de start pentru a găsi.
+Trebuie să găsiți utilizatorul, grupul sau cutia poștală partajată care are această adresă de e-mail și o ștergeți sau modificați adresa de e-mail. Apoi, puteți crea o cutie poștală partajată cu adresa de e-mail eliberată. Utilizați Căutarea pe pagina de pornire pentru a o găsi.
   
-Dacă nu doriţi să ştergeţi adresa de e-mail existente, alege o nouă adresă de e-mail pentru cutia poştală partajată.
+Dacă nu doriți să ștergeți adresa de e-mail existentă, alegeți o nouă adresă de e-mail pentru cutia poștală partajată.
   

@@ -1,8 +1,8 @@
 ---
-title: Instalarea se blochează sau este blocată
+title: Instalarea se blochează sau se blochează
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763281"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Instalarea Office se blochează sau este blocată
+# <a name="office-installation-hangs-or-gets-stuck"></a>Instalarea Office se blochează sau se blochează
 
-Este posibil să vedeți acest comportament din cauza conectivității la rețea, a software-ului antivirus sau a setărilor Windows Update de pe computer. Iată câteva lucruri pe care le puteți încerca pentru a remedia problema.
+Este posibil să vedeți acest comportament datorită conectivității în rețea, software-ului antivirus sau setărilor Windows Update de pe computer. Iată câteva lucruri pe care le puteți încerca pentru a remedia problema.
   
-- Reporniți computerul și verificați dacă Office instalat
+- Reporniți computerul și verificați dacă Office installed
 
 - Utilizarea unei conexiuni cu fir
 
-- Dacă sunteți pe o conexiune la Internet lentă, instalați Office [utilizând programul de instalare offline Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Dacă vă abțieți la o conexiune lentă la internet, instalați Office [utilizând programul de instalare offline Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Dezactivați temporar software-ul antivirus
+- Dezactivarea temporară a software-ului antivirus
 
-- Executare reparare online din panoul de control
+- Executarea reparării online din Panoul de control
 
-- Eliminați și reinstalați Office
+- Eliminarea și reinstalarea Office
 
 [Office durează mult timp pentru a instala](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

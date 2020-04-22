@@ -1,5 +1,5 @@
 ---
-title: Rapoarte de non-livrare în Outlook pe web
+title: Rapoarte de nelivrare în Outlook pe web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768668"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768557"
 ---
-# <a name="issues-with-email-delivery"></a>Probleme cu livrarea de e-mail
+# <a name="issues-with-email-delivery"></a>Probleme cu livrarea e-mailului
 
-Atunci când există o problemă la livrarea unui mesaj de poștă electronică trimis, Office 365 Trimite un e-mail pentru a vă permite să știți. E-mailul pe care îl primiți este o notificare privind starea livrării, cunoscută și sub numele de DSN sau mesaj de respingere. Cel mai frecvent tip este denumit un raport de non-livrare (NDR), care vă spune că un mesaj nu a fost livrat. Non-livrare poate fi cauzată de ceva la fel de simplu ca un typo într-o adresă de e-mail. NDRs includ un cod de eroare care indică de ce nu s-a livrat e-mailul, soluțiile care vă ajută să obțineți e-mailul livrat, un link către mai mult ajutor pe web și detalii tehnice pentru administratori.
+Atunci când există o problemă la livrarea unui mesaj de e-mail pe care l-ați trimis, Microsoft 365 trimite un e-mail pentru a vă anunța. E-mailul pe care îl primiți este o notificare de stare de livrare, cunoscută și ca Mesaj DSN sau salt. Cel mai comun tip se numește raport de nelivrare (NDR), care vă spune că un mesaj nu a fost livrat. Nelivrarea poate fi cauzată de ceva la fel de simplu ca o greșeală de scriere într-o adresă de e-mail. NDR includ un cod de eroare care indică motivul pentru care e-mailul nu a fost livrat, soluții care vă ajută să obțineți e-mailul livrat, un link către mai mult ajutor pe web și detalii tehnice pentru administratori.
 
-Pentru a vedea o listă de NDRs și pentru a afla de ce mesajul nu a fost livrat, consultați [rapoartele de poștă electronică non-livrare în Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Pentru a vedea o listă de NDR-uri și a afla de ce mesajul nu a fost livrat, consultați [Rapoarte de nelivrare prin e-mail în Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

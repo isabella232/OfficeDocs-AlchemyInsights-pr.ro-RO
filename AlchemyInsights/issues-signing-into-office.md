@@ -1,5 +1,5 @@
 ---
-title: Probleme de sign in la Office apps
+title: Probleme la conectarea la aplicațiiOffice
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 3622a3408b25b43090e9414ae5ffcfc2760264ee
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763013"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Probleme de sign in la Office apps
+# <a name="issues-signing-in-to-office-apps"></a>Probleme la conectarea la aplicațiiOffice
 
-Pentru a remedia problemele de conectare cu Office apps, încercaţi următoarele:
+Pentru a remedia problemele de conectare cu aplicațiile Office, încercați următoarele:
 
-- Elimina toate conturile de muncă, cu excepţia cont afectate, utilizând setări Windows > **acces la munca sau scoala**.
-- [Acreditări clar Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând Windows Credential Manager.<br/>
-    **Notă:** Căi de registry pentru Office 2016 s-au schimbat la 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Deschide o aplicaţie Office, selectaţi **fişier** > **cont** > **Semn afară**. Apoi conectaţi-vă folosind un cont de utilizator cu un permis valabil. Pentru informaţii detaliate, consultaţi [conturi în birou](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Pentru Mac, a se vedea [nu se poate conecta la un Office 2016 pentru Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- În cazul în care erorile apare în timp ce conectarea la Office 365 utilizând Office 2013, permite autentificarea moderne pentru biroul clientului.
+- Eliminați toate conturile de lucru, cu excepția contului afectat, utilizând Setări Windows > **la locul de muncă sau la școală**.
+- [Goliți acreditările Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând Windows Credential Manager.<br/>
+    **Notã:** Căile de registry pentru Office 2016 s-au modificat la 16.0. (De exemplu: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Deschideți o aplicație Office, **alegeți** > **Deconectare****cont** > de fișiere . Apoi conectați-vă utilizând un cont de utilizator cu o licență validă. Pentru informații detaliate, consultați [Conturi din Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Pentru Mac, consultați [Nu vă puteți conecta la o aplicație Office 2016 pentru Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Dacă apar erori în timpul conectării la Microsoft 365 utilizând Office 2013, activați autentificarea modernă pentru clientul Office.
 
-Pentru informații suplimentare, consultați:
-- [Vă puteţi conecta la Office 365, Azure sau Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Probleme de conectare în semn-înăuntru după update la Office 2016 construi 16.0.7967 pe Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Îmi pare rău, un alt cont la organizaţie este deja autentificat pe acest computer" din Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Depanarea sign in probleme cu Office moderne autentificare atunci când utilizaţi perimat](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+Pentru mai multe informații, consultați:
+- [Nu vă puteți conecta la Microsoft 365, Azure sau Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+- [Probleme de conexiune în sign in după actualizarea la Office 2016 construi 16.0.7967 pe Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
+- ["Ne pare rău, un alt cont de la organizația dvs.](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+- [Depanarea problemelor de conectare cu autentificarea modernă Office atunci când utilizați ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)

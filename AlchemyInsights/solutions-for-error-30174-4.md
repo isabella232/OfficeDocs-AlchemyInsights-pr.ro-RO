@@ -1,9 +1,9 @@
 ---
-title: Soluţii pentru eroare 30174-4
+title: Soluții pentru eroare30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57701b1a9a8575fe9307912f1e64b07ab2e6a282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501631"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757145"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Cod de eroare 30174-4 atunci când instalaţi Office
+# <a name="error-code-30174-4-when-installing-office"></a>Cod de eroare 30174-4 la instalarea Office
 
-Este posibil să vedeţi această eroare în cazul în care dumneavoastră software anti-virus, firewall, setările proxy, sau conexiune prevent tu de la instalarea Office. Aici sunt unele lucruri pe care puteţi încerca pentru a rezolva problema.
+Este posibil să vedeți această eroare dacă software-ul anti-virus, paravanul de protecție, setările proxy sau conexiunea vă împiedică să instalați Office. Iată câteva lucruri pe care le puteți încerca pentru a remedia problema.
   
-- Utilizaţi o conexiune prin cablu
+- Utilizarea unei conexiuni cu fir
 
-- Dezactivaţi temporar setările proxy
+- Dezactivarea temporară a setărilor proxy
 
-- Dezactivaţi temporar software-ul antivirus
+- Dezactivarea temporară a software-ului antivirus
 
-[Cod de eroare 30174-4 atunci când instalaţi Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Cod de eroare 30174-4 la instalarea Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

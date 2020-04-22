@@ -3,23 +3,23 @@ title: Care este adresa mea de e-mail în Outlook pe web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555641"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768197"
 ---
 # <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Care este adresa mea de e-mail în Outlook pe web?
 
-Adresa ta de email este desemnat de munca sau scoala. Se pare ca ellen@contoso.onmicrosoft.com, ellen@contoso.edu sau ellen@contoso.com. Acest cont de locul de muncă sau şcoală este adresa de e-mail şi contul utilizat pentru a face sign in la Office 365 pentru școală sau.
+Adresa de e-mail vă este atribuită de la locul de muncă sau de școală. Se pare ca ellen@contoso.onmicrosoft.com, ellen@contoso.edu, sau ellen@contoso.com. Acest cont de la locul de muncă sau de la școală este adresa de e-mail și contul pe care le utilizați pentru a vă conecta la Microsoft 365 pentru serviciu sau școală.
 
-Contul dvs de lucru sau scoala este diferit de la contul Microsoft. Utilizaţi contul Microsoft pentru servicii personale precum Outlook.com, Xbox Live, Skype si mai mult.
+Contul de la locul de muncă sau de la școală este diferit de contul Microsoft. Utilizați contul Microsoft pentru servicii personale, ar fi Outlook.com, Xbox Live, Skype și altele.
 
-Pentru informaţii suplimentare, consultaţi [ce este ID-ul meu de utilizator şi de ce am nevoie it pentru Office 365 pentru afaceri?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Pentru mai multe informații, consultați [Ce este ID-ul meu de utilizator și de ce am nevoie de el pentru Microsoft 365 pentru firme?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
