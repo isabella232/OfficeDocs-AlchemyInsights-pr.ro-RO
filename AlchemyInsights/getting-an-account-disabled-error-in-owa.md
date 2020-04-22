@@ -1,9 +1,9 @@
 ---
-title: 123 obtinerea unui cont dezactivat eroare în OWA?
+title: 123 Obținerea unei erori de cont dezactivate în OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523955"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708879"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Noţiuni de bază un cont dezactivat eroare în Outlook pe web?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Obținerea unei erori dezactivate de cont în Outlook pe web?
 
-Dacă tu a lua eroare **s-a dezactivat contul** cu `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` când încercaţi să deschideţi Outlook pe web (cunoscut anterior ca Outlook Web App), dumneavoastră organizarea admin ar putea dezactivat accesul Outlook de pe web. Admin dumneavoastră puteţi rezolva această eroare urmând paşii din subiectul [Activarea sau dezactivarea Outlook Web App pentru o cutie poştală](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Dacă aveți **eroarea Contul dumneavoastră** `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` a fost dezactivat atunci când încercați să deschideți Outlook pe web (cunoscut anterior ca Outlook Web App), este posibil ca administratorul organizației să fi dezactivat accesul la Outlook pe web. Administratorul poate remedia această eroare urmând pașii din subiect [Activați sau dezactivați Outlook Web App pentru o cutie poștală](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).

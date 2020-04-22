@@ -1,9 +1,9 @@
 ---
-title: 9000198 Outlook.com calendar beta
+title: 9000198 Outlook.com Calendar Beta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36821994"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710887"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Noi experiențe calendar venind la Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Experiențe calendar noi care vin la Outlook.com
 
-Noul look aduce cele mai bune modele și learnings din experiența mail în calendar.
+Noul look aduce cele mai bune modele și învățături din experiența Mail în Calendar.
 
-Vă veți bucura de un design modern care reduce aglomerația vizuală și vă oferă modalități mai rapide de a naviga în calendar. Este, de asemenea, mai ușor de a găsi calendare interesante pentru activitățile dumneavoastră preferate-de la emisiuni TV la echipe sportive și evenimente.
+Vă veți bucura de un design modern care reduce dezordinea vizuală și vă oferă modalități mai rapide de a naviga în calendar. De asemenea, este mai ușor să găsiți calendare interesante pentru activitățile preferate, de la emisiuni TV la echipe sportive și evenimente.
 
-Am extins colecția noastră de pictograme eveniment și am actualizat aspectul celor existente-și acum adăugăm automat pictogramele relevante la evenimentele dvs., astfel încât să puteți vedea cu ușurință ce se întâmplă dintr-o privire.
+Am extins colecția noastră de pictograme de evenimente și am actualizat aspectul celor existente , iar acum adăugăm automat pictograme relevante la evenimentele dvs., astfel încât să puteți vedea cu ușurință ce se întâmplă dintr-o privire.
 
-Puteți da feedback cu privire la noile caracteristici prin intermediul [Outlook.com calendar UserVoice canal](https://go.microsoft.com/fwlink/?linkid=2103075).
+Puteți oferi feedback cu privire la noile caracteristici prin intermediul [canalului UserVoice calendar Outlook.com](https://go.microsoft.com/fwlink/?linkid=2103075).

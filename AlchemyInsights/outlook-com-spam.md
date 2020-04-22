@@ -1,9 +1,9 @@
 ---
-title: Dealing cu spam şi junk în Outlook.com
+title: Confruntarea cu spam-ul și junk în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 4fda7a84d8fce49876126392ba09c24d6d697439
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710743"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam şi junk e-mail în Outlook.com
+# <a name="spam-and-junk-email-in-outlookcom"></a>Spam și e-mail nedorit în Outlook.com
 
-Dacă primiţi prea mult junk sau spam-ul, incearca aceste metode:
+Dacă primiți prea multe mesaje nedorite sau spam, încercați aceste metode:
 
-1. **Marca de un e-mail ca nedorite**
-    1. Selectaţi mesajul.
-    1. Selectaţi **Junk** > **Junk** pentru a muta mesajul în folderul Junk E-mail.
-    1. [Aflaţi mai multe despre cum pentru a vă păstra spam şi junk e-mail din inbox.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+1. **Marcarea unui e-mail ca nedorit**
+    1. Selectați mesajul.
+    1. Selectați **Junk** > **Junk** pentru a muta mesajul în folderul E-mail nedorit.
+    1. [Aflați mai multe despre să contribuiți la păstrarea spamului și a e-mailurilor nedorite din inbox.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Butuc un expeditor din inbox**
-    1. Selectaţi mesajul.
-    1. Selectaţi **Junk** > **bloc** > **OK**.
-    1. [Aflaţi mai multe despre cum pentru a bloca sau debloca expeditori.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+1. **Blocarea unui expeditor din inbox**
+    1. Selectați mesajul.
+    1. Selectați**Bloc** >  **nedorit** > **OK**.
+    1. [Aflați mai multe despre să blocați sau să deblocați expeditorii.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Adăuga un expeditor la lista de expeditori**
-    1. Deschideţi [setările de poştă electronică nedorită](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. Sub **expeditori blocat şi domenii**, selectaþi **Adãugaþi**.
-    1. Introduceţi adresa de e-mail sau domeniul pe care doriţi să blocaţi şi apăsaţi Enter.
-    1. Sub **filtre**, alegeţi dacă doriţi să aibă încredere în poştă electronică de la adrese sub expeditori şi domenii şi liste de adrese sigure.
-    1. Selectaţi **Salvare**.
+1. **Adăugarea unui expeditor la lista de expeditori blocați**
+    1. Deschideți [setările de poștă electronică nedorită](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. Sub **Expeditori și domenii blocate**, selectați **Adăugare**.
+    1. Tastați adresa de e-mail sau domeniul pe care doriți să îl blocați și apăsați pe Enter.
+    1. Sub **Filtre**, alegeți dacă doriți să aveți încredere în e-mailul de la adrese le sub Expeditori și domenii sigure și Liste de corespondență sigure.
+    1. Selectați **Salvare**.
 
-1. **Creare regulă inbox**
-    1. Faceţi clic dreapta pe un mesaj în lista de mesaj şi selectaţi **Creare regulă**.
-    1. Selectaţi folderul unde doriţi toate mesajele de la acest expeditor pentru a fi mutat şi selectaţi **OK** > **OK**.
-    1. [Aflaţi mai multe despre regulile de inbox în Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+1. **Crearea unei reguli de inbox**
+    1. Faceți clic cu butonul din dreapta pe un mesaj din lista de mesaje și selectați **Creare regulă**.
+    1. Alegeți folderul în care doriți să fie mutate toate mesajele de la acel expeditor și selectați **OK** > **OK**.
+    1. [Aflați mai multe despre regulile inbox-ului în Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

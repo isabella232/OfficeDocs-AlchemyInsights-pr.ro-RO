@@ -1,9 +1,9 @@
 ---
-title: 125 Noţiuni de bază o eroare invalid a da un permis în Outlook pe web?
+title: 125 Obținerea unei erori de licență nevalide în Outlook pe web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708843"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Noţiuni de bază o eroare invalid a da un permis în Outlook pe web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Obținerea unei erori de licență nevalide în Outlook pe web?
 
-Dacă utilizaţi Outlook de pe web şi veţi obţine o eroare **ceva a mers prost** care conţine **X-OWA-eroare: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licenţă Exchange Online nu este alocat corect sau a recent expirat. Vă admin pot asocia o licenţă să vă urmând aceşti paşi:
+Dacă utilizați Outlook pe web și obțineți o **eroare ceva care conține** **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licența Exchange Online nu este atribuită corect sau a expirat recent. Administratorul vă poate atribui o licență urmând acești pași:
   
-1. Deschideţi [Centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) si la **utilizatori activi**, selectaţi **Editare un utilizator**.
+1. Deschideți centrul de [administrare Microsoft 365](https://portal.office.com/adminportal/home#/homepage) și, sub **Utilizatori activi**, selectați Editare **utilizator**.
 
-2. Din **edita un utilizator** în pagina care se deschide, selectaţi utilizatorul. În pagina de proprietăţi utilizatorului care se deschide, faceţi clic pe **editaţi** licente de **produs**.
+2. În pagina **Editare pagină de utilizator** care se deschide, selectați utilizatorul. În pagina de proprietăți a utilizatorului care se deschide, faceți clic pe **Editare** pentru **licențe de produs**.
 
-3. În pagina de **produs de licenţe** care se deschide, selectaţi valoarea corespunzătoare **locaţie** şi atribuiţi o licenţă care conţine Exchange Online (extinde licenţa pentru a vedea detaliile sale). Când ați terminat, faceți clic pe **Salvați**.
+3. În pagina **Licențe de produs** care se deschide, selectați valoarea **corespunzătoare locație** și atribuiți o licență care conține Exchange Online (extindeți licența pentru a vedea detaliile). Când ați terminat, faceți clic pe **Salvați**.

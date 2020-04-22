@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286671"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706213"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Probleme uzuale și rezoluții pentru ADFS
 
@@ -28,4 +28,4 @@ Configurația domeniului federativ poate fi actualizată așa cum este descris �
 
 - [2647020](https://support.microsoft.com/help/2647020) „Ne pare rău, dar întâmpinăm probleme la conectare” și „80041317” sau „80043431” atunci când un utilizator federativ încearcă să se conecteze la Office 365, Azure sau Intune.
 
-Pentru mai multe informații, consultați [Actualizați sau reparați setările unui domeniu federativ în Office 365, Azure sau Intune](https://docs.microsoft.com/ro-RO/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Pentru mai multe informații, consultați [Actualizați sau reparați setările unui domeniu federativ în Office 365, Azure sau Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

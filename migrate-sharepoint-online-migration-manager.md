@@ -1,9 +1,9 @@
 ---
-title: Migrarea la SharePoint Online prin migrare Manager
+title: Migrarea la SharePoint Online prin intermediul Managerului de Migrare
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964278"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707199"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrarea la SharePoint Online prin migrare Manager
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrarea la SharePoint Online prin intermediul Managerului de Migrare
 
-Situat în centrul modern de administrare SharePoint, managerul de migrare vă ghidează prin configurarea clienților și crearea sarcinilor. Aveți posibilitatea să specificați setările globale sau de nivel de activitate, să vizualizați progresul activității tuturor și să descărcați rapoarte agregate de sinteză și la nivel de activitate.
+Situat în Centrul de Administrare SharePoint modern, Managerul de Migrare vă ghidează prin configurarea clienților și crearea activităților. Aveți posibilitatea să specificați setări globale sau la nivel de activitate, să vizualizați progresul activităților globale și să descărcați rezumatși rapoarte la nivel de activitate agregate.
 
-* [Începeți cu managerul de migrare](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Clienții Setup Manager de migrare](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Setări manager migrare](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Începeți lucrul cu Managerul de Migrare](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Configurarea clienților Managerului de Migrare](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Setări Manager de Migrare](https://docs.microsoft.com/sharepointmigration/mm-settings)

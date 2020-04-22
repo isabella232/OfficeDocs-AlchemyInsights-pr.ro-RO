@@ -1,9 +1,9 @@
 ---
-title: 500 app parole
+title: 500 parole de aplicație
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517799"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707851"
 ---
-# <a name="app-passwords"></a>App parole
+# <a name="app-passwords"></a>Parole de aplicație
 
-O parolă de app este un cod care dă un app sau dispozitiv permisiunea de a accesa activitatea dumneavoastră de Office 365 sau şcoală cont. În cazul în care contul dumneavoastră necesită autentificare multi-factor (MAE), şi aplicaţia se conectează la contul dvs., aveţi nevoie pentru a genera o parolă de app app se poate conecta la Office 365. De exemplu, Outlook 2016 şi versiunile anterioare Outlook de necesită o parolă de app.
+O parolă de aplicație este un cod care oferă unei aplicații sau unui dispozitiv permisiunea de a accesa contul de la locul de muncă sau de la școală Microsoft. Dacă contul necesită autentificare multi-factor (MAE), iar aplicația se conectează la contul dvs., trebuie să generați o parolă de aplicație, astfel încât aplicația să se poată conecta la Microsoft. De exemplu, Outlook 2016 și versiunile anterioare Outlook necesită o parolă de aplicație.
 
- **Notă**: înainte să încercaţi următorii paşi, verifica cu al tău admin Office 365 că Mae este necesară pentru contul dvs. Dacă nu este, opţiunile descrise în paşii nu va fi disponibil pentru tine.
+ **Notă:** Înainte de a încerca următorii pași, verificați cu administratorul Microsoft 365 dacă AMF este necesară pentru contul dvs. Dacă nu este, opțiunile descrise în pași nu vor fi disponibile pentru tine.
 
-1. Faceţi sign in la Office 365 cu munca sau scoala de cont şi parola.
+1. Conectați-vă cu contul de la locul de muncă sau de la școală și cu parola.
 
-2. Alege **înfiinţat acum**.
+2. Alegeți **Configurați-l acum**.
 
-3. Selectaţi metoda de autentificare şi urmaţi instrucţiunile.
+3. Selectați metoda de autentificare și urmați solicitările.
 
-4. Dupa ce se verifica ţi metoda de contact alternativ, alege **următoarea**.
+4. După ce verificați metoda de contact alternativă, alegeți **Următorul**.
 
-5. Vei primi o parola de app care se pot utiliza cu Outlook, Apple Mail şi alte aplicaţii care necesita acest lucru. Alegeţi **copie** pentru a copia parola, astfel încât puteţi să lipiţi-l în altă parte (nu aveţi nevoie să memoreze acesta).
+5. Veți primi o parolă de aplicație pe care o puteți utiliza cu Outlook, Apple Mail și alte aplicații care necesită aceasta. Alegeți **Copiere** pentru a copia parola, astfel încât să o puteți lipi în altă parte (nu trebuie să o memorați).

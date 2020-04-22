@@ -1,9 +1,9 @@
 ---
-title: Verificați starea de sincronizare a identității AAD
+title: Verificarea stării sincronizării identității AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706321"
 ---
-# <a name="check-aad-identity-sync-status"></a>Verificarea stării de sincronizare a identității AAD
+# <a name="check-aad-identity-sync-status"></a>Verificarea stării Sincronizării identității AAD
 
 Verificarea stării sincronizării este simplă:
   
-- Faceți sign in la centrul de administrare Microsoft 365 și alegeți **DirSync Status** pe pagina de pornire.
+- Conectați-vă la centrul de administrare Microsoft 365 și alegeți **Stare DirSync** pe pagina de pornire.
 
-- Alternativ, puteți merge la utilizatorii \> activi utilizatori și pe pagina utilizatori activi, alegeți mai multe \> sincronizare director.
+- Alternativ, aveți posibilitatea să \> accesați Utilizatori activi și, pe \> pagina Utilizatori activi, alegeți Sincronizare mai director.
 
-- În panoul de sincronizare director, alegeți mergeți la DirSync management.
+- În panoul Sincronizare director, alegeți Accesați gestionareA DirSync.
 
-Dacă există o problemă cu sincronizarea directorului, erorile sunt listate pe această pagină. Pentru mai multe informații despre erorile diferite s-ar putea întâlni, consultați [Vizualizarea erorilor de sincronizare director în Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Dacă există o problemă cu sincronizarea directorului, erorile sunt listate pe această pagină. Pentru mai multe informații despre diferitele erori pe care le puteți întâlni, consultați [Vizualizarea erorilor de sincronizare a directorului](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

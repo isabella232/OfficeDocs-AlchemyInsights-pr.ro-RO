@@ -1,9 +1,9 @@
 ---
-title: Alchemy-nu se poate conecta la Outlook.com
+title: Alchimie - Nu pot semna la Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: 6c13c50e66dc8575c5b1803e83b8842c0481511e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6a83e8c1b4076a04492ffb708d485aeddf80da44
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36493963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710311"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Imposibil de făcut sign in la Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>Nu mă pot conecta la Outlook.com
 
-Dacă întâmpinați probleme la conectarea contului dvs., asigurați-vă că contul nu a fost inactiv mai mult de 365 de zile. După 365 de zile de inactivitate, e-mailul va fi șters și nu poate fi recuperat.
+Dacă întâmpinați probleme la conectarea la cont, asigurați-vă că contul nu a fost inactiv de mai mult de 365 de zile. După 365 de zile de inactivitate, e-mailul va fi șters și nu poate fi recuperat.
   
-Este posibil ca contul tău să fie blocat temporar pentru că am observat o activitate de conectare neobișnuită. În cazul în care contul este blocat, citiți să [deblocați contul meu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
+Este posibil ca contul să fie blocat temporar, deoarece am observat o activitate neobișnuită de conectare. Dacă contul este blocat, citiți să [deblocați contul meu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
   
-Dacă bănuiți că contul Outlook.com a fost tocat, consultați [contul meu Outlook.com a fost tocat](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
+Dacă suspectați că contul Outlook.com a fost spart, consultați [Contul meu Outlook.com a fost spart.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)
   
-Dacă v-ați uitat sau ați pierdut parola, puteți [reseta parola](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Dacă ați uitat sau ați pierdut parola, aveți posibilitatea să [resetați parola](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Citiți mai multe despre [când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Citiți mai multe despre [Când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
 

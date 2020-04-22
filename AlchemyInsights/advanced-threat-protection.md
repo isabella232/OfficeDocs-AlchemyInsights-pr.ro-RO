@@ -1,32 +1,32 @@
 ---
-title: Office 365 ameninţare avansate de protecţie
+title: Protecție avansată pentru amenințări Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664512"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710347"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 ameninţare avansate de protecţie
+# <a name="office-365-advanced-threat-protection"></a>Protecție avansată pentru amenințări Office 365
 
-- În condiţii de siguranţă fişiere ataşate, link-uri în condiţii de siguranţă şi anti-phishing sunt parte din Office 365 avansate ameninţare de protecţie (ATP). Intreprindere E5, educaţie A5 şi Microsoft 365 de afaceri includ ATP. Toate alte planuri necesită un abonament de ATP de supliment.
+- Atașările sigure, linkurile sigure și anti-phishing fac parte din Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 și Microsoft 365 Business Premium includ ATP. Toate celelalte planuri necesită un abonament ATP suplimentar.
 
-- Trebuie să atribuiţi licenţe corespunzătoare pentru a proteja utilizatorii de Office 365 ATP. A se vedea [acest subiect](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) pentru instrucţiuni despre cum să vrac se aplică licenţe pentru utilizatori.
+- Trebuie să atribuiți licențele corespunzătoare pentru a vă proteja utilizatorii de Office 365 ATP. Consultați [acest subiect](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) pentru instrucțiuni despre să aplicați în bloc licențe utilizatorilor.
 
-- Office 365 global administratorii sau administratorii de securitate poate accesa caracteristicile Office 365 ATP în & Security Center conformitatea la **Ameninţarea Managmeent** \> **Politica**.
+- Administratorii globali sau administratorii de securitate pot accesa caracteristicile Office 365 ATP în Centrul de conformitate security & la **Politica** **Threat Managmeent** \> .
 
-- Ataşamente în condiţii de siguranţă şi sigur Link politici pot fi dimensionate pentru tine dumneavoastră întreaga organizaţie, anumite domenii sau grupuri mici de utilizatori.
+- Atașările sigure și politicile de legătură sigură vă pot analiza întreaga organizație, anumite domenii sau grupuri mai mici de utilizatori.
 
-- Nu este nici o politica implicită de atasament sigure ATP. Aveţi nevoie pentru a [crea o politică](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) şi se aplică la utilizatorii dvs.
+- Nu există nicio politică implicită atp safe attachment. Trebuie să [creați o politică](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) și să o aplicați utilizatorilor.
 
-- Există o politică implicită de ATP în siguranţă link-uri, care se aplică la toată lumea din organizaţia dvs. Pentru a edita această politică sau pentru a crea politici de particularizate, consultaţi [acest subiect](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Există o politică implicită ATP Safe Links care se aplică tuturor celor din organizația dvs. Pentru a edita această politică sau pentru a crea politici particularizate, consultați [acest subiect](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).

@@ -1,9 +1,9 @@
 ---
-title: Ajuta la intelegerea valorii TVA (TVA)
+title: Contribuiți la înțelegerea taxei pe valoarea adăugată (TVA)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390524"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710131"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Ajuta la intelegerea valorii TVA (TVA)
+# <a name="help-understanding-value-added-tax-vat"></a>Contribuiți la înțelegerea taxei pe valoarea adăugată (TVA)
 
-Dacă sunteţi într-o ţară care utilizează valoare TVA (TVA), cum ar fi Regatul Unit, Microsoft Invoicing calculează TVA-ul pentru tine, şi se aplică valoarea facturilor tale.
+Dacă vă aflați într-o țară care utilizează taxa pe valoarea adăugată (TVA), ar fi Regatul Unit, Facturarea Microsoft calculează TVA-ul pentru dvs., și aplică suma facturilor.
   
-Din motive de taxe, trebuie să specificaţi numărul dumneavoastră de înregistrare TVA în setările pentru facturare.
+Din motive fiscale, trebuie să specificați și numărul de înregistrare TVA în setările pentru facturare.
   
-Nu adăugaţi sau eliminaţi TVA, dar puteţi schimba implicit TVA în Setări. În mod implicit, facturare utilizează un serviciu pentru a valida numere de înregistrare TVA, dar vă recomandăm să citiţi [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) , publicat de Comisia Europeană. Dacă alegeţi să dezactivaţi serviciul, trebuie să verificaţi dacă toate numerele de înregistrare TVA.
+Nu aveți posibilitatea să adăugați sau să eliminați cote de TVA, dar aveți posibilitatea să modificați cota implicită de TVA din Setări. În mod implicit, Facturarea utilizează un serviciu pentru a valida numerele de înregistrare în scopuri de TVA, dar vă recomandăm să citiți [exonerarea](https://go.microsoft.com/fwlink/?LinkID=841741) de răspundere VIES publicată de Comisia Europeană. Dacă alegeți să dezactivați serviciul, trebuie să verificați toate numerele de înregistrare TVA.

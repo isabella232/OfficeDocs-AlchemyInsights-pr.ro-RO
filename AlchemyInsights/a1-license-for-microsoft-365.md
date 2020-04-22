@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530434"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687414"
 ---
 # <a name="a1-license-for-microsoft-365"></a>Licență A1 pentru Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530434"
 
 - Dacă instituția dvs. nu a configurat încă Microsoft 365 Education, dar doriți să adăugați Office 365 gratuit, puteți [începe](https://www.microsoft.com/education/products/office) furnizându-vă e-mailul. 
 
-- Dacă doriți să **comutați** de la un plan academic diferit la planul A1, consultați [Comutarea la alt plan](https://docs.microsoft.com/ro-RO/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Dacă doriți să **comutați** de la un plan academic diferit la planul A1, consultați [Comutarea la alt plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Pentru a atribui utilizatori planului A1, consultați [Atribuirea de licențe utilizatorilor](https://docs.microsoft.com/ro-RO/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Pentru a atribui utilizatori planului A1, consultați [Atribuirea de licențe utilizatorilor](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Important**: poate fi necesar să așteptați până la 24 de ore pentru ca modificările să se aplice. 
 

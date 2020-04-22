@@ -1,9 +1,9 @@
 ---
-title: 1491-Search-not-returning-expected-results
+title: 1491-căutare-nu-returnare-așteptat-rezultate
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 094da9d75013aae56ca219b7ae03e85736ce5ee0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709239"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Căutare conţinutul nu returna rezultatele aşteptate
+# <a name="content-search-not-returning-expected-results"></a>Căutare conținut nu returnează rezultatele așteptate
 
-Atunci când rulează conţinut căutări din Office 365 securitate & centru de conformitate, puteţi primi rezultate neaşteptate. Luaţi în considerare următoarele lucruri care pot afecta rezultatele căutării:
+Atunci când executați căutări de conținut din Centrul de securitate Microsoft 365 & conformitate, este posibil să primiți rezultate neașteptate de căutare. Luați în considerare următoarele lucruri care pot afecta rezultatele căutării:
 
-- **Locaţii de conţinut şi condiţiile de căutare**: Asiguraţi-vă că aţi selectat locatiile conţinut adecvat şi condiţii de căutare. Dacă aţi rulat o căutaţi mare (cu mai multe locaţii), ia în considerare o diviza în mai multe căutări.
+- **Locații de conținut și condiții de căutare**: Asigurați-vă că ați selectat locațiile corespunzătoare ale conținutului și condițiile de căutare. Dacă ați efectuat o căutare amplă (cu multe locații), luați în considerare împărțirea acesteia în mai multe căutări.
 
-- **Parţial indexat articole**: [parţial indexate elementele](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) din cutiile poştale sunt incluse în rezultatele de căutare estimată. Cu toate acestea, parţial indexate elemente din site-urile SharePoint și OneDrive nu sunt incluse în estimarea de căutare.
+- **Elemente parțial indexate:** [Elementele parțial indexate](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) din cutiile poștale sunt incluse în rezultatele căutării estimate. Cu toate acestea, elementele parțial indexate de pe site-uri din SharePoint și OneDrive nu sunt incluse în estimarea de căutare.
 
-- **Eşecuri de căutare**: atunci când caută un număr mare de cutii poştale (peste 100.000 poştale), este posibil să primiţi erori de căutare, cu codurile de eroare, cum ar fi CS008-009 si CS012-002). În acest caz, încercaţi din nou căutare doar pentru locatii de conţinut nu a reuşit. A se vedea [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informaţii.
+- **Erori de căutare**: Când căutați un număr mare de cutii poștale (peste 100.000 de cutii poștale), este posibil să obțineți erori de căutare, cu coduri de eroare, ar fi CS008-009 și CS012-002). În acest caz, încercați din nou căutarea numai pentru locațiile de conținut nereușite. Consultați [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informații.

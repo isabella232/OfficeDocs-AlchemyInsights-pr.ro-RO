@@ -1,5 +1,5 @@
 ---
-title: Conversia unei cutii poştale utilizatorii la o cutie poştală partajată
+title: Conversia unei cutii poștale pentru utilizatori la o cutie poștală partajată
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665304"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705565"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Conversia o cutie poştală de utilizator la o cutie poştală partajată
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Conversia unei cutii poștale de utilizator la o cutie poștală partajată
 
-Când convertiți un utilizator individual Office 365 cutii poştale într-o cutie poştală partajată, toate e-mail existente şi elementele de calendar sunt păstrate într-o cutie poştală partajată, unde mai multe persoane pot avea acces. Puteţi converti, de asemenea, o cutie poştală partajată înapoi la o cutie poştală de utilizator (privat).
+Când efectuați conversia cutiei poștale a unui utilizator individual într-o cutie poștală partajată, toate elementele de e-mail și calendar existente sunt păstrate într-o cutie poștală partajată unde pot accesa mai multe persoane. De asemenea, aveți posibilitatea să efectuați conversia unei cutii poștale partajate înapoi la o cutie poștală de utilizator (privată).
   
-Pentru informaţii suplimentare, consultaţi [conversia o cutie poştală de utilizator la o cutie poştală partajată](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
+Pentru mai multe informații, consultați [Conversia unei cutii poștale de utilizator la o cutie poștală partajată](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
   

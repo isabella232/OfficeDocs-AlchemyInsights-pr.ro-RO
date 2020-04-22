@@ -12,12 +12,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
+ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709599"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>se adaugă sau se reduce licențele
 
@@ -39,7 +39,7 @@ Pentru informații despre atribuirea licențelor, consultați [Atribuirea licen�
 
  **Resurse**
   
-- [Gestionarea licențelor de abonament - cumpărați sau eliminați](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
+- [Gestionarea licențelor de abonament - cumpărați sau eliminați](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 - [Revocarea Office 365 pentru firme](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 

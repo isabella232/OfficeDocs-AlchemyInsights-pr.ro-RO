@@ -1,5 +1,5 @@
 ---
-title: Adăugarea de utilizatori externi
+title: Adăugarea utilizatorilor externi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f735bafec1e23d5f539295cf63aabf583681e208
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766687"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709023"
 ---
-# <a name="adding-external-users"></a>Adăugarea de utilizatori externi
+# <a name="adding-external-users"></a>Adăugarea utilizatorilor externi
 
-Pașii pentru adăugarea de utilizatori externi/oaspeți pot fi diferiți în funcție de ceea ce aveți nevoie pentru a putea accesa. Vă rugăm să alegeți una dintre următoarele variante:
+Pașii pentru adăugarea utilizatorilor externi/invitați pot fi diferiți în funcție de ceea ce aveți nevoie pentru a putea accesa. Alegeți una dintre următoarele variante:
   
 - [Prezentare generală a partajării externe SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Acces clienți în grupuri Office 365](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Accesul oaspeților în grupurile Office 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Acces clienți în Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Acces invitat în Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
