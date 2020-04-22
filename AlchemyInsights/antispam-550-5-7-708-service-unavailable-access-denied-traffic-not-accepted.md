@@ -1,9 +1,9 @@
 ---
-title: 1047 antiSpam 550 5.7.708 Serviciu indisponibil. Acces refuzat, trafic nu sunt acceptate la acest IP
+title: 1047 AntiSpam 550 5.7.708 Serviciu indisponibil. Acces refuzat, trafic neacceptat din acest IP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505123"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707887"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="6627f-103">5.7.708 550 access denied, trafic nu acceptat de la acest IP</span><span class="sxs-lookup"><span data-stu-id="6627f-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="8bf4c-103">550 5.7.708 Acces refuzat, trafic neacceptat din acest IP</span><span class="sxs-lookup"><span data-stu-id="8bf4c-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="6627f-104">Această eroare apare atunci când trimiterea e-mail la cunoscut, low reputaţia adresele IP, care sunt de obicei utilizate de noi clienţi.</span><span class="sxs-lookup"><span data-stu-id="6627f-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="8bf4c-104">Această eroare apare atunci când trimiteți e-mailuri de la adrese IP cunoscute, reputație scăzută, care sunt de obicei utilizate de clienți noi.</span><span class="sxs-lookup"><span data-stu-id="8bf4c-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="6627f-105">Dacă trebuie să trimiteţi e-mail la aceste adrese IP înainte puteţi achiziţiona licenţe, contactaţi asistenţa pentru a solicita o excepţie până când veţi fi capabil de a achiziţiona licenţe.</span><span class="sxs-lookup"><span data-stu-id="6627f-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="8bf4c-105">Dacă trebuie să trimiteți e-mailuri de la aceste adrese IP înainte de a putea achiziționa licențe, contactați asistența pentru a solicita o excepție până când puteți achiziționa licențe.</span><span class="sxs-lookup"><span data-stu-id="8bf4c-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>

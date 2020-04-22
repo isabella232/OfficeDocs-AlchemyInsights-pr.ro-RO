@@ -1,5 +1,5 @@
 ---
-title: Conversia unei cutii poştale utilizatorii la o cutie poştală partajată
+title: Conversia unei cutii poștale pentru utilizatori la o cutie poștală partajată
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665304"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705565"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="1c42a-102">Conversia o cutie poştală de utilizator la o cutie poştală partajată</span><span class="sxs-lookup"><span data-stu-id="1c42a-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="d7d3d-102">Conversia unei cutii poștale de utilizator la o cutie poștală partajată</span><span class="sxs-lookup"><span data-stu-id="d7d3d-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="1c42a-103">Când convertiți un utilizator individual Office 365 cutii poştale într-o cutie poştală partajată, toate e-mail existente şi elementele de calendar sunt păstrate într-o cutie poştală partajată, unde mai multe persoane pot avea acces.</span><span class="sxs-lookup"><span data-stu-id="1c42a-103">When you convert an individual user's Office 365 mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="1c42a-104">Puteţi converti, de asemenea, o cutie poştală partajată înapoi la o cutie poştală de utilizator (privat).</span><span class="sxs-lookup"><span data-stu-id="1c42a-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="d7d3d-103">Când efectuați conversia cutiei poștale a unui utilizator individual într-o cutie poștală partajată, toate elementele de e-mail și calendar existente sunt păstrate într-o cutie poștală partajată unde pot accesa mai multe persoane.</span><span class="sxs-lookup"><span data-stu-id="d7d3d-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="d7d3d-104">De asemenea, aveți posibilitatea să efectuați conversia unei cutii poștale partajate înapoi la o cutie poștală de utilizator (privată).</span><span class="sxs-lookup"><span data-stu-id="d7d3d-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="1c42a-105">Pentru informaţii suplimentare, consultaţi [conversia o cutie poştală de utilizator la o cutie poştală partajată](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="1c42a-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="d7d3d-105">Pentru mai multe informații, consultați [Conversia unei cutii poștale de utilizator la o cutie poștală partajată](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="d7d3d-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   

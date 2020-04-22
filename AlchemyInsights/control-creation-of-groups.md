@@ -1,9 +1,9 @@
 ---
-title: Crearea de control al grupurilor
+title: Crearea de control a grupurilor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705637"
 ---
-# <a name="control-creation-of-office-365-groups"></a><span data-ttu-id="baebc-102">Controlul crearea grupurilor Office 365</span><span class="sxs-lookup"><span data-stu-id="baebc-102">Control creation of Office 365 groups</span></span>
+# <a name="control-creation-of-office-365-groups"></a><span data-ttu-id="12d69-102">Crearea de control a grupurilor Office 365</span><span class="sxs-lookup"><span data-stu-id="12d69-102">Control creation of Office 365 groups</span></span>
 
-<span data-ttu-id="baebc-103">În mod implicit, toţi utilizatorii din cadrul companiei sunt capabile să creeze grupuri.</span><span class="sxs-lookup"><span data-stu-id="baebc-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="baebc-104">Dacă este necesar, sunteţi în stare să schimbe acest lucru, şi atribui dreptul de a crea grupuri de la un set de oameni în compania dumneavoastră.</span><span class="sxs-lookup"><span data-stu-id="baebc-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="baebc-105">Reţineţi că acest lucru va avea impact asupra crearea de grupuri de orice serviciu de Office 365 (cum ar fi Outlook, echipe, planificator şi aşa mai departe).</span><span class="sxs-lookup"><span data-stu-id="baebc-105">Note that this will have impact on creation of groups from any Office 365 service (such as Outlook, Teams, Planner and so on).</span></span>
+<span data-ttu-id="12d69-103">În mod implicit, toți utilizatorii din cadrul companiei pot crea grupuri.</span><span class="sxs-lookup"><span data-stu-id="12d69-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="12d69-104">Dacă este necesar, aveți posibilitatea să modificați acest lucru și să atribuiți dreptul de a crea grupuri unui set de persoane din cadrul companiei dvs.</span><span class="sxs-lookup"><span data-stu-id="12d69-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="12d69-105">Rețineți că acest lucru va avea impact asupra creării de grupuri din orice serviciu Microsoft 365 (cum ar fi Outlook, Teams, Planner și așa mai departe).</span><span class="sxs-lookup"><span data-stu-id="12d69-105">Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).</span></span>
   
-<span data-ttu-id="baebc-106">Instrucţiuni: [administrare care poate crea grupuri de 365 birou](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="baebc-106">Instructions: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="12d69-106">Instrucțiuni: [Gestionarea persoanelor care pot crea grupuri Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="12d69-106">Instructions: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
