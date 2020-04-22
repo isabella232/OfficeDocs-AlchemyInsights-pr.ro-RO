@@ -3,7 +3,7 @@ title: 8000086 Outlook.com Inserare imagine
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,21 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: ee8e98e602930ee9846009254d1735102df56838
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4634560610367ac665f1c502d054687490bddd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546423"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760136"
 ---
-# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Introduceţi imaginile într-un e-mail mesaj sau calendar eveniment
+# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Inserarea imaginilor într-un mesaj de e-mail sau într-un eveniment de calendar
 
-Aveţi posibilitatea să inseraţi fotografii, GIF-uri, sau clipart la computer sau OneDrive ca imaginile inline în mesajele de email Outlook.com, evenimente din calendar, sau în semnătură e-mail.
+Aveți posibilitatea să inserați fotografii, gif-uri sau miniaturi de pe computer sau OneDrive ca imagini inline în mesajele de e-mail Outlook.com, în evenimentele din calendar sau din semnătura de e-mail.
 
-1. Inceput de compuneţi un mesaj sau de a crea un calendar de evenimente.
-2. Selectaţi pictograma **introduceţi imaginile inline** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> în partea de jos a ferestrei de scriere mesaj (lângă pictograma **ataşaţi** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />).
-3. Selectaţi imaginea pe care doriţi să inseraţi şi selectaţi **Open**.
-4. Trageţi colţuri pentru a redimensiona imaginea.
-5. Faceţi clic dreapta pe imagine pentru a vedea opţiunile de formatare.
+1. Începeți să compuneți un mesaj sau să creați un eveniment calendar.
+2. Selectați pictograma **Inserare imagini în linie** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> în partea de jos a ferestrei de compunere (lângă pictograma **Atașare** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />).
+3. Alegeți imaginea pe care doriți să o inserați și selectați **Deschidere**.
+4. Glisați colțurile pentru a redimensiona imaginea.
+5. Faceți clic cu butonul din dreapta pe imagine pentru a vedea opțiunile de formatare.
 
-Citeşte mai multe despre modul de [Ataşare](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)a fişierelor în Outlook.com.
+Citiți mai multe despre se [atașează fișierele din Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).

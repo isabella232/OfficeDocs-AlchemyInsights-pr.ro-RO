@@ -1,9 +1,9 @@
 ---
-title: Cum pentru a verifica contul Outlook.com
+title: să vă verificați contul Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511524"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743429"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Cum pentru a verifica contul Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>să vă verificați contul Outlook.com
 
-În două etape de verificare ajută la a vă proteja de ceea ce face mai dificil pentru altcineva să faceţi sign in la contul de Microsoft. Acesta utilizează două forme diferite de identitate: parola, si o metoda de contact (cunoscut şi sub numele Informašii de securitate).
+Verificarea în doi pași vă protejează, făcând mai dificilă conectarea altei persoane la contul Microsoft. Acesta utilizează două forme diferite de identitate: parola și o metodă de contact (cunoscută și ca informații de securitate).
   
-La rândul său, în două etape de verificare sau dezactiva:
+Pentru a activa sau a dezactiva verificarea în doi pași:
   
-1. Du-te la [pagina de bază de securitate](https://go.microsoft.com/fwlink/?linkid=842325) şi faceţi sign in cu contul Microsoft.
-2. Selectaţi **mai multe opţiuni de securitate**.
-3. La **două etape de verificare**, selectaţi **înfiinţat două etape de verificare** şi urmaţi instrucţiunile.
+1. Accesați [pagina Noțiuni de bază despre securitate](https://go.microsoft.com/fwlink/?linkid=842325) și conectați-vă cu contul Microsoft.
+2. Selectați **Mai multe opțiuni de securitate**.
+3. Sub **Verificare în doi pași**, selectați Configurați verificarea în doi **pași** și urmați instrucțiunile.
 
-Dacă activarea verificării în două etape, veţi avea nevoie întotdeauna două forme de identificare. Dacă vă veţi pierde dumneavoastră metoda de contact, parola singur nu va primi înapoi în contul dumneavoastră - şi vă poate dura 30 de zile pentru a recâştiga acces.
+Dacă activați verificarea în doi pași, veți avea întotdeauna nevoie de două forme de identificare. Dacă pierdeți metoda de contact, numai parola nu vă va readuce în cont - și vă poate lua 30 de zile pentru a redobândi accesul.
   
-Aflaţi mai multe despre [Verificarea în două etape](https://go.microsoft.com/fwlink/?linkid=872270).
+Aflați mai multe despre [verificarea în doi pași](https://go.microsoft.com/fwlink/?linkid=872270).
   

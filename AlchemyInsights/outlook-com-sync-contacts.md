@@ -1,9 +1,9 @@
 ---
-title: Sincronizezi contactele în Outlook.com
+title: Sincronizarea persoanelor de contact în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511787"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722280"
 ---
-# <a name="sync-contacts"></a>Sincronizezi contactele
+# <a name="sync-contacts"></a>Sincronizarea persoanelor de contact
 
-Outlook sincronizează contactele create în [oameni](https://outlook.live.com/people/) peste alte dispozitive şi aplicaţii, cum ar fi Outlook pentru Android şi Outlook pentru iOS. Aflaţi cum pentru a [crea contacte](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Outlook sincronizează persoanele de contact pe care le creați în [Persoane](https://outlook.live.com/people/) pe alte dispozitive și aplicații, ar fi Outlook pentru Android și Outlook pentru iOS. Aflați să [creați persoane de contact](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-Nu sunt sincronizate contactele importate (de exemplu, contactele din alt cont de e-mail care v-aţi conectat la contul Outlook.com). Aflaţi cum de a [importa contactele](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
+Persoanele de contact importate (de exemplu, persoanele de contact dintr-un alt cont de e-mail pe care l-ați conectat la contul Outlook.com) nu sunt sincronizate. Aflați să [importați persoane de contact](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).

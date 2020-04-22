@@ -1,25 +1,25 @@
 ---
-title: Întârzierea vărsămintelor cutie poştală
+title: Întârziere a furnizării cutiei poștale
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762689"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Cutie poştală de utilizator dumneavoastră este în curs de înfiinţare
+# <a name="your-users-mailbox-is-being-created"></a>Cutia poștală a utilizatorului este creată
 
-Aceasta poate dura până la o oră înainte de o nouă cutie poştală este gata de utilizare.
+Poate dura până la o oră înainte ca o nouă cutie poștală să fie gata de utilizare.
   
-În cazul în care cutia poştală a unui utilizator a fost "pregatirea" pentru mai mult de o oră, puteţi încerca ştergerea şi apoi re-crearea de utilizator, sau utilizaţi opţiunea "să ne te sun" să vorbesc cu un inginer de suport.
+Dacă cutia poștală a unui utilizator a fost "pregătirea" pentru mai mult de o oră, puteți încerca ștergerea și apoi re-crearea utilizatorului, sau utilizați opțiunea "Să te sun" pentru a vorbi cu un inginer de asistență.
   
 

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com actualizări
+title: actualizări Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511319"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719352"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com actualizări
+# <a name="outlookcom-updates"></a>actualizări Outlook.com
 
-**Cele mai recente actualizări**
+**Ultimele actualizări**
 
-- Obţineţi mai mult de e-mail cu noi Outlook.com. Ne-am simplificat de căutare pentru a face mai uşor decât oricând pentru a găsi ceea ce căutaţi. Noi caracteristici cum ar fi fotografii şi ataşament previews permite să vedeţi fotografii și fișiere fără plecare al tău inbox. Şi acum puteţi adăuga emojis şi GIF-uri la mesajele dvs.  [Afla mai multe despre noi Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Obțineți mai multe din e-mail cu noul Outlook.com. Am simplificat căutarea pentru a facilita ca niciodată găsirea a ceea ce căutați. Noile caracteristici, ar fi Fotografii și previzualizările de atașamente, vă permit să vedeți imaginile și fișierele fără a părăsi inboxul. Și acum puteți adăuga emoticonuri și GIF-uri la mesajele dvs.  [Aflați mai multe despre noul Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **Actualizări de e-mail**
 
-- În cazul în care cutia poştală Outlook.com nu este actualizarea, vedea [probleme de sincronizare email Fix Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Dacă cutia poștală Outlook.com nu se actualizează, consultați [Remedierea problemelor de sincronizare a Outlook.com de poștă electronică](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,5 +1,5 @@
 ---
-title: 'Amânarea echipelor upgrade '
+title: 'Amânați upgrade-ul echipelor '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626756"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758874"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>se amână upgrade-ul echipelor conduse de Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>se amână upgrade-ul Echipe bazate pe Microsoft
 
-Dacă ați primit comunicare despre un upgrade automat condus de Microsoft de la Skype pentru afaceri la Microsoft teams și doriți să amânați upgrade-ul automat la o dată ulterioară, Office 365 global admin se poate conecta la [portalul echipelor de administrare](https://admin.teams.microsoft.com/dashboard) și selectați butonul **amânați** . Pentru a vedea noua dată pentru upgrade-ul automat al chiriașului la Microsoft teams, reîmprospătați pagina portal de administrare echipe.
+Dacă ați primit o comunicare despre un upgrade automat bazat pe Microsoft de la Skype for Business la Microsoft Teams și doriți să amânați upgrade-ul automat la o dată ulterioară, administratorul global se poate conecta la [portalul Administrator teams](https://admin.teams.microsoft.com/dashboard) și selecta butonul **Amânare.** Pentru a vedea noua dată pentru upgrade-ul automat al entității găzduite la Microsoft Teams, reîmprospătați pagina portal Ului de administrator i e Teams.
 
-**Notă:** Butonul **amânare** va fi disponibil numai dacă ați primit notificarea centrului de mesaje cu privire la actualizarea automată. 
+**Notã:** Butonul **Amânare** va fi disponibil numai dacă ați primit notificarea centrului de mesaje cu privire la upgrade-ul automat. 
 
-Office 365 global Admins poate executa, de asemenea, [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) pentru a afla mai multe despre starea lor de upgrade curent. 
+Administratorii globali pot rula, de asemenea, [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) pentru a afla mai multe despre starea lor curentă de upgrade. 

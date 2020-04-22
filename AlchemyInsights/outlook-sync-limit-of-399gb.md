@@ -3,7 +3,7 @@ title: Limita de sincronizare Outlook de 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 8a31e9bfd325b395f142d0b34c927bdd97370a0d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7258056215713b5e6840f9d732f6b386db74574e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743249"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Bara de stare sincronizare Outlook rămâne la 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Bara de stare a sincronizării Outlook rămâne la 3,99 GO
 
-Încercaţi să reduceţi dimensiunea conţinutului folderului sau pentru a crea un filtru de sincronizare pentru mari dosare la sau aproape de 4 GB.
+Încercați să reduceți dimensiunea conținutului folderului sau să creați un filtru de sincronizare pentru foldere mari la sau lângă 4 GO.
 
-Vedea Status bar progresului nu arată mai mult 3,99 GB rămas iniţială [sincronizare de mare de dosare pentru mai multe informaţii](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Consultați Progresul barei de stare nu afișează niciodată mai mult de 3,99 GB rămași la sincronizarea inițială [a folderelor mari pentru mai multe informații](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).

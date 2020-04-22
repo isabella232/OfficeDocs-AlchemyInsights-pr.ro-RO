@@ -1,9 +1,9 @@
 ---
-title: Încercarea de a găsi un proces?
+title: Încerci să găsești un proces?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732342"
 ---
-# <a name="trying-to-find-a-trial"></a>Încercarea de a găsi un proces?
+# <a name="trying-to-find-a-trial"></a>Încerci să găsești un proces?
 
-Dacă doriţi să încercaţi un nou serviciu, puteţi găsi lista de abonamente disponibile pentru a fi judecaţi în centrul de administrare Microsoft 365.
+Dacă doriți să încercați un serviciu nou, puteți găsi o listă de abonamente disponibile pentru încercare în centrul de administrare Microsoft 365.
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [achiziţionare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. În centrul de administrare, accesați pagina [Servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare.** \>
 
-2. Selectaţi abonament care să răspundă nevoilor dumneavoastră, şi apoi selectaţi **lua drum liber proces**.
+2. Selectați abonamentul care corespunde nevoilor dvs., apoi selectați **Obțineți o versiune de încercare gratuită**.
 
     > [!NOTE]
-    > Nu toate abonamentele sunt disponibile ca un proces. Dacă nu vedeţi butonul **lua drum liber proces** atunci când mouse-ul peste un abonament, înseamnă că un proces nu este disponibil.
+    > Nu toate abonamentele sunt disponibile ca o încercare. Dacă nu vedeți butonul **Obțineți versiunea de încercare gratuită** atunci când treceți cu mouse-ul peste un abonament, aceasta înseamnă că nu este disponibilă o versiune de încercare.
   
-3. Vi se poate cere să introduceţi un card de credit sau alte metode de plată pentru a oferi suplimentar de verificare ca o măsură de securitate. Tu nu va fi taxat pentru acest drum liber proces. Noi va păstra informaţiile dumneavoastră de plată pe dosar, şi nu se va folosi pentru orice cumpărare fără aprobarea ta.
+3. Este posibil să vi se solicite să introduceți un card de credit sau o altă metodă de plată pentru a furniza o verificare suplimentară ca măsură de securitate. Nu vei fi taxat pentru această încercare gratuită. Vom păstra informațiile de plată la dosar și nu le vom utiliza pentru nicio achiziție fără aprobarea dvs.
 
-4. Alege **încercaţi acum**.
+4. Alegeți **Încercați acum**.

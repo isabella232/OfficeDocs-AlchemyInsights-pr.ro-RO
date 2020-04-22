@@ -1,8 +1,8 @@
 ---
-title: Întrebări legate de birou 2019
+title: Întrebări legate de Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719815"
 ---
 # <a name="about-office-2019"></a>Despre Office 2019
 
-Birou 2019 este pentru clienţii care nu sunt încă gata pentru nor sau au o nevoie specifică local sau hibrid biroul implementare. Acesta include un subset semnificativ de caracteristici care au fost deja adăugat la Office 365 în ultimii trei ani, dar nu face parte din Office 365.
+Office 2019 este pentru clienții care nu sunt încă pregătiți pentru cloud sau au o nevoie specifică de implementare Office locală sau hibridă. Acesta include un subset semnificativ de caracteristici care au fost deja adăugate la Microsoft 365 în ultimii trei ani, dar nu face parte din Microsoft 365.
   
-Office 365 ProPlus, conectat la cloud versiunea de Office, oferă cele mai productive şi cele mai sigure Office experienţă. Acesta oferă acces la o suită de servicii dincolo de ceea ce au versiuni locale şi primeşte noi caracteristică actualizări în mod regulat.
+Microsoft 365 Apps for enterprise, versiunea office conectată în cloud, oferă cea mai productivă și mai sigură experiență Office. Acesta oferă acces la o suită de servicii dincolo de ceea ce au versiunile locale și primește noi actualizări de caracteristici în mod continuu.
   
-Deci, dacă aveţi Office apps spaţiul de lucru ca o parte din abonament Office 365 aveţi deja cea mai recentă versiune de Office.
+Prin clic, dacă aveți aplicațiile desktop Office ca parte a abonamentului Microsoft 365, aveți deja cea mai recentă versiune de Office.
   
-Pentru informații suplimentare, consultați:
+Pentru mai multe informații, consultați:
   
-[Birou 2019 comerciale pentru Windows şi Mac întrebări frecvente](https://support.microsoft.com/help/4133312)
+[Office 2019 Comerciale pentru Windows și Mac întrebări frecvente](https://support.microsoft.com/help/4133312)
   
-[Număr de versiune majoră de birou 2019 este stau la 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Numărul principal de versiune de Office 2019 este sejurului la 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Denumire an în Office 2016 și Office 365 aplicații client vor fi eliminate din intrări de meniu Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Denumirea anului în aplicațiile client Office 2016 și Microsoft 365 vor fi eliminate din intrările de meniu Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

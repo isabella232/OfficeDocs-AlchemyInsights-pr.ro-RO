@@ -1,9 +1,9 @@
 ---
-title: 1374 rezolva două cutii poștale Howto
+title: 1374 Rezolvarea a două cutii poștale ghid
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37026606"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722542"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Un utilizator are două cutii poștale
 
-Mediile hibride care utilizează Azure Active Directory Connect (AAD Connect) sau DirSync pot determina accidental un utilizator să aibă două cutii poștale: unul local și unul în cloud. O cutie poștală duplicat poate fi creată în oricare loc.
+Medii hibride care utilizează Azure Active Directory Connect (AAD Connect) sau DirSync poate provoca accidental un utilizator să aibă două cutii poștale: una locală și una în cloud. O cutie poștală dublată poate fi creată în ambele locuri.
 
-Pentru a rezolva această problemă, consultați [se recuperează atunci când există o cutie poștală în ambele Exchange Online și local](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Dacă doriți să aflați mai multe despre să evitați să se întâmple acest lucru în viitor, consultați [utilizatorul meu are o cutie poștală atât local și în Exchange Online. Ajutor!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)
+Pentru a rezolva această problemă, consultați [Cum se recuperează atunci când există o cutie poștală atât în Exchange Online, cât și local](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Dacă doriți să aflați mai multe despre să evitați ca acest lucru să se întâmple în viitor, consultați [Utilizatorul meu are o cutie poștală atât local, cât și în Exchange Online. Ajutor, ajutor!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)

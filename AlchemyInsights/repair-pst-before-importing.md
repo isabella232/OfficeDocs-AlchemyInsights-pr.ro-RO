@@ -1,9 +1,9 @@
 ---
-title: Fişier .pst de reparaţii înainte de import
+title: Reparare fișier .pst înainte de a importa
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720149"
 ---
-# <a name="repair-pst-file-before-importing"></a>Fişier .pst de reparaţii înainte de import
+# <a name="repair-pst-file-before-importing"></a>Reparare fișier .pst înainte de a importa
 
-Înainte când importaţi un fişier .pst în Outlook, verificaţi dacă fişierul nu este corupt de repararea fişierului:
+Înainte de a importa un fișier .pst în Outlook, verificați fișierul nu este deteriorat prin repararea fișierului:
 
 1. Ieșiți din Outlook.
 
-2. Găsi şi a alerga `Scanpst.exe` în folderul programul Office (C:\Program Files (x86) \Microsoft Office\root\Office\<versiunea\> sau C:\Program Files\Microsoft Office\root\Office\<traducere\>).
+2. Găsiți `Scanpst.exe` și executați în folderul de programe Office (C:\Program Files\<(x86)\Microsoft Office\root\Office Version\> sau C:\Program Files\Microsoft Office\root\Office\<Version\>).
 
-3. În **Instrumentul de reparare Inbox Microsoft Outlook**, faceţi clic pe **Răsfoire** pentru a găsi fişierul .pst (de exemplu, în C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Selectaţi fişierul .pst şi apoi faceţi clic pe **Deschidere**.
+3. În **instrumentul De reparare Inbox Microsoft Outlook**, faceți clic pe **Răsfoire** \\ pentru\>a găsi fișierul .pst (de exemplu, în C:\Users<nume de utilizator \AppData\Local\Microsoft\Outlook). Selectați fișierul .pst, apoi faceți clic pe **Deschidere**.
 
-4. Faceţi clic pe **Start** pentru a începe scanarea.
+4. Faceți clic pe **Start** pentru a începe scanarea.
 
-5. În cazul în care sunt descoperite erori în fişier, faceţi clic pe **Reparare**, şi apoi faceţi clic pe **OK** când reparaţii este completă.
+5. Dacă se găsesc erori în fișier, faceți clic pe **Reparare**, apoi faceți clic pe **OK** când se termină reparația.
 
-6. Încercaţi din nou importul fişierului .pst în Outlook.
+6. Încercați să importați fișierul .pst în Outlook din nou.
 
-Pentru informaţii suplimentare, consultaţi [fişierele de date Outlook de reparare](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) şi [rezolva problemele importul unui fișier .pst Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Pentru mai multe informații, consultați [Repararea fișierelor de date Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) și [Remedierea problemelor cu importul unui fișier .pst Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

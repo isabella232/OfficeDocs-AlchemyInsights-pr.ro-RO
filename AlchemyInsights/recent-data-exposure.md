@@ -1,9 +1,9 @@
 ---
-title: Expunerea recentă a datelor
+title: Expunerea recentă la date
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/12/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: d6017c9b71f34856d2d3823a960798dc1dcf8280
-ms.sourcegitcommit: ad6ae646d8b99f3c3b864ba3adb093970e8e8393
+ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41989954"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724926"
 ---
-# <a name="recent-data-exposure"></a>Expunerea recentă a datelor
+# <a name="recent-data-exposure"></a>Expunerea recentă la date
 
-Microsoft a fost informat de către un cercetător terț că o bază de date care găzduiește date de asistență Microsoft redactate era accesibilă fără autentificare. Pe 31 decembrie 2019, Microsoft a asigurat baza de date.
+Microsoft a fost informat de către un cercetător terț că o bază de date care găzduiește date de asistență Microsoft redactate a fost accesibilă fără autentificare. Pe 31 decembrie 2019, Microsoft a securizat baza de date.
 
-Ne angajăm să păstrăm viața privată și securitatea clienților noștri și luăm măsuri pentru a preveni apariția viitoare a acestei probleme. Am început notificările către clienții ale căror date au fost prezente în această bază de date redactată. Pentru mai multe informații, accesați [Informații despre vizibilitatea clientului referitoare la o expunere recentă a informațiilor.](https://aka.ms/privacyinfo)
+Ne angajăm să confidențialitatea și securitatea clienților noștri și luăm măsuri pentru a preveni apariția viitoare a acestei probleme. Am început notificările către clienții ale căror date au fost prezente în această bază de date redactată. Pentru mai multe informații, accesați [Informații de sensibilizare a clientului referitoare la o expunere recentă la informații.](https://aka.ms/privacyinfo)

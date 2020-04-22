@@ -1,9 +1,9 @@
 ---
-title: Cum-la spre--nk2-fişierele de import
+title: să-import-nk2-fișiere
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770258"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759344"
 ---
-# <a name="how-to-import-nk2-files"></a>Cum de a importa fişiere de .nk2 
+# <a name="how-to-import-nk2-files"></a>se importă fișiere .nk2 
 
-Când porniţi Microsoft Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Office 365 pentru prima dată, vă cache de porecle (stocate în fişierul de .nk2 *profilename*) sunt importate într-un mesaj ascuns în magazinul de mesaj implicită.
+Când porniți Microsoft Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Microsoft 365 pentru prima dată, memoria cache de porecle (stocate în fișierul *profil*.nk2) este importat într-un mesaj ascuns în depozitul de mesaje implicit.
 
-Pentru a importa .nk2 fişiere în Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Office 365, asiguraţi-vă că fişierul .nk2 în următorul folder: %appdata%\Microsoft\Outlook
+Pentru a importa fișiere .nk2 în Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Microsoft 365, asigurați-vă că fișierul .nk2 este în următorul folder: %appdata%\Microsoft\Outlook
 
-**Notă**: fişierul .nk2 trebuie să aibă același nume ca profilul curent de Outlook 2013 sau Outlook 2016. În mod implicit, numele profilului este "Outlook." Pentru a verifica numele profilului, urmaţi aceşti paşi: 
-1. Faceţi clic pe **Start**, şi apoi faceţi clic pe **Control Panel**.
-2. Faceţi dublu clic pe **corespondenţă**.
-3. În caseta de dialog Configurare poştă, selectaţi **Arată profile**.
-4. Selectaţi **Start** > **alerga**.
-5. În **Deschidere** cutie, tip *outlook.exe /importnk2*, şi apoi selectaţi **OK**. 
+**notițe:** Fișierul .nk2 trebuie să aibă același nume ca profilul Outlook 2013 sau Outlook 2016 curent. În mod implicit, numele de profil este "Outlook". Pentru a verifica numele profilului, urmați acești pași: 
+1. Faceți clic pe **Start**, apoi pe **Panou de control**.
+2. Faceți dublu clic pe **Mail**.
+3. În caseta de dialog Configurare corespondență, selectați **Afișare profiluri**.
+4. Selectați **Pornire** > **executare**.
+5. În caseta **Deschidere,** tastați *outlook.exe /importnk2*, apoi selectați **OK**. 
 
-După ce importaţi fişierul .nk2, conţinutul fişierului sunt Unite în memoria cache de porecle existente, stocate în cutia poştală.
+După ce importați fișierul .nk2, conținutul fișierului sunt îmbinate în memoria cache de porecle existente stocate în cutia poștală.
 
-**Notă**: fişierul .nk2 este redenumit cu extensia de nume de fişier .old data viitoare când porniţi Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Office 365. Dacă doriţi să reimportat fişierul .nk2, eliminaţi extensia de nume de fişier .old în primul rând.
+**Notă:** Fișierul .nk2 este redenumit cu o extensie de nume de fișier .old la următoarea pornire Outlook 2013, Outlook 2016, Outlook 2019 sau Outlook pentru Microsoft 365. Dacă doriți să importați din nou fișierul .nk2, eliminați mai întâi extensia de nume de fișier .old.
 
-Pentru informaţii suplimentare, consultaţi [importul sau copie listă Completare automată la un alt calculator](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Pentru mai multe informații, consultați [Importul sau copierea Listei de completare automată pe alt computer](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

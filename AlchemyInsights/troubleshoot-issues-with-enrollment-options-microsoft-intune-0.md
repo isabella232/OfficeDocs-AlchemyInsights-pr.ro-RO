@@ -1,9 +1,9 @@
 ---
-title: Depanarea problemelor cu opţiuni de înscriere Microsoft Intune
+title: Depanarea problemelor cu opțiunile de înscriere Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506743"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43735204"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Depanarea problemelor cu opţiuni de înscriere Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Depanarea problemelor cu opțiunile de înscriere Microsoft Intune
 
-Consultaţi resurse enumerate mai jos pentru a rezolva problema acum.
+Examinați resursele enumerate mai jos pentru a rezolva problema acum.
   
-- [Revizuire Intune TechNet pentru a găsi răspunsuri şi soluţii la problemele comune](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Revizuirea Intune TechNet pentru a găsi răspunsuri și soluții la problemele comune](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
 
-- Utilizaţi [Intune depanare Portal](https://aka.ms/intunetroubleshooting) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii.
+- Utilizați [Intune Depanare portal](https://aka.ms/intunetroubleshooting) pentru a diagnostica și rezolva erorile de înscriere comune. Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii.
 
-- Consultaţi [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare.
+- Examinați [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea și rezolvările pentru fiecare.
 
-- [Aflaţi despre opţiunile de înscriere în Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Aflați mai multe despre opțiunile de înscriere în Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).

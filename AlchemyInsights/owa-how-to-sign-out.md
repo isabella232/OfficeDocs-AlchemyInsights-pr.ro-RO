@@ -1,9 +1,9 @@
 ---
-title: Cum să semneze din Outlook pe web
+title: să vă deconectați de la Outlook pe web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556685"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742961"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Cum să semneze din Outlook pe web
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>să vă deconectați de la Outlook pe web
 
-Pentru a semna din Outlook pe web, selectaţi numele sau poza la colţul din dreapta şi selectaţi **deconectaţi-vă**.
+Pentru a vă deconecta de la Outlook pe web, selectați numele sau imaginea din colțul din dreapta sus și selectați **Deconectare**.
 
-Pentru a opri automat sign in la contul de muncă sau şcoală:
+Pentru a opri conectarea automată la contul de la locul de muncă sau la școală:
 
-1. Selectaţi numele tau sau o imagine şi selectaţi **deconectaţi-vă**.
-1. Du-te la [Outlook.office.com](https://outlook.office.com/) şi selectaţi **utilizaţi un alt cont**.
-1. Faceţi sign in cu adresa de e-mail pe care doriţi să utilizaţi.
+1. Selectați numele sau imaginea și selectați **Deconectare**.
+1. Accesați [Outlook.office.com](https://outlook.office.com/) și selectați **Utilizați un alt cont**.
+1. Conectați-vă cu adresa de e-mail pe care doriți să o utilizați.
 
-Pentru mai multe informaţii, a se vedea [cum să vă conectaţi la sau din Outlook de pe web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Pentru a afla mai multe, consultați [Cum să vă conectați sau să ieșiți din Outlook pe web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

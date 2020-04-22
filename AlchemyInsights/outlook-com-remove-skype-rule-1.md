@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Remove Skype
+title: Outlook.com Eliminare Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535115"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743825"
 ---
-# <a name="skype-icon-missing"></a>Skype icoana lipseşte
+# <a name="skype-icon-missing"></a>Pictograma Skype lipsește
 
-Ne-am scos temporar pictograma Skype din Outlook.com ca parte a o actualizare de reîmprospătare şi caracteristică de design suntem încântaţi să fie de rulare. Vă mulţumim pentru răbdarea dumneavoastră, în timp ce ne pregătim o experienţă nouă şi îmbunătăţită pentru tine.
+Am eliminat temporar pictograma Skype din Outlook.com ca parte a unei reîmprospătări a designului și a unei actualizări a caracteristicilor pe care suntem încântați să o lansăm. Apreciem răbdarea dumneavoastră în timp ce pregătim o experiență nouă și îmbunătățită pentru dvs.
 
-Puteţi utiliza în continuare Skype prin intermediul browser-ul la [web.skype.com](https://web.skype.com/).
+Puteți utiliza skype prin browser la [web.skype.com](https://web.skype.com/).

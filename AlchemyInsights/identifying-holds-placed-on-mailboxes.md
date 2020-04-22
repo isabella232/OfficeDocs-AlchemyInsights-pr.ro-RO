@@ -1,9 +1,9 @@
 ---
-title: Identificarea deţine plasate pe cutiile poştale
+title: Identificarea deține plasate pe cutiile poștale
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724788"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identifica deţine plasate pe cutiile poştale
+# <a name="identify-holds-placed-on-mailboxes"></a>Identificarea căilor plasate în cutiile poștale
 
-Ai Office 365 de conţinut, care se **păstrează** o **deţine** că nu se poate identifica? Nevoia de a **afla** unde se află Cala pe cutia **poştală** ? Deţine (*retenţie caracteristici*) pot fi aplicate de către una dintre următoarele metode în Office 365:
+Aveți conținut Microsoft 365 care este **reținut** de o **reținere** pe care nu o puteți identifica? Trebuie să **aflați** unde se află reținerea în **cutia poștală** ? Deține *(caracteristici de retenție)* pot fi aplicate prin una dintre următoarele metode:
   
 - Litigiu
 
-- Ţineţi eDiscovery
+- eDiscovery țineți
 
-- Ţineţi în loc
+- Hold pe loc
 
-- Politică de retenție Office 365 
+- Politica de conservare Microsoft 365 
 
-  - Strategiile de conservare locaţie specifică
+  - Politici specifice de păstrare a locației
 
-  - Strategiile de conservare la nivel de organizaţie
+  - Politici de conservare la nivelul întregii organizații
 
-- Etichete Office 365
+- Etichete Microsoft 365
 
-Pentru a identifica ce tip de aşteptare este aplicat pe cutia poştală a unui utilizator, a se vedea [cum să identifice tipul de organiza plasate pe o cutie poştală Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Pentru a identifica ce tip de reținere se aplică cutiei poștale a unui utilizator, consultați [Cum se identifică tipul de reținere plasat pe o cutie poștală Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

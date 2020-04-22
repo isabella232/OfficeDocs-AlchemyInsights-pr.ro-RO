@@ -1,28 +1,28 @@
 ---
-title: Outlook.com schimba aspectul cutiei poştale
+title: Outlook.com modifica aspectul cutiei poștale
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547703"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721990"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Schimba aspectul cutiei poştale Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Modificarea aspectului cutiei poștale Outlook.com
 
-Puteţi schimba aspectul din lista mesaj, panoul de citire în Outlook.com.
+Aveți posibilitatea să modificați aspectul listei de mesaje și al panoului de citire în Outlook.com.
 
-- Pentru a modifica aspectul ferestrei de mesaj, deschide opţiunile de [panoul de citire](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Pentru a modifica cum e-mailul este sortat, la partea de sus a lista de mesaje, selectaţi **filtrul** > **sortează** şi alegeţi modul de sortare e-mailul.
-- Pentru a Grupa mesajelor după conversație, deschide opţiunile de [mesaj organizaţiei](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Pentru a activa concentrat Inbox on sau off, deschideţi opţiuni de [aspect](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Pentru a modifica aspectul ferestrei mesajului, deschideți opțiunile [panoului Citire.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Pentru a modifica modul de sortare a e-mailului, în partea de sus a listei de mesaje, selectați**Sortare** **după filtrare** > și alegeți modul în care doriți să sortați e-mailul.
+- Pentru a grupa mesajele după conversație, deschideți opțiunile [de organizație Mesaj.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Pentru a activa sau a dezactiva Inboxul focalizat, deschideți opțiunile [Aspect.](https://outlook.live.com/mail/options/mail/layout/focused)

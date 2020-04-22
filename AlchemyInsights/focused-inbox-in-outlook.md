@@ -1,9 +1,9 @@
 ---
-title: 1800019 concentrat cutia poştală în Outlook
+title: 1800019 Inbox concentrat în Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524567"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719933"
 ---
-# <a name="focused-inbox-in-outlook"></a>Concentrat cutia poştală în Outlook
+# <a name="focused-inbox-in-outlook"></a>Inbox focalizat în Outlook
 
-Orientarea Inbox separă inbox în două File-orientarea şi alte. Mesajele cele mai importante sunt în fila orientarea în timp ce restul rămâne accesibilă — dar din drum — pe fila alte.
+Inboxul focalizat separă inboxul în două file- Focalizate și Altele. Cele mai importante mesaje se află în fila Focalizate, în timp ce restul rămân ușor accesibile, dar din drum, în fila Altele.
   
 [Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook pe web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 pentru Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail pentru Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-află mai multe:
+Aflați mai multe:
   
-- [Vedea Inbox concentrat în acţiune](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Consultați Inboxconcentrat în acțiune](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Configuraţi concentrat Inbox pentru toată lumea din organizaţia dumneavoastră cu PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Configurarea Inbox-ului concentrat pentru toată lumea din organizația dvs.](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

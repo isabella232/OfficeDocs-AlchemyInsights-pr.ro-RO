@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP şi SMTP setări în Outlook pe web
+title: Setări POP, IMAP și SMTP în Outlook pe web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721147"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP setări pentru Outlook de pe web
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>SETĂRI POP, IMAP & SMTP pentru Outlook pe web
 
-Dacă doriţi să adăugaţi contul Office 365 la un alt app de corespondenţă care acceptă POP sau IMAP, SMTP, aici sunt setările de manual server veţi avea nevoie de:
+Dacă doriți să adăugați contul Microsoft 365 la o altă aplicație de e-mail care acceptă POP, IMAP sau SMTP, iată setările manuale ale serverului de care veți avea nevoie:
   
-- **Nume de server IMAP:** outlook.office365.com
-- **IMAP portul:** 993
-- **Metoda de criptare IMAP:** SSL/TLS
-- **Nume de server POP:** outlook.office365.com  
-- **POP port:** 995  
-- **Metoda de criptare POP:** SSL/TLS  
-- **Numele serverului SMTP:** smtp.office365.com
+- **Nume server IMAP:** outlook.office365.com
+- **Port IMAP:** 993
+- **Metoda de criptare IMAP:** SSL/TLS (În)
+- **Pop nume server:** outlook.office365.com  
+- **Port POP:** 995  
+- **Metoda de criptare POP:** SSL/TLS (În)  
+- **Nume server SMTP:** smtp.office365.com
 - **Portul SMTP:** 587
-- **Metoda de criptare SMTP:** STARTTLS
+- **Metoda de criptare SMTP:** Starttls

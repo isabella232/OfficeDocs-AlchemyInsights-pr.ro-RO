@@ -1,9 +1,9 @@
 ---
-title: Depanarea problemelor cu inscrierea dispozitive Android în Microsoft Intune
+title: Depanarea problemelor legate de înscrierea dispozitivelor Android în Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500083"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759632"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Depanarea problemelor cu inscrierea dispozitive Android în Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Depanarea problemelor legate de înscrierea dispozitivelor Android în Microsoft Intune
 
-Consultaţi resurse enumerate mai jos pentru a rezolva problema acum.
+Examinați resursele enumerate mai jos pentru a rezolva problema acum.
   
-Unele probleme comune şi rezoluţie paşi:
+Unele probleme comune și etape de rezolvare:
   
- **Aparat nu criptate eroare în compania Portal:** Versiunile mai noi de Android, în special începând cu v7.0, cere o parola de startup pentru a vă asigura că dispozitivul este complet criptat. Soluţiile comune sunt pentru a activa un cod pin startup sau cripta complet dispozitivul. Revizuirea [acestui document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) , pentru mai multe informaţii.
+ **Dispozitiv nu criptate eroare în companie Portal:** Versiunile mai noi de Android, în special începând cu v7.0, necesită un cod de acces la pornire pentru a vă asigura că dispozitivul este complet criptat. Soluțiile comune sunt pentru a activa un pin de pornire sau pentru a cripta complet dispozitivul. Examinați [acest document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) pentru mai multe informații.
   
- **Dispozitive nu verifica cu serviciul Intune sau afişa ca "Nesanatoase" în consola de administrare Intune:** Unele 4.4 Samsung şi 5,5 dispozitive pot verifica în service. Există 3 posibile soluţii la această problemă:
+ **Dispozitivele nu reușesc să se consulte cu serviciul Intune sau afișați ca "Nesănătoase" în consola de administrare Intune:** Este posibil ca unele dispozitive Samsung 4.4 și 5.5 să nu se verifice în serviciu. Există 3 soluții posibile la această problemă:
   
-1. Manual deschide aplicaţia Portal de compania Intune, care va iniţia automat o sincronizare dispozitiv.
+1. Deschideți manual aplicația Intune Company Portal, care va iniția automat o sincronizare a dispozitivului.
 
-2. Actualizați dispozitivul Android 6.0 sau mai mare.
+2. Actualizați dispozitivul la Android 6.0 sau mai recent.
 
-3. Dezactivaţi Samsung Smart Manager la gestionarea Intune compania Portal. Revizuirea [acestui document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , pentru mai multe detalii despre aceste probleme şi rezoluţii.
+3. Dezactivați Samsung Smart Manager de la gestionarea Portalului companiei Intune. Revizuiți [acest document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) pentru detalii suplimentare cu privire la aceste probleme și rezolvări.
 
- **User a da un permis tip nevalid** sau **User nume nu a fost recunoscut eroarea:** utilizatorul trebuie să li se atribuie o licenţă Intune sau EMS. Examina aceste documente pentru a atribui o licenţă prin: centrul de administrare Office sau Azure portal.
+ **Tip de licență utilizator Invalid** sau **Nume utilizator Nerecunoscut eroare:** Utilizatorului trebuie să i se atribuie o licență Intune sau EMS. Examinați aceste documente pentru a atribui o licență prin: Office Admin Center sau portalazure.
   
-Resurse suplimentare pentru a rezolva problema:
+Resurse suplimentare pentru a ajuta la rezolvarea problemei:
   
-1. Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii.
+1. Utilizați [Intune Depanare portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica și rezolva erorile de înscriere comune. Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii.
 
-2. Consultaţi [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare.
+2. Examinați [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea și rezolvările pentru fiecare.
 
-3. [Aflaţi cum să înscrie dispozitive Android în Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Aflați să înscrieți dispozitive Android în Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

@@ -1,9 +1,9 @@
 ---
-title: 1800014 lua în app suport pentru Outlook mobile app
+title: 1800014 Obțineți asistență în aplicație pentru aplicația mobilă Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42fcbe6f0e5433a60149a2b58b232e2ab895d7aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524243"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759090"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Obţine în app suport pentru Outlook mobile app
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Obțineți asistență în aplicație pentru aplicația mobilă Outlook
 
-1. În Outlook mobile app, deschide **meniul**.
+1. În aplicația mobilă Outlook, deschideți **meniul**.
 
-2. Selectaţi semnul de întrebare pentru a deschide **Ajutor &amp; feedback-ul** ecran.
+2. Selectați semnul de întrebare pentru a deschide ecranul **Feedback ajutor. &amp; **
 
-3. Atingeți **Contactul suport** şi să explice problema.
+3. AtingeȚi **Contactați Asistența** și explicați problema.
 
-4. Robinet **trimite** şi veţi primi o notificare în app atunci când un agent de suport contactele pe care.
+4. Atinge **Trimite** ți și vei primi o notificare în aplicație atunci când un agent de asistență te contactează.
 
-Pentru instrucţiuni detaliate, consultaţi [în app ajutor pentru Outlook pentru iOS si Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
+Pentru instrucțiuni detaliate, consultați [Obțineți ajutor în aplicație pentru Outlook pentru iOS și Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).

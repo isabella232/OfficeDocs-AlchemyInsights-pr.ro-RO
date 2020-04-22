@@ -1,38 +1,38 @@
 ---
-title: Mesaje de e-mail de alertă 2491 la politica Phish livrate din cauza locatarul sau utilizatorul suprascrie
+title: 2491 Mesaje de poștă electronică de alertă din politica "Phish livrate din cauza chiriaș sau user suprascrie" politica
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391468"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758942"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Mesaje de alertă e-mail la politica Phish livrate din cauza locatarul sau utilizatorul suprascrie
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alertați mesajele de e-mail din politica "Phish livrate din cauza entității găzduite sau a utilizatorului suprascrie"
 
-O politică de alertă implicit numit "Phish pronunţată din cauza locatarul sau utilizatorul suprascrie" a fost rulat pentru a chiriaşilor cu Office 365 de ATP P1 şi P2 licenţe. În cazul în care aţi primit această avertizare, aici sunt paşii pentru a investiga:
+O politică de alertă implicită denumită "Phish livrate din cauza entității găzduite sau a înlocuirii utilizatorilor" a fost lansată pentru entitățile găzduite cu licențe Office 365 ATP P1 și P2. Dacă ați primit această alertă, iată pașii de investigare:
 
-1. Din mesajul de alertă, faceţi clic pe **Vezi alertă** pentru a merge la pagina **alerte** în securitate & centru de conformitate.
+1. Din mesajul de avertizare, faceți clic pe **Vizualizare avertizare** pentru a accesați pagina **Alerte** din Centrul de securitate & conformitate.
 
-2. Selectaþi Alertaþi pentru a vedea opţiunea de a **lista de mesaje Vezi** sau **vizualizarea mesajelor în Explorer**. Ambele aceste opţiuni vă duce la detaliile mesajului, care include identitate de mesaj. Reţineţi că link-ul de ameninţare Explorer automat va filtra mesajele care se potrivesc criteriilor de alertă. Trebuie să se adapteze filtru dată în ameninţare Explorer.
+2. Selectați alerta pentru a vedea opțiunea de vizualizare listă **de mesaje** sau Vizualizare mesaje **în Explorer**. Ambele opțiuni vă duc la detaliile mesajului, care include ID-ul mesajului. Rețineți că linkul Explorator amenințări va filtra automat mesajele care corespund criteriilor de alertă. Poate fi necesar să ajustați filtrul de dată în Exploratorul de amenințări.
 
-Mesaj de înşelăciune a fost livrat din cauza o suprascrie configurat manual:
+Mesajul de phishing a fost livrat din cauza unei înlocuiri configurate manual:
 
-- Un permis expeditorului sau domeniu stabilit de utilizator.
+- Un expeditor sau un domeniu autorizat setat de utilizator.
 
-- Un permis expeditorului sau domeniu de admin în o politică anti-spam.
+- Un expeditor sau un domeniu autorizat setat de administrator într-o politică anti-spam.
 
-- O adresă IP permise într-o politică de filtru de conexiune.
+- O adresă IP permisă într-o politică de filtrare a conexiunii.
 
-- Mail fluxul de regulă (de asemenea cunoscut ca o regulă de transport) care este configurat pentru a permite mesajelor în.
+- O regulă de flux de corespondență (cunoscută și ca regulă de transport) care este configurată pentru a permite mesajele.
 
-Dacă credeţi că mesajul a fost marcat incorect ca phish, utilizaţi Outlook [program de completare raport mesaj](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) să prezinte probe mesaj către Microsoft.
+Dacă credeți că mesajul a fost marcat incorect ca phish, utilizați [programul de completare Mesaj raport](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) Outlook pentru a remite mostre de mesaj la Microsoft.

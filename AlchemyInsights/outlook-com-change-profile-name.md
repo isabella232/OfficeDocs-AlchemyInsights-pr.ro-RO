@@ -1,9 +1,9 @@
 ---
-title: Schimbați-vă numele profilului în Outlook.com
+title: Modificarea numelui profilului în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6f90968c23674274f4f516572828fe7a52c7818c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546732"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760676"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Schimbați-vă numele profilului în Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Modificarea numelui profilului în Outlook.com
 
-1. Accesați [informațiile despre contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Selectează **editează numele**.
-3. Introduceți un prenume și un nume de familie și selectați **Salvare**.
+1. Accesați [informațiile contului Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Selectați **Editare nume**.
+3. Introduceþi un prenume ºi un nume ºi selectaþi **Memoraþi**.
 
-Vă rugăm să permiteți până la 24 de ore pentru ca modificările numelui profilului să intre în vigoare.
+Vă rugăm să permiteți până la 24 de ore pentru ca modificările numelui de profil să intre în vigoare.

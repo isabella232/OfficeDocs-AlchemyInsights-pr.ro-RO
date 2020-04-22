@@ -1,34 +1,34 @@
 ---
-title: Depanare Office 365 ameninţare avansate de protecţie
+title: Depanarea protecției complexe pentru amenințări Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732414"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Depanare Office 365 ameninţare avansate de protecţie
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Depanarea protecției complexe pentru amenințări Office 365
 
-- Observaţi întârzieri în livrarea mesajului? Utilizaţi opţiunea de [Livrare dinamic](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) în polita de ATP ataşamente în condiţii de siguranţă. Acest lucru va ajuta la evitarea mesaj întârzieri în timp ce protejarea destinatari din fisiere malware.
+- Observați întârzieri în livrarea mesajelor? Utilizați opțiunea [Livrare dinamică](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) din politica atp privind atașările sigure. Acest lucru va ajuta la evitarea întârzierilor mesajelor, protejând în același timp destinatarii de fișierele rău intenționate.
 
-- Doriţi să raport fals pozitive sau fals negative la Microsoft? Utilizaţi acest [link](https://www.microsoft.com/wdsi/filesubmission/) pentru a remite fişierelor pentru analiză.
+- Raportați fals pozitive sau negative false la Microsoft? Utilizați acest [link](https://www.microsoft.com/wdsi/filesubmission/) pentru a remite fișiere pentru analiză.
 
-- Ştiaţi că aveţi posibilitatea să activaţi link-uri în condiţii de siguranţă de protecţie pentru e-mail intern între beneficiari în cadrul organizaţiei dumneavoastră? Urmaţi aceşti paşi:
+- Știați că puteți activa protecția linkurilor sigure pentru e-mailul intern trimis între destinatarii din cadrul organizației dvs.? Urmați acești pași:
 
-  1. Du-te la [https://protection.office.com](https://protection.office.com) şi conectaţi-vă cu un global administrator sau contul de administrator de securitate.
+  1. Accesați [https://protection.office.com](https://protection.office.com) și conectați-vă cu un administrator global sau un cont de administrator de securitate.
 
-  2. În panoul de navigare stânga sub **ameninţarea management**, selectaţi **Politica** \> **Link-uri în condiţii de siguranţă**.
+  2. În panoul de navigare din stânga, sub **Gestionare amenințări**, **alegeți Politică** \> **legături sigure**.
 
-  3. În secţiunea **politicile care se aplică la întreaga organizaţie** , selectaţi politica şi faceţi clic pe **Editare**.
+  3. În **secțiunea Politici care se aplică întregii organizații,** selectați politica și faceți clic pe **Editare**.
 
-  4. Sub **Setări**, activaţi **se aplică în condiţii de siguranţă link-uri la mesajele trimise în cadrul organizaţiei**.
+  4. Sub **Setări**, **activați Se aplică linkuri sigure la mesajele trimise în cadrul organizației**.

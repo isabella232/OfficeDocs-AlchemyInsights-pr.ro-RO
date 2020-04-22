@@ -1,9 +1,9 @@
 ---
-title: 8000031 nu se poate şterge fotografii din fişiere
+title: 8000031 Imposibil de șters fotografiidin fișiere
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731520"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Imposibil de șters fotografii din fişiere
+# <a name="unable-to-delete-photos-from-files"></a>Imposibil de șters fotografiile din fișiere
 
-Pentru a şterge fotografii din fişiere în Outlook.com:
+Pentru a șterge fotografiile din Fișiere în Outlook.com:
   
-1. Du-te la folderul **Inbox** sau **Elemente trimise** şi ştergeţi mesajul de e-mail au atașat.
+1. Accesați folderul **Inbox** sau **Elemente trimise** și ștergeți mesajul de e-mail la care sunt atașate.
 
-2. Eliminaţi elementul sau elementele din **elemente şterse**.
+2. Eliminați elementele din **elementele șterse**.
 
-Pentru mai multe informaţii, citiţi [Cum pentru a şterge fişiere sau fotografii în Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Pentru mai multe informații, citiți [Cum se șterg fișiere sau fotografii în Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   
