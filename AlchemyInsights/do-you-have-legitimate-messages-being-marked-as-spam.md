@@ -2,7 +2,7 @@
 title: Aveți mesaje legitime marcate ca spam?
 ms.author: pebaum
 author: pebaum
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: c70374055d650e5673c1110bcf7b8b8b9ceaff66
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 36fcf736aaba26a4762c724ff4037ac315e500b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740405"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714962"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Aveți mesaje legitime marcate ca spam?
 
-Încercați diagnosticul de mai sus sau încercați acest [ghid pas cu pas pentru depanarea marcării mesajelor bune ca spam în Office 365](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Încercați diagnosticul de mai sus sau încercați acest [ghid pas cu pas pentru depanarea marcarea mesajelor bune ca spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
 Cea mai bună metodă de a raporta aceste tipuri de probleme este să:
   

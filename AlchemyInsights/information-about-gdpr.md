@@ -1,8 +1,8 @@
 ---
-title: Informaţii despre GDPR
+title: Informații despre RGPD
 ms.author: pebaum
 author: pebaum
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 5d65ee9d648360c47f400ed2935c118086e8e0c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13b8371f8e8c4afa54f7b33eadbf2f42db6b5eca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711103"
 ---
-# <a name="information-about-gdpr"></a>Informaţii despre GDPR
+# <a name="information-about-gdpr"></a>Informații despre RGPD
 
-- Începeţi cu [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Introducere în [Portalul de încredere în servicii.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-- Pentru nimic legat de **Acord de prelucrare a datelor** (DPA), recenzie:
+- Pentru orice legătură cu **Acordul de prelucrare a datelor** (DPA), revizuiți:
 
-  - [Resurse de protectia datelor](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [Resurse de protecție a datelor](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Rapoarte de audit](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informaţii cu privire la **Cererile de subiectul datelor** (DSR) - descoperi, accesa, corecta, limita, şterge, export este [aici.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informații despre **solicitările persoanelor vizate** (DSR) - descoperi, acces, rectificare, restricționare, ștergere, export este [aici.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informaţii privind **Notificarea de încălcarea date** este [aici.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informații privind **notificarea încălcării datelor** sunt [aici.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Informaţii despre **locaţii de date** este [aici.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Informații despre **locațiile de date** sunt [aici.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)

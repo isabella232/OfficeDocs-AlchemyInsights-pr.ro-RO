@@ -3,7 +3,7 @@ title: DlP regulă pentru SUA / Marea Britanie Pașaport Numărul nu funcționea
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 534e258c31a9a71c618765511487487c53f455b5
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 9d9615eccd1e245bf4ca32742bfc64321dd7a8cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714998"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme cu DLP - SUA / Marea Britanie numerede pașaport
 
-**Important:** În timpul acestor momente fără precedent, luăm măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân foarte disponibile - vizitați [Ajustări le caracteristică temporară SharePoint Online](https://aka.ms/ODSPAdjustments) pentru mai multe informații.
+**Important**: în timpul acestor vremuri fără precedent, vom lua măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân extrem de disponibile. Vizitați [Ajustări temporare de caracteristici SharePoint Online](https://aka.ms/ODSPAdjustments) pentru mai multe informații.
 
 **DLP probleme cu SUA / Marea Britanie numerede pașaport**
 

@@ -1,9 +1,9 @@
 ---
-title: Anularea abonament Office 365?
+title: Revocați abonamentul Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520319"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711499"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Anularea abonament Office 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Revocați abonamentul Microsoft 365?
 
-Ne pare rău pentru a vedea tu du-te, dar aici sunt opţiunile pentru a anula abonamentul:
+Ne pare rău să te văd du-te, dar aici sunt opțiunile pentru a anula abonamentul:
   
-- **Pe baza datelor organizaţiei, credem că toate abonamentele curent sunt abonamente de proces. Nu este nevoie de a anula în mod explicit un abonament Trial pentru abonamente de proces necesită nici o plată, şi nu există nici o obligaţie după proces se termină.**
+- **Pe baza datelor organizației dvs., credem că toate abonamentele curente sunt abonamente de încercare. Nu este necesar să anulați în mod explicit un abonament de încercare, deoarece abonamentele de încercare nu necesită plăți și nu există nicio obligație după încheierea versiunii de încercare.**
 
-- Pentru a afla mai multe despre anularea unui abonament, sau pentru instrucţiuni pas cu pas, consultaţi acest articol: [anula abonamentul](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Pentru a afla mai multe despre anularea unui abonament sau pentru instrucțiuni pas cu pas, consultați acest articol: [Anularea abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

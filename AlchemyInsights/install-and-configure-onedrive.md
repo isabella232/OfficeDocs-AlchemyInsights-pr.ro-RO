@@ -1,29 +1,29 @@
 ---
-title: Instalaţi şi să configuraţi OneDrive
+title: Instalarea și configurarea OneDrive
 ms.author: matteva
 author: pebaum
-ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "844"
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: becdd4dc3be4dbeb87ceff3700f60019873bef2d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499003"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710995"
 ---
-# <a name="install-and-configure-onedrive"></a>Instalaţi şi să configuraţi OneDrive
+# <a name="install-and-configure-onedrive"></a>Instalarea și configurarea OneDrive
 
-Clientul de sincronizare OneDrive este pre-instalat cu Windows 10. Pentru a instala OneDrive pentru Windows 7 sau Mac, sau pentru a obţine app mobil pentru telefon sau tabletă, du-te la [http://onedrive.com/download](http://onedrive.com/download).
+Clientul de sincronizare OneDrive este preinstalat cu Windows 10. Pentru a instala OneDrive pentru Windows 7 sau Mac sau pentru a [https://onedrive.com/download](https://onedrive.com/download)obține aplicația mobilă pentru telefon sau tabletă, accesați .
   
-Pentru a configura clientul de sincronizare OneDrive în Windows, consultaţi:
+Pentru a configura clientul de sincronizare OneDrive în Windows, consultați:
   
-- [Configurați computerul să sincronizeze dumneavoastră OneDrive pentru afaceri fişiere în Office 365](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Configurarea computerului pentru a sincroniza fișierele OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Sincronizarea fișierelor SharePoint cu noul client de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)

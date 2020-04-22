@@ -1,34 +1,34 @@
 ---
-title: ATP pentru SharePoint, OneDrive şi Microsoft echipe
+title: ATP pentru SharePoint, OneDrive și Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765322"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712470"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pentru SharePoint, OneDrive şi Microsoft echipe
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pentru SharePoint, OneDrive și Microsoft Teams
 
-Urmaţi aceşti paşi pentru a activa Advanced ameninţare de protecţie:
+Urmați acești pași pentru a activa protecția avansată la amenințări:
 
-1. Du-te la [https://protection.office.com](https://protection.office.com) şi conectaţi-vă cu un global administrator sau contul de administrator de securitate.
+1. Accesați [https://protection.office.com](https://protection.office.com) și conectați-vă cu un administrator global sau un cont de administrator de securitate.
 
-2. În panoul de navigare stânga sub **ameninţarea management**, selectaţi **Politica** \> **Atașări în condiţii de siguranţă**.
+2. În panoul de navigare din stânga, sub **Gestionare amenințări**, alegeți **Atașări sigure** **de politică** \> .
 
-3. Selectați **activați ATP pentru SharePoint, OneDrive, şi echipe de Microsoft**.
+3. Selectați **Activați ATP pentru SharePoint, OneDrive și Microsoft Teams**.
 
-4. [Creaţi o politică de alertă de activitate](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) pentru a primi notificări atunci când vom detecta fisiere malware.
+4. [Creați o politică de alertă de activitate](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) pentru a primi notificări atunci când detectăm fișiere rău intenționate.
 
-Pentru instrucţiuni complete, consultaţi acest [subiect](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
+Pentru instrucțiuni complete, consultați acest [subiect](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
 
-**Notă**: prin design, ATP nu scanează fiecare fişier în SharePoint Online, OneDrive pentru afaceri sau Microsoft Teams. Fişierele sunt scanate asincron printr-un proces care utilizează Partajare activitate, activitatea de comentarii, şi ameninţarea semnale pentru a identifica fişierele rău intenţionat. Pentru informaţii suplimentare, consultaţi acest [subiect](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Notă:** După proiectare, ATP nu scanează fiecare fișier din SharePoint Online, OneDrive for Business sau Microsoft Teams. Fișierele sunt scanate asincron de un proces care utilizează activitatea de partajare, activitatea clienților și semnalele de amenințare pentru a identifica fișierele rău intenționate. Pentru mai multe informații, consultați acest [subiect](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

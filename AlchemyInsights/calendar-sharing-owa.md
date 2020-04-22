@@ -1,5 +1,5 @@
 ---
-title: 616 partajarea calendarului
+title: 616 Partajare calendar
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,19 +12,19 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665628"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712003"
 ---
-# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues cu calendar partajarea în Outlook
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues cu partajarea calendarului în Outlook
 
-- Dacă nu puteți vedea informațiile liber/ocupat din calendar în alte calendare sau dacă alte persoane nu pot vedea informațiile liber/ocupat din calendarul dvs., utilizați [Asistent pentru recuperare și asistență Microsoft pentru Office 365](https://diagnostics.office.com/).
+- Dacă nu vedeți informații le jurnalizare liber/ocupat în alte calendare sau dacă alte persoane nu pot vedea informațiile liber/ocupat în calendar, utilizați [Asistentul de asistență și recuperare Microsoft pentru Microsoft 365](https://diagnostics.office.com/).
 
 **Resurse suplimentare:**
 
 - [Partajarea unui calendar Outlook cu alte persoane](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [Partajaţi calendarul în Outlook pe web pentru afaceri](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Partajarea calendarului în Outlook pe web pentru firme](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

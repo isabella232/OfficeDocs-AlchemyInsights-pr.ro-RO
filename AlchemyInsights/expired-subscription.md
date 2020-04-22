@@ -3,7 +3,7 @@ title: Abonament expirat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665052"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714162"
 ---
 # <a name="expired-subscription"></a>Abonament expirat
 
-Se pare că aveţi unul sau mai multe abonamente expirat. Dacă doriţi pentru a continua serviciul, trebuie să reactiva abonamentul, sau face o achiziţie nouă.
+Se pare că aveți unul sau mai multe abonamente expirate. Dacă doriți să continuați serviciul, trebuie să reactivați abonamentul sau să efectuați o achiziție nouă.
   
-**Reactivaţi**
+**Reactivați**
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Găsiţi abonament pe care veti dori sa reactivati. În secţiunea **de facturare** , selectaţi **reactiva**.
+2. Alegeți abonamentul pe care doriți să-l reactivați. În secțiunea **Facturare**, alegeți **Reactivare**.
 
-Dacă nu vedeţi **reactiva** ca o acţiune disponibile, apela de asistenţă pentru a reactiva abonamentul.
+Dacă nu vedeți **Reactivare** ca acțiune disponibilă, apelați Asistența pentru a vă reactiva abonamentul.
 
-3. Confirma detaliile de plată. Puteţi actualiza informaţiile de plată existente aici. Când aţi terminat introducerea metoda de plată, alegeţi **reactiva**.
+3. Confirmați detaliile de plată. Aici vă puteți actualiza informațiile de plată existente. După ce ați terminat de introdus metoda de plată, alegeți **Reactivare**.
 
-Pentru a afla mai multe, consultaţi [reactiva abonamentul](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Face o achiziţie nouă**
+**Faceți o achiziție nouă**
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [achiziţionare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. În centrul de administrare, accesați pagina [Servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare.** \>
 
-2. Alege abonamentul care doriţi să cumpere, apoi alegeţi **cumpara**.
+2. Alegeți abonamentul pe care doriți să îl cumpărați, apoi **alegeți Cumpărați**.
 
-3. Introduceţi numărul de licenţe de care aveţi nevoie, şi alegeţi dacă să plătească în fiecare lună sau pentru tot anul. Alegeţi dacă doriţi să atribuiţi automat licenţe tuturor celor care nu au în prezent o licenţă. Apoi selectaţi **Check out acum**.
+3. Introduceți numărul de licențe de care aveți nevoie și alegeți dacă să plătiți în fiecare lună sau pentru întregul an. Alegeți dacă doriți să atribuiți automat licențe tuturor celor care nu au în prezent o licență. Apoi **alegeți Check out acum**.
 
-4. Urmaţi paşii rămaşi pentru a finaliza check-out.
+4. Urmați pașii rămași pentru a finaliza extragerea.
 
-Pentru a afla mai multe, consultaţi [cumpara un alt abonament](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Pentru a afla mai multe, consultați [Cumpărați un alt abonament](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

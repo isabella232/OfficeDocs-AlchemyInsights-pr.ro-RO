@@ -1,9 +1,9 @@
 ---
-title: Identifica Ştergere mesaj evenimente în jurnalele de auditare
+title: Identificarea evenimentelor de ștergere a mesajelor în jurnalele de auditare
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716508"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Jurnalele de auditare pentru mesaje e-mail şterse
+# <a name="audit-logs-for-deleted-email-messages"></a>Jurnalele de audit pentru mesajele de e-mail șterse
 
-Începând din ianuarie 2019, Microsoft este de cotitură pe cutie poştală de audit logare în mod implicit. În caz contrar, pentru a revizui Ştergere mesaj evenimente pentru un anumit utilizator, trebuie să activaţi manual delete acţiunile de auditare. În cazul în care cutia poştală de audit logare deja este activată pentru organizaţie sau de utilizator specifice, urmaţi paşii de mai jos.
+Începând din ianuarie 2019, Microsoft pornește implicit înregistrarea în jurnal a auditului cutiei poștale. În caz contrar, pentru a examina ștergerea evenimentelor de mesaj pentru un anumit utilizator, trebuie să activați manual acțiunile de ștergere pentru auditare. Dacă înregistrarea în jurnal a auditului cutiei poștale este deja activată pentru organizația sau pentru utilizatorul specific, urmați pașii de mai jos.
 
-1. Conectaţi-vă la [Centrul de conformitatea Office 365 securitate &](https://protection.office.com/)
+1. Conectați-vă la Centrul de [conformitate Microsoft 365 Security &](https://protection.office.com/)
 
-2. Faceţi clic pe **Căutare şi ancheta** şi selectaţi **Căutare de jurnalul de Audit**.
+2. Faceți clic pe **Căutare și investigare** și selectați Căutare jurnal **audit**.
 
-3. Selectaţi intervalul de date în câmpurile **data de început** şi **data de sfârşit** . Specificaţi numele de utilizator pentru utilizator pe care doriţi să investigheze (utilizatorul care elemente şterse). În câmpul de **activităţi** , selectaţi **mesajele şterse din folderul Elemente şterse** şi **mesaje de mutat în folderul Elemente şterse**.
+3. Selectați intervalul de date din câmpurile **Data de început** și data de **sfârșit.** Specificați numele de utilizator pentru utilizatorul pe care doriți să îl investigați (utilizatorul care a șters elementele). În câmpul **Activități,** selectați **Mesaje șterse din folderul Elemente șterse** și **Mesaje mutate în folderul Elemente șterse**.
 
-4. Faceţi clic pe **Căutare**.
+4. Faceți clic pe **Căutare**.
 
-În rezultate, selectaţi o înregistrare de audit. În fișă de detalii, faceţi clic pe **Mai multe informaţii**. Informaţii suplimentare despre element şters (de exemplu, subiectul şi locaţia elementului atunci când a fost sters) este afişat în câmpul **AffectedItems** . Proprietatea **ClientInfoString** va arăta dacă ştergerea a avut loc în Outlook, Outlook web (cunoscut anterior ca Outlook Web App), sau orice alt dispozitiv.
+În rezultate, selectați o înregistrare de audit. În detalii flyout, faceți clic pe **Mai multe informații**. Informații suplimentare despre elementul șters (de exemplu, linia de subiect și locația elementului când a fost șters) sunt afișate în câmpul **Elemente afectate.** Proprietatea **ClientInfoString** va afișa dacă ștergerea a avut loc în Outlook, Outlook pe web (cunoscut anterior ca Outlook Web App) sau orice alt dispozitiv.
 
-Pentru informaţii suplimentare, consultaţi [determină care configurarea e-mail forwarding pentru o cutie poştală](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Pentru mai multe informații, consultați [Determinarea cine a configurat redirecționarea e-mailului pentru o cutie poștală](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Notă**: Imposibil de regăsit elementele şterse utilizând caracteristica de jurnalul de audit. Pentru a prelua mesajele şterse în Outlook pe web, a se vedea [a nota a şterge elemente din Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Notă:** Nu puteți regăsi elementele șterse utilizând caracteristica jurnal de auditare. Pentru a prelua mesajele șterse din Outlook pe web, consultați [Recuperarea elementelor șterse în Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

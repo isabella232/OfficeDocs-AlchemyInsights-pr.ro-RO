@@ -1,9 +1,9 @@
 ---
-title: 608 calendar informatii parametrizarea hibrid
+title: 608 Informații despre calendar despre configurațiile hibride
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 76463159f18d3cfd03828f834454bad7b8dfc76f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c2a31c31905393a78817b21e6580b4c4d76c3aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518159"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712111"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Calendar liber/ocupat probleme în medii de hibrid
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Probleme de calendar liber/ocupat în medii hibride
 
-În cazul în care utilizatorii au probleme văzând calendar liber/ocupat informaţii în medii de hibrid, executați Expertul configurare hibrid. Pentru mai multe informaţii despre Expertul configurare hibride, consultaţi [Expertul de configurare hibrid](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Dacă utilizatorii au probleme văzând informațiile calendar liber/ocupat în medii hibride, executați din nou Expertul de configurare hibridă. Pentru mai multe informații despre Expertul configurare hibridă, consultați [Expertul de configurare hibridă](https://go.microsoft.com/fwlink/p/?linkid=528149).
 
-Pentru paşii în medii de hibrid de depanare, consultaţi [Depanarea o implementare hibridă](https://technet.microsoft.com/library/jj659053.aspx).
+Pentru pașii de depanare în medii hibride, consultați [Depanarea unei implementări hibride](https://technet.microsoft.com/library/jj659053.aspx).

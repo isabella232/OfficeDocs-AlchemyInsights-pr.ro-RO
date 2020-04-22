@@ -1,5 +1,5 @@
 ---
-title: Muta e-mail la Office 365
+title: Mutarea e-mailului la Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666888"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713622"
 ---
-# <a name="move-email-to-office-365"></a>Muta e-mail la Office 365
+# <a name="move-email-to-microsoft-365"></a>Mutarea e-mailului la Microsoft 365
 
-Aveţi mai multe opţiuni pentru migrarea e-mail la Office 365. [Consilier de migrare Office 365 mail](https://aka.ms/alchemyinsight-mailmigrationadvisor) vă ajută să alegeţi cel mai bun pentru mediul şi, de asemenea, vă ghidează prin mail migraţiei.
+Aveți mai multe opțiuni pentru migrarea e-mail la Microsoft 365. [Consultantul microsoft pentru migrarea corespondenței 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) vă ajută să o alegeți pe cea mai bună pentru mediul dvs.
   
-Pentru a citi despre opţiunile fără incepand de migrare, consultaţi [Decide pe o cale de migrare](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Pentru a citi despre opțiunile dvs., fără a începe migrarea, consultați [Decideți pe o cale de migrare](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Vă rugăm, de asemenea, verificaţi pagina de [adopte Office 365 cu FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ajutor asistat cu migraţia, dacă eligibile.
+De asemenea, verificați pagina [Adoptați Microsoft 365 cu FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) pentru ajutor asistat în ceea ce priveste migrarea, dacă este eligibilă.
   

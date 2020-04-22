@@ -1,9 +1,9 @@
 ---
-title: Crea Intune politici şi profile
+title: Crearea politicilor și profilurilor Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514775"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715408"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Crearea Intune politica si profile
+# <a name="creating-intune-policy-and-profiles"></a>Crearea politicii și profilurilor Intune
 
-În Intune, puteţi crea politici şi profilurile care fac lucruri diferite.
+În Intune, puteți crea politici și profiluri care fac lucruri diferite.
 
-- **Profiluri de înscriere**: preconfigureze dispozitivele de platforma, permite utilizatorului afinitate, utilizaţi autentificarea multi-factor, şi mai mult.
+- **Profiluri de înscriere:** Preconfigurați-vă dispozitivele după platformă, activați afinitatea utilizatorului, utilizați autentificarea multi-factor și multe altele.
 
-  [Ce este aparatul de înscriere](https://docs.microsoft.com/intune/device-enrollment), şi crea profiluri de înscriere pentru [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll), şi [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sunt resursele bun.
+  [Ce este înscrierea pe dispozitiv](https://docs.microsoft.com/intune/device-enrollment)și crearea profilurilor de înscriere pentru [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)și [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sunt resurse bune.
 
-- **Conformitatea politicilor**: defini regulile şi setările pe care dispozitivele trebuie să urmeze pentru a fi compatibil. De asemenea, puteţi utiliza conformitatea politicilor pentru a monitoriza dispozitivele, şi notifică utilizatorii de non-conformitate.
+- **Politici de conformitate:** Definiți regulile și setările pe care dispozitivele trebuie să le respecte. De asemenea, puteți utiliza politicile de conformitate pentru a monitoriza dispozitivele și pentru a notifica utilizatorii cu privire la nerespectarea.
 
-  Începeţi cu [dispozitiv conformitatea politicilor](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Politici de acces condiționat**: ajuta sigur resurselor organizaţionale, în funcţie de condiţiile pe care le introduceţi. De exemplu, pentru dispozitivele care nu sunt conforme, utilizaţi acces condiționat pentru a restricţiona accesul la e-mail şi SharePoint.
+  Începeți să începeți cu [politicile de conformitate a dispozitivelor.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Politici de acces condiționat:** Contribuiți la securizarea resurselor organizaționale, în funcție de condițiile pe care le introduceți. De exemplu, pentru dispozitivele care nu sunt compatibile, utilizați accesul condiționat pentru a restricționa accesul la e-mail și SharePoint.
 
-  [Ce este acces condiţionat](https://docs.microsoft.com/intune/conditional-access) şi [comune moduri de a folosi acces condiţionat](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sunt resursele bun pentru a începe.
+  [Ceea ce este accesul condiționat](https://docs.microsoft.com/intune/conditional-access) și [modalitățile comune de utilizare a accesului condiționat](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sunt resurse bune pentru a începe.
 
-- **Profiluri de configurare**: gestiona caracteristici şi setările de pe dispozitive, inclusiv setările de e-mail, adăugaţi o reţea WiFi, utilizaţi built-in template-uri, controlul iOS şi macOS dispozitiv caracteristici, şi mai mult.
+- **Profiluri de configurare:** Gestionați caracteristicile și setările de pe dispozitive, inclusiv setările de e-mail, adăugați o rețea Wi-Fi, utilizați șabloane încorporate, controlați caracteristicile dispozitivului iOS și macOS și multe altele.
 
-  A începe la [Profilele de configurare dispozitiv](https://docs.microsoft.com/intune/device-profiles).
+  Începeți lucrul la [profilurile de configurare a dispozitivului](https://docs.microsoft.com/intune/device-profiles).
 
 Link-uri utile:
 
-- [Frecvente întrebări, probleme şi rezoluţii cu politicile de dispozitiv şi profiluri în Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Întrebări, probleme și rezolvări comune cu politicile și profilurile dispozitivelor în Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Depanarea politici şi profiluri în Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Depanarea politicilor și profilurilor în Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

@@ -1,8 +1,8 @@
 ---
-title: se utilizează depozitul de termen SharePoint Online
+title: se utilizează depozitul de termeni SharePoint Online
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049673"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717388"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>se utilizează depozitul de termen SharePoint Online
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>se utilizează depozitul de termeni SharePoint Online
 
-Depozitul de termeni este disponibil pentru un Office 365 global admin, SharePoint admin și Term Store Admins și pot fi găsite în noul centru de administrare SharePoint Online.
+Magazinul de termeni este disponibil pentru administratorii globali de administratori, de administratori SharePoint și de magazin pe termen term o și poate fi găsit în noul centru de administrare SharePoint Online.
   
-Pentru mai multe informații despre se utilizează SharePoint Online Term Store și taxonomie în SharePoint Online, consultați [Introducere în metadate gestionate](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Pentru mai multe informații despre se utilizează Depozitul de termeni SharePoint Online și taxonomia din SharePoint Online, consultați [Introducere în metadatele gestionate](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Dacă aveți o problemă cu termenii care nu apar sau care apar intermitent, vă recomandăm să așteptați 24 de ore, apoi să faceți log o solicitare de asistență dacă problema persistă. Chiar dacă 24 de ore poate fi o lungă perioadă de timp, ar putea exista o problemă de memorare în cache sau am putea fi deja de lucru pe o soluție la această problemă.
+Dacă aveți o problemă cu termenii care nu apar sau apar intermitent, vă recomandăm să așteptați 24 de ore, și apoi în jurnal o solicitare de asistență dacă problema persistă. Chiar dacă 24 de ore poate fi o lungă perioadă de timp, ar putea exista o problemă de memorare în cache sau am putea fi deja de lucru pe o soluție la această problemă.
   

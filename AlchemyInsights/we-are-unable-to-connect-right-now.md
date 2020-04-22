@@ -1,5 +1,5 @@
 ---
-title: Problema de activare-nu suntem în măsură să se conecteze chiar acum
+title: Problemă de activare - Nu ne putem conecta chiar acum
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628254"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716184"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Fixarea aplicațiilor Office "Suntem în imposibilitatea de a conecta chiar acum" mesaj
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Remedierea mesajului Office apps "Nu ne putem conecta chiar acum"
 
 Dacă primiți acest mesaj, încercați următoarele:
 
-1. Verificați Paravanul de protecție, software-ul antivirus și setările proxy pentru a confirma că acestea nu blochează accesul la internet la aplicațiile Office. Consultați [Office 365 URL-uri și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Verificați setările paravanului de protecție, ale software-ului antivirus și ale proxy-ului pentru a confirma că nu blochează accesul la Internet la aplicațiile Office. Consultați [Adrese URL Microsoft și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Du-te la **scrobeală** > a**alerga**, și apoi atunci tip **Services. msc**. Asigurați-vă că următoarele servicii se execută toate:
-    - Instalare automată dispozitive conectate la rețea
+2. Du-te la **Scrobeală** > **A alerga**, apoi apoi tip **services.msc**. Asigurați-vă că toate serviciile se execută:
+    - Configurare automată dispozitive conectate la rețea
     - Serviciu listă de rețea
-    - Vizibilitate Locație rețea
+    - Vizibilitatea locației rețelei
     - Jurnal de evenimente Windows
 
-Dacă unul dintre aceste servicii nu se execută, încercați să-l porniți. Dacă aveți o problemă la pornirea serviciului, executați următoarea comandă deschizând un prompt de comandă cu permisiuni elevate:
+Dacă unul dintre aceste servicii nu funcționează, încercați să-l porniți. Dacă aveți o problemă la pornirea serviciului, executați următoarea comandă deschizând un prompt de comandă cu permisiuni privilegiate:
 
-**SFC/scannow**
+**sfc /scannow sfc / scannow sfc / scannow**
 
-După terminarea acestei comenzi, reporniți computerul.
+După ce se termină această comandă, reporniți computerul.
 
-Pentru informații detaliate, consultați ["Ne pare rău, nu ne putem conecta la contul dvs. Încercați din nou mai târziu "eroare atunci când activați Office din Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Pentru informații detaliate, consultați ["Ne pare rău, nu ne putem conecta la contul dvs. Încercați din nou mai târziu" eroare atunci când activați Office de la Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

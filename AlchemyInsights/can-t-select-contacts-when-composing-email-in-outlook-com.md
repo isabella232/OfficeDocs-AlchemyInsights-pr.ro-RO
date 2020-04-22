@@ -1,9 +1,9 @@
 ---
-title: Imposibil de selectat contactele atunci când compuneţi e-mail în Outlook.com
+title: Nu se pot selecta persoane de contact atunci când compuneți e-mailuri în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518627"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711679"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Imposibil de selectat contactele atunci când compuneţi e-mail
+# <a name="cant-select-contacts-when-composing-email"></a>Nu se pot selecta persoane de contact la compunerea e-mailului
 
-Când scrieţi un mesaj nou, unii clienti nu pot vedea lista lor de contacte atunci când fac clic pe butoanele de **la** sau **Cc** . Pentru a selecta un contact, începeţi să tastaţi în **la** sau **Cc** câmpuri şi contactele aferente vor fi afişate.
+Atunci când compuneți un e-mail nou, unii clienți nu văd lista lor de persoane de contact atunci când fac clic pe butoanele **Către** sau **Cc.** Pentru a selecta o persoană de contact, începeți să tastați câmpurile **Către** sau **Cc** și contactele asociate.

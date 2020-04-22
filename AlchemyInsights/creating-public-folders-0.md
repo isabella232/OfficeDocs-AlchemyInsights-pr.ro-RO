@@ -1,9 +1,8 @@
 ---
-title: Crearea de foldere publice
+title: Crearea folderelor publice
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631836"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715372"
 ---
-# <a name="creating-public-folders"></a>Crearea de foldere publice
+# <a name="creating-public-folders"></a>Crearea folderelor publice
 
-Înainte de al tău users a putea folos foldere publice în Office 365, trebuie să creaţi cel puţin un public folder poştală. Pentru a crea:
+Înainte ca utilizatorii să poată utiliza foldere publice, va trebui să creați cel puțin o cutie poștală de folder public. Pentru a crea:
   
-1. În centrul de administrare Microsoft 365, du-te la **Admin Centre** \> **schimb**.
+1. În centrul de administrare Microsoft 365, accesați **Centre de administrare** \> **Exchange**.
 
-2. Navigaţi la **foldere publice** \> **folderul Public cutiile poştale**, şi apoi faceţi clic pe **Adăugare**.
+2. Navigați la **Foldere** \> publice **Cutiile poștale folder public**, apoi faceți clic pe **Adăugare**.
 
-3. În **Public pliant poştală**, furnizaţi un nume pentru cutia poştală de public folder.
+3. În **Public Folder Mailbox**, furnizați un nume pentru cutia poștală de folder public.
 
 4. Faceți clic pe **Salvați**.
 
-Odată ce s-a creat o cutie poştală, puteţi începe crearea de foldere individuale sau spune ca utilizatorii să [începeţi crearea şi utilizarea folderelor publice în Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+După crearea unei cutii poștale, aveți posibilitatea să începeți să creați foldere individuale sau să le spuneți utilizatorilor să [înceapă crearea și utilizarea folderelor publice în Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

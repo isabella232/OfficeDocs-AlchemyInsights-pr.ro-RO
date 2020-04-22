@@ -1,9 +1,9 @@
 ---
-title: Imposibil de creat o nouă semnătură
+title: Imposibil de creat o semnătură nouă
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519851"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711355"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Nu pot adăuga sau pentru a crea o noua semnătură în Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Imposibil de adăugat sau de creat o semnătură nouă în Outlook
 
-Aceasta este o problemă cunoscută. Lucrăm pentru a o remedia si statutul vor fi actualizate în [Outlook blochează făcând clic pe butonul Semnare](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Aceasta este o problemă cunoscută. Lucrăm pentru a remedia problema și starea va fi actualizată în [Outlook îngheață făcând clic pe semnătura buton](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Pentru a soluţiona această problemă, primul [încercaţi paşi](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) pentru a dezinstala pre-instalat Microsoft Office Desktop Apps. 
+Pentru a rezolva această problemă, încercați mai întâi [pașii](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) pentru a dezinstala aplicațiile desktop Microsoft Office preinstalate. 
 
-Dacă aceasta nu funcţionează pentru aparatul afectat, vă rugăm să încercaţi [bazate pe registry workaround](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Dacă aceasta nu funcționează pentru mașina afectată, încercați [soluție bazată pe registry](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).

@@ -1,9 +1,9 @@
 ---
-title: Identifica adresa IP şi client în jurnalele de auditare
+title: Identificarea adresei IP și a clientului în jurnalele de audit
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539041"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716400"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifica adresa IP şi client în jurnalele de auditare
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificarea adresei IP și a clientului în jurnalele de audit
 
-IP-ul care corespunde unei activități de către un utilizator Office 365 sau administratorul este indicat în jurnalele de Audit. Informaţii client este, de asemenea, conectat. Aici sunt paşii pentru astfel de informaţii de identificare
+Adresa IP care corespunde unei activități de către un utilizator sau administrator Microsoft 365 este afișată în Jurnalele de audit. Informațiile despre client sunt, de asemenea, înregistrate. Iată pașii pentru identificarea acestor informații
 
-1. Conectaţi-vă la [Centrul de conformitatea Office 365 securitate &](https://protection.office.com/).
+1. Conectați-vă la Centrul de [conformitate Microsoft 365 Security &](https://protection.office.com/).
 
-2. Du-te la **Căutare** > pagina de**Căutare de jurnalul de Audit** .
+2. Accesați pagina de căutare în jurnalul **De** > **audit căutare.**
 
-   Dacă sunteţi interesat într-o activitate specifică, selectaţi-l din lista de **activităţi** . Dacă nu, toate activităţile vor fi returnate pentru utilizator selectat (setarea implicită).
+   Dacă sunteți interesat de o anumită activitate, selectați-o din lista **Activități.** Dacă nu, toate activitățile vor fi returnate pentru utilizatorul selectat (setare implicită).
 
-   **Notă**: anumite activităţi să nu fie disponibilă în meniul de **activităţi** ; cu toate acestea, cei de audit elemente vor fi returnate dacă **Arată rezultate pentru toate acțiunile** este selectat (. lipsă aranjare).
+   **Notă:** Este posibil ca anumite activități să nu fie disponibile în meniul **Activități;** cu toate acestea, aceste elemente de audit vor fi returnate dacă **se afișează rezultate pentru toate activitățile** este selectat (setareimplicită).
 
-3. Specificaţi numele de utilizator în câmpul **utilizatorilor** , selectaţi intervalul de date corespunzător pentru activitatea şi apoi faceţi clic pe **Căutare**.
+3. Specificați numele de utilizator în câmpul **Utilizatori,** selectați intervalul de date corespunzător pentru activitate, apoi faceți clic pe **Căutare**.
 
-În rezultate, puteţi vedea adresa IP pentru activitatea respectivă în panoul de rezultate. Selectaţi înregistrarea de audit pentru a vedea informaţii detaliate în fișă de **Detalii** (de exemplu, Client, utilizatorul care a efectuat acţiunea, etc.).
+În rezultate, puteți vedea adresa IP pentru acea activitate în panoul de rezultate. Selectați înregistrarea de audit pentru a vedea informații detaliate în ieșirea **Detalii** (de exemplu, Client, Utilizator care a efectuat acțiunea etc.).
 
-Pentru informaţii suplimentare, consultaţi [Găsirea adresei IP a computerului utilizat pentru a accesa un cont compromise](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Pentru mai multe informații, consultați [Găsirea adresei IP a computerului utilizat pentru a accesa un cont compromis](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

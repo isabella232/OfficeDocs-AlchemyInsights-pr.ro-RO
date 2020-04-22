@@ -1,40 +1,40 @@
 ---
-title: Monitorizare acces condiționat
+title: Monitorizarea accesului condiționat
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713730"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Monitorizare acces condiționat pentru schimb
+# <a name="monitoring-conditional-access-for-exchange"></a>Monitorizarea accesului condiționat pentru exchange
 
-Utilizatorii orientate cu acces condiționat vor primi un e-mail de notificare, în cazul în care nu îndeplinesc cerinţele de acces al organizaţiei. Pentru a rezolva, va recomandam unul sau mai multe dintre următoarele soluții:
+Utilizatorii vizați cu acces condiționat vor primi un e-mail de notificare dacă nu îndeplinesc cerințele de acces ale organizației dvs. Pentru a rezolva, vă recomandăm una sau mai multe dintre următoarele soluții:
   
-- În cazul în care dispozitivul este prezumată a fi înscrişi, sfătui utilizatorul să accesaţi aplicaţia Portal de companie şi să verifice că acesta apare în portalul companiei. Dacă nu, utilizatorul ar trebui să înscrieţi-vă dispozitivul.
+- Dacă se presupune că dispozitivul este înscris, sfătuiți utilizatorul să meargă la aplicația Portal companie și verificați dacă apare în portalul companiei. Dacă nu, utilizatorul ar trebui să înscrie dispozitivul.
     
-- În portalul azuriu Du-te la **Intune \> dispozitiv respectarea**. Sub **monitorul de** faceţi clic pe **dispozitiv conformitatea**. Vezi dispozitiv conformitatea raport pentru a verifica că utilizatorul final este marcat ca conforme. 
+- În portalul Azure accesați **Intune \> dispozitiv conformitate**. Sub **Monitor,** faceți clic pe **Conformitate dispozitiv**. Vizualizați raportul de conformitate al dispozitivului pentru a verifica dacă dispozitivul utilizatorului este marcat ca compatibil. 
     
-- În portalul azuriu Du-te la **Intune \> dispozitiv respectarea**. La **administrare**, faceţi clic pe **politici**. În lista de conformitatea politicilor, verificaţi că un profil este atribuit de utilizator pe dispozitiv. Dacă este alocat nici un profil, apoi Intune nu va fi capabil să confirme statutul de conformitatea dispozitivului. 
+- În portalul Azure accesați **Intune \> dispozitiv conformitate**. Sub **Gestionare**, faceți clic pe **Politici**. În lista de politici de conformitate, verificați dacă un profil este atribuit dispozitivului utilizatorului. Dacă nu este atribuit niciun profil, Intune nu va putea confirma starea de conformitate a dispozitivului. 
     
-- Editare cesiune de acces condiționat utilizatorului.
+- Editați atribuirea de acces condiționat a utilizatorului.
     
-1. În portalul azuriu Du-te la **Intune \> acces condiţionat \> politici**
+1. În portalul Azure accesați ** \> Intune \> condițională accesați politicile de acces**
     
-2. Selectaţi o politică din lista
+2. Selectarea unei politici din listă
     
-3. Faceţi clic pe **utilizatori și grupuri**
+3. Faceți clic pe **Utilizatori și grupuri**
     
-4. Pentru a-ţintă o anumită politică la cineva, adăugaţi-le la lista de **includeri** . Pentru a se asigura că o persoană este omis din politica, adăugaţi-le la lista de **Exclude** . 
+4. Pentru a viza o anumită politică către o persoană, adăugați-le în lista **Includere.** Pentru a vă asigura că o persoană este omisă din politică, adăugați-le la lista **Excludere.** 
     
-Citeşte mai departe: [modul de acces condiționat Monitor dispozitive](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Citiți mai mult: [Cum se monitorizează dispozitivele de acces condiționat](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

@@ -1,9 +1,9 @@
 ---
-title: 9000199 PST fișiere în Outlook.com
+title: 9000199 PST în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b54bcc3df2fd4a7f589ce012fc1f3933a754a4d4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36535619"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712794"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>PST fișierele de date în Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>PST fișiere de date în Outlook.com
 
-Nu este posibil să importați o Outlook. PST date dosar la spre al tău Outlook.com socoteală folosire un maro.
+Nu este posibil să importați un Outlook . PST fișier de date în contul de Outlook.com folosind un browser.
 
-Pentru a importa o. PST fișier de date, trebuie să utilizați aplicația desktop Outlook. Pentru a afla mai multe, citiți [importul de e-mailuri, persoane de contact și calendar dintr-un Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Pentru a importa un . PST fișier de date, trebuie să utilizați aplicația desktop Outlook. Pentru a afla mai multe, [citiți Import e-mail, persoane de contact și calendar dintr-un Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
