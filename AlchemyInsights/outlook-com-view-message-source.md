@@ -1,9 +1,9 @@
 ---
-title: Sursa 8000092 Outlook.com mesaj
+title: 8000092 Outlook.com vizualiza sursa mesajului
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "1424"
 - "8000092"
-ms.openlocfilehash: 6e70ac6c4c6badc9e3196b193d0040e387ee5a07
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d8657c07d17263ac64367583dbceae0c809f7bd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764956"
 ---
-# <a name="how-to-view-outlookcom-message-headers-or-message-source"></a><span data-ttu-id="f7f9b-102">Cum să vezi anteturi de mesaj Outlook.com sau mesaj sursă</span><span class="sxs-lookup"><span data-stu-id="f7f9b-102">How to view Outlook.com message headers or message source</span></span>
+# <a name="how-to-view-outlookcom-message-headers-or-message-source"></a><span data-ttu-id="f25ec-102">se vizualizează anteturile Outlook.com mesaj sau sursa de mesaj</span><span class="sxs-lookup"><span data-stu-id="f25ec-102">How to view Outlook.com message headers or message source</span></span>
 
-<span data-ttu-id="f7f9b-103">Pentru a vedea anteturi şi alte detalii într-un e-mail, selectaţi trei puncte</span><span class="sxs-lookup"><span data-stu-id="f7f9b-103">To see the headers and other details in an email, select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="f7f9b-104">la colţul de sus din panoul de citire şi selectaţi **Vezi mesaj sursă**.</span><span class="sxs-lookup"><span data-stu-id="f7f9b-104">at the top corner of the reading pane and select **View message source**.</span></span>
+<span data-ttu-id="f25ec-103">Pentru a vedea anteturile și alte detalii într-un e-mail, selectați cele trei puncte</span><span class="sxs-lookup"><span data-stu-id="f25ec-103">To see the headers and other details in an email, select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="f25ec-104">din colțul de sus al panoului de citire și selectați **Vizualizare sursă mesaj**.</span><span class="sxs-lookup"><span data-stu-id="f25ec-104">at the top corner of the reading pane and select **View message source**.</span></span>

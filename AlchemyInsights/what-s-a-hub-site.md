@@ -1,9 +1,9 @@
 ---
-title: Ce este un site hub?
+title: Ce este un hub site- ul?
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: bba1edd719a0c459332161876e793bc37b53cc94
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d20d82aca926283a62015bd4dd84a97c347ef2d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531119"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765319"
 ---
-# <a name="whats-a-hub-site"></a><span data-ttu-id="3d34d-102">Ce este un site hub?</span><span class="sxs-lookup"><span data-stu-id="3d34d-102">What's a hub site?</span></span>
+# <a name="whats-a-hub-site"></a><span data-ttu-id="f2cd1-102">Ce este un hub site- ul?</span><span class="sxs-lookup"><span data-stu-id="f2cd1-102">What's a hub site?</span></span>
 
-<span data-ttu-id="3d34d-103">Un site hub vă ajută să vă organiza site-uri şi să le dea o navigare comună şi branding.</span><span class="sxs-lookup"><span data-stu-id="3d34d-103">A hub site helps you organize sites and give them a common navigation and branding.</span></span> <span data-ttu-id="3d34d-104">Global sau SharePoint administratori va fi capabil de a crea site-uri de hub si specifica utilizatorii care pot asocia site-urile lor cu site-ul hub.</span><span class="sxs-lookup"><span data-stu-id="3d34d-104">Global or SharePoint admins will be able to create hub sites and specify which users can associate their sites with the hub site.</span></span> <span data-ttu-id="3d34d-105">Pentru mai multe informaţii, consultaţi [site-urile SharePoint hub nou în Office 365](https://go.microsoft.com/fwlink/?linkid=869388).</span><span class="sxs-lookup"><span data-stu-id="3d34d-105">For more info, see [SharePoint hub sites new in Office 365](https://go.microsoft.com/fwlink/?linkid=869388).</span></span>
+<span data-ttu-id="f2cd1-103">Un site hub vă ajută să organizați site-uri și să le oferiți o navigare și o marcă obișnuite.</span><span class="sxs-lookup"><span data-stu-id="f2cd1-103">A hub site helps you organize sites and give them a common navigation and branding.</span></span> <span data-ttu-id="f2cd1-104">Administratorii globali sau SharePoint vor putea crea site-uri hub și vor putea specifica utilizatorii care își pot asocia site-urile cu site-ul hub.</span><span class="sxs-lookup"><span data-stu-id="f2cd1-104">Global or SharePoint admins will be able to create hub sites and specify which users can associate their sites with the hub site.</span></span> <span data-ttu-id="f2cd1-105">Pentru mai multe informații, consultați [Site-uri hub SharePoint](https://go.microsoft.com/fwlink/?linkid=869388).</span><span class="sxs-lookup"><span data-stu-id="f2cd1-105">For more info, see [SharePoint hub sites](https://go.microsoft.com/fwlink/?linkid=869388).</span></span>
   
-

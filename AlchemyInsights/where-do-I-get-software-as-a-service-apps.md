@@ -1,9 +1,9 @@
 ---
-title: Unde pot obține aplicații software-as-a-Service (SaaS)?
+title: De unde pot obține aplicații software-as-a-service (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e55d8731ad930056975bd2aa36bee2ce781ab720
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558557"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765245"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="f33ef-102">De unde primesc aplicații software-as-a-Service (SaaS) de la partenerii Microsoft?</span><span class="sxs-lookup"><span data-stu-id="f33ef-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="8189f-102">De unde primesc aplicații software-as-a-service (SaaS) de la partenerii Microsoft?</span><span class="sxs-lookup"><span data-stu-id="8189f-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="f33ef-103">Clienții pot căuta, cerceta și achiziționa aplicații SaaS de la [Appsource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="f33ef-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="8189f-103">Clienții pot căuta, cerceta și achiziționa aplicații SaaS din [AppSource](https://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="8189f-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://www.appsource.com/).</span></span>
