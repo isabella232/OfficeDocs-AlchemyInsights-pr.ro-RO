@@ -1,9 +1,9 @@
 ---
-title: Editare profil de facturare pentru aplicaţii
+title: Editarea profilului de facturare pentru aplicații
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606881"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703907"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Editare profil de facturare pentru aplicaţii
+# <a name="edit-billing-profile-for-apps"></a>Editarea profilului de facturare pentru aplicații
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Pentru a schimba profilul de facturare pe apps
+## <a name="to-change-the-billing-profile-on-apps"></a>Pentru a modifica profilul de facturare în aplicații
 
-1. Du-te la **Facturare** > [produse & servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) pagină, apoi selectaţi fila **aplicaţii** .
+1. Accesați pagina Produse **de facturare** > [& servicii,](https://go.microsoft.com/fwlink/p/?linkid=842054) apoi alegeți fila **Aplicații.**
 
-2. Găsiţi şi selectaţi aplicaţia pe care doriţi să gestionaţi.  
+2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
-3. Lângă **profil de facturare**, selectaţi **Editare** şi selectaţi facturare profilul pe care doriţi să se asocieze cu app.
+3. Lângă **Profil facturare**, selectați **Editare** și alegeți profilul de facturare pe care doriți să îl asociați cu aplicația.
 
-## <a name="edit-billing-profiles"></a>Edita profiluri de facturare
+## <a name="edit-billing-profiles"></a>Editarea profilurilor de facturare
 
-1. Du-te la **Facturare** > [facturile & plăţi](https://go.microsoft.com/fwlink/p/?linkid=848039) pagină, apoi selectaţi **profiluri de facturare**.
+1. Accesați pagina **Facturi de facturare** > [& plăți,](https://go.microsoft.com/fwlink/p/?linkid=848039) apoi alegeți **Profiluri de facturare**.
 
-2. Alege profilul de facturare din lista pentru a edita.
+2. Alegeți profilul de facturare din listă de editat.

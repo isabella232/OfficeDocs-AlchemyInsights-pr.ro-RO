@@ -1,31 +1,31 @@
 ---
-title: Limitele fișierului
+title: Limite de fișier
 ms.author: toresing
 author: tomresing
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dc77375a46c3a0973193e2d055fd7ab5ce125500
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702822"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>Limitele de încărcare a fișierelor în SharePoint Online
 
-- O bibliotecă poate avea până la 30.000.000 de fișiere și foldere.
+- O bibliotecă poate avea până la 30 de milioane de fișiere și foldere.
     
-- Lungimea totală a adresei URL, inclusiv numele fișierului, nu poate depăși 400 de caractere.
+- Lungimea totală a URL-ului, inclusiv numele fișierului, nu poate depăși 400 de caractere.
     
-- Fiecare fișier terci fi mai mică de 15 GB. Fișierele atașate la lista de elemente poate fi de până la 250 MB în mărime.
+- Fiecare fișier terci să fie mai mic de 15 GB. Fișierele atașate la elementele de listă pot avea o dimensiune de până la 250 MB.
     
-- Pentru performanțe optime sincronizarea cu noul client de sincronizare OneDrive, vă recomandăm stocarea nu mai mult de 100.000 fișiere într-o bibliotecă. 
+- Pentru sincronizarea performanței optime cu noul client de sincronizare OneDrive, vă recomandăm să stocați nu mai mult de 100.000 de fișiere într-o bibliotecă. 
     
-[Caractere care nu pot fi utilizate în nume de fișiere](https://go.microsoft.com/fwlink/?linkid=866430)
+[Caractere care nu pot fi utilizate în numele de fișiere](https://go.microsoft.com/fwlink/?linkid=866430)
   
 [Tipuri de fișiere care nu pot fi adăugate la o listă sau la o bibliotecă](https://go.microsoft.com/fwlink/?linkid=273757)
   

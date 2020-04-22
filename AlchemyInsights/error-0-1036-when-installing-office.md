@@ -1,8 +1,8 @@
 ---
-title: Eroare 0-1036 atunci când instalaţi office
+title: Eroare 0-1036 la instalarea office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527519"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703258"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Eroare 0-1036 atunci când instalaţi office
+# <a name="error-0-1036-when-installing-office"></a>Eroare 0-1036 la instalarea office
 
-Incerca aceste solutii pentru a remedia tău Office eroare 0-1036:
+Încercați aceste soluții pentru a remedia eroarea Office 0-1036:
   
-- Reporniți computerul și încercați din nou [instalarea Office](https://portal.office.com/OLS/MySoftware.aspx) .
+- Reporniți computerul și încercați să instalați din nou [Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
-- Descărca şi instala [sprijin si asistent de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Descărcați și instalați [Asistentul pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Atunci când se deschide, la **produsele dezinstalaţi Office** selectaţi versiunea pe care doriţi să dezinstalaţi şi selectaţi **Următorul**.
+1. Când se deschide, din **Dezinstalare produse Office** selectați versiunea pe care doriți să o dezinstalați și selectați **Următorul**.
 
-2. Continua trece prin ecrane şi reporniţi computerul când vi se solicită.
+2. Continuați să parcurgeți ecranele și reporniți computerul atunci când vi se solicită.
 
-    După repornirea, suport și recuperare asistent re-se deschide automat pentru a finaliza procesul de dezinstalare.
+    După repornire, Asistentul de asistență și recuperare se redeschide automat pentru a finaliza procesul de dezinstalare.
 
-3. Urmaţi restul solicitările şi [reinstala Office](https://portal.office.com/OLS/MySoftware.aspx) sau închide asistentul.
+3. Urmați solicitările rămase și [reinstalați Office](https://portal.office.com/OLS/MySoftware.aspx) sau închideți asistentul.
 
-- [Utilizarea offline a instala Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) pentru a instala Office
+- [Utilizarea programului de instalare office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) pentru a instala Office

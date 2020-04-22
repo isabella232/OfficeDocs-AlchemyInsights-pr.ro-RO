@@ -1,9 +1,9 @@
 ---
-title: 1245-import-PST-servicii
+title: 1245-Import-PST-Servicii
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496374"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687774"
 ---
-# <a name="office-365-import-service"></a>Serviciul de Import Office 365
+# <a name="microsoft-365-import-service"></a>Serviciul Microsoft 365 Import
 
-Serviciul Office 365 Import vă permite să import vrac-mai multe fişiere PST cutiile poştale Exchange Online.
+Serviciul Microsoft 365 Import vă permite să importați în bloc mai multe fișiere PST în cutiile poștale Exchange Online.
 
-Pentru a accesa serviciul de Import şi începe procesul de import:
+Pentru a accesa serviciul Import și a porni procesul de import:
 
-1. Du-te la [Securitate & centru de conformitate](https://protection.office.com) şi faceţi sign in utilizând acreditările pentru un cont de administrator în organizaţia Office 365.
+1. Accesați [Centrul de conformitate & de securitate](https://protection.office.com) și conectați-vă utilizând acreditările pentru un cont de administrator din organizația dvs.
 
-2. În panoul din stânga de **Securitate & centru de conformitate**, faceţi clic pe **date guvernare > Import**.
+2. În panoul din stânga al Centrului de **conformitate & de securitate,** faceți clic pe **Guvernanța datelor > Import**.
 
-3. În pagina **Import** , faceţi clic pe **New job de import**.
+3. În pagina **Import,** faceți clic pe **Activitate de import nouă**.
 
-4. Pentru a finaliza paşii din expertul, vă rugăm să urmaţi aceste [instrucţiuni pas cu pas](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Pentru a finaliza pașii din expert, urmați aceste [instrucțiuni pas cu pas](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Important**: pentru a accesa pagina de **Import** în securitate & centru de conformitate, aţi fi asociat [permisiunile corespunzătoare](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Important**: Pentru a accesa pagina **Import** din Centrul de securitate & conformitate, vi s-au atribuit [permisiunile corespunzătoare](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Dacă doriţi să importaţi un PST la cutia poştală, consultaţi [acest articol](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Dacă doriți doar să importați un PST la cutia poștală, consultați [acest articol](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

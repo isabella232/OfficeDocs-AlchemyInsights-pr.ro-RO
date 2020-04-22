@@ -1,30 +1,30 @@
 ---
-title: Întrebări despre se utilizează instrumentul de implementare Office (ODT)
+title: Întrebări despre se utilizează Instrumentul de implementare Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 96d3f70f554f71c43d6458ec8debc099cd9fb040
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36553552"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698070"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Întrebări despre se utilizează instrumentul de implementare Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Întrebări despre se utilizează Instrumentul de implementare Office (ODT)
 
-Descărcați instrumentul de implementare Office de la [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Descărcați instrumentul de implementare Office din Centrul de [descărcare Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-După descărcarea fișierului, executați fișierul executabil cu auto-extragere, care conține instrumentul de implementare Office executabil (Setup. exe) și un fișier de configurare eșantion (Configuration. xml).
+După descărcarea fișierului, executați fișierul executabil de auto-extragere, care conține executabilul Instrument de implementare Office (setup.exe) și un fișier de configurare eșantion (configuration.xml).
   
- **Pentru a exclude sau elimina Office 365 ProPlus produse de la computerele client:**
+ **Pentru a exclude sau elimina Microsoft 365 Apps for enterprise produse de pe computerele client:**
   
-La instalarea Office 365 ProPlus, aveți posibilitatea să excludeți anumite produse. Pentru aceasta, urmați pașii pentru instalarea Office cu ODT, dar includeți elementul ExcludeApp în fișierul de configurare. De exemplu, acest fișier de configurare instalează toate produsele Office 365 ProPlus cu excepția Publisher:
+Atunci când instalați Microsoft 365 Apps pentru întreprinderi, puteți exclude anumite produse. Pentru a face acest lucru, urmați pașii pentru instalarea Office cu ODT, dar includeți elementul ExcludeApp în fișierul de configurare. De exemplu, acest fișier de configurare instalează toate microsoft 365 Apps for enterprise produse, cu excepția Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

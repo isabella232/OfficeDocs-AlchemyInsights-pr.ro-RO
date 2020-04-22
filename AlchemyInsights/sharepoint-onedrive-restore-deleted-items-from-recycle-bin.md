@@ -10,36 +10,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053849"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692849"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Depanarea fișierelor sau folderelor lipsă în OneDrive sau SharePoint
 
-- [Verificați Coșul de reciclare al site-ului](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Verificați coșul de reciclare al site-ului](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Restaurați elementele din Coșul de reciclare al unui site SharePoint](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Restaurarea elementelor din Coșul de reciclare al unui site SharePoint](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
 **Caracteristica Restaurare fișiere**
 
-Dacă o mulțime de fișiere OneDrive sau SharePoint sunt șterse, suprascrise, deteriorate sau infectate de malware, puteți restaura întreaga OneDrive sau biblioteca SharePoint la o marcă de timp anterioară utilizând fișierele de restaurare caracteristică.
+Dacă multe dintre fișierele OneDrive sau SharePoint sunt șterse, suprascrise, deteriorate sau infectate cu malware, aveți posibilitatea să restaurați întreaga bibliotecă OneDrive sau Sharepoint la o oră anterioară utilizând caracteristica de restaurare a fișierelor.
 
 - [Restaurarea unei biblioteci OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Restaurarea unei biblioteci de documente](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Utilizați înregistrarea în jurnal de audit sau panoul de activitate fișier pentru a verifica istoricul fișierului**
+**Utilizarea înregistrării în jurnal a auditului sau a panoului de activitate a fișierelor pentru a verifica istoricul fișierului**
 
-[Verificați rapoartele](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> de audit navigând [aici](https://protection.office.com/#/unifiedauditlog)
+[Verificați rapoartele](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> de audit navigând [aici](https://protection.office.com/#/unifiedauditlog)
 
-Utilizați panoul de [activitate fișier](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) pentru a verifica istoricul fișierului.
+Utilizați panoul [activitate fișier](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) pentru a verifica istoricul fișierului.
 
-Verificați OneDrive Sync client pe computerul local.  Dacă sincronizați fișierele de pe computer prin OneDrive Sync client, Verificați folderul de sincronizare local pentru a vă asigura că acesta a fost încărcat corect. Asigurați-vă că, de asemenea, verificați Coșul de reciclare de pe mașina locală.
+Verificați OneDrive Sync Client pe computerul local.  Dacă sincronizați fișierele de pe computer prin intermediul clientului OneDrive Sync, verificați folderul de sincronizare locală pentru a vă asigura că acesta a fost încărcat corect. Asigurați-vă că verificați, de asemenea, coșul de reciclare de pe mașina locală.
 
 
 

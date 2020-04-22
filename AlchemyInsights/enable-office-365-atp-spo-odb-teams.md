@@ -1,29 +1,29 @@
 ---
-title: Permite ATP Office 365 pentru SharePoint, OneDrive şi Microsoft echipe
+title: Activarea Office 365 ATP pentru SharePoint, OneDrive și Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fdfdc97a198898051a3388672d01994d96dd5e97
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403045"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703438"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Activarea Office 365 ameninţare avansate de protecţie pentru SharePoint Online, OneDrive şi Microsoft echipe
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Activarea protecției avansate pentru amenințări Office 365 pentru SharePoint Online, OneDrive și Microsoft Teams
 
-1. Du-te la https://protection.office.com și conectați-vă.
-2. Alege **Threat management** > **Politica** > **Atașări în condiţii de siguranţă**.
-3. Selectați **activați ATP pentru SharePoint, OneDrive, şi echipe de Microsoft**, şi apoi faceţi clic pe **salvaţi**.
-4. (Recomandat) Ca un administrator global sau un administrator de SharePoint Online, executaţi cmdlet-ul [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cu parametrul **DisallowInfectedFileDownload** setat la *adevărat*.
-5. (Recomandat) [Configurarea avertizărilor](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) pentru detectat fişierele.
+1. Du-te https://protection.office.com și autentifică-te.
+2. Alegeți**Atașări sigure****pentru politica de** > gestionare > a **amenințărilor**.
+3. Selectați **Activare ATP pentru SharePoint, OneDrive și Microsoft Teams**, apoi faceți clic pe **Salvare**.
+4. (Recomandat) Ca administrator global sau administrator SharePoint Online, executați cmdletul [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cu parametrul **DisallowInfectedFileDownload** setat la *true*.
+5. (Recomandat) [Configurați alerte](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) pentru fișierele detectate.
 
 > [!NOTE]
-> ATP va nto scanare orice fişier în SharePoint Online, OneDrive sau Microsoft Teams. Fişierele sunt scanate asincron, printr-un proces care utilizează sharing şi comentariile evenimente activitatea, împreună cu smart euristică şi semnalele de ameninţare pentru a identifica fişierele rău intenţionat. A se vedea [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+> ATP va scana fiecare fișier din SharePoint Online, OneDrive sau Microsoft Teams. Fișierele sunt scanate asincron, printr-un proces care utilizează partajarea și evenimentele de activitate clienților, împreună cu euristica inteligentă și semnalele de amenințare pentru a identifica fișierele rău intenționate. A [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)se vedea .

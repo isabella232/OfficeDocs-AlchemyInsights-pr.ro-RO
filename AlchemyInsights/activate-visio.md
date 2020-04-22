@@ -1,9 +1,9 @@
 ---
-title: Activa Visio
+title: Activează Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495439"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682304"
 ---
-# <a name="activate-visio"></a>Activa Visio
+# <a name="activate-visio"></a>Activează Visio
 
-Înainte ca un utilizator poate instala şi a activa Visio desktop app desktop incluse cu lor Visio Online Plan 2, utilizatorul trebuie să-au fost atribuite [Visio licenţă](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Înainte ca un utilizator să poată instala și activa aplicația desktop Visio de pe desktop inclusă în Visio Online Plan 2, utilizatorului trebuie să i se fi atribuit o [licență Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 
-**Notă** Visio Online Plan 1 nu include un pupitru traducere de Visio.
+**Asemãn** Visio Online Plan 1 nu include o versiune desktop de Visio.
 
 Pentru a activa Visio:
 
-1. Instalaţi Visio la [meu portal de cont](https://portal.office.com/account#installs) în cazul în care acesta nu este deja instalat. Pentru ajutor, consultaţi [Instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. Când instalarea este completă, deschide aplicaţia de Visio. Visio probabil se va activa automat şi puteţi începe să utilizaţi-l imediat. Dacă nu, vi se poate solicita să faceţi sign in. Asiguraţi-vă că faceţi sign in cu același lucru sau şcoală cont care a fost atribuită o licenţă de Visio. Urmaţi instrucţiunile pentru a continua cu activarea. 
+1. Instalați Visio de pe [portalul Contul meu](https://portal.office.com/account#installs) dacă nu este deja instalat. Pentru ajutor, consultați [Instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Când se termină instalarea, deschideți aplicația Visio. Visio se va activa probabil automat și veți putea începe să-l utilizați imediat. În caz contrar, vi se poate solicita să vă conectați. Nu uitați să vă conectați cu același cont de la locul de muncă sau de la școală căruia i s-a atribuit o licență Visio. Urmați solicitările pentru a continua activarea. 
 
-Pentru probleme de activare, executaţi [depanatorul de activare](https://aka.ms/SARA-OfficeActivation-Alchemy) pe computer afectate.
+Pentru probleme de activare, executați [depanatorul Activare](https://aka.ms/SARA-OfficeActivation-Alchemy) pe computerul afectat.
 
-Pentru a se vedea informaţii detaliate:<br>
+Pentru informații detaliate, consultați:<br>
 [Activarea Office pe un PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[O notificare de abonament apare atunci când am deschis o aplicaţie Office 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Birou eroare "produsele am găsit în contul nu poate fi folosit la activate <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Fără licenţă de produs și activare erori în Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+[O notificare de abonament apare atunci când deschid o aplicație Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Eroare office "Produsele pe care <app>le-am găsit în contul dvs.](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Erorile de activare și „Produs nelicențiat” în Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

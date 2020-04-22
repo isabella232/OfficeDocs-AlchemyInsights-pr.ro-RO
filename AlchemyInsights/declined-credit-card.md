@@ -1,9 +1,9 @@
 ---
-title: A refuzat cardul de Credit
+title: Card de credit refuzat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705097"
 ---
-# <a name="declined-credit-card"></a>A refuzat cardul de credit
+# <a name="declined-credit-card"></a>Card de credit refuzat
 
-Daca platiti prin card de credit, şi cardul de credit este refuzată, veţi primi un e-mail permiţându-vă să ştiţi că nu am putut procesa plata. Verificaţi că [detaliile cardului de credit](https://go.microsoft.com/fwlink/p/?linkid=842054) - numărul cardului, data expirarii, numele de pe cardul de credit, şi adresa, inclusiv oraş, stat şi ZIP code - apar exact aşa cum se întâmplă pe cardul de credit şi declaraţia dumneavoastră de card de credit. Puteţi actualiza informaţiile de card de credit şi naintează plata utilizând opţiunea **să se stabilească echilibrul** pe pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Dacă plătiți cu cardul de credit și cardul de credit este refuzat, veți primi un e-mail prin care veți fi anunțați că nu am putut procesa plata. Verificați de două ori dacă [detaliile cardului de credit](https://go.microsoft.com/fwlink/p/?linkid=842054) - numărul cardului, data expirării, numele de pe cardul de credit și adresa, inclusiv orașul, statul și codul poștal - apar exact așa apar pe cardul de credit și în extrasul cardului de credit. Puteți să actualizați informațiile cardului de credit și să trimiteți imediat plata utilizând opțiunea **Settle balance** de pe pagina Produse [& servicii.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-Pentru a afla mai multe, consultaţi "ce se întâmplă dacă cardul meu de credit a expirat şi plata mea este trecut din cauza?" în [plătiţi pentru dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Pentru a afla mai multe, consultați "Ce se întâmplă dacă cardul meu de credit a expirat și plata mea este restantă?" în [Plătiți pentru abonamentul Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Dacă veţi continua să vedeţi mesajul "refuzat", contactaţi banca dvs. Este posibil că cardul de credit nu este activă — de exemplu, dacă aţi primit recent o carte de credit prin e-mail cu o dată de expirare actualizate, încă mai trebuie să-l activezi. Banca dvs., de asemenea, vă pot spune dacă cardul dumneavoastra nu este aprobat pentru tranzacţii online, internaţionale, sau recurente.
+Dacă continuați să vedeți mesajul "refuzat", contactați banca. Este posibil ca cardul de credit să nu fie activ, de exemplu, dacă ați primit recent cardul de credit prin e-mail cu o dată de expirare actualizată, poate fi necesar să îl activați. De asemenea, banca vă poate spune dacă cardul de credit nu este aprobat pentru tranzacții online, internaționale sau recurente.
   
-Pentru informaţii suplimentare consultaţi [Depanarea carduri si conturi bancare](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Pentru informații suplimentare, consultați [Depanarea cardurilor de credit și a conturilor bancare](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

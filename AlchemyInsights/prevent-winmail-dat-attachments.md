@@ -1,32 +1,32 @@
 ---
-title: 2589 ajuta la prevenirea Winmail.dat ataşărilor din mesajele de poştă electronică din cadrul organizaţiei
+title: 2589 Ajutor pentru a preveni atașările Winmail.dat în mesajele de poștă electronică din organizația dvs.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 41ab3f22499994cda5883834ff54e5767c69265b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391467"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666753"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Ajuta la prevenirea Winmail.dat ataşărilor din mesajele de poştă electronică din cadrul organizaţiei
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Contribuiți la prevenirea atașărilor Winmail.dat în mesajele de e-mail din organizația dvs.
 
-Ca un admin, încercaţi aceşti paşi:
+Ca administrator, încercați acești pași:
 
-1. Deschideţi [Centrul de administrare Exchange](https://outlook.office365.com/ecp/).
+1. Deschideți centrul de [administrare Exchange](https://outlook.office365.com/ecp/).
 
-2. Du-te la **fluxul de corespondenţă** > **domenii de la distanţă**.
+2. Accesați **Domenii la** > distanță flux**corespondență**.
 
-3. Selectați domeniul de la distanţă implicit numit **implicit**, şi apoi faceţi clic pe **Editare**.
+3. Selectați domeniul implicit la distanță denumit **Implicit**, apoi faceți clic pe **Editare**.
 
-4. În secţiunea **utilizarea Rich-text format** , selectaţi **niciodată**.
+4. În **secțiunea Utilizare format text îmbogățit,** selectați **Niciodată**.
 
-Pentru mai multe informaţii, consultaţi [specificarea formatul de mesaj pentru domeniile de la distanţă](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Pentru mai multe informații, consultați [Specificarea formatului de mesaj pentru domenii la distanță](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).

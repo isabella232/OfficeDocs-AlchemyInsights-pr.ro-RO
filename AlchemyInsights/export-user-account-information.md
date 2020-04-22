@@ -1,9 +1,9 @@
 ---
-title: Exportaţi informaţiile despre contul de utilizator
+title: Exportul informațiilor contului de utilizator
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b86887b5b4dc52c045c86ef2f6598a8e57df0a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526223"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702930"
 ---
-# <a name="export-user-account-information"></a>Exportaţi informaţiile despre contul de utilizator
+# <a name="export-user-account-information"></a>Exportul informațiilor contului de utilizator
 
-Să exportaţi informaţii despre cont utilizator admin Microsoft 365 centru, inclusiv informaţii despre licenţe, Politica de parola, blocat conturile, stare sincronizare Aimee şi mai mult, du-te la **utilizatorii** > pagina de[utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) , şi apoi selectaţi **Export Utilizatorii**.
+Pentru a exporta informații despre contul de utilizator în centrul de administrare Microsoft 365, inclusiv informații despre licențe, politica privind parolele, conturile blocate, starea AAD Sync și altele, accesați pagina[Utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) **utilizatori,** > apoi selectați **Export utilizatori**.

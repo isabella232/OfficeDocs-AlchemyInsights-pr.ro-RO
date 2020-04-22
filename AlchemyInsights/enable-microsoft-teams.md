@@ -1,9 +1,9 @@
 ---
-title: Activare echipe Microsoft
+title: Activarea Echipelor Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,15 +15,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 53638195d0c1a0c73ff70c38ab7c3cea49d0a53a
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: da5d2fe06a7c51d1eaad61dfff5939f4e94c470e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908542"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703547"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Activați și utilizați Microsoft teams
+# <a name="enable-and-use-microsoft-teams"></a>Activarea și utilizarea Echipelor Microsoft
 
-Dacă nu aveți acces la Microsoft teams deloc, consultați [pot obține acces la Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Dacă nu aveți deloc acces la Microsoft Teams, consultați [Cum obțin accesul la Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-Dacă aveți deja Microsoft teams și trebuie să știți să îl configurați și să îl gestionați, consultați [Gestionarea setărilor Microsoft teams pentru organizația dvs](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+Dacă aveți deja Microsoft Teams și trebuie să știți să îl configurați și să îl gestionați, consultați [Gestionarea setărilor Microsoft Teams pentru organizația dvs.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)

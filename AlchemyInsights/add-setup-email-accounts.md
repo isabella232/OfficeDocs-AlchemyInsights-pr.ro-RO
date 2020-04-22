@@ -1,8 +1,8 @@
 ---
-title: 764 Add/setup conturi de e-mail
+title: 764 Conturi de e-mail Add/Setup
 ms.author: pdigia
 author: pebaum
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660912"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671397"
 ---
-# <a name="setup-email-accounts"></a>Configurare conturi de e-mail
+# <a name="setup-email-accounts"></a>Configurarea conturilor de e-mail
 
-1. În Outlook, selectați **fișier** > **Info** > **Adăugare cont**.
+1. În Outlook, selectați**Informații** >  **fișier** > **Adăugare cont**.
 
 2. Introduceți adresa de e-mail, apoi selectați **Conectare**.
 
-3. Introdu parola, apoi selectează **OK**.
+3. Introduceți parola, apoi selectați **OK**.
 
-4. Puteți repeta acești pași pentru a adăuga mai multe conturi.
+4. Aveți posibilitatea să repetați acești pași pentru a adăuga mai multe conturi.
 
     > [!NOTE]
-    > Unele conturi de e-mail, ar fi Gmail, Yahoo și iCloud, vă solicită să configurați autentificarea cu doi factori pentru a utiliza Outlook pentru a trimite și a primi e-mailuri. Consultați [adăugarea unui cont de e-mail în Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) pentru mai multe informații.
+    > Unele conturi de e-mail, ar fi Gmail, Yahoo și iCloud, vă solicită să configurați autentificarea cu doi factori pentru a utiliza Outlook pentru a trimite și a primi e-mailuri. Consultați [Adăugarea unui cont de e-mail la Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) pentru mai multe informații.
   

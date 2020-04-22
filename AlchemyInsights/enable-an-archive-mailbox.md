@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132623"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703691"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activarea unei cutii poștale de arhivă
 
@@ -25,7 +25,7 @@ Iată se creează o cutie poștală de arhivă:
   
 1. Du-te la. [https://protection.office.com](https://protection.office.com)
 
-2. Conectați-vă la Office 365 utilizând contul de administrator.
+2. Conectați-vă la Microsoft 365 utilizând contul de administrator.
 
 3. În panoul din stânga &amp; al Centrului de conformitate a securității, selectați \> **Arhivă** **de guvernanță a informațiilor** .
 
@@ -51,6 +51,6 @@ Pentru a activa arhiva pentru o cutie poștală partajată:
 
 Pentru mai multe informații, consultați:
   
-- [Activarea cutiilor poștale de arhivă în Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Activarea cutiilor poștale de arhivă](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Configurarea unei politici de arhivare și ștergere în Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Configurarea unei politici de arhivare și ștergere](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

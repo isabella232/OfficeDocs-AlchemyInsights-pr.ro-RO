@@ -1,9 +1,9 @@
 ---
-title: Preţul nu arata corect?
+title: Prețul nu arată corect?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388504"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666717"
 ---
-# <a name="price-doesnt-look-correct"></a>Preţul nu arata corect?
+# <a name="price-doesnt-look-correct"></a>Prețul nu arată corect?
 
-Dacă preţul pe factura nu arata corect, acest lucru ar putea fi din cauza unei schimbări de preţ la reînnoire. Dacă nu credeţi că acest lucru explică problema, vă rugăm să folosiţi opţiunea "să ne te sun" să vorbesc cu un inginer de suport.
+Dacă prețul facturii nu arată corect, acest lucru se poate datora unei modificări de preț la reînnoire. Dacă nu credeți că acest lucru explică problema, vă rugăm să folosiți "Să te sun" opțiune pentru a vorbi cu un inginer de sprijin.

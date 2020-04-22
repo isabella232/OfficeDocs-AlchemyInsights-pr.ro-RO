@@ -1,28 +1,28 @@
 ---
-title: Schimbați informațiile de cont în Outlook pe web
+title: Modificarea informațiilor de cont în Outlook pe web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 861892a3e51727f00fcbbeedf1cf434589d7432a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36510599"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667005"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Schimbați informațiile de cont în Outlook pe web
+# <a name="change-account-information-in-outlook-on-the-web"></a>Modificarea informațiilor de cont în Outlook pe web
 
-1. În partea de sus a paginii, selectează numele sau fotografia de profil.
-1. Selectați **contul meu**.
-1. Selectați **informații personale**.
-1. Schimbați sau adăugați informații despre dvs.
+1. În partea de sus a paginii, selectați numele sau fotografia de profil.
+1. Selectați **Contul meu**.
+1. Selectați **Informații personale**.
+1. Modificați sau adăugați informații despre dvs.
 
-*Notă:* Unele detalii, ar fi numele și titlul postului, pot fi furnizate de departamentul IT sau de resurse umane. Dacă doriți să actualizați aceste detalii, contactați-le sau admin.
+*Notã:* Unele detalii, ar fi numele și titlul postului, pot fi furnizate de departamentul IT sau de resurse umane. Dacă doriți să actualizați aceste detalii, contactați-i pe aceștia sau pe administratorul dvs.
 
-Pentru mai multe informații, consultați [modificarea informațiilor despre fotografie și cont în Outlook pe web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Pentru mai multe informații, consultați [Modificarea informațiilor despre fotografie și cont în Outlook pe web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

@@ -1,8 +1,8 @@
 ---
-title: Cod de eroare 550 5.7.705 Access denied, chiriaşul a depăşit pragul de
+title: Cod de eroare 550 5.7.705 Acces refuzat, entitate găzduită a depășit pragul
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527231"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703002"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 access denied, chiriaşul a depăşit pragul de
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Acces refuzat, chiriaș ul a depășit pragul
 
-Acest mesaj apare atunci cand prea mult spam sau bulk mail a fost trimis de organizaţie şi punem un bloc pe outgoing mail.
-Cauzele frecvente sunt serverele locale compromise sau conturi compromise admin care au fost folosite pentru a crea conectori. Vreuna dintre condiţiile poate permite spam să treacă prin intermediul organizaţiei dvs.
+Acest mesaj apare atunci când prea mult spam sau e-mail în bloc a fost trimis de către organizația dvs.
+Cauzecomune sunt compromise local fermă de servere sau compromise admin conturi care au fost utilizate pentru a crea conectori. Oricare dintre condițiile pot permite spamului să treacă prin organizația dvs.
 
-Pentru a elimina acest bloc, aveţi nevoie pentru a înţelege şi explica cauza la un agent de suport, precum şi corecta problema care stau la baza.
-Faceţi clic pe **contactaţi-ne** mai jos odată ce sunteţi gata.
+Pentru a elimina acest bloc, trebuie să înțelegeți și să explicați cauza unui agent de asistență, precum și să corectați problema de bază.
+Dați clic pe **Contactați-ne** mai jos după ce sunteți gata.

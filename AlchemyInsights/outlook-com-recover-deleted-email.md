@@ -1,9 +1,9 @@
 ---
-title: Recupera elimină e-mail în Outlook.com
+title: Recuperarea e-mailului șters în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666969"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Recupera elimină email Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Recuperare Outlook.com de e-mail șterse
 
-1. În panoul din stânga, selectaţi **Elemente şterse**.
-2. Selectaţi elementul pe care doriţi să recupereze şi selectaţi **Restaurare**.
-3. Dacă mesajul nu este în elemente şterse, selectaţi **recupera elementele șterse din acest folder** în partea de sus a ferestrei.
+1. În panoul din stânga, **selectați Elemente șterse**.
+2. Selectați elementul pe care doriți să-l recuperați și selectați **Restaurare**.
+3. Dacă mesajul nu este în Elemente șterse, selectați **Recuperare elemente șterse din acest folder** din partea de sus a ferestrei.
 
- **Informaţii importante despre elementele şterse:**
+ **Informații importante despre elementele șterse:**
   
-- Elemente eliminate din folderul Elemente şterse sunt recuperabile, pentru 30 de zile.
-- Dacă nu aţi semnat în contul dumneavoastră pentru 365 de zile, e-mailul va fi şters şi nu pot fi recuperate.
-- Nu este posibil să se recupereze e-mail elimină din conturile de copil.
+- Elementele eliminate din folderul Elemente șterse pot fi recuperabile timp de 30 de zile.
+- Dacă nu v-ați conectat la cont timp de 365 de zile, e-mailul va fi șters și nu poate fi recuperat.
+- Nu este posibil să recuperați e-mailurile șterse din conturile fiu.
 
-Pentru a afla mai multe, consultaţi [Restore şterge mesajele de e-mail în Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru a afla mai multe, consultați [Restaurarea mesajelor de e-mail șterse în Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

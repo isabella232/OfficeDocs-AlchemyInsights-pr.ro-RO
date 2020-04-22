@@ -1,5 +1,5 @@
 ---
-title: Servicii de acces la pensie
+title: Servicii de acces de pensionare
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050501"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687270"
 ---
-# <a name="access-services-retirement"></a>Servicii de acces la pensie
+# <a name="access-services-retirement"></a>Servicii de acces de pensionare
 
-Așa am anunțat inițial în MC97576, în martie 2017, și a continuat să comunice pe parcursul anului trecut servicii de acces sunt fiind retras din Office 365. Următoarea fază din acest proces va fi eliminarea bazelor de date Access web care utilizează liste SharePoint ca stocarea datelor subiacente.
+Așa am anunțat inițial în MC97576, în martie 2017, și am continuat să comunicăm în ultimul an, Access Services sunt retrase. Următoarea fază în acest proces va fi eliminarea bazelor de date Web Access care utilizează liste SharePoint ca stocare de date subiacente.
 
 **mă afectează asta?**
 
-Începând cu iunie 2019, vom opri crearea de noi baze de date Access în SharePoint Online și închideți serviciul și orice aplicații rămase până în aprilie 2020.
+Începând cu luna iunie 2019, vom opri crearea de noi baze de date Access în SharePoint Online și vom închide serviciul și toate aplicațiile rămase până în aprilie 2020.
 
 **Ce trebuie să fac pentru a mă pregăti pentru această schimbare?**
 
-Vă încurajăm să creați un plan de tranziție pentru bazele de date Web Access ale organizației dvs. Administratorii pot utiliza [scanerul aplicației SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pentru a obține un inventar al aplicațiilor Access pe care le utilizează site-urile.
+Vă încurajăm să creați un plan de tranziție pentru bazele de date web Access ale organizației dvs. Administratorii pot utiliza [scanerul de aplicații SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pentru a obține un inventar al aplicațiilor Access pe care le utilizează site-urile.
 
-Există mai multe modalități de a migra datele de baze de date Web Access:
+Există mai multe moduri de migrare a datelor bazelor de date web Access:
 
 - Importul într-o bază de date Access locală (. ACCDB) sau într-un fișier Excel.
-- De asemenea, recomandăm explorarea Microsoft PowerApps ca o platformă alternativă pentru a crea soluții de afaceri fără cod pentru dispozitive web și mobile.
+- De asemenea, vă recomandăm să explorați Microsoft PowerApps ca o platformă alternativă pentru a crea soluții de afaceri fără cod pentru dispozitive web și mobile.

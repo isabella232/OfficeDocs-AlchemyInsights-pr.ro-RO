@@ -1,9 +1,9 @@
 ---
-title: Angajat lăsând
+title: Plecarea angajatului
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527843"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703727"
 ---
-# <a name="block-access-to-a-former-employee"></a>Bloc accesul la un fost angajat
+# <a name="block-access-to-a-former-employee"></a>Blocarea accesului la un fost angajat
 
-Am un angajat care părăsesc şi trebuie să blocheze accesul la Office 365 date şi e-mail? Procedaþi în modul urmãtor.
+Aveți un angajat care pleacă și trebuie să blocheze accesul la date și e-mail? Procedați astfel.
   
-1. În centrul de administrare, du-te la **utilizatorii** \> pagina de [Utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. În centrul de administrare, accesați pagina [Utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) **utilizatori.** \>
 
-2. Selectaţi numele de utilizator pe care doriţi să blocaţi.
+2. Selectați numele utilizatorului pe care doriți să îl blocați.
 
-3. Sub numele de utilizator, selectaţi **bloc acest utilizator**.
+3. Sub numele utilizatorului, selectați **Blocare utilizator**.
 
-4. Alege **blocaţi utilizatorul la semnarea** \> **salvaţi modificările**.
+4. Alegeți **Blocare utilizator de la conectare a modificărilor în** \> **Salvare modificări**.
 
-**Notă**: sign out unele apps nu ar putea fi imediate. Urmărirea cu mai multe acţiuni în acest articol: [elimina un fost angajat la Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Notă:** Este posibil ca deconectarea pentru unele aplicații să nu fie imediată. Urmăriți cu mai multe acțiuni în acest articol: [Eliminați un fost angajat](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

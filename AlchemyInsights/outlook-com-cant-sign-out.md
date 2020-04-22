@@ -1,9 +1,9 @@
 ---
-title: Outlook.com nu pot face sign out
+title: Outlook.com nu se poate deconecta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547827"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666861"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Imposibilitatea de a semna din Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Imposibil de deconectat de la Outlook.com
 
-Pentru a semna din Outlook.com, selectaţi numele sau poza la colţul din dreapta sus a ecranului, apoi selectaţi **deconectaţi-vă**.
+Pentru a vă deconecta de la Outlook.com, selectați numele sau imaginea din colțul din dreapta sus al ecranului, apoi selectați **Deconectare**.
 
-Dacă nu vedeţi imagine în partea de sus a ecranului, verificaţi pentru a vedea dacă ad blocarea este activată. Uneori, acest lucru previne imaginea la afişarea.
+Dacă nu vedeți imaginea în partea de sus a ecranului, verificați dacă este activată blocarea anunțurilor. Uneori, acest lucru împiedică afișarea imaginii.
 
-Dacă încă nu pot semna din Outlook.com, faceţi clic pe [https://login.live.com/logout.srf](https://login.live.com/logout.srf) apoi închideţi toate ferestrele browserului.
+Dacă tot nu vă puteți deconecta [https://login.live.com/logout.srf](https://login.live.com/logout.srf) de la Outlook.com, faceți clic pe închiderea tuturor ferestrelor browserului.
