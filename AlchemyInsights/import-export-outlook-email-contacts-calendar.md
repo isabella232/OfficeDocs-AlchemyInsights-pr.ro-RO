@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-email-Contacts-calendar
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545188"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724676"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Import şi export Outlook e-mail, contacte şi elementele de calendar
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importul și exportul mesajelor de e-mail, al persoanelor de contact și al elementelor de calendar Outlook
 
-1. În Outlook, faceţi clic pe **fişier**.
+1. În Outlook, faceți clic pe **Fișier**.
 
-2. Faceţi clic pe **Open & Export**, şi apoi faceţi clic pe **Import/Export**.
+2. Faceți clic pe **Deschidere și export**, apoi pe **Import/Export**.
 
-    Acesta porneşte expertul de Import şi Export.
+    Aceasta pornește Expertul import și export.
 
-Pentru un complet set de import şi export instrucţiuni pentru Outlook, a se vedea [acest articol](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Pentru un set complet de instrucțiuni de import și export pentru Outlook, consultați [acest articol](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Dacă sunteţi un administrator şi doriţi să vrac-import mai multor PST fişiere Office 365 cutii poştale, consultaţi [acest articol](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Dacă sunteți un administrator și doriți să bulk-import mai multe pst fișiere la Microsoft 365 cutiipoștale, consultați [acest articol](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

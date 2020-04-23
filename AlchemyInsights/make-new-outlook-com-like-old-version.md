@@ -1,9 +1,9 @@
 ---
-title: Cum sa faci aspectul Outlook.com noi ca cel vechi
+title: sa faci noul Outlook.com arata ca cel vechi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497527"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721786"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cum sa faci aspectul Outlook.com noi ca versiunea veche
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>sa faci noul Outlook.com arata ca versiunea veche
 
-Aici sunt unele setări puteţi schimba pentru a face aspectul Outlook.com noi ca versiunea veche:
+Iată câteva setări pe care le puteți modifica pentru a face noul Outlook.com să arate ca versiunea veche:
 
-1. Du-te la [setările de Layout](https://outlook.live.com/mail/options/mail/layout).
-1. În conformitate cu **orientarea primite**, selectaţi **nu sortaţi mesajele mele**.
-1. În cadrul **organizaţiei de mesaj**, selectaþi **cele mai noi mesaje pe partea de sus**.
-1. La **expeditor imagine**, selectaţi **nu arata expeditorului imagini**.
-1. În **panoul de citire**, selectaţi **ascunde panoul de citire**.
-1. Din **textul de examinare a mesaj**, selectaţi **textul de examinare Arată**.
-1. La **avanpremiera Inline**, selectaţi **nu arată ataşamente în lista de mesaje**.
+1. Accesați [Setări aspect](https://outlook.live.com/mail/options/mail/layout).
+1. Sub **Inbox focalizat**, selectați **Nu sortați mesajele .**
+1. Sub **Organizare mesaje**, selectaþi Cele mai noi mesaje în partea de **sus**.
+1. Sub **Imagine expeditor**, selectaþi Nu se **afișeazã imagini expeditor .**
+1. Sub **Panou de citire**, selectați **Ascundere panou de citire**.
+1. Sub **Text previzualizare mesaj**, selectaþi **Seaþi textul de previzualizare**.
+1. Sub **Previzualizări inline**, selectați **Nu se afișează atașările în lista de mesaje**.
 
-Pentru a modifica setările de poştă electronică astfel încât inbox Arată şi se comportă aşa cum doriţi să, a se vedea [schimba aspectul cutiei poştale în Outlook.com şi nouă perspectivă pe web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru a modifica setările mail-ului astfel încât inboxul să arate și să se comporte așa doriți, consultați [Modificarea aspectului cutiei poștale în Outlook.com și a noului Outlook de pe web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

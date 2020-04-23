@@ -2,7 +2,7 @@
 title: Dezinstalarea Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: Paşii de mai jos descriu cum se dezinstalează Office de pe un PC.
-ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Pașii de mai jos descriu se dezinstalează Office de pe un PC.
+ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558449"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731340"
 ---
 # <a name="uninstall-office"></a>Dezinstalarea Office
 
-Descărca şi instala [sprijin si asistent de recuperare](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Descărcați și instalați [Asistentul pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Când se deschide, la **produsele dezinstalaţi Office** selectaţi versiunea pe care doriţi să dezinstalaţi şi selectaţi **Următorul**.
+1. Când se deschide, din **Dezinstalare produse Office** selectați versiunea pe care doriți să o dezinstalați și selectați **Următorul**.
 
-2. Continua trece prin ecrane şi reporniţi computerul când vi se solicită.
+2. Continuați să parcurgeți ecranele și reporniți computerul atunci când vi se solicită.
 
-    După repornirea, suport și recuperare asistent re-se deschide automat pentru a finaliza procesul de dezinstalare.
+    După repornire, Asistentul de asistență și recuperare se redeschide automat pentru a finaliza procesul de dezinstalare.
 
-3. Urmaţi restul solicitările şi [reinstala Office](https://portal.office.com/OLS/MySoftware.aspx) sau închide asistentul.
+3. Urmați solicitările rămase și [reinstalați Office](https://portal.office.com/OLS/MySoftware.aspx) sau închideți asistentul.
 
-Pentru o listă de alte opţiuni de dezinstalare, selectați [Dezinstalare Office de pe un PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
+Pentru o listă de alte opțiuni de dezinstalare, selectați [Dezinstalare Office de pe un PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   

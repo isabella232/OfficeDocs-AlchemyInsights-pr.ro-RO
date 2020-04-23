@@ -1,9 +1,9 @@
 ---
-title: Condițiile de utilizare sau formule avansate într-un flux
+title: Utilizarea condițiilor sau a formulelor avansate într-un flux
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: da2b093237f94809b501baabe84122e776b7fbb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88ae3420d7be6bba9f032a99564c43e7d4d24b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532300"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726368"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Condițiile de utilizare sau formule avansate într-un flux
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Utilizarea condițiilor sau a formulelor avansate într-un flux
 
-În Microsoft Flow, aveţi posibilitatea să particularizaţi un flux astfel încât acesta efectuează sarcini numai în cazul în care o condiţie este adevărată. Pentru informaţii, consultaţi [adăugarea o condiţie pentru un flux](https://go.microsoft.com/fwlink/?linkid=872112).
+În Microsoft Flow, aveți posibilitatea să particularizați un flux astfel încât să efectuează activități numai dacă o condiție este adevărată. Pentru informații, consultați [Adăugarea unei condiții la un flux](https://go.microsoft.com/fwlink/?linkid=872112).
   
-Pentru a crea o formulă avansată, a se vedea [flux de lucru definiţie limba schemă pentru azuriu logica apps](https://aka.ms/logicexpressions).
+Pentru a crea o formulă complexă, consultați [Schemă de limbă de definiție flux de lucru pentru aplicațiilogice Azure](https://aka.ms/logicexpressions).
   
 

@@ -1,9 +1,9 @@
 ---
-title: 929 Inbox reguli reguli deflectTransport
+title: 929 Reguli Inbox pentru a deviaRegulile de transport
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724604"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Mail fluxul reguli (cunoscute şi ca reguli de transport)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Reguli privind fluxul de corespondență (cunoscute și sub numele de reguli de transport)
 
-- Ansamblu de reguli de fluxul de corespondenţă: [Mail fluxul reguli (reguli de transport) în Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Prezentare generală generală a regulilor fluxului de corespondență: [Reguli flux corespondență (reguli de transport) în Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Configurare reguli de fluxul de corespondenţă: [Mail fluxul procedurile de regulă în Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Reguli de flux de corespondență de instalare: [Proceduri de regulă flux corespondență în Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Crea, modifica şi şterge regulile de fluxul de corespondenţă: [Manage mail fluxul reguli](https://technet.microsoft.com/library/jj657505.aspx)
+- Crearea, modificarea și ștergerea regulilor fluxului de corespondență: [Gestionarea regulilor fluxului de corespondență](https://technet.microsoft.com/library/jj657505.aspx)
 
-De asemenea, aveţi posibilitatea să gestionaţi mail fluxul reguli în Exchange Online PowerShell. Pentru informaţii suplimentare, consultaţi [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (Vezi), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (crea), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modifica existente), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (dezactivează existente), şi [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (permite existente).
+De asemenea, aveți posibilitatea să gestionați regulile fluxului de corespondență în Exchange Online PowerShell. Pentru mai multe informații, consultați [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (vizualizare), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) și [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable existing).
 
-Mail suplimentare fluxul de regulă cmdlet-urile: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (lista de acţiuni disponibile), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (listă disponibilă condiţii şi excepţii), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (export reguli) şi [ Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (regulile de import).
+Cmdlet-uri suplimentare de reguli de flux de corespondență: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (listează acțiunile disponibile), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (listează condițiile și excepțiile disponibile), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (reguli de export) și [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (reguli de import).

@@ -1,9 +1,9 @@
 ---
-title: Cum puteţi să identificaţi o taxă pe cardul de credit sau extrasul de cont
+title: se identifică o taxă pe cardul de credit sau extrasul bancar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540625"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724386"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Cum puteţi să identificaţi o taxă pe cardul de credit sau extrasul de cont
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>se identifică o taxă pe cardul de credit sau extrasul bancar
 
-Descriere taxa pentru un abonament Office 365 arata astfel:
+Descrierea taxei pentru un abonament Microsoft 365 arată astfel:
   
-MSFT \* WA de 0000 - MSBILL.INFO, E012345ABC
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-10 caractere alfa-numerice aleatoare urma MSFT \* este numărul de factură legată de taxa. Pentru a găsi factura, du-te la **Facturare** \> filme [facturile & plăți](https://go.microsoft.com/fwlink/p/?linkid=848039) pentru a vizualiza facturile dumneavoastră recente. Numarul facturii este lângă colţul din dreapta a documentului de factură.
+Șirul alfanumeric de 10 \* caractere după MSFT este numărul facturii la care se referă taxa. Pentru a găsi factura, accesați pagina Facturi **de facturare** \> [& plăți](https://go.microsoft.com/fwlink/p/?linkid=848039) pentru a vizualiza facturile recente. Numărul facturii se află în colțul din dreapta al documentului de factură.

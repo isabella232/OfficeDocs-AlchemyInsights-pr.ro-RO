@@ -1,31 +1,31 @@
 ---
-title: Depanarea problemelor cu opţiuni de înscriere Microsoft Intune
+title: Depanarea problemelor cu opțiunile de înscriere Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734644"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Depanarea problemelor cu opţiuni de înscriere Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Depanarea problemelor cu opțiunile de înscriere Microsoft Intune
 
-Consultaţi resurse enumerate mai jos pentru a rezolva problema acum. Dacă aceste resurse nu ajuta, contactaţi asistenţa prin clic [aici](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) şi alegerea "creaţi o solicitare de asistenţă." 
+Examinați resursele enumerate mai jos pentru a rezolva problema acum. Dacă aceste resurse nu ajută, contactați asistența făcând clic [aici](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) și alegând "Creați o solicitare de asistență". 
   
-- [Revizuire Intune TechNet pentru a găsi răspunsuri şi soluţii la problemele comune](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Revizuirea Intune TechNet pentru a găsi răspunsuri și soluții la problemele comune](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii. 
+- Utilizați [Intune Depanare portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica și rezolva erorile de înscriere comune. Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii. 
     
-- Consultaţi [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare. 
+- Examinați [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea și rezolvările pentru fiecare. 
     
-- [Aflaţi despre opţiunile de înscriere în Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Aflați mai multe despre opțiunile de înscriere în Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

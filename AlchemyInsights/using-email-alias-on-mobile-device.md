@@ -1,9 +1,9 @@
 ---
-title: 725 utilizarea e-mail alias on mobile drac
+title: 725 Utilizarea aliasului de e-mail pe dispozitivul mobil
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 8ac6a99cb481e6f80aeec90bd0cb51eca52bdba4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531731"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726296"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>Aliasurile de poştă electronică pe dispozitive mobile
+# <a name="email-aliases-on-mobile-devices"></a>Pseudonime de e-mail pe dispozitive mobile
 
-Un alias de poştă electronică este doar o altă adresă de e-mail care este configurat pe o cutie poştală, astfel încât mesajele trimise unui utilizator alias vor fi livrate la cutia poştală şi va fi citit on lor mobile drac. Este nevoie de nici o configurare suplimentare.
+Un alias de e-mail este doar o altă adresă de e-mail configurată pe o cutie poștală, astfel încât mesajele trimise aliasului unui utilizator vor fi livrate la cutia poștală și vor putea fi citite pe dispozitivul mobil. Nu este necesară o configurație suplimentară.
 
-Dar, un utilizator nu poate răspunde la mesaje sau trimite mesaje noi, folosind un pseudonim ca lor la adresa. Toate mesajele de ieşire va fi la adresa lor de e-mail principală.
+Dar, un utilizator nu poate răspunde la mesaje sau trimite mesaje noi folosind un alias ca adresa lor de la. Toate mesajele trimise vor fi de la adresa lor de e-mail principală.

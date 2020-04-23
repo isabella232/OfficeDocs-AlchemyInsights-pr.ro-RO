@@ -1,9 +1,9 @@
 ---
-title: import-export-in-Outlook-for-Mac
+title: import-export-in-outlook-for-mac import-export-in-outlook-pentru-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629957"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724742"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Import/Export în Outlook pentru Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Import / Export în Outlook pentru Mac 
 
 Export:
-1. În fila **Instrumente** , selectaţi **Export**.
-2. În caseta **Salvare ca** , sub **favorite**, selectaţi folderul **Downloads** şi selectaţi **salva**.
-3. Când vedeţi notificare că exportul este completă, selectaţi **Finish**.
+1. Pe fila **Instrumente,** alegeți **Export**.
+2. În caseta **Salvare ca,** sub **Preferințe**, alegeți folderul **Descărcări** și selectați **Salvare**.
+3. Când vedeți notificarea că exportul este finalizat, selectați **Terminare**.
 
 Import:
-1. În fila **Instrumente** , selectaţi **Import**.
-2. Selectaţi **Outlook pentru Windows Arhiva fişier (.pst)** > **continua**.
-3. Localizaţi fişierul .pst pe Mac-ul tău, şi apoi atunci a alege **Import**.
-4. Când procesul de import este completă, alege **termina**.
-5. Articolele importate apar în panoul de navigare sub **Pe My Computer**.
+1. Pe fila **Instrumente,** alegeți **Import**.
+2. Selectați **Outlook pentru fișierul arhivă Windows (.pst)** > **Continuare**.
+3. Găsiți fișierul .pst de pe Mac, apoi alegeți **Import**.
+4. Când se termină procesul de import, selectați **Terminare**.
+5. Elementele importate apar în panoul de navigare de sub **Pe computerul meu**.
 
-Pentru setul complet de Import şi Export instrucţiuni pentru Outlook pentru Mac vedea [Import şi export Outlook e-mail, contact, şi calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Pentru un set complet de instrucțiuni de import și export pentru Outlook pentru Mac, consultați [Importul și exportul e-mailului, persoanelor de contact și calendarului Outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Pentru a primi sprijin în app pentru Outlook pentru probleme de Mac, deschideţi Outlook şi selectaţi **Ajutor** > **Contact suport**. Introduceţi întrebarea dumneavoastră şi membru al Outlook pentru Mac te va contacta echipa de suport. [Contactaţi asistenţa în Outlook pentru Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Pentru a primi suport în aplicație pentru problemele Outlook pentru Mac, deschideți Outlook și selectați**Asistență contact** **ajutor** > . Tastați întrebarea și un membru al echipei de asistență Outlook pentru Mac va lua legătura cu dvs. [Contactați asistența în Outlook pentru Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
