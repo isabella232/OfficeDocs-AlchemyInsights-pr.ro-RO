@@ -1,5 +1,5 @@
 ---
-title: se verifică domeniul cu Office 365
+title: 'se verifică domeniul '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529616"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788021"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>se verifică domeniul cu Office 365
+# <a name="how-to-verify-your-domain"></a>se verifică domeniul
 
 Pentru a verifica domeniul dvs., va trebui să adăugați o înregistrare TXT la registratorul de domeniu pentru a verifica dacă dețineți domeniul. Mai întâi, urmați [expertul Adăugare domeniu](https://portal.office.com/adminportal/home#/Domains/Wizard) făcând clic pe Domenii **de** **instalare** \> , apoi pe **Adăugare domeniu**.
   
-Urmați instrucțiunile din [Crearea înregistrărilor DNS la orice furnizor de găzduire DNS pentru Office 365 pentru](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) a adăuga o înregistrare TXT pentru a vă verifica domeniul.
+Urmați instrucțiunile din [Crearea înregistrărilor DNS la orice furnizor de găzduire DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pentru a adăuga o înregistrare TXT pentru a vă verifica domeniul.
 
 Pentru alte probleme de domenii încercați [domenii FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).

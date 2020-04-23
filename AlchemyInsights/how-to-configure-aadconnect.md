@@ -1,9 +1,9 @@
 ---
-title: 646 cum la spre configure AADConnect
+title: 646 se configurează AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541597"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722575"
 ---
-# <a name="configure-sync-features"></a>Configurați sincronizare caracteristici
+# <a name="configure-sync-features"></a>Configurarea caracteristicilor de sincronizare
 
-Azur AD Connect include mai multe caracteristici care sunt activate în mod implicit, sau puteţi activa mai tarziu. Unele funcții necesită configurare suplimentare în anumite medii.
+Azure AD conecta include mai multe caracteristici care sunt activate în mod implicit sau care se pot activa mai târziu. Unele caracteristici necesită configurare suplimentară în anumite medii.
 
-- [Filtrarea](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) limitele obiectele sunt sincronizate cu Azur AD. Mod implicit, tuturor utilizatorilor, contacte, grupuri, şi Windows 10 calculator conturi sunt sincronizate. Pot include sau exclude obiecte bazate pe domenii, Pension sau alte atribute.
+- [Filtrarea](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) limitelor obiectele sunt sincronizate cu Azure AD. În mod implicit, toți utilizatorii, persoanele de contact, grupurile și conturile de computer Windows 10 sunt sincronizate. Aveți posibilitatea să includeți sau să excludeți obiecte bazate pe domenii, o-uri sau alte atribute.
 
-- [Sincronizare de hash parola](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sincronizează hash parola din Active Directory local azuriu AD. Acest lucru permite de gestionare a parolei într-o singură locaţie, dar utilizează aceeaşi parolă în ambele locală şi nor medii. Pentru Active Directory este sursă de autoritate, puteţi utiliza propriile politici de parola.
+- [Sincronizarea hash parola](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sincronizează hash parola din Active Directory local la Azure AD. Acest lucru permite gestionarea parolelor într-o singură locație, dar utilizarea aceleiași parole atât în mediul local, cât și în cel în cloud. Deoarece Active Directory este sursa cu autoritate, aveți posibilitatea să utilizați propriile politici de parolă.
 
-- [(SSPR) de resetare a parolei autoservire](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) permite utilizatorilor pentru a reseta parolele în nor în timp ce încă aplică politica de parola dumneavoastră local.
+- [Resetarea parolei cu autoservire (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) permite utilizatorilor să își reseteze propriile parole în cloud în timp ce aplică în continuare politica locală privind parolele.
 
-- [Dispozitivul writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) permite dispozitivelor înregistraţi în Azur Anunţul să fi scris înapoi în Active Directory local astfel încât ele pot fi folosite pentru acces condiționat.
+- [Dispozitiv writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) permite dispozitive înregistrate în Azure AD pentru a fi scris înapoi la active directory local, astfel încât acestea să poată fi utilizate pentru acces condiționat.
 
-- [Prevenirea accidental şterge](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) este activată implicit pentru a preveni prea multe obiecte simultan ştergeri (peste 500 de obiecte pe sincronizare). Puteţi modifica această setare pentru a satisface nevoile dvs.
+- [Împiedicați ștergerea accidentală](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) este activată în mod implicit pentru a preveni prea multe ștergeri simultane ale obiectelor (mai mult de 500 de obiecte per sincronizare). Aveți posibilitatea să modificați această setare pentru a satisface nevoile organizației.
 
-- [Actualizarea automată](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) este activată implicit pentru instalatii expres şi ajută la asigurarea versiunea de AD Azure Connect este întotdeauna curent.
+- [Upgrade-ul automat](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) este activat în mod implicit pentru instalările expres și vă ajută să vă asigurați că versiunea azure AD connect este întotdeauna curentă.

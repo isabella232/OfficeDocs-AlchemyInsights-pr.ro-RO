@@ -1,9 +1,9 @@
 ---
-title: 8000051 Outlook.com mult timp rulează script-ul
+title: 8000051 Outlook.com Script de rulare lungă
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: 3cf400cbc56d2d3f0bb756358f8348f280b56eae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 86f9efc84fe9123ba12c43693c879dd0f74a48cb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760028"
 ---
-# <a name="long-running-script"></a>Script de execuție lungă
+# <a name="long-running-script"></a>Script de lungă durată
 
-Suntem conştienţi de problemele cu "mult timp rulează script-ul" în Outlook.com. Ca o soluţie, vă rugăm să folosiţi Outlook.com beta.
+Suntem conștienți de probleme cu "script-ul de lungă durată" în Outlook.com. Ca soluție, utilizați Outlook.com beta.
   
-[Aflaţi mai multe despre Outlook.com beta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Aflați mai multe despre Outlook.com beta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   

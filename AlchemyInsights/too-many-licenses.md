@@ -1,9 +1,9 @@
 ---
-title: Prea multe licente?
+title: Prea multe licențe?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759920"
 ---
-# <a name="too-many-licenses"></a>Prea multe licente?
+# <a name="too-many-licenses"></a>Prea multe licențe?
 
-Dacă credeţi că sunteţi taxat pentru prea multe licente de Office 365, acest lucru se datorează de regulă au achiziţionat licenţe mai multe, atunci ai nevoie.
+Dacă tu think al tău' being billed pentru de asemenea mulți a da un permis, this is usually datorie la spre having purchased mai mult a da un permis apoi atunci tu nevoie.
   
-**Reduce numărul de licenţe achiziţionate**
+**Reducerea numărului de licențe achiziționate**
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [servicii de & produselor](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Găsiţi abonament la care doriţi să eliminaţi licenţe, apoi selectaţi **Add/Remove licenţe**.
+2. Găsiți abonamentul din care doriți să eliminați licențele, apoi **selectați Adăugare/eliminare licențe**.
 
-3. În caseta de **licenţele Total** , introduceţi numărul total de licenţe de care ai nevoie pentru acest abonament, şi selectaţi **Submit schimba**. De exemplu, dacă aveţi 110 licenţe şi eliminaţi 5 dintre ele, intre 105.
+3. În caseta **Total licențe,** introduceți numărul total de licențe de care aveți nevoie pentru acest abonament, apoi **selectați Remitere modificare**. De exemplu, dacă aveți 110 licențe și doriți să eliminați 5 dintre ele, introduceți 105.
 
-Pentru a afla mai multe, consultaţi [elimina licenţe la dumneavoastră Office 365 pentru abonament de afaceri](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Pentru a afla mai multe, consultați [Eliminarea licențelor din abonamentul Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

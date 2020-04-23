@@ -1,5 +1,5 @@
 ---
-title: Modernizarea experienței SharePoint clasice
+title: Modernizați-vă experiența SharePoint clasică
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,24 +10,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: d998dec19433279e602c02bdaacc74371a4d0262
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767729"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizarea experienței SharePoint clasice
+# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizați-vă experiența SharePoint clasică
 
-Pentru a comuta la interfața cu utilizatorul modernă, revizuiți următoarele resurse:
+Pentru a face trecerea la interfața cu utilizatorul modernă, consultați următoarele resurse:
 
-- [Creați **site-uri moderne** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (site-ul echipei sau site-ul de comunicare). Utilizați [Look Book SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) pentru a construi un intranet frumos și puternic care conectează locul de muncă. A se vedea [exemple](https://lookbook.microsoft.com/) și a obține [de proiectare de orientare](https://spdesign.azurewebsites.net/).
-- [Conectați-vă site-ul la un **grup Office 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) pentru a crește colaborarea în Office 365.
-- Transformați-vă în **experiența modernă** a listei și a [bibliotecii, permițând listelor și bibliotecilor să se afișeze în interfața cu utilizatorul modernă](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Transforma **paginile site-ului** de la **wiki**clasic , **parte web**, și pagini de **pornire** în pagini [moderne client-side](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). Scanerul de [modernizare SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) furnizează informații despre utilizarea paginii despre paginile curente ale wiki-ului și ale părții web pentru a vă ajuta să prioritizați transformarea paginii.
+- [Creați **site-uri moderne** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (site-ul de echipă sau site-ul de comunicare). Utilizați [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) pentru a construi un intranet frumos și puternic care conectează locul de muncă. A se vedea [exemple](https://lookbook.microsoft.com/) și de a lua [de orientare de proiectare](https://spdesign.azurewebsites.net/).
+- [Conectați-vă site-ul la un **grup Office 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) pentru a spori colaborarea între Microsoft 365.
+- Transformați-vă în **lista modernă și** experiența [bibliotecii, permițând listelor și bibliotecilor să se afișeze în interfața cu utilizatorul modernă](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+- Transformați **paginile site-ului** din **wiki**clasic, **parte web**și pagini de **pornire** în pagini moderne de pe [partea clientului.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) [Scanerul de modernizare SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) furnizează informații despre pagina wiki și paginile de părți web curente pentru a vă ajuta să prioritizați transformarea paginii.
 
 Informații suplimentare:
 
 - Pentru o prezentare generală pas cu pas a modernizării experienței SharePoint clasice la modern, consultați [Modernizarea experienței SharePoint clasice](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
-- A se vedea un ghid pentru [experiența modernă](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
-- Consultați [experiențele SharePoint Classic și Modern](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- A se vedea un ghid pentru [Modern Experience](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Consultați [Experiențele SharePoint Clasice și Moderne](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).

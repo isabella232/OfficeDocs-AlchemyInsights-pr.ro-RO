@@ -1,9 +1,9 @@
 ---
-title: Ocupă de phishing în Outlook.com
+title: Confruntarea cu phishingul în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,19 +11,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fe8d3b17aae386f04fae9c142eb608f504a380b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535828"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744931"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Cum să se ocupe cu un e-mail de tip phishing
+# <a name="how-to-deal-with-a-phishing-email"></a>să se ocupe de un e-mail de phishing
 
-O înşelătorie de phishing este un e-mail care pare legitim, dar este de fapt o încercare de a fura informaţii personale sau de bani. Înşelătorii cibernetice, de asemenea, puteţi utiliza o tehnica numita falsificarea pentru a face să apară ca şi cum le-am primit un e-mail de la tine.
+O înșelătorie de phishing este un e-mail care pare legitim, dar este de fapt o încercare de a vă fura informațiile personale sau banii. Înșelătorii cibernetice pot utiliza, de asemenea, o tehnica numita falsificare a face să apară ca și ați primit un e-mail de la tine.
 
-Dacă primiţi un e-mail care arata ca o înşelătorie de phishing, puteţi raporta selectând mesajul şi apoi selectând **Junk** > **Phishing**.
+Dacă primiți un e-mail care arată ca o înșelătorie de tip phishing, aveți posibilitatea să îl raportați selectând mesajul, apoi selectând **Phishing** > **nedorit**.
 
-*Notă:* În cazul în care aţi marca un mesaj ca phishing, acesta raportează numai expeditorului.A nu bloca acel expeditorului să vă trimită mesaje în viitor. Pentru a bloca expeditor, trebuie să adăugaţi expeditor la lista de expeditori. Pentru informaţii suplimentare, consultaţi [blocarea expeditori sau deblocarea expeditorii din Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Notã:* Când marcați un mesaj ca phishing, acesta raportează numai expeditorul.Nu blochează expeditorul să vă trimită mesaje în viitor. Pentru a bloca expeditorul, trebuie să adăugați expeditorul la lista de expeditori blocați. Pentru mai multe informații, consultați [Blocarea expeditorilor sau deblocarea expeditorilor în Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Aflați cum să [se ocupe cu abuz, phishing, sau falsificarea în Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) şi [securitate Outlook.com avansate pentru abonații Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Aflați să [vă ocupați de abuzuri, phishing sau falsificare în Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) și securitate Outlook.com avansată pentru [abonații Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

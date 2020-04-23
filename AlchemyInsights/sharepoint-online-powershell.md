@@ -1,9 +1,9 @@
 ---
-title: SharePoint Online PowerShell
+title: Discutii pe toate forumurile
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 00ec337ce34da9d3c3fba0a71602c3078a556552
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37123010"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764273"
 ---
-# <a name="sharepoint-online-powershell"></a>SharePoint Online PowerShell
+# <a name="sharepoint-online-powershell"></a>Discutii pe toate forumurile
 
-Lucrul cu PowerShell sau scripturi în SharePoint Online? Accesați linkurile de mai jos pentru mai multe informații.
-- [Noțiuni introductive despre SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Conectarea la SPO PowerShell cu autentificarea Multifactorial (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+Lucrul cu PowerShell sau Script-uri în Sharepoint Online? Vizitați link-urile de mai jos pentru mai multe informații.
+- [Introducere în Componenta de administrare SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Conectarea la SPO PowerShell cu autentificare multifactor (MAE)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
 - [Modele și practici SharePoint (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) conține o bibliotecă de comenzi PowerShell care vă permite să efectuați acțiuni complexe de gestionare față de SPO.
 
 > [!NOTE]
-> - Dacă întâmpinați probleme la conectarea cu shell-ul de gestionare SPO, asigurați-vă că ați actualizat la cea mai recentă versiune și încercați să [importați din nou modulul](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) utilizând *"import-module Microsoft. online. SharePoint. PowerShell".*
-> - Dacă încercați să executați scripturi de model de obiect client-side, va trebui să aveți [SharePoint Online client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) instalat pe computerul local.
-> - Dacă întâmpinați probleme la rularea script-uri din PowerShell, poate doriți să luați în considerare rularea PowerShell ca administrator și modificarea [politicii de executare](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+> - Dacă aveți probleme de conectare cu componenta de gestionare SPO, asigurați-vă că ați actualizat la cea mai recentă versiune și încercați să [importați din nou modulul](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) utilizând *"Import-Module Microsoft.Online.SharePoint.PowerShell".*
+> - Dacă încercați să executați script-uri model de obiect partea client, va trebui să aveți [Sharepoint Online Client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) instalat pe computerul local.
+> - Dacă întâmpinați probleme la executarea scripturilor din PowerShell, luați în considerare executarea PowerShell ca Administrator și modificarea [politicii de executare](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).

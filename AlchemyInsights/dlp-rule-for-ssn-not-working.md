@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704097"
+ms.locfileid: "43788714"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP probleme cu numerele de securitate socială
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704097"
 
 **DlP probleme cu SSNs**
 
-Aveți probleme cu **data loss Prevention (DLP)** nu funcționează pentru conținut care conține un număr de securitate **socială (SSN)** atunci când utilizați un tip de informații sensibile în Office 365? Dacă da, asigurați-vă că conținutul conține informațiile necesare pentru ceea ce caută politica DLP. 
+Aveți probleme cu **data loss Prevention (DLP)** nu funcționează pentru conținut care conține un număr de securitate **socială (SSN)** atunci când utilizați un tip de informații sensibile în Microsoft 365? Dacă da, asigurați-vă că conținutul conține informațiile necesare pentru ceea ce caută politica DLP. 
   
 De exemplu, pentru o politică SSN configurată cu un nivel de încredere de 85%, sunt evaluate următoarele și trebuie detectate pentru ca regula să declanșeze:
   

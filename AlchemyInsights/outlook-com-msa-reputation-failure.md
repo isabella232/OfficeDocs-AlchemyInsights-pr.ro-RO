@@ -1,9 +1,9 @@
 ---
-title: Outlook.com cont blocat
+title: Outlook.com blocat contul
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/30/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745767"
 ---
 # <a name="account-locked"></a>Cont blocat
 
-Dacă vedeţi mesajul "contul a fost blocat", atunci când încercaţi să vă conectaţi la Outlook.com, este pentru că am observat o activitate neobişnuită pe contul dvs. Pentru a vă proteja de la potenţialul de fraudă sau de abuz, ne-am blocat temporar contul dvs. Ştim că acest lucru este frustrant, dar ne poate ajuta să obţineţi înapoi contul tău cu doar câţiva paşi.
+Dacă vedeți mesajul "Contul tău a fost blocat" atunci când încerci să te conectezi la Outlook.com, este pentru că am observat o activitate neobișnuită în contul tău. Pentru a vă proteja de o potențială fraudă sau abuz, v-am blocat temporar contul. Știm că acest lucru este frustrant, dar vă putem ajuta să reveniți la contul dvs., cu doar câțiva pași.
 
-1. Du-te la [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) şi faceţi sign in la contul blocat.Pentru a debloca contul dumneavoastră, trebuie să introduceţi codul de siguranþã, furnizat în mesaj text de la Microsoft. Pentru a obţine mesajul text, trebuie să aveţi un telefon care acceptă mesaje text. Dacă telefonul nu acceptă mesaje text, puteţi solicita un prieten sau membru de familie pentru a folosi telefonul lor. Microsoft nu salvaţi acest număr de telefon, astfel încât numărul de telefon pe care le utiliza pentru a primi acest mesaj de text nu trebuie să fie asociate cu contul dvs.
-2. Dacă vedeţi mesajul "Depăşit limita de utilizare", du-te la [Contul repunerea](https://go.microsoft.com/fwlink/?linkid=2090483) si unul din agentii nostri va revizui contul dvs.
+1. Accesați [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) și conectați-vă la contul blocat.Pentru a vă debloca contul, trebuie să introduceți codul de securitate furnizat în mesajul text de la Microsoft. Pentru a primi mesajul text, trebuie să aveți un telefon care acceptă mesaje text. Dacă telefonul nu acceptă mesaje text, poți solicita unui prieten sau unui membru al familiei să-și folosească telefonul. Microsoft nu salvează acest număr de telefon, astfel încât numărul de telefon pe care îl utilizați pentru a primi acest mesaj text nu trebuie să fie asociat cu contul dvs.
+2. Dacă vedeți mesajul "Limita de utilizare depășită", accesați [Reintegrarea](https://go.microsoft.com/fwlink/?linkid=2090483) contului și unul dintre agenții noștri vă va revizui contul.
 
-Pentru a afla mai multe, citiţi [Deblocare contul Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Pentru a afla mai multe, [citiți Deblocați-mi contul Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

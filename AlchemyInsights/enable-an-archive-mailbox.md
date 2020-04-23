@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703691"
+ms.locfileid: "43788678"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activarea unei cutii poștale de arhivă
 
-Arhivați cutiile poștale în Office 365 (denumit și *Arhive online* sau Arhive *pe loc*) oferă utilizatorilor spațiu de stocare suplimentar pentru e-mail. Utilizatorii pot muta sau copia elemente în cutia poștală de arhivă, iar administratorii pot crea o politică de arhivă care mută automat elementele în arhivele cutiilor poștale.
+Arhiva cutiile poștale în Microsoft 365 (de asemenea, numit *Online Archives* sau *In-Place Archives)* oferi utilizatorilor cu stocare de e-mail suplimentare. Utilizatorii pot muta sau copia elemente în cutia poștală de arhivă, iar administratorii pot crea o politică de arhivă care mută automat elementele în arhivele cutiilor poștale.
   
 Iată se creează o cutie poștală de arhivă:
   

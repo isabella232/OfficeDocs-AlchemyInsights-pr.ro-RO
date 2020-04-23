@@ -1,9 +1,9 @@
 ---
-title: Restaurare Utilizator șters
+title: Restaurare utilizator șters
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745085"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784199"
 ---
-# <a name="restore-a-user-in-office-365"></a>Restaurarea unui utilizator în Office 365
+# <a name="restore-a-user"></a>Restaurarea unui utilizator
 
-Restaurați un utilizator în Office 365 utilizând acești pași:
+Restaurați un utilizator utilizând acești pași:
   
-1. Accesați utilizatorii [ \> șterse](https://admin.microsoft.com/adminportal/home#/deletedusers)utilizatori.
+1. Accesați [Utilizatori \> utilizatori ștergeți](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. Alegeți utilizatorul, apoi selectați **Restaurare**.
 
-3. Urmați solicitările pentru a seta parola.
+3. Urmați instrucțiunile pentru a seta parola.
 
-4. Dați clic pe **Trimiteți e-mailuri și închideți**și ați terminat!
+4. Faceți clic pe **Trimitere e-mail și închidere**și ați terminat!
 
-Nu a fost ușor? Pentru mai multe detalii și pași cu capturi de ecran, consultați acest articol: [restaurați un utilizator în Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Dacă vă dați seama că în schimb trebuie să restaurați cutia poștală a utilizatorului, consultați: [Ștergeți sau restaurați cutiile poștale ale utilizatorilor în Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Nu a fost ușor? Pentru mai multe detalii și pași cu capturi de ecran, consultați acest articol: [Restaurați un utilizator](https://docs.microsoft.com/office365/admin/add-users/restore-user). Dacă vă dați seama că în schimb trebuie să restaurați cutia poștală a utilizatorului, consultați: [Ștergerea sau restaurarea cutiilor poștale de utilizator în Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

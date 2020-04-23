@@ -1,8 +1,8 @@
 ---
-title: Proces Office 365 chiriaş blocate de Spamhaus
+title: Versiune a unei entități găzduite Microsoft 365 blocate de Spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759884"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Eroare când un utilizator Office 365 trial trimite e-mail: clientul gazdă blocat folosind Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Eroare atunci când un utilizator de încercare Microsoft 365 trimite e-mail: Client gazdă blocat utilizând Spamhaus
 
-Se pare că trimiteţi e-mail la o nouă organizaţie de încercare Office 365. Pentru a preveni abuzul, vom bloca adresele IP care sunt cunoscute de a au fost compromise anterior. Această verificare specifice nu mai este executată după ce începe să utilizaţi plătit licenţe. Ar putea primi un ajutor temporar solicită un nou IP adresă de la furnizorul de servicii internet (ISP), sau prin eliminarea bloc [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) pe site-ul.
+Se pare că trimiteți e-mailuri de la o nouă organizație de încercare Microsoft 365. Pentru a preveni abuzurile, blocăm adresele IP despre care se știe că au fost compromise anterior. Această verificare specifică nu mai este impusă după ce începeți să utilizați licențe plătite. Este posibil să puteți obține ajutor temporar solicitând o nouă adresă IP de la furnizorul de servicii internet (ISP) sau prin eliminarea blocului de pe site-ul Web [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)

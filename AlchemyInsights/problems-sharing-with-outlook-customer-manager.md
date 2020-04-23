@@ -1,9 +1,9 @@
 ---
-title: problems-sharing-with-Outlook-Customer-Manager
+title: probleme-sharing-cu-outlook-client-manager
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554489"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758838"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme cu Outlook client Manager de partajare
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme la partajarea cu Outlook Customer Manager
 
-Dacă aveţi probleme de partajare Manager de client cu Outlook vă recomandăm să mai întâi încercaţi compensare cache-ul browser-ului. De exemplu în Internet Explorer ar fi:
+Dacă aveți probleme de partajare cu Outlook Customer Manager, vă recomandăm să încercați mai întâi să goliți memoria cache a browserului. De exemplu, în Internet Explorer v-ar:
 
-1. Du-te la **setările** > **generale** > setările în **Browsing Istorie** > **baze de date şi cache**.
-2. Ştergeţi fişierele cache-ul pentru site-ul "outlookapps.com."
+1. Accesați **Setări** > **Generale** > Setări din **Istoric** > navigare**Cache și baze de date**.
+2. Ștergeți fișierele cache pentru site-ul web "outlookapps.com".
 3. Reporniți Outlook.
 
-Pentru mai multe informaţii despre partajarea, a se vedea [schimb de informaţii în Outlook client Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Pentru mai multe informații despre partajare, consultați [Partajarea informațiilor în Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

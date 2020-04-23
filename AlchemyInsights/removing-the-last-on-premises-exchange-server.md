@@ -1,9 +1,9 @@
 ---
-title: Scoate Ultima serverul Exchange local
+title: Eliminarea ultimului server Exchange local
 ms.author: pebaum
 author: pebaum
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 8f40c050d7e29c152f982d73e2204a52c350c293
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552831"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718212"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Scoate Ultima serverul Exchange local
+# <a name="removing-the-last-on-premises-exchange-server"></a>Eliminarea ultimului server Exchange local
 
-Înainte de a scoate Ultima Exchange server din organizaţia locală, trebuie să asiguraţi-vă că înţelegeţi implicaţiile de a face acest lucru pentru a vă ajuta să decideţi dacă aveţi nevoie de acel server Ultima pentru orice alte scopuri. Pentru mai multe informaţii, a verifica afară [cum şi când să cum dezactivez serverele Exchange local coexistenţei](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Înainte de a elimina ultimul server Exchange din organizația locală, trebuie să vă asigurați că înțelegeți implicațiile de a face acest lucru pentru a vă ajuta să decideți dacă aveți nevoie de ultimul server pentru orice alte scopuri. Pentru mai multe informații, consultați [Cum și când să dezafectați serverele Exchange locale într-o implementare hibridă](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
   

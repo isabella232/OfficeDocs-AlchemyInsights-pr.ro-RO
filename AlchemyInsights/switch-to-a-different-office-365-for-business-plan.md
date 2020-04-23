@@ -12,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763805"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789170"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Comutarea la un alt abonament Microsoft 365 pentru firme
 
@@ -27,7 +27,7 @@ Atunci când afacerea se modifică sau aveți nevoie de mai multe caracteristici
 
 2. Selectați abonamentul pe care doriți să faceți upgrade.
 
-3. În [pagina cu detaliile abonamentului](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), selectați **Upgrade**.
+3. În [pagina cu detaliile abonamentului](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), selectați **Upgrade**.  Dacă fila **Upgrade** este goală, veți vedea o explicație a motivului pentru care nu puteți face upgrade în acest moment. În schimb, va trebui să [modificați manual planurile](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).
 
 4. Găsiți planul la care doriți să faceți upgrade, apoi selectați butonul **Upgrade.**
 
