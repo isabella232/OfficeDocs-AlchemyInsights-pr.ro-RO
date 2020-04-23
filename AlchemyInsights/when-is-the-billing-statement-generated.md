@@ -1,9 +1,9 @@
 ---
-title: Când este generat declaraţia de facturare?
+title: Când se generează declarația de facturare?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530887"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759380"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Când este generat declaraţia de facturare
+# <a name="when-is-the-billing-statement-generated"></a>Când este generată instrucțiunea de facturare
 
-În fiecare lună veţi primi un e-mail care vă spune că declaraţia dumneavoastră de facturare nou este disponibil în centrul de administrare Microsoft 365. Factura conţine două pagini. Pagina 1 este factură sumară şi conţine informaţii generale despre factura, comanda, suma datorată, cum se face o plată, şi cum să contactaţi asistenţa. Pagina 2 conține detalii despre activitatea de facturare pentru fiecare abonament.
+În fiecare lună veți primi un e-mail care vă spune că noua instrucțiune de facturare este disponibilă în centrul de administrare Microsoft 365. Factura conține două pagini. Pagina 1 este rezumatul facturii și conține informații generale despre factură, comandă, sumă datorată, se face o plată și să contactați asistența. Pagina 2 conține detalii despre activitatea de facturare pentru fiecare abonament.
   
-Pentru a afla mai multe despre concepte de facturare, a se vedea [intelege factura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Pentru a afla mai multe despre conceptele de facturare, consultați [Înțelegerea facturii](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).

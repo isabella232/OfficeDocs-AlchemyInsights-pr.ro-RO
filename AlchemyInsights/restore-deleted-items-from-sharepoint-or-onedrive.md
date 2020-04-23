@@ -1,9 +1,9 @@
 ---
-title: Restaura elementele şterse din SharePoint sau OneDrive
+title: Restaurarea elementelor șterse din SharePoint sau OneDrive
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551895"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742527"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Restaura elementele şterse din SharePoint sau OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Restaurarea elementelor șterse din SharePoint sau OneDrive
 
-1. Du-te la dumneavoastră OneDrive sau site-ul SharePoint.
+1. Accesați OneDrive sau site-ul SharePoint.
     
-2. Faceţi clic pe **Coșul de reciclare** din panoul din stânga. 
+2. Faceți clic pe **Coș de reciclare** în panoul din stânga. 
     
-3. Faceţi clic în partea stângă a elementelor sau fişierele pe care doriţi să restauraţi.
+3. Faceți clic în partea stângă a elementelor sau fișierelor pe care doriți să le restaurați.
     
-4. Faceţi clic pe **restabili**. 
+4. Faceți clic pe **Restaurare**. 
     
-În cazul în care fişiere, foldere, biblioteci, liste şi elementele listei sunt şterse de pe un site SharePoint, ei merg la coşul de reciclare, în cazul în care sunt păstrate pentru 93 zile excepţia cazului în care cineva le-a şterge de la acest Recycle Bin. În cazul în care acestea sunt eliminate din acest Recycle Bin (numite site-ul Recycle Bin), du-te la colecția de site-ul Recycle Bin pentru timpul rămas, şi apoi sunt şterse definitiv. Site-urile şterse şi colecţii de site-ul merge direct la colecția de site-ul Recycle Bin pentru 93 zile.
+Atunci când fișierele, folderele, bibliotecile, listele și elementele listei sunt șterse de pe un site SharePoint, acestea se duc la Coșul de reciclare, unde sunt păstrate timp de 93 de zile, cu excepția cazului în care cineva le șterge din acest Coș de reciclare. Dacă sunt șterse din acest Coș de reciclare (denumit Coș de reciclare al site-ului), acestea se duc la Coșul de reciclare pentru colecția de site-uri pentru timpul rămas, apoi sunt șterse definitiv. Site-urile șterse și colecțiile de site-uri se duc direct la Coșul de reciclare al colecției de site-uri pentru cele 93 de zile.
   
-[Restaura elementele din Coșul de reciclare al colecției de site-uri](https://go.microsoft.com/fwlink/?linkid=867800) (site-ul de colectare administratori) 
+[Restaurarea elementelor din coșul de reciclare al colecției de site-uri](https://go.microsoft.com/fwlink/?linkid=867800) (administratorii colecției de site-uri) 
   
-[Restaurare şterse colecții de site-ul](https://go.microsoft.com/fwlink/?linkid=867660) (globale sau administratori de SharePoint în Office 365) 
+[Restaurarea colecțiilor de site-uri șterse](https://go.microsoft.com/fwlink/?linkid=867660) (administratori globali sau SharePoint în Microsoft 365) 
   
-Pentru site-uri care aparţin unui grup de Office 365, trebuie să restauraţi grupul pentru a restabili site-ul. A se vedea [restaurarea unui grup de Office 365 şterse](https://go.microsoft.com/fwlink/?linkid=867802) (administrator global) 
+Pentru site-urile care aparțin unui grup Office 365, trebuie să restaurați grupul pentru a restaura site-ul. Consultați [Restaurarea unui grup Office 365 șters](https://go.microsoft.com/fwlink/?linkid=867802) (administrator global) 
   
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054036"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765821"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Soluții pentru problemele cu instalarea Office
 
@@ -29,7 +29,7 @@ ms.locfileid: "43054036"
 - Curățați toate urmele anterioare de Office și reinstalați utilizând Asistentul pentru recuperare și asistență (SaRA). 
 
     - Descărcați și instalați [Asistentul pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy). Atunci când se deschide, din **Dezinstalați produse Office**, selectați versiunea pe care doriți să o dezinstalați (dacă există) și faceți clic pe **Următorul**. Continuați să parcurgeți ecranele și reporniți computerul atunci când vi se solicită. După repornire, SaRA se redeschide automat pentru a finaliza procesul de dezinstalare.
-    - Utilizați SaRA pentru a [reinstala Office](http://aka.ms/sara-officeinstall). **Notă**: pentru a configura Visio sau Project cu SaRA, utilizați [instalați Visio](https://aka.ms/SaRA-VisioSetupScenario) sau [Instalați Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Utilizați SaRA pentru a [reinstala Office](https://aka.ms/sara-officeinstall). **Notă**: pentru a configura Visio sau Project cu SaRA, utilizați [instalați Visio](https://aka.ms/SaRA-VisioSetupScenario) sau [Instalați Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Utilizați programul de instalare Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) pentru a instala Office
 

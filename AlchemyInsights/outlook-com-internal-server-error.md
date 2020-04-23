@@ -3,7 +3,7 @@ title: 9000234 Outlook.com eroare internă de server
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536555"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760100"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Interne server erori în Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Erori interne de server în Outlook.com
 
-Oh nu! Dacă vedeţi un mesaj de "Eroare internă de Server" sau "Eroare 500", este ne şi nu veţi - îmi pare rău că.
+Nu, nu, nu, nu, nu! Dacă vedeți "Eroare 500" sau un mesaj "Eroare internă de server", noi suntem și nu tu - îmi pare rău pentru asta.
 
-Verificaţi [pagina stare de serviciul Office](https://portal.office.com/servicestatus) să vă asiguraţi-vă că nu este nimic altceva întâmplă, dar cea mai bună soluţie este de a lua o pauza pentru cateva minute, apoi reîmprospătaţi browserul apăsând **CTRL** si **F5**.
+Consultați [pagina Stare serviciu Office](https://portal.office.com/servicestatus) pentru a vă asigura că nu se întâmplă nimic altceva, dar cea mai bună soluție este să luați o pauză pentru câteva minute, apoi să reîmprospătați browserul apăsând **CTRL** și **F5**.

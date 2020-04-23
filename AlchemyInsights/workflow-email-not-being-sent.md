@@ -3,7 +3,7 @@ title: E-mailul fluxului de lucru nu este trimis
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766145"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-mail de flux de lucru nu este trimis pentru o listă SharePoint sau bibliotecă
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-mailul fluxului de lucru nu este trimis pentru o listă sau o bibliotecă SharePoint
 
-1. E-mailurile din fluxuri de lucru nu sunt trimise tuturor utilizatorilor sau numai utilizatorilor specifici sau vedeți eroarea **mesajul de poștă electronică nu poate fi trimis. Asigurați-vă că poșta electronică are un destinatar valid**.
+1. E-mailul din fluxurile de lucru nu este trimis tuturor utilizatorilor sau numai anumitor utilizatori sau vedeți **eroarea Mesajul de poștă electronică nu poate fi trimis. Asigurați-vă că poșta electronică are un destinatar valid**.
 
-    Verificați dacă utilizatorul există în grupul de permisiuni **toate persoanele** (lista de informații de utilizator) pentru acea colecție de site-uri.  Exemplu de URL direct:<tenant>https://.<sitename>SharePoint.com/sites//_layouts/15/People.aspx? MembershipGroupId = 0
+    Verificați dacă utilizatorul există în grupul permisiuni **toate persoanele** (lista de informații de utilizator) pentru colecția de site-uri respectivă.  Exemplu de URL<tenant>direct: https:// .sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembruGroupId=0
 
-    - Dacă utilizatorul nu există, asigurați-vă că utilizatorul este conectat în pagină. 
+    - Dacă utilizatorul nu există, asigurați-vă că utilizatorul este conectat la pagină. 
     - Dacă este un utilizator extern, asigurați-vă că invitația lor a fost acceptată.
     - Dacă utilizatorul există în grupul de permisiuni, asigurați-vă că adresa de e-mail este corectă.
-    - Dacă adresa de e-mail a utilizatorilor nu este setată aici, apoi creați o alertă de eșantion pentru acel utilizator care obligă sincronizarea acelui cont de utilizator din profilurile de utilizator ale SharePoint la această colecție de site-uri.
+    - Dacă adresa de e-mail a utilizatorilor nu este setată aici, creați o avertizare eșantion pentru acel utilizator care forțează sincronizarea acelui cont de utilizator din profilurile de utilizator sharepoint la această colecție de site-uri.
  
-2. E-mailul din fluxurile de lucru sunt trimise administratorilor de colecție de site-uri, dar nu și altor utilizatori și vedeți eroarea **http interzisă la <span>https:</span>//_vti_bin/client.XVC.SP.Utilities.Utility.SendEmail**.
+2. E-mail de la fluxuri le-a trimis administratorilor colecției de site-uri, dar nu și altor utilizatori și a vedea eroarea **HTTP Interzis la <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Consultați [acces refuzat atunci când trimiteți un e-mail la un grup SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Consultați [Acces refuzat atunci când trimiteți un e-mail unui grup SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    De asemenea, Verificați că caracteristica de colectare a site-ului de **blocare permisiuni de acces limitat de utilizator** nu este activă.
+    De asemenea, verificați că caracteristica **limitată de blocare permisiuneutilizator modul de blocare** colecție de site-ul nu este activ.
 
 
 ## <a name="related-topics"></a>Subiecte asociate
 Doriți să încercați Microsoft Flow în SharePoint Online?
 - [Creare flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint și flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint și Flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

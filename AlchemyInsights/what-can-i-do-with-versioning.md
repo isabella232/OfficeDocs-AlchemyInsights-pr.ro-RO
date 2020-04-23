@@ -1,30 +1,30 @@
 ---
-title: Ce pot face cu versiuni?
+title: Ce pot face cu versiunile?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765353"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Ce pot face cu versiuni?
+# <a name="what-can-i-do-with-versioning"></a>Ce pot face cu versiunile?
 
-Utilizaţi versiuni în SharePoint liste și biblioteci pentru:
+Aveți posibilitatea să utilizați versiuni în liste și biblioteci SharePoint pentru:
   
-- **Istoria piesa o versiune**. Atunci când controlul versiunilor este activat, puteţi vedea atunci când un element sau un fişier a fost schimbat şi care l-a schimbat. Puteţi vedea, de asemenea, când s-au schimbat proprietăţi (informaţii despre fişierul). De exemplu, dacă cineva se modifică data scadenţei de un element de listă, această informație apare în Istoricul versiunilor. Puteţi vedea, de asemenea, comentariile pe care oamenii fac atunci când le verifica fișiere în biblioteci. 
+- **Istoricul versiunilor**. Când versiunile sunt activate, aveți posibilitatea să vedeți când s-a modificat un element sau un fișier și cine l-a modificat. De asemenea, aveți posibilitatea să vedeți când s-au modificat proprietățile (informații despre fișier). De exemplu, dacă cineva modifică data scadentă a unui element din listă, aceste informații apar în istoricul versiunilor. De asemenea, puteți vedea comentariile pe care le fac utilizatorii atunci când verifică fișierele în biblioteci. 
     
-- **Restaurați o versiune anterioară**. Dacă aţi făcut o greşeală în versiunea curentă, în cazul în care versiunea curentă este corupt, sau dacă doriţi pur şi simplu o versiune anterioară de mai bine, puteţi înlocui versiunea curentă cu una precedentă. Versiunea restaurat devine noua versiune curent. 
+- **Restaurați o versiune anterioară**. Dacă ați făcut o greșeală într-o versiune curentă, dacă versiunea curentă este deteriorată sau, dacă pur și simplu vă place mai bine o versiune anterioară, puteți înlocui versiunea curentă cu una anterioară. Versiunea restaurată devine noua versiune curentă. 
     
-- **Vezi o versiune anterioară**. Vizualizaţi o versiune anterioară fără a suprascrie versiunea curentă. Dacă vedeţi Istoricul versiunilor într-un document Microsoft Office, cum ar fi un fişier Word sau Excel, puteţi compara cele două versiuni pentru a determina ce diferenţele sunt. 
+- **Vizualizarea unei versiuni anterioare**. Aveți posibilitatea să vizualizați o versiune anterioară fără a suprascrie versiunea curentă. Dacă vizualizați istoricul versiunilor într-un document Microsoft Office, ar fi un fișier Word sau Excel, aveți posibilitatea să comparați cele două versiuni pentru a determina care sunt diferențele. 
     
-[Aflaţi mai multe despre modul în care aceasta funcţionează în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Aflați mai multe despre funcționează versiunile în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

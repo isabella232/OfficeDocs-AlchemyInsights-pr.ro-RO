@@ -1,9 +1,9 @@
 ---
-title: Amânat trimiterea în Outlook.com
+title: Trimitere amânată Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: d4df8902d8334b54582eacc3edd6ee13d463239d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760424"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Întârziere sau programa trimiterea de mesaje de poştă electronică
+# <a name="delay-or-schedule-sending-email-messages"></a>Întârzierea sau planificarea trimiterii mesajelor de e-mail
 
-Ne pare rau, dar nu se poate amâna sau programa trimiterea de mesaje de poştă electronică într-un app sau web browser-ul mobil. Pentru aceasta, utilizaţi [Outlook pentru Windows sau Outlook pentru Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Ne pare rău, dar nu puteți amâna sau programa trimiterea de mesaje de e-mail într-o aplicație mobilă sau într-un browser web. Pentru aceasta, utilizați [Outlook pentru Windows sau Outlook pentru Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
-**Undo Trimite**
+**Desface trimiterea**
 
-Puteţi modifica setările Outlook.com, pentru a trimite un mesaj pentru până la 10 secunde de întârziere. Puteţi anula trimiterea mesajului în această perioadă. Pentru a activa această caracteristică, deschideţi setările [anulaţi trimite](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Aveți posibilitatea să modificați setările Outlook.com pentru a întârzia trimiterea unui mesaj timp de până la 10 secunde. Aveți posibilitatea să revocați trimiterea mesajului în această perioadă. Pentru a activa această caracteristică, deschideți setările [De trimitere Anulați.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Aflaţi mai multe despre [e-mail reamintind în Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Aflați mai multe despre [reamintind e-mailul în Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

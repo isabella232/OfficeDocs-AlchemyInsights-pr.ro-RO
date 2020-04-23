@@ -1,9 +1,9 @@
 ---
-title: 603 învăţa cum să ajustaţi setările de ordinea de zi
+title: 603 Aflați să ajustați setările Agendei
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: f7a08d64f2462036cdebc947d70126f43814884f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2da78e005d64ddff0466e763e75d442aaf25980
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497563"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762797"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Aflaţi cum să configuraţi setările de ordinea de zi
+# <a name="learn-how-to-configure-agenda-settings"></a>Aflați să configurați setările agendei
 
-Setările de ordinea de zi sunt situate în setările **Calendar** în Outlook pe web. Pentru mai multe informaţii, consultaţi [setările de Calendar din Outlook de pe web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Setările agendei se află în setările **calendarului** din Outlook pe web. Pentru mai multe informații, consultați [Setări calendar în Outlook pe web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Administratori puteţi utiliza cmdletul **Set-CalendarNotification** în Exchange Online PowerShell pentru configurarea setărilor de ordinea de zi. Pentru informaţii suplimentare, consultaţi [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Administratorii pot utiliza cmdletul **Set-CalendarNotification** în Exchange Online PowerShell pentru a configura setările agendei. Pentru mai multe informații, consultați [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).

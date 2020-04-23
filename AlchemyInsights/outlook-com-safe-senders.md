@@ -1,9 +1,9 @@
 ---
-title: 8000089 Outlook.com sigur expeditori
+title: 8000089 Outlook.com expeditori siguri
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36535367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743645"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Opriți mesajele de la a intra în folderul de poștă electronică nedorită
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Împiedicați mesajele să intre în folderul E-mail nedorit
 
-Există momente când nu doriți ca mesajele de la o anumită persoană sau domeniu să se termine în folderul de poștă electronică nedorită din Outlook.com. Mesajele din adresele sau domeniile din lista de expeditori siguri nu vor fi mutate în folderul E-mail nedorit.
+Există momente în care nu doriți ca mesajele de la o anumită persoană sau domeniu să ajungă în folderul E-mail nedorit din Outlook.com. Mesajele de la adrese sau domenii din lista de expeditori siguri nu vor fi mutate în folderul E-mail nedorit.
 
-1. Deschideți [setările de expeditori siguri](https://go.microsoft.com/fwlink/?linkid=2035804).
+1. Deschideți [setările Expeditori siguri](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Sub **Expeditori și domenii sigure**, introduceți adresa de e-mail sau domeniul pe care doriți să îl adăugați și selectați **Adăugare**.
-3. Pentru a adăuga o listă de corespondență expeditorilor siguri, introduceți lista de corespondență sub **listele de corespondență sigure** și selectați **Adăugare**.
+3. Pentru a adăuga o listă de corespondență expeditorilor siguri, introduceți lista de corespondență de sub **Liste de corespondență sigure** și selectați **Adăugare**.
 4. Selectați **Salvare**.
 
-Citeste mai mult la [bloc sau debloca expeditori în Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Citiți mai multe la [Blocarea sau deblocarea expeditorilor în Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

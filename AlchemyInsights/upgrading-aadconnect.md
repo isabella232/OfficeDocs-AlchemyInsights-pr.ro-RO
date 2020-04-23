@@ -1,9 +1,9 @@
 ---
-title: 932 actualizarea AADConnect
+title: 932 Actualizarea AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766505"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Upgrade azuriu AD conecta
+# <a name="upgrade-azure-ad-connect"></a>Upgrade Azure AD Conectați
 
-În mod implicit, actualizarea automată este activată pentru Azure Connect AD, care ajută pentru a vă asigura că rulaţi cea mai recentă versiune. Pentru a verifica setările de actualizare automată, utilizaţi cmdletul **Get-ADSyncAutoUpgrade** din PowerShell de AD Azure. Cmdlet va returna una dintre următoarele valori:
+În mod implicit, upgrade-ul automat este activat pentru Azure AD Connect, ceea ce vă ajută să vă asigurați că executați cea mai recentă versiune. Pentru a verifica setările de upgrade automat, utilizați cmdletul **Get-ADSyncAutoUpgrade** în Azure AD PowerShell. Cmdletul va returna una dintre următoarele valori:
 
-- **Enabled**: actualizarea automată este activată.
+- **Activat:** Este activată upgrade-ul automat.
 
-- **Cu handicap**: upgrade-ul automat este dezactivat.
+- **Dezactivat:** Upgrade-ul automat este dezactivat.
 
-- **Suspendat**: sistemul nu mai este eligibil pentru a primi upgrade-uri automate. Nu pot configura această valoare; Acesta este situat în sistemul de.
+- **Suspendat:** Sistemul nu mai este eligibil pentru a primi upgrade-uri automate. Imposibil de configurat această valoare; Este setat de sistem.
 
-Pentru informaţii suplimentare, consultaţi [actualizarea automată](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Pentru mai multe informații, consultați [Upgrade automat](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Pentru a descărca cea mai recentă versiune de Azure AD Connect, du-te la [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+Pentru a descărca cea mai recentă versiune [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)de Azure AD Connect, accesați .

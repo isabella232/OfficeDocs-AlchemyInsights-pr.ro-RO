@@ -1,30 +1,30 @@
 ---
-title: Depanarea problemelor cu Office 365 avansate ameninţare protecţie (ATP)
+title: Depanarea problemelor cu Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766757"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Depanarea problemelor cu Office 365 de ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Depanarea problemelor cu Office 365 ATP
 
-- **Întârzieri de notificare cu e-mail mesaj de livrare**? Încercaţi să utilizaţi opţiunea Dynamic livrare pentru poliţele de ATP ataşamente în condiţii de siguranţă. Acest lucru va evita întârzierile de livrare e-mail mesaj protejând destinatari din fisiere malware.
-- **Doriţi să raport fals pozitive sau fals negative**? Utilizaţi acest link pentru a trimite fişierul pentru analiză:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Ştiaţi că puteţi activa ATP link-uri în condiţii de siguranţă de protecţie pentru e-mail trimis între oameni în organizaţia dumneavoastră**? Urmaţi aceşti paşi:
-    1. Du-te la https://protection.office.com, şi conectaţi-vă.
-    2. Du-te la **Threat management** > **Politica** > **Link-uri în condiţii de siguranţă**.
-    3. În conformitate cu **politicile care se aplică la anumiţi destinatari**, editare (sau Adauga) o politică.
-    4. Selectaţi **aplicare sigură link-uri la mesajele trimise în cadrul organizaţiei**.
-    5. Salvaţi polita, și se lasă aproximativ 30 de minute pentru modificările să lucreze drumul lor prin centrul dumneavoastră de date.
-- Pentru a obţine mai mult ajutor cu ATP, a se vedea [Office 365 Advanced ameninţare protecţia](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Observați întârzieri cu livrarea mesajelor de e-mail?** Încercați să utilizați opțiunea Livrare dinamică pentru politicile atp privind atașările sigure. Acest lucru va evita întârzierile de livrare a mesajelor de e-mail, protejând în același timp destinatarii de fișierele rău intenționate.
+- **Raportați rezultate fals pozitive sau negative false?** Utilizați acest link pentru a trimite fișierul pentru analiză:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Știați că puteți activa ATP Safe Link-uri de protecție pentru e-mail trimis între persoane din organizația dumneavoastră?** Urmați acești pași:
+    1. Du-te la, https://protection.office.comși autentifică-te.
+    2. Du-te la **Threat management** > **Policy** > **Safe Link-uri**.
+    3. Sub **Politici care se aplică anumitor destinatari,** editați (sau adăugați) o politică.
+    4. **Selectaþi Aplicaþii linkuri sigure la mesajele trimise în cadrul organizației**.
+    5. Salvați politica și permiteți aproximativ 30 de minute ca modificările să își croiască drum prin centrul de date.
+- Pentru a obține mai mult ajutor pentru ATP, consultați [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

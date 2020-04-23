@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Serviciu Sănătate
+title: Microsoft 365 Service Sănătate
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600504"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762401"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 Serviciu Sănătate
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Sănătate
 
 
-Verificați starea de sănătate a serviciului de orice serviciu din Tabloul de [bord de sănătate a serviciilor](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Selectând **Noul centru** de administrare din colțul din dreapta sus, veți vedea noi opțiuni de sănătate a serviciilor.
+Verificați starea de sănătate a serviciului pentru orice serviciu din Tabloul de [bord Sănătate serviciu](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Selectând **Noul centru de administrare** din colțul din dreapta sus, veți vedea noi opțiuni de sănătate a serviciilor.
 
-- **Selectaþi Preferinte** pentru a primi **notificãri de e-mail**de sanatate a serviciilor .
+- **Selectaþi Preferințe** pentru a primi **notificări prin e-mail**de stare serviciu .
 
 - Selectați **Raportați o problemă** dacă întâmpinați o problemă cu serviciul.
 
-- Selectați **Istoric** pentru a revizui istoricul de sănătate al organizației dvs. 
+- Selectați **Istoric** pentru a revizui istoricul stării de sănătate a serviciilor organizației dvs. 
 
-Pentru mai multe informații, consultați se verifică starea de sănătate a [serviciilor Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Pentru mai multe informații, consultați [Cum se verifică starea de sănătate a serviciilor Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 

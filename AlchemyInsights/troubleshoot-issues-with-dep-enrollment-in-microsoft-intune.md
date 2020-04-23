@@ -1,9 +1,9 @@
 ---
-title: Depanarea problemelor cu DEP înscriere în Microsoft Intune
+title: Depanarea problemelor cu înscrierea DEP în Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 3e10f6729d760d9f8f6d04bcb33317fde51a9b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 11b0d73c34996fd84431b38d77b64536d386977e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507031"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766721"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Depanarea problemelor cu DEP înscriere în Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Depanarea problemelor cu înscrierea DEP în Microsoft Intune
 
-Consultaţi resurse enumerate mai jos pentru a rezolva problema acum.
+Examinați resursele enumerate mai jos pentru a rezolva problema acum.
   
-1. Dacă DEP aparatul nu este în măsură să se înscrie şi Mae (autentificare multi-factor) este activată, vă rugăm să dezactivaţi Mae. În prezent, Mae nu este acceptată pentru DEP de înscriere
+1. Dacă dispozitivul DEP nu se poate înscrie și ESTE ACTIVATĂ AMF (Autentificare multi-factor), dezactivați MAE. În prezent, AMF nu este acceptată pentru înscrierea DEP
 
-2. Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere. Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii.
+2. Utilizați [Intune Depanare portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica și rezolva erorile de înscriere comune. Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii.
 
-3. Revizuirea acestor documente pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare: [Ghid de depanare](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) şi [Depanare doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Examinați aceste documente pentru o listă de erori comune care împiedică înscrierea și rezolvările la fiecare: [Ghid de depanare](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) și depanare [doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
 
-4. [Afla despre programul de înscriere dispozitiv](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
+4. [Aflați despre programul de înscriere pe dispozitive](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).

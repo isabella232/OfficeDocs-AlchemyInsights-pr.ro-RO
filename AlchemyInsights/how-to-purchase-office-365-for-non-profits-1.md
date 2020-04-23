@@ -1,9 +1,9 @@
 ---
-title: Cum să cumpăraţi Office 365 pentru Non-profit
+title: se achiziționează Office 365 pentru organizații non-profit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390884"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763589"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Cum să cumpăraţi Office 365 pentru Non-profit
+# <a name="how-to-purchase-office-365-for-non-profits"></a>se achiziționează Office 365 pentru organizații non-profit
 
-A fost aprobat statutul dumneavoastră ca organizatie non-profit calificat Microsoft. Pentru a achiziţiona:
+Starea dumneavoastră de organizație non-profit calificată Microsoft a fost aprobată. Pentru a cumpăra:
   
-1. În centrul de administrare, du-te la **Facturare** \> pagina [Achiziţionare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. În centrul de administrare, accesați pagina [Servicii de cumpărare](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare.** \>
 
-2. Alegeţi din lista în conformitate cu **Planurile de Non-Profits**.
+2. Alegeți din lista de sub **Planuri non-profit**.
 
-3. Hover peste abonamentul pe care doriţi să cumpere, şi alege **Cumpara acum**.
+3. Treceți cu mouse-ul peste abonamentul pe care doriți să îl achiziționați și **alegeți Cumpărați acum**.

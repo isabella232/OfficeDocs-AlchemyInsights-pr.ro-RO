@@ -1,23 +1,23 @@
 ---
-title: 8000049 iconita Skype lipseşte în Outlook.com
+title: 8000049 Pictograma Skype lipsă în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 869de50b0bad7f41902fd918f90dd435a5faa4de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512183"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767873"
 ---
-# <a name="skype-icon-missing"></a>Skype icoana lipseşte
+# <a name="skype-icon-missing"></a>Pictograma Skype lipsește
 
-Ne-am scos temporar pictograma Skype din Outlook.com ca parte a o actualizare de reîmprospătare şi caracteristică de design suntem încântaţi să fie de rulare. Vă mulţumim pentru răbdarea dumneavoastră, în timp ce ne pregătim o experienţă nouă şi îmbunătăţită pentru tine.
+Am eliminat temporar pictograma Skype din Outlook.com ca parte a unei reîmprospătări a designului și a unei actualizări a caracteristicilor pe care suntem încântați să o lansăm. Apreciem răbdarea dumneavoastră în timp ce pregătim o experiență nouă și îmbunătățită pentru dvs.
 
-Puteţi utiliza în continuare Skype prin intermediul browser-ul la [web.skype.com](https://web.skype.com).
+Puteți utiliza skype prin browser la [web.skype.com](https://web.skype.com).

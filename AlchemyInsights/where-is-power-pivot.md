@@ -14,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769855"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765209"
 ---
 # <a name="where-is-power-pivot"></a>Unde este Power Pivot?
 
-Există trei motive pentru care s-ar putea să nu vedeți Power Pivot:
+Există trei motive pentru care este posibil să nu vedeți Power Pivot:
   
-**Versiunea de Excel nu o include**
+**Versiunea ta de Excel nu o include**
   
 Nu toate versiunile de Excel includ Power Pivot. Va trebui să faceți upgrade la o versiune de Office care include Power Pivot. [Verificați lista de versiuni acceptate.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
 **Nu ați activat Power Pivot**
   
-Dacă lucrați într-o versiune de Excel care acceptă Power Pivot, verificați pentru a vedea că programul de completare este activat:
+Dacă lucrați într-o versiune de Excel care acceptă Power Pivot, verificați dacă programul de completare este activat:
   
-1. Alegeți **** \> **** opțiunile \> **de completare**pentru fișiere.
+1. Selectați Programe **de completare** **Opțiuni** \> **fișier** \> .
 
-2. În caseta **gestionare** verticală, alegeți **com Add-ins** și faceți clic pe **Go**.
+2. În caseta verticală **Gestionare,** alegeți **Programe de completare COM** și faceți clic pe **Deplasare**.
 
-3. În casetă de dialog **Add-ins com** , bifați caseta de selectare de lângă **Microsoft Power Pivot pentru Excel**, și apoi faceți clic pe **OK**.
+3. În caseta de dialog **Programe de completare Com,** bifați caseta de selectare de lângă **Microsoft Power Pivot pentru Excel**, apoi faceți clic pe **OK**.
 
 **Aveți mai multe abonamente sau conturi**
   
-Este posibil să aveți diferite abonamente Office 365 atribuite conturilor de utilizator diferite. Asigurați-vă că sunteți conectat la un cont cu o versiune de Excel care acceptă Power Pivot. Verificați lista de [versiuni acceptate](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)și urmați instrucțiunile pentru a [comuta între diferite conturi Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Este posibil să aveți diferite abonamente Microsoft 365 atribuite diferitelor conturi de utilizator. Asigurați-vă că sunteți conectat la un cont cu o versiune de Excel care acceptă Power Pivot. Verificați lista de [versiuni acceptate](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)și urmați instrucțiunile pentru a [comuta între diferite conturi Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

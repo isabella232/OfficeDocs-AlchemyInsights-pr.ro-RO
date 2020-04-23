@@ -1,9 +1,9 @@
 ---
-title: Strategiile de conservare în centrul de administrare Exchange nu de lucru
+title: Politicile de conservare din Centrul de administrare Exchange nu funcționează
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742445"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Strategiile de conservare în centrul de administrare Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Politicile de conservare în Centrul de administrare Exchange
 
- **Problemă:** Nou create sau politicile de reţinere Actualizat în centrul de administrare Exchange sunt se aplică cutiilor poştale sau obiecte nu sunt mutate în cutia poştală de arhivă sau şters. 
+ **Problema:** Politicile de conservare nou create sau actualizate în Centrul de administrare Exchange nu se aplică cutiilor poștale sau elemente nu sunt mutate în cutia poștală arhivă sau șterse. 
   
  **Cauzele:**
   
-- Acest lucru poate fi pentru că **Asistentul pentru foldere gestionate** nu a procesat cutia poştală a utilizatorului. Asistentul pentru foldere gestionate încearcă să proceseze fiecare cutie poştală din organizaţia din cadrul norului o dată la şapte zile. Dacă modificaţi o etichetă de conservare sau aplicaţi o diferite de conservare unei cutii poştale, puteţi să aşteptaţi până când a reuşit Folder asista procesează cutia poştală, sau aveţi posibilitatea să executaţi cmdletul Start-ManagedFolderAssistant pentru a porni asistentul pentru foldere gestionate să proceseze o anumită cutie poştală. Executarea acestui cmdlet este util pentru testare şi depanare o conservare sau setările de etichetă de conservare. Pentru mai multe informaţii, vizitaţi [rula asistentul pentru foldere gestionate](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Acest lucru se poate datora faptului că **Asistentul de foldere gestionate** nu a procesat cutia poștală a utilizatorului. Asistentul folder gestionat încearcă să proceseze fiecare cutie poștală din organizația din cadrul norului o dată la fiecare șapte zile. Dacă modificați o etichetă de conservare sau aplicați o altă politică de conservare la o cutie poștală, aveți posibilitatea să așteptați până când Asistata de folder gestionat procesează cutia poștală sau aveți posibilitatea să executați cmdletul Start-ManagedFolderAssistant pentru a porni Asistentul folder gestionat pentru a procesa o anumită cutie poștală. Executarea acestui cmdlet este utilă pentru testarea sau depanarea unei politici de conservare sau a setărilor etichetei de conservare. Pentru mai multe informații, vizitați [Executare asistent folder gestionat](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Solutie:** Executaţi următoarea comandă pentru a porni asistentul pentru foldere gestionate pentru o anumită cutie poştală:
+  - **Soluție:** Executați următoarea comandă pentru a porni Asistent folder gestionat pentru o anumită cutie poștală:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Acest lucru poate fi produce în cazul în care **RetentionHold** a fost **activat** în cutia poştală. În cazul în care cutia poştală a fost plasat pe o RetentionHold, conservare în cutia poştală nu vor fi procesate în acea perioadă. Pentru legatura cu informaton mai multe pe RetentionHold setarea vedea: [Cutie poştală retenţie Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Acest lucru poate apărea, de asemenea, dacă **RetentionHold** a fost **activat** ă în cutia poștală. Dacă cutia poștală a fost plasat pe un RetentionHold, politica de retenție pe cutia poștală nu vor fi procesate în acest timp. Pentru mai multe informații despre setarea RetentionHold consultați: [Păstrare cutie poștală](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Soluţie:**
     
-  - Verifica starea de setarea RetentionHold cutiei poştale specifice în [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Verificați starea setării RetentionHold pe cutia poștală specifică în [exo powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Executaţi următoarea comandă pentru **a dezactiva** RetentionHold pe o anumită cutie poştală:
+  - Executați următoarea comandă pentru a **dezactiva** RetentionHold pe o anumită cutie poștală:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Acum, re-a alerga folderul Managed asistent:
+  - Acum, executați din nou asistentul folderului gestionat:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Notă:** Dacă o cutie poştală este mai mică de 10 MB, asistentul pentru foldere gestionate va nu automat procesează cutia poştală.
+ **Notã:** Dacă o cutie poștală este mai mică de 10 MO, Asistentul folder gestionat nu va procesa automat cutia poștală.
  
-Pentru mai multe informaţii despre strategiile de conservare în centrul de administrare Exchange, consultaţi:
-- [Etichetele de conservare şi strategiile de conservare](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Aplica o strategie de conservare la cutiile poştale](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Adăugaţi sau eliminaţi etichete de conservare](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Cum de a identifica tipul de rost plasate pe o cutie poştală](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+Pentru mai multe informații despre politicile de conservare din Centrul de administrare Exchange, consultați:
+- [Etichete de conservare și politici de conservare](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Aplicarea unei politici de conservare pentru cutiile poștale](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Adăugarea sau eliminarea etichetelor de retenție](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [se identifică tipul de reținere plasat pe o cutie poștală](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

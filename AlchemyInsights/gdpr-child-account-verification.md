@@ -1,9 +1,9 @@
 ---
-title: 8000038 GDPR copil cont de verificare
+title: 8000038 GDPR verificare a contului copilului
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 13e69ac917a08a338759269df5724c0528dd2eb0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 238d1440438bce2531f1a57f5592a204cf9c3cf3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524423"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764992"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Data naşterii afişate în contul Microsoft este incorectă.
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Data nașterii afișată în contul Microsoft este incorectă
 
-Microsoft ia securitate cont foarte serios. Poate au recent fost vi pentru a oferi acordul părinţilor pentru copil un cont Microsoft. Dacă aveţi nevoie de ajutor în furnizarea de acordul părinţilor sau actualizarea data naşterii pe un cont de Microsoft, a se vedea [Age verification pentru acordul părinţilor](https://go.microsoft.com/fwlink/p/?linkid=874364).
+Microsoft ia în considerare securitatea foarte în serios. Este posibil să vi se fi solicitat recent să furnizați consimțământul părinților pentru contul Microsoft al unui copil. Dacă aveți nevoie de ajutor pentru a furniza consimțământul părinților sau pentru a actualiza data nașterii într-un cont Microsoft, consultați [Verificarea vârstei pentru consimțământul parental](https://go.microsoft.com/fwlink/p/?linkid=874364).
   
-Aflaţi mai multe despre [acordul părinţilor şi conturile de copil Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365).
+Aflați mai multe despre [consimțământul parental și conturile pentru copii Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365).
   

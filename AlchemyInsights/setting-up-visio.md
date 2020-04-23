@@ -2,25 +2,25 @@
 title: Configurarea Visio
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: 41933beae4fa15623533a886ced1511edebd6166
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd08e44485b642e5684986bc87c3b45db1f18f45
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549843"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767837"
 ---
 # <a name="setting-up-visio"></a>Configurarea Visio
 
-Se pare ca ai nevoie de ajutor crearea Visio cu abonament Office 365.
+Se pare că aveți nevoie de ajutor pentru configurarea Visio cu abonamentul Microsoft 365.
   
-Notă pentru utilizatorii de Mac: The Visio produsul nu este disponibil pentru MacOS în acest moment. Dacă aveţi un PC, ar trebui să instalaţi software-ul folosind paşii de mai jos.
+Notificare pentru utilizatorii de Mac: Produsul Visio nu este disponibil pentru MacOS în acest moment. Dacă aveți un PC ar trebui să fie capabil de a instala software-ul folosind pașii de mai jos.
   
-Puteţi să urmaţi paşii din [acest articol](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) pentru a obţine setup-ul finalizat. 
+Puteți urma pașii din [acest articol](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) pentru a finaliza configurarea. 
   
 

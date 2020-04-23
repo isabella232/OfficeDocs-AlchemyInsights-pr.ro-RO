@@ -1,5 +1,5 @@
 ---
-title: 'Avertisment sincronizare: ultima sincronizare cu mai mult de 3 zile în urmă'
+title: 'Avertizare de sincronizare: ultima sincronizare cu mai mult de 3 zile în urmă'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: ef896e79e46c7ef766234fadb57642b8a9736859
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b515b75d1694488d034e773f3d2ad4d4ab58af96
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599928"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766937"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Avertisment sincronizare: ultima sincronizare cu mai mult de 3 zile în urmă
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Avertizare de sincronizare: ultima sincronizare cu mai mult de 3 zile în urmă
 
-Pentru depanare suplimentară, consultați [Remedierea problemelor cu sincronizarea directorului pentru Office 365](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
+Pentru depanare suplimentară, consultați [Remedierea problemelor cu sincronizarea directorului](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
 
-Aveți posibilitatea să verificați starea de sincronizare în portalul de administrare Office urmând instrucțiunile din vizualizarea stării de sincronizare director [în Office 365](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
+Aveți posibilitatea să verificați starea de sincronizare în portalul de administrare Office urmând instrucțiunile din [Vizualizarea stării de sincronizare a directorului](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
 

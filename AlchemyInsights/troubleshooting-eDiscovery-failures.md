@@ -1,9 +1,9 @@
 ---
-title: 1490-depanare-eDiscovery-eşecuri
+title: 1490-depanare-eDiscovery-eșecuri
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759596"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Depanarea erorilor de căutare conţinutul
+# <a name="troubleshoot-content-search-errors"></a>Depanarea erorilor de căutare în conținut
 
-Sunt ai probleme se confruntă cu conţinut de căutare în Office 365 sau obtinerea eşecurile atunci când exportaţi rezultatele căutării?
+Întâmpinați probleme cu Căutarea conținutului sau dacă obțineți erori atunci când exportați rezultatele căutării?
 
-De exemplu, primiţi următoarele atunci când rulează căutări?
+De exemplu, primiți următoarele atunci când executați căutări?
 
-- Erori de CS008 sau CS012
+- Erori CS008 sau CS012
 
-- Server ocupat/timeout erori
+- Erori de server ocupat/expirare
 
-- Eroare la aplicarea
+- Eroare de aplicație
 
-Sau atunci când căutarea sau exportaţi rezultatele la un număr mare de cutii poştale (peste 100.000 poştale), faci export erori?
+Sau atunci când căutați sau exportați rezultate dintr-un număr mare de cutii poștale (peste 100.000 de cutii poștale), primiți erori de export?
 
-Pentru aceste tipuri de erori, reîncercaţi căutare pentru conţinut locatii care nu au reuşit. A se vedea [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informaţii.
+Pentru aceste tipuri de erori, încercați din nou căutarea locațiilor de conținut care nu au reușit. Consultați [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informații.

@@ -1,9 +1,9 @@
 ---
-title: Amintesc sau să înlocuiască un mesaj de e-mail
+title: Rechemarea sau înlocuirea unui mesaj de e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742767"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Amintesc sau să înlocuiască un mesaj de poştă electronică în Office 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Rechemarea sau înlocuirea unui mesaj de e-mail în Microsoft 365
 
-- Puteţi **doar amintesc mesajele care sunt trimise la oameni în cadrul organizaţiei**. Dacă mesajul a fost trimis la o adresă de Gmail, de exemplu, tu nu pot aminti ea.
-- Puteţi **doar amintesc mesajele trimise din Outlook 2016 pentru PC**. Dacă un utilizator trimite un mesaj cu ajutorul Outlook pentru Mac sau Outlook de pe web, tu nu-l amintesc.
-- Dacă sunteţi un admin, puteţi **amintesc mesaje în numele utilizatorilor folosind PowerShell**. Nu pot aminti mesaje de la centrul de administrare. Defilaţi în jos la "Caută şi şterge mesajele de e-mail în organizaţia" pentru mai multe informaţii.
+- Aveți posibilitatea **să reamintiți numai mesajele care sunt trimise persoanelor din organizația dvs.** Dacă mesajul a fost trimis la o adresă Gmail, de exemplu, nu-l puteți rechema.
+- Aveți posibilitatea să **rechemați numai mesajele trimise din Outlook 2016 pentru PC**. Dacă un utilizator trimite un mesaj utilizând Outlook pentru Mac sau Outlook pe web, nu-l puteți rechema.
+- Dacă sunteți administrator, puteți **rechema mesajele în numele utilizatorilor utilizând PowerShell**. Nu vă puteți aminti mesajele din centrul de administrare. Derulați în jos la "Căutați și ștergeți mesajele de e-mail din organizația dvs." pentru mai multe informații.
 
-**Amintesc sau să înlocuiască un mesaj de e-mail pe care aţi trimis**
+**Regăsirea sau înlocuirea unui mesaj de e-mail pe care l-ați trimis**
 
-1. În panoul de foldere pe partea stângă a ferestrei Outlook, selectaţi folderul Elemente trimise.
-2. Deschideţi mesajul pe care doriţi să-mi amintesc. Trebuie să faceţi dublu clic pentru a deschide mesajul. Selectarea mesajului, astfel încât aceasta apare în panoul de citire vă va permite să amintesc mesajul.
-3. Din fila mesaj, selectaţi **acţiunile** > **Amintesc acest mesaj**.
-4. Alegeţi **ştergeţi copiilor necitite ale acestui mesaj** sau **ştergeţi copiilor necitite și înlocuirea cu un mesaj nou**, apoi selectaţi **OK**.
-5. Dacă sunteţi trimite un mesaj de inlocuire, compune mesajul, apoi selectați **trimite**.
-6. Succesul sau eşecul de un recall de mesaj depinde de setările de destinatari în Outlook.
+1. În panoul de foldere din partea stângă a ferestrei Outlook, alegeți folderul Elemente trimise.
+2. Deschideți mesajul pe care doriți să-l rechemați. Trebuie să faceți dublu clic pentru a deschide mesajul. Selectarea mesajului astfel încât să apară în panoul de citire să nu vă permită să rechemați mesajul.
+3. Din fila Mesaj, **selectați Acțiuni** > **Rechemarea acestui mesaj**.
+4. Selectați **Ștergere copii necitite ale acestui mesaj** sau Ștergere copii **necitite și înlocuire cu un mesaj nou**, apoi selectați **OK**.
+5. Dacă trimiteți un mesaj de înlocuire, compuneți mesajul, apoi selectați **Trimitere**.
+6. Succesul sau eșecul unei rechemări a mesajului depinde de setările destinatarilor din Outlook.
 
-Pentru mai multe informaţii, inclusiv cum să verificaţi pe recall, [Recall](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)sau înlocuiţi un mesaj de e-mail pe care aţi trimis.
+Pentru mai multe informații, inclusiv să verificați rechemarea, consultați [Reamintirea sau înlocuirea unui mesaj de e-mail pe care l-ați trimis](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Căutarea şi ştergeţi mesajele de e-mail în cadrul organizaţiei*** Pentru a căuta şi ştergeţi mesajele de e-mail în cadrul organizaţiei, este mai uşor, dacă sunteţi un admin la nivel mondial. Dacă nu sunteţi un administrator global, contul trebuie adăugat la grupul de roluri de Manager eDiscovery, sau la rolul de gestionare conformitatea căutaţi. Pentru a ºterge mesaje, veţi avea nevoie să se alăture grupului de roluri Gestionare organizaţie sau rol de gestionare căutare și Golire. Permisiunile pentru aceste roluri sunt atribuite în [Centrul de conformitatea securitate &](https://protection.office.com/).
+***Căutarea și ștergerea mesajelor de e-mail în organizația dvs.*** Pentru a căuta și a șterge mesajele de e-mail din organizația dvs., este mai ușor dacă sunteți administrator global. Dacă nu sunteți administrator global, contul trebuie adăugat la grupul de roluri eDiscovery Manager sau la rolul de gestionare a Căutării de conformitate. Pentru a șterge mesajele, va trebui să vă asociați la grupul de roluri Gestionare organizație sau la rolul de gestionare căutare și golire. Permisiunile pentru aceste roluri sunt atribuite în [centrul de securitate & conformitate](https://protection.office.com/).
 
-1. [Creaţi un conţinut de căutare](https://docs.microsoft.com/office365/securitycompliance/content-search) pentru a găsi mesajul pentru a şterge.
-2. [Conecta la securitate & respectarea centrul PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Creați o căutare de conținut](https://docs.microsoft.com/office365/securitycompliance/content-search) pentru a găsi mesajul de șters.
+2. [Conectarea la Centrul de conformitate Security & PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Dacă utilizaţi Mae, consultaţi [Conectare la Office 365 securitate & respectarea centrul PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Dacă utilizați MAE, consultați [Conectarea la Microsoft 365 security & Compliance Center PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
