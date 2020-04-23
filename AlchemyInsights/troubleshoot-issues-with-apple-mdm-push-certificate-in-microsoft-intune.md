@@ -1,9 +1,9 @@
 ---
-title: Depanarea problemelor cu Apple MDM împinge certificat în Microsoft Intune
+title: Depanarea problemelor cu Apple MDM Push Certificate în Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: 3fec83f4dd0533bdcfa778c52b9951f3e06f4dda
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f96a0bf1d599dcd48c23d707d50e58e63933b6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500119"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759668"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="495d5-102">Depanarea problemelor cu Apple MDM împinge certificat în Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="495d5-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="4a0dc-102">Depanarea problemelor cu Apple MDM Push Certificate în Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="4a0dc-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
 
-<span data-ttu-id="495d5-103">Consultaţi resurse enumerate mai jos pentru a rezolva problema acum.</span><span class="sxs-lookup"><span data-stu-id="495d5-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="4a0dc-103">Examinați resursele enumerate mai jos pentru a rezolva problema acum.</span><span class="sxs-lookup"><span data-stu-id="4a0dc-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="495d5-104">Revizui [acest document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) pentru a configura sau să reînnoiască certificatul de împingere Apple MDM.</span><span class="sxs-lookup"><span data-stu-id="495d5-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
+1. <span data-ttu-id="4a0dc-104">Examinați [acest document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) pentru a configura sau reînnoi certificatul de apăsare Apple MDM.</span><span class="sxs-lookup"><span data-stu-id="4a0dc-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
 
-2. <span data-ttu-id="495d5-105">Utilizaţi [Intune depanare Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica şi rezolva comune eşecuri de înscriere.</span><span class="sxs-lookup"><span data-stu-id="495d5-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="495d5-106">Revizuirea [acestui document](https://docs.microsoft.com/intune/help-desk-operators) , pentru mai multe detalii.</span><span class="sxs-lookup"><span data-stu-id="495d5-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+2. <span data-ttu-id="4a0dc-105">Utilizați [Intune Depanare portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pentru a diagnostica și rezolva erorile de înscriere comune.</span><span class="sxs-lookup"><span data-stu-id="4a0dc-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="4a0dc-106">Examinați [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii.</span><span class="sxs-lookup"><span data-stu-id="4a0dc-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-3. <span data-ttu-id="495d5-107">Revizuirea acestor documente pentru o listă de erori comune care împiedică înscrierea şi rezoluţii pentru fiecare: [Ghid de depanare](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) şi [Depanare doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="495d5-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
+3. <span data-ttu-id="4a0dc-107">Examinați aceste documente pentru o listă de erori comune care împiedică înscrierea și rezolvările la fiecare: [Ghid de depanare](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) și depanare [doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="4a0dc-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>

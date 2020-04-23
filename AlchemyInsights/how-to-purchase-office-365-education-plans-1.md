@@ -1,9 +1,9 @@
 ---
-title: Cum să cumparare Office 365 educaţie planuri
+title: se achiziționează planurile Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: de5cf1992b413080436d8555c9f3b71ef5787bc6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763697"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="33c0c-102">Cum să cumparare Office 365 educaţie planuri</span><span class="sxs-lookup"><span data-stu-id="33c0c-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="57d5c-102">se achiziționează planurile Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="57d5c-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="33c0c-103">Am revizuit cererea dumneavoastră şi determină această organizaţie nu este eligibilă ca instituţie academică calificat Microsoft.</span><span class="sxs-lookup"><span data-stu-id="33c0c-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="33c0c-104">Ofertele tale curent academice proces va expira la sfârşitul perioadei de probă.</span><span class="sxs-lookup"><span data-stu-id="33c0c-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="57d5c-103">Am examinat solicitarea dumneavoastră și am stabilit că această organizație nu este eligibilă ca instituție academică calificată Microsoft.</span><span class="sxs-lookup"><span data-stu-id="57d5c-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="57d5c-104">Ofertele tale academice actuale vor expira la sfârșitul perioadei de probă.</span><span class="sxs-lookup"><span data-stu-id="57d5c-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="33c0c-105">Pentru a achiziţiona Office 365 în comerţ, vă rugăm să consultaţi [ofertele disponibile](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="33c0c-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
+<span data-ttu-id="57d5c-105">Pentru a achiziționa Office 365 din punct de vedere comercial, consultați [ofertele disponibile.](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="57d5c-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  

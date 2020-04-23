@@ -1,9 +1,9 @@
 ---
-title: 1490-depanare-eDiscovery-eşecuri
+title: 1490-depanare-eDiscovery-eșecuri
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759596"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="5c908-102">Depanarea erorilor de căutare conţinutul</span><span class="sxs-lookup"><span data-stu-id="5c908-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="57ab4-102">Depanarea erorilor de căutare în conținut</span><span class="sxs-lookup"><span data-stu-id="57ab4-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="5c908-103">Sunt ai probleme se confruntă cu conţinut de căutare în Office 365 sau obtinerea eşecurile atunci când exportaţi rezultatele căutării?</span><span class="sxs-lookup"><span data-stu-id="5c908-103">Are you experiencing problems with Content Search in Office 365 or getting failures when you export search results?</span></span>
+<span data-ttu-id="57ab4-103">Întâmpinați probleme cu Căutarea conținutului sau dacă obțineți erori atunci când exportați rezultatele căutării?</span><span class="sxs-lookup"><span data-stu-id="57ab4-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="5c908-104">De exemplu, primiţi următoarele atunci când rulează căutări?</span><span class="sxs-lookup"><span data-stu-id="5c908-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="57ab4-104">De exemplu, primiți următoarele atunci când executați căutări?</span><span class="sxs-lookup"><span data-stu-id="57ab4-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="5c908-105">Erori de CS008 sau CS012</span><span class="sxs-lookup"><span data-stu-id="5c908-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="57ab4-105">Erori CS008 sau CS012</span><span class="sxs-lookup"><span data-stu-id="57ab4-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="5c908-106">Server ocupat/timeout erori</span><span class="sxs-lookup"><span data-stu-id="5c908-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="57ab4-106">Erori de server ocupat/expirare</span><span class="sxs-lookup"><span data-stu-id="57ab4-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="5c908-107">Eroare la aplicarea</span><span class="sxs-lookup"><span data-stu-id="5c908-107">Application error occurred</span></span>
+- <span data-ttu-id="57ab4-107">Eroare de aplicație</span><span class="sxs-lookup"><span data-stu-id="57ab4-107">Application error occurred</span></span>
 
-<span data-ttu-id="5c908-108">Sau atunci când căutarea sau exportaţi rezultatele la un număr mare de cutii poştale (peste 100.000 poştale), faci export erori?</span><span class="sxs-lookup"><span data-stu-id="5c908-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="57ab4-108">Sau atunci când căutați sau exportați rezultate dintr-un număr mare de cutii poștale (peste 100.000 de cutii poștale), primiți erori de export?</span><span class="sxs-lookup"><span data-stu-id="57ab4-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="5c908-109">Pentru aceste tipuri de erori, reîncercaţi căutare pentru conţinut locatii care nu au reuşit.</span><span class="sxs-lookup"><span data-stu-id="5c908-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="5c908-110">A se vedea [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informaţii.</span><span class="sxs-lookup"><span data-stu-id="5c908-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="57ab4-109">Pentru aceste tipuri de erori, încercați din nou căutarea locațiilor de conținut care nu au reușit.</span><span class="sxs-lookup"><span data-stu-id="57ab4-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="57ab4-110">Consultați [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informații.</span><span class="sxs-lookup"><span data-stu-id="57ab4-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>

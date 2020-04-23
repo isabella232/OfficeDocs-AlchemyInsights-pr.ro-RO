@@ -1,9 +1,9 @@
 ---
-title: Office 365 pentru planurile de non-profit şi de stabilire a preţurilor
+title: Planuri și prețuri Office 365 pentru organizații non-profit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390596"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761577"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a><span data-ttu-id="feb5f-102">Office 365 pentru planurile de non-profit şi de stabilire a preţurilor</span><span class="sxs-lookup"><span data-stu-id="feb5f-102">Office 365 for Nonprofit plans and pricing</span></span>
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a><span data-ttu-id="e8785-102">Planuri și prețuri Office 365 pentru organizații non-profit</span><span class="sxs-lookup"><span data-stu-id="e8785-102">Office 365 for Nonprofit plans and pricing</span></span>
 
-<span data-ttu-id="feb5f-103">Nonprofits calificat poate primi Office 365 non-profit ca donaţie sau faceţi upgrade pentru caracteristici avansate la o reducere semnificativă.</span><span class="sxs-lookup"><span data-stu-id="feb5f-103">Qualified nonprofits can receive Office 365 Nonprofit as a donation or upgrade to advanced features at a significant discount.</span></span> <span data-ttu-id="feb5f-104">Pentru a beneficia de un plan de Office 365 non-profit, trebuie să deţină [recunoscut statutul de caritate](https://go.microsoft.com/fwlink/p/?LinkID=330253) în dumneavoastră ţară şi semn Microsoft non-discriminare politică.</span><span class="sxs-lookup"><span data-stu-id="feb5f-104">To qualify for a Office 365 Nonprofit plan, you must hold [recognized charitable status](https://go.microsoft.com/fwlink/p/?LinkID=330253) in your country and sign Microsoft's non-discrimination policy.</span></span> <span data-ttu-id="feb5f-105">Microsoft îşi rezervă dreptul de a verifica eligibilitatea în orice moment şi să suspende serviciul pentru organizaţiile eligibile.</span><span class="sxs-lookup"><span data-stu-id="feb5f-105">Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.</span></span>
+<span data-ttu-id="e8785-103">Organizațiile nonprofit calificate pot primi Office 365 pentru organizații non-profit ca donație sau pot face upgrade la funcții complexe la o reducere semnificativă.</span><span class="sxs-lookup"><span data-stu-id="e8785-103">Qualified nonprofits can receive Office 365 Nonprofit as a donation or upgrade to advanced features at a significant discount.</span></span> <span data-ttu-id="e8785-104">Pentru a vă califica pentru un plan Office 365 pentru organizații non-profit, trebuie să dețineți [un statut caritabil recunoscut](https://go.microsoft.com/fwlink/p/?LinkID=330253) în țara dvs.</span><span class="sxs-lookup"><span data-stu-id="e8785-104">To qualify for a Office 365 Nonprofit plan, you must hold [recognized charitable status](https://go.microsoft.com/fwlink/p/?LinkID=330253) in your country and sign Microsoft's non-discrimination policy.</span></span> <span data-ttu-id="e8785-105">Microsoft își rezervă dreptul de a verifica eligibilitatea în orice moment și de a suspenda serviciul pentru organizațiile neeligibile.</span><span class="sxs-lookup"><span data-stu-id="e8785-105">Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.</span></span>
   
-<span data-ttu-id="feb5f-106">Vezi [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) pentru intrebari suplimentare despre aceasta oferta.</span><span class="sxs-lookup"><span data-stu-id="feb5f-106">See the [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) for additional questions about this offer.</span></span>
+<span data-ttu-id="e8785-106">Consultați [întrebările frecvente](https://products.office.com/nonprofit/office-365-nonprofit) pentru întrebări suplimentare despre această ofertă.</span><span class="sxs-lookup"><span data-stu-id="e8785-106">See the [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) for additional questions about this offer.</span></span>
   
-- [<span data-ttu-id="feb5f-107">Reexaminarea planurilor de non-profit</span><span class="sxs-lookup"><span data-stu-id="feb5f-107">Review the Nonprofit plans</span></span>](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [<span data-ttu-id="e8785-107">Revizuirea planurilor pentru organizații non-profit</span><span class="sxs-lookup"><span data-stu-id="e8785-107">Review the Nonprofit plans</span></span>](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [<span data-ttu-id="feb5f-108">Compara toate planurile de Office 365</span><span class="sxs-lookup"><span data-stu-id="feb5f-108">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="e8785-108">Comparați toate abonamentele Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="e8785-108">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

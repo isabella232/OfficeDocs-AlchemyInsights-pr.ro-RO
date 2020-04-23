@@ -1,9 +1,9 @@
 ---
-title: Office 365 pentru planurile de afaceri şi de stabilire a preţurilor
+title: Microsoft 365 pentru planuri de afaceri și prețuri
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390704"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761646"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="e2a11-102">Compara Office 365 pentru afaceri</span><span class="sxs-lookup"><span data-stu-id="e2a11-102">Compare Office 365 for Business</span></span>
+# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="d5650-102">Comparați Microsoft 365 pentru firme</span><span class="sxs-lookup"><span data-stu-id="d5650-102">Compare Microsoft 365 for business</span></span>
 
-<span data-ttu-id="e2a11-103">Există trei planuri diferite disponibile cu Office 365 pentru afaceri.</span><span class="sxs-lookup"><span data-stu-id="e2a11-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="e2a11-104">[Compara Office 365 pentru planurile de afaceri şi de stabilire a preţurilor](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="e2a11-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
+<span data-ttu-id="d5650-103">Există trei planuri diferite disponibile cu Microsoft 365 pentru afaceri.</span><span class="sxs-lookup"><span data-stu-id="d5650-103">There are three different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="d5650-104">[Comparați Microsoft 365 pentru planuri de afaceri și prețuri](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="d5650-104">[Compare Microsoft 365 for business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
