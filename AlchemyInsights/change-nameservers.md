@@ -3,7 +3,7 @@ title: Modificarea serverelor de nume
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736661"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706767"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Actualizarea serverelor de nume de domeniu la Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Actualizarea serverelor de nume de domeniu pentru a indica la Microsoft
 
 Notă: Propagarea modificărilor pentru serverele de nume poate dura uneori până la 48 de ore.
   
-Pentru a vă configura domeniul în Office 365, serverele de nume de la registratorul dvs. trebuie actualizate. Creați sau editați înregistrările serverului de nume în registratorul de domeniu.
+Pentru a vă configura domeniul în Microsoft 365, serverele de nume de la registratorul dvs. trebuie actualizate. Creați sau editați înregistrările serverului de nume în registratorul de domeniu.
   
 1. Accesați site-ul web al registratorului de domeniu și găsiți zona în care puteți să editați serverele de nume.
   
@@ -35,5 +35,5 @@ Pentru a vă configura domeniul în Office 365, serverele de nume de la registra
 
 3. Salvați modificările.
 
-Puteți găsi instrucțiuni detaliate și în acest articol: [Modificarea serverelor de nume pentru a configura Office 365 cu orice registrator de domeniu](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Puteți găsi instrucțiuni detaliate și în acest articol: [Modificarea serverelor de nume cu orice registrator de domeniu](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

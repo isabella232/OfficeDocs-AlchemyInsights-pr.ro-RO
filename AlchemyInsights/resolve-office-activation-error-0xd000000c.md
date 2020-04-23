@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116538"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722632"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Remedierea erorii de activare Office 0xD000000C
 
-- Asigurați-vă că Internetul funcționează pe computerul Mac pe care încercați să instalați. Pentru a verifica, deschideți browserul de internet și accesați www.microsoft.com. Dacă pagina se încarcă, atunci conexiunea la Internet este funcțională.
+- Asigurați-vă că Internetul funcționează pe computerul Mac pe care încercați să instalați. Pentru a verifica, deschideți browserul de internet și accesați [Microsoft](https://www.microsoft.com). Dacă pagina se încarcă, atunci conexiunea la Internet este funcțională.
 
 - Închideți toate aplicațiile Office.
 

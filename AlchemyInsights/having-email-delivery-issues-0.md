@@ -2,7 +2,7 @@
 title: Aveți probleme cu livrarea mesajelor de e-mail?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1737c1f78da348cb09cbdd1ff110b0b766fcd505
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739793"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710275"
 ---
 # <a name="having-email-delivery-issues"></a>Aveți probleme cu livrarea mesajelor de e-mail?
 
@@ -26,7 +26,7 @@ Am detectat că utilizatorii dvs. nu pot primi mesaje de e-mail trimise la domen
   
 {HealthCheckString}
   
-Înregistrările NS sau MX ale setărilor de domeniu (DNS) nu sunt configurate corect pentru livrarea e-mailului la serviciul dvs. Office 365. Puteți face referire la [Crearea de înregistrări DNS la orice furnizor de găzduire DNS pentru Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pentru instrucțiuni detaliate.
+Înregistrările NS sau MX ale setărilor de domeniu (DNS) nu sunt configurate corect pentru livrarea e-mailului la Microsoft. Puteți consulta [Crearea de înregistrări DNS la orice furnizor de găzduire DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pentru instrucțiuni detaliate.
   
 Pentru a remedia problema, accesați pagina [Domenii](https://admin.microsoft.com/adminportal/home#/Domains) din Centrul de administrare Microsoft 365 și vă vom ajuta în acest sens.
   

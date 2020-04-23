@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059892"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720077"
 ---
 # <a name="update-credit-card-information"></a>Actualizați informațiile despre cardul de credit
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059892"
 
 Dacă întâmpinați probleme cu încărcarea paginii, încercați să deschideți pagina web într-un alt browser sau încercați să deschideți pagina într-o fereastră de browser privată, cum este fereastra InPrivate din Microsoft Edge sau fereastra incognito din Google Chrome. 
 
-Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unei cărți de credit sau a unui cont bancar în Office 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) și [Depanarea problemelor cu cărțile de credit și conturile bancare](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unui card de credit sau a unui cont bancar în Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) și [Depanarea problemelor cu cardurile de credit și conturile bancare](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

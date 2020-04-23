@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719316"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Pașii recomandați de efectuat dacă un cont este compromis
 
-[VIDEO: Remedierea unui cont Office 365 compromis](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Remedierea unui cont compromis](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Resetați parola utilizatorului](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) imediat. Nu comunicați parola nouă către utilizatorul final prin e-mail.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745445"
 
 5. Eliminați contul de utilizator din orice [grup de roluri administrative](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) până când nu sunteți sigur că acest cont nu mai este compromis.
 
-Pentru a minimiza pe viitor posibilitatea unei încălcări a securității datelor sau a compromiterii unui cont, vă recomandăm să citiți [Ghidul de securitate Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Pentru a minimiza pe viitor posibilitatea unei încălcări a securității datelor sau a compromiterii unui cont, vă recomandăm să citiți [Foaia de parcurs a securității Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

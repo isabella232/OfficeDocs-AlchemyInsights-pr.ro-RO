@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692407"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709951"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams - Conferințe audio
 
-Aveți nevoie de ajutor pentru a activa sau a configura conferințele audio în Microsoft Teams? Acest utilizator a fost creat recent?  Dacă este așa, va trebui să așteptați 2 - 24 de ore pentru ca setările să aibă efect.    
+Aveți nevoie de ajutor pentru a activa sau a configura conferințele audio în Microsoft Teams? Acest utilizator a fost creat recent?  Dacă este așa, va trebui să așteptați 2 - 24 de ore pentru ca setările să aibă efect.
 
 Pentru a verifica dacă utilizatorul este licențiat pentru conferințe audio și are un Număr apelare cu taxă implicit:
 
@@ -39,4 +39,4 @@ Pentru a verifica dacă utilizatorul este licențiat pentru conferințe audio ș
 
 7. Selectați utilizatorul în cauză și verificați dacă utilizatorul are un **Număr apelare cu taxă implicit**.
 
-Pentru mai multe informații, consultați [Planurile de apelare pentru Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru a vă ajuta cu întrebările legate de licențiere.
+Pentru mai multe informații, consultați [Planurile de apelare](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru a vă ajuta cu întrebările legate de licențiere.
