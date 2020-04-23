@@ -1,5 +1,5 @@
 ---
-title: 204 cum pentru a găsi lipsă sau recupera lipsesc Outlook mail, calendar sau contacte
+title: 204 se găsește lipsă sau de a recupera lipsă Outlook mail, calendar sau persoane de contact
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,19 +12,19 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664177"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720708"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Cum de a găsi şi recupera lipsesc mesaje, agendă sau elemente de calendar în Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>se găsesc și se recuperează mesajele lipsă, persoanele de contact sau elementele de calendar în Outlook
 
-- Puteţi utiliza [probleme la trimiterea, primirea, sau pentru a găsi instrument de mesaje e-mail](https://aka.ms/SaRA-OutlookSendReceive) pe aparatul afectat. Acest instrument va verifica pentru un număr de probleme şi va sugera soluţiile posibile.
+- Puteți utiliza [I'm având probleme de trimitere, primire, sau găsirea de mesaje de e-mail instrument](https://aka.ms/SaRA-OutlookSendReceive) de pe aparatul afectat. Acest instrument va verifica pentru o serie de probleme și va sugera soluții posibile.
 
-- [Stabiliți dacă contul este compromis](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Dacă compromisă, urmaţi paşii din [răspunde într-un cont de e-mail compromise în Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+- [Stabiliți dacă contul este compromis](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Dacă este compromisă, urmați pașii din [Răspunsul la un cont de e-mail compromis.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
 
-- [Găsiţi mesajul sau element utilizând căutarea instantanee](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+- [Găsirea mesajului sau a elementului utilizând Căutarea instantanee](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 
-- [Recuperarea elementelor şterse în Outlook pentru Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+- [Recuperarea elementelor șterse în Outlook pentru Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

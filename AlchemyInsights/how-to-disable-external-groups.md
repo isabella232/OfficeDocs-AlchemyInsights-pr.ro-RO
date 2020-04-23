@@ -1,8 +1,8 @@
 ---
-title: se dezactivează grupurile externe
+title: se dezactivează grupuri externe
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720780"
 ---
-# <a name="how-to-disable-external-groups"></a>se dezactivează grupurile externe
+# <a name="how-to-disable-external-groups"></a>se dezactivează grupuri externe
 
-Mesageria externă Yammer aplică regulile de transport Exchange (ETRs), un set de controale proactive pentru a împiedica partajarea informațiilor companiei. Pentru a restrânge utilizatorii să creeze grupuri externe, trebuie să configurați o regulă de transport Exchange (ETR), și apoi Configurați Yammer pentru a utiliza regula de schimb de transport pentru a bloca mesageria externă.
+Yammer mesagerie externă aplică Reguli de transport Exchange (ETRs), un set de controale proactive pentru a preveni informațiile companiei de a fi partajate. Pentru a restricționa utilizatorii să creeze grupuri externe, trebuie să configurați o regulă de transport Exchange (ETR), și apoi configurați Yammer pentru a utiliza regula Exchange Transport pentru a bloca mesageria externă.
   
 După ce ați creat o regulă în centrul de administrare Exchange Online, urmați acești pași pentru a seta ETR să se aplice în Yammer:
   
-- Faceți Log on la Yammer ca administrator verificat și în centrul de **administrare Yammer**, mergeți la C **conținut și \> ** securitate de securitate setări.
+- Faceți Log on la Yammer ca administrator verificat, iar în **centrul de administrare Yammer**, accesați **C Setări de securitate conținut și securitate. \> **
 
-- Sub **Mesagerie externă**, selectați **aplicarea regulilor Exchange Online Exchange Transport (ETRs) în Yammer.**
+- Sub **Mesagerie externă**, **selectați Impuneți regulile de transport Exchange Online Exchange (ETRs) în Yammer.**
 
 - Alegeți **Salvare**.
 
-Pentru mai multe informații, consultați [dezactivarea mesageriei externe într-o rețea Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Pentru mai multe informații, consultați [Dezactivarea mesageriei externe într-o rețea Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   
