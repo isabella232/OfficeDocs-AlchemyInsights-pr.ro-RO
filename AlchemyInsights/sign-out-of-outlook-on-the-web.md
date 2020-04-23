@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2eac0cafc0fed6fe813d3820044a407e200955f3
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: a3d9adbea318e4302490e52d190d93607ce9fd4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100520"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789062"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Deconectarea de la Outlook pe web
 
 1. Faceți clic pe imaginea de cont/inițialele din colțul din dreapta sus al ecranului. Dacă nu vedeți imaginea dvs. în partea de sus a ecranului, verificați dacă este activată blocarea reclamelor. Uneori, acest lucru împiedică afișarea imaginii.
 
-2. Faceți clic pe **Deconectare**. (Pentru a împiedica Outlook pe web de la conectarea automată la contul de la locul de muncă sau de școală, debifați caseta de selectare **Menținere conectare** data viitoare când vă conectați la Office 365.)
+2. Faceți clic pe **Deconectare**. (Pentru a împiedica Outlook pe web de la conectarea automată la contul de la locul de muncă sau de școală, debifați caseta de selectare **Menținere conectare** data viitoare când vă conectați.)
 
 3. Dacă opțiunea de deconectare lipsește, aceasta este o problemă cunoscută și lucrăm pentru a lansa o remediere într-o ediție viitoare.  Încercați să goliți memoria cache a browserului și modulele cookie, pentru a vedea dacă se rezolvă problema.  Dacă nu, puteți să vă [deconectați manual din cont](https://login.live.com/logout.srf) și să închideți toate ferestrele browserului.
 
