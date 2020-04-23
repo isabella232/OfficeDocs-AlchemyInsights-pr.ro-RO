@@ -1,9 +1,9 @@
 ---
-title: Actualizați înregistrările DNS pentru a vă menține site-ul cu furnizorul de găzduire curent
+title: Actualizați înregistrările DNS pentru a vă păstra site-ul web cu furnizorul curent de găzduire
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8edebef125f23e880713237787bd00cc917258b0
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36742277"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789422"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Actualizați înregistrările DNS pentru a vă menține site-ul cu furnizorul de găzduire curent
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Actualizați înregistrările DNS pentru a vă păstra site-ul web cu furnizorul curent de găzduire
 
-Ca parte a procesului de mutare a Office 365 public site web la un alt furnizor de găzduire, va trebui probabil să efectuați modificări în înregistrările de domeniu.
+Ca parte a procesului de mutare a site-ului Web public Microsoft 365 la un alt furnizor de găzduire, va trebui probabil să efectuați modificări la înregistrările de domeniu.
   
-1. În centrul de administrare, accesați **domenii** de **Instalare** \> și alegeți numele de domeniu pe care doriți să îl modificați.
+1. În centrul de administrare, accesați **Domenii de** **instalare** \> și alegeți numele de domeniu pe care doriți să îl modificați.
 
-2. Introdu informațiile care se aliniază la site-ul tău web cu noul tău furnizor de găzduire.
+2. Introduceți informațiile care se aliniază la site-ul dvs.
 
-Pentru a afla mai multe, consultați [actualizarea înregistrărilor DNS pentru a vă menține site-ul cu furnizorul de găzduire curent](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Pentru a afla mai multe, consultați [Actualizarea înregistrărilor DNS pentru a păstra site-ul web cu furnizorul curent de găzduire](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-Pentru a afla mai multe despre întreruperea publică a site-ului, consultați [site-uri web publice SharePoint Online pentru a fi întrerupt](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Pentru a afla mai multe despre întreruperea site-ului public, consultați [Site-uri web publice SharePoint Online pentru a fi întrerupt](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
