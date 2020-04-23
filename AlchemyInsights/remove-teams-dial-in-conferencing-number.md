@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028027"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784811"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Eliminarea numărului de conferințe prin dial-in Teams
 
@@ -24,7 +24,7 @@ Aveți nevoie de ajutor pentru a elimina un număr de conferințe prin dial-in d
 
 Numărul de telefon implicit al punții pentru conferințe definește ID-ul de apelant care va fi utilizat când este plasat un apel de ieșire de către un participant sau de către organizator, în cadrul unei întâlniri.
 
-1. Conectați-vă la Office 365 cu contul de la locul de muncă.
+1. Conectați-vă folosind contul de la locul de muncă.
 
 2. Accesați **Centrul de administrare Microsoft 365**.
 
