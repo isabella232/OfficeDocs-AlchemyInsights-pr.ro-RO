@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958550"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537753"
 ---
 # <a name="general-migration-performance-guidance"></a>Instrucțiuni generale despre performanța migrării
 
+
 **Important**: în timpul acestor vremuri fără precedent, vom lua măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân extrem de disponibile. Vizitați [Ajustări temporare de caracteristici SharePoint Online](https://aka.ms/ODSPAdjustments) pentru mai multe informații.
 
-**Instrucțiuni pentru performanța migrării**
+**Opțiuni de migrare**
 
-Performanța de migrare poate fi influențată de infrastructura de rețea, de dimensiunea fișierului, timpul de migrare și de limitare. Înțelegerea acestora vă va ajuta să planificați și să maximizați eficiența migrării dvs.
+Există diferite opțiuni disponibile pentru a migra conținut în SharePoint Online, în funcție de dimensiunea și cantitatea de fișiere pe care trebuie să le mutați, vedeți [aici](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online) o listă de opțiuni.
 
-- [Instrucțiuni generale despre performanța migrării](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Pentru mai multe informații despre migrarea conținutului, vizitați linkurile de mai jos.
+
+- [Instrumentul de migrare SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Începeți lucrul cu Managerul de migrare](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)

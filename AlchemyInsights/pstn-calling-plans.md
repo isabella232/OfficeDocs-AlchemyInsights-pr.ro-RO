@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154314"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43557006"
 ---
 # <a name="pstn-calling-plans"></a>Planurile de apelare PSTN
 
-Apelurile către alți utilizatori Skype for Business și Microsoft Teams sunt gratuite, dar, dacă doriți ca utilizatorii dvs. să poată suna la numere de telefon obișnuite și nu aveți deja un furnizor de servicii pentru a efectua apeluri vocale, trebuie să cumpărați un Plan de apelare. 
+Dacă doriți ca utilizatorii dvs. să poată suna la numere de telefon obișnuite și nu aveți deja un furnizor de servicii pentru a efectua apeluri vocale, trebuie să cumpărați un Plan de apelare.
 
-- Pentru a începe procesul de achiziție, consultați [Achiziționarea unui plan de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Consultați [Achiziționarea unui plan de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) pentru a începe procesul de achiziție.
 
-- Pentru mai multe informații, consultați [Sistemul de telefonie și planurile de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Instalați [Credite de comunicare](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pentru a preveni utilizatorii **să rămână fără minute**. Consultați tarifele [aici](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Pentru mai multe informații, consultați [Sistem de telefonie și planuri de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) sau [Ce sunt creditele de comunicare?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

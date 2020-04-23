@@ -24,8 +24,8 @@ Dacă instituția dvs. s-a calificat deja pentru Microsoft 365 Education, puteț
 
 1. Accesați **Facturare > [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=868433)**.
 
-2. Utilizați caseta de căutare pentru a căuta în „A1”.
+2. Utilizați caseta de căutare pentru a căuta „A1”.
 
 3. Selectați numărul de utilizatori care vor utiliza planul A1.
 
-Dacă instituția dvs. nu a configurat încă Microsoft 365 Education, dar doriți să adăugați Office 365 gratuit, puteți [începe](https://www.microsoft.com/education/products/office) furnizându-vă e-mailul. 
+Dacă instituția dvs. nu a configurat încă Microsoft 365 Education, dar doriți să adăugați Office 365 gratuit, puteți [începe](https://www.microsoft.com/education/products/office) furnizându-vă adresa de e-mail. 
