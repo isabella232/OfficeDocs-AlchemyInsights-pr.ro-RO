@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762006"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799135"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="10e75-102">Încercări multiple de a percepe instrumente de plată online</span><span class="sxs-lookup"><span data-stu-id="10e75-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="191e9-102">Încercări multiple de a percepe instrumente de plată online</span><span class="sxs-lookup"><span data-stu-id="191e9-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="10e75-103">Facem mai multe încercări de a percepe instrumente de plată online înainte de a lua orice acțiune cu privire la serviciu.</span><span class="sxs-lookup"><span data-stu-id="10e75-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="10e75-104">După selectarea unei metode de plată, toate sumele restante din trecut trebuie plătite cu metoda de plată selectată.</span><span class="sxs-lookup"><span data-stu-id="10e75-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="10e75-105">Pentru a actualiza informațiile de plată curente pentru abonament, urmați pașii din [Adăugare, actualizare sau eliminați un card de credit sau un cont bancar în Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="10e75-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="191e9-103">În cazul în care taxa nu reușește, sistemul va continua să încerce să achite soldul în următoarele câteva săptămâni.</span><span class="sxs-lookup"><span data-stu-id="191e9-103">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="191e9-104">Puteți actualiza în orice moment informațiile de plată pentru a vă asigura că următoarea încercare de încărcare va avea succes.</span><span class="sxs-lookup"><span data-stu-id="191e9-104">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="191e9-105">Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unui card de credit sau a unui cont bancar în Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="191e9-105">For more information, see [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
