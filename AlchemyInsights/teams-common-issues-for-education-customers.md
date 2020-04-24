@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739448"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemele uzuale în Teams pentru clienții din domeniul educației
 
@@ -45,12 +45,12 @@ Dacă aveți nevoie de ajutor pentru implementarea Teams pentru a asista învă�
     6. În centrul de administrare Skype for Business, faceți clic pe **conferințe audio** apoi **utilizatori**.
     7. Selectați utilizatorul în cauză și verificați dacă utilizatorul are un număr cu taxă implicit.
 
-    Pentru mai multe informații, consultați [Planurile de apelare pentru Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru a vă ajuta cu întrebările legate de licențiere.
+    Pentru mai multe informații, consultați [Planuri de apelare](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru ajutor cu întrebări legate de licențiere.
 
     Resurse suplimentare
 
     - [Întâlniri și conferințe în Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Conferințe audio în Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Conferință audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Politicile privind întâlnirile**: politicile privind întâlnirile sunt utilizate pentru a controla caracteristicile disponibile pentru participanții la întâlnirile care sunt planificate de către utilizatorii din organizația dvs. După ce creați o politică și efectuați modificările dorite, puteți să alocați utilizatori la acea politică.
 

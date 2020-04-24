@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060009"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784559"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurarea gestionării riscurilor interne
 
@@ -26,13 +26,13 @@ Utilizați politicile de gestionare a riscurilor interne pentru a identifica act
 
 - Abonament **Microsoft 365 E3** cu programul de completare de conformitate Microsoft E5.
 
-Dacă nu aveți un plan existent **Microsoft 365 E5** și doriți să încercați gestionarea riscurilor interne, puteți să adăugați Microsoft 365 la abonamentul dvs. Office 365 existent sau să vă înregistrați pentru o versiune de încercare Microsoft 365 Enterprise E5.
+Dacă nu aveți un plan existent **Microsoft 365 E5** și doriți să încercați gestionarea riscurilor interne, puteți să adăugați Microsoft 365 la abonamentul dvs. existent sau să vă înregistrați pentru o versiune de încercare Microsoft 365 Enterprise E5.
 
 Între pașii de bază pentru utilizarea gestionării riscurilor interne se numără:
 
 1. Activați permisiunile pentru gestionarea riscurilor interne.
 
-2. Activați jurnalul de auditare Office 365.
+2. Căutarea în jurnalul de auditare
 
 3. Configurați cerințe preliminare pentru șablon (opțional).
 
