@@ -13,25 +13,25 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709563"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799171"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>se atribuie o licență unui utilizator
 
-Un utilizator are nevoie de o licență pentru a avea acces la servicii. Iată pașii pentru a adăuga, a modifica sau a elimina o licență de la un utilizator.
+Un utilizator are nevoie de o licență pentru a avea acces la servicii. Iată pașii pentru a **adăuga, a modifica sau a elimina** o licență de la un utilizator.
   
-1. În centrul de administrare, accesați pagina Utilizatori [activi](https://go.microsoft.com/fwlink/p/?linkid=834822) **utilizatori.** \>
+1. În centrul de administrare, accesați **Utilizatori** \> [activi](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
 2. Selectați numele utilizatorului căruia doriți să îi atribuiți, să modificați sau să eliminați o licență.
 
-3. În fila **Licențe și aplicații,** selectați licența pe care doriți să o atribuiți acestui utilizator.
+3. Faceți clic pe **Gestionare licențe de produs**și selectați licența pe care doriți să o atribuiți acestui utilizator.
 
     În mod implicit, toate serviciile asociate cu acea licență sunt atribuite automat utilizatorului. Pentru a limita serviciile disponibile utilizatorului, debifați caseta de selectare pentru serviciile pe care nu doriți să le aibă acel utilizator.
 
-4. În partea de jos a panoului, **alegeți Salvare modificări**.
+4. În partea de jos a panoului, faceți clic pe **Salvare modificări**.
 
 Pentru mai multe informații, consultați [Atribuirea licențelor utilizatorilor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)și [Eliminarea licențelor de la utilizatori](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
