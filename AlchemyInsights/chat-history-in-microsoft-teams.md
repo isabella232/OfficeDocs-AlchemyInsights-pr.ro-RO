@@ -1,5 +1,5 @@
 ---
-title: Istoricul conversațiilor în Microsoft teams
+title: Istoricul conversațiilor în Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 75acc293036dc27a043fd1c45daa56eab3f8af5e
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: f1e8c3764415cb32b0dd0ea3223f6a9b3d12b89c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376788"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911268"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a><span data-ttu-id="97586-102">Vizualizarea istoricului conversațiilor în Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="97586-102">Viewing chat history in Microsoft Teams</span></span>
+# <a name="viewing-chat-history-in-microsoft-teams"></a><span data-ttu-id="a2baf-102">Vizualizarea istoricului conversațiilor în Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a2baf-102">Viewing chat history in Microsoft Teams</span></span>
 
-<span data-ttu-id="97586-103">Pentru a vizualiza istoricul conversațiilor echipelor, puteți utiliza [căutarea de conținut](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) din centrul de [Securitate & conformitate](https://sip.protection.office.com/insightdashboard), unde aveți posibilitatea să căutați cutia poștală asociată cu un grup Office 365 sau cu o echipă Microsoft.</span><span class="sxs-lookup"><span data-stu-id="97586-103">To view Teams chat history, you can use [Content Search](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) from the [Security & Compliance Center](https://sip.protection.office.com/insightdashboard), where you can search the mailbox that's associated with an Office 365 Group or a Microsoft Team.</span></span> 
+<span data-ttu-id="a2baf-103">Pentru a vizualiza Istoricul conversațiilor Echipe, puteți utiliza [Căutarea de conținut](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) din [Centrul de securitate & conformitate](https://sip.protection.office.com/insightdashboard), unde puteți căuta în cutia poștală asociată cu un grup Microsoft 365 sau cu o echipă Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a2baf-103">To view Teams chat history, you can use [Content Search](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) from the [Security & Compliance Center](https://sip.protection.office.com/insightdashboard), where you can search the mailbox that's associated with an Microsoft 365 Group or a Microsoft Team.</span></span> 
 
-<span data-ttu-id="97586-104">Consultați [căutarea echipelor Microsoft și a grupurilor Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) pentru a afla despre capacitățile de căutare din centrul de securitate și conformitate.</span><span class="sxs-lookup"><span data-stu-id="97586-104">See [Searching Microsoft Teams and Office 365 Groups](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) to learn about the search capabilities from the Security and Compliance Center.</span></span> 
+<span data-ttu-id="a2baf-104">Consultați [Căutarea în Microsoft Teams și a grupurilor Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) pentru a afla despre capacitățile de căutare din Centrul de securitate și conformitate.</span><span class="sxs-lookup"><span data-stu-id="a2baf-104">See [Searching Microsoft Teams and Microsoft 365 Groups](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) to learn about the search capabilities from the Security and Compliance Center.</span></span> 
 
-<span data-ttu-id="97586-105">**Notă:** Copierea de rezervă, exportul, imprimarea și arhivarea istoricului conversațiilor nu sunt disponibile în prezent direct din Microsoft teams.</span><span class="sxs-lookup"><span data-stu-id="97586-105">**Note:** Backing up, exporting, printing, and archiving conversation history is currently not available directly from Microsoft Teams.</span></span> <span data-ttu-id="97586-106">Vă rugăm să voteze cu privire la această capacitate în [uservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span><span class="sxs-lookup"><span data-stu-id="97586-106">Please vote on this capability in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span></span> 
+<span data-ttu-id="a2baf-105">**Notã:** Copierea de rezervă, exportul, imprimarea și arhivarea istoricului conversațiilor nu sunt disponibile în prezent direct de la Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="a2baf-105">**Note:** Backing up, exporting, printing, and archiving conversation history is currently not available directly from Microsoft Teams.</span></span> <span data-ttu-id="a2baf-106">Vă rugăm să votați cu privire la această capacitate în [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span><span class="sxs-lookup"><span data-stu-id="a2baf-106">Please vote on this capability in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span></span> 
