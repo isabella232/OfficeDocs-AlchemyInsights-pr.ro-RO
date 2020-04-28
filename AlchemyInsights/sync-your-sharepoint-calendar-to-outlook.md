@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766973"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912870"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleme la sincronizarea calendarului cu dispozitive
 
-Calendarele SharePoint sunt tipuri de liste clasice care sunt uneori confundate cu calendarele de grup Office 365.
+Calendarele SharePoint sunt tipuri de liste clasice care sunt uneori confundate cu Calendarele de grup Microsoft 365.
 
 Pentru a sincroniza un Calendar SharePoint în Outlook, urmați acești pași:
 
@@ -33,4 +33,4 @@ Pentru a sincroniza un Calendar SharePoint în Outlook, urmați acești pași:
 >[!Note]
 > Când efectuați o modificare în calendarul Outlook sincronizat, aceasta va apărea în calendarul SharePoint și invers.
 
-Pentru mai multe informații despre grupurile Office 365, consultați acest [articol](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Pentru mai multe informații despre Microsoft 365 Grupuri, consultați acest [articol](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

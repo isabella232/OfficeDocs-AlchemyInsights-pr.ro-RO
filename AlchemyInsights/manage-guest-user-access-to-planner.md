@@ -1,5 +1,5 @@
 ---
-title: Gestionarea accesului utilizatorului invitat la Planificator
+title: Gestionarea accesului utilizatorilor invitați la Planificator
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 3c7139c5c0852239f14bc7cb99c059db0ef7543f
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: 2c0edd4e117f8881bdc62fbbf6e67b3c2c6ff409
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409166"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912343"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Gestionarea accesului utilizatorului invitat la Planificator
+# <a name="manage-guest-user-access-to-planner"></a>Gestionarea accesului utilizatorilor invitați la Planificator
 
-Utilizatorii invitați pot crea și șterge găleți și activități, pot edita câmpuri de activități și pot edita numele planului. În plus, utilizatorii invitați vor primi, de asemenea, unele dintre notificările asociate planului dvs. Iată câteva subiecte solicitate frecvent despre utilizatorii invitați din Planificator:
+Utilizatorii invitați pot crea și șterge găleți și activități, edita câmpuri de activitate și edita numele planului. În plus, utilizatorii invitați vor primi, de asemenea, unele dintre notificările asociate planului dvs. Iată câteva subiecte solicitate frecvent despre utilizatorii invitați în Planner:
 
-- Planificatorul se bazează pe [caracteristica de acces la invitați grupuri Office 365](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
+- Planificatorul se bazează pe [caracteristica de acces pentru invitați Microsoft 365 Groups](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
 
-- Aflați mai multe despre să adăugați utilizatori invitați la un plan, pot lăsa utilizatorii invitați să părăsească un plan, precum și ce pot face utilizatorii invitați în Planner în [acces invitat în Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+- Aflați mai multe să adăugați utilizatori invitați la un plan, pot utilizatorii invitați să lase un plan, precum și ce pot face utilizatorii invitați în Planner în [Accesul invitat în Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).

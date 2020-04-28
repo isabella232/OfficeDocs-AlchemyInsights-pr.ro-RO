@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642156"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912978"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Probleme la crearea unui grup conectat site-ul în SharePoint
 
@@ -30,5 +30,5 @@ Dacă ați șters un grup și site-ul său conectat și doriți să creați un a
 
 1. Există diferite modalități de a crea și utiliza grupuri moderne cu SharePoint.
 
-   - Puteți conecta site-urile existente la un grup Office 365. Pentru mai multe informații, consultați [Conectarea unui grup Office 365 utilizând interfața cu utilizatorul SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Pentru a crea un site conectat la grupul Office 365, va trebui să creați un [site de echipă](https://admin.microsoft.com/sharepoint).
+   - Aveți posibilitatea să conectați site-uri existente la un grup Microsoft 365. Pentru mai multe informații, consultați [Conectarea unui grup Microsoft 365 utilizând interfața cu utilizatorul SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Pentru a crea un site conectat la grupul Microsoft 365, va trebui să creați un [site de echipă](https://admin.microsoft.com/sharepoint).

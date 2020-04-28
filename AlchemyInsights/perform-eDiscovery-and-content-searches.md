@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764740"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911843"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>se efectuează căutările de conținut și căutările eDiscovery
 
-Utilizați instrumentul Căutare conținut din Centrul de securitate & conformitate pentru a găsi rapid e-mail în cutiile poștale Exchange, documentele din site-urile SharePoint și contul OneDrive și conversațiile de mesagerie instant din Skype for Business. De asemenea, puteți utiliza Instrumentul de căutare a conținutului pentru a căuta conversații de e-mail, documente și mesagerie instant în instrumente de colaborare Microsoft 365, ar fi Microsoft Teams și Grupuri Office 365.
+Utilizați instrumentul Căutare conținut din Centrul de securitate & conformitate pentru a găsi rapid e-mail în cutiile poștale Exchange, documentele din site-urile SharePoint și contul OneDrive și conversațiile de mesagerie instant din Skype for Business. De asemenea, puteți utiliza Instrumentul de căutare a conținutului pentru a căuta conversații de e-mail, documente și mesagerie instant în instrumente de colaborare Microsoft 365, ar fi Microsoft Teams și Microsoft 365 Groups.
 
 **Pentru a efectua o căutare de conținut**
 

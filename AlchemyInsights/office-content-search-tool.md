@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788018"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912270"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Instrumentul Căutare conținut pentru a găsi informații relevante
 
-Utilizați instrumentul Căutare conținut din Centrul de conformitate security & pentru a găsi rapid e-mailuri în cutiile poștale Exchange, documentele din locațiile SharePoint și OneDrive și conversațiile de mesagerie instant din Skype for Business. Puteți utiliza instrumentul de căutare a conținutului pentru a căuta conversații de e-mail, documente și mesagerie instant în instrumente de colaborare Microsoft 365, ar fi Microsoft Teams și Grupuri Office 365.
+Utilizați instrumentul Căutare conținut din Centrul de conformitate security & pentru a găsi rapid e-mailuri în cutiile poștale Exchange, documentele din locațiile SharePoint și OneDrive și conversațiile de mesagerie instant din Skype for Business. Puteți utiliza instrumentul de căutare a conținutului pentru a căuta conversații de e-mail, documente și mesagerie instant în instrumente de colaborare Microsoft 365, ar fi Microsoft Teams și Microsoft 365 Groups.
 
 
 Înainte de a utiliza [Căutarea de conținut](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) din [Centrul de securitate & conformitate](https://sip.protection.office.com/homepage), veți dori să finalizați setările de configurare, inclusiv [permisiunile de configurare,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [setarea vitezelor de descărcare](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) și a [setărilor de export](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

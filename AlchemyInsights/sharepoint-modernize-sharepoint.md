@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767729"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912834"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Modernizați-vă experiența SharePoint clasică
 
 Pentru a face trecerea la interfața cu utilizatorul modernă, consultați următoarele resurse:
 
 - [Creați **site-uri moderne** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (site-ul de echipă sau site-ul de comunicare). Utilizați [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) pentru a construi un intranet frumos și puternic care conectează locul de muncă. A se vedea [exemple](https://lookbook.microsoft.com/) și de a lua [de orientare de proiectare](https://spdesign.azurewebsites.net/).
-- [Conectați-vă site-ul la un **grup Office 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) pentru a spori colaborarea între Microsoft 365.
+- [Conectați site-ul la un **grup Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) pentru a spori colaborarea între Microsoft 365.
 - Transformați-vă în **lista modernă și** experiența [bibliotecii, permițând listelor și bibliotecilor să se afișeze în interfața cu utilizatorul modernă](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
 - Transformați **paginile site-ului** din **wiki**clasic, **parte web**și pagini de **pornire** în pagini moderne de pe [partea clientului.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) [Scanerul de modernizare SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) furnizează informații despre pagina wiki și paginile de părți web curente pentru a vă ajuta să prioritizați transformarea paginii.
 
