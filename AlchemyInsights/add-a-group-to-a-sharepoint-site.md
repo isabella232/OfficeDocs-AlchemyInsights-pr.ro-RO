@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676401"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911088"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Adăugarea unui grup la un site SharePoint
 
-Unele site-uri de echipă SharePoint (inclusiv cele create în Microsoft Teams) sunt gestionate de proprietarii de grupuri Office 365. Site-urile SharePoint și conținutul pot fi, de asemenea, partajate cu grupurile Office 365 și cu grupurile SharePoint. Un grup SharePoint este o colecție de utilizatori care au toate același set de permisiuni pentru site-uri și conținut. Pentru site-uri clasice, vă recomandăm să utilizați grupuri pentru a atribui convenabil același nivel de permisiune pentru mai multe persoane la o dată, mai degrabă decât atribuirea permisiunilor o persoană la un moment dat.
+Unele site-uri de echipă SharePoint (inclusiv cele create în Microsoft Teams) sunt gestionate de proprietarii de grup Microsoft 365. Site-urile SharePoint și conținutul pot fi, de asemenea, partajate cu grupurile Microsoft 365 și cu grupurile SharePoint. Un grup SharePoint este o colecție de utilizatori care au toate același set de permisiuni pentru site-uri și conținut. Pentru site-uri clasice, vă recomandăm să utilizați grupuri pentru a atribui convenabil același nivel de permisiune pentru mai multe persoane la o dată, mai degrabă decât atribuirea permisiunilor o persoană la un moment dat.
   
-Gestionarea membrilor grupului Office 365:
+Gestionarea membrilor grupului Microsoft 365:
   
 1. Accesați [pagina Grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Selectați un grup pentru a-i vedea proprietarii și membrii. Pentru a adăuga sau a elimina persoane, faceți clic pe linkul **Editare** din rândul **Proprietari** sau **Membri.** 
     
-Partajați un site de comunicare cu un grup Office 365:
+Partajați un site de comunicare cu un grup Microsoft 365:
   
 1. Accesați site-ul într-un browser și faceți clic pe **Partajare site** în dreapta sus. 
     
@@ -42,7 +42,7 @@ Creați un grup SharePoint de utilizat cu un site clasic:
     
 3. Pe fila Permisiuni, faceți clic pe **Creare grup**.
     
-[Conectarea unui site de echipă clasic la un nou grup Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Conectarea unui site de echipă clasic la un nou grup Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Aflați mai multe despre lucrul cu grupurile SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   

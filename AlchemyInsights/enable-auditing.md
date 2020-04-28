@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703655"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908428"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Activarea și căutarea în jurnalul de audit
 
@@ -31,7 +31,7 @@ Pentru a căuta în Jurnalul de audit Microsoft 365, [urmați acești pași](htt
 
 - Auditul cutiei poștale este activat ă în mod implicit în Microsoft 365. Pentru mai multe informații, consultați [acest articol](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Cutiile poștale de grup Office 365 și cutiile poștale de public folder în Exchange Online nu acceptă înregistrarea în jurnal de audit.
+- Cutiile poștale de grup Microsoft 365 și cutiile poștale de public folder în Exchange Online nu acceptă înregistrarea în jurnal de audit.
 
 **SharePoint și OneDrive**
 
