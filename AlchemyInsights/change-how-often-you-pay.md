@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706839"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939667"
 ---
 # <a name="change-how-often-you-pay"></a>Modificați cât de des plătiți
 
- **Doriți să modificați frecvența de plată?** Dacă doriți să modificați frecvența cu care plătiți pentru abonamentul Microsoft 365 pentru firme, fie de la anual la lunar, fie lunar la anual, vă putem ajuta cu acest lucru. Va trebui să achiziționați același abonament cu noua frecvență de plată și să anulați vechiul abonament. Vă rugăm să folosiți opțiunea "Să vă sunăm" pentru a vorbi cu un inginer de sprijin.
+Pentru a modifica cât de des sunteți facturat și plătiți pentru un abonament, urmați pașii următori în centrul de administrare Microsoft 365. 
+1. Accesați **Facturare > [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Găsiți abonamentul pe care doriți să îl modificați. În **secțiunea Facturare,** lângă **Facturat lunar** sau **facturat anual**, faceți clic pe **Editare**. 
+3. Alegeți opțiunea pentru cât de des doriți să fiți facturat, apoi faceți clic pe **Modificare**.
+
+**Notă:** Facturarea lunară sau anuală sunt singurele opțiuni.
+
+Pentru mai multe informații, consultați [Modificarea frecvenței de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
