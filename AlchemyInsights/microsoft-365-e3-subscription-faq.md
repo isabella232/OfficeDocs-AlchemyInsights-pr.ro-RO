@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912056"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943991"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Întrebări frecvente despre abonamentul Microsoft 365 E3 și despre gestionarea licențelor
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912056"
 - Pentru a **anula** licențe E3, accesați **Facturare > [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054)**, faceți clic pe **Setări și acțiuni**, apoi faceți clic pe **Anulare abonament**. Pentru mai multe informații, consultați [Anularea abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Pentru a **activa** abonamentul E3, consultați [Activarea abonamentului](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Pentru a **reactiva** un abonament E3, consultați [Reactivarea abonamentului](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Pentru a prelungi versiunea de încercare E3, consultați [Prelungiți versiunea de încercare](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Pentru **a prelungi** versiunea de încercare E3, consultați [Prelungiți versiunea de încercare](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Pentru mai multe informații, consultați [Gestionarea licențelor de abonament](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
