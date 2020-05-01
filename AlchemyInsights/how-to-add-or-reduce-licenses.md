@@ -1,5 +1,5 @@
 ---
-title: se adaugă sau se reduce licențele
+title: Adăugarea sau eliminarea licențelor pentru abonament
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709599"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957846"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>se adaugă sau se reduce licențele
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Adăugarea sau eliminarea licențelor pentru abonament
 
 Iată să adăugați/eliminați licențele.
   
 1. Navigați la ** [Abonamente](https://portal.office.com/adminportal/home#/subscriptions)> de facturare**.
 
-2. Alegeți abonamentul din care doriți să adăugați/eliminați licențe.
+2. Alegeți abonamentul pentru care doriți să adăugați/eliminați licențe.
 
 3. Faceți clic pe **Adăugare/eliminare licențe**.
 
@@ -41,6 +41,6 @@ Pentru informații despre atribuirea licențelor, consultați [Atribuirea licen�
   
 - [Gestionarea licențelor de abonament - cumpărați sau eliminați](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Revocarea Office 365 pentru firme](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Revocarea Microsoft 365 pentru firme](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Cumpărați un alt abonament Office 365 pentru firme](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Cumpărați un alt abonament Microsoft 365 pentru firme](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

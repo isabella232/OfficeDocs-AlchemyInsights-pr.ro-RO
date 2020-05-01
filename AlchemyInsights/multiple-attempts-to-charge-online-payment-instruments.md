@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799135"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957918"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Încercări multiple de a percepe instrumente de plată online
+# <a name="past-due-account"></a>Trecut contul cuvenit?
 
-În cazul în care taxa nu reușește, sistemul va continua să încerce să achite soldul în următoarele câteva săptămâni. Puteți actualiza în orice moment informațiile de plată pentru a vă asigura că următoarea încercare de încărcare va avea succes. Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unui card de credit sau a unui cont bancar în Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+O plată poate fi refuzată din mai multe motive, inclusiv dacă cardul de credit a expirat. Puteți utiliza **oricând** funcția Settle balance pentru a modifica informațiile cardului de credit și pentru a retrimite imediat plata.
+
+1. În centrul de administrare, accesați **Facturare > Produse & [servicii](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Găsiți abonamentul cu soldul restant. În **secțiunea Facturare,** lângă **Abonament are o plată restantă,** faceți clic pe **Achitare sold** pentru a plăti întregul sold restant.
+2. Dacă dețineți cardul de credit, aveți posibilitatea să modificați data expirării, să alegeți un alt card sau [să adăugați un card nou](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Dacă nu dețineți cardul de credit, aveți posibilitatea să alegeți un alt card de credit sau [să adăugați un card nou](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+4. După ce ați terminat actualizările, faceți clic pe **Salvare**.
+
+**Notă:** După efectuarea unei plăți, notificarea cuvenită a trecutului poate fi vizibilă pentru o perioadă scurtă de timp. Așteptați cel puțin **48** de ore înainte de a contacta asistența.
