@@ -1,5 +1,5 @@
 ---
-title: se achiziționează Office 365 pentru organizații non-profit
+title: Microsoft 365 pentru organizații nonprofit - în curs de examinare
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763553"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005234"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="17612-102">se achiziționează Office 365 pentru organizații non-profit</span><span class="sxs-lookup"><span data-stu-id="17612-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="microsoft-365-for-nonprofits---under-review"></a><span data-ttu-id="dfb3a-102">Microsoft 365 pentru organizații nonprofit - în curs de examinare</span><span class="sxs-lookup"><span data-stu-id="dfb3a-102">Microsoft 365 for nonprofits - under review</span></span>
 
-<span data-ttu-id="17612-103">Eligibilitatea dumneavoastră ca organizație non-profit calificată Microsoft este în curs de examinare.</span><span class="sxs-lookup"><span data-stu-id="17612-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="17612-104">Vă puteți aștepta să primiți o notificare cu privire la determinarea eligibilității dumneavoastră înainte de expirarea procesului.</span><span class="sxs-lookup"><span data-stu-id="17612-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="17612-105">Puteți urmări starea cererii dumneavoastră [aici](https://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="17612-105">You can track the status of your application [here](https://eligibilityweb.azurewebsites.net/).</span></span>
+<span data-ttu-id="dfb3a-103">Eligibilitatea dumneavoastră ca organizație non-profit calificată Microsoft este **în curs de revizuire**.</span><span class="sxs-lookup"><span data-stu-id="dfb3a-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is **under review**.</span></span> <span data-ttu-id="dfb3a-104">Vă puteți aștepta să primiți o notificare cu privire la determinarea eligibilității la **48** de ore de la data depunerii.</span><span class="sxs-lookup"><span data-stu-id="dfb3a-104">You can expect to receive a notification on the determination of your eligibility **48 hours** from your time of submission.</span></span> <span data-ttu-id="dfb3a-105">Vă rugăm să permiteți cel puțin **48 de ore** pentru a primi această notificare înainte de a deschide o solicitare de serviciu.</span><span class="sxs-lookup"><span data-stu-id="dfb3a-105">Please allow at least **48 hours** to receive this notification before opening a service request.</span></span> 
+
+<span data-ttu-id="dfb3a-106">Pentru mai multe informații, consultați [Microsoft 365 pentru organizații nonprofit](https://www.microsoft.com/nonprofits/microsoft-365).</span><span class="sxs-lookup"><span data-stu-id="dfb3a-106">For more info, see [Microsoft 365 for Nonprofits](https://www.microsoft.com/nonprofits/microsoft-365).</span></span> 
