@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724568"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005270"
 ---
-# <a name="inbox-rules"></a>Reguli inbox
+# <a name="inbox-rules-in-outlook-desktop"></a>Reguli inbox în Desktop Outlook
 
-Pentru mai multe informații despre utilizarea regulilor Inbox în propria cutie poștală, consultați:
+1. Accesați **File > Manage Rules & Alerte** pentru a deschide caseta de dialog **Reguli și alerte.**
+2. În fila **Reguli e-mail,** faceți clic pe **Regulă nouă**.
+3. Selectați unul dintre șabloanele de la **pasul 1**. Pentru a porni de la o regulă necompletată, selectați **Se aplică regula mesajelor pe care le primesc sau Aplicați regula pe mesajele pe care le trimit**.
+4. În **Pasul 2: Editați caseta de descriere a regulii**, faceți clic pe orice opțiuni subliniate pentru a le seta. De exemplu, dacă ați selectat **Semnalizare a mesajelor de la o persoană pentru urmărire** în Pasul 1, faceți clic pe persoane sau pe grup **public** pentru a selecta mesajele expeditorilor pe care doriți să le semnalizați; apoi faceți clic pe **urmărire în acest moment** pentru a selecta un semnalizator și o dată de urmărire.
+5. Faceți clic pe **Următorul**.
 
-- [Gestionarea mesajelor de e-mail utilizând reguli în Outlook pentru PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Gestionați mesajele utilizând regulile inboxului în Outlook pe web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-De asemenea, aveți posibilitatea să gestionați regulile Inbox în Exchange Online PowerShell. Pentru mai multe informații, consultați [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (vizualizare), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing) și [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).
+Pentru informații suplimentare despre să lucrați cu regulile inboxului, consultați [Gestionarea mesajelor de e-mail utilizând reguli](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
