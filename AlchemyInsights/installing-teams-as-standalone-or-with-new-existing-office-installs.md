@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1c6e99056dad97362923c7c3feb1d6a739df5c6a
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763193"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010573"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instalarea echipelor ca independent sau cu instalări Office noi sau existente
 
-Microsoft Teams este inclus ca parte a *instalărilor noi* ale Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business și Office pentru Mac. Pentru mai multe informații, consultați [Când va începe microsoft Teams să fie inclus ea cu instalările noi de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams este inclus ca parte a *instalărilor noi* ale Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business și Office pentru Mac. Pentru mai multe informații, consultați [Când va începe microsoft Teams să fie inclus ea cu instalările noi de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-În plus, începând cu versiunea 1906 din Lunar Channel, echipele vor fi *adăugate la instalările existente* ale Microsoft 365 Apps for enterprise (și Microsoft 365 Apps for business) pe dispozitive care rulează Windows atunci când actualizați instalarea existentă la cea mai recentă versiune. Pentru mai multe informații, consultați [Ce se întâmplă cu instalările existente de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+În plus, începând cu versiunea 1906 din Lunar Channel, echipele vor fi *adăugate la instalările existente* ale Microsoft 365 Apps for enterprise (și Microsoft 365 Apps for business) pe dispozitive care rulează Windows atunci când actualizați instalarea existentă la cea mai recentă versiune. Pentru mai multe informații, consultați [Ce se întâmplă cu instalările existente de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 Puteți implementa Echipe ca independent pentru utilizatorii dvs., [urmând aceste instrucțiuni](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)sau https://teams.microsoft.com/downloadsputeți solicita utilizatorilor să instaleze Echipe pentru ei înșiși din .
 

@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726260"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010879"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Utilizarea instrumentului de implementare Office (ODT)
 
@@ -42,4 +42,4 @@ Utilizați Instrumentul de implementare Office (ODT) pentru a implementa versiun
 
     **Notã:** Trebuie să executați acest pas de pe computerul client pe care doriți să instalați Office și trebuie să aveți permisiuni de administrator local pe acel computer.
 
-Pentru a afla mai multe despre utilizarea Instrumentului de implementare Office pentru scenariile de implementare Microsoft 365 Apps for enterprise, consultați [Prezentare generală a instrumentului de implementare Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Pentru mai multe detalii despre se utilizează Instrumentul de particularizare Office, consultați [Prezentare generală a instrumentului de particularizare Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Pentru a afla mai multe despre utilizarea Instrumentului de implementare Office pentru scenariile de implementare Microsoft 365 Apps for enterprise, consultați [Prezentare generală a instrumentului de implementare Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Pentru mai multe detalii despre se utilizează Instrumentul de particularizare Office, consultați [Prezentare generală a instrumentului de particularizare Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

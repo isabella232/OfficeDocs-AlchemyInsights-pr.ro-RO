@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712686"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010914"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Soluții pentru probleme în jurul instalarea office pe un Terminal Server
 
@@ -33,4 +33,4 @@ Această eroare înseamnă că nu aveți un abonament care include Microsoft 365
 - Verificați dacă utilizatorul se signin cu contul său de utilizator.
 - Verificați dacă există conectivitate între computerul partajat și Internet.
 
-Pentru alte sfaturi de depanare, consultați: [Depanarea problemelor legate de activarea computerului partajat](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Pentru alte sfaturi de depanare, consultați: [Depanarea problemelor legate de activarea computerului partajat](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
