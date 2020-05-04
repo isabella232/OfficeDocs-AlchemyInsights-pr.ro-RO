@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713334"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010806"
 ---
 # <a name="office-activation-errors"></a>Erori de activare Office
 
-1. În **Panou de control > Programe și caracteristici**, caută **Office**. Ar trebui să vedeți **Microsoft Office 365 ProPlus** sau **Microsoft Office 365 Business**. Dacă vedeți mai multe versiuni de Office listate, dezinstalați versiunea pe care nu o utilizați. Dacă nu reușiți să dezinstalați cu succes utilizând Panoul de control, utilizați Asistentul pentru recuperare și asistență (SaRA) pentru a [dezinstala](https://aka.ms/SARA-OfficeUninstall-Alchemy) versiunea pe care nu o utilizați. Apoi reporniți Office și conectați-vă folosind contul de la locul de muncă sau de la școală, dacă vi se solicită. 
+1. În **Panou de control > Programe și caracteristici**, caută **Office**. Ar trebui să vedeți **Microsoft 365 pentru întreprinderi** sau **Microsoft 365 pentru afaceri**. Dacă vedeți mai multe versiuni de Office listate, dezinstalați versiunea pe care nu o utilizați. Dacă nu reușiți să dezinstalați cu succes utilizând Panoul de control, utilizați Asistentul pentru recuperare și asistență (SaRA) pentru a [dezinstala](https://aka.ms/SARA-OfficeUninstall-Alchemy) versiunea pe care nu o utilizați. Apoi reporniți Office și conectați-vă folosind contul de la locul de muncă sau de la școală, dacă vi se solicită. 
 
 2. Dacă Office încă este nelicențiat, reveniți la ** Panou de control > Programe și caracteristici**, faceți clic dreapta pe instalarea Office rămasă, faceți clic pe **Modificare** (sau pe **Schimbare**), apoi faceți clic pe **Reparare online**. Repararea online poate dura un timp. Apoi reporniți Office și conectați-vă folosind contul de la locul de muncă sau de la școală, dacă vi se solicită. 
 

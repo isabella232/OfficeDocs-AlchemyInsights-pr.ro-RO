@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761447"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010743"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Mesajul aplicațiilor Office: „Produsele pe care le-am găsit în contul dvs. nu se pot utiliza pentru activare”
 
@@ -28,7 +28,7 @@ ms.locfileid: "43761447"
 
 - Pe computerul afectat, [resetați starea de activare Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
-Pentru scenariile cu computere partajate, consultați [Depanarea problemelor cu activarea computerelor partajate pentru Office 365 ProPlus](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+Pentru scenariile cu computere partajate, consultați [Depanarea problemelor cu activarea computerelor partajate pentru Aplicații Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
 Pentru mai multe informații, consultați: 
 
