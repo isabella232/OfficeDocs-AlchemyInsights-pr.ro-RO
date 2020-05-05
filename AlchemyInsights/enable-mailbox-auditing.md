@@ -1,9 +1,9 @@
 ---
-title: Activați auditarea cutiei poștale
+title: Activarea auditării cutiilor poștale
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736265"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703583"
 ---
-# <a name="enable-mailbox-auditing"></a>Activați auditarea cutiei poștale
+# <a name="enable-mailbox-auditing"></a>Activarea auditării cutiilor poștale
 
-Pentru a activa Mailbox audit pentru un singur utilizator sau o organizație întreagă următoarele cmdlet-uri trebuie să fie executat de la distanță Power Shell:
+Pentru a activa Mailbox Auditing pentru un singur utilizator sau o întreagă organizație, următoarele cmdlet-uri trebuie executate din Remote Power Shell:
   
  **Utilizator unic**
   
-Set-Mailbox-identitate "Jane Dow"-AuditEnabled $true
+Set-Mailbox -Identitate "Jane Dow" -AuditEnabled $true
   
  **Organizaţie**
   
-Get-cutie poștală-ResultSize nelimitat-filtru {RecipientTypeDetails-EQ "UserMailbox"} | Set-cutie poștală-AuditEnabled $true
+Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
   
-[află mai multe](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
+[Aflați mai multe](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 
