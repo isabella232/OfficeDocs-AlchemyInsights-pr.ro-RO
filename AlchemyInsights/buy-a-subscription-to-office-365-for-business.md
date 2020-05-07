@@ -12,31 +12,31 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712219"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061755"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a><span data-ttu-id="16a16-102">Cumpărați un abonament la Microsoft 365 din versiunea de încercare gratuită</span><span class="sxs-lookup"><span data-stu-id="16a16-102">Buy a subscription to Microsoft 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a><span data-ttu-id="845d7-102">Cumpărați un abonament la Microsoft 365 din versiunea de încercare gratuită</span><span class="sxs-lookup"><span data-stu-id="845d7-102">Buy a subscription to Microsoft 365 from your free trial</span></span>
 
-<span data-ttu-id="16a16-103">Ați încercat Microsoft 365, iar acum sunteți gata să cumpărați.</span><span class="sxs-lookup"><span data-stu-id="16a16-103">You've tried Microsoft 365, and now you're ready to buy.</span></span> <span data-ttu-id="16a16-104">Aveți două opțiuni atunci când cumpărați Microsoft 365 din versiunea de încercare:</span><span class="sxs-lookup"><span data-stu-id="16a16-104">You have two options when buying Microsoft 365 from your trial version:</span></span>
+<span data-ttu-id="845d7-103">Ați încercat Microsoft 365, iar acum sunteți gata să cumpărați.</span><span class="sxs-lookup"><span data-stu-id="845d7-103">You've tried Microsoft 365, and now you're ready to buy.</span></span> <span data-ttu-id="845d7-104">Aveți două opțiuni atunci când cumpărați Microsoft 365 din versiunea de încercare:</span><span class="sxs-lookup"><span data-stu-id="845d7-104">You have two options when buying Microsoft 365 from your trial version:</span></span>
   
- <span data-ttu-id="16a16-105">**Cumpărați același plan ca și procesul dvs.**</span><span class="sxs-lookup"><span data-stu-id="16a16-105">**Buy the same plan as your trial**</span></span>
+ <span data-ttu-id="845d7-105">**Cumpărați același plan ca și procesul dvs.**</span><span class="sxs-lookup"><span data-stu-id="845d7-105">**Buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="16a16-106">În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="16a16-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="845d7-106">În centrul de administrare, accesați pagina **Facturare** \> **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="845d7-106">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="16a16-107">Găsiți abonamentul pe care doriți să îl cumpărați.</span><span class="sxs-lookup"><span data-stu-id="16a16-107">Find the subscription that you want to buy.</span></span> <span data-ttu-id="16a16-108">În secțiunea **Licențe,** selectați **Abonament cumpărare**și urmați pașii pentru a vă consulta.</span><span class="sxs-lookup"><span data-stu-id="16a16-108">In the **Licenses** section, select **Purchase subscription**, and follow the steps to check out.</span></span>
+2. <span data-ttu-id="845d7-107">Găsiți abonamentul pe care doriți să îl cumpărați.</span><span class="sxs-lookup"><span data-stu-id="845d7-107">Find the subscription that you want to buy.</span></span> <span data-ttu-id="845d7-108">În secțiunea **Licențe,** selectați **Abonament cumpărare**și urmați pașii pentru a vă consulta.</span><span class="sxs-lookup"><span data-stu-id="845d7-108">In the **Licenses** section, select **Purchase subscription**, and follow the steps to check out.</span></span>
 
-<span data-ttu-id="16a16-109">**Cumpărați un abonament diferit**</span><span class="sxs-lookup"><span data-stu-id="16a16-109">**Buy a different subscription**</span></span>
+<span data-ttu-id="845d7-109">**Cumpărați un abonament diferit**</span><span class="sxs-lookup"><span data-stu-id="845d7-109">**Buy a different subscription**</span></span>
   
-1. <span data-ttu-id="16a16-110">În centrul de administrare, accesați pagina [Servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare.** \></span><span class="sxs-lookup"><span data-stu-id="16a16-110">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="845d7-110">În centrul de administrare, accesați pagina [Servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare.** \></span><span class="sxs-lookup"><span data-stu-id="845d7-110">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-3. <span data-ttu-id="16a16-111">Găsiți abonamentul pe care doriți să îl cumpărați, selectați **Cumpărați**și urmați pașii pentru a vă consulta.</span><span class="sxs-lookup"><span data-stu-id="16a16-111">Find the subscription that you want to buy, select **Buy**, and follow the steps to check out.</span></span>
+3. <span data-ttu-id="845d7-111">Găsiți abonamentul pe care doriți să îl cumpărați, selectați **Cumpărați**și urmați pașii pentru a vă consulta.</span><span class="sxs-lookup"><span data-stu-id="845d7-111">Find the subscription that you want to buy, select **Buy**, and follow the steps to check out.</span></span>
 
-<span data-ttu-id="16a16-112">Pentru a afla mai multe, consultați [Cumpărați un abonament la Microsoft 365 pentru firme din versiunea de încercare gratuită](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span><span class="sxs-lookup"><span data-stu-id="16a16-112">To learn more, see [Buy a subscription to Microsoft 365 for business from your free trial](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span></span>
+<span data-ttu-id="845d7-112">Pentru a afla mai multe, consultați [Cumpărați un abonament la Microsoft 365 pentru firme din versiunea de încercare gratuită](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span><span class="sxs-lookup"><span data-stu-id="845d7-112">To learn more, see [Buy a subscription to Microsoft 365 for business from your free trial](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span></span>
 
-<span data-ttu-id="16a16-113">**Depanare**</span><span class="sxs-lookup"><span data-stu-id="16a16-113">**Troubleshooting**</span></span>
+<span data-ttu-id="845d7-113">**Depanare**</span><span class="sxs-lookup"><span data-stu-id="845d7-113">**Troubleshooting**</span></span>
 
-<span data-ttu-id="16a16-114">Dacă întâmpinați probleme cu încărcarea paginii, încercați să deschideți pagina web într-un alt browser sau încercați să deschideți pagina într-o fereastră de browser privată, cum este fereastra InPrivate din Microsoft Edge sau fereastra incognito din Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="16a16-114">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span>
+<span data-ttu-id="845d7-114">Dacă întâmpinați probleme cu încărcarea paginii, încercați să deschideți pagina web într-un alt browser sau încercați să deschideți pagina într-o fereastră de browser privată, cum este fereastra InPrivate din Microsoft Edge sau fereastra incognito din Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="845d7-114">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span>
