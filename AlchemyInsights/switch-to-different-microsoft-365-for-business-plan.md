@@ -20,10 +20,10 @@ ms.locfileid: "43799531"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Comutarea la alt plan Microsoft 365 pentru firme
 
-Comutarea între planuri poate fi finalizată în Centrul de Administrare Microsoft 365.
+Comutarea între planuri poate fi finalizată în Centrul de administrare Microsoft 365.
 
 - [Comutați manual între planuri](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) prin achiziționarea noului abonament, reatribuirea licențelor și anularea celuilalt plan (dacă este necesar).
 
-- În unele situații, [butonul de Comutare între Planuri](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) este disponibil pentru a vă conduce prin procesul de comutare între planuri.
+- În unele situații, [butonul de comutare între planuri](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) este disponibil pentru a vă conduce prin procesul de comutare între planuri.
 
 Pentru mai multe informații, consultați Comutarea la un alt [plan Microsoft 365 pentru firme](https://docs.microsoft.com/ro-RO/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).

@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708259"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086900"
 ---
 # <a name="all-subscriptions-are-active"></a>Toate abonamentele sunt Active
 
-Abonamentele sunt active. Acest lucru poate fi verificat accesând pagina \> [Abonamente de](https://go.microsoft.com/fwlink/p/?linkid=842054) **facturare.** Abonamentele sunt comandate după stare, cu abonamente Active în partea de sus. Informații suplimentare, ar fi numărul de licențe și metoda de plată, pot fi văzute prin alegerea abonamentului.
+Abonamentele sunt active. Acest lucru poate fi verificat accesând pagina **Facturare** \> [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054) Abonamentele sunt comandate după stare, cu abonamente Active în partea de sus. Informații suplimentare, ar fi numărul de licențe și metoda de plată, pot fi văzute prin alegerea abonamentului.
   
-Dacă aveți probleme cu serviciul dvs., utilizați opțiunea "Să vă sunăm" pentru a discuta cu un inginer de asistență.
+Dacă doriți să eliminați abonamentele active sau să închideți contul, consultați [Cum să închideți contul](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).

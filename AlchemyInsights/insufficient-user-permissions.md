@@ -20,4 +20,4 @@ ms.locfileid: "43795913"
 ---
 # <a name="insufficient-user-permissions"></a>Permisiuni utilizator insuficiente
 
-Această problemă apare atunci când [cerințele preliminare necesare](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites) nu sunt îndeplinite. Vă rugăm să vă asigurați că utilizatorul are permisiunea de **Notificare Resurse** sub clasa de obiecte**Colecții** din Managerul de Configurare.
+Această problemă apare atunci când [cerințele preliminare necesare](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites) nu sunt îndeplinite. Asigurați-vă că utilizatorul are permisiunea de **Notificare resurse** sub clasa de obiecte**Colecții** din Managerul de configurare.
