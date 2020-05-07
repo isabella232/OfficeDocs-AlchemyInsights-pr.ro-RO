@@ -1,5 +1,5 @@
 ---
-title: Remedierea erorilor windows update
+title: Remedierea erorilor din Windows Update
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 76e53f24eae5f1cda53f01a16810a668f5ae33fa
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564328"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063701"
 ---
-# <a name="fix-windows-update-errors"></a>Remedierea erorilor windows update
+# <a name="fix-windows-update-errors"></a>Remedierea erorilor din Windows Update
 
-Dacă obțineți un cod de eroare în timpul descărcării și instalării actualizării Windows, **Depanatorul de** actualizare poate ajuta la rezolvarea problemei.
+Dacă obțineți un cod de eroare în timpul descărcării și instalării actualizării Windows, **depanatorul de actualizare** vă poate ajuta să rezolvați problema.
 
-- [Descărcați depanatorul de actualizare pentru Windows 10](https://support.microsoft.com/en-us/help/4027322/windows-update-troubleshooter)
-- Executați depanatorul. Când se face, este bine să reporniți dispozitivul. Apoi căutați actualizări noi mergând la [Start > Settings > Update & Security > Windows Update](ms-settings:windowsupdate).
+- [Descărcați Update Troubleshooter pentru Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Executați depanatorul. Când este gata, este cea mai bună practică să reporniți dispozitivul. Apoi căutați actualizări noi mergând la [Start > Setări > Actualizare & Securitate > Windows Update](ms-settings:windowsupdate).
 
-Dacă acestea încă nu funcționează, consultați [Windows Update: Întrebări frecvente](https://support.microsoft.com/help/12373/windows-update-faq) pentru mai multe informații.
+Dacă acestea tot nu funcționează, consultați [Windows Update: Întrebări frecvente](https://support.microsoft.com/help/12373/windows-update-faq) pentru mai multe informații.

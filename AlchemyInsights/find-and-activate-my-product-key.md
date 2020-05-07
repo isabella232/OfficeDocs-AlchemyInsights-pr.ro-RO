@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716148"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062476"
 ---
 # <a name="find-and-activate-my-product-key"></a>Găsiți și activați cheia de produs
 
@@ -32,7 +32,7 @@ Dacă ați achiziționat Microsoft 365 Business Premium Standard dintr-un magazi
 
 **Notă:** Pentru a utiliza o cheie de produs pentru a extinde data de expirare sau pentru a adăuga o licență la abonamentul Microsoft 365 Business Premium Standard existent, aveți nevoie de o cheie nouă și neutilizată pentru același abonament Microsoft 365.  Introducerea cheii de produs Microsoft 365 originale nu va funcționa, deoarece o cheie care a fost deja valorificată nu poate fi utilizată din nou.
 
-1. În centrul de administrare, accesați pagina[De servicii & produse](https://go.microsoft.com/fwlink/p/?linkid=842054) de **facturare.** > 
+1. În centrul de administrare, accesați pagina **Facturare** > **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Găsiți abonamentul la care doriți să extindeți data de expirare sau să adăugați licențe.  Faceți clic pe [extindere dată de sfârșit](https://go.microsoft.com/fwlink/p/?linkid=842054) sau [adăugați mai multe licențe](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
