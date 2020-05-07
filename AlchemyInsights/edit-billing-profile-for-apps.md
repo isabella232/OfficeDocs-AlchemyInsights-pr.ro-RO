@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703907"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062548"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Editarea profilului de facturare pentru aplicații
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Pentru a modifica profilul de facturare în aplicații
 
-1. Accesați pagina Produse **de facturare** > [& servicii,](https://go.microsoft.com/fwlink/p/?linkid=842054) apoi alegeți fila **Aplicații.**
+1. Accesați pagina **Facturare** > **[produse,](https://go.microsoft.com/fwlink/p/?linkid=842054)** apoi alegeți fila **Aplicații.**
 
 2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703907"
 
 ## <a name="edit-billing-profiles"></a>Editarea profilurilor de facturare
 
-1. Accesați pagina **Facturi de facturare** > [& plăți,](https://go.microsoft.com/fwlink/p/?linkid=848039) apoi alegeți **Profiluri de facturare**.
+1. Accesați pagina **Facturi de facturare** > **[& plăți,](https://go.microsoft.com/fwlink/p/?linkid=848039)** apoi alegeți **Profiluri de facturare**.
 
 2. Alegeți profilul de facturare din listă de editat.
