@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708915"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062224"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="6ea7a-102">Obținerea unei erori TenantAccessBlockedException la accesarea e-mailului?</span><span class="sxs-lookup"><span data-stu-id="6ea7a-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="a5453-102">Obținerea unei erori TenantAccessBlockedException la accesarea e-mailului?</span><span class="sxs-lookup"><span data-stu-id="a5453-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="6ea7a-103">Există câteva motive diferite pentru care este posibil să primiți această eroare.</span><span class="sxs-lookup"><span data-stu-id="6ea7a-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="6ea7a-104">De exemplu:</span><span class="sxs-lookup"><span data-stu-id="6ea7a-104">For example:</span></span>
+<span data-ttu-id="a5453-103">Există câteva motive diferite pentru care este posibil să primiți această eroare.</span><span class="sxs-lookup"><span data-stu-id="a5453-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="a5453-104">De exemplu:</span><span class="sxs-lookup"><span data-stu-id="a5453-104">For example:</span></span>
 
-- <span data-ttu-id="6ea7a-105">Verificați dacă abonamentul este valabil pe pagina Produse **de facturare** \> [& servicii](https://portal.office.com/adminportal/home#/subscriptions) din centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6ea7a-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="a5453-105">Verificați dacă abonamentul este valid în pagina **Facturare** \> **[produse](https://portal.office.com/adminportal/home#/subscriptions)** din centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a5453-105">Verify that your subscription is valid on the **Billing** \> **[Your products](https://portal.office.com/adminportal/home#/subscriptions)** page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="6ea7a-106">Verificați dacă există notificări anterioare în pagina facturi **de facturare** \> [& plăți](https://portal.office.com/adminportal/home#/billoverview) din centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6ea7a-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="a5453-106">Verificați dacă există notificări anterioare în pagina facturi **de facturare** \> **[& plăți](https://portal.office.com/adminportal/home#/billoverview)** din centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a5453-106">Check for any past due notifications on the **Billing** \> **[Bills & payments](https://portal.office.com/adminportal/home#/billoverview)** page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="6ea7a-107">Dacă facturarea și abonamentele pentru contul dvs., este posibil să dureze până când modificările se propagă.</span><span class="sxs-lookup"><span data-stu-id="6ea7a-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="6ea7a-108">Încercați din nou în câteva minute, iar dacă problema persistă, contactați-ne.</span><span class="sxs-lookup"><span data-stu-id="6ea7a-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="a5453-107">Dacă facturarea și abonamentele pentru contul dvs., este posibil să dureze până când modificările se propagă.</span><span class="sxs-lookup"><span data-stu-id="a5453-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="a5453-108">Încercați din nou în câteva minute, iar dacă problema persistă, contactați-ne.</span><span class="sxs-lookup"><span data-stu-id="a5453-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>

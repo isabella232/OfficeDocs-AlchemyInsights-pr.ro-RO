@@ -19,8 +19,8 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 04/23/2020
 ms.locfileid: "43795928"
 ---
-# <a name="troubleshoot-device-actions"></a><span data-ttu-id="a63eb-102">Depanare acțiuni dispozitive</span><span class="sxs-lookup"><span data-stu-id="a63eb-102">Troubleshoot device actions</span></span>
+# <a name="troubleshoot-device-actions"></a><span data-ttu-id="86269-102">Depanare acțiuni dispozitive</span><span class="sxs-lookup"><span data-stu-id="86269-102">Troubleshoot device actions</span></span>
 
-<span data-ttu-id="a63eb-103">Vizitați [depanarea documentelor](https://docs.microsoft.com/configmgr/tenant-attach/technical-reference) pentru acțiunile dispozitivelor.</span><span class="sxs-lookup"><span data-stu-id="a63eb-103">Visit the [troubleshooting docs](https://docs.microsoft.com/configmgr/tenant-attach/technical-reference) for device actions.</span></span>
+<span data-ttu-id="86269-103">Vizitați [documentele de depanare](https://docs.microsoft.com/configmgr/tenant-attach/technical-reference) pentru acțiunile dispozitivelor.</span><span class="sxs-lookup"><span data-stu-id="86269-103">Visit the [troubleshooting docs](https://docs.microsoft.com/configmgr/tenant-attach/technical-reference) for device actions.</span></span>
 
-- <span data-ttu-id="a63eb-104">Aflați mai multe despre [Atașarea Entității Găzduite în Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).</span><span class="sxs-lookup"><span data-stu-id="a63eb-104">Learn more about [Tenant Attach in Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).</span></span>
+- <span data-ttu-id="86269-104">Aflați mai multe despre [Atașarea entității găzduite în Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).</span><span class="sxs-lookup"><span data-stu-id="86269-104">Learn more about [Tenant Attach in Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).</span></span>
