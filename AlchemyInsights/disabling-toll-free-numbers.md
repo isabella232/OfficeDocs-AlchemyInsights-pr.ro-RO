@@ -23,7 +23,7 @@ ms.locfileid: "43799537"
 Din centrul de administrare Microsoft Teams:
 
 1. În navigarea din stânga, faceți clic pe **Utilizatori**, apoi selectați utilizatorul din lista de utilizatori disponibili.
-2. Lângă Conferințe Audio, faceți clic pe **Editare**.
+2. Lângă Conferințe audio, faceți clic pe **Editare**.
 3. Setați Includere numere gratuite în solicitările de întâlnire de la acest utilizator **Închis**.
 4. Faceți clic pe **Salvare**.
 

@@ -1,5 +1,5 @@
 ---
-title: Subsscription reînnoire implicită
+title: Subscription de reînnoire implicit
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549720"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062260"
 ---
 # <a name="renewing-your-subscription"></a>Reînnoirea abonamentului
 
-Dacă plătiți prin card de credit sau cont bancar, facturarea periodică este activată în mod implicit. Când facturarea periodică este activată, abonamentul va continua să fie facturat în fiecare an în ziua în care v-ați abonat. Puteți să îl dezactivați sau să îl reactivați din nou în centrul de administrare dacă abonamentul este activ.
+Dacă plătiți prin card de credit sau cont bancar, facturarea recurentă este activată în mod prestabilit. Atunci când facturarea recurentă este activată, abonamentul va continua să fie facturat în fiecare an în ziua în care v-ați abonat. Îl puteți dezactiva sau reactiva din nou în centrul de administrare, dacă abonamentul este activ.
 
-Dacă ați preplătit abonamentul cu o cheie de produs, abonamentul va expira la sfârșitul termenului de abonament. Aveți posibilitatea să activați facturarea recurentă și să furnizați informații despre cardul de credit sau contul bancar, astfel încât abonamentul să fie facturat în fiecare an în ziua în care v-ați abonat.
+Dacă ați plătit în avans abonamentul cu o cheie de produs, abonamentul va expira la sfârșitul perioadei de abonament. Puteți activa facturarea recurentă și puteți furniza informații despre cardul de credit sau contul bancar, astfel încât abonamentul să fie facturat în continuare în fiecare an în ziua în care v-ați abonat.
 
-Pentru a activa facturarea periodică: 
+Pentru a activa facturarea recurentă: 
 
-1. Accesați produsele de **Facturare** > **& servicii**.
-2. Alegeți abonamentul pentru care doriți să gestionați facturarea periodică.
-3. Sub **Facturare**, selectați **Editare** și efectuați modificările în fereastra **Setări recurente de facturare** . 
+1. Accesați **Facturarea** > **[produselor dumneavoastră](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Alegeți abonamentul pentru care doriți să gestionați facturarea recurentă.
+3. Sub **Facturare**, selectați **Editare** și efectuați modificările în fereastra Setări de **facturare recurentă.** 

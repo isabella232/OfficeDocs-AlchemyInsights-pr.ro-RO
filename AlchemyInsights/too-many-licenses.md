@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759920"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063989"
 ---
 # <a name="too-many-licenses"></a>Prea multe licențe?
 
@@ -26,7 +26,7 @@ Dacă tu think al tău' being billed pentru de asemenea mulți a da un permis, t
   
 **Reducerea numărului de licențe achiziționate**
   
-1. În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. În centrul de administrare, accesați pagina **Facturare** \> **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Găsiți abonamentul din care doriți să eliminați licențele, apoi **selectați Adăugare/eliminare licențe**.
 

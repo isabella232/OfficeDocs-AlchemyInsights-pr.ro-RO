@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705097"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062296"
 ---
 # <a name="declined-credit-card"></a>Card de credit refuzat
 
-Dacă plătiți cu cardul de credit și cardul de credit este refuzat, veți primi un e-mail prin care veți fi anunțați că nu am putut procesa plata. Verificați de două ori dacă [detaliile cardului de credit](https://go.microsoft.com/fwlink/p/?linkid=842054) - numărul cardului, data expirării, numele de pe cardul de credit și adresa, inclusiv orașul, statul și codul poștal - apar exact așa apar pe cardul de credit și în extrasul cardului de credit. Puteți să actualizați informațiile cardului de credit și să trimiteți imediat plata utilizând opțiunea **Settle balance** de pe pagina Produse [& servicii.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Dacă plătiți cu cardul de credit și cardul de credit este refuzat, veți primi un e-mail prin care veți fi anunțați că nu am putut procesa plata. Verificați de două ori dacă [detaliile cardului de credit](https://go.microsoft.com/fwlink/p/?linkid=842054) - numărul cardului, data expirării, numele de pe cardul de credit și adresa, inclusiv orașul, statul și codul poștal - apar exact așa apar pe cardul de credit și în extrasul cardului de credit. Puteți să actualizați informațiile cardului de credit și să trimiteți imediat plata utilizând opțiunea **Settle balance** de pe pagina **[Produsele dvs.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Pentru a afla mai multe, consultați "Ce se întâmplă dacă cardul meu de credit a expirat și plata mea este restantă?" în [Plătiți pentru abonamentul Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

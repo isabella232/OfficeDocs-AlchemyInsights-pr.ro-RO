@@ -1,5 +1,5 @@
 ---
-title: Modifică informațiile de facturare
+title: Modificați informațiile de facturare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,11 +18,11 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 04/24/2020
 ms.locfileid: "43799558"
 ---
-# <a name="change-billing-information"></a>Modifică informațiile de facturare
+# <a name="change-billing-information"></a>Modificați informațiile de facturare
 
-Puteți modifica informațiile de facturare din centrul de administrare Microsoft 365. 
+Vă puteți modifica informațiile de facturare în centrul de administrare Microsoft 365. 
 
 - Schimbați-vă [adresa de facturare](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
-- Schimbați-vă [metoda de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) și modul în care plătiți pentru abonamentul dvs..
-- Modificați-vă [frecvența de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) pe lunar sau anual.
+- Schimbați-vă [metoda de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) și modul în care [plătiți pentru abonamentul dvs.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+- Modificați-vă [frecvența de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) pentru a fi lunară sau anuală.
 - Gestionați-vă [profilurile de facturare](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles).

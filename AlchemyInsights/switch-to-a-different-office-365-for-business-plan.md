@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789170"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064369"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Comutarea la un alt abonament Microsoft 365 pentru firme
 
 Atunci când afacerea se modifică sau aveți nevoie de mai multe caracteristici, puteți face upgrade la un plan nou.
   
-1. În centrul de administrare, accesați **Servicii de & \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054)de facturare**.
+1. În centrul de administrare, accesați pagina **Facturare** \> **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Selectați abonamentul pe care doriți să faceți upgrade.
 

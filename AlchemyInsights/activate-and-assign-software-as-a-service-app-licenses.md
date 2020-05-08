@@ -1,5 +1,5 @@
 ---
-title: Activați și atribuiți licențe pentru aplicații software-as-a-Service
+title: Activarea și atribuirea licențelor pentru aplicații software-as-a-service
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766327"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062152"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activați și atribuiți licențe pentru aplicații software-as-a-Service 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activarea și atribuirea licențelor pentru aplicații software-as-a-service 
 
-## <a name="to-activate-apps"></a>Pentru a activa aplicațiile
+## <a name="to-activate-apps"></a>Pentru a activa aplicații
 
-1. În centrul de administrare, accesați pagina produse de **Facturare** > [& servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) , apoi alegeți fila **aplicații** .
+1. În centrul de administrare, accesați pagina **Facturare** > **[produse,](https://go.microsoft.com/fwlink/p/?linkid=842054)** apoi alegeți fila **Aplicații.**
 
 2. Găsiți și selectați aplicația pe care doriți să o gestionați.
 
-3. Sub **licențe**, selectați **configurați contul**.  
+3. Sub **Licențe**, selectați **Configurare cont**.  
 
-## <a name="to-assign-app-licenses"></a>Pentru a atribui licențe de aplicații
+## <a name="to-assign-app-licenses"></a>Pentru a atribui licențe pentru aplicații
 
-1. În centrul de administrare, accesați pagina produse de **Facturare** > [& servicii](https://go.microsoft.com/fwlink/p/?linkid=842054) , apoi alegeți fila **aplicații** .
+1. În centrul de administrare, accesați pagina **Facturare** > **[produse,](https://go.microsoft.com/fwlink/p/?linkid=842054)** apoi alegeți fila **Aplicații.**
 
 2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
-3. Sub **setări & acțiuni**, selectați linkul de **gestionat în portalul editorului**.
+3. Sub **Setări & acțiuni**, selectați linkul de gestionare în **portalul editorului**.

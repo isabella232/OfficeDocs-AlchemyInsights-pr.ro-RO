@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 30cdd925c0be9d38572fbc9acc5cd3fcf97ef11f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711571"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061683"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Anularea abonamentului Microsoft 365?
 
@@ -24,7 +24,7 @@ Ne pare rău să te văd du-te, dar aici sunt opțiunile pentru a anula abonamen
   
 - Dacă sunteți un client de încercare, nu există nimic de anulat. Abonamentele de încercare expiră automat, cu excepția cazului în care furnizați o metodă de plată.
 
-- Dacă aveți mai puțin de 25 de licențe atribuite, puteți anula abonamentul online. Accesați [Servicii de & produse](https://go.microsoft.com/fwlink/p/?linkid=842054)de **facturare** \> . În secțiunea **Setări & acțiuni,** **alegeți Revocare abonament**.
+- Dacă aveți mai puțin de 25 de licențe atribuite, puteți anula abonamentul online. Accesați **Facturarea** \> **[produselor dumneavoastră](https://go.microsoft.com/fwlink/p/?linkid=842054)**. În secțiunea **Setări & acțiuni,** **alegeți Revocare abonament**.
 
 - Dacă aveți mai mult de 25 de licențe atribuite, puteți fie să eliminați utilizatorii până când aveți mai puțin de 25, fie să utilizați opțiunea "Să vă sunăm" pentru a discuta cu un inginer de asistență.
 

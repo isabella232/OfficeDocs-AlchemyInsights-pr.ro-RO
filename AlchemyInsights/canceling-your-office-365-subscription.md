@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711427"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086686"
 ---
 # <a name="canceling-your-subscription"></a>Îți anulezi abonamentul?
 
@@ -25,9 +25,9 @@ Ne va părea rău să te vedem plecând, dar dacă vrei să anulezi abonamentul,
   
 - Dacă sunteți un client de încercare, nu există nimic de anulat. Abonamentele de încercare expiră automat, cu excepția cazului în care furnizați o metodă de plată.
 
-- Dacă aveți mai puțin de 25 de licențe atribuite, puteți anula abonamentul online. Accesați pagina [Servicii & produse](https://go.microsoft.com/fwlink/p/?linkid=842054) de **facturare.** \> În secțiunea **Setări & acțiuni,** **alegeți Revocare abonament**.
+- Dacă aveți mai puțin de 25 de licențe atribuite, puteți anula abonamentul online. Accesați pagina **Facturare** \> **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)** În secțiunea **Setări & acțiuni,** **alegeți Revocare abonament**.
 
-- Dacă aveți mai mult de 25 de licențe atribuite, puteți fie să eliminați utilizatorii până când aveți mai puțin de 25, fie să utilizați opțiunea "Să vă sunăm" pentru a discuta cu un inginer de asistență.
+- Dacă aveți mai mult de 25 de licențe atribuite, aveți posibilitatea să eliminați utilizatorii până când aveți mai puțin de 25.
   
 **Rambursare: Orice credit proporțional vă va fi returnat în următorul ciclu de facturare.** 
 

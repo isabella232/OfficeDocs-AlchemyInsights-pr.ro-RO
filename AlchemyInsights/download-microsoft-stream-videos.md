@@ -1,5 +1,5 @@
 ---
-title: Descărcare videoclipuri Microsoft Stream
+title: Descărcarea videoclipurilor Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,12 +18,12 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 04/23/2020
 ms.locfileid: "43795896"
 ---
-# <a name="download-microsoft-stream-videos"></a>Descărcare videoclipuri Microsoft Stream
+# <a name="download-microsoft-stream-videos"></a>Descărcarea videoclipurilor Microsoft Stream
 
-Puteți **descărca** videoclipul încărcat inițial **, dacă ați încărcat fișierul video** sau sunteți **proprietarul al videoclipului**.
+Puteți **descărca** videoclipul încărcat inițial **, dacă ați încărcat fișierul video** sau sunteți **proprietarul videoclipului**.
 
 1. În Stream, găsiți videoclipul pe care doriți să-l descărcați.
 
 2. Faceți clic pe pictograma de meniu Mai multe pictograma de meniu Mai multe *...*
 
-3. Selectați **Descărcare videoclipul original**.
+3. Selectați **Descărcați videoclipul original**.

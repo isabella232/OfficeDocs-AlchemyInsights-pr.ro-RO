@@ -21,6 +21,6 @@ ms.locfileid: "43795928"
 ---
 # <a name="troubleshoot-device-actions"></a>Depanare acțiuni dispozitive
 
-Vizitați [depanarea documentelor](https://docs.microsoft.com/configmgr/tenant-attach/technical-reference) pentru acțiunile dispozitivelor.
+Vizitați [documentele de depanare](https://docs.microsoft.com/configmgr/tenant-attach/technical-reference) pentru acțiunile dispozitivelor.
 
-- Aflați mai multe despre [Atașarea Entității Găzduite în Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).
+- Aflați mai multe despre [Atașarea entității găzduite în Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).

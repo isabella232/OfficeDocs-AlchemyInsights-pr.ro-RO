@@ -20,6 +20,6 @@ ms.locfileid: "43799510"
 ---
 # <a name="combine-invoices"></a>Combinarea facturilor
 
-Capacitatea de a consolida toate facturile de abonament achiziționate la date diferite într-o singură factură **nu este disponibil încă**. Abonamentele cumpărate la exact aceeași dată sunt afișate într-o singură factură.
+Capacitatea de a unifica toate facturile de abonament achiziționate la date diferite într-o singură factură **nu este disponibilă încă**. Abonamentele cumpărate la exact aceeași dată sunt afișate într-o singură factură.
 
-**Soluție**: Pentru a obține o singură factură pentru diferite abonamente, trebuie să anulați mai întâi abonamentele, deoarece acestea au fost achiziționate la date diferite. Apoi adăugați abonamentele în coșul de cumpărături și achiziționați-le împreună. Odată finalizat, veți primi o singură factură pentru toate abonamentele.
+**Soluție**: Pentru a obține o singură factură pentru diferite abonamente, trebuie să anulați mai întâi abonamentele, deoarece acestea au fost achiziționate la date diferite. Apoi adăugați abonamentele în coșul de cumpărături și achiziționați-le împreună. Odată ce finalizați, veți primi o singură factură pentru toate abonamentele.

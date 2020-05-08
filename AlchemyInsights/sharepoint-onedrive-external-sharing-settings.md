@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692885"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063665"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mesaj de avertizare: politicile organizației nu vă permit să partajați cu acești utilizatori
 
@@ -23,12 +23,12 @@ Este posibil ca utilizatorii să întâmpine un mesaj de avertizare atunci când
 
 Verificați **setările partajare externă SharePoint și OneDrive** pentru organizația dvs.
 
-1. În Centrul [de administrare Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), selectați **SharePoint**.
+1. În [centrul de administrare Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), selectați **SharePoint**.
 3. Selectați **Partajare** pentru a vedea setările de partajare externă.
 
 Verificați **setările de partajare externă** pentru un anumit site.
 
-1. În Centrul [de administrare Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), selectați **SharePoint**.
+1. În [centrul de administrare Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), selectați **SharePoint**.
 2. Selectați **Site-uri active** pentru a vedea site-urile disponibile.
 3. Selectați site-ul pe care doriți să îl verificați, apoi selectați butonul **Partajare** care se afișează în bara de meniu pentru a verifica setările pentru site.
 
