@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062873"
 ---
 # <a name="your-products"></a>Produsele dvs.
 
-Puteți găsi abonamentele deținute de **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** organizația dvs. Iată câteva dintre punctele culminante ale acestei pagini, împreună cu link-uri pentru mai multe informații despre fiecare caracteristică:
+Puteți găsi abonamentele deținute de **Billing**organizația dvs.  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Iată câteva dintre punctele culminante ale acestei pagini, împreună cu link-uri pentru mai multe informații despre fiecare caracteristică:
 
 1. Gestionați numărul de licențe care au fost achiziționate pentru fiecare abonament, împreună cu câte sunt utilizate.  **Notă:** Licențele care nu sunt utilizate (nu sunt atribuite unui utilizator) sunt încă taxate.  Pentru a nu fi taxat pentru licențele neutilizate, reduceți numărul de licențe achiziționate. Pentru informații despre adăugarea sau eliminarea licențelor dintr-un abonament, consultați [Cum se adaugă sau se reduce licențele](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Puteți găsi abonamentele deținute de **Billing** > **[Your products](https://
 
 6. [Anulați abonamentul](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Puteți achiziționa abonamente suplimentare din pagina[**Servicii de achiziție**](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare.** > 
+Puteți achiziționa abonamente suplimentare din pagina Servicii de achiziție **de facturare.**  >  [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433)
