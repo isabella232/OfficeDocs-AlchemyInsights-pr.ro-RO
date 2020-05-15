@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712650"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232341"
 ---
 # <a name="banned-sending-ip"></a>Interzis trimiterea IP
 
-Când trimiteți corespondență la Microsoft 365, este posibil ca un expeditor să apară această eroare. Expeditorul trebuie să https://sender.office.com viziteze și să urmeze instrucțiunile.  Dacă nu primesc un e-mail de verificare de la portal, rugați-i să verifice dosarul de spam și/sau să încerce cu o altă adresă de e-mail.
+Când trimiteți la un destinatar Office 365, este posibil ca un expeditor să apară această eroare. Expeditorul trebuie să viziteze [Office 365 Anti-Spam IP Delist Portal](https://sender.office.com/) și să furnizeze adresa de e-mail și adresa IP care trebuie delistate. Dacă nu primesc un e-mail de verificare de la portal, rugați-i să verifice dosarul de spam și/sau să încerce cu o altă adresă de e-mail. 
+
+- Pentru instrucțiuni detaliate, consultați [Utilizarea portalului delist pentru a vă elimina din lista de expeditori blocați](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).

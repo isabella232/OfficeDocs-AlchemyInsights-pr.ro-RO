@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720708"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235309"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>se găsesc și se recuperează mesajele lipsă, persoanele de contact sau elementele de calendar în Outlook
 
-- Puteți utiliza [I'm având probleme de trimitere, primire, sau găsirea de mesaje de e-mail instrument](https://aka.ms/SaRA-OutlookSendReceive) de pe aparatul afectat. Acest instrument va verifica pentru o serie de probleme și va sugera soluții posibile.
+1. În Outlook, accesați lista de foldere de e-mail, apoi **selectați Elemente șterse**. **Important:** Dacă nu vedeți folderul **Elemente șterse,** dar vedeți în schimb folderul **Coș de gunoi,** contul nu acceptă recuperarea unui element care nu mai există în folderul **Elemente șterse.**
 
-- [Stabiliți dacă contul este compromis](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Dacă este compromisă, urmați pașii din [Răspunsul la un cont de e-mail compromis.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. În meniul **Pornire** , faceți clic pe **Recuperare elemente șterse de pe server**. **Important:** Dacă nu există nicio comandă **Recuperare elemente șterse din server** din meniu, contul nu acceptă recuperarea unui element care nu mai există în folderul Elemente **șterse.**
 
-- [Găsirea mesajului sau a elementului utilizând Căutarea instantanee](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Selectați elementele pe care doriți să le recuperați, faceți clic pe **Restaurare elemente selectate,** apoi faceți clic pe **OK**.
 
-- [Recuperarea elementelor șterse în Outlook pentru Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**În cazul în care nu elementele recuperate du-te?** Când recuperați elemente din folderul Elemente recuperabile, acestea sunt mutate în folderul **Elemente șterse.** După ce recuperați un element, îl puteți găsi în folderul **Elemente șterse** și apoi îl puteți muta în alt folder.
+
+Puteți utiliza, de asemenea, [Am probleme cu trimiterea, primirea, sau găsirea de mesaje de e-mail instrument](https://aka.ms/SaRA-OutlookSendReceive) de pe mașina **afectată**. Acest instrument va verifica pentru o serie de probleme și va sugera soluții posibile.
