@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045520"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263889"
 ---
-# <a name="disable-excel-live-preview"></a>Dezactivaţi Excel Live Preview
+# <a name="resolving-excel-clipboard-error"></a>Rezolvarea erorii clipboard Excel
 
-Dacă primiţi o eroare în Excel care spune, "există o problemă cu Clipboard-ul, dar încă aveţi posibilitatea să inseraţi conţinut în acest registru de lucru", încercaţi să dezactivaţi caracteristica Live Preview urmând aceşti paşi:
+Dacă primiți o eroare în Excel care spune: "Există o problemă cu clipboard-ul, dar puteți lipi în continuare conținutul în acest registru de lucru", încercați să dezactivați caracteristica Live Preview urmând acești pași:
 
-1. În Excel, faceţi clic pe **File** > **Opţiuni**.
-3. În caseta de dialog **Opţiuni Excel** , selectaţi **General**.
-4. Sub **Opţiuni de interfaţă cu utilizatorul**, clar **Permite Live Preview**.
+1. În Excel, faceți clic pe Opțiuni **fișier**  >  **Options**.
+3. În caseta de dialog **Opțiuni Excel,** selectați **General**.
+4. Sub **Opțiuni interfață utilizator**, goliți Activare examinare în timp **real**.
 5. Faceți clic pe **OK**.
-6. Reporniţi Excel.
+6. Reporniți Excel.

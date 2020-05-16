@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908803"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254761"
 ---
 # <a name="microsoft-teams-upgrade"></a>Upgrade-ul Microsoft Teams
 
-**Important:** Vă putem ajuta să remediați acest lucru pentru dumneavoastră utilizând un diagnostic de asistență, dar se pare că nu utilizați Centrul de administrare nou. Pentru a utiliza Centrul de administrare nou, glisați comutatorul în dreapta sus, care spune **noul centru de administrare** din dreapta. Utilizând Centrul de administrare nou, faceți clic pe widgetul **Nevoie de ajutor,** tastați "Upgrade echipe", apoi urmați instrucțiunile pentru a executa diagnosticarea.
+**Important:** Dacă ați făcut upgrade de la Skype for Business Online la Microsoft Teams în modul Numai echipe, dar găsiți că nu sunteți gata încă, vă putem ajuta să remediați acest lucru utilizând un diagnostic de asistență. Asigurați-vă că utilizați noul Centru de administrare glisând comutatorul în dreapta sus, care spune **noul Centru de administrare**din dreapta. Utilizând noul Centru de administrare, faceți clic pe widgetul **Nevoie de ajutor,** tastați "**Teams Upgrade**", apoi urmați instrucțiunile pentru a executa diagnosticarea.
 
 Indiferent dacă abia ați început lucrul cu Echipele, utilizați deja Echipe alături de Skype for Business sau sunteți gata să faceți upgrade, dorim să vă asigurați că aveți tot ce vă trebuie pentru a naviga într-o călătorie de succes către Echipe. Pentru mai multe informații vă rugăm să vizitați link-urile de mai jos.
 
