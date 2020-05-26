@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762905"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373047"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="3e2b0-102">Aflați mai multe despre opțiunile de partajare a calendarului extern</span><span class="sxs-lookup"><span data-stu-id="3e2b0-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="380f1-102">Opțiuni de colaborare Exchange Online</span><span class="sxs-lookup"><span data-stu-id="380f1-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="3e2b0-103">Dacă trebuie să programați întâlniri cu persoane din afara organizației, Microsoft 365 vă permite să puneți calendarele la dispoziția "utilizatorilor externi", a celor care trebuie să vadă timpul liber/ocupat, dar nu au conturi de utilizator pentru mediul Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="3e2b0-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="3e2b0-104">Pentru mai multe informații, consultați [Partajarea calendarelor cu utilizatori externi](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="3e2b0-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="380f1-103">Pentru a obține o **prezentare generală a partajării externe a calendarului**, consultați [Partajarea în Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="380f1-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="380f1-104">Pentru a **partaja calendare cu o altă organizație Office 365**, consultați [Relații de organizație în Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="380f1-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="380f1-105">Pentru a **controla modul în care utilizatorii își partajează calendarele cu persoane din afara organizației ,** consultați [Partajarea politicilor în Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="380f1-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="380f1-106">Pentru a vedea **îmbunătățirile** aduse partajării calendarului, consultați [Partajarea calendarului în Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="380f1-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
