@@ -1,5 +1,5 @@
 ---
-title: Gestiona sincronizate utilizator
+title: Gestionare utilizator sincronizat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542013"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407362"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Imposibil de setat adresa de email primar sau schimba atributele utilizatorilor
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Imposibil de setat adresa de e-mail principală, de a modifica atributele utilizatorului sau de a elimina/șterge un utilizator sincronizat
 
-În cazul în care sincronizarea directorului este activată pentru mediul, unele atribute de utilizator sau un obiect nu poate fi schimbat, utilizând Centrul de administrare Microsoft 365.
+Dacă sincronizarea directorului este activată pentru mediul dvs., unele atribute de utilizator sau obiect nu se pot modifica utilizând centrul de administrare Microsoft 365.
 
-Pentru a gestiona complet sincronizate utilizatorii şi toate atributele lor, utilizaţi dumneavoastră locale active Director utilizatori și grupuri consola de gestionare (adsiedit.msc).  
+Pentru a gestiona complet utilizatorii sincronizați și toate atributele lor, utilizați consola de gestionare locală a utilizatorilor active directory și a grupurilor (adsiedit.msc).  
 
-Alternativ, puteţi să schimbaţi utilizatorii individuali sau atribute pentru utilizatorii sincronizate folosind powershell cum ar fi arătat în aceste exemple comune: 
-- Set-MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Set-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Test utilizator" - Prenume "Utilizator"-titlul de "Manager"-Departamentul "HR"
-- Remove-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com
+Alternativ, aveți posibilitatea să modificați utilizatori individuali sau atribute pentru utilizatorii sincronizați utilizând PowerShell, se arată în aceste exemple obișnuite: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
