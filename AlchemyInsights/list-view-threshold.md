@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953983"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343069"
 ---
 # <a name="list-view-threshold"></a>Prag vizualizare listă
 
-Listele și bibliotecile SharePoint pot conține până la 30 de milioane de elemente, dar atunci când au mai mult de 5.000 de elemente, este posibil să vedeți o eroare de prag pentru vizualizarea listei atunci când încercați să lucrați cu ele. Acest prag există pentru a menține performanța serviciului. Acesta nu poate fi modificat. De asemenea, este posibil să primiți această eroare atunci când încercați să partajați sau să întrerupeți moștenirea unui folder.
+Pragul de vizualizare listă este în vigoare pentru a menține performanța serviciului. Imposibil de modificat pragul în SharePoint Online. Pentru a evita atingerea acestui prag, consultați [Gestionarea listelor și bibliotecilor mari în SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Pentru a evita atingerea acestui prag, vizitați:
-
-- [Gestionarea listelor și a bibliotecilor mari din SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Eroare partajare/întreripere moștenire](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+De asemenea, este posibil să primiți această eroare atunci când încercați să partajați sau să întrerupeți moștenirea unui folder. Consultați [Partajare/întrerupere a erorilor moștenire](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021651"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354100"
 ---
 # <a name="teams-admin-center"></a>Centrul de administrare Teams
 
@@ -30,4 +30,6 @@ Dacă nu reușiți să accesați Centrul de administrare Teams, consultați urm�
 Dacă utilizatorii nu apar în Centrul de administrare Teams, consultați următoarele:
 
 - Ați creat utilizatori sau ați atribuit licențe în ultimele 24 de ore? Asigurați-vă că așteptați cel puțin 24 de ore înainte de a deschide un tichet de asistență.
-- Verificați dacă ați atribuit licențe corespunzătoare? 
+- Verificați dacă ați atribuit licențe corespunzătoare?
+- Dacă aveți un Active Directory local, verificați dacă [valoarea msRTCSIP-PrimaryUserAddress sau adresa SIP în câmpul ProxyAddresses din Active Directory local este unică și formatul se potrivește](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Numele** de utilizator al utilizatorului din centrul de administrare [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Dacă intenționați să păstrați un Skype pentru afaceri Server implementare și au utilizatorii homed local și online: urmați **"Configurarehibrid cu echipe și Skype pentru afaceri Online"** în Skype pentru afaceri Server Panou de control și pentru a muta utilizatorii online.
