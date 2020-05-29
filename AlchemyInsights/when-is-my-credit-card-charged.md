@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765281"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418084"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Când mi se percepe cardul de credit?
 
@@ -26,4 +26,4 @@ Cu o achiziție inițială, poate dura până la două zile pentru ca taxa să a
   
 Taxele recurente se întâmplă în termen de o zi de la crearea facturii.
   
-În cazul în care taxa nu reușește, sistemul va continua să încerce să achite soldul în următoarele câteva săptămâni. Puteți actualiza în orice moment informațiile de plată pentru a vă asigura că următoarea încercare de încărcare va avea succes. Pentru mai multe informații, consultați [Adăugarea, actualizarea sau eliminarea unui card de credit sau a unui cont bancar în Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+În cazul în care taxa nu reușește, sistemul va continua să încerce să achite soldul în următoarele câteva săptămâni. Puteți actualiza în orice moment informațiile de plată pentru a vă asigura că următoarea încercare de încărcare va avea succes. Pentru mai multe informații, consultați [Gestionarea metodelor de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
