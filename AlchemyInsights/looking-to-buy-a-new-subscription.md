@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709455"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505555"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Căutați să cumpărați un abonament nou?
 
-Dacă aveți deja un abonament Microsoft 365 pentru firme și doriți să cumpărați un alt abonament pentru organizația dvs., accesați pagina [Servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturare** \> pentru a vedea o listă de abonamente disponibile organizației dvs.
+Dacă aveți deja un abonament Microsoft 365 pentru firme și doriți să cumpărați un alt abonament pentru organizația dvs., accesați pagina Servicii de achiziție **de facturare** pentru a vedea o listă de \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) abonamente disponibile organizației dvs.
  
 1. Selectați abonamentul dorit, apoi selectați **Cumpărați**.
 
@@ -32,8 +32,8 @@ Dacă aveți deja un abonament Microsoft 365 pentru firme și doriți să cumpă
 
  **Resurse suplimentare:**
   
-- [Atribuirea licențelor utilizatorilor din Microsoft 365 pentru firme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Atribuirea licențelor utilizatorilor din Microsoft 365 pentru firme](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Anularea abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Dacă sunteți interesat să comutați cu abonamente, consultați [Comutarea la un alt Microsoft 365 pentru planul de afaceri.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Dacă sunteți interesat să comutați cu abonamente, consultați [Comutarea la un alt Microsoft 365 pentru planul de afaceri.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

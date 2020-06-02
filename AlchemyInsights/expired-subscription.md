@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063485"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505591"
 ---
 # <a name="expired-subscription"></a>Abonament expirat
 
@@ -34,7 +34,7 @@ Dacă nu vedeți **Reactivare** ca acțiune disponibilă, apelați Asistența pe
 
 3. Confirmați detaliile de plată. Aici vă puteți actualiza informațiile de plată existente. După ce ați terminat de introdus metoda de plată, alegeți **Reactivare**.
 
-Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Faceți o achiziție nouă**
   
@@ -46,4 +46,4 @@ Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.mi
 
 4. Urmați pașii rămași pentru a finaliza extragerea.
 
-Pentru a afla mai multe, consultați [Cumpărați un alt abonament](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Pentru a afla mai multe, consultați [Cumpărați un alt abonament](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
