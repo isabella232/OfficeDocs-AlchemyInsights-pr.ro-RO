@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788678"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507038"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activarea unei cutii poștale de arhivă
 
@@ -23,11 +23,11 @@ Arhiva cutiile poștale în Microsoft 365 (de asemenea, numit *Online Archives* 
   
 Iată se creează o cutie poștală de arhivă:
   
-1. Du-te la. [https://protection.office.com](https://protection.office.com)
+1. Du-te [https://protection.office.com](https://protection.office.com) la.
 
 2. Conectați-vă la Microsoft 365 utilizând contul de administrator.
 
-3. În panoul din stânga &amp; al Centrului de conformitate a securității, selectați \> **Arhivă** **de guvernanță a informațiilor** .
+3. În panoul din stânga al Centrului de &amp; conformitate a securității, selectați Arhivă **de guvernanță a informațiilor** \> **Archive**.
 
 4. Selectați utilizatorul a cărui cutie poștală de arhivă doriți să o activați.
 
@@ -43,7 +43,7 @@ Pentru a activa arhiva pentru o cutie poștală partajată:
 
 1. Accesați centrul de [administrare Exchange](https://outlook.office365.com/ecp) și conectați-vă utilizând contul de administrator.
 
-2. Accesați **Destinatari** > **partajati**.
+2. Accesați **Destinatari**  >  **partajati**.
 
 3. Selectați cutia poștală partajată.
 
@@ -51,6 +51,6 @@ Pentru a activa arhiva pentru o cutie poștală partajată:
 
 Pentru mai multe informații, consultați:
   
-- [Activarea cutiilor poștale de arhivă](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Activarea cutiilor poștale de arhivă](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Configurarea unei politici de arhivare și ștergere](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

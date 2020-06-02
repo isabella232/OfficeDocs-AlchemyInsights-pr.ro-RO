@@ -1,5 +1,5 @@
 ---
-title: Schimbarea cutiei poștale partajate trimitere ca comportament
+title: Modificarea comportamentului Trimitere ca cutie poștală partajată
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5c5d38356713d1a34f4ae12436fe8a46348d8025
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769639"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507886"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Schimbarea cutiei poștale partajate trimitere ca comportament
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Modificarea comportamentului Trimitere ca cutie poștală partajată
 
 În mod implicit, mesajele trimise din cutia poștală partajată nu sunt salvate în folderul Elemente trimise din cutia poștală partajată. În schimb, acestea sunt salvate în folderul Elemente trimise al persoanei care a trimis mesajul.
   
-Dacă doriți ca toți membrii să vadă e-mailul trimis, în centrul de administrare Microsoft 365, editați detaliile cutiei poștale partajate și alegeți **elemente** \> trimise **editați**.
+Dacă doriți ca toți membrii să vadă e-mailul trimis, în centrul de administrare Microsoft 365, editați detaliile cutiei poștale partajate și selectați **Editare elemente trimise** \> **Edit**.
   
-Pentru a citi mai multe, consultați [crearea unei cutii poștale partajate](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Pentru a citi mai multe, consultați [Crearea unei cutii poștale partajate](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   

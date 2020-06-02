@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 62f0eeb4c058285158d012be3c1d54d09a7b8482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704537"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507562"
 ---
 # <a name="information-about-dlp-issues"></a>Informații despre problemele DLP
 
@@ -28,11 +28,11 @@ Cu o politică DLP, aveți posibilitatea să identificați, să monitorizați ș
 
 Vă rugăm să vizitați aceste link-uri pentru mai multe informații:
 
-- [Prezentare generală a prevenirii pierderilor de date](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Ce caută tipurile de informații sensibile](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Crearea unui tip de informații sensibile particularizate](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Trimiteți notificări prin e-mail și afișați sfaturi de politică](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Protejați fișierele SharePoint Online cu etichete de retenție și DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP și Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Prezentare generală a prevenirii pierderilor de date](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Ce caută tipurile de informații sensibile](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Crearea unui tip de informații sensibile particularizate](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Trimiteți notificări prin e-mail și afișați sfaturi de politică](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Protejați fișierele SharePoint Online cu etichete de retenție și DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP și Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Pentru a testa datele cu un tip de informații sensibile predefinite sau particularizate, utilizați opțiunea **Tip test** din **Clasificări** > **Tipuri de informații sensibile**. Pentru mai multe informații, consultați [Testarea tipurilor de informații sensibile particularizate](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Pentru a testa datele cu un tip de informații sensibile predefinite sau particularizate, utilizați opțiunea **Tip test** din **Clasificări**  >  **Tipuri de informații sensibile**. Pentru mai multe informații, consultați [Testarea tipurilor de informații sensibile particularizate](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).

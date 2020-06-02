@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010266"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507598"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementarea Aplicațiilor Microsoft 365 pentru întreprindere pentru utilizare partajată pe RDS, Terminal Server sau VDI
 
@@ -38,9 +38,9 @@ Pentru a remedia erorile legate de activarea computerului partajat:
 
 Dacă doriți să instalați Microsoft 365 Apps for enterprise pe RDS din centrul de administrare Microsoft 365, ***care utilizează setările implicite de instalare,*** utilizați următorii pași:
 
-1.    Verificați ce abonament aveți. [Aflați cum](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Dacă este necesar, treceți la un alt abonament. [Aflați cum](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Dacă Office este deja instalat pe serverul RDS utilizând orice alte abonamente Microsoft, dezinstalați-l. De exemplu, accesăm **Panoul de control** > **Dezinstalarea unui program**. Dezinstalați utilizând [Asistentul de asistență și recuperare Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) dacă aveți probleme.
+1.    Verificați ce abonament aveți. [Aflați cum](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Dacă este necesar, treceți la un alt abonament. [Aflați cum](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Dacă Office este deja instalat pe serverul RDS utilizând orice alte abonamente Microsoft, dezinstalați-l. De exemplu, accesăm **Panoul de control**  >  **Dezinstalarea unui program**. Dezinstalați utilizând [Asistentul de asistență și recuperare Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) dacă aveți probleme.
 4.    Pe serverul RDS, conectați-vă la centrul de administrare Microsoft 365 cu contul de administrator și [instalați Microsoft 365 Apps for enterprise](https://portal.office.com/OLS/MySoftware.aspx).
 5.    După instalarea Office, ***nu deschideți sau conectați-vă*** la nicio aplicații Office.
 6.    Pe serverul RDS, activați activarea computerului partajat prin editarea registry urmând acești pași:

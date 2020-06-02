@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714782"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507182"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Imposibil de instalat sau executat instrumentul de export eDiscovery?
 
@@ -41,9 +41,9 @@ Dacă nu puteți instala sau executa instrumentul de export eDiscovery pentru a 
 
     Alte browsere, ar fi Google Chrome și Mozilla Firefox, nu sunt acceptate.
 
-- Organizația se poate conecta la punctul final din Azure, care este ** \*.blob.core.windows.net** (metacaracterele reprezintă un identificator unic pentru activitatea de export).
+- Organizația se poate conecta la punctul final din Azure, care este ** \* .blob.core.windows.net** (metacaracterele reprezintă un identificator unic pentru activitatea de export).
 
-- Vi se atribuie rolul export în Microsoft &amp; 365 Security Compliance Center. În mod implicit, acest rol este atribuit numai grupului de roluri eDiscovery Manager. Consultați [Atribuirea permisiunilor de descoperire a informațiilor electronice](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Vi se atribuie rolul export în Microsoft 365 Security &amp; Compliance Center. În mod implicit, acest rol este atribuit numai grupului de roluri eDiscovery Manager. Consultați [Atribuirea permisiunilor de descoperire a informațiilor electronice](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Pentru mai multe informații, consultați [Exportarea rezultatelor căutării de conținut](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Pentru mai multe informații, consultați [Exportarea rezultatelor căutării de conținut](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
