@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758486"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511664"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Etichete de sensibilitate care nu apar
 
-Etichetele de sensibilitate vă permit să clasificați și să contribuiți la protejarea conținutului sensibil. Acestea pot fi create în centrul de conformitate Microsoft 365, centrul de securitate Microsoft 365 sau Centrul de conformitate Microsoft 365 & de securitate sub Etichete de clasificare > sensibilitate. Pentru a afla mai multe despre această caracteristică, consultați [Prezentare generală a etichetelor de sensibilitate](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Etichetele de sensibilitate vă permit să clasificați și să contribuiți la protejarea conținutului sensibil. Acestea pot fi create în centrul de conformitate Microsoft 365, centrul de securitate Microsoft 365 sau Centrul de conformitate Microsoft 365 & de securitate sub Etichete de clasificare > sensibilitate. Pentru a afla mai multe despre această caracteristică, consultați [Prezentare generală a etichetelor de sensibilitate](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Dacă ați configurat etichetele de sensibilitate, dar acestea nu apar în aplicațiile Office, verificați următoarele:
 
-- Confirmați că eticheta de sensibilitate a fost [publicată](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) utilizatorilor și grupurilor dorite.
+- Confirmați că eticheta de sensibilitate a fost [publicată](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) utilizatorilor și grupurilor dorite.
 
 - Confirmați că utilizatorul utilizează o aplicație care acceptă etichete de sensibilitate - consultați [etichetele de sensibilitate din document](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

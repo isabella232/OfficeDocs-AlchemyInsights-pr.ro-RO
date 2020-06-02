@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759596"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512566"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Depanarea erorilor de căutare în conținut
 
@@ -34,4 +34,4 @@ De exemplu, primiți următoarele atunci când executați căutări?
 
 Sau atunci când căutați sau exportați rezultate dintr-un număr mare de cutii poștale (peste 100.000 de cutii poștale), primiți erori de export?
 
-Pentru aceste tipuri de erori, încercați din nou căutarea locațiilor de conținut care nu au reușit. Consultați [acest articol](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pentru mai multe informații.
+Pentru aceste tipuri de erori, încercați din nou căutarea locațiilor de conținut care nu au reușit. Consultați [acest articol](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) pentru mai multe informații.

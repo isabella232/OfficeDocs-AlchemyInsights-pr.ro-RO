@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767585"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512494"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurarea e-mailului în aplicația mobilă Outlook
 
-1. Selectați **Începeți** dacă este prima dată când configurați e-mailul în aplicația mobilă. În caz contrar, atingeți **Meniu,** apoi **atingeți Setări** \> **Adăugare cont** \> **de e-mail**.
+1. Selectați **Începeți** dacă este prima dată când configurați e-mailul în aplicația mobilă. În caz contrar, atingeți **Meniu,** apoi **atingeți Setări** \> **Adăugare cont** de \> **e-mail**.
 
 2. Introduceți adresa de e-mail completă și atingeți **Continuați** sau **Adăugați un cont**.
 
 3. Introduceți parola contului de e-mail și atingeți **Conectați-vă** sau **Următorul**.
 
-4. Dacă este activată [autentificarea multi-factor,](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) verificați utilizând metoda pe care ați configurat-o (cod din 6 cifre, apel telefonic sau aplicația Microsoft Authenticator).
+4. Dacă este activată [autentificarea multi-factor,](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) verificați utilizând metoda pe care ați configurat-o (cod din 6 cifre, apel telefonic sau aplicația Microsoft Authenticator).
 
 5. Dacă există politici suplimentare de administrare IT, **atingeactivare** pentru a le activa.
 
