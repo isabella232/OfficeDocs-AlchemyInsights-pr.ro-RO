@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671253"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508784"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ce trebuie să faceți dacă dimensiunea cutiei poștale este deja de 100 GB
 
@@ -30,8 +30,8 @@ Pentru a activa arhivarea e-mailurilor:
     
 3. În panoul de detalii de sub **Arhivă locală**, **alegeți Activare**. 
     
-4. După câteva minute, un folder nou va apărea în Outlook utilizatorului pe web numit *Arhiva locală* sau în aplicația Outlook numită *Arhiva online - \<nume\> * . Utilizatorul poate glisa și fixa e-mailul în arhivă. 
+4. După câteva minute, un folder nou va apărea în Outlook utilizatorului pe web numit *Arhiva locală* sau în aplicația Outlook numită *Arhivă online - \<name\> * . Utilizatorul poate glisa și fixa e-mailul în arhivă. 
     
-Puteți accesa o cantitate nelimitată de spațiu de stocare pentru arhivare. Pentru a afla mai multe, consultați [Activarea arhivarii nelimitate](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Puteți accesa o cantitate nelimitată de spațiu de stocare pentru arhivare. Pentru a afla mai multe, consultați [Activarea arhivarii nelimitate](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767801"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509360"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurarea abonamentului O365 Business Essentials
 
@@ -23,11 +23,11 @@ Creați conturi Microsoft 365 și adăugați-vă domeniul
     
 - Accesați centrul de [administrare Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Pentru a porni expertul, selectați **Deplasare la configurare**. Pentru a afla mai multe, consultați [Adăugarea unui domeniu la Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Pentru a porni expertul, selectați **Deplasare la configurare**. Pentru a afla mai multe, consultați [Adăugarea unui domeniu la Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Import e-mail
   
-- Mutați e-mailul și persoanele de contact existente din alte sisteme de e-mail în cutia poștală Microsoft 365, astfel încât să le puteți vedea pe toate într-un singur loc. Pentru opțiuni de migrare, [migrarea e-mailurilor și a persoanelor de contact la Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Mutați e-mailul și persoanele de contact existente din alte sisteme de e-mail în cutia poștală Microsoft 365, astfel încât să le puteți vedea pe toate într-un singur loc. Pentru opțiuni de migrare, [migrarea e-mailurilor și a persoanelor de contact la Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Conectarea conturilor de e-mail
     
@@ -41,6 +41,6 @@ Stocarea fișierelor online
   
 - Pentru a afla care sunt cele mai bune locații de stocare pentru afacerea dvs., consultați [Unde puteți stoca fișiere în Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Toată lumea primește automat o locație de stocare în cloud **OneDrive** atunci când creați conturi Microsoft 365 pentru acestea. Cu OneDrive, puteți accesa fișiere pe computere, telefoane și tablete. 
     
-În [acest articol](https://docs.microsoft.com/office365/admin/setup/setup)pot fi găsiți pași detaliați pentru instalare .
+În [acest articol](https://docs.microsoft.com/microsoft-365/admin/setup/setup)pot fi găsiți pași detaliați pentru instalare .
   
 

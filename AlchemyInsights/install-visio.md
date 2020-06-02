@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766001"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508676"
 ---
 # <a name="install-visio"></a>Instalează Visio
 
@@ -25,7 +25,7 @@ Visio este vândut ca o aplicație de sine stătătoare, deci, dacă nu-l au în
 
 **Notă:** Visio Online Plan 1 nu include o versiune desktop de Visio, deci nu este posibilă instalarea.
 
-Dacă aveți un abonament la Visio Online Plan 2, trebuie să [atribuiți o licență](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) unui utilizator sau nu va avea opțiunea de a instala Visio din **instalările mele** în [portalul Contul meu](https://portal.office.com/account#installs). 
+Dacă aveți un abonament la Visio Online Plan 2, trebuie să [atribuiți o licență](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) unui utilizator sau nu va avea opțiunea de a instala Visio din **instalările mele** în [portalul Contul meu](https://portal.office.com/account#installs). 
 
 Versiunile de licență în afara volumului ale Visio Standard sau Visio Professional sunt asociate cu conturile Microsoft și nu pot fi gestionate în centrul de administrare. Pentru a instala aceste versiuni, utilizatorii trebuie să se autentifice la [account.microsoft.com](https://account.microsoft.com) cu contul Microsoft asociat cu această versiune de Visio.
 

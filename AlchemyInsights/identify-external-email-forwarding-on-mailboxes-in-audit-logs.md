@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716472"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508964"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificarea când este configurată redirecționarea e-mailurilor externe în cutiile poștale
 
@@ -25,7 +25,7 @@ Atunci când un utilizator Microsoft 365 configurează redirecționarea de e-mai
 
 1. Conectați-vă la Centrul de [conformitate Microsoft 365 Security &](https://protection.office.com/).
 
-2. Accesați pagina de căutare în jurnalul **De** > **audit căutare.**
+2. Accesați pagina **Search**  >  **de căutare în jurnalul De audit căutare.**
 
 3. Selectați intervalul de date din câmpurile **Data de început** și data de **sfârșit.** Nu este necesar să specificați un nume de utilizator. Verificați că câmpul **Activități** este setat la **Afișare rezultate pentru toate activitățile**.
 
@@ -39,4 +39,4 @@ Atunci când un utilizator Microsoft 365 configurează redirecționarea de e-mai
 
 - **UserId**: Utilizatorul care a configurat redirecționarea e-mail ului pe cutia poștală în câmpul **ObjectId.**
 
-Pentru mai multe informații, consultați [Determinarea cine a configurat redirecționarea e-mailului pentru o cutie poștală](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Pentru mai multe informații, consultați [Determinarea cine a configurat redirecționarea e-mailului pentru o cutie poștală](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

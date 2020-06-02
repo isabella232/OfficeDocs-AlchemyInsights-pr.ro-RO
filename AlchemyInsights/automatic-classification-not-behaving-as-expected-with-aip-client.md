@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493433"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508388"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Clasificarea automată nu se comportă conform așteptărilor cu clientul AIP
 
 Clasificarea automată nu se comportă conform așteptărilor, utilizați următoarele instrucțiuni recomandate:
 
-1. Dacă aveți probleme cu etichetarea automată, consultați [Cum se configurează condițiile pentru clasificarea automată și recomandată pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) și Ce caută tipurile de informații [sensibile](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Dacă aveți probleme cu etichetarea automată, consultați [Cum se configurează condițiile pentru clasificarea automată și recomandată pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) și Ce caută tipurile de informații [sensibile](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Verificați dacă utilizați politici de domeniu care nu sunt configurate corect: [Cum se configurează politica azure protecția informațiilor pentru anumiți utilizatori utilizând politici ledomeniu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Dacă etichetarea automată nu funcționează pentru Outlook atunci când atașați un document etichetat, verificați că `DRMEncryptProperty` nu este definit ă ca descris ă aici: Setările de registry [IRM pentru securitate](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Dacă ați utilizat [tipurile de informații predefinite](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) pentru politica de protecție a informațiilor Azure, verificați dacă conținutul se potrivește cu formatul așteptat.

@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716508"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509000"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Jurnalele de audit pentru mesajele de e-mail șterse
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716508"
 
 În rezultate, selectați o înregistrare de audit. În detalii flyout, faceți clic pe **Mai multe informații**. Informații suplimentare despre elementul șters (de exemplu, linia de subiect și locația elementului când a fost șters) sunt afișate în câmpul **Elemente afectate.** Proprietatea **ClientInfoString** va afișa dacă ștergerea a avut loc în Outlook, Outlook pe web (cunoscut anterior ca Outlook Web App) sau orice alt dispozitiv.
 
-Pentru mai multe informații, consultați [Determinarea cine a configurat redirecționarea e-mailului pentru o cutie poștală](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Pentru mai multe informații, consultați [Determinarea cine a configurat redirecționarea e-mailului pentru o cutie poștală](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Notă:** Nu puteți regăsi elementele șterse utilizând caracteristica jurnal de auditare. Pentru a prelua mesajele șterse din Outlook pe web, consultați [Recuperarea elementelor șterse în Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
