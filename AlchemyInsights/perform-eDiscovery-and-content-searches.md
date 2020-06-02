@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911843"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510188"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>se efectuează căutările de conținut și căutările eDiscovery
 
@@ -32,6 +32,6 @@ Utilizați instrumentul Căutare conținut din Centrul de securitate & conformit
 4. Introduceți condițiile de căutare necesare, inclusiv cuvintele cheie și locațiile de conținut.  
 5. Faceți clic pe **Salvare & executare** pentru a denumi căutarea, porniți-o, apoi examinați rezultatele.
 
-Pentru instrucțiuni detaliate despre căutările de conținut, exportul rezultatelor și crearea de cazuri de descoperire a informațiilor electronice pentru a păstra datele, consultați Cazuri [de căutare conținut](https://docs.microsoft.com/office365/securitycompliance/content-search) și descoperire a [informațiilor electronice](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Pentru instrucțiuni detaliate despre căutările de conținut, exportul rezultatelor și crearea de cazuri de descoperire a informațiilor electronice pentru a păstra datele, consultați Cazuri [de căutare conținut](https://docs.microsoft.com/microsoft-365/compliance/content-search) și descoperire a [informațiilor electronice](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Aflați mai multe despre Căutarea conținutului examinând [cerințele și limitele și](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) [investigând elemente indexate parțial](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) și alte rezultate de care trebuie să știți.
+Aflați mai multe despre Căutarea conținutului examinând [cerințele și limitele și](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [investigând elemente indexate parțial](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) și alte rezultate de care trebuie să știți.

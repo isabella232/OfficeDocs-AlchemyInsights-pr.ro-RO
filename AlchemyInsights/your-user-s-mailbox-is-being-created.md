@@ -1,5 +1,5 @@
 ---
-title: Cutie poştală de utilizator dumneavoastră este în curs de înfiinţare
+title: Cutia poștală a utilizatorului este creată
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665664"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510080"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Crearea de cutie poştală de utilizator este de a lua o lungă perioadă de timp
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Crearea cutiei poștale de utilizator durează mult timp
 
-Poate dura până la 24 de ore înainte de o nouă cutie poştală este gata de utilizare.
+Poate dura până la 24 de ore înainte ca o nouă cutie poștală să fie gata de utilizare.
   
-În cazul în care cutia poştală a utilizatorului a fost "pregatirea" pentru mai mult de o oră, încercaţi să eliminaţi schimb licenţă de utilizator şi re-adăugarea înapoi sau [contactaţi asistenţa](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
+Dacă cutia poștală a utilizatorului a fost "Pregătirea" pentru mai mult de o oră, încercați să eliminați licența Exchange de la utilizator și re-adăugarea înapoi, sau [contactați-l de sprijin](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).

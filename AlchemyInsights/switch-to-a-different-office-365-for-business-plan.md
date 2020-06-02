@@ -12,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 35a2f888a340f50f38b79d8b81262edc6d850e5d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064369"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509828"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Comutarea la un alt abonament Microsoft 365 pentru firme
 
@@ -33,4 +33,4 @@ Atunci când afacerea se modifică sau aveți nevoie de mai multe caracteristici
 
 5. Introduceți numărul de licențe de care aveți nevoie, alegeți dacă să plătiți în fiecare lună sau pentru întregul an, apoi selectați **Extragere**.
 
-Pentru a afla mai multe, consultați [Upgrade la un alt plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Pentru a afla mai multe, consultați [Upgrade la un alt plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
