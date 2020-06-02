@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742445"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502619"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Politicile de conservare în Centrul de administrare Exchange
 
@@ -61,4 +61,4 @@ Pentru mai multe informații despre politicile de conservare din Centrul de admi
 - [Etichete de conservare și politici de conservare](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [Aplicarea unei politici de conservare pentru cutiile poștale](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [Adăugarea sau eliminarea etichetelor de retenție](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [se identifică tipul de reținere plasat pe o cutie poștală](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [se identifică tipul de reținere plasat pe o cutie poștală](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

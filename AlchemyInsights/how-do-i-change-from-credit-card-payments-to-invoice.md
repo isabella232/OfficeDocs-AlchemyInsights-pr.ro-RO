@@ -13,17 +13,17 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225208"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498947"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>pot trece de la plățile cu cardul de credit la factura?
 
 > [!NOTE]
-> Opțiunea de plată prin factură este disponibilă numai dacă abonamentul costă peste o anumită sumă (care variază în funcție de locația serviciului). Este posibil să fie necesară o verificare a creditului pentru plățile mai mari ale facturii. Pentru a afla mai multe, consultați [Plata abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Opțiunea de plată prin factură este disponibilă numai dacă abonamentul costă peste o anumită sumă (care variază în funcție de locația serviciului). Este posibil să fie necesară o verificare a creditului pentru plățile mai mari ale facturii. Pentru a afla mai multe, consultați [Plata abonamentului](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
 1. În centrul de administrare, accesați pagina **Facturare**  >  [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682304"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504887"
 ---
 # <a name="activate-visio"></a>Activează Visio
 
-Înainte ca un utilizator să poată instala și activa aplicația desktop Visio de pe desktop inclusă în Visio Online Plan 2, utilizatorului trebuie să i se fi atribuit o [licență Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Înainte ca un utilizator să poată instala și activa aplicația desktop Visio de pe desktop inclusă în Visio Online Plan 2, utilizatorului trebuie să i se fi atribuit o [licență Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Asemãn** Visio Online Plan 1 nu include o versiune desktop de Visio.
 
@@ -33,7 +33,7 @@ Pentru a activa Visio:
 Pentru probleme de activare, executați [depanatorul Activare](https://aka.ms/SARA-OfficeActivation-Alchemy) pe computerul afectat.
 
 Pentru informații detaliate, consultați:<br>
-[Activarea Office pe un PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[O notificare de abonament apare atunci când deschid o aplicație Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Eroare office "Produsele pe care <app>le-am găsit în contul dvs.](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Activați Office pe un PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Apare o notificare de abonament când deschid o aplicație Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Eroare office "Produsele pe care le-am găsit în contul dvs. <app>](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Erorile de activare și „Produs nelicențiat” în Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
