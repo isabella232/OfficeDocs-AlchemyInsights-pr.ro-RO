@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534858"
+ms.locfileid: "44542020"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Remedierea mesajelor blocate în Outbox
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Remedierea mesajelor blocate în Outbox cu SaRA
 
-Vă recomandăm să începeți prin a executa scenariul ["Am probleme cu trimiterea, primirea sau găsirea mesajelor de poștă electronică"](https://aka.ms/SaRA-OutlookSendReceive) din instrumentul [Asistent de asistență și recuperare Microsoft.](https://diagnostics.office.com/#/)
-
-Atunci când un mesaj devine blocat în Outbox, cauza cea mai probabilă este o atașare mare sau opțiunea "Trimite imediat atunci când este conectat" nu este activată.
-Pentru detalii complete, consultați:
-- [Video: Trimiterea sau ștergerea unui e-mail blocat](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mailrămâne în folderul Outbox până când inițiați manual o operațiune de trimitere / primire în Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Vă recomandăm să începeți prin a executa scenariul ["Am probleme cu trimiterea, primirea sau găsirea mesajelor de poștă electronică"](https://aka.ms/SaRA-OutlookSendReceive) pe computerul efectuat din instrumentul [Microsoft Support and Recovery Assistant (SaRa).](https://diagnostics.office.com/#/)
