@@ -1,5 +1,5 @@
 ---
-title: Să prezinte cereri de sprijin PowerApps sau Microsoft Flow
+title: Remiterea solicitărilor de asistență PowerApps sau Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559493"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Să prezinte cereri de sprijin PowerApps sau Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Remiterea solicitărilor de asistență PowerApps sau Microsoft Flow
 
-Dacă sunteţi un **PowerApps** sau **Fluxul de Microsoft** client vă rugăm să trimiteţi biletul prin noua [putere platforma centrul de administrare](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Noul portal oferă o cale mai directă de suport asistat optimizată pentru PowerApps şi alte produse de platforma de putere.
+Dacă sunteți un client **PowerApps** sau **Microsoft Flow,** vă rugăm să trimiteți biletul prin intermediul noii [platforme Power Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Noul portal oferă o cale mai directă către suportul asistat, optimizat pentru PowerApps și alte produse power platform.
 
-[Prezenta cerere de suport Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Remitere solicitare de asistență Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

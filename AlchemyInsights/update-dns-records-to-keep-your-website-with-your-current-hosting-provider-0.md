@@ -1,5 +1,5 @@
 ---
-title: Actualizarea înregistrărilor DNS pentru a menţine site-ul dvs cu furnizorul de găzduire curent
+title: Actualizați înregistrările DNS pentru a vă păstra site-ul web cu furnizorul curent de găzduire
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665772"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Actualizarea înregistrărilor DNS pentru a menţine site-ul dvs cu furnizorul de găzduire curent
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Actualizați înregistrările DNS pentru a vă păstra site-ul web cu furnizorul curent de găzduire
 
-1. În centrul de administrare Microsoft 365, du-te la **Setup** > [domenii](https://portal.office.com/adminportal/home#/Domains) pagină și selectați din lista de domenii, domeniu care îl utilizaţi pentru site-ul dvs.
+1. În centrul de administrare Microsoft 365, accesați pagina Domenii de **instalare**  >  [Domains](https://portal.office.com/adminportal/home#/Domains) și, în lista de domenii, selectați domeniul pe care îl utilizați pentru site-ul dvs.
 
-2. Selectaţi **+ nou record personalizat** şi introduceţi următoarele:
+2. Selectați **+ Înregistrare particularizată nouă** și introduceți următoarele:
 
-  - Pentru **tip DNS** intra: **(adresa)**
+  - Pentru **tipul DNS** introduceți: **A (Adresă)**
 
-  - Pentru **gazdă nume sau Alias**, tastaţi următoarele:**@**
+  - Pentru **nume gazdă sau alias**, tastați următoarele:**@**
 
-  - Pentru **Adresa IP**, tastaţi adresa IP statică pentru site-ul dvs., în cazul în care este în prezent găzduit (de exemplu, 172.16.140.1).
+  - Pentru **adresa IP**, tastați adresa IP statică pentru site-ul web unde este găzduită în prezent (de exemplu, 172.16.140.1).
 
-    Acest lucru trebuie să fie o adresă IP *statică* pentru site-ul, nu o adresă IP *dinamică* . Consultaþi site-ul unde este gazduit site-ul dvs să vă asiguraţi că puteţi obţine o adresă IP statică pentru site-ul dumneavoastră publice.
+    Aceasta trebuie să fie o adresă IP *statică* pentru site-ul web, nu o adresă IP *dinamică.* Consultați site-ul unde este găzduit site-ul dvs., pentru a vă asigura că puteți obține o adresă IP statică pentru site-ul web public.
 
-3. Selectaţi **Salvare**.
+3. Selectați **Salvare**.
 
-În plus, creaţi o înregistrare CNAME pentru a ajuta clienţii găsi site-ul dvs.
+În plus, puteți crea o înregistrare CNAME pentru a ajuta clienții să vă găsească site-ul web.
   
-1. Selectaţi **+ nou record personalizat** şi introduceţi următoarele:
+1. Selectați **+ Înregistrare particularizată nouă** și introduceți următoarele:
 
-  - Pentru **tip DNS** intra: **CNAME (Alias)**
+  - Pentru **tipul DNS** introduceți: **CNAME (Alias)**
 
-  - Pentru **gazdă nume sau Alias**, tastaţi următoarele: **www**
+  - Pentru **nume gazdă sau alias**, tastați următoarele: **www**
 
-  - Pentru **puncte la adresă**, tastaţi numele de domeniu complet (FQDN) pentru site-ul web (de exemplu, contoso.com).
+  - Pentru **puncte de adresă,** tastați numele de domeniu complet calificat (FQDN) pentru site-ul web (de exemplu, contoso.com).
 
-2. Selectaţi **Salvare**.
+2. Selectați **Salvare**.

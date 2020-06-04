@@ -1,5 +1,5 @@
 ---
-title: 1800009 Outlook pentru Mac în aplicație suport
+title: Suport Outlook pentru Mac în aplicație 1800009
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
 ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "37035767"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Suport în aplicație în Outlook pentru Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Asistență în aplicație în Outlook pentru Mac
 
-Pentru a primi suport în aplicație pentru Outlook pentru Mac probleme, deschideți Outlook și faceți clic pe **Ajutor** \> **contactați asistența**. Tastați întrebarea și un membru al echipei de asistență Outlook pentru Mac vă va contacta. 
+Pentru a primi asistență în aplicație pentru problemele **Help** Outlook pentru Mac, deschideți Outlook și faceți clic pe \> **Asistență contact ajutor**. Tastați întrebarea și un membru al echipei de asistență Outlook pentru Mac va lua legătura cu dvs. 
 
-Aflați mai multe: [contactați asistența în Outlook pentru Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Aflați mai multe: [Contactați asistența din Outlook pentru Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
