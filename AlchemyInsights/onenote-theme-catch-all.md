@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44064061"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563594"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Probleme și rezolvări comune cu OneNote
 
@@ -24,7 +24,7 @@ Iată câteva subiecte OneNote solicitate frecvent:
 
 - [Remediați problemele de sincronizare](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - pentru a rezolva cele mai frecvente probleme legate de sincronizarea OneNote, utilizați pașii din [Remedierea problemelor atunci când nu puteți sincroniza OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Utilizați [OneNote în Nota](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **echipelor:** În prezent, OneNote în Echipe este doar în citire pentru chiriașii comerciali și educaționali. Pentru a edita, utilizați OneNote pentru web sau aplicația OneNote pentru desktop.
+- Utilizați [OneNote în Nota](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **echipelor:** În prezent, OneNote în Echipe este doar în citire pentru chiriașii comerciali și educaționali. Pentru a edita, utilizați OneNote pentru web sau aplicația OneNote pentru desktop.
 
 - [Utilizarea blocnotesului școlar OneNote în Echipe](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) răspunde la întrebări despre configurarea unui blocnotes școlar în Echipe.
 
