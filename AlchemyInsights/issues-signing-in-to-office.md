@@ -1,5 +1,5 @@
 ---
-title: Probleme de sign in la Office apps
+title: Probleme la conectarea la aplicațiile Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938311"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579913"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Semn-înăuntru ecran gol în Office apps
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Ecran de conectare gol în aplicațiile Microsoft 365
 
-Pentru a remedia această problemă, încercaţi următoarele:
-- Instalaţi cele mai recente actualizări pentru [Windows](https://support.microsoft.com/help/4027667/windows-10-update) si [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Reiniţializaţi Internet Explorer opţiuni: Du-te la **Instrumente** > **Opţiuni Internet** > **Advanced** > **Reinițializare setări Internet Explorer** (Notă de faptul că veţi pierde setările particularizate), şi apoi încercaţi conectarea la biroul din nou.
-- Dezactivează Windows Defender cerere Garda (WDAG) sau orice program firewall sau anti-virus similar:
-    1. În panoul de Control, du-te la **programe**, şi apoi alegeţi **Nap Ferestre features on sau off**.
-    2. În cazul în care Garda de aplicaţie Windows Defender este activat, încercaţi să dezactivaţi-l.<br/>
-    **Notă:** Trebuie să reporniţi computerul.
-- Asiguraţi-vă că Microsoft.AAD.BrokerPlugin [Dai WAM plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) nu este blocat de vreo aplicaţie sau un program firewall/anti-anti-virus.
-- [Acreditări clar Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând Windows Credential Manager.<br/>
-    **Notă:** Căi de registry pentru Office 2016 s-au schimbat la 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+Pentru a remedia această problemă, încercați următoarele:
+- Instalați cele mai recente actualizări pentru [Windows](https://support.microsoft.com/help/4027667/windows-10-update) și [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Reinițializați opțiunile Internet Explorer: Accesați **Instrumente**  >  **Opțiuni Internet**  >  **Reinițializare avansată**setări Internet  >  **Explorer** (rețineți că veți pierde setările particularizate), apoi încercați din nou să vă conectați la Office.
+- Dezactivați Windows Defender Application Guard (WDAG) sau orice firewall similare sau anti-virus program:
+    1. În Panoul de control, accesați **Programe**, apoi **alegeți Activare sau dezactivare caracteristici Windows**.
+    2. Dacă este activată Garda de aplicație Windows Defender, încercați să o dezactivați.<br/>
+    **Notã:** Poate fi necesar să reporniți computerul.
+- Asigurați-vă că Microsoft.AAD.BrokerPlugin [AAD WAM plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) nu este blocat de orice aplicație sau firewall /anti-virus program.
+- [Goliți acreditările Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând Windows Credential Manager.<br/>
+    **Notã:** Căile de registry pentru Office 2016 s-au modificat la 16.0. (De exemplu: \Software\Microsoft\Office\16.0\Common\Identity\)
 
-Pentru informaţii suplimentare, consultaţi [probleme de conexiune în semn-înăuntru după update la Office 2016 construi 16.0.7967 pe Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Pentru mai multe informații, consultați [Probleme de conexiune în conectare după actualizarea la Office 2016 build 16.0.7967 pe Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

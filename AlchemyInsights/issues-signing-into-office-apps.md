@@ -1,5 +1,5 @@
 ---
-title: Probleme de sign in la Office apps
+title: Probleme la conectarea la aplicațiile Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938312"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579877"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Fixarea Office apps "computerului Trusted Platformă module nu funcţionează corect" mesaj
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Fixarea microsoft 365 apps "Modulul de încredere al computerului Platforma nu funcționează corect" mesaj
 
-Pentru a rezolva această eroare, încercaţi următoarele:
+Pentru a remedia această eroare, urmați pașii de mai jos:
 
-- Instalaţi cele mai recente actualizări pentru [Windows](https://support.microsoft.com/help/4027667/windows-10-update) si [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Acreditări clar Office](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând Windows Credential Manager.<br/>
-    **Notă:** Căi de registry pentru Office 2016 s-au schimbat la 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Încercaţi [procesul de recuperare utilizator](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) pentru a rezolva eşecurilor Trusted Platform Module (TPM).
-- Set EnableADAL = 0 paşii următori:  
-    1. Faceţi clic dreapta pe butonul Windows Start, selectaţi **Run**, tastaţi **regedit**şi apoi selectaţi **OK**.
-    2. Selectați **Da** pentru a permite Registry Editor pentru a face modificări la aparatul dvs.
-    3. În Registry Editor, adăugaţi o valoare DWORD **EnableADAL** cu o setare de **0** sub HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+- Instalați cele mai recente actualizări pentru [Windows](https://support.microsoft.com/help/4027667/windows-10-update) și [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- [Goliți acreditările Office](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând Windows Credential Manager.<br/>
+    **Notã:** Căile de registry pentru Office 2016 s-au modificat la 16.0. (De exemplu: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Încercați procesul de [recuperare a utilizatorului](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) pentru a remedia erorile Trusted Platform Module (TPM).
+- Setați EnableADAL = 0 utilizând următorii pași:  
+    1. Faceți clic cu butonul din dreapta pe butonul Start din Windows, alegeți **Executare**, tastați **regedit**, apoi alegeți **OK**.
+    2. Selectați **Da** pentru a permite Registry Editor să efectueze modificări pe dispozitiv.
+    3. În Registry Editor, adăugați o valoare DWORD de **EnableADAL** cu o setare de **0** sub HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
 
-Pentru informaţii suplimentare, consultaţi [probleme de conexiune în semn-înăuntru după update la Office 2016 construi 16.0.7967 pe Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Pentru mai multe informații, consultați [Probleme de conexiune în conectare după actualizarea la Office 2016 build 16.0.7967 pe Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
