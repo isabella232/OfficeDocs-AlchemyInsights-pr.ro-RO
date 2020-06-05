@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 2050d2affabbe15521bcfcbee5ea5651b61770a7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911088"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581279"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="6f3ae-102">Adăugarea unui grup la un site SharePoint</span><span class="sxs-lookup"><span data-stu-id="6f3ae-102">Add a group to a SharePoint site</span></span>
+# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="412d5-102">Adăugarea unui grup la un site SharePoint</span><span class="sxs-lookup"><span data-stu-id="412d5-102">Add a group to a SharePoint site</span></span>
 
-<span data-ttu-id="6f3ae-103">Unele site-uri de echipă SharePoint (inclusiv cele create în Microsoft Teams) sunt gestionate de proprietarii de grup Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Microsoft 365 group owners.</span></span> <span data-ttu-id="6f3ae-104">Site-urile SharePoint și conținutul pot fi, de asemenea, partajate cu grupurile Microsoft 365 și cu grupurile SharePoint.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-104">SharePoint sites and content can also be shared with Microsoft 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="6f3ae-105">Un grup SharePoint este o colecție de utilizatori care au toate același set de permisiuni pentru site-uri și conținut.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="6f3ae-106">Pentru site-uri clasice, vă recomandăm să utilizați grupuri pentru a atribui convenabil același nivel de permisiune pentru mai multe persoane la o dată, mai degrabă decât atribuirea permisiunilor o persoană la un moment dat.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
+<span data-ttu-id="412d5-103">Unele site-uri de echipă SharePoint (inclusiv cele create în Microsoft Teams) sunt gestionate de proprietarii de grup Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="412d5-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Microsoft 365 group owners.</span></span> <span data-ttu-id="412d5-104">Site-urile SharePoint și conținutul pot fi, de asemenea, partajate cu grupurile Microsoft 365 și cu grupurile SharePoint.</span><span class="sxs-lookup"><span data-stu-id="412d5-104">SharePoint sites and content can also be shared with Microsoft 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="412d5-105">Un grup SharePoint este o colecție de utilizatori care au toate același set de permisiuni pentru site-uri și conținut.</span><span class="sxs-lookup"><span data-stu-id="412d5-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="412d5-106">Pentru site-uri clasice, vă recomandăm să utilizați grupuri pentru a atribui convenabil același nivel de permisiune pentru mai multe persoane la o dată, mai degrabă decât atribuirea permisiunilor o persoană la un moment dat.</span><span class="sxs-lookup"><span data-stu-id="412d5-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
   
-<span data-ttu-id="6f3ae-107">Gestionarea membrilor grupului Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="6f3ae-107">Manage Microsoft 365 group members:</span></span>
+<span data-ttu-id="412d5-107">Gestionarea membrilor grupului Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="412d5-107">Manage Microsoft 365 group members:</span></span>
   
-1. <span data-ttu-id="6f3ae-108">Accesați [pagina Grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="6f3ae-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="412d5-108">Accesați [pagina Grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="412d5-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="6f3ae-109">Selectați un grup pentru a-i vedea proprietarii și membrii.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="6f3ae-110">Pentru a adăuga sau a elimina persoane, faceți clic pe linkul **Editare** din rândul **Proprietari** sau **Membri.**</span><span class="sxs-lookup"><span data-stu-id="6f3ae-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
+2. <span data-ttu-id="412d5-109">Selectați un grup pentru a-i vedea proprietarii și membrii.</span><span class="sxs-lookup"><span data-stu-id="412d5-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="412d5-110">Pentru a adăuga sau a elimina persoane, faceți clic pe linkul **Editare** din rândul **Proprietari** sau **Membri.**</span><span class="sxs-lookup"><span data-stu-id="412d5-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
     
-<span data-ttu-id="6f3ae-111">Partajați un site de comunicare cu un grup Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="6f3ae-111">Share a communication site with an Microsoft 365 group:</span></span>
+<span data-ttu-id="412d5-111">Partajați un site de comunicare cu un grup Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="412d5-111">Share a communication site with a Microsoft 365 group:</span></span>
   
-1. <span data-ttu-id="6f3ae-112">Accesați site-ul într-un browser și faceți clic pe **Partajare site** în dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
+1. <span data-ttu-id="412d5-112">Accesați site-ul într-un browser și faceți clic pe **Partajare site** în dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="412d5-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
     
-2. <span data-ttu-id="6f3ae-113">Introduceți numele grupului, apoi selectați nivelul de permisiune (Citire, Editare sau Control complet).</span><span class="sxs-lookup"><span data-stu-id="6f3ae-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
+2. <span data-ttu-id="412d5-113">Introduceți numele grupului, apoi selectați nivelul de permisiune (Citire, Editare sau Control complet).</span><span class="sxs-lookup"><span data-stu-id="412d5-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
     
-<span data-ttu-id="6f3ae-114">Creați un grup SharePoint de utilizat cu un site clasic:</span><span class="sxs-lookup"><span data-stu-id="6f3ae-114">Create a SharePoint group to use with a classic site:</span></span>
+<span data-ttu-id="412d5-114">Creați un grup SharePoint de utilizat cu un site clasic:</span><span class="sxs-lookup"><span data-stu-id="412d5-114">Create a SharePoint group to use with a classic site:</span></span>
   
-1. <span data-ttu-id="6f3ae-115">Accesați site-ul într-un browser și faceți clic pe pictograma Setări din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
+1. <span data-ttu-id="412d5-115">Accesați site-ul într-un browser și faceți clic pe pictograma Setări din dreapta sus.</span><span class="sxs-lookup"><span data-stu-id="412d5-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
     
-2. <span data-ttu-id="6f3ae-116">Faceți clic pe **Setări site**, apoi, sub Utilizatori **și permisiuni**, faceți clic pe Permisiuni **site**.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
+2. <span data-ttu-id="412d5-116">Faceți clic pe **Setări site**, apoi, sub Utilizatori **și permisiuni**, faceți clic pe Permisiuni **site**.</span><span class="sxs-lookup"><span data-stu-id="412d5-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
     
-3. <span data-ttu-id="6f3ae-117">Pe fila Permisiuni, faceți clic pe **Creare grup**.</span><span class="sxs-lookup"><span data-stu-id="6f3ae-117">On the Permissions tab, click **Create Group**.</span></span>
+3. <span data-ttu-id="412d5-117">Pe fila Permisiuni, faceți clic pe **Creare grup**.</span><span class="sxs-lookup"><span data-stu-id="412d5-117">On the Permissions tab, click **Create Group**.</span></span>
     
-[<span data-ttu-id="6f3ae-118">Conectarea unui site de echipă clasic la un nou grup Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="6f3ae-118">Connect a classic team site to a new Microsoft 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
+[<span data-ttu-id="412d5-118">Conectarea unui site de echipă clasic la un nou grup Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="412d5-118">Connect a classic team site to a new Microsoft 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[<span data-ttu-id="6f3ae-119">Aflați mai multe despre lucrul cu grupurile SharePoint</span><span class="sxs-lookup"><span data-stu-id="6f3ae-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
+[<span data-ttu-id="412d5-119">Aflați mai multe despre lucrul cu grupurile SharePoint</span><span class="sxs-lookup"><span data-stu-id="412d5-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
   
 
