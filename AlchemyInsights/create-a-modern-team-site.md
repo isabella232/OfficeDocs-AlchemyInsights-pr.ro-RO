@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911664"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580381"
 ---
-# <a name="create-an-microsoft-365-group-connected-team-site"></a>Crearea unui site de echipă Microsoft 365 conectat la grup
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Crearea unui site de echipă Microsoft 365 conectat la grup
 
 1. Faceți clic pe lansatorul de aplicații din colțul din stânga sus și selectați **SharePoint**. Dacă nu vedeți dala SharePoint, faceți clic pe **Toate aplicațiile**.
     

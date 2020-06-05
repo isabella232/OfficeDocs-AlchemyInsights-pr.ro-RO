@@ -1,5 +1,5 @@
 ---
-title: Activare/conectare problemă-modulul de încredere platformă defect
+title: Problemă de activare/conectare - modulul platformei de încredere a fost defect
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: d1c25bb283def13524b1dcd19d0c746ee32c4e11
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 914e07fd69523005fbd777d3c05c9cf1a8beb01c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711992"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581351"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Fixarea aplicațiilor Office "nu funcționează corect modulul platformei de încredere a computerului"
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Fixarea microsoft 365 apps "Modulul de încredere al computerului Platforma nu funcționează corect" mesaj
 
-Pentru a remedia această eroare, încercați următoarele:
+Pentru a remedia această eroare, urmați pașii de mai jos:
 
-1. Deschideți o aplicație Office și [deconectează-te](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de orice conturi de utilizator existente.   
-2. Folosind **setările** > Windows**Conturi** > de**e-mail & conturi**, eliminați conturile de lucru existente. 
-3. Utilizarea > **conturilor**de **Setări** > Windows**acces la serviciu sau la școală**, deconectați conturile existente. 
-4. Resetați starea de activare Office. [Invata](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. Deschideți o aplicație Office și [deconectați-vă](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) din conturile de utilizator existente.   
+2. Utilizând **Settings**  >  **conturile**  >  **de e-mail & conturi de e-mail**conturi de conturi de conturi de conturi de setări Windows , eliminați conturile de lucru existente. 
+3. Utilizând Conturi **de setări**Windows Accesați locul de muncă  >  **Accounts**  >  **sau școala,** deconectați conturile existente. 
+4. Resetați starea de activare Office. [Aflați cum](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. Încercați [procesul de recuperare de utilizator](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) pentru a remedia erorile Trusted Platform Module (TPM).
+5. Încercați procesul de [recuperare a utilizatorului](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) pentru a remedia erorile Trusted Platform Module (TPM).
