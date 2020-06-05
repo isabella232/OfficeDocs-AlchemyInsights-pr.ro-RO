@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512024"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582751"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestii pentru rezolvarea erorilor "Produs fără licență"
 
@@ -26,7 +26,7 @@ Pentru a rezolva erorile despre un "Produs fără licență", încercați următ
 - Asigurați-vă că aveți un abonament care permite licențe client, ar fi Microsoft 365 Apps pentru afaceri sau Business Premium, și [asigurați-vă că utilizatorul are o licență atribuită](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Asigurați-vă că utilizatorul se face conecta la Office cu același cont care are licența atribuită.
 - Consultați [pagina De sănătate a serviciului](https://docs.microsoft.com/office365/enterprise/view-service-health) pentru a vedea dacă există probleme cunoscute cu serviciul.
-- Verificați setările paravanului de protecție, ale software-ului antivirus și proxy pentru a confirma că nu blochează accesul aplicațiilor Office la Internet. Consultați [URL-uri și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Verificați setările paravanului de protecție, ale software-ului antivirus și proxy pentru a confirma că nu blochează accesul aplicațiilor Microsoft 365 la Internet. Consultați [URL-uri și intervale de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 De asemenea, puteți încerca următoarele acțiuni de depanare: 
 

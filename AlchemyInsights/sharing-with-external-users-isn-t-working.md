@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913014"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582787"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Remedierea problemelor legate de partajarea conținutului SharePoint cu utilizatorii externi
 
 Asigurați-vă că partajarea externă este activată pentru organizația dvs.:
   
-1. Accesați [pagina &amp; Programe de completare Servicii din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)și faceți clic pe **Site-uri**.
+1. Accesați [pagina Programe de completare Servicii din centrul de administrare Microsoft &amp; 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)și faceți clic pe **Site-uri**.
     
 2. Asigurați-vă că setarea este activată la "Activat". Dacă este selectată opțiunea "Numai utilizatorii externi existenți", asigurați-vă că utilizatorul extern este listat în centrul de administrare Microsoft 365.
     

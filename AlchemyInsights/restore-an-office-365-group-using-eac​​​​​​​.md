@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912595"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582391"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Restaurarea unui grup Microsoft 365 utilizând centrul de administrare Exchange
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Restaurarea unui grup Microsoft 365 utilizând centrul de administrare Exchange
 
 1. În navigarea din stânga a centrului de administrare Microsoft 365, extindeți **Centrul de administrare**, apoi alegeți **Exchange**.
     
