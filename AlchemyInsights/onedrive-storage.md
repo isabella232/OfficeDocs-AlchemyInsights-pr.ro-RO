@@ -1,5 +1,5 @@
 ---
-title: Stocarea OneDrive
+title: Spațiu de stocare OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049061"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667860"
 ---
-# <a name="manage-your-onedrive-storage"></a>Gestionați spațiul de stocare OneDrive
+# <a name="manage-your-onedrive-storage"></a>Gestionarea spațiului de stocare OneDrive
 
-Spațiu de stocare OneDrive nu se contorizați spre global entitate găzduită cotă. 
+Puteți gestiona OneDrive pentru business pentru a vedea cât spațiu utilizați și eliberați spațiu.  Pentru mai multe informații vizitați link-urile de mai jos.
 
-Aflați [se alocă spațiul de stocare OneDrive per utilizator/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Aflați [cât de mult spațiu de stocare utilizați în OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Aflați [să obțineți cota de stocare OneDrive utilizând PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Microsoft va furniza inițial 1 TB per utilizator, care administratorii pot crește până la 5 TB per utilizator. Aflați să [Setați spațiul de stocare implicit pentru utilizatorii OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Aflați [să schimbați spațiul de stocare OneDrive al unui anumit utilizator](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Aflați [Global Admins poate seta cota de stocare OneDrive pentru toți utilizatorii care utilizează PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Gestionarea spațiului de stocare OneDrive pentru business](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Modificarea spațiului de stocare OneDrive al unui anumit utilizator](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Setarea spațiului de stocare implicit pentru utilizatorii OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
