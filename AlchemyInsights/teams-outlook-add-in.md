@@ -1,5 +1,5 @@
 ---
-title: Program de completare Outlook pentru echipe
+title: Program de completare Echipe Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021510"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702218"
 ---
-# <a name="teams-outlook-add-in"></a>Program de completare Outlook pentru echipe
+# <a name="teams-outlook-add-in"></a>Program de completare Echipe Outlook
 
-Există mai mulți factori care ar putea face ca programul de completare Teams să nu apară și toate sunt listate [aici.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Pentru a depana un program de completare Lipsă Teams Outlook, mai întâi asigurați-vă că executați Serviciul de diagnosticare aici, în Portalul de administrare.  Dacă service Diagnostic nu indică probleme, continuați să descărcați și să executați programul **de completare Outlook** pentru Asistentul [de asistență și recuperare Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) pe mașinile de utilizator afectate pentru a diagnostica și corecta orice probleme cu clientul.
 
-**Vă recomandăm să verificați mai întâi dacă programul de completare nu este dezactivat:**
-
-- În Outlook, faceți clic pe **Fișier,** apoi pe **Opțiuni**.
-- Selectați fila **Programe de completare** din caseta de dialog Opțiuni **Outlook.**
-- Confirmați că **programul de completare Microsoft Teams Meeting pentru Microsoft Office** este listat în lista de programe de completare aplicație **activă.**
-- Dacă programul de completare Teams Meeting este listat în lista **Programe de completare aplicație dezactivată,** selectați Programe de completare COM **în** **Gestionare,** apoi faceți clic pe **Go...**
-- Setați caseta de selectare de lângă **Programul de completare Microsoft Teams Meeting pentru Microsoft Office**.
-- Faceți clic pe **OK** pe toate casetele de dialog și reporniți Outlook.
+Pentru a depana manual problema, examinați lista de factori potențiali care ar putea determina ca programul de completare Echipe să nu apară [listat aici](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
