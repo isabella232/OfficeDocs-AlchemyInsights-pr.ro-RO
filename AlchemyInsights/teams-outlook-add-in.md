@@ -1,5 +1,5 @@
 ---
-title: Program de completare Outlook pentru echipe
+title: Program de completare Echipe Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021510"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702218"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="55d1b-102">Program de completare Outlook pentru echipe</span><span class="sxs-lookup"><span data-stu-id="55d1b-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="53bc3-102">Program de completare Echipe Outlook</span><span class="sxs-lookup"><span data-stu-id="53bc3-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="55d1b-103">Există mai mulți factori care ar putea face ca programul de completare Teams să nu apară și toate sunt listate [aici.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="55d1b-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+<span data-ttu-id="53bc3-103">Pentru a depana un program de completare Lipsă Teams Outlook, mai întâi asigurați-vă că executați Serviciul de diagnosticare aici, în Portalul de administrare.</span><span class="sxs-lookup"><span data-stu-id="53bc3-103">To troubleshoot a missing Teams Outlook Add-in, first be sure to run the Service Diagnostic here in the Admin Portal.</span></span>  <span data-ttu-id="53bc3-104">Dacă service Diagnostic nu indică probleme, continuați să descărcați și să executați programul **de completare Outlook** pentru Asistentul [de asistență și recuperare Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) pe mașinile de utilizator afectate pentru a diagnostica și corecta orice probleme cu clientul.</span><span class="sxs-lookup"><span data-stu-id="53bc3-104">If the Service Diagnostic indicates no issues, please proceed to download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook Add-in Scenario** on the affected user machines to diagnose and correct any client issues.</span></span>
 
-<span data-ttu-id="55d1b-104">**Vă recomandăm să verificați mai întâi dacă programul de completare nu este dezactivat:**</span><span class="sxs-lookup"><span data-stu-id="55d1b-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
-
-- <span data-ttu-id="55d1b-105">În Outlook, faceți clic pe **Fișier,** apoi pe **Opțiuni**.</span><span class="sxs-lookup"><span data-stu-id="55d1b-105">In Outlook, click **File** and then **Options**.</span></span>
-- <span data-ttu-id="55d1b-106">Selectați fila **Programe de completare** din caseta de dialog Opțiuni **Outlook.**</span><span class="sxs-lookup"><span data-stu-id="55d1b-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
-- <span data-ttu-id="55d1b-107">Confirmați că **programul de completare Microsoft Teams Meeting pentru Microsoft Office** este listat în lista de programe de completare aplicație **activă.**</span><span class="sxs-lookup"><span data-stu-id="55d1b-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
-- <span data-ttu-id="55d1b-108">Dacă programul de completare Teams Meeting este listat în lista **Programe de completare aplicație dezactivată,** selectați Programe de completare COM **în** **Gestionare,** apoi faceți clic pe **Go...**</span><span class="sxs-lookup"><span data-stu-id="55d1b-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
-- <span data-ttu-id="55d1b-109">Setați caseta de selectare de lângă **Programul de completare Microsoft Teams Meeting pentru Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="55d1b-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
-- <span data-ttu-id="55d1b-110">Faceți clic pe **OK** pe toate casetele de dialog și reporniți Outlook.</span><span class="sxs-lookup"><span data-stu-id="55d1b-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
+<span data-ttu-id="53bc3-105">Pentru a depana manual problema, examinați lista de factori potențiali care ar putea determina ca programul de completare Echipe să nu apară [listat aici](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="53bc3-105">To manually troubleshoot the issue, review the list of potential factors that could cause your Teams add-in to not appear listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
