@@ -1,5 +1,5 @@
 ---
-title: Permiteți-le utilizatorilor să comunice cu utilizatorii Skype Consumer
+title: Permiteți-le utilizatorilor să comunice cu utilizatorii Skype pentru consumatori
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -17,10 +17,10 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 03/25/2020
 ms.locfileid: "42955248"
 ---
-# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Permiteți-le utilizatorilor să comunice cu utilizatorii Skype Consumer
+# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Permiteți-le utilizatorilor să comunice cu utilizatorii Skype pentru consumatori
 
-Pentru a le permite utilizatorilor să comunice cu utilizatorii Skype Consumer, faceți următoarele:
+Pentru a le permite utilizatorilor să comunice cu utilizatorii Skype pentru consumatori, procedați astfel:
 
 - Activați accesul extern, așa cum se menționează [aici](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains).
 
-- Aflați despre [interoperabilitatea dintre Teams și Skype Consumer](https://docs.microsoft.com/microsoftteams/teams-skype-interop).
+- Aflați despre [interoperabilitatea dintre Teams și Skype pentru consumatori](https://docs.microsoft.com/microsoftteams/teams-skype-interop).

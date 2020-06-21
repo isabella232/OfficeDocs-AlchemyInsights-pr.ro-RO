@@ -21,8 +21,8 @@ ms.locfileid: "42955220"
 
 Partajarea ecranului le permite utilizatorilor să prezinte un ecran sau o aplicație în timpul unei întâlniri sau a unei discuții.
 
-- [Configurați partajarea desktopului în Microsoft Teams](https://docs.microsoft.com/microsoftteams/configure-desktop-sharing). **Notă**: este posibil să existe o întârziere a momentului în care setarea de politică să aibă efect. 
+- [Configurați partajarea desktopului în Microsoft Teams](https://docs.microsoft.com/microsoftteams/configure-desktop-sharing). **Notă**: este posibil ca intrarea în vigoare a setării de politică să aibă o întârziere. 
 
-- [Aflați despre modurile diferite](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---content-sharing) prin care utilizatorii pot utiliza partajarea ecranului. 
+- [Aflați despre diversele moduri](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---content-sharing) prin care utilizatorii pot utiliza partajarea ecranului. 
 
 - Dacă utilizatorii întâmpină probleme cu partajarea ecranului, revizuiți [resursele de depanare](https://docs.microsoft.com/microsoftteams/connectivity-issues). 

@@ -27,6 +27,6 @@ Pentru a reutiliza un URL de pe un site șters (pentru a crea din nou un site) s
 
 3. Faceți clic pe **Ștergere definitivă**. 
 
-**Notă**: Site-urile conectate în grup nu pot fi șterse definitiv din noul Centru de administrare SharePoint. În schimb, va trebui să utilizați [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite).  
+**Notă**: Site-urile conectate la grup nu pot fi șterse definitiv din noul Centru de administrare SharePoint. În schimb, va trebui să utilizați [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite).  
 
-Pentru mai multe informații, consultați [Ștergerea definită a unui site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). 
+Pentru mai multe informații, consultați [Ștergerea definitivă a unui site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). 
