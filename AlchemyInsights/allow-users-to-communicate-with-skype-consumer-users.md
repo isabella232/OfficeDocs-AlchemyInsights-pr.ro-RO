@@ -1,5 +1,5 @@
 ---
-title: Permiteți-le utilizatorilor să comunice cu utilizatorii Skype Consumer
+title: Permiteți-le utilizatorilor să comunice cu utilizatorii Skype pentru consumatori
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -17,10 +17,10 @@ ms.contentlocale: ro-RO
 ms.lasthandoff: 03/25/2020
 ms.locfileid: "42955248"
 ---
-# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a><span data-ttu-id="1936b-102">Permiteți-le utilizatorilor să comunice cu utilizatorii Skype Consumer</span><span class="sxs-lookup"><span data-stu-id="1936b-102">Allow your users to communicate with Skype Consumer users</span></span>
+# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a><span data-ttu-id="43024-102">Permiteți-le utilizatorilor să comunice cu utilizatorii Skype pentru consumatori</span><span class="sxs-lookup"><span data-stu-id="43024-102">Allow your users to communicate with Skype Consumer users</span></span>
 
-<span data-ttu-id="1936b-103">Pentru a le permite utilizatorilor să comunice cu utilizatorii Skype Consumer, faceți următoarele:</span><span class="sxs-lookup"><span data-stu-id="1936b-103">To allow your users to communicate with Skype Consumer users, please do the following:</span></span>
+<span data-ttu-id="43024-103">Pentru a le permite utilizatorilor să comunice cu utilizatorii Skype pentru consumatori, procedați astfel:</span><span class="sxs-lookup"><span data-stu-id="43024-103">To allow your users to communicate with Skype Consumer users, please do the following:</span></span>
 
-- <span data-ttu-id="1936b-104">Activați accesul extern, așa cum se menționează [aici](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains).</span><span class="sxs-lookup"><span data-stu-id="1936b-104">Enable external access as noted [here](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains).</span></span>
+- <span data-ttu-id="43024-104">Activați accesul extern, așa cum se menționează [aici](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains).</span><span class="sxs-lookup"><span data-stu-id="43024-104">Enable external access as noted [here](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains).</span></span>
 
-- <span data-ttu-id="1936b-105">Aflați despre [interoperabilitatea dintre Teams și Skype Consumer](https://docs.microsoft.com/microsoftteams/teams-skype-interop).</span><span class="sxs-lookup"><span data-stu-id="1936b-105">Learn about [Teams and Skype Consumer interoperability](https://docs.microsoft.com/microsoftteams/teams-skype-interop).</span></span>
+- <span data-ttu-id="43024-105">Aflați despre [interoperabilitatea dintre Teams și Skype pentru consumatori](https://docs.microsoft.com/microsoftteams/teams-skype-interop).</span><span class="sxs-lookup"><span data-stu-id="43024-105">Learn about [Teams and Skype Consumer interoperability](https://docs.microsoft.com/microsoftteams/teams-skype-interop).</span></span>
