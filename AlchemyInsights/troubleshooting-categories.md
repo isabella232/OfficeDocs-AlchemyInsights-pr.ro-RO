@@ -1,5 +1,5 @@
 ---
-title: 604 Categorii de depanare
+title: 604 Categorii depanare
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732378"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850807"
 ---
 # <a name="outlook-categories"></a>Categorii Outlook
 
-Categoriile de culori vă permit să identificați și să grupați cu ușurință elementele asociate în Microsoft Outlook. Pentru mai multe informații, consultați [Crearea și atribuirea categoriilor de culori](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).
-  
+Categoriile se aplică numai elementelor din calendar. Dacă aplicați o categorie de culori unei solicitări de întâlnire sau unei întâlniri pe care ați primit-o de la o altă persoană, acea categorie de culori se va afișa numai în calendar.  Dacă aplicați o categorie de culori într-o cutie poștală partajată, cutie poștală delegată, cutie poștală de grup, cutie poștală cameră etc. categoria de culori afectează numai vizualizarea.
+
+Pentru mai multe informații: [Atribuirea unei categorii de culori unei rezervări de calendar, a unei întâlniri sau a unui eveniment](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
