@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915139"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841011"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Configurarea unui abonament Microsoft 365 Education
 
@@ -24,6 +24,5 @@ Pentru instrucțiuni, urmăriți un [videoclip audio descriptiv](https://aka.ms/
 
 **Mai multe resurse deosebite**
 
-- Consultați [Configurarea unei entități găzduite Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) pentru o prezentare generală.
-- Consultați [Introducere în Microsoft 365 Education](https://docs.microsoft.com/education/) pentru administratori, dezvoltatori și parteneri IT. 
-- [Asociați-vă contul Microsoft Store cu Intune pentru educație](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Consultați [Crearea contului de entitate găzduită Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) pentru o prezentare generală.
+- Consultați [Introducere în Microsoft 365 Education](https://docs.microsoft.com/education/) pentru administratori IT, dezvoltatori și parteneri.
