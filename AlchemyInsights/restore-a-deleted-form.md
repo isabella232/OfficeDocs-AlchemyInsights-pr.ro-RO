@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "41969707"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148049"
 ---
 # <a name="restore-a-deleted-form"></a>Restaurarea unui formular șters
 
-Dacă ați șters un formular în Microsoft Forms accidental, îl puteți recupera. Conectați-vă la Microsoft Forms ca proprietar al formularului șters. Selectați **Coșul**de reciclare , apoi selectați formularul pe care doriți să îl recuperați și selectați **Restaurare**. După restaurare, selectați săgeata **pagină Înapoi la pagina Formulare.**
+Dacă ați șters accidental un formular în Microsoft Forms, aveți posibilitatea să îl recuperați. Conectați-vă la Microsoft Forms ca proprietar al formularului șters. Selectați **Coșul de reciclare**, apoi selectați formularul pe care doriți să-l recuperați și selectați **Restaurare**. După restaurare, selectați săgeata **Înapoi la formulare.**
 
-Numai proprietarul formularului îl poate recupera. Dacă contul proprietarului formularului a fost dezactivat sau eliminat din entitategăzduită, numai Administratorul Global poate recupera formularul. Administratorul global trebuie să aibă o licență de formulare pentru a efectua o restaurare. Numai formularele create în termen de 30 de zile de la dezactivatul sau eliminarea contului de utilizator din entitatea găzduită pot fi restaurate.
+Numai proprietarul formularului îl poate recupera. Dacă contul proprietarului formularului a fost dezactivat sau eliminat din entitatea găzduită, numai administratorul global poate recupera formularul. Administratorul global trebuie să aibă o licență Formulare pentru a efectua o restaurare. Numai formularele create în termen de 30 de zile de la dezactivarea sau eliminarea contului de utilizator din entitatea găzduită pot fi restaurate.
 
-Dacă sunteți Administratorul global al entității găzduite și doriți să recuperați un formular dintr-un cont care a fost șters sau dezactivat, înlocuiți [adresa de e-mail] cu adresa **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com**de e-mail a utilizatorului șters sau dezactivat în următorul URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner=[adresă de e-mail]** De exemplu, dacă adresa de e-mail este johndoe@contoso.com, adresa URL ar fi: . 
+Dacă sunteți administratorul global al entității găzduite și doriți să recuperați un formular dintr-un cont care a fost șters sau dezactivat, înlocuiți [adresa de e-mail] cu adresa de e-mail a utilizatorului șters sau dezactivat în următorul URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [adresă de e-mail]** De exemplu, dacă adresa de e-mail este johndoe@contoso.com, URL-ul va fi: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-După ce aveți acces la formularele șterse ale utilizatorului, selectați formularul pe care doriți să-l mutați, apoi selectați **Mutare mai multe acțiuni** > formular **.**
+După ce aveți acces la formularele șterse ale utilizatorului, selectați formularul pe care doriți să-l mutați, apoi selectați **Mutare mai multe acțiuni formular**  >  **Move**.
 
-Dacă doriți să recuperați un formular în care a fost șters și utilizatorul a fost eliminat din organizație, un Administrator Global poate alege să recupereze utilizatorul în Office 365, reinițializați parola pentru acel utilizator, și apoi în timp ce conectat ca acel utilizator, accesați formularul pentru a-l muta la anot utilizatorul său activ. 
+Dacă doriți să recuperați un formular în care a fost șters și utilizatorul a fost eliminat din organizație, un administrator global poate alege să recupereze utilizatorul, să reinițialeze parola pentru acel utilizator, apoi, în timp ce este conectat ca utilizator, să acceseze formularul pentru a-l muta la un alt utilizator activ. 
