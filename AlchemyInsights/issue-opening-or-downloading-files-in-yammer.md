@@ -1,0 +1,36 @@
+---
+title: Problemă la deschiderea sau descărcarea fișierelor în Yammer
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6041"
+- "9003112"
+ms.openlocfilehash: 6dfcbe9abfc23219a61e81785d31c11f7a0fa95c
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148338"
+---
+# <a name="issue-opening-or-downloading-files-in-yammer"></a><span data-ttu-id="76e9f-102">Problemă la deschiderea sau descărcarea fișierelor în Yammer</span><span class="sxs-lookup"><span data-stu-id="76e9f-102">Issue opening or downloading files in Yammer</span></span>
+
+<span data-ttu-id="76e9f-103">Clasic Yammer acceptă mai multe opțiuni pentru încărcările de fișiere în mesaje și grupuri.</span><span class="sxs-lookup"><span data-stu-id="76e9f-103">Classic Yammer supports multiple option for file uploads to messages and groups.</span></span> <span data-ttu-id="76e9f-104">În funcție de configurația rețelei, fișierele sunt implicite pentru stocarea în SharePoint.</span><span class="sxs-lookup"><span data-stu-id="76e9f-104">Depending on network configuration, files default to storage in SharePoint.</span></span>
+
+<span data-ttu-id="76e9f-105">Selectorul de fișiere din noul Yammer nu acceptă încă toate opțiunile disponibile în Yammer clasic.</span><span class="sxs-lookup"><span data-stu-id="76e9f-105">The file picker in new Yammer does not yet support all the options available in classic Yammer.</span></span> <span data-ttu-id="76e9f-106">O actualizare viitoare va adăuga caracteristici suplimentare.</span><span class="sxs-lookup"><span data-stu-id="76e9f-106">A future update will add additional features.</span></span> <span data-ttu-id="76e9f-107">Pentru mai multe informații, consultați [Atașarea unui fișier sau a unei imagini la o postare de conversație Yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-post-8d2d17f7-8f37-4535-961e-518d751be7e8).</span><span class="sxs-lookup"><span data-stu-id="76e9f-107">For more info, see [Attach a file or image to a Yammer conversation post](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-post-8d2d17f7-8f37-4535-961e-518d751be7e8).</span></span>
+
+<span data-ttu-id="76e9f-108">**Imposibil de deschis sau descărcat un fișier**</span><span class="sxs-lookup"><span data-stu-id="76e9f-108">**Unable to open or download a file**</span></span>  
+
+<span data-ttu-id="76e9f-109">Este posibil ca un fișier să se încarce în Yammer, dar și să se conecteze la un fișier din SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="76e9f-109">A file might upload to Yammer but also be linking to a file in SharePoint Online.</span></span> <span data-ttu-id="76e9f-110">Pentru a depana, mai întâi trebuie să determinați locația fișierului.</span><span class="sxs-lookup"><span data-stu-id="76e9f-110">To troubleshoot, first you must determine the location of the file.</span></span> <span data-ttu-id="76e9f-111">Dacă fișierul a fost încărcat în Yammer, acesta va avea un URL \*.yammer.com.</span><span class="sxs-lookup"><span data-stu-id="76e9f-111">If the file has been uploaded to Yammer, it will have a \*.yammer.com URL.</span></span> <span data-ttu-id="76e9f-112">Asigurați-vă că adresele URL și IP necesare sunt deblocate.</span><span class="sxs-lookup"><span data-stu-id="76e9f-112">Ensure that required URLs and IP addresses are unblocked.</span></span> <span data-ttu-id="76e9f-113">Pentru mai multe informații, a se vedea blog post [Folosind greu codificate adrese IP pentru Yammer nu este recomandat](https://techcommunity.microsoft.com/t5/yammer-blog/using-hard-coded-ip-addresses-for-yammer-is-not-recommended/ba-p/276592).</span><span class="sxs-lookup"><span data-stu-id="76e9f-113">For more info, see the blog post [Using hard coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/yammer-blog/using-hard-coded-ip-addresses-for-yammer-is-not-recommended/ba-p/276592).</span></span>
+
+<span data-ttu-id="76e9f-114">Verificați dacă un utilizator care este, de asemenea, un administrator global poate descărca fișierul.</span><span class="sxs-lookup"><span data-stu-id="76e9f-114">Check whether a user who is also a global admin can download the file.</span></span> <span data-ttu-id="76e9f-115">Dacă fișierul este privat, poate fi necesar să utilizați Modul conținut privat.</span><span class="sxs-lookup"><span data-stu-id="76e9f-115">If the file is private, you might have to use Private Content Mode.</span></span> <span data-ttu-id="76e9f-116">Pentru mai multe informații, consultați [Monitorizarea conținutului privat în Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).</span><span class="sxs-lookup"><span data-stu-id="76e9f-116">For more info, see then [Monitor private content in Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).</span></span>  
+
+<span data-ttu-id="76e9f-117">**Oaspeți și fișiere la nivel de rețea Yammer în SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="76e9f-117">**Yammer network-level guests and files in SharePoint Online**</span></span>  
+
+<span data-ttu-id="76e9f-118">[Oaspeții de la nivel de rețea din Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#invite-guests) nu utilizează Azure AD B2B și sunt interni pentru serviciul Yammer, astfel încât nu pot accesa fișierele Yammer stocate în SharePoint.</span><span class="sxs-lookup"><span data-stu-id="76e9f-118">[Network-level guests in Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#invite-guests) do not use Azure AD B2B and are internal to the Yammer service, so they can't access Yammer files stored in SharePoint.</span></span> <span data-ttu-id="76e9f-119">Creați un utilizator AAD B2B extern care poate accesa biblioteci de documente în SharePoint Online utilizând acea identitate.</span><span class="sxs-lookup"><span data-stu-id="76e9f-119">Create an external AAD B2B user who can access document libraries in SharePoint Online by using that identity.</span></span> <span data-ttu-id="76e9f-120">Pentru informații despre viitoarea asistență pentru oaspeții Azure AD B2B în Yammer, consultați [Asistență pentru clienți de la afaceri la afaceri (B2B) în Yammer Preview - Termeni și întrebări frecvente pentru clienți.](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer)</span><span class="sxs-lookup"><span data-stu-id="76e9f-120">For information about future Azure AD B2B guest support in Yammer, see [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer).</span></span>
