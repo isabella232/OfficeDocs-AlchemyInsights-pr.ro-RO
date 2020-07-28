@@ -1,9 +1,9 @@
 ---
-title: Când se generează declarația de facturare?
+title: Când se generează extrasul de cont?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510404"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431229"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="dafe0-102">Când este generată instrucțiunea de facturare</span><span class="sxs-lookup"><span data-stu-id="dafe0-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="34aa6-102">Când este generată declarația de facturare</span><span class="sxs-lookup"><span data-stu-id="34aa6-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="dafe0-103">În fiecare lună veți primi un e-mail care vă spune că noua instrucțiune de facturare este disponibilă în centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="dafe0-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="dafe0-104">Factura conține două pagini.</span><span class="sxs-lookup"><span data-stu-id="dafe0-104">Your invoice contains two pages.</span></span> <span data-ttu-id="dafe0-105">Pagina 1 este rezumatul facturii și conține informații generale despre factură, comandă, sumă datorată, se face o plată și să contactați asistența.</span><span class="sxs-lookup"><span data-stu-id="dafe0-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="dafe0-106">Pagina 2 conține detalii despre activitatea de facturare pentru fiecare abonament.</span><span class="sxs-lookup"><span data-stu-id="dafe0-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="34aa6-103">Data extrasului este setată la ziua din lună de la crearea contului.</span><span class="sxs-lookup"><span data-stu-id="34aa6-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="34aa6-104">De exemplu, dacă v-ați creat contul pe data de 20 ianuarie, data extrasului este setată la data de 21 pentru fiecare lună următoare.</span><span class="sxs-lookup"><span data-stu-id="34aa6-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="34aa6-105">Taxele suplimentare care apar în timpul unui ciclu de facturare activ sunt incluse în factură pentru luna următoare.</span><span class="sxs-lookup"><span data-stu-id="34aa6-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="34aa6-106">Datele de început și de sfârșit ale ciclului de facturare pentru fiecare factură sunt listate în **Rezumatul facturării.**</span><span class="sxs-lookup"><span data-stu-id="34aa6-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="34aa6-107">Plățile cu cardul de credit și/sau contul bancar (dacă este cazul) sunt decontate a doua zi după **data facturii.**</span><span class="sxs-lookup"><span data-stu-id="34aa6-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="dafe0-107">Pentru a afla mai multe despre conceptele de facturare, consultați [Înțelegerea facturii](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="dafe0-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="34aa6-108">Pentru a afla mai multe, consultați [Înțelegerea facturii](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="34aa6-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
