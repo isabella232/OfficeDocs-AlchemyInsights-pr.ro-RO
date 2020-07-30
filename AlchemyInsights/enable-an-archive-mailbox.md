@@ -10,28 +10,30 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507038"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522747"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activarea unei cutii poștale de arhivă
 
-Arhiva cutiile poștale în Microsoft 365 (de asemenea, numit *Online Archives* sau *In-Place Archives)* oferi utilizatorilor cu stocare de e-mail suplimentare. Utilizatorii pot muta sau copia elemente în cutia poștală de arhivă, iar administratorii pot crea o politică de arhivă care mută automat elementele în arhivele cutiilor poștale.
+Dacă doriți să executăm verificări automate pentru a ne asigura că o cutie poștală de arhivă poate fi configurată, selectați butonul înapoi <-- în partea de sus a acestei pagini, apoi introduceți adresa de e-mail a contului.
+
+Arhivarea cutiilor poștale în Microsoft 365 (denumite și *Arhive online* sau *Arhive in-place)* oferă utilizatorilor spațiu de stocare suplimentar prin e-mail. Utilizatorii pot muta sau copia elemente în cutia poștală de arhivă, iar administratorii pot crea o politică de arhivare care mută automat elementele în cutiile poștale de arhivă.
   
-Iată se creează o cutie poștală de arhivă:
+Iată să creați o cutie poștală de arhivă:
   
-1. Du-te [https://protection.office.com](https://protection.office.com) la.
+1. Du-te la [https://protection.office.com](https://protection.office.com) .
 
 2. Conectați-vă la Microsoft 365 utilizând contul de administrator.
 
-3. În panoul din stânga al Centrului de &amp; conformitate a securității, selectați Arhivă **de guvernanță a informațiilor** \> **Archive**.
+3. În panoul din stânga al Centrului de &amp; conformitate de securitate, selectați Arhivă **guvernanță informații** \> **Archive**.
 
 4. Selectați utilizatorul a cărui cutie poștală de arhivă doriți să o activați.
 
-5. În panoul de detalii din dreapta, faceți clic pe **Activare,** apoi faceți clic pe **Da** în mesajul de avertizare pentru a activa cutia poștală arhivă.
+5. În panoul de detalii din dreapta, faceți clic pe **Activare,** apoi faceți clic pe **Da** în mesajul de avertizare pentru a activa cutia poștală de arhivă.
 
 De asemenea, aveți posibilitatea să activați în bloc cutiile poștale de arhivă selectând mai mulți utilizatori (utilizând tastele **Shift** sau **Ctrl),** apoi făcând clic pe **Activare** în panoul de detalii.
   
@@ -41,9 +43,9 @@ Pentru a activa arhiva pentru o cutie poștală partajată, este necesară o lic
 
 Pentru a activa arhiva pentru o cutie poștală partajată:
 
-1. Accesați centrul de [administrare Exchange](https://outlook.office365.com/ecp) și conectați-vă utilizând contul de administrator.
+1. Accesați [Centrul](https://outlook.office365.com/ecp) de administrare Exchange și conectați-vă utilizând contul de administrator.
 
-2. Accesați **Destinatari**  >  **partajati**.
+2. Salt la **Destinatari**  >  **partajați**.
 
 3. Selectați cutia poștală partajată.
 
