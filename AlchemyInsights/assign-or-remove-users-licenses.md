@@ -1,5 +1,5 @@
 ---
-title: Atribuirea sau eliminarea licențelor utilizatorilor
+title: Atribuirea sau eliminarea licențelor de utilizator
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506383"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603422"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="0602a-102">Atribuirea sau eliminarea licențelor utilizatorilor</span><span class="sxs-lookup"><span data-stu-id="0602a-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-user-licenses"></a><span data-ttu-id="b1253-102">Atribuirea sau eliminarea licențelor de utilizator</span><span class="sxs-lookup"><span data-stu-id="b1253-102">Assign or remove user licenses</span></span>
 
-<span data-ttu-id="0602a-103">Ca administrator, puteți ajusta licențele utilizatorilor după este necesar.</span><span class="sxs-lookup"><span data-stu-id="0602a-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="0602a-104">Articolele de mai jos vă vor arăta să gestionați licențele utilizatorilor, inclusiv:</span><span class="sxs-lookup"><span data-stu-id="0602a-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="b1253-103">Ca administrator, puteți ajusta licențele utilizatorilor după cum este necesar.</span><span class="sxs-lookup"><span data-stu-id="b1253-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="b1253-104">Aceste articole vă arată cum să vă gestionați licențele de utilizator:</span><span class="sxs-lookup"><span data-stu-id="b1253-104">These articles show you how to manage your user licenses:</span></span>
   
-- [<span data-ttu-id="0602a-105">Atribuirea licențelor utilizatorilor din Microsoft 365 pentru firme</span><span class="sxs-lookup"><span data-stu-id="0602a-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="b1253-105">Atribuirea de licențe pentru utilizatori în Microsoft 365 pentru firme</span><span class="sxs-lookup"><span data-stu-id="b1253-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [<span data-ttu-id="0602a-106">Anulați atribuirea licențelor de la utilizatori în Microsoft 365 pentru firme</span><span class="sxs-lookup"><span data-stu-id="0602a-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="b1253-106">Anularea atribuirii de licențe pentru utilizatori în Microsoft 365 pentru firme</span><span class="sxs-lookup"><span data-stu-id="b1253-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-<span data-ttu-id="0602a-107">Nu ți-ai răspuns la întrebare?</span><span class="sxs-lookup"><span data-stu-id="0602a-107">Didn't answer your question?</span></span> <span data-ttu-id="0602a-108">Nici o problemă!</span><span class="sxs-lookup"><span data-stu-id="0602a-108">No problem!</span></span> <span data-ttu-id="0602a-109">Utilizați butonul "Aveți nevoie de ajutor" pentru a discuta cu un inginer de asistență.</span><span class="sxs-lookup"><span data-stu-id="0602a-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="b1253-107">Nu ați răspuns la întrebarea dvs.?</span><span class="sxs-lookup"><span data-stu-id="b1253-107">Didn't answer your question?</span></span> <span data-ttu-id="b1253-108">nicio problemă!</span><span class="sxs-lookup"><span data-stu-id="b1253-108">No problem!</span></span> <span data-ttu-id="b1253-109">Utilizați butonul "aveți nevoie de ajutor" pentru a discuta cu un inginer de asistență.</span><span class="sxs-lookup"><span data-stu-id="b1253-109">Use the "Need help" button to talk to a support engineer.</span></span>
