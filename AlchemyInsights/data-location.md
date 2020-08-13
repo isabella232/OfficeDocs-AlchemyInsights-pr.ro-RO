@@ -1,5 +1,5 @@
 ---
-title: Locația datelor
+title: Locație date
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655294"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665510"
 ---
-# <a name="data-location"></a>Locația datelor
+# <a name="data-location"></a>Locație date
 
-Puteți vizualiza locația entității găzduite în centrul de administrare sau conectându-vă la Exchange Online prin PowerShell.
+Puteți vizualiza locația entității găzduite în centrul de administrare, navigând la pagina de [ **profil a Organizației** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) și selectând **locația de date**.
 
-
-**Centru de administrare:**
-1. Conectați-vă la centrul de [administrare](https://admin.microsoft.com/Adminportal/Home).
-2. Selectaþi Profil**organizare** **setãri** > .
-3. Sub **Locație date**, selectați Vizualizare **detalii**.
-
-
-**Powershell:**
-1. Conectați-vă la Exchange Online utilizând Windows PowerShell.
-2. Executați cmdletul [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) pentru a afișa o listă a proprietăților entității găzduite. 
-3. Uită-te la proprietatea OrganizationId.
-
-Când aveți locația de date pentru EXO și SPO, puteți determina locația de date pentru alte servicii pe care le puteți utiliza din [Locul în care se află datele dvs.](https://products.office.com/where-is-your-data-located)
+Pentru aplicațiile la care nu sunteți abonat, consultați [unde sunt stocate datele Microsoft 365 pentru clienți](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
