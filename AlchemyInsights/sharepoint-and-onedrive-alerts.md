@@ -1,7 +1,7 @@
 ---
-title: Întârzieri în primirea alertelor SharePoint și OneDrive
-ms.author: v-todmc
-author: todmccoy
+title: Întârzieri în primirea avertizărilor în SharePoint și OneDrive
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563522"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785677"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Întârzieri în primirea alertelor SharePoint și OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Întârzieri în primirea avertizărilor în SharePoint și OneDrive
 
-- Mai întâi verificați folderul Nedorit sau spam din e-mail.
-- Dacă **toate alertele din mai multe fișiere sau biblioteci sunt întârziate**, vizitați [tabloul de bord Sănătate serviciu](https://portal.office.com/adminportal/home?ref=/servicehealth) pentru a verifica orice recomandări/incidente care pot apărea cu SharePoint sau Exchange. Problema poate fi cu capacitatea de alertă SharePoint sau întârzieri în e-mailuri prin Exchange. De asemenea, rețineți dacă se livrează alt e-mail - dacă nu, problema este probabil cu întârzieri Exchange.
-- Dacă **nu este livrată o avertizare individuală dintr-un anumit fișier sau bibliotecă,** încercați să o ștergeți și să o creați din nou. Consultați [Gestionarea, vizualizarea sau ștergerea alertelor SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) pentru a recrea alerta.
+- Mai întâi, Verificați folderul junk sau spam din e-mailul dvs.
+- Dacă **toate avertizările din mai multe fișiere sau biblioteci sunt întârziate**, vizitați [tabloul de bord stare servicii](https://portal.office.com/adminportal/home?ref=/servicehealth) pentru a căuta orice recomandări/incidente care pot apărea cu SharePoint sau Exchange. Problema poate fi cu capacitatea de avertizare SharePoint sau cu întârzieri în mesajele de e-mail prin Exchange. De asemenea, rețineți dacă este livrat alt e-mail-dacă nu, problema este probabilă cu întârzieri în Exchange.
+- Dacă **nu este livrată o avertizare individuală de la un anumit fișier sau bibliotecă**, încercați să o ștergeți și să o creați din nou. Consultați [gestionarea, vizualizarea sau ștergerea avertizărilor SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) pentru a crea din nou avertizarea.
 
 > [!NOTE]
-> - Alertele nu pot fi trimise către un grup de distribuire. Sunt acceptate numai grupurile Security și O365.
-> - Nu aveți posibilitatea să particularizați șabloanele de e-mail de avertizare. Trebuie să utilizați Microsoft Flow sau SharePoint Designer Flux de lucru pentru a obține cele.
+> - Avertizările nu pot fi trimise unui grup de distribuire. Sunt acceptate doar grupurile de securitate și O365.
+> - Nu puteți personaliza șabloanele de e-mail de avertizare. Trebuie să utilizați fluxul de lucru Microsoft Flow sau SharePoint Designer pentru a le atinge.
