@@ -1,7 +1,7 @@
 ---
-title: Căutare hibridă și federată
-ms.author: v-todmc
-author: todmccoy
+title: Căutare hibridă și federativă
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768991"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787189"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="d2217-102">Căutări hibride și federalizate</span><span class="sxs-lookup"><span data-stu-id="d2217-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="cc771-102">Căutările hibride și federative</span><span class="sxs-lookup"><span data-stu-id="cc771-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="d2217-103">Pentru informații despre hibrid și federalizate căutare în SharePoint Online, consultați [hibrid de căutare în SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="d2217-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="cc771-103">Pentru informații despre căutarea hibridă și federativă în SharePoint Online, consultați [Căutare hibridă în SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="cc771-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="d2217-104">Pentru informații despre planificarea căutării federalizate hibrid, consultați [planul de căutare federalizate hibrid pentru SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="d2217-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="cc771-104">Pentru informații despre planificarea căutării federative hibride, consultați [Planificarea căutării federative hibride pentru SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="cc771-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
