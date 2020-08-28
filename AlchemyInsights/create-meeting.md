@@ -1,5 +1,5 @@
 ---
-title: Creare întâlnire
+title: Programarea unei întâlniri în teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105359"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290067"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Programarea unei întâlniri în Echipe
+# <a name="schedule-a-meeting-in-teams"></a>Programarea unei întâlniri în teams
 
-**Important:** Dacă aveți probleme la crearea unei întâlniri sau nu găsiți opțiunea de întâlnire în Echipe, asigurați-vă că utilizatorii afectați [sunt licențiați pentru o cutie poștală Exchange Online și cutia poștală este activată](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+**Important** Dacă aveți probleme la crearea unei întâlniri sau nu puteți găsi opțiunea întâlnirii în teams, asigurați-vă că utilizatorii afectați au o cutie poștală Exchange activată pentru o versiune acceptată pentru Microsoft teams. În timp ce se recomandă Exchange Online, cutiile poștale locale Exchange sunt acceptate pe Exchange Server 2016 CU3 sau o versiune mai recentă, cu OAuth configurat cu succes între online și local. Pentru mai multe informații, consultați [Crearea cutiilor poștale de utilizator în Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) și [a cerințelor pentru cutiile poștale găzduite local](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Aveți posibilitatea să programați o întâlnire în două moduri: 
+1. Puteți să programați o întâlnire selectând:
 
-- Selectați pictograma **Programare întâlnire într-o** conversație (aceasta este sub caseta de compunere) pentru a rezerva o întâlnire cu persoanele din chat.
-- Selectați pictograma **Calendar** din partea stângă a aplicației și selectați **Întâlnire nouă** în dreapta sus, fie selectați o zonă de timp din calendar pentru a deschide un formular de planificare.
+    - **Planificați o** pictogramă de întâlnire într-un chat de sub caseta de compunere pentru a rezerva o întâlnire cu persoanele din chat.
 
-Similar cu programarea unei întâlniri în Outlook, veți da întâlnirii un titlu, vă veți invita persoane și veți adăuga detalii despre întâlniri.
+    - Pictograma **Calendar** din partea stângă a aplicației. Fie selectați **întâlnire nouă** în partea din dreapta sus, fie selectați un interval de timp din calendar pentru a deschide un formular de planificare.
 
-În partea dreaptă a formularului de planificare, puteți adăuga un canal sau persoane individuale sau puteți lăsa ambele necompletate pentru a programa o rezervare privată.
+2. Similar cu planificarea unei întâlniri în Outlook, veți oferi întâlnirii un titlu, invita persoane și adăuga detalii despre întâlniri.
 
-- Pentru mai multe informații despre crearea și programarea întâlnirilor în Microsoft Teams, consultați [Programarea unei întâlniri în Echipe](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. În partea dreaptă a formularului de planificare, puteți să adăugați un canal sau persoane individuale sau să lăsați necompletat pentru a programa o rezervare privată.
 
-- Pentru limite și specificații pentru întâlniri, consultați [Limite și specificații pentru Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Pentru mai multe informații despre crearea și planificarea întâlnirilor în Microsoft teams, consultați [programarea unei întâlniri în teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Pentru mai multe informații despre limite și specificații pentru întâlniri, consultați [limite și specificații pentru Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Pentru ajutor la depanarea echipelor și a interacțiunilor Exchange, mai ales pentru problemele legate de planificarea delegațiilor, consultați [Depanarea problemelor Microsoft teams și Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

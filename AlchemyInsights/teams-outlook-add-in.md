@@ -1,5 +1,5 @@
 ---
-title: Program de completare Echipe Outlook
+title: Programul de completare Outlook teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702218"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290031"
 ---
-# <a name="teams-outlook-add-in"></a>Program de completare Echipe Outlook
+# <a name="teams-outlook-add-in"></a>Programul de completare Outlook teams
 
-Pentru a depana un program de completare Lipsă Teams Outlook, mai întâi asigurați-vă că executați Serviciul de diagnosticare aici, în Portalul de administrare.  Dacă service Diagnostic nu indică probleme, continuați să descărcați și să executați programul **de completare Outlook** pentru Asistentul [de asistență și recuperare Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) pe mașinile de utilizator afectate pentru a diagnostica și corecta orice probleme cu clientul.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Pentru a depana un program de completare Outlook teams lipsă
 
-Pentru a depana manual problema, examinați lista de factori potențiali care ar putea determina ca programul de completare Echipe să nu apară [listat aici](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Rulează diagnosticare serviciu în portalul de administrare. 
+2. Dacă diagnosticare serviciu nu indică nicio problemă, diagnosticați și corectați problemele cu clientul în mașinile de utilizator afectate, descărcând și rulând scenariul de program de completare Outlook pentru [asistență și recuperare](https://aka.ms/SaRA-TeamsAddInScenario)  >  **teams**.
+
+Pentru a depana manual un program de completare Outlook teams dispărut, examinați lista de potențiali factori care pot determina ca programul de completare teams să nu apară listat. Pentru mai multe informații, consultați [programarea întâlnirii teams în Outlook pentru Windows nu se afișează](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Pentru a depana planificarea unei întâlniri teams în numele altei persoane (delegat)
+
+Pentru a planifica o întâlnire teams în numele altei persoane, consultați [Depanarea problemelor de interacțiune Microsoft teams și Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
