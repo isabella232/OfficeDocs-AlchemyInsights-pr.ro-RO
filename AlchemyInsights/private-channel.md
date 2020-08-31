@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005450"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316211"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Canale private în Microsoft Teams
+# <a name="private-channels-in-microsoft-teams"></a>Canale private în Microsoft teams
 
-Canalele private este o caracteristică nouă în Microsoft Teams. Rețineți că canalele private nu pot fi convertite din canale standard sau invers.
+Canalele private din Microsoft teams creează spații prioritare pentru colaborarea în cadrul echipelor. Doar utilizatorii din echipă, care sunt proprietari sau membri ai canalului privat, pot accesa canalul. Oricine poate fi adăugat ca membru al unui canal privat, chiar și invitații cu condiția să fie deja membri ai echipei.
 
-Pentru detalii despre canalele private, ar fi informații despre [crearea canalelor private și calitatea de membru](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) și [site-urile SharePoint de canale private](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), consultați Canale private în Microsoft [Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+Pentru a afla mai multe, începeți cu [canalele private din Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Printre acestea se numără informații, cum ar fi [crearea canalelor private și](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) site-urile de apartenență și [canal privat SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**Notã:** Deoarece configurarea pentru păstrarea mesajelor de canal privat nu este încă acceptată, entitățile găzduite cu politicile de conservare activate nu vor avea canale private activate în mod implicit. Canalele private pot fi activate în centrul de administrare Teams. De asemenea, rețineți că, în timp ce păstrarea mesajelor de canal privat nu este acceptată, păstrarea fișierelor partajate în canale private este acceptată.
+**Aveți nevoie de un nou proprietar de echipă?**
 
-**Ai nevoie de un nou proprietar de echipă?**
+Dacă proprietarul canalului privat părăsește organizația sau este eliminat din grup, un membru al canalului privat este promovat automat ca proprietar al canalului privat.
 
-Dacă proprietarul canalului privat pleacă, poți adăuga un nou proprietar de echipă prin Teams Powershell.
-
-
-- Du-te [aici](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) pentru a instala Echipe Powershell.
-
-Aici este cmdlet-ul veți avea nevoie de:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Pentru mai multe informații despre Teams Powershell, consultați [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Administratorii pot vedea, de asemenea, [gestionarea ciclului de viață al canalelor private în Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) pentru a afla mai multe despre politicile de gestionare a persoanelor care pot crea canale private, precum și modalități de a ajuta la construirea interogărilor pentru descoperirea informațiilor electronice sau a reținerii legale.
