@@ -1,5 +1,5 @@
 ---
-title: Microsoft amenințare de protecție
+title: Protecția împotriva amenințărilor Microsoft
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277941"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406446"
 ---
-# <a name="microsoft-threat-protection"></a>Microsoft amenințare de protecție
+# <a name="microsoft-threat-protection"></a>Protecția împotriva amenințărilor Microsoft
 
 - [Prezentare generală MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Cerințe preliminare](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Cerințe de licență](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Cum-pentru a activa MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Cum să activați MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [Depanare MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-să verificați licențierea: trebuie să fiți atribuit fie rolul de administrator de facturare sau Global Reader în Azure AD pentru a vizualiza licența. Accesați centrul de [administrare](https://admin.microsoft.com/) și navigați la**licențele** de **Facturare** > pentru a vizualiza licențele existente.
+Cum se verifică licențierea: trebuie să vi se atribuie fie administratorul de facturare, fie rolul de cititor global din Azure AD pentru a vizualiza licența. Accesați centrul de [administrare](https://admin.microsoft.com/) și navigați la **Billing**  >  **licențe** de facturare pentru a vizualiza licențele existente.
