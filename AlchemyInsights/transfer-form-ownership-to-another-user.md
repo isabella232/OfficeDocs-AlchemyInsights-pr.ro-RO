@@ -1,25 +1,26 @@
 ---
-title: Transferă calitatea de proprietar de forma unui alt utilizator
+title: Transferul dreptului de proprietate asupra unui alt utilizator
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 6c975955b596a0c8ab2693aa73074ad7c86913e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507211"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700143"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="1e933-102">Transferă calitatea de proprietar a unui formular de Microsoft</span><span class="sxs-lookup"><span data-stu-id="1e933-102">Transfer ownership of a Microsoft Form</span></span>
+# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="ab6d9-102">Transferul dreptului de proprietate asupra unui formular Microsoft</span><span class="sxs-lookup"><span data-stu-id="ab6d9-102">Transfer ownership of a Microsoft Form</span></span>
 
-<span data-ttu-id="1e933-103">Aveţi posibilitatea să mutaţi un sondaj, test sau sondaj în Microsoft Forms la un grup astfel încât toată lumea în grup devine proprietarii de acel formular.</span><span class="sxs-lookup"><span data-stu-id="1e933-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="1e933-104">Puteţi transfera, de asemenea, forma de proprietate pentru un alt utilizator în cazul în care proprietarul anterior a părăsit această organizaţie.</span><span class="sxs-lookup"><span data-stu-id="1e933-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
+<span data-ttu-id="ab6d9-103">Puteți muta o anchetă, un test sau un sondaj în Microsoft Forms într-un grup, astfel încât toate persoanele din grupul dumneavoastră să devină proprietarii acelui formular.</span><span class="sxs-lookup"><span data-stu-id="ab6d9-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="ab6d9-104">De asemenea, puteți să transferați proprietatea formular altui utilizator, dacă proprietarul anterior a părăsit organizația.</span><span class="sxs-lookup"><span data-stu-id="ab6d9-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
 
-<span data-ttu-id="1e933-105">Pentru informaţii suplimentare, consultaţi [transfera dreptul de proprietate asupra unui formular](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span><span class="sxs-lookup"><span data-stu-id="1e933-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
+<span data-ttu-id="ab6d9-105">Pentru mai multe informații, consultați [transferul dreptului de proprietate asupra unui formular](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span><span class="sxs-lookup"><span data-stu-id="ab6d9-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
