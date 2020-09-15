@@ -1,26 +1,27 @@
 ---
-title: Implementare avansată Prinde toate regula
+title: Implementare complexă captură toate regulile
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580863"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696704"
 ---
-# <a name="deploy-microsoft-365-apps"></a><span data-ttu-id="4a7a6-102">Implementarea aplicațiilor Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="4a7a6-102">Deploy Microsoft 365 apps</span></span>
+# <a name="deploy-microsoft-365-apps"></a><span data-ttu-id="c564d-102">Implementarea aplicațiilor Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c564d-102">Deploy Microsoft 365 apps</span></span>
 
-<span data-ttu-id="4a7a6-103">Pentru implementarea aplicațiilor Microsoft 365 către mai mulți utilizatori finali prin intermediul instrumentului de implementare Office, Microsoft Endpoint Configuration Manager, ca parte a unei imagini de disc a sistemului de operare sau într-un scenariu de computer partajat utilizând Windows Server cu Remote Desktop Services (RDS) sau Terminal Services, luați în considerare utilizarea ghidului pas cu pas în **Microsoft 365 Apps for enterprise deployment advisor**.</span><span class="sxs-lookup"><span data-stu-id="4a7a6-103">For deploying Microsoft 365 apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
+<span data-ttu-id="c564d-103">Pentru implementarea aplicațiilor Microsoft 365 la mai mulți utilizatori finali prin intermediul instrumentului de implementare Office, Microsoft Endpoint Configuration Manager, ca parte a unei imagini de disc a sistemului de operare sau într-un scenariu de computer partajat, utilizând Windows Server cu servicii Desktop la distanță (RDS) sau Terminal Services, luați în considerare utilizarea ghidului pas cu pas în **Microsoft 365 Apps for Enterprise Deployment Advisor**.</span><span class="sxs-lookup"><span data-stu-id="c564d-103">For deploying Microsoft 365 apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
   
-<span data-ttu-id="4a7a6-104">Pentru a începe, asigurați-vă că v-ați conectat ca administrator de entitate găzduită sau administrator global, apoi faceți clic aici: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .</span><span class="sxs-lookup"><span data-stu-id="4a7a6-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
+<span data-ttu-id="c564d-104">Pentru a începe, asigurați-vă că sunteți conectat ca administrator al entității găzduite sau ca administrator global, apoi faceți clic aici: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .</span><span class="sxs-lookup"><span data-stu-id="c564d-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
   
