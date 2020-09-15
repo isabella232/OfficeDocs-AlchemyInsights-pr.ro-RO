@@ -6,29 +6,30 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766181"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698874"
 ---
 # <a name="winsock-error-10061"></a>Eroare Winsock 10061
 
-Acest cod de eroare înseamnă că Microsoft nu a putut stabili un socket TCP (conexiune) cu gazda țintă. Cauza cea mai probabilă a acestei erori este o problemă cu configurația paravanului de protecție. Pentru a remedia problema, verificați aceste setări:
+Acest cod de eroare înseamnă că Microsoft nu a putut stabili un socket TCP (o conexiune) cu gazda țintă. Cauza cea mai probabilă a acestei erori este o problemă cu Configurarea paravanului de protecție. Pentru a remedia problema, Verificați aceste setări:
 
-- Verificați configurația paravanului de protecție cu informațiile din [url-urile Microsoft 365 și intervalele de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Verificați configurația paravanului de protecție cu informațiile din [Microsoft 365 URL-uri și intervalele de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Dacă eroarea este specifică Exchange Online Protection (EOP), ar fi trebuit să fi fost notificat anterior la o modificare a [adreselor IP Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Dacă eroarea este specifică pentru Exchange Online Protection (EOP), ar fi trebuit să fiți notificat anterior unei modificări la [adresele IP Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-- Verificați că furnizorul de servicii Internet (ISP) nu blochează portul.
+- Verificați dacă furnizorul de servicii Internet (ISP) nu blochează portul.
 
-- Verificați setările inteligente de gazdă și server țintă în conectori.
+- Verificați setările Smart Host și server țintă din conectori.
 
-Rețineți că Microsoft 365 nu blochează *conexiunile primite* în acest mod.
+Rețineți că Microsoft 365 nu blochează conexiunile de *intrare* în acest mod.

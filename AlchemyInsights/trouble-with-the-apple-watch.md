@@ -1,35 +1,36 @@
 ---
-title: Probleme cu Apple Watch-ul
+title: Probleme cu Apple Watch
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: 131b21469e189c0db2d4c88a1f90cecffe1315f4
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288310"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700035"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Probleme cu Apple Watch-ul
+# <a name="trouble-with-the-apple-watch"></a>Probleme cu Apple Watch
 
 Dacă întâmpinați probleme la utilizarea Outlook pe Apple Watch, iată câțiva pași de depanare: 
 
-1. Accesează aplicația Vizionare de pe iPhone.
+1. Accesați aplicația Watch de pe iPhone.
 
 2. Defilați la aplicația Outlook.
 
-3. Comută "Afișează aplicația pe Apple Watch" la **DEZACTIVAT** pentru a dezinstala.
+3. Comutați "Afișare aplicație pe Apple Watch" pentru a **dezactiva** pentru a dezinstala.
 
-4. Comută "Afișează aplicația pe Apple Watch" la **ACTIVAT** pentru a fi reinstalată pe Ceas.
+4. Comutați "Afișare aplicație pe Apple Watch" la **activat** pentru a reinstala în ceas.
 
-5. Lansați aplicația Outlook pe Apple Watch și așteptați ca datele să se sincronizeze cu cele mai recente. 
+5. Lansați aplicația Outlook pe Apple Watch și așteptați ca datele să se sincronizeze la cele mai recente. 
 
-Dacă problema nu este rezolvată, echipa de asistență ar fi fericită să ajute. Accesați **Setări > Ajutor & feedback > Contactați asistența**. 
+Dacă problema nu este rezolvată, echipa de asistență ar fi bucuroasă să vă ajute. Accesați **setări > ajutor & Feedback > contactați asistența**. 
