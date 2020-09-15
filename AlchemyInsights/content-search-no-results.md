@@ -1,29 +1,30 @@
 ---
-title: Conţinut fără rezultate
+title: Căutare conținut niciun rezultat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516791"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680659"
 ---
-# <a name="no-results-from-content-searchexports"></a>Nici un rezultat la conţinut căutare/exporturilor
+# <a name="no-results-from-content-searchexports"></a>Niciun rezultat din căutarea de conținut/exporturi
 
-Probleme cu conţinut căutare/exporturile nu reveni orice date se poate datora anumitor filtru de securitate a conformității care a fost de configurare de un Admin specifice şi nu se comunică la toate administratori.
+Probleme cu căutarea de conținut/exporturile care nu returnează date pot fi cauzate de un anumit filtru de securitate de conformitate care a fost configurat de un anumit administrator și nu l-a comunicat tuturor administratorilor.
 
-Pentru a rezolva acest lucru, verificaţi pentru a vedea dacă există orice conformitatea filtrele de securitate care poate fi cauza acest lucru:
-1. Conecta la securitatea şi conformitatea centrul Powershell
-2. Executaţi comenzile următoare:
+Pentru a rezolva acest lucru, Verificați dacă există filtre de securitate conformității care pot provoca acest lucru:
+1. Conectarea la centrul de securitate și conformitate PowerShell
+2. Rulează următorul commandlet:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-organizare $org
+<br>Get-ComplianceSecurityFilter-organizație $org

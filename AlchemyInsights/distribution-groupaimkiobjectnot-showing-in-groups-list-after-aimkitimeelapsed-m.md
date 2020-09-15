@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715054"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679813"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupul de distribuire "{AimKIObject}" nu se afișează în listă grupuri după {AimKITimeElapsed} minute
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupul de distribuire "{AimKIObject}" nu se afișează în lista grupuri după {AimKITimeElapsed} minute
 
-Grupul "{AimKIObject}" a fost creat acum câteva minute. În mod normal, nu durează mai mult de 60 de minute pentru ca noul grup de distribuire să apară în centrul de administrare.
+Grupul dumneavoastră "{AimKIObject}" a fost creat în urmă cu {AimKITimeElapsed} minute. În mod normal, nu durează mai mult de 60 de minute pentru ca noul grup de distribuire să apară în centrul de administrare.
   
-Este posibil să utilizați caracteristica Destinatari > grupuri din [Centrul de administrare Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) pentru a gestiona grupul acum sau să utilizați opțiunea "Să vă sunăm" pentru a discuta cu un inginer de asistență. 
+Este posibil să puteți utiliza caracteristica destinatari > grupuri în centrul de [administrare Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) pentru a vă gestiona grupul acum sau utilizați opțiunea "Permiteți-ne să vă apelăm" pentru a discuta cu un inginer de asistență. 
   

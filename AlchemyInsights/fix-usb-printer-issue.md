@@ -5,38 +5,39 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 5d961d2f1ad68a22782cefb45d70cd23f6912f0a
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744708"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677507"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Remedierea problemelor de conexiune cu imprimanta USB
+# <a name="fix-usb-printer-connection-issues"></a>Remedierea problemelor de conexiune la imprimanta USB
 
-Încercați acești **pași de depanare** pentru a vă face imprimanta USB să funcționeze din nou:
+Încercați acești **pași de depanare** pentru a obține din nou imprimanta USB:
 
-1. Opriți imprimanta și deconectați cablul USB de la PC și de la imprimantă.
-2. Verificați cablul pentru a vă asigura că nu există deteriorări.
+1. Dezactivați imprimanta și deconectați cablul USB de la PC și de la imprimantă.
+2. Inspectați cablul pentru a vă asigura că nu există nicio deteriorare.
 3. Conectați cablul înapoi la PC și la imprimantă.
 
 Dacă acest lucru nu funcționează, încercați să **eliminați și să reinstalați imprimanta USB**:
 
-1. Eliminați imprimanta în Setări:
+1. Eliminați imprimanta din Setări:
     1. Deconectați cablul USB al imprimantei de la PC.
-    2. Selectați **Start** > **Setări** > **** dispozitive > **imprimante & scanere**.
+    2. Selectați **Start**  >  **Setări**pornire  >  **Devices**  >  **imprimante & scanere**.
     3. Sub **imprimante & scanere**, selectați imprimanta pe care o depanați. Selectați **Eliminare dispozitiv**. Urmați instrucțiunile pentru a elimina complet imprimanta.
-2. Eliminați orice software de producător terț de imprimantă:
-    1. Selectați**aplicații**de **pornire** > **Setări** > .
-    2. Sub **aplicații & caracteristici**, defilați pentru a găsi orice software instalat de la producătorul imprimantei (cum ar fi HP, Canon sau Epson).
-    3. Selectați software-ul și selectați **Dezinstalare**.
-3. Dezactivați și reporniți imprimanta.<br>
-    1. Opriți imprimanta și deconectați cablul de alimentare. Așteaptă 30 de secunde. Conectați imprimanta la loc.
-    2. Conectați cablul USB al imprimantei înapoi la PC. PC-ul ar trebui să înregistreze automat că dispozitivul a fost conectat.
+2. Eliminați orice software de producător de imprimantă de la terți:
+    1. Selectați **aplicații pornire**  >  **Setări**  >  **Apps**.
+    2. Sub **caracteristici & aplicații**, defilați pentru a găsi orice software instalat de la producătorul imprimantei (cum ar fi HP, Canon sau Epson).
+    3. Selectați software-ul și **selectațidezinstalare.**
+3. Opriți și reporniți imprimanta.<br>
+    1. Închideți imprimanta și deconectați cablul său de alimentare. Așteptați 30 de secunde. Conectați din nou imprimanta.
+    2. Conectați cablul USB al imprimantei înapoi la PC. PC-ul trebuie să se înregistreze automat că dispozitivul a fost conectat.
 4. Încercați să imprimați din nou.
