@@ -1,21 +1,22 @@
 ---
-title: Calendarul 400 - FreeBusy
+title: Calendar 400-Liberocupat
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711859"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684062"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Probleme la vizualizarea informațiilor liber/ocupat din calendar
 
-Dacă nu vedeți informații le si ocupate în calendare Outlook sau dacă alte persoane nu pot vedea informațiile liber/ocupat în calendar, utilizați [Asistentul de asistență și recuperare Microsoft pentru Microsoft 365](https://diagnostics.office.com/).
+Dacă nu vedeți informațiile liber/ocupat din calendar în alte calendare Outlook sau dacă alte persoane nu pot vedea informațiile liber/ocupat din calendar, utilizați [Asistentul de recuperare și asistență Microsoft pentru microsoft 365](https://diagnostics.office.com/).

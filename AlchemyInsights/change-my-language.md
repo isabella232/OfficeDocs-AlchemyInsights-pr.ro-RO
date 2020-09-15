@@ -1,35 +1,36 @@
 ---
-title: Modificarea limbii mele
+title: Modificarea limbii
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286181"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682982"
 ---
-# <a name="change-my-language"></a>Modificarea limbii mele
+# <a name="change-my-language"></a>Modificarea limbii
 
 Aplicația Outlook este tradusă automat în limba la care este setat dispozitivul. 
 
-(Vedeți o [listă de limbi acceptate în Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(Consultați o [listă de limbi acceptate în Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**Pentru a schimba limba de pe dispozitiv:** 
+**Pentru a schimba limba pe dispozitivul dvs**.: 
 
 **Pe Android**: 
 
-- Setări dispozitiv > Limbă și introducere 
+- Setările dispozitivului > limbă și intrare 
 
 **Pe iOS**: 
 
-- Setări dispozitiv > Regiune generală > limbă & 
+- Setările dispozitivului > > de limbă generală & regiune 

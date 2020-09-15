@@ -1,11 +1,12 @@
 ---
-title: 8000050 Nu mă pot conecta la Outlook.com
+title: 8000050 nu se poate conecta la Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,20 +15,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2406119592ea295f793570db4e95c43058e107e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711607"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683810"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nu mă pot conecta sau uita parola
+# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nu mă pot conecta sau mi-am uitat parola
 
-Dacă întâmpinați probleme la conectarea la alt cont, este posibil ca contul să fie blocat temporar, deoarece am observat o activitate neobișnuită de conectare. Dacă contul este blocat, consultați [Deblocarea contului meu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Dacă întâmpinați probleme la conectarea la alt cont, este posibil ca contul să fie blocat temporar, deoarece am observat o activitate neobișnuită de conectare. Dacă aveți contul blocat, consultați [deblocarea contului meu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Dacă v-ați uitat parola, aveți posibilitatea să [resetați parola](https://go.microsoft.com/fwlink/p/?linkid=841909).
+Dacă ați uitat parola, vă puteți [reseta parola](https://go.microsoft.com/fwlink/p/?linkid=841909).
   
-Dacă suspectați că contul Outlook.com a fost spart, consultați [Contul meu Outlook.com a fost spart.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)
+Dacă suspectați că v-a fost spart contul Outlook.com, consultați [contul meu Outlook.com a fost spart](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Citiți mai multe despre [Când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).
+Citiți mai multe despre [atunci când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).
   
