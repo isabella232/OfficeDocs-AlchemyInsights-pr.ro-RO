@@ -1,9 +1,10 @@
 ---
-title: Utilizatorul extern nu poate accesa conținutul
+title: Utilizatorul extern nu poate accesa conținut
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 1702dcbf833b5f320620f9f6cc2f84aa3ab4c1d3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788642"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708623"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Utilizatorul extern nu poate accesa conținutul SharePoint sau OneDrive
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Utilizatorii externi nu pot accesa conținutul SharePoint sau OneDrive
 
-Dacă un utilizator extern a fost invitat și nu poate accesa conținutul, încercați să vizitați linkurile de mai jos:
+Dacă un utilizator extern a fost invitat și nu poate accesa conținut, încercați să vizitați linkurile de mai jos:
 
-- [Utilizatorii externi primesc erori de permisiune la accesarea unui site](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Politicile organizației dvs.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Utilizatorii externi primesc erori de permisiune atunci când accesează un site](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Eroarea "politicile organizației dumneavoastră nu vă permit să partajați cu acești utilizatori" atunci când partajați un element sau un site în SharePoint Online sau OneDrive pentru Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [Opțiunile de partajare sunt estompate atunci când partajați din SharePoint Online sau OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
