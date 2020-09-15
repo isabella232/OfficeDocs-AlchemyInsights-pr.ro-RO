@@ -1,11 +1,12 @@
 ---
-title: 1488-perform-eDiscovery-and-content-searches 1488-perform-eDiscovery-and-content-căutări
+title: 1488-efectuarea-eDiscovery-and-Content-căutări
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510188"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721458"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>se efectuează căutările de conținut și căutările eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cum se efectuează căutările de conținut și căutările eDiscovery
 
-Utilizați instrumentul Căutare conținut din Centrul de securitate & conformitate pentru a găsi rapid e-mail în cutiile poștale Exchange, documentele din site-urile SharePoint și contul OneDrive și conversațiile de mesagerie instant din Skype for Business. De asemenea, puteți utiliza Instrumentul de căutare a conținutului pentru a căuta conversații de e-mail, documente și mesagerie instant în instrumente de colaborare Microsoft 365, ar fi Microsoft Teams și Microsoft 365 Groups.
+Utilizați instrumentul de căutare a conținutului din centrul de conformitate & de securitate pentru a găsi rapid e-mailuri în cutiile poștale Exchange, documente în site-uri SharePoint și în contul OneDrive și conversații prin mesagerie instantanee în Skype for Business. De asemenea, puteți utiliza instrumentul de căutare a conținutului pentru a căuta mesaje de e-mail, documente și conversații prin mesagerie instantanee în instrumente de colaborare Microsoft 365, cum ar fi Microsoft teams și Microsoft 365 groups.
 
 **Pentru a efectua o căutare de conținut**
 
-1. Accesați [Centrul de conformitate & de securitate](https://protection.office.com) și conectați-vă.
-2. Faceți clic pe **Căutare > Căutare conținut**.
-3. Faceți clic pe **Căutare nouă** pentru a crea o căutare nouă.
-4. Introduceți condițiile de căutare necesare, inclusiv cuvintele cheie și locațiile de conținut.  
-5. Faceți clic pe **Salvare & executare** pentru a denumi căutarea, porniți-o, apoi examinați rezultatele.
+1. Accesați centrul de [conformitate & de securitate](https://protection.office.com) și conectați-vă.
+2. Faceți clic pe **căutare > căutare conținut**.
+3. Faceți clic pe **Căutare nouă** pentru a crea o nouă căutare.
+4. Introduceți condițiile necesare de căutare, inclusiv cuvinte cheie și locații de conținut.  
+5. Faceți clic pe **salvare & rulare** pentru a denumi căutarea, a o porni și a previzualiza rezultatele.
 
-Pentru instrucțiuni detaliate despre căutările de conținut, exportul rezultatelor și crearea de cazuri de descoperire a informațiilor electronice pentru a păstra datele, consultați Cazuri [de căutare conținut](https://docs.microsoft.com/microsoft-365/compliance/content-search) și descoperire a [informațiilor electronice](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Pentru instrucțiuni detaliate despre căutările de conținut, exportul rezultatelor și crearea cazurilor eDiscovery pentru a stoca date, consultați [Căutare conținut](https://docs.microsoft.com/microsoft-365/compliance/content-search) și [cazuri eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Aflați mai multe despre Căutarea conținutului examinând [cerințele și limitele și](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [investigând elemente indexate parțial](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) și alte rezultate de care trebuie să știți.
+Înțelegeți mai multe despre căutarea de conținut revizuind [cerințele și limitele](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) și  [analizând elementele indexate parțial](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) și alte rezultate de care să fiți conștienți.
