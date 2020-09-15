@@ -1,24 +1,25 @@
 ---
-title: De unde pot obține aplicații software-as-a-service (SaaS)?
+title: De unde obțin aplicații software-as-a-Service (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: e55d8731ad930056975bd2aa36bee2ce781ab720
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0018788b28f201bcd050a14ae45c962c1cbf5a5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765245"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719173"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>De unde primesc aplicații software-as-a-service (SaaS) de la partenerii Microsoft?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>De unde obțin aplicații software-as-a-Service (SaaS) de la Microsoft Partners?
 
-Clienții pot căuta, cerceta și achiziționa aplicații SaaS din [AppSource](https://www.appsource.com/).
+Clienții pot căuta, cerceta și cumpăra aplicații SaaS din [AppSource](https://www.appsource.com/).

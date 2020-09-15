@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708067"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717733"
 ---
 # <a name="anonymous-sharing"></a>Partajare anonimă
 
@@ -21,16 +22,16 @@ ms.locfileid: "43708067"
   
 În noul centru de administrare SharePoint, faceți clic pe **Partajare** în panoul din stânga. 
   
-- Selectați următoarele: **Permiteți partajarea utilizatorilor externi autentificați și utilizarea accesului anonim.**
+- Selectați următoarele: **Permiteți partajarea către utilizatori externi autentificați și utilizarea accesului anonim.**
   
-(Opțional, puteți seta linkurile să expire într-un anumit număr de zile și să selectați modul în care destinatarii pot utiliza linkurile.)
+(Opțional, puteți seta linkuri să expire într-un anumit număr de zile și să selectați modul în care destinatarii pot utiliza linkurile.)
     
- **Partajarea anonimă a unui fișier sau a unui folder**
+ **Partajarea în mod anonim a unui fișier sau folder**
   
-- Selectați fișierul sau folderul pe care doriți să îl partajați, apoi faceți clic pe **Partajare**. 
+- Selectați fișierul sau folderul pe care doriți să-l partajați, apoi faceți clic pe **Partajare**. 
     
-- Pentru cine ai vrea să lucrezi? faceți clic pe **Oricine.**
+- Pentru cine doriți să funcționeze acest link? Faceți clic pe **oricine.**
   
- **Notă:** **Oricine** creează un link pe care oricine îl poate utiliza pentru a accesa documentul sau folderul, chiar dacă nu este conectat la Microsoft 365 sau OneDrive. Utilizați acest lucru pentru a partaja cu oricine, în interiorul sau în afara companiei dumneavoastră. Acest link poate fi, de asemenea, transmise în jurul la oricine. 
+ **Notă**: **oricine** creează un link pe care oricine îl poate utiliza pentru a accesa documentul sau folderul, chiar dacă acestea nu sunt conectate la Microsoft 365 sau OneDrive. Utilizați-l pentru a partaja cu oricine, în interiorul sau în afara firmei. Acest link poate fi Redirecționat și pentru oricine. 
     
 
