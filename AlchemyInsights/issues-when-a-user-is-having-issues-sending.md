@@ -1,9 +1,10 @@
 ---
-title: 322 probleme atunci când un utilizator are probleme la trimiterea
+title: probleme 322 atunci când un utilizator întâmpină probleme la trimitere
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661524"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676930"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a>Un utilizator are probleme cu trimiterea mesajelor de e-mail
+# <a name="a-user-is-having-issues-sending-email-messages"></a>Un utilizator întâmpină probleme la trimiterea mesajelor de e-mail
 
-Se pare că ai o problemă cu fluxul de corespondență. Avem diagnostice care vă vor ajuta să identificați multe probleme obișnuite de flux de corespondență. Faceți clic pe **Executare diagnostice** de mai jos.
+Se pare că aveți o problemă de flux de corespondență. Avem diagnosticare care vă vor ajuta să identificați mai multe probleme comune de flux de corespondență. Faceți clic pe **rulare diagnosticare** mai jos.

@@ -1,38 +1,39 @@
 ---
-title: Minecraft Edition cu Office 365 Education gratuit
+title: Ediția Minecraft cu Office 365 Education pentru gratuit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579661"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674122"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition cu Office 365 Education gratuit
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Ediția Minecraft cu Office 365 Education pentru gratuit
 
-[Minecraft Edition cu Office 365 Education gratuit](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Ediția Minecraft cu Office 365 Education pentru gratuit](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: Education Edition** necesită Windows 10
 
-- Studii sau abonamente de **Minecraft: Educație Edition** sunt oferite de educație entități găzduite care sunt gestionate de Azure Active Directory (Azure AD)
+- Testele sau abonamentele **Minecraft: Education Edition** sunt oferite chiriașilor școlari care sunt gestionați de Azure Active Directory (Azure AD)
 
-  - Dacă școala nu are o entitate găzduită Azure AD, [administratorul IT poate configura unul](https://docs.microsoft.com/education/windows/school-get-minecraft) ca parte a procesului de a obține **Minecraft: Education Edition**.
+  - Dacă școala nu are o entitate găzduită Azure AD, [administratorul IT poate configura una](https://docs.microsoft.com/education/windows/school-get-minecraft) ca parte a procesului de obținere a **Minecraft: Education Edition**.
 
-  - Office 365 Education, care include versiuni online de aplicații Microsoft 365 plus 1 TB spațiu de stocare online, este gratuit pentru profesori și studenți. [Înscrieți-vă școala pentru Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, care include versiuni online de Microsoft 365 Apps plus 1 TB online Storage este gratuit pentru profesori și elevi. [Înregistrați-vă școala pentru Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - Dacă școala are un abonament Office 365 Education, aceasta include un abonament Azure AD gratuit. [Înregistrați-vă abonamentul gratuit Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Dacă școala are un abonament Office 365 Education, acesta include un abonament Azure AD gratuit. [Înregistrați-vă abonamentul AZURE AD gratuit](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Aflați profesorii pot obține și distribui Minecraft: Educație Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Aflați cum pot obține și distribui profesorii Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Aflați administratorii IT pot obține și distribui Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)și să gestionați permisiunile pentru Minecraft.
+[Aflați cum pot administratorii să obțină și să distribuie Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)și cum să gestionați permisiunile pentru Minecraft.

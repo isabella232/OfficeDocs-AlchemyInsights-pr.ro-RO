@@ -1,27 +1,28 @@
 ---
-title: Partajare externă Microsoft Stream
+title: Partajarea externă Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600540"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675238"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Partajare externă Microsoft Stream
+# <a name="microsoft-stream-external-sharing"></a>Partajarea externă Microsoft Stream
 
-Microsoft Stream nu acceptă încă scenarii de partajare externă pentru oaspeți sau persoane din afara organizației. Știm că aceste caracteristici sunt extrem de necesare și lucrăm la planuri pentru modul de a construi aceste caracteristici.
+Microsoft Stream nu acceptă încă scenarii de partajare externă pentru persoane sau persoane din afara organizației. Știm că aceste caracteristici sunt foarte necesare și lucrăm la planuri pentru a construi aceste caracteristici.
 
-- [Partajare externă în flux](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Partajarea externă în flux](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
 - [Partajarea videoclipurilor în Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
