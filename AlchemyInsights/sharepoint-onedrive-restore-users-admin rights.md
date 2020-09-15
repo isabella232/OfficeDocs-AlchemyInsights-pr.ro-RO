@@ -1,27 +1,28 @@
 ---
-title: Depanarea accesului refuzat mesaje la OneDrive pentru site-uri business
+title: Depanarea mesajelor refuzate pentru site-urile OneDrive pentru Business
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 95bd46e8b7a6006f3735612d9a5602fb2b2a283b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511196"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670628"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Depanarea accesului refuzat mesaje la OneDrive pentru site-uri business
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Depanarea mesajelor refuzate pentru site-urile OneDrive pentru Business
 
-Această problemă apare cel mai frecvent atunci când un utilizator este șters și recreat cu același nume principal de utilizator (UPN). Noul cont este creat utilizând o valoare PUID (Passport Unique ID) diferită. Când utilizatorul încearcă să acceseze o colecție de site-ul sau OneDrive lor, utilizatorul are un PUID incorecte. Un al doilea scenariu implică sincronizarea directorului cu o unitate organizațională Active Directory (OU). Dacă utilizatorii s-au conectat deja la SharePoint, și apoi sunt mutate într-un alt OU și resynced cu SharePoint, acestea pot apărea această problemă.
+Această problemă apare cel mai frecvent atunci când un utilizator este șters și creat din nou cu același nume principal de utilizator (UPN). Noul cont este creat utilizând o altă valoare PUID (ID unic Passport). Atunci când utilizatorul încearcă să acceseze o colecție de site-uri sau OneDrive, utilizatorul are o PUID incorectă. Un al doilea scenariu implică sincronizarea directorului cu o unitate organizațională Active Directory (OU). Dacă utilizatorii s-au conectat deja la SharePoint, apoi sunt mutați la alt OU și Resincronizați cu SharePoint, este posibil ca aceștia să întâmpine această problemă.
 
-1. Pentru a rezolva această problemă ar trebui să restaurați UPN original cu pașii din articol, [Restaurați un utilizator în Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
-2. Dacă nu se poate restaura utilizatorul original ar trebui să eliminați utilizatorul vechi de pe site-ul OneDrive utilizând acești pași, [Eliminați un utilizator din lista de informații de utilizator](). 
-3. După aceasta se face, puteți verifica utilizatorul are drepturi de administrator pe site-ul OneDrive urmând pașii pentru a [adăuga admin pentru OneDrive unui utilizator](https://docs.microsoft.com/sharepoint/manage-user-profiles)
+1. Pentru a rezolva această problemă, trebuie să restaurați UPN-ul inițial cu pașii din articol, să [restaurați un utilizator în Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+2. Dacă nu puteți restaura utilizatorul inițial, ar trebui să eliminați utilizatorul vechi din site-ul OneDrive utilizând acești pași, să [Eliminați un utilizator din lista informații utilizator](). 
+3. După ce se termină acest lucru, puteți verifica dacă utilizatorul are drepturi de administrator la site-ul OneDrive, urmând pașii de [Adăugare a administratorului pentru OneDrive unui utilizator](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Pentru mai multe informații despre nivelurile de permisiune, consultați articolul, [Înțelegerea nivelurilor de permisiune în SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Pentru mai multe informații despre nivelurile de permisiune, consultați articolul, [înțelegerea nivelurilor de permisiune din SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
