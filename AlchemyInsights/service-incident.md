@@ -1,23 +1,24 @@
 ---
-title: Problemă în curs de dezvoltare
+title: Problemă emergentă
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: b5d0108e6419cb71b7f30991e15773d400b97bed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550347"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653849"
 ---
-# <a name="emerging-issue"></a>Problemă în curs de dezvoltare
+# <a name="emerging-issue"></a>Problemă emergentă
 
-Mai mulţi clienţi s-au plâns despre o problemă similară cu ceea ce sunt de raportare. Suntem în căutarea în această problemă.
+Mai mulți clienți s-au plâns de o problemă similară cu cea pe care o raportați. Cercetăm această problemă.
 
-Vă rugăm să verificaţi [Serviciu sănătate tabloul de bord](https://admin.microsoft.com/adminportal/home#/servicehealth) pentru a rămâne actualizat pe orice serviciu de impact incidente.
+Verificați [tabloul de bord pentru starea serviciilor](https://admin.microsoft.com/adminportal/home#/servicehealth) pentru a rămâne la curent cu toate incidentele care afectează serviciul.

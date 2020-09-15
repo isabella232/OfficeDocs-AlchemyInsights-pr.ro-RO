@@ -1,34 +1,35 @@
 ---
-title: Dezinstalare visio
+title: Dezinstalarea Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c341061e0909e1091071b16e62a2fef69c9e621d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43728799"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658053"
 ---
-# <a name="uninstall-visio"></a>Dezinstalare visio
+# <a name="uninstall-visio"></a>Dezinstalarea Visio
 
 Descărcați și instalați [Asistentul pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Când se deschide, din **Dezinstalareproduse Office** selectați versiunea de Visio pe care doriți să o dezinstalați și selectați **Următorul**. 
+1. Atunci când se deschide, de la **dezinstalarea produselor Office** , selectați versiunea de Visio pe care doriți să o dezinstalați și selectați **Următorul**. 
     
 2. Continuați să parcurgeți ecranele și reporniți computerul atunci când vi se solicită.
     
-    După repornire, Asistentul de asistență și recuperare se redeschide automat pentru a finaliza procesul de dezinstalare.
+    După repornirea, asistentul pentru recuperare și asistență se va deschide automat pentru a finaliza procesul de dezinstalare.
     
-3. Urmați solicitările rămase și dacă aveți un abonament la Visio Online, aveți posibilitatea să reinstalați Visio din [portalul de cont](https://portal.office.com/account#installs)Microsoft 365 . Pentru ajutor suplimentar sau ajutor pentru instalarea versiunilor fără abonament de Visio, ar fi Visio Professional, consultați [Instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Urmați solicitările rămase și, dacă aveți un abonament la Visio online, puteți să reinstalați Visio de la portalul de [cont](https://portal.office.com/account#installs)Microsoft 365. Pentru ajutor suplimentar sau ajutor cu instalarea versiunilor non-abonament de Visio, cum ar fi Visio Professional, consultați [instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
     
 Pentru o listă de alte opțiuni de dezinstalare, selectați [Dezinstalare Office de pe un PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
