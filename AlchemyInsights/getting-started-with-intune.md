@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 3d6c0797b4cf73d33908ef42191fd7093d645229
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493594"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706355"
 ---
 # <a name="getting-started-with-intune"></a>Introducere în Intune
 
-Pentru un tur rapid de Intune și consola Admin, consultați [Walkthrough de Intune în Portalul Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Pentru un tur rapid al Intune și al consolei de administrare, consultați [walkthrough-ul Intune în portalul Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
 
-Dacă doriți să încercați Intune sau a configura o versiune de încercare, examinați [Quickstart: Încercați Microsoft Intune gratuit](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Dacă doriți să încercați Intune sau să configurați o versiune de încercare, revizuiți [pornire rapidă: încercați Microsoft Intune gratuit](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-Dacă aveți deja Intune și sunteți gata să începeți să îl utilizați, consultați ghidul nostru [Configurare Intune.](https://docs.microsoft.com/intune/fundamentals/setup-steps) 
+Dacă aveți deja Intune și sunteți gata să începeți să-l utilizați, examinați Ghidul nostru de [configurare Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
