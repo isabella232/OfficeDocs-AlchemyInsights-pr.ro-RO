@@ -1,28 +1,29 @@
 ---
-title: Gestionare avansată a licențelor pentru protecția împotriva amenințărilor
+title: Gestionarea avansată a licențelor pentru protecția amenințărilor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: ae2afd87bf1c838e027103a6e012c40b06dcd629
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715393"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Gestionare avansată a licențelor pentru protecția împotriva amenințărilor
+# <a name="advanced-threat-protection-license-management"></a>Gestionarea avansată a licențelor pentru protecția amenințărilor
 
-Gestionarea licențelor Office 365 Advance Threat Protection (ATP) poate fi completată în **centrul de administrare Microsoft 365**.
+Gestionarea licențelor Office 365 Advance Threat (ATP) poate fi finalizată în  **Centrul de administrare Microsoft 365**.
 
-- Pentru a achiziționa Office 365 Advance Threat Protection, Accesați Servicii **de**achiziție facturare  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433), selectați Pagina Programe de completare din Alte categorii care vă pot interesa , selectați planul Advanced Threat Protection **pe** **care**doriți să îl achiziționați și selectați numărul de utilizatori care vor utiliza Advanced Threat Protection. Pentru mai multe informații, consultați [Achiziționarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Pentru a atribui licențe Office 365 Advance Threat Protection, accesați Licențe **de facturare**  >  **Licenses**. Pentru mai multe informații, consultați [Atribuirea licențelor](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Pentru a adăuga/elimina licențe de Protecție împotriva amenințărilor office 365 în avans, accesați **Facturarea**  >  **produselor dvs., găsiți**abonamentul la care doriți să adăugați sau să eliminați licențe și selectați **Adăugare/Eliminare licențe**.  
-- Pentru mai multe informații, consultați [Adăugarea sau eliminarea licențelor](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)din abonamentul de firmă.
+- Pentru a achiziționa Office 365 Advance Threat Protection, **Billing**accesați  >  [servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433)de facturare, selectați pagina de **completare** din **alte categorii care vă pot interesa**, selectați planul de protecție a amenințărilor complexe pe care doriți să-l achiziționați și selectați numărul de utilizatori care vor utiliza protecția avansată a amenințărilor. Pentru mai multe informații, consultați [achiziționarea unui abonament](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Pentru a atribui licențe Office 365 Advance Threat Protection, **Billing**accesați  >  **licențe**de facturare. Pentru mai multe informații, consultați  [atribuirea de licențe](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
+- Pentru a adăuga/elimina licențe de protecție Office 365 Advance Threat, accesați accesați **facturarea**  >  **produselor**, găsiți abonamentul la care doriți să adăugați sau să eliminați licențe și selectați **Adăugare/eliminare licențe**.  
+- Pentru mai multe informații, consultați [adăugarea sau eliminarea licențelor](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)din abonamentul de firmă.

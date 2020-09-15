@@ -1,32 +1,33 @@
 ---
-title: Atribuirea licențelor complexe de protecție împotriva amenințărilor
+title: Atribuirea de licențe de protecție avansată pentru amenințări
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: aecb0d71d09c0c82e53f3d91e1ade801ffb3cc1f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: cb2454108a4a2b5ebe053f69c8be78e0166167ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708170"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716185"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a>Atribuirea licențelor complexe de protecție împotriva amenințărilor
+# <a name="assign-advanced-threat-protection-licenses"></a>Atribuirea de licențe de protecție avansată pentru amenințări
 
-Protecția avansată împotriva amenințărilor Office 365 poate fi atribuită utilizatorilor din Centrul de administrare Microsoft 365.
+Office 365 Advanced Threat Protection poate fi atribuit utilizatorilor din centrul de administrare Microsoft 365.
 
-1. Accesați Licențe **de facturare**  >  [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264).
+1. Accesați **Billing**  >  [licențe](https://go.microsoft.com/fwlink/p/?linkid=842264)de facturare.
 2. Selectați un produs pentru care doriți să atribuiți licențe.
 3. Faceți clic pe **Atribuiți licențe**
-4. În panoul **Atribuire licențe utilizatorilor,** începeți să tastați numele unui utilizator, apoi alegeți-l din rezultate. Puteți adăuga până la 20 de utilizatori simultan.
-5. Faceți clic **pe Activarea sau dezactivarea aplicațiilor și serviciilor** pentru a atribui sau elimina.
-6. Faceți clic pe **Asociere**și **pe Închidere**.
+4. În panoul **atribuire licențe utilizatorilor**  , începeți să tastați numele unui utilizator, apoi alegeți-l din rezultate. Puteți adăuga până la 20 de utilizatori simultan.
+5. Faceți clic **pe Activare sau dezactivare aplicații și servicii**  pentru a atribui sau a elimina.
+6. Faceți clic pe **atribuire**și  **Închidere**.
 
 Pentru a cumpăra mai multe sau a elimina licențe, consultați [Adăugarea/eliminarea licențelor pentru abonament](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
