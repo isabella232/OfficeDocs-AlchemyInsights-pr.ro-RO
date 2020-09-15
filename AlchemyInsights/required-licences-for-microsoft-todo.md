@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722668"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692307"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licențe necesare pentru Microsoft ToDo
 
@@ -26,37 +27,37 @@ ms.locfileid: "43722668"
   
 Un utilizator trebuie să aibă una dintre următoarele licențe pentru a utiliza Microsoft ToDo:
   
-- Esențiale de afaceri
+- Business Essentials
 
-- Business Premium
+- Premium pentru firme
 
-- Microsoft 365 Prima linie F1
+- Microsoft 365 FIRSTLINE F1
 
 - Orice plan Office 365 Enterprise
 
-- Securitate de afaceri productive
+- Securizarea firmei productive
 
-- Întreprindere productivă securizată E3
+- Securizați Enterprise-producție E3
 
-- Întreprindere productivă securizată E5
+- Securizați Enterprise E5
 
-- Orice plan Office 365 pentru educație
+- Orice plan Office 365 Education
 
-- Consultați articolul inițial în limba engleză: 365 A3.
+- Microsoft 365 a3
 
-- Consultați articolul inițial în limba engleză: 365 A5
+- Microsoft 365 a5
 
-În plus față de o licență de produs valid, una dintre următoarele versiuni de Exchange Online este necesară pentru ToDo pentru a putea sincroniza datele de utilizator:
+În plus față de o licență de produs validă, una dintre următoarele versiuni de Exchange Online este necesară pentru ca ToDo să poată sincroniza datele utilizatorilor:
   
-- Plan exchange online 1
+- Exchange Online plan 1
 
-- Plan exchange online 2
+- Exchange Online Plan 2
 
-- Discutii pe toate paginile
+- Exchange Essentials
 
-- Schimb de chioșc online
+- Chioșc Exchange Online
 
-- Discutii pe toate forumurile
+- POP Exchange Online
 
-[Atribuirea licențelor pentru conturile de utilizator cu Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Atribuirea de licențe conturilor de utilizator cu Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

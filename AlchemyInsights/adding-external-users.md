@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: 954d592f34e92be46bdd56769e2865eeadf4a8af
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54a5f9eb53d777eb97cc5523a4ed3b64a4a5812
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908896"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663453"
 ---
 # <a name="adding-external-users"></a>Adăugarea utilizatorilor externi
 
-Pașii pentru adăugarea utilizatorilor externi/invitați pot fi diferiți în funcție de ceea ce aveți nevoie pentru a putea accesa. Alegeți una dintre următoarele variante:
+Pașii pentru adăugarea utilizatorilor externi/invitați pot fi diferiți în funcție de ceea ce aveți nevoie pentru a putea accesa. Vă rugăm să alegeți una dintre următoarele:
   
 - [Prezentare generală a partajării externe SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Acces clienților în grupuri Microsoft 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Accesul invitaților în grupuri Microsoft 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Acces invitat în Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Accesul invitaților în Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

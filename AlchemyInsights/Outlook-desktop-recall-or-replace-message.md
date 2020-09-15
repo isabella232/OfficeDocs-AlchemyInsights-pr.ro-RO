@@ -1,40 +1,41 @@
 ---
-title: Outlook Desktop amintesc sau înlocui un mesaj de e-mail
+title: Outlook desktop retragerea sau înlocuirea unui mesaj de e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 578e2690061286bde74ee0b4b74a197630716f59
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502331"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664002"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Rechemarea sau înlocuirea unui mesaj de e-mail Outlook
+# <a name="recall-or-replace-an-outlook-email-message"></a>Retragerea sau înlocuirea unui mesaj de e-mail Outlook
 
-- În calitate de administrator, puteți **rechema mesajele în numele utilizatorilor care utilizează PowerShell**. Nu vă puteți aminti mesajele din centrul de administrare.
-- Aveți posibilitatea **să reamintiți numai mesajele care sunt trimise persoanelor din organizația dvs.** Dacă mesajul a fost trimis la o adresă Gmail, de exemplu, nu-l puteți rechema.
-- Puteți **rechema numai mesajele trimise din Outlook 2016 pe PC**. Dacă un utilizator trimite un mesaj utilizând Outlook pentru Mac sau Outlook pe web, nu-l puteți rechema.
+- Ca administrator, puteți retrage **mesaje în numele utilizatorilor care utilizează PowerShell**. Nu puteți retrage mesaje din centrul de administrare.
+- Puteți să **rememorați doar mesajele care sunt trimise persoanelor din organizația dvs**. În cazul în care mesajul a fost trimis la o adresă Gmail, de exemplu, nu vă puteți retrage memoria.
+- Puteți să **rememorați doar mesajele trimise din Outlook 2016 pe PC**. Dacă un utilizator trimite un mesaj utilizând Outlook pentru Mac sau Outlook pe web, nu vă puteți retrage memoria.
 
-Pentru a reaminti sau a înlocui un mesaj de e-mail:
+Pentru retragerea sau înlocuirea unui mesaj de e-mail:
 
 1. În panoul de foldere din partea stângă a ferestrei Outlook, selectați folderul Elemente trimise.
-1. Faceți dublu clic pe mesajul pe care doriți să-l rechemați pentru a-l deschide.
-1. Selectați fila **Mesaj,** apoi **selectați**  >  **Acțiuni Rechemarea acestui mesaj**.
-1. Selectați **Ștergere copii necitite ale acestui mesaj** sau Ștergere copii **necitite și înlocuire cu un mesaj nou**, apoi selectați **OK**.
+1. Faceți dublu clic pe mesajul pe care doriți să-l rememorați pentru a-l deschide.
+1. Selectați fila **mesaj** , apoi faceți clic pe **acțiuni**  >  **retragerea acestui mesaj**.
+1. Selectați **ștergeți copiile necitite ale acestui mesaj** sau **Ștergeți copii necitite și înlocuiți cu un mesaj nou**, apoi selectați **OK**.
 1. Dacă trimiteți un mesaj de înlocuire, compuneți mesajul, apoi selectați **Trimitere**.
-1. Succesul sau eșecul unei rechemări a mesajului depinde de setările destinatarului în Outlook. Pentru pași pentru a verifica rechemarea, consultați [acest articol](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Succesul sau nereușita unui mesaj retras depinde de setările destinatarului în Outlook. Pentru pașii necesari pentru a verifica retragerea, consultați [acest articol](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Căutarea și ștergerea mesajelor de e-mail în organizația dvs.
+Căutarea și ștergerea mesajelor de e-mail din organizație
 
-- Dacă nu sunteți administrator global, contul trebuie adăugat la rolul eDiscovery Manager sau la rolul de gestionare a căutării de conformitate pentru a căuta mesaje. Pentru a șterge mesajele, va trebui să vă asociați la grupul de roluri Gestionare organizație sau la rolul de gestionare căutare și golire. Permisiunile pentru aceste roluri sunt atribuite în [centrul de securitate și conformitate](https://go.microsoft.com/fwlink/?linkid=2083731).
+- Dacă nu sunteți administrator global, contul dumneavoastră trebuie să fie adăugat la rolul managerului eDiscovery sau la rolul de gestionare a căutării conformității pentru a căuta mesaje. Pentru a șterge mesaje, va trebui să vă asociați grupului de roluri pentru gestionarea organizației sau rolul de gestionare a căutării și eliminării. Permisiunile pentru aceste roluri sunt atribuite în [Centrul de securitate și conformitate](https://go.microsoft.com/fwlink/?linkid=2083731).
 - [Creați o căutare de conținut](https://docs.microsoft.com/microsoft-365/compliance/content-search) pentru a găsi mesajul de șters.
-- [Conectarea la Centrul de securitate și conformitate PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- [Conectați-vă la centrul de securitate și conformitate PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Dacă utilizați autentificarea multi-factor, consultați [Conectarea la Microsoft 365 security and Compliance Center PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Dacă utilizați autentificarea multi-factor, consultați [conectarea la Microsoft 365 Security și la centrul de conformitate PowerShell utilizând autentificarea multi-factor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

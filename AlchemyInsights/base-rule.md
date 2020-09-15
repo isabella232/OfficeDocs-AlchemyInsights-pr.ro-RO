@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549719"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686366"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Depanarea problemelor cu MDM autoritate în Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Depanarea problemelor cu autoritatea MDM în Microsoft Intune
 
-Iată câteva articole utile despre Noțiuni de început cu Intune:
+Iată câteva articole utile despre introducere în Intune:
 
 - [Ce este Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [se configurează Intune pentru prima dată](https://docs.microsoft.com/intune/setup-steps)
-- [Utilizarea și navigarea pe Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Cum să configurați Intune pentru prima dată](https://docs.microsoft.com/intune/setup-steps)
+- [Utilizarea și navigarea în Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Dacă întâmpinați probleme cu autoritatea MDM, consultați [modificarea autorității Intune MDM](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Dacă întâmpinați probleme cu autoritatea MDM, consultați pentru a [modifica autoritatea MDM din Intune](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
