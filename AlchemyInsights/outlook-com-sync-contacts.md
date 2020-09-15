@@ -6,21 +6,22 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 411ed1facbcc60b74340ac06d49bd401a9885add
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722280"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666342"
 ---
 # <a name="sync-contacts"></a>Sincronizarea persoanelor de contact
 
-Outlook sincronizează persoanele de contact pe care le creați în [Persoane](https://outlook.live.com/people/) pe alte dispozitive și aplicații, ar fi Outlook pentru Android și Outlook pentru iOS. Aflați să [creați persoane de contact](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Outlook sincronizează persoanele de contact pe care le creați în [persoane](https://outlook.live.com/people/) din alte dispozitive și aplicații, cum ar fi Outlook pentru Android și Outlook pentru iOS. Aflați cum să [Creați persoane de contact](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-Persoanele de contact importate (de exemplu, persoanele de contact dintr-un alt cont de e-mail pe care l-ați conectat la contul Outlook.com) nu sunt sincronizate. Aflați să [importați persoane de contact](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
+Persoanele de contact importate (de exemplu, persoanele de contact din alt cont de e-mail pe care le-ați conectat la contul Outlook.com) nu sunt sincronizate. Aflați cum să [importați persoane de contact](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).

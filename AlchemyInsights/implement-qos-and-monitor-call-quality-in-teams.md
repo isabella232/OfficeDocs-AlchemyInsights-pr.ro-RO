@@ -1,23 +1,24 @@
 ---
-title: Implementați QoS și monitorizați calitatea apelurilor în echipe
+title: Implementarea QoS și monitorizarea calității apelului în teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600000"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667962"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementați QoS și monitorizați calitatea apelurilor în echipe
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementarea QoS și monitorizarea calității apelului în teams
 
-Call Analytics și Tabloul de bord privind calitatea apelurilor pot fi utilizate pentru a ajuta la depanarea problemelor legate de calitatea apelurilor în Microsoft Teams. Pentru a afla mai multe despre Calitatea serviciului (QoS), Call Analytics și Tabloul de bord calitate a apelurilor (CQD), consultați [Implementarea QoS și Monitorizarea calității apelurilor în echipele Microsoft](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Analiza apelurilor și tabloul de bord pentru calitatea apelului pot fi utilizate pentru a depana problemele legate de calitatea apelului în Microsoft teams. Pentru a afla mai multe despre calitatea serviciului (QoS), apeluri de analiză și tabloul de bord al calității apelului (CQD), consultați [implementarea QoS și monitorizarea calității apelului în Microsoft teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
