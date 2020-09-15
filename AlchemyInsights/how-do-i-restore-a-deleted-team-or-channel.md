@@ -1,10 +1,11 @@
 ---
-title: restaurez un eeam șters sau un canal
+title: Cum restaurez un eeam sau un canal șters
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: efd2b09a93fb7a44c0dea7933bb9d02524bb1082
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328830"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705023"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>se restaurează o echipă sau un canal șters
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Cum să restaurați o echipă sau un canal șters
 
-Pentru mai multe informații, consultați [restaurarea unei echipe șterse în Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Pentru mai multe informații, consultați [restaurarea unei echipe șterse în Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)teams.
 
-Canalele șterse din cadrul unei echipe pot fi restaurate timp de până la 21 de zile după ștergerea canalului.
+Canalele șterse dintr-o echipă pot fi restaurate până la 21 de zile după ștergerea canalului.
 
 Pentru a recupera un canal șters, proprietarul echipei poate face următoarele:
 
-1. Deschideți setările echipei selectând cele 3 puncte din dreapta numelui echipei.
-2. Selectați **Gestionați** > **canalele** > de echipă**șterse**, apoi selectați **Restaurare** din dreapta.
+1. Deschideți setările echipei selectând 3 puncte în partea dreaptă a numelui echipei.
+2. Selectați **gestionare**  >  **canale**de echipă  >  **șterse**, apoi selectați **Restaurare** la dreapta.
 
-Pentru mai multe informații, consultați [restaurarea unei echipe șterse în Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Pentru mai multe informații, consultați [restaurarea unei echipe șterse în Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)teams.
