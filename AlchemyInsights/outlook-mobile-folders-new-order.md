@@ -1,23 +1,24 @@
 ---
-title: Foldere Outlook Mobile în ordine nouă
+title: Foldere mobile Outlook în ordine nouă
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: de48e5d22eb9ea8a43250d8a497c34ab242a29e3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764848"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772238"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>Folderele mele sunt într-o ordine nouă
+# <a name="my-folders-are-in-a-new-order"></a>Folderele mele se află într-o ordine nouă
 
-Odată cu adăugarea de foldere și grupuri preferate la Outlook pentru iOS și Android, este posibil să observați că folderele sunt într-o nouă ordine. Dacă aveți preferințe, veți vedea o secțiune preferințe în partea de sus a barei laterale. Puteți adăuga preferințe utilizând pictograma creion din partea de sus a barei laterale. Acest lucru va păstra toate folderele cele mai importante și grupuri în partea de sus în cazul în care le puteți accesa cu ușurință.
+Cu adăugarea de foldere și grupuri preferate la Outlook pentru iOS și Android, este posibil să observați că folderele se află într-o ordine nouă. Dacă aveți Preferințe, veți vedea o secțiune preferințe în partea de sus a barei laterale. Puteți adăuga preferințe utilizând pictograma creion de lângă partea de sus a barei laterale. Aceasta va păstra toate folderele și grupurile cele mai importante în partea de sus, unde le puteți accesa cu ușurință.

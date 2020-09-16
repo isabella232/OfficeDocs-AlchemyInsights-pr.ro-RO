@@ -6,26 +6,27 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710491"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796588"
 ---
 # <a name="using-custom-policy-in-intune"></a>Utilizarea politicii particularizate în Intune
 
-Intune are multe setări încorporate pentru dispozitive Android, iOS, macOS și Windows. De asemenea, puteți crea un profil particularizat, apoi puteți implementa aceste setări particularizate pe dispozitive utilizând Intune. Profilurile particularizate sunt proiectate să adauge setări și caracteristici ale dispozitivului care nu sunt încorporate în Intune.
+Intune are multe setări predefinite pentru dispozitivele Android, iOS, macOS și Windows. De asemenea, puteți să creați un profil particularizat, apoi să implementați aceste setări particularizate pe dispozitivele dvs., utilizând Intune. Profilurile particularizate sunt proiectate pentru a adăuga setări de dispozitiv și caracteristici care nu sunt încorporate în Intune.
 
-[Setări particularizate pentru dispozitiveAndroid în Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Setări particularizate pentru dispozitivele Android în Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Setări personalizate pentru dispozitiveAndroid Enterprise în Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Setări particularizate pentru dispozitivele Android Enterprise în Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
 [Setări particularizate pentru dispozitivele iOS în Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
@@ -33,4 +34,4 @@ Intune are multe setări încorporate pentru dispozitive Android, iOS, macOS și
 
 [Setări particularizate pentru dispozitivele Windows 10 în Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Setări particularizate pentru dispozitivele Holografice Windows pentru firme în Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Setări particularizate pentru dispozitivele holografice Windows pentru firme în Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
