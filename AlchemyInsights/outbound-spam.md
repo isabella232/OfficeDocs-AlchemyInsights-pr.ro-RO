@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: eeffecfd952043aa4323d3ec4fc7e7781fe8646e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 182cec016346dbc32d807a2d43ef0bd29209dcca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712974"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769267"
 ---
-# <a name="outbound-spam"></a><span data-ttu-id="546a1-102">Spam de ieșire</span><span class="sxs-lookup"><span data-stu-id="546a1-102">Outbound spam</span></span>
+# <a name="outbound-spam"></a><span data-ttu-id="64f6c-102">Spam de ieșire</span><span class="sxs-lookup"><span data-stu-id="64f6c-102">Outbound spam</span></span>
 
-<span data-ttu-id="546a1-103">Dacă vedeți rezultate fals pozitive pentru spamul de ieșire (mesajele bune de ieșire fiind marcate ca spam), deschideți un bilet de asistență cu mesaje exemplu.</span><span class="sxs-lookup"><span data-stu-id="546a1-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>
+<span data-ttu-id="64f6c-103">Dacă vedeți pozitiv false pentru spamul de ieșire (mesajele de ieșire bune marcate ca spam), deschideți un tichet de asistență cu mesaje de exemplu.</span><span class="sxs-lookup"><span data-stu-id="64f6c-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>
