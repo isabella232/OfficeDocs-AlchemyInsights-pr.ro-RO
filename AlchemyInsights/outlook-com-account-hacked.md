@@ -1,27 +1,28 @@
 ---
-title: 8000039 Outlook.com cont tocat
+title: contul 8000039 Outlook.com tocat
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: c10623c17650eac13afb1b0ccf5d86486b5cb311
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b7f72921e6eddddff0fa9e95dd28006a50780c87
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761108"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769051"
 ---
-# <a name="outlookcom-account-hacked"></a><span data-ttu-id="8cf89-102">Outlook.com cont tocat</span><span class="sxs-lookup"><span data-stu-id="8cf89-102">Outlook.com account hacked</span></span>
+# <a name="outlookcom-account-hacked"></a><span data-ttu-id="ae563-102">Cont Outlook.com tocat</span><span class="sxs-lookup"><span data-stu-id="ae563-102">Outlook.com account hacked</span></span>
 
-<span data-ttu-id="8cf89-103">Dacă contul tău a fost spart, urmează instrucțiunile din [contul My Outlook.com a fost spart](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) pentru a-ți recupera contul.</span><span class="sxs-lookup"><span data-stu-id="8cf89-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) to recover your account.</span></span>
+<span data-ttu-id="ae563-103">Dacă contul a fost spart, urmați instrucțiunile din [contul meu Outlook.com a fost tocat](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) pentru a vă recupera contul.</span><span class="sxs-lookup"><span data-stu-id="ae563-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) to recover your account.</span></span>
   
-<span data-ttu-id="8cf89-104">Aflați mai multe despre [Securitatea avansată Outlook.com pentru abonații Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8cf89-104">Learn more about [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="ae563-104">Aflați mai multe despre [securitatea Outlook.com avansată pentru abonații Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ae563-104">Learn more about [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
