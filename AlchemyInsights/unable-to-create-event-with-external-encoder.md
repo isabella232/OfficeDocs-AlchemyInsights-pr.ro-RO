@@ -1,23 +1,24 @@
 ---
-title: 'Echipe: eveniment live - incapabil să creeze eveniment cu codificator extern'
+title: 'Teams: eveniment în direct-nu se poate crea un eveniment cu encoder extern'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 3ca6227dde33b9c0093602f152377fcaff4041fc
-ms.sourcegitcommit: 60e8e348131d4db4d0d34ffe5b321bc92d7bf7e9
+ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "41969703"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796912"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a><span data-ttu-id="62f68-102">Trebuie să configurați evenimentul live cu un codificator extern?</span><span class="sxs-lookup"><span data-stu-id="62f68-102">Need to configure your live event with an external encoder?</span></span>
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a><span data-ttu-id="80e1e-102">Trebuie să configurați evenimentul în direct cu un codificator extern?</span><span class="sxs-lookup"><span data-stu-id="80e1e-102">Need to configure your live event with an external encoder?</span></span>
 
-<span data-ttu-id="62f68-103">Dacă întâmpinați probleme în a obține codificator pentru a lucra cu evenimentul live Teams, consultați documentația de configurare a codificatorului: [Configurarea codificatoarelor pentru streaming live în Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)</span><span class="sxs-lookup"><span data-stu-id="62f68-103">If you're having trouble getting your encoder to work with your Teams live event, see the encoder setup documentation: [Configure encoders for live streaming in Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)</span></span>
+<span data-ttu-id="80e1e-103">Dacă întâmpinați probleme la decodarea encoderului pentru a lucra cu evenimentul live teams, consultați documentația de configurare a encoderului: [configurați Codificatoarele pentru streaming în timp real în Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)</span><span class="sxs-lookup"><span data-stu-id="80e1e-103">If you're having trouble getting your encoder to work with your Teams live event, see the encoder setup documentation: [Configure encoders for live streaming in Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)</span></span>

@@ -1,28 +1,29 @@
 ---
-title: se anulează o aplicație
+title: Cum să anulați o aplicație
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062512"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781007"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="909c5-102">se anulează aplicațiile software-as-a-service</span><span class="sxs-lookup"><span data-stu-id="909c5-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="4cb3b-102">Cum să anulați aplicațiile software-as-a-Service</span><span class="sxs-lookup"><span data-stu-id="4cb3b-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="909c5-103">În centrul de administrare Microsoft 365, la pagina **Billing**  >  **[Facturareproduse dvs.,](https://go.microsoft.com/fwlink/p/?linkid=842054)** apoi alegeți fila **Aplicații.**</span><span class="sxs-lookup"><span data-stu-id="909c5-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="4cb3b-103">În centrul de administrare Microsoft 365, pe pagina **Facturare**  >  **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** , alegeți fila **aplicații** .</span><span class="sxs-lookup"><span data-stu-id="4cb3b-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="909c5-104">Găsiți și selectați aplicația pe care doriți să o gestionați.</span><span class="sxs-lookup"><span data-stu-id="909c5-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="4cb3b-104">Găsiți și selectați aplicația pe care doriți să o gestionați.</span><span class="sxs-lookup"><span data-stu-id="4cb3b-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="909c5-105">Sub **Setări & acțiuni**, selectați Revocare **abonament**.</span><span class="sxs-lookup"><span data-stu-id="909c5-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="4cb3b-105">Sub **setări & acțiuni**, selectați **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="4cb3b-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
