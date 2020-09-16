@@ -1,34 +1,35 @@
 ---
-title: Imposibil de descărcat fișiere
+title: Nu se pot descărca fișiere
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440306"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669187"
 ---
-# <a name="unable-to-download-files"></a>Imposibil de descărcat fișiere
+# <a name="unable-to-download-files"></a>Nu se pot descărca fișiere
 
-- Descărcările sunt supuse acestor limite: Limita de dimensiune a fișierului individual: 10GB; limita totală a dimensiunii fișierului zip: 20GB; numărul total de dosare limită: 10.000; limita de dimensiune a folderului: 200 de fișiere.
-- Fișierele sau folderele care conțin un hashtag (#) în numele fișierului sau folderului nu se pot adăuga la fișierele .zip.  
+- Descărcările se supun acestor limite: limita de dimensiune individuală a fișierelor: 10GB; limita de dimensiune totală a fișierelor zip: 20 GB; numărul total de limite de fișiere: 10.000; limita de dimensiune a folderului: fișiere 200.
+- Fișierele sau folderele care conțin un hashtag (#) din numele fișierului sau folderului nu pot fi adăugate la fișiere. zip.  
     
-- Nu puteți descărca blocnotesuri OneNote. Dacă descărcați un folder care conține un blocnotes OneNote, fișierul .zip conține un mesaj de eroare sub forma unui fișier .txt.  
+- Nu puteți descărca blocnotesurile OneNote. Dacă descărcați un folder care conține un blocnotes OneNote, fișierul. zip conține un mesaj de eroare în forma unui fișier. txt.  
     
-- Nu puteți descărca fișiere direct din **vizualizarea partajată.** Deschideți fișierul și salvați o copie în locația aleasă.  
+- Nu puteți descărca fișiere direct din vizualizarea **partajată**  . Deschideți fișierul și Salvați o copie în locația dorită.  
     
-- În OneDrive pentru business, nu puteți utiliza Internet Explorer pentru a descărca foldere sau mai multe fișiere. Utilizați Microsoft Edge sau Google Chrome pentru a descărca foldere sau mai multe fișiere.  
+- În OneDrive pentru Business, nu puteți utiliza Internet Explorer pentru a descărca foldere sau mai multe fișiere. Utilizați Microsoft Edge sau Google Chrome pentru a descărca foldere sau mai multe fișiere.  
     
-- Butonul **Descărcare** dispare uneori dacă reîmprospătați pagina Web în timp ce vizualizați un folder. Pentru a rezolva acest lucru, aveți posibilitatea să urcați cu un nivel în directorul de foldere și să reveniți sau să închideți acea filă din browser și să navigați din nou la folder.  
+- Butonul **Descărcare** dispare uneori dacă reîmprospătați pagina web în timp ce Vizualizați un folder. Pentru a rezolva această problemă, puteți să parcurgeți un nivel în directorul de foldere și să reveniți sau să închideți acea filă în browser și să navigați la folder din nou.  
     
-Pentru mai multe informații, consultați [Descărcarea fișierelor și folderelor din OneDrive sau SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Pentru mai multe informații, consultați [descărcarea fișierelor și folderelor din OneDrive sau SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

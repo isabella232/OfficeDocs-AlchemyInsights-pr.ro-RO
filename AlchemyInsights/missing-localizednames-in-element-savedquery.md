@@ -1,26 +1,27 @@
 ---
-title: Lipsește "Nume localizate" în elementul "savedquery"
+title: Lipsește ' LocalizedNames ' în element ' SavedQuery '
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: a891b31e90951be8349a7fda705a14320e22fb3a
-ms.sourcegitcommit: ebb3595422b581eca98a05533f8d82239daec09a
+ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423859"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667134"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Lipsește "Nume localizate" în elementul "savedquery"
+# <a name="missing-localizednames-in-element-savedquery"></a>Lipsește ' LocalizedNames ' în element ' SavedQuery '
 
-Pentru ajutor cu "Nume localizate" lipsă, consultați ["Elementul "savedquery" are conținut incomplet. Lista elementelor posibile așteptate: eroarea 'Local localizeNames'" apare la importul unei soluții Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Pentru ajutor cu lipsește ' LocalizedNames ', consultați ["elementul" SavedQuery "are conținut incomplet. Listă de elemente posibile așteptate: eroarea ' LocalizedNames ' "apare atunci când importați o soluție Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
 
-Căutați caractere speciale în numele vizualizării care ar putea cauza problema. Eliminați orice caractere speciale din numele vizualizării și exportați din nou soluția.
+Căutați caractere speciale în numele vizualizării care poate provoca problema. Eliminați toate caracterele speciale din numele vizualizării și exportați soluția din nou.

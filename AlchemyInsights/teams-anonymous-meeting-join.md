@@ -1,27 +1,30 @@
 ---
-title: Permiteți sau împiedicați utilizatorii anonimi să se alăture întâlnirilor Teams
+title: Permiteți sau Împiedicați utilizatorii anonimi să se asocieze la întâlnirile teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: HT
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493595"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669908"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Permiteți sau împiedicați utilizatorii anonimi să se alăture întâlnirilor Teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Permiteți sau Împiedicați utilizatorii anonimi să se asocieze la întâlnirile teams
 
-Puteți controla setările de asociere la întâlniri anonime din Centrul de administrare teams.
+Puteți să controlați setările de asociere anonime la întâlnire în centrul de administrare teams.
 
-1.  Du-te la centrul de admin la [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) .
-2.  În navigarea din stânga, accesați Setări **întâlnire întâlniri**   >   **Meeting settings**.
-3.  Sub **Participanți**, activați **Utilizatorii anonimi se pot asocia la o întâlnire**.
+**Este posibil să dureze până la 24 de ore pentru ca această modificare să aibă efect.**
+
+1.  Accesați centrul de [administrare teams](https://admin.teams.microsoft.com)
+2.  În navigarea stângă, accesați **Meetings**   >   **Setări întâlnire**întâlniri.
+3.  Sub  **participanți**, activați  **utilizatorii anonimi se pot asocia la o întâlnire**.

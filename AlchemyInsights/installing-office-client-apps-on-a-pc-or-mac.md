@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790019"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667854"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalarea aplicației client Office pe un PC sau MAC
 
@@ -24,9 +25,9 @@ Pentru a instala aplicațiile client Office, asigurați-vă că aveți un abonam
 
 **Notă**: [Office pentru firme mici ](https://products.office.com/home-and-business) este un produs [Office pentru acasă](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) și nu face parte dintr-un abonament pentru firme. Project Online Essentials nu include o versiune desktop a Project, de aceea nu este necesară nicio instalare. Utilizatorii Visio Plan 1 pot accesa Visio pentru web deoarece planul nu include versiunea desktop a Visio. Aplicațiile Project și Visio nu sunt disponibile pe Mac.
 
-Dacă aveți un abonament care include aplicațiile Office, nu veți vedea o opțiune de instalare a lor decât dacă aveți o [ licență atribuită](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Dacă sunteți administrator Office 365 responsabil cu atribuirea de licențe, consultați [Atribuirea de licențe utilizatorilor](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). În plus, utilizați [setările de descărcare pentru software Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) pentru a selecta dacă utilizatorii pot instala aplicații ‎Office‎ pe dispozitivele lor.
+Dacă aveți un abonament care include aplicații Microsoft 365, nu veți vedea o opțiune pentru a-l instala dacă nu aveți o [licență atribuită](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Dacă sunteți administrator Office 365 responsabil cu atribuirea de licențe, consultați [Atribuirea de licențe utilizatorilor](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). În plus, utilizați [setările de descărcare pentru software Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) pentru a selecta dacă utilizatorii pot instala aplicații ‎Office‎ pe dispozitivele lor.
 
-**Notă**: [Raportul privind activarea Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) vă oferă un rezumat al utilizatorilor care și-au activat abonamentul Office pe cel puțin un dispozitiv.
+**Notă**: [raportul de activare Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) vă oferă o vizualizare a utilizatorilor care au instalat și activat aplicațiile Microsoft 365 pe cel puțin un dispozitiv.
 
 Apoi, fiecare utilizator trebuie să:
 

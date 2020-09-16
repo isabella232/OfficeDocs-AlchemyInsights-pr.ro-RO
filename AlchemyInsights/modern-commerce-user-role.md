@@ -1,27 +1,28 @@
 ---
-title: Rol utilizator comerț modern
+title: Rolul de utilizator al comerțului modern
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749015"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667026"
 ---
-# <a name="modern-commerce-user-role"></a>Rol utilizator comerț modern
+# <a name="modern-commerce-user-role"></a>Rolul de utilizator al comerțului modern
 
-Rolul Utilizator Comerț modern oferă anumitor utilizatori permisiunea de a accesa centrul de administrare Microsoft 365 și de a vedea intrările de navigare din stânga pentru **Pornire**, **Facturare**și **Asistență**. Conținutul disponibil în aceste zone este controlat de roluri specifice comerțului atribuite utilizatorilor pentru a gestiona produsele pe care le-au cumpărat pentru ei înșiși sau pentru organizația dvs. Aceasta poate include activități precum plata facturilor sau pentru accesul la conturile de facturare și la profilurile de facturare.
+Rolul de utilizator al comerțului modern oferă anumitor utilizatori permisiunea de a accesa centrul de administrare Microsoft 365 și a vedea intrările de navigare din stânga pentru **acasă**, **Facturare**și **asistență**. Conținutul disponibil în aceste zone este controlat de roluri specifice pentru comerț atribuite utilizatorilor pentru a gestiona produsele cumpărate pentru ele însele sau pentru organizația dvs. Acest lucru poate include activități cum ar fi plata facturilor sau pentru accesul la conturi de facturare și la profiluri de facturare.
 
-Utilizatorii cu rol de utilizator Comerț modern au de obicei permisiuni administrative în alte sisteme de achiziție Microsoft, dar nu au privilegii de administrator global sau de administrator de facturare.
+Utilizatorii cu rolul de utilizator al comerțului modern au, de obicei, permisiuni administrative în alte sisteme Microsoft purchasing, dar nu au privilegii de administrator global sau de administrator de facturare.
 
-Pentru a afla mai multe despre acest rol și alte roluri administrative, consultați [Permisiuni de rol de administrator în Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Pentru a afla mai multe despre acest lucru și alte roluri administrative, consultați [permisiuni pentru rolul de administrator în Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
