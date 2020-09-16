@@ -1,11 +1,12 @@
 ---
-title: Contract de întreprindere de licențiere în volum activat pe un cont greșit
+title: Acordul de întreprindere de licențiere în volum activat pentru un cont greșit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021546"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726139"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Contract de întreprindere de licențiere în volum activat în contul greșit sau transferul licențelor dintr-un cont în altul
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Acord de licențiere în volum activat în contul greșit sau transferând licențe dintr-un cont în altul
 
-Dacă găsiți că abonamentele achiziționate **printr-un Acord enterprise de licențiere în volum** au fost activate pe **entitategăzduită greșită**sau doriți să **transferați licențe** de la o entitate găzduită la alta, contactați Centrul de servicii de [licențiere în volum Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
+Dacă vi se pare că abonamentele achiziționate prin intermediul unui **acord de licențiere în volum** au fost activate pentru **entitatea găzduită greșit**sau dacă doriți să **transferați licențe** de la o entitate găzduită la alta, contactați [Centrul de servicii de licențiere în volum Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
