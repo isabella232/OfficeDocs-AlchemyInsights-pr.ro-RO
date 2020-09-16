@@ -1,26 +1,27 @@
 ---
-title: 1081 Calendar - RBA CatchAll
+title: Calendar 1081-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 534173990542144db018a4c3c6fb3bde2fd79f85
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508352"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734383"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="7c76f-102">Crearea și gestionarea cutiilor poștale ale camerei</span><span class="sxs-lookup"><span data-stu-id="7c76f-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="18f04-102">Crearea și gestionarea cutiilor poștale de sală</span><span class="sxs-lookup"><span data-stu-id="18f04-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="7c76f-103">Pentru a crea și modifica cutiile poștale de cameră din centrul de administrare Exchange, consultați [Crearea și gestionarea cutiilor poștale de cameră](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="7c76f-103">To create and modify room mailboxes in the Exchange admin center, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="18f04-103">Pentru a crea și a modifica cutii poștale de sală în centrul de administrare Exchange, consultați [crearea și gestionarea cutiilor poștale de sală](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="18f04-103">To create and modify room mailboxes in the Exchange admin center, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="7c76f-104">Pentru a afla mai multe despre cutiile poștale de cameră și echipamente (cunoscute și sub numele de cutii poștale de resurse), consultați [Cutiile poștale pentru camere și echipamente](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="7c76f-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
+<span data-ttu-id="18f04-104">Pentru a afla mai multe despre cutiile poștale de sală și de echipament (numite și cutii poștale de resurse), consultați [cutii poștale sală și echipament](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="18f04-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
