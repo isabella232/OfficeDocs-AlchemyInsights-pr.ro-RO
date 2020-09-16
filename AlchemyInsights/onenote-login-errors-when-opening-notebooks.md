@@ -1,33 +1,34 @@
 ---
-title: OneNote - jurnal în erori la deschiderea notebook-uri
+title: OneNote-conectați erorile la deschiderea blocnotesurilor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643919"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729307"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a><span data-ttu-id="c85b4-102">Probleme conectarea la notebook OneNote</span><span class="sxs-lookup"><span data-stu-id="c85b4-102">Issues signing in to OneNote notebooks</span></span>
+# <a name="issues-signing-in-to-onenote-notebooks"></a><span data-ttu-id="fc945-102">Probleme la conectarea la blocnotesurile OneNote</span><span class="sxs-lookup"><span data-stu-id="fc945-102">Issues signing in to OneNote notebooks</span></span>
 
-<span data-ttu-id="c85b4-103">Dacă primiţi erori de conectare sau parola atunci când încercarea de a deschide notebook-ul, încercaţi următoarele:</span><span class="sxs-lookup"><span data-stu-id="c85b4-103">If you receive login or password errors when trying to open your notebook, try the following:</span></span>
+<span data-ttu-id="fc945-103">Dacă primiți erori de conectare sau parolă atunci când încercați să deschideți blocnotesul, încercați următoarele:</span><span class="sxs-lookup"><span data-stu-id="fc945-103">If you receive login or password errors when trying to open your notebook, try the following:</span></span>
 
-- <span data-ttu-id="c85b4-104">În cazul în care notebook-uri care nu va deschide este stocată pe OneDrive sau SharePoint Online, încercați să deschideți blocnotesul în OneNote pentru web (la www.onenote.com).</span><span class="sxs-lookup"><span data-stu-id="c85b4-104">If the notebook that won't open is stored on OneDrive or SharePoint Online, try opening the notebook in OneNote for the web (at www.onenote.com).</span></span> <span data-ttu-id="c85b4-105">În cazul în care notebook-ul nu este listată, nu aveți permisiuni să-l.</span><span class="sxs-lookup"><span data-stu-id="c85b4-105">If the notebook is not listed, you may not have permissions to it.</span></span> <span data-ttu-id="c85b4-106">Dacă este un blocnotes partajat, cereţi proprietarului să-l împărtăşească şi să se asigure că utilizaţi contul corect pentru a va autentifica.</span><span class="sxs-lookup"><span data-stu-id="c85b4-106">If it is a shared notebook, ask the owner to share it and ensure that you are using the correct account to log in.</span></span>
+- <span data-ttu-id="fc945-104">Dacă blocnotesul care nu se deschide este stocat în OneDrive sau SharePoint Online, încercați să deschideți blocnotesul în OneNote pentru web (la www.onenote.com).</span><span class="sxs-lookup"><span data-stu-id="fc945-104">If the notebook that won't open is stored on OneDrive or SharePoint Online, try opening the notebook in OneNote for the web (at www.onenote.com).</span></span> <span data-ttu-id="fc945-105">Dacă Blocnotesul nu este listat, este posibil să nu aveți permisiuni pentru acesta.</span><span class="sxs-lookup"><span data-stu-id="fc945-105">If the notebook is not listed, you may not have permissions to it.</span></span> <span data-ttu-id="fc945-106">Dacă este un blocnotes partajat, solicitați-i proprietarului să-l partajeze și asigurați-vă că utilizați contul corect pentru a vă conecta.</span><span class="sxs-lookup"><span data-stu-id="fc945-106">If it is a shared notebook, ask the owner to share it and ensure that you are using the correct account to log in.</span></span>
 
-- <span data-ttu-id="c85b4-107">În cazul în care notebook-ul se deschide OneNote pentru web, asiguraţi-vă că vă sunt log in cu acreditările curent în OneNote.</span><span class="sxs-lookup"><span data-stu-id="c85b4-107">If the notebook opens on OneNote for the web, make sure you are logging in with current credentials in OneNote.</span></span> 
+- <span data-ttu-id="fc945-107">Dacă blocnotesul se deschide în OneNote pentru web, asigurați-vă că vă conectați cu acreditările curente în OneNote.</span><span class="sxs-lookup"><span data-stu-id="fc945-107">If the notebook opens on OneNote for the web, make sure you are logging in with current credentials in OneNote.</span></span> 
 
-- <span data-ttu-id="c85b4-108">Goliţi [Office acreditările](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) folosind [Windows Credential Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).</span><span class="sxs-lookup"><span data-stu-id="c85b4-108">Clear [Office credentials](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) using [Windows Credential Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).</span></span>
+- <span data-ttu-id="fc945-108">Debifați [acreditările Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizând [managerul de acreditări Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).</span><span class="sxs-lookup"><span data-stu-id="fc945-108">Clear [Office credentials](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) using [Windows Credential Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).</span></span>
 
-- <span data-ttu-id="c85b4-109">În OneNote 2016, selectaţi **fişier** > **cont** şi **Semn afară** din toate conturile.</span><span class="sxs-lookup"><span data-stu-id="c85b4-109">In OneNote 2016, select **File** > **Account** and **Sign Out** of all accounts.</span></span> <span data-ttu-id="c85b4-110">Faceţi sign in din nou, folosind un cont de utilizator cu un permis valabil.</span><span class="sxs-lookup"><span data-stu-id="c85b4-110">Sign in again using a user account with a valid license.</span></span> <span data-ttu-id="c85b4-111">Pentru informaţii detaliate, consultaţi [conturi în birou](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span><span class="sxs-lookup"><span data-stu-id="c85b4-111">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
+- <span data-ttu-id="fc945-109">În OneNote 2016, selectați **File**  >  **cont** fișier și **deconectați-vă** de la toate conturile.</span><span class="sxs-lookup"><span data-stu-id="fc945-109">In OneNote 2016, select **File** > **Account** and **Sign Out** of all accounts.</span></span> <span data-ttu-id="fc945-110">Conectați-vă din nou utilizând un cont de utilizator cu o licență validă.</span><span class="sxs-lookup"><span data-stu-id="fc945-110">Sign in again using a user account with a valid license.</span></span> <span data-ttu-id="fc945-111">Pentru informații detaliate, consultați [Conturi din Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span><span class="sxs-lookup"><span data-stu-id="fc945-111">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
 
-- <span data-ttu-id="c85b4-112">În OneNote pentru Windows, selectaţi puncte de suspensie (\*\*\*\*...) în partea de sus dreapta a ecranului, selectaţi **Setări** > **conturile**, şi să se asigure că un cont de lucru sau scoala este listat.</span><span class="sxs-lookup"><span data-stu-id="c85b4-112">In OneNote for Windows, select the ellipsis (**…**) at the top right of the screen, select **Settings** > **Accounts**, and ensure that a work or school account is listed.</span></span>
+- <span data-ttu-id="fc945-112">În OneNote pentru Windows, selectați punctele de suspensie (**...**) din partea din dreapta sus a ecranului, selectați **Setări**  >  **Conturi**și asigurați-vă că este listat un cont de la locul de muncă sau de la școală.</span><span class="sxs-lookup"><span data-stu-id="fc945-112">In OneNote for Windows, select the ellipsis (**…**) at the top right of the screen, select **Settings** > **Accounts**, and ensure that a work or school account is listed.</span></span>
