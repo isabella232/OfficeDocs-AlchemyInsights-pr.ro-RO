@@ -4,28 +4,29 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 71e5388df7a36652e3da9163d82dbb2be86823e3
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721018"
 ---
 # <a name="rename-a-sharepoint-site"></a>Redenumirea unui site SharePoint
 
-Pașii pentru a modifica/redenumi un URL de site sunt documentate în [Modificare adresă de site;](https://docs.microsoft.com/sharepoint/change-site-address) de exemplu, pentru a trece de la https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 la .
+Pașii pentru modificarea/redenumirea unui URL de site sunt documentați în [modificarea unei adrese de site](https://docs.microsoft.com/sharepoint/change-site-address); de exemplu, pentru a modifica de la https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
 
-Pentru erori cunoscute în timpul redenumirii, consultați [Erori atunci când redenumiți o adresă de site SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Pentru erorile cunoscute în timpul redenumirii, consultați [erori atunci când redenumiți o adresă de site SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
 
-Pentru efecte cunoscute după redenumire, consultați [Efectele schimbării unei adrese de site](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Pentru efecte cunoscute după redenumirea, consultați [efectele modificării unei adrese de site](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
 
-**Notã:** Aveți posibilitatea să modificați nume de sign-in de domeniu (în exemplul de mai sus, "contoso" parte a URL-ul) într-un URL-ul SharePoint Online. 
+**Notă:** Nu puteți modifica numele domeniului (în exemplul de mai sus, partea "contoso" a URL-ului) într-un URL SharePoint Online. 
 
 Pentru mai multe informații, consultați:
 
