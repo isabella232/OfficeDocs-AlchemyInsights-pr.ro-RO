@@ -1,26 +1,27 @@
 ---
-title: Upgrade de la Skype pentru afaceri la sediul teams
+title: Faceți upgrade de la Skype for Business în spații către teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43727299"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734779"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Upgrade de la Skype pentru afaceri la sediul teams
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Faceți upgrade de la Skype for Business în spații către teams
 
-Dacă ați implementat Skype for Business sau Microsoft Lync la fața locului și organizația dorește să facă upgrade la Echipe, urmați instrucțiunile din articolul de mai jos. Va trebui să configurați conectivitatea hibridă cu entitatea găzduită, apoi să mutați utilizatorii în Echipe și să le atribuiți modul corespunzător de coexistență și upgrade. 
+Dacă ați implementat Skype for Business sau Microsoft Lync în spații și Organizația dorește să facă upgrade la teams, urmați instrucțiunile din articolul de mai jos. Va trebui să configurați conectivitatea hibridă cu entitatea găzduită, apoi să mutați utilizatorii în echipe și să le atribuiți modul de coexistență și upgrade corespunzător. 
 
-[Upgrade de la Skype pentru afaceri local la Echipe](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Faceți upgrade de la Skype for Business local la teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 
