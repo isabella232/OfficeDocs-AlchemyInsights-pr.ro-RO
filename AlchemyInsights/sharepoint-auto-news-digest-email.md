@@ -1,30 +1,31 @@
 ---
-title: E-mail SharePoint Auto Digest
+title: E-mail auto Digest SharePoint
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: fbca2ef975b46451c833bcc2691e008a9d82c28f
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751183"
 ---
-# <a name="sharepoint-auto-digest-email"></a>E-mail SharePoint Auto Digest
+# <a name="sharepoint-auto-digest-email"></a>E-mail auto Digest SharePoint
 
-SharePoint Auto-News Digest trimite e-mailuri automate utilizatorilor din companie despre cele mai recente postări de știri pe care nu le-au citit încă și care sunt relevante pentru ei.
+SharePoint Auto-News Digest trimite mesaje de e-mail automate către utilizatori din firmă despre cele mai recente postări de știri pe care nu le-au citit încă, care sunt relevante pentru ele.
 
-Pentru mai multe informații vă rugăm să vizitați[https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Pentru mai multe informații, vă rugăm să vizitați [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- ID foaie de parcurs Microsoft 365: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Calendarul: Clienții de presă direcționate **la mijlocul lunii iulie (anterior iunie** și complet pentru toți clienții de la mijlocul lunii august **(anterior începutul lunii august)**.
-- Cumulare: Implementare la nivel de utilizator
-- Tip control: Control utilizator, **Control admin prin PowerShell (în curând)
+- ID foaie de parcurs Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Temporizare: clienții cu lansare specifică de la  **jumătatea lunii iulie (anterior în iunie**  și final pentru toți clienții până la  **mijlocul lunii august (anterior la începutul lunii august)**.
+- Derulare: ieșire la nivel de utilizator
+- Tip control: control utilizator, * * control administrator prin PowerShell (în curând)
