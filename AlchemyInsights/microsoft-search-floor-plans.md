@@ -1,26 +1,27 @@
 ---
-title: Etaj Planuri
+title: Planuri de nivel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 22aeee56c1c8ce65c1855275d0ed5317c3429b8f
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569659"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724735"
 ---
-# <a name="floor-plans"></a>Etaj Planuri
+# <a name="floor-plans"></a>Planuri de nivel
 
-Pentru informații despre planurile de podea **de căutare Microsoft,** examinați următoarele articole de asistență:
-- [Cele mai bune practici pentru planurile de podea Microsoft Search](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Gestionarea planurilor de podea](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Pentru informații despre se creează un plan de etaj în **Visio**, [revizuiți Creați un plan de etaj](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Pentru informații despre planurile **Microsoft Search**  Floor, examinați următoarele articole de asistență:
+- [Cele mai bune practici pentru planurile Microsoft Search Floor](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Gestionarea planurilor de nivel](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Pentru informații despre cum să creați un plan etaj în  **Visio**, consultați [crearea unui plan de nivel](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

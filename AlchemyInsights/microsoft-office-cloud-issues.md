@@ -5,23 +5,24 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724699"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Întâmpinați probleme cu un serviciu cloud?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Întâmpinați probleme cu un serviciu în cloud?
 
-Dacă întâmpinați probleme cu un serviciu cloud, puteți verifica [starea serviciului](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) din centrul de administrare Microsoft 365 pentru a determina dacă este o problemă cunoscută cu o rezolvare în curs înainte de a apela asistența sau de a petrece timp depanare. Problema poate fi foarte temporară și deja identificată de Microsoft, cu toate acestea poate exista interval de timp între identificarea problemei și postarea în tabloul de bord de sănătate serviciu. Vă rugăm să continuați să verificați tabloul de bord al serviciului pentru actualizări suplimentare.
+Dacă întâmpinați probleme cu un serviciu în cloud, puteți să verificați [starea serviciului](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) în centrul de administrare Microsoft 365 pentru a determina dacă este o problemă cunoscută cu o rezolvare în curs înainte să apelați asistența sau să petreceți timp cu depanare. Problema poate fi foarte temporară și deja identificată de Microsoft, însă este posibil să existe o expirare a timpului între identificarea problemelor și înregistrarea la tabloul de bord stare servicii. Vă rugăm să continuați să verificați tabloul de bord serviciu pentru actualizări ulterioare.
 
 **Politica de notificare**
 
-Atunci când apare un incident de serviciu, Microsoft recunoaște că comunicațiile în timp util, direcționate și exacte sunt critice pentru clienți. Microsoft notifică administratorii prin actualizarea tabloului de bord de sănătate service specific entității [găzduite (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pe portalul de administrare Microsoft 365. Actualizările incidentelor de serviciu sunt furnizate pe o cadență din oră în oră sau, dacă este necesară o cadență diferită, se va menționa în postarea de comunicare SHD. Pentru mai multe informații, consultați [Cum se verifică Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Atunci când apare un incident de serviciu, Microsoft recunoaște faptul că comunicațiile oportune, direcționate și precise sunt critice pentru clienți. Microsoft notifică administratorii prin actualizarea tabloului de bord pentru starea entității găzduite [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) în portalul de administrare Microsoft 365. Actualizările incidentelor de serviciu sunt furnizate într-o cadență orară sau, dacă este necesară o cadență diferită, aceasta va fi indicată în înregistrarea comunicării SHD. Pentru mai multe informații, consultați [cum să verificați starea serviciilor Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
