@@ -5,61 +5,62 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265028"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750325"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Depanarea problemelor audio în Windows 10
 
-**Executarea depanatorului audio**
+**Rularea depanatorului audio**
 
-1.  Deschideți [setările Depanare](ms-settings:troubleshoot).
+1.  Deschideți [setările de depanare](ms-settings:troubleshoot).
 
-2.  Selectați **Redare audio** > **Rulați depanatorul**.
+2.  Selectați **Redare audio**  >  **Rulați depanatorul**.
 
 **Setarea dispozitivului implicit**
 
-Dacă vă conectați la un dispozitiv audio utilizând USB sau HDMI, poate fi necesar să setați dispozitivul ca implicit:
+Dacă vă conectați la un dispozitiv audio utilizând USB sau HDMI, poate fi necesar să setați acel dispozitiv ca implicit:
 
-1. Deschideți **Start** > **Sound**, apoi selectați **Sunet** sau Modificare sunete **de sistem** din lista de rezultate.
+1. Deschideți **pornire**  >  **sunet**, apoi selectați **sunet** sau **modificare sunete de sistem** din lista de rezultate.
 
-2.  Pe fila **Redare,** selectați un dispozitiv, selectați **Setare implicită**, apoi selectați **OK**.
+2.  Pe fila **Redare** , selectați un dispozitiv, selectați **Setare implicit**, apoi selectați **OK**.
 
-**Verificarea cablurilor, volumului, difuzoarelor și căștilor**
+**Verificați cablurile, volumul, difuzoarele și căștile**
 
-1. Verificați conexiunile difuzorului și ale căștilor pentru cabluri lejere și asigurați-vă că acestea sunt conectate la mufa corectă.
+1. Verificați conexiunile difuzoarelor și ale căștilor pentru cablurile libere și asigurați-vă că sunt conectate la mufa corectă.
 
-2. Verificați-vă nivelul de putere și volum și încercați să rotiți toate comenzile de volum în sus.
+2. Verificați nivelurile puterii și volumului și încercați să transformați toate controalele de volum în sus.
 
-3. Unele difuzoare și aplicații au propriile lor controale de volum; s-ar putea să trebuiască să le verifici pe toate pentru a te asigura că sunt la nivelurile potrivite.
+3. Unele difuzoare și aplicații au propriile controale de volum; poate fi necesar să le verificați pe toate pentru a vă asigura că acestea sunt la nivelurile corecte.
 
 4. Încercați să vă conectați utilizând un alt port USB.
 
-**Notă:** Rețineți că este posibil ca difuzoarele să nu funcționeze atunci când căștile sunt conectate.
+**Notă: rețineți**că este posibil ca difuzoarele să nu funcționeze atunci când sunt conectate căști.
 
 **Verificați Manager dispozitive**
 
-Pentru a vă asigura că driverele sunt actualizate:
+Pentru a vă asigura că driverele sunt la zi:
 
 1. Selectați **Start**, tastați **Manager dispozitive**, apoi selectați **Manager dispozitive** din lista de rezultate.
 
-2. Sub **Controlere sunet, video și jocuri**, selectați placa de sunet, deschideți-o, selectați fila **Driver** și selectați **Actualizare driver**.
+2. Sub **Controlere de sunet, video și jocuri**, selectați placa de sunet, deschideți-o, selectați fila **driver** și selectați **Actualizare driver**.
 
-**Notă:** Dacă Windows nu găsește un driver nou, căutați unul pe site-ul Web al producătorului dispozitivului și urmați instrucțiunile acestora.
+**Notă**: dacă Windows nu găsește un driver nou, căutați unul pe site-ul web al producătorului dispozitivului și urmați instrucțiunile.
 
 **Reinstalați driverul**
 
-Dacă nu puteți actualiza prin Manager dispozitive sau găsiți un driver nou pe site-ul Web al producătorului, încercați acești pași:
+Dacă nu puteți să actualizați prin Device Manager sau să găsiți un driver nou pe site-ul web al producătorului, încercați acești pași:
 
-1. În Manager dispozitive, faceți clic dreapta (sau apăsați continuu) pe driverul audio și selectați **Dezinstalare**. Reporniți dispozitivul și Windows va încerca să reinstalați driverul.
+1. În Manager dispozitive, faceți clic dreapta (sau apăsați lung) pe driverul audio și selectați **Dezinstalare**. Reporniți dispozitivul și Windows va încerca să reinstaleze driverul.
 
-2. Dacă reinstalarea driverului nu funcționează, încercați să utilizați driverul audio generic livrat împreună cu Windows. În Manager dispozitive, faceți clic dreapta (sau apăsați continuu) driverul audio > **Actualizare a software-ului** > de driver**Răsfoiește computerul pentru software-ul** > de driver**Permiteți-mi să aleg dintr-o listă de drivere de dispozitiv de pe computer**, selectați Dispozitiv audio de înaltă **definiție**, selectați **Următorul**și urmați instrucțiunile pentru a-l instala.
+2. Dacă reinstalarea driverului nu funcționează, încercați să utilizați driverul audio generic livrat cu Windows. În Manager dispozitive, faceți clic dreapta (sau apăsați lung) driverul audio > **Actualizare software**  >  **de driver răsfoiți computerul meu pentru software de driver**  >  **Permiteți-mi să aleg dintr-o listă de drivere de dispozitiv de pe computer**, selectați **dispozitiv audio de înaltă definiție**, selectați **Următorul**și urmați instrucțiunile pentru a-l instala.
