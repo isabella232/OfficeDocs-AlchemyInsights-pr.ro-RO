@@ -1,23 +1,24 @@
 ---
-title: Browsere web acceptate de echipe
+title: Browsere web acceptate de teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599388"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750535"
 ---
-# <a name="teams-supported-web-browsers"></a><span data-ttu-id="76539-102">Browsere web acceptate de echipe</span><span class="sxs-lookup"><span data-stu-id="76539-102">Teams-supported web browsers</span></span>
+# <a name="teams-supported-web-browsers"></a><span data-ttu-id="0a06b-102">Browsere web acceptate de teams</span><span class="sxs-lookup"><span data-stu-id="0a06b-102">Teams-supported web browsers</span></span>
 
-<span data-ttu-id="76539-103">Echipele acceptă pe deplin browserele de Internet enumerate în articol, [Limite și specificații pentru Microsoft Teams,](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)cu excepții notate pentru apelare și întâlniri.</span><span class="sxs-lookup"><span data-stu-id="76539-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
+<span data-ttu-id="0a06b-103">Teams acceptă pe deplin browserele Internet listate în articolul, [limitele și specificațiile pentru Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), cu excepții notabile pentru apeluri și întâlniri.</span><span class="sxs-lookup"><span data-stu-id="0a06b-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>

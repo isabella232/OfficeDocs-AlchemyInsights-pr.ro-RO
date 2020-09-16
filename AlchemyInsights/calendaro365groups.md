@@ -1,22 +1,23 @@
 ---
-title: Calendar 402 - Grupuri O365
+title: Calendar 402-O365Groups
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 76c984f08c4aac4879b3117129b405b69c9d21af
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 3306a1d68d44b8b2e6b64ae4f591107d4f4559f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911377"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748769"
 ---
-# <a name="calenders-in-microsoft-365-groups"></a><span data-ttu-id="635d4-102">Calendare în grupuri Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="635d4-102">Calenders in Microsoft 365 Groups</span></span>
+# <a name="calenders-in-microsoft-365-groups"></a><span data-ttu-id="2c7a2-102">Calendarele din Microsoft 365 Groups</span><span class="sxs-lookup"><span data-stu-id="2c7a2-102">Calenders in Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="635d4-103">Pentru mai multe informații despre calendarele din grupurile Microsoft 365, consultați [Aflați despre Grupurile Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span><span class="sxs-lookup"><span data-stu-id="635d4-103">For more information about calendars in Microsoft 365 Groups, see [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span></span>
+<span data-ttu-id="2c7a2-103">Pentru mai multe informații despre calendare în Microsoft 365 Groups, consultați [Aflați despre grupurile Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span><span class="sxs-lookup"><span data-stu-id="2c7a2-103">For more information about calendars in Microsoft 365 Groups, see [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span></span>
