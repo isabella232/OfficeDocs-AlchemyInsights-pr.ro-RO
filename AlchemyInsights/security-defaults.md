@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118387"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740342"
 ---
 # <a name="security-defaults"></a>Valori implicite de securitate
 
-Pentru informații despre valorile implicite de securitate, consultați [Ce sunt valorile implicite de securitate?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Pentru informații despre valorile implicite de securitate, consultați [ce sunt valorile implicite de securitate?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Valorile implicite de securitate din Azure Active Directory (Azure AD) facilitează securizarea și protejarea organizației. Valorile implicite de securitate conțin setări de securitate preconfigurate pentru atacuri lecomune.
+Setările implicite de securitate din Azure Active Directory (Azure AD) vă ajută să fiți mai ușor de securizat și să contribuiți la protejarea organizației. Setările implicite de securitate conțin setări de securitate preconfigurate pentru atacuri comune.
 
-Microsoft pune la dispoziția tuturor valorile implicite de securitate. Scopul este de a se asigura că toate organizațiile au un nivel de bază de securitate activat fără costuri suplimentare. Activați valorile implicite de securitate în portalul Azure.
+Microsoft face disponibile toate setările implicite de securitate pentru toată lumea. Scopul este să vă asigurați că toate organizațiile au un nivel de securitate de bază activat fără costuri suplimentare. Activați setările implicite de securitate în portalul Azure.
