@@ -1,11 +1,12 @@
 ---
-title: Cerere de stare de verificare a creditului
+title: Solicitarea stării verificării creditului
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: 73e2faec9593bb0399056b614632a853f189ee65
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705349"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746447"
 ---
-# <a name="credit-check-status-request"></a>Cerere de stare de verificare a creditului
+# <a name="credit-check-status-request"></a>Solicitarea stării verificării creditului
 
-Comanda este în așteptarea verificării creditului. Acest lucru este în mod normal, finalizat în mai puțin de 24 de ore, dar poate dura până la 48 de ore. Când va fi finalizată, starea abonamentului se va schimba din În așteptare în Activ, iar serviciile vor fi disponibile pentru utilizare.
+Comanda dumneavoastră este în curs de verificare a creditului. Acest lucru este finalizat în mod normal în mai puțin de 24 de ore, dar poate dura până la 48 de ore. Atunci când sunteți gata, starea abonamentului se va modifica de la în așteptare la activ, iar serviciile vor fi disponibile pentru utilizare.
 
-Pentru mai multe informații, consultați [când poate fi necesară o verificare a creditului](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).
+Pentru mai multe informații, consultați [când este posibil să fie necesară o verificare a creditului](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).
