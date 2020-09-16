@@ -1,33 +1,34 @@
 ---
-title: Ștergeți definitiv un e-mail în Outlook
+title: Ștergerea definitivă a unui mesaj de e-mail în Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: d9b74b39c344559c87147d9f8efb6b6e6f8238b3
-ms.sourcegitcommit: e5e09d841fe397a6f841d617a9ae0a560d41a3f2
+ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42395740"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771697"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Ștergeți definitiv un e-mail în Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Ștergerea definitivă a unui mesaj de e-mail în Outlook
 
-- Din vizualizarea inbox, apăsați lung un mesaj și veți vedea pictograma coș de gunoi. Atingeți această pictogramă pentru a șterge mesajul.
+- Din vizualizarea Inbox, apăsați lung un mesaj și veți vedea pictograma Coș de gunoi. Atingeți această pictogramă pentru a șterge mesajul.
 
-- De asemenea, puteți seta opțiunea "delete" ca opțiune de glisare (**Setări -> Opțiuni glisare**); apoi utilizați degetul pentru a glisa pe e-mailul pe care doriți să îl ștergeți. 
+- De asemenea, puteți să setați "Ștergere" ca opțiune de glisare (**Setări-> trageți cu degetul**); Apoi, utilizați degetul pentru a glisa prin corespondența pe care doriți să o ștergeți. 
 
-- Pentru a șterge un mesaj dintr-o vizualizare deschisă prin e-mail, atinge pictograma Coș de gunoi din partea de sus a ecranului. Mesajele șterse vor fi mutate în folderul Coș de gunoi. 
+- Pentru a șterge un mesaj dintr-o vizualizare de e-mail deschisă, atingeți pictograma Coș de gunoi din partea de sus a ecranului. Mesajele șterse vor fi mutate în folderul Coș de gunoi. 
 
-**Pentru a șterge definitiv un e-mail**
+**Pentru a șterge definitiv un mesaj de e-mail**
 
-- Accesați folderul coș de gunoi din vizualizarea de e-mail, atingeți pictograma cont (3 linii) și apăsați pe folderul coș de gunoi.
+- Accesați folderul Coș de gunoi din vizualizarea corespondență, atingeți pictograma cont (3 linii), apoi atingeți folderul Coș de gunoi.
 
-- Ștergeți e-mailurile individuale sau marcați mai multe e-mailuri și ștergeți-le de aici; acestea vor fi șterse definitiv.
+- Să ștergeți mesajele de e-mail individuale sau să marcați mai multe mesaje de e-mail și să le ștergeți de aici; Acestea vor fi șterse definitiv.
