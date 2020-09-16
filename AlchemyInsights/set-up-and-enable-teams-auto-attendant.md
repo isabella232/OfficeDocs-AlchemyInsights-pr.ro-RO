@@ -1,29 +1,30 @@
 ---
-title: Instalare și activare operator automat echipe
+title: Configurarea și activarea operatorului automat teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: e55239d6a06e6e590066e5e5bd66579d111f5b89
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344179"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801124"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Configurarea unui operator automat de cloud
+# <a name="set-up-a-cloud-auto-attendant"></a>Configurarea unui operator automat în cloud
 
-Însoțitorii auto au în prezent cerințe specifice de licențiere. Vedeți [ce sunt asistenți auto Cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) pentru a afla despre crearea și parametrizarea însoțitorilor auto ai echipelor. 
+Operatorii automați au în prezent cerințe specifice de licențiere. Vedeți [ce sunt operatorii automați din cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) pentru a afla despre crearea și configurarea operatorilor automați teams. 
 
-Pentru informații suplimentare, consultați:
+Pentru mai multe informații, consultați:
 
-- [Configurați un operator automat Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) cu Microsoft teams. 
-- [Creați o coadă de apel Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) cu Microsoft teams. 
-- [Răspundeți la apelurile automate și la coada apelurilor direct din teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Configurați un operator automat în cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) cu Microsoft teams. 
+- [Creați o coadă de apel în cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) cu Microsoft teams. 
+- [Răspundeți la apeluri operator automat și apelați cozi direct din teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
