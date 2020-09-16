@@ -1,11 +1,12 @@
 ---
-title: Citirea chitanțelor în Outlook.com
+title: Confirmări de citire în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
@@ -14,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8b610fad6789b57320c3d18d557f1d9e3b9ad65e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744233"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723763"
 ---
-# <a name="read-receipts"></a>Citirea chitanțelor
+# <a name="read-receipts"></a>Confirmări de citire
 
-Nu puteți solicita o confirmare de citire în Outlook.com, dar aveți posibilitatea să solicitați confirmări de citire pentru Outlook.com mesajele trimise utilizând Outlook pentru Windows. Pentru a afla, consultați [Adăugarea și solicitarea confirmării de citire și a notificărilor de livrare](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Nu puteți solicita o confirmare de citire în Outlook.com, dar puteți solicita confirmări de citire pentru mesajele Outlook.com trimise utilizând Outlook pentru Windows. Pentru a afla cum, consultați [adăugarea și solicitarea de confirmări de citire și notificări de livrare](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Pentru a alege modul în care Outlook.com răspunde solicitărilor de confirmare de citire, accesați [Citire setări chitanță](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Pentru a alege modul în care Outlook.com răspunde la solicitările de confirmare a citirii, accesați [setările de confirmare a citirii](https://outlook.live.com/mail/options/mail/handling/readReceipts).
