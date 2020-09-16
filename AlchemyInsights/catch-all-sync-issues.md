@@ -1,10 +1,11 @@
 ---
-title: Prinde toate problemele de sincronizare
+title: Captură toate problemele de sincronizare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506302"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757060"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Depanarea sincronizării Outlook de bază
+# <a name="basic-outlook-sync-troubleshooting"></a>Depanare de sincronizare Outlook de bază
 
 Dacă întâmpinați probleme de sincronizare, încercați următoarele:
 
-- Executați [acest instrument de diagnosticare](https://aka.ms/sara-outlooksendreceive) pe computerul afectat.
-- Reduceți numărul de foldere din cutia poștală principală sau partajată. Consultați [Probleme de performanță Outlook atunci când există prea multe elemente sau foldere într-un folder de fișier .ost mode sau .pst în modul Cached](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
+- Rulează [acest instrument de diagnosticare](https://aka.ms/sara-outlooksendreceive) pe mașina afectată.
+- Reduceți numărul de foldere din cutia poștală principală sau partajată. Consultați [probleme de performanță Outlook atunci când sunt prea multe elemente sau foldere într-un folder de fișiere în modul cached. ost sau. pst](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
 - Dezactivați memorarea în cache a tuturor folderelor partajate.
-- Modificați configurația cutiei poștale Exchange secundare la un al doilea cont Exchange în profilul dvs.
-- Asigurați-vă că utilizatorul se poate conecta la Internet. 
-- [Verificați dacă sunteți online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
+- Modificați configurația cutiei poștale Exchange secundare într-un al doilea cont Exchange din profilul dvs.
+- Asigurați-vă că utilizatorul se poate conecta la internet. 
+- [Verificați](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)dacă sunteți online.
 - [Determinați dacă se aplică o regulă](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Verificați dacă **descărcarea folderelor partajate** este activată, degând setările contului de **fișier** > **Account Settings** > **Setări** > cont**Mai multe setări** > **complexe**.
+- Verificați dacă **Descărcarea folderelor partajate** este activată, accesând Setări cont **fișier**setările  >  **Account Settings**  >  **contului**  >  **mai multe setări**  >  **avansate**.
