@@ -1,47 +1,48 @@
 ---
-title: Depanarea evenimentelor din e-mail
+title: Depanarea evenimentelor din E-mail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569406"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658746"
 ---
-# <a name="troubleshooting-events-from-email"></a>Depanarea evenimentelor din e-mail
+# <a name="troubleshooting-events-from-email"></a>Depanarea evenimentelor din E-mail
 
-1. Verificați caracteristica este activată pentru cutia poștală: **Get-EventsFromEmailConfiguration -Identitate <mailbox> **
+1. Verificați dacă este activată caracteristica pentru cutia poștală: **Get-EventsFromEmailConfiguration <mailbox> -Identity**
 
-2. Apoi, uita-te la "Evenimente din e-mail" jurnalele **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Apoi, uitați-vă la "evenimente din e-mailul" jurnalele de **Export-MailboxDiagnosticLogs <mailbox> -componenta TimeProfile**
 
-3. În jurnalele 'Evenimente din e-mail', găsiți InternetMessageId care se potrivește cu elementul din cutia poștală.  
+3. În jurnalele "evenimente din E-mail", găsiți InternetMessageId care se potrivește cu elementul din cutia poștală.  
 
-4. Scorul de încredere determină dacă elementul este adăugat sau nu. Evenimentele vor fi adăugate numai dacă TrustScore = "Încredere".
+4. TrustScore determină dacă elementul este adăugat sau nu. Evenimentele vor fi adăugate doar dacă TrustScore = "de încredere".
 
-TrustScore este determinată de proprietățile SPF, Dkim sau Dmarc, care se află în antetul mesajului.
+TrustScore este determinată de proprietățile SPF, DKIM sau DMARC, care se află în antetul mesajului.
 
 Pentru a vizualiza aceste proprietăți:
 
-**Discutii pe forum Windows 7**
+**Outlook pentru desktop**
 
 - Deschiderea elementului
-- Fișier -> Proprietăți -> anteturi Internet
+- Fișier-> proprietăți-> anteturi de Internet
 
-Sau
+sau
 
-**Mfcmapi**
+**MFCMapi**
 
-- Navigarea la elementul din inbox
-- Caută PR_TRANSPORT_MESSAGE_HEADERS_W
+- Navigarea la elementul din Inbox
+- Căutați PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Aceste proprietăți sunt determinate și înregistrate în timpul transportului și dirijării. Pentru depanare suplimentară, poate fi necesar să urmăriți cu Asistență pentru transport despre defecțiunile din SPF, DKIM și.sau DMARC.
+Aceste proprietăți sunt determinate și înregistrate în timpul transportului și rutare. Pentru depanarea ulterioară, poate fi necesar să urmăriți asistența pentru transport cu privire la erorile din SPF, DKIM și. or DMARC.

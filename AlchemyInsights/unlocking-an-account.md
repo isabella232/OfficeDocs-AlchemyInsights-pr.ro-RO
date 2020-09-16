@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799063"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657909"
 ---
 # <a name="unlocking-an-account"></a>Deblocarea unui cont
 
@@ -40,4 +41,4 @@ Este posibil ca accesul utilizatorilor să fie blocat din Microsoft 365 din cauz
 
 Pentru mai multe scenarii de resetare a parolei, inclusiv resetarea parolei cu autoservire, consultați [Resetarea parolelor Microsoft 365 Business pentru încercări multiple de debitare a instrumentelor de plată online](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Serviciul previne utilizatorul să trimită mesaje de e-mail după detectarea unor elemente care ar indica un cont compromis și/sau a unui spam de ieșire. Ca măsură de precauție, urmați pașii din [Răspundeți la un cont de e-mail compromis în Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) pentru utilizator.
+Serviciul previne utilizatorul să trimită mesaje de e-mail după detectarea unor elemente care ar indica un cont compromis și/sau a unui spam de ieșire. Ca măsură de precauție, urmați pașii din [Răspundeți la un cont de e-mail compromis în Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) pentru utilizator.
