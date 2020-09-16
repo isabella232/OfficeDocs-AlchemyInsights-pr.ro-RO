@@ -1,24 +1,25 @@
 ---
-title: Mesaje notificare de abonament în aplicațiile Office
+title: Mesaje de notificare a abonamentului în aplicațiile Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659250"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Mesaje notificare de abonament în aplicațiile Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Mesaje de notificare a abonamentului în aplicațiile Microsoft 365
 
 - Dacă Office a fost preinstalat pe noul dvs. dispozitiv, consultați [Activare Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) pentru ajutor cu activarea Office pe noul dvs. dispozitiv.
 
@@ -32,10 +33,10 @@ ms.locfileid: "43789206"
 
 - Rulați [Depanatorul de activare](https://aka.ms/SARA-OfficeActivation-Alchemy) și reporniți computerul.
 
-- Pe computerul afectat, [resetați starea de activare Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Pe computerul afectat, [resetați starea de activare Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Pentru instrucțiuni detaliate, consultați: 
 
-[Când deschid o aplicație Microsoft 365, apare o notificare de abonament](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Apare o notificare de abonament când deschid aplicația Microsoft 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Depanarea problemelor de activare Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
