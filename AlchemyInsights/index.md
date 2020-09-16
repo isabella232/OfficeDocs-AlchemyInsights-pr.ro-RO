@@ -1,22 +1,23 @@
 ---
-title: Alchimie Insights Home
+title: Pagina de pornire a ideilor Alchemy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 28f2ed5c76a0906c9512197a041366d46e864050
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3436e6f967be84e2e86c9cf8add0094f84dc5361
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711139"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755791"
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="1ada7-102">Alchemy Insights</span><span class="sxs-lookup"><span data-stu-id="1ada7-102">Alchemy Insights</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="eefca-102">Alchemy Insights</span><span class="sxs-lookup"><span data-stu-id="eefca-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="1ada7-103">Această bibliotecă este rezervată pentru conținutul de ajutor din aplicație.</span><span class="sxs-lookup"><span data-stu-id="1ada7-103">This library is reserved for in-app help content.</span></span>
+<span data-ttu-id="eefca-103">Această bibliotecă este rezervată pentru conținutul de ajutor în aplicație.</span><span class="sxs-lookup"><span data-stu-id="eefca-103">This library is reserved for in-app help content.</span></span>
