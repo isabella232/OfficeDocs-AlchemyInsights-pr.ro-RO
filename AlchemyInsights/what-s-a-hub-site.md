@@ -1,24 +1,25 @@
 ---
-title: Ce este un hub site- ul?
+title: Ce este un site hub?
 ms.author: clake
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: d20d82aca926283a62015bd4dd84a97c347ef2d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765319"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767467"
 ---
-# <a name="whats-a-hub-site"></a>Ce este un hub site- ul?
+# <a name="whats-a-hub-site"></a>Ce este un site hub?
 
-Un site hub vă ajută să organizați site-uri și să le oferiți o navigare și o marcă obișnuite. Administratorii globali sau SharePoint vor putea crea site-uri hub și vor putea specifica utilizatorii care își pot asocia site-urile cu site-ul hub. Pentru mai multe informații, consultați [Site-uri hub SharePoint](https://go.microsoft.com/fwlink/?linkid=869388).
+Un site hub vă ajută să organizați site-uri și să le oferiți o navigare și branding comune. Administratorii globali sau SharePoint vor putea să creeze site-uri hub și să specifice ce utilizatori își pot asocia site-urile cu site-ul hub. Pentru mai multe informații, consultați [site-uri hub SharePoint](https://go.microsoft.com/fwlink/?linkid=869388).
   
