@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: ae9d45741f5bdd8ab6df1bc35c51663f7b937a47
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573588"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745286"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Găsirea paginii care afișează persoanele mele de contact
 
-Puteți să vă căutați persoanele de contact în același mod în care vă căutați e-mailurile.
+Puteți să căutați persoanele de contact în același fel în care căutați mesajele de e-mail.
  
-Atingepictograma de căutare a lupei, apoi tastati solicitarea de căutare a persoanei de contact în caseta din partea de sus a ecranului. **(Protip:** Puteți de două ori-robinet pe lupa pentru a aduce se concentreze la caseta de căutare.) Rezultatele vor apărea în secțiunea Persoane de contact.
+Atingeți pictograma de căutare lupă, apoi tastați solicitarea de căutare a persoanei de contact în caseta din partea de sus a ecranului. (**PROTIP**: puteți să atingeți de două ori pe lupa pentru a aduce focalizarea la caseta de căutare.) Rezultatele vor apărea în secțiunea persoane de contact.

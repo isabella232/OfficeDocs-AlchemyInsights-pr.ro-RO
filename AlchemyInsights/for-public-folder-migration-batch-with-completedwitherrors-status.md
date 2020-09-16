@@ -1,31 +1,32 @@
 ---
-title: Pentru public folder migrare batch cu CompletedWithErrors stare
+title: Pentru grupul de migrare foldere publice cu starea CompletedWithErrors
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158630"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744125"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Pentru public folder migrare batch cu CompletedWithErrors stare
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Pentru grupul de migrare foldere publice cu starea CompletedWithErrors
 
-Utilizați următorii pași pentru a finaliza lotul, sărind peste elementele mari/nere: 
-1. Aprobați elementele ignorate din grupul de migrare:
+Utilizați următorii pași pentru a finaliza lotul, ignorând elementele mari/rele: 
+1. Aprobați elementele omise din grupul de migrare:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Utilizați următoarea comandă pentru a aproba elementele ignorate la solicitările de migrare care sunt "sincronizate", dar nu s-au terminat:
+2. Utilizați următoarea comandă pentru a aproba elementele omise din solicitările de migrare care sunt "sincronizate", dar nefinalizate:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Lotul de migrare și solicitările ar trebui să reia și să se finalizeze în câteva minute.
+3. Grupul de migrare și solicitările trebuie să se reia și să se termine în câteva minute.
 
