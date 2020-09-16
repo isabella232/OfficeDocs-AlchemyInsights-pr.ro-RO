@@ -1,35 +1,36 @@
 ---
-title: Activarea auditării cutiilor poștale
+title: Activarea auditării cutiei poștale
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 2bcfb7cc174cd58b21e1bb0c82f0d7cdb25e2fdd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 404ef9ecd824541f98471bb8797f5f6e025012b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506966"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806303"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="74a8d-102">Activarea auditării cutiilor poștale</span><span class="sxs-lookup"><span data-stu-id="74a8d-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="24c52-102">Activarea auditării cutiei poștale</span><span class="sxs-lookup"><span data-stu-id="24c52-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="74a8d-103">Pentru a activa Mailbox Auditing pentru un singur utilizator sau o întreagă organizație, următoarele cmdlet-uri trebuie executate din Remote Power Shell:</span><span class="sxs-lookup"><span data-stu-id="74a8d-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="24c52-103">Pentru a activa auditarea cutiei poștale pentru un singur utilizator sau pentru o întreagă organizație, trebuie să ruleze următoarele cmdleturi de la Remote Power Shell:</span><span class="sxs-lookup"><span data-stu-id="24c52-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="74a8d-104">**Utilizator unic**</span><span class="sxs-lookup"><span data-stu-id="74a8d-104">**Single User**</span></span>
+ <span data-ttu-id="24c52-104">**Utilizator unic**</span><span class="sxs-lookup"><span data-stu-id="24c52-104">**Single User**</span></span>
   
-<span data-ttu-id="74a8d-105">Set-Mailbox -Identitate "Jane Dow" -AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="74a8d-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="24c52-105">Set-cutia poștală-identitatea "Jane Dow"-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="24c52-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="74a8d-106">**Organizaţie**</span><span class="sxs-lookup"><span data-stu-id="74a8d-106">**Organization**</span></span>
+ <span data-ttu-id="24c52-106">**Organizația**</span><span class="sxs-lookup"><span data-stu-id="24c52-106">**Organization**</span></span>
   
-<span data-ttu-id="74a8d-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="74a8d-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="24c52-107">Get-Mailbox-ResultSize Nelimitat-Filter {RecipientTypeDetails-EQ "UserMailbox"} | Set-Mailbox-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="24c52-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="74a8d-108">Aflați mai multe</span><span class="sxs-lookup"><span data-stu-id="74a8d-108">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
+[<span data-ttu-id="24c52-108">află mai multe</span><span class="sxs-lookup"><span data-stu-id="24c52-108">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
   
 
