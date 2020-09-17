@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: 593f483ac72081617f0b56ef22d4b7c1f77af06b
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682250"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782627"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Eroare "nu a reușit să creați planul" atunci când încercați să creați o filă Planificator în Microsoft teams
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Eroarea "nu s-a reușit crearea planului" atunci când încercați să creați o filă planner în Microsoft teams
 
-Dacă primiți o eroare "Failed pentru a crea planul" atunci când încercați să creați o filă Planificator în Microsoft teams, asigurați-vă că administratorul este un membru al grupului urmând acești pași:
+Dacă primiți eroarea "nu s-a reușit crearea planului" atunci când încercați să creați o filă planner în Microsoft teams, asigurați-vă că administratorul este membru al grupului, urmând acești pași:
 
-1. În centrul de administrare, accesați[](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups) > grupuri **grupuri.** 
-2. Selectați grupul, apoi, în fila **Membri** , selectați **Vizualizați toți și gestionați membrii**.
+1. În centrul de administrare, **accesați grupuri grupuri**  >  [Groups](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
+2. Selectați grupul, apoi, pe fila **Membri** , selectați **Vizualizați toți și gestionați membri**.
 3. Adăugați membrul și selectați **Salvare**.

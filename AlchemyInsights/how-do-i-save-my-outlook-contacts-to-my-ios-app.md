@@ -1,31 +1,32 @@
 ---
-title: salvez contactele Outlook în aplicația mea de contacte iOS?
+title: Cum îmi salvez persoanele de contact Outlook în aplicația persoane de contact iOS?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 822045496ad5efcc7610fd8a316b8bcd7b38a79f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627786"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781799"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>salvez contactele Outlook în aplicația mea de contacte iOS?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Cum îmi salvez persoanele de contact Outlook în aplicația persoane de contact iOS?
 
-Pentru a salva contactele Outlook în agenda nativă:
+Pentru a salva persoanele de contact Outlook în agenda nativă:
  
-1. Du-te la **setările** > dispozitivului**contacte** și confirmați că **contul implicit** este setată la **iCloud**. Rețineți că această setare este disponibilă numai dacă aveți mai mult de un cont adăugat la dispozitiv. Dacă nu există niciun cont conectat la dispozitiv, contactele Outlook vor fi salvate local, dar nu vor fi sincronizate cu alte dispozitive.
+1. Accesați persoanele de contact ale **setărilor dispozitivului**  >  **Contacts** și confirmați că **contul implicit** este setat la **iCloud**. Rețineți că această setare este disponibilă doar dacă aveți mai multe conturi adăugate pe dispozitiv. Dacă nu există niciun cont conectat la dispozitiv, persoanele de contact Outlook vor fi salvate local, dar nu vor fi sincronizate pe alte dispozitive.
  
-2. Deschideți Outlook pentru iOS și, în navigarea din stânga, selectați echipamentul setări, alegeți **Selectați contul**și activați comutatorul **Salvare contacte** .
+2. Deschideți Outlook pentru iOS și, în navigarea stângă, selectați echipamentul de setări, alegeți **Selectați-vă contul**și activați opțiunea **Salvare persoane de contact** .
  
-Contactele salvate vor fi adăugate sub contactele din contul tău iCloud. Aceste contacte se vor sincroniza cu toate dispozitivele care sunt conectate cu același cont iCloud. Rețineți că puteți exporta numai contactele de pe un dispozitiv la un moment dat.
+Persoanele de contact salvate vor fi adăugate sub persoanele de contact din contul iCloud. Aceste persoane de contact se vor sincroniza cu toate dispozitivele care sunt conectate cu același cont iCloud. Rețineți că puteți exporta doar persoanele de contact de pe un dispozitiv o dată.
  
-Dacă un utilizator are contact-export activat, atât iPad lor și iPhone unul va trebui să fie dezactivat pentru a evita conflictele. Duplicatele pot dura până la 24 de ore pentru a fi reconciliate.
+Dacă un utilizator are o persoană de contact-export activată, atât iPad, cât și iPhone va trebui să fie dezactivat pentru a evita conflictele. Dublurile pot dura până la 24 de ore pentru a fi reconciliated.
