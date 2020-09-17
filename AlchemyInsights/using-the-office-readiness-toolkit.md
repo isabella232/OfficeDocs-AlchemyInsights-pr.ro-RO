@@ -1,24 +1,25 @@
 ---
-title: Utilizarea Setului de instrumente pregătire Office
+title: Utilizarea kitului de instrumente de pregătire Office
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: f6ead7c1f0e146056c008226c5689b912fd1fdf5
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010698"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794887"
 ---
-# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="5f13a-102">Utilizarea Setului de instrumente pregătire Office</span><span class="sxs-lookup"><span data-stu-id="5f13a-102">Using the Office Readiness Toolkit</span></span>
+# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="435b2-102">Utilizarea kitului de instrumente de pregătire Office</span><span class="sxs-lookup"><span data-stu-id="435b2-102">Using the Office Readiness Toolkit</span></span>
 
-<span data-ttu-id="5f13a-103">Pentru informații despre utilizarea Setului de instrumente De pregătire Office, consultați [Utilizarea Setului de instrumente de pregătire pentru a evalua compatibilitatea aplicațiilor pentru Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span><span class="sxs-lookup"><span data-stu-id="5f13a-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span></span>
+<span data-ttu-id="435b2-103">Pentru informații despre utilizarea kitului de instrumente de pregătire Office, consultați [utilizarea kitului de instrumente de pregătire pentru a evalua compatibilitatea aplicațiilor pentru aplicațiile Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span><span class="sxs-lookup"><span data-stu-id="435b2-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span></span>
 
-<span data-ttu-id="5f13a-104">Dacă aveți feedback sau întrebări despre Setul de instrumente privind pregătirea, vă rugăm să ne trimiteți un e-mail la ReadyForOffice@microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="5f13a-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
+<span data-ttu-id="435b2-104">Dacă aveți feedback sau întrebări despre Kitul de instrumente de pregătire, vă rugăm să ne trimiteți un e-mail la ReadyForOffice@microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="435b2-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>

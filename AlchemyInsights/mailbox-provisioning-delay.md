@@ -1,25 +1,26 @@
 ---
-title: Întârziere a furnizării cutiei poștale
+title: Întârzierea accesului la cutia poștală
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762689"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794418"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="21868-102">Cutia poștală a utilizatorului este creată</span><span class="sxs-lookup"><span data-stu-id="21868-102">Your user's mailbox is being created</span></span>
+# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="abf7e-102">Se creează cutia poștală a utilizatorului</span><span class="sxs-lookup"><span data-stu-id="abf7e-102">Your user's mailbox is being created</span></span>
 
-<span data-ttu-id="21868-103">Poate dura până la o oră înainte ca o nouă cutie poștală să fie gata de utilizare.</span><span class="sxs-lookup"><span data-stu-id="21868-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="abf7e-103">Poate dura până la o oră înainte ca o nouă cutie poștală să fie gata de utilizare.</span><span class="sxs-lookup"><span data-stu-id="abf7e-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="21868-104">Dacă cutia poștală a unui utilizator a fost "pregătirea" pentru mai mult de o oră, puteți încerca ștergerea și apoi re-crearea utilizatorului, sau utilizați opțiunea "Să te sun" pentru a vorbi cu un inginer de asistență.</span><span class="sxs-lookup"><span data-stu-id="21868-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="abf7e-104">Dacă cutia poștală a unui utilizator s-a "pregătit" pentru mai mult de o oră, puteți încerca să ștergeți, apoi să creați din nou utilizatorul sau să utilizați opțiunea "Permiteți-ne să vă apelăm" pentru a discuta cu un inginer de asistență.</span><span class="sxs-lookup"><span data-stu-id="abf7e-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
