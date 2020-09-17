@@ -1,23 +1,24 @@
 ---
-title: Revenire la Outlook clasic pe web
+title: Reveniți la versiunea clasică Outlook pe web
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 5fe1b04c69527cc12902f6d33fee50d6b1673f49
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765641"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805871"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Noul Outlook de pe web
+# <a name="the-new-outlook-on-the-web"></a>Noua versiune Outlook pe web
 
-Nu mai este posibil să reveniți la Outlook clasic pe experiența web. Dacă doriți să oferiți feedback despre noua experiență, accesați [forumul UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). Puteți vota ideile sau problemele pe care doriți să le vedeți abordate și vom răspunde direct la comentariile și sugestiile de top.
+Nu mai este posibil să reveniți la versiunea clasică Outlook pe web experience. Dacă doriți să oferiți feedback despre noua experiență, accesați [forumul uservoice](https://go.microsoft.com/fwlink/?linkid=2103182). Puteți vota ideile sau problemele pe care doriți să le vedeți abordate și vom răspunde direct la comentariile și sugestiile principale.
 
-[Obțineți ajutor cu noul Outlook pe web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Obțineți ajutor pentru noua versiune Outlook pe web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

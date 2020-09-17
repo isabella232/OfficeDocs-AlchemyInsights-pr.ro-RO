@@ -5,25 +5,26 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931448"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807671"
 ---
 # <a name="conditional-access-with-intune"></a>Acces condiționat cu Intune
 
-Utilizarea **accesului condiționat** cu Intune necesită 3 pași:
+Utilizarea  **accesului condiționat**  cu Intune necesită 3 pași:
 
-- Creați o **politică de conformitate** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) pentru a defini setările care trebuie îndeplinite înainte ca dispozitivul să fie considerat compatibil. De exemplu, un dispozitiv trebuie să aibă un ac de cel puțin 6 cifre înainte de a fi considerat conform.
-- Creați o **politică de acces condiționat** care definește ce resurse sunt protejate și ce condiții trebuie îndeplinite pentru a accesa aceste resurse.  [De exemplu,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) un dispozitiv trebuie să fie compatibil înainte de a accesa e-mailul companiei.
-- Asigurați-vă că atât **politicile de conformitate,** cât și **politicile de acces condiționat** sunt direcționate către grupurile de utilizatori dorite. Acest lucru poate necesita crearea anumitor grupuri de utilizatori în Azure Active Directory.
+- Creați o  **politică de conformitate**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) pentru a defini setările care trebuie îndeplinite înainte ca dispozitivul să fie considerat conform. De exemplu, un dispozitiv trebuie să aibă un cod PIN de cel puțin 6 cifre înainte de a fi considerat conform.
+- Creați o **politică de acces condiționat**  care definește ce resurse sunt protejate și ce condiții trebuie îndeplinite pentru a accesa acele resurse.  [De exemplu,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  un dispozitiv trebuie să fie compatibil înainte de a accesa e-mailul corporativ.
+- Asigurați-vă că **politicile de conformitate**  și  **politicile de acces condiționat**  sunt direcționate către grupurile dorite de utilizatori. Acest lucru poate necesita crearea anumitor grupuri de utilizatori în Azure Active Directory.
 
-**Link-uri utile:**
+**Linkuri utile:**
 
 [Prezentare generală a conformității dispozitivelor](https://docs.microsoft.com/intune/device-compliance-get-started)
 
@@ -31,7 +32,7 @@ Utilizarea **accesului condiționat** cu Intune necesită 3 pași:
 
 [Politica de depanare](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-Pentru a proteja e-mailul (Exchange online) de accesul dispozitivelor neconforme, ambele documente trebuie urmate:
+Pentru a proteja e-mailul (Exchange Online) de la acces la dispozitive neconforme, trebuie respectate ambele documente:
 
-1. [Protejarea accesului la e-mail împotriva dispozitivelor care utilizează EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Protejarea accesului la e-mail de dispozitive utilizând clienți de autentificare moderni, ar fi Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Protejarea accesului la e-mail de pe dispozitive utilizând EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Protejarea accesului la e-mail de pe dispozitive utilizând clienți moderni de autentificare, cum ar fi Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
