@@ -1,29 +1,30 @@
 ---
-title: Alăturați-vă întâlnirilor echipelor
+title: Asocierea la întâlnirile teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627622"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772923"
 ---
-# <a name="join-a-meeting-in-teams"></a>Alăturați-vă unei întâlniri în echipe
+# <a name="join-a-meeting-in-teams"></a>Asocierea la o întâlnire în teams
 
-Pentru a participa la o întâlnire teams, mai întâi setați politicile de întâlnire, apoi direcționa utilizatorii să se alăture de la dispozitivele lor preferate:
+Pentru a vă asocia la o întâlnire teams, setați mai întâi politicile pentru întâlniri, apoi direcționați utilizatorii să se asocieze de la dispozitivele lor preferate:
 
-- Setați politicile de întâlnire care controlează cine va putea să se alăture întâlnirii ca [participanți sau oaspeți](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Setați politicile de întâlnire care controlează cine va putea să se asocieze la întâlnire ca [participanți sau invitați](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Utilizați [cmdleturile](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft teams PowerShell pentru a face modificări de politică.    
+- Utilizați [cmdleturi PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft teams pentru a face modificări de politică.    
 
-**Notă:** Poate dura până la 24 de ore pentru ca modificările de politică să aibă efect.
+**Notă:** Poate dura până la 24 de ore pentru ca modificările politice să aibă efect.

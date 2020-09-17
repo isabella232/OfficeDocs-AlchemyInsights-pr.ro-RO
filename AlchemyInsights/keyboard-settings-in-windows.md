@@ -1,29 +1,30 @@
 ---
-title: 'Setări tastatură în Windows 10 '
+title: 'Setările tastaturii în Windows 10 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415375"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772815"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Setări tastatură în Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>Setările tastaturii în Windows 10
 
-**Setări tip**
+**Tastarea setărilor**
 
-Pentru a modifica setările Windows legate de verificarea ortografică, corectarea automată, sugestiile și alte aspecte ale componentelor hardware și ale tastaturii tactile, accesați **Setări > dispozitive > Tastarea**. 
+Pentru a modifica setările Windows asociate cu verificarea ortografică, corectarea automată, sugestii și alte aspecte ale componentei hardware și tastatură tactilă, accesați **setări > dispozitivele > tastare**. 
 
-**Setări limbă și tastatură**
+**Setările de limbă și tastatură**
 
-Pentru a modifica setările legate de tastatura sau metoda de intrare de utilizat pentru o limbă Windows, accesați **Setări > Oră & Limbă > Limbă**. Selectați limbile din lista **Limbi preferate** și faceți clic pe **Opțiuni** pentru a adăuga/elimina tastaturi sau metode de intrare (IME).
+Pentru a modifica setările legate de tastatura sau de metoda de intrare de utilizat pentru o limbă Windows, accesați **setări > ora & limba >** limba. Selectați limbi în lista **limbi preferate** și faceți clic pe **Opțiuni** pentru a adăuga/elimina tastaturi sau metode de intrare (IME).

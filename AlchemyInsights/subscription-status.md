@@ -5,36 +5,37 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063233"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773499"
 ---
 # <a name="subscription-status"></a>Starea abonamentului
 
-Starea abonamentului poate fi găsită pe pagina **Produselor dvs.**
+Starea abonamentului poate fi găsită pe pagina **produsele dvs** ., din centrul de administrare Microsoft 365.
 
-1. Accesați **Billing**  >  **[Facturarea produselor dumneavoastră](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Accesați **facturarea**  >  **[produselor](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Dacă există o problemă cu starea oricăruia dintre abonamente, veți vedea fie o pictogramă roșie de avertizare lângă abonament, fie o stare "expirată" sau "dezactivată" în secțiunea Facturare a detaliilor abonamentului.
+2. Dacă există o problemă cu starea oricăruia dintre abonamente, veți vedea fie o pictogramă de avertizare roșie lângă abonament, fie un status "expirat" sau "dezactivat" din secțiunea facturare a detaliilor abonamentului.
 
-3. Dacă doriți să reactivați un abonament expirat sau dezactivat, faceți clic pe **Reactivare acum**.
+3. Dacă doriți să reactivați un abonament expirat sau dezactivat, faceți clic pe **reactivați acum**.
 
-**Data expirării**
+**Dată de expirare**
 
-1. Accesați **Billing**  >  **[Facturarea produselor dumneavoastră](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Accesați **facturarea**  >  **[produselor](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. În funcție de vizualizare, data de expirare va apărea în coloana din dreapta îndepărtată **etichetată Data** sau în **secțiunea Facturare** a detaliilor abonamentului de lângă **Expirare la**.
+2. În funcție de vizualizare, data de expirare va apărea în coloana din extrema dreaptă etichetat **dată** sau în secțiunea **Facturare** din detaliile abonamentului de lângă **expirarea**la.
 
-**Licenţe**
+**Licențe**
 
-Numărul de licențe achiziționate și utilizate este listat prin abonament pe pagina **Produsele dvs.**
+Numărul de licențe achiziționate și în uz este listat în funcție de abonamentul de pe pagina **produse** .
 

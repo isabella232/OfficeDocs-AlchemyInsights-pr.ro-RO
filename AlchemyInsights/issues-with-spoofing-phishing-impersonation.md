@@ -1,37 +1,38 @@
 ---
-title: Probleme cu falsificarea, phishingul sau uzurparea identității?
+title: Probleme cu falsificarea, Înșelătoria sau personificarea?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: fb10c486833cfb0a1726dce69bc2176b39565e9d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510044"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773031"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Probleme cu falsificarea, phishingul sau uzurparea identității?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Probleme cu falsificarea, Înșelătoria sau personificarea?
 
-Aflați vă protejează Microsoft de:
+Aflați cum vă protejează Microsoft de:
 
-- [Falsificarea](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [Falsificare](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Phishing și uzurpare a identității](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [Înșelătorie și personificare](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
 Recomandări suplimentare:
 
-- Pentru expeditorii falsificați care par să provină din propriul domeniu, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) și [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) vă pot ajuta.
+- Pentru expeditorii falsificați care par să provină din domeniul dvs., [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) și [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) vă pot ajuta.
 
-- Verificați dacă expeditorii din propriul domeniu nu sunt configurați să ocolească filtrarea antispam utilizând regulile fluxului de corespondență (cunoscute și sub numele de reguli de transport) sau să permită intrări în listă. Pentru mai multe informații, consultați [Avertismente împotriva ocolind filtrele de spam Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Verificați dacă expeditorii din domeniul propriu nu sunt configurați pentru a ocoli Filtrarea antispam utilizând regulile de flux de corespondență (denumite și reguli de transport) sau permit intrări listă. Pentru mai multe informații, consultați [precauții împotriva ocolirii filtrelor de spam Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Verificați dacă utilizatorii nu au configurat intrările [din lista Expeditori siguri](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) care pot permite atacuri de phishing.
+- Asigurați-vă că utilizatorii nu au configurat intrări [listă de expeditori siguri](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) care pot permite atacurile de phishing.
 
-- Vă recomandăm să livrați mesaje spam și phishing de mare încredere în carantină în locul folderului E-mail nedorit. Pentru mai multe informații, consultați [Carantină mesaje de e-mail](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Luați în considerare livrarea mesajelor spam și phishing de înaltă încredere în carantină în locul folderului E-mail nedorit. Pentru mai multe informații, consultați [carantină mesaje de e-mail](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
 
-**[Raportarea mesajelor către Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) este cea mai bună modalitate de a ne anunța funcționează filtrele.**
+**[Raportarea mesajelor la Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) este cea mai bună modalitate de a ne spune cum funcționează filtrele.**
