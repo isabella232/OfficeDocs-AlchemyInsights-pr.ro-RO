@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 pentru organizații nonprofit - refuzat
+title: Microsoft 365 pentru non-profit-refuzat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: facb44c932a2a610df3c4714c102a666bdf9aa20
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005306"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779783"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="163e1-102">Microsoft 365 pentru organizații nonprofit - refuzat</span><span class="sxs-lookup"><span data-stu-id="163e1-102">Microsoft 365 for nonprofits - declined</span></span>
+# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="79f0e-102">Microsoft 365 pentru non-profit-refuzat</span><span class="sxs-lookup"><span data-stu-id="79f0e-102">Microsoft 365 for nonprofits - declined</span></span>
 
-<span data-ttu-id="163e1-103">Am examinat solicitarea dumneavoastră și am stabilit că această organizație nu este eligibilă ca organizație non-profit calificată Microsoft.</span><span class="sxs-lookup"><span data-stu-id="163e1-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="79f0e-103">Am revizuit solicitarea dumneavoastră și am stabilit că această organizație nu este eligibilă ca organizație non-profit calificată Microsoft.</span><span class="sxs-lookup"><span data-stu-id="79f0e-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="163e1-104">Pentru a achiziționa Office 365 din punct de vedere comercial, consultați [ofertele disponibile.](https://portal.office.com/AdminPortal/Home)</span><span class="sxs-lookup"><span data-stu-id="163e1-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="79f0e-104">Pentru a achiziționa Office 365 comercial, vă rugăm să vedeți [ofertele disponibile](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="79f0e-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
