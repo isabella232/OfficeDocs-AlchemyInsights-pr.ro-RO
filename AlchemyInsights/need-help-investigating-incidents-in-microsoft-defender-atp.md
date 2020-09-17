@@ -1,30 +1,31 @@
 ---
-title: Aveți nevoie de ajutor pentru investigarea incidentelor din Microsoft Defender ATP
+title: Aveți nevoie de ajutor la investigarea incidentelor în Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: c07b4dac5228ce2c39382a70b41b7acaa49d05f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198350"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803329"
 ---
-# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Aveți nevoie de ajutor pentru investigarea incidentelor din Microsoft Defender ATP
+# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Aveți nevoie de ajutor la investigarea incidentelor în Microsoft Defender ATP
 
-Dacă aveți nevoie de asistență pentru investigarea unui incident în Microsoft Defender ATP Service, urmați acești pași.
+Dacă aveți nevoie de asistență pentru a investiga un incident în Microsoft Defender ATP Service, urmați acești pași.
 
-1. Selectați incidentul și examinați avertizările grupate cu incidentul. Selectați fiecare avertizare pentru a revizui detaliile. Pentru instrucțiuni, consultați [Investigarea avertizărilor Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
-2. Examinați dispozitivele care fac parte sau sunt legate de incident. Pentru instrucțiuni, consultați [Investigarea dispozitivelor din lista Dispozitive ATP Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
+1. Selectați incidentul și examinați avertizările grupate cu incidentul. Selectați fiecare avertizare pentru a revizui detaliile. Pentru instrucțiuni, consultați [investigarea avertizărilor avansate pentru protecția amenințărilor Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
+2. Revizuiți dispozitivele care fac parte sau sunt asociate cu incidentul. Pentru instrucțiuni, consultați [investigarea dispozitivelor în lista dispozitive ATP Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
  
-    Fila investigații vă permite să vedeți toate investigațiile automate lansate de sistem ca răspuns la alertele de incident.
-3. Utilizați graficul incidentului pentru a identifica punctul de intrare, indicațiile de compromis și alte activități suspecte observate pe dispozitiv(e). Pentru mai multe informații, consultați [vizualizarea amenințărilor asociate de securitate cibernetică](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
+    Fila investigații vă permite să vedeți toate investigațiile automate lansate de sistem ca răspuns la avertizările incidentului.
+3. Utilizați graficul incident pentru a identifica punctul de intrare, indicațiile de compromis și alte activități suspecte observate pe dispozitive. Pentru mai multe informații, consultați [vizualizarea amenințărilor legate de securitatea cibernetică](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
