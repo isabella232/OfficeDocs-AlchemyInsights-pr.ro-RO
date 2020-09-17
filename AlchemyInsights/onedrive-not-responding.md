@@ -5,20 +5,21 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 275b9eb7f548b301d3e4bed1e2946faa3a1c2d09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e186ed1394f88c63930f6bcc3eae62ebf3f08e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713190"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802537"
 ---
-# <a name="onedrive-not-responding"></a><span data-ttu-id="c0072-102">OneDrive nu răspunde</span><span class="sxs-lookup"><span data-stu-id="c0072-102">OneDrive not responding</span></span>
+# <a name="onedrive-not-responding"></a><span data-ttu-id="083a8-102">OneDrive nu răspunde</span><span class="sxs-lookup"><span data-stu-id="083a8-102">OneDrive not responding</span></span>
 
-<span data-ttu-id="c0072-103">Pentru conturile nou create, utilizatorii trebuie să se conecteze la centrul de administrare Microsoft 365 cu propriul cont și să faceți clic pe OneDrive pentru a porni manual furnizarea site-ului OneDrive.</span><span class="sxs-lookup"><span data-stu-id="c0072-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="083a8-103">Pentru conturile nou create, utilizatorii trebuie să se conecteze la centrul de administrare Microsoft 365 cu propriul cont și să facă clic pe OneDrive pentru a porni manual furnizarea site-ului OneDrive.</span><span class="sxs-lookup"><span data-stu-id="083a8-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="c0072-104">Cu toate acestea, dacă utilizatorul a făcut deja clic pe OneDrive și site-ul lor personal nu este furnizat în termen de 24 de ore, vă rugăm să vă conectați un bilet de asistență pentru asistență suplimentară.</span><span class="sxs-lookup"><span data-stu-id="c0072-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="083a8-104">Cu toate acestea, dacă utilizatorul a făcut deja clic pe OneDrive și site-ul personal nu este furnizat în termen de 24 de ore, vă rugăm să înregistrați un tichet de asistență pentru asistență suplimentară.</span><span class="sxs-lookup"><span data-stu-id="083a8-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 
