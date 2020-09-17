@@ -1,19 +1,20 @@
 ---
-title: Aplicația desktop pentru SharePoint
+title: Aplicație desktop pentru SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: a8e642d06cc3d3863e873f31b0e1715ba0b9136b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3df9fb6d1c52926877b7d7a03dbe5d2ec46b3854
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052985"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806699"
 ---
-# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="07d5d-102">Aplicația desktop pentru SharePoint</span><span class="sxs-lookup"><span data-stu-id="07d5d-102">Desktop app for SharePoint</span></span>
+# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="8b95a-102">Aplicație desktop pentru SharePoint</span><span class="sxs-lookup"><span data-stu-id="8b95a-102">Desktop app for SharePoint</span></span>
 
-<span data-ttu-id="07d5d-103">Organizația este introdusă în programul de examinare privată pentru aplicația desktop pentru SharePoint.</span><span class="sxs-lookup"><span data-stu-id="07d5d-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span> <span data-ttu-id="07d5d-104">Microsoft nu acceptă momentan aplicația desktop pentru SharePoint (examinare privată).</span><span class="sxs-lookup"><span data-stu-id="07d5d-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="07d5d-105">Utilizați partenerii Microsoft private Preview înrolați pentru a obține asistență cu aplicația desktop pentru SharePoint.</span><span class="sxs-lookup"><span data-stu-id="07d5d-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="8b95a-103">Organizația dumneavoastră este introdusă în programul de previzualizare privată pentru aplicația desktop pentru SharePoint.</span><span class="sxs-lookup"><span data-stu-id="8b95a-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span> <span data-ttu-id="8b95a-104">Microsoft nu acceptă în prezent aplicația desktop pentru SharePoint (examinare privată).</span><span class="sxs-lookup"><span data-stu-id="8b95a-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="8b95a-105">Vă rugăm să utilizați partenerii Microsoft private Preview pentru a obține asistență pentru aplicația desktop pentru SharePoint.</span><span class="sxs-lookup"><span data-stu-id="8b95a-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
