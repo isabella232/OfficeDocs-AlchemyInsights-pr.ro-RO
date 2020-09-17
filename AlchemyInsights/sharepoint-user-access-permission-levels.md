@@ -5,19 +5,20 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b0a8f86c8ec419fb5b63e47b7d7528b5c83a96e4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7db5e4c84f16e58b69be88f93e01aa57c75c52e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767621"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795400"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Permisiuni de utilizator în SharePoint
 
-După ce ați creat un site SharePoint, se recomandă să furnizați sau să restricționați accesul utilizatorilor la site sau la conținutul acestuia. Cel mai simplu mod de a lucra cu permisiuni este de a utiliza [grupurile implicite](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) și nivelurile de permisiuni furnizate, care acoperă cele mai frecvente scenarii. Dar, dacă aveți nevoie, puteți seta mai multe permisiuni cu granulație fină dincolo de nivelurile implicite. Pentru mai multe informații, consultați [Înțelegerea nivelurilor de permisiune în SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+După ce ați creat un site SharePoint, este posibil să doriți să furnizați sau să restricționați accesul utilizatorilor la site sau la conținutul său. Cea mai simplă modalitate de a lucra cu permisiunile este să utilizați nivelurile [implicite de grupuri](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) și permisiuni furnizate, care acoperă cele mai comune scenarii. Dar, dacă este necesar, puteți seta mai multe permisiuni cu granulație fină dincolo de nivelurile implicite. Pentru mai multe informații, consultați [înțelegerea nivelurilor de permisiune în SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 Pentru mai multe informații despre gestionarea anumitor niveluri de permisiune, vizitați linkurile de mai jos:
 
@@ -25,7 +26,7 @@ Pentru mai multe informații despre gestionarea anumitor niveluri de permisiune,
 
 - [Crearea și gestionarea grupurilor SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [se creează și se editează Nivelurile de permisiune](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+- [Cum se creează și se editează nivelurile de permisiune](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 
 - [Configurarea și gestionarea solicitărilor de acces](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
