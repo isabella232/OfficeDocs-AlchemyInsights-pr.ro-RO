@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677002"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236137"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Probleme la conectarea la aplicații Microsoft 365
 
@@ -25,6 +25,8 @@ Pentru a remedia problemele de conectare cu aplicațiile Microsoft 365, încerca
 
 - Pentru Windows, consultați [recomandări privind rezolvarea problemelor comune de conectare](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Pentru Mac, consultați  [nu vă puteți conecta la o aplicație Office 2016 pentru Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Sfat** Pe mașini Windows, putem diagnostica și remedia automat mai multe probleme comune de conectare la Office pentru dvs. Descărcați și derulează  **[Asistentul Microsoft pentru recuperare și asistență](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automat.
 
 **Notă:** Dezactivarea autentificării moderne (monica) sau a gestionării conturilor web (WAM) pentru remedierea problemelor de conectare sau de activare  **nu este recomandată**. Dacă erorile apar în timpul conectării la Microsoft 365 utilizând Office 2013, asigurați-vă că [activați autentificarea modernă](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  pentru clientul Office.
 
