@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711107"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277952"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nu puteți instala sau executa instrumentul de export eDiscovery?
 
@@ -47,4 +47,5 @@ Dacă nu puteți instala sau executa instrumentul de export eDiscovery pentru a 
 - Vi s-a atribuit rolul de export în centrul de conformitate Microsoft 365 Security &amp; . În mod implicit, acest rol este atribuit doar grupului de roluri eDiscovery Manager. Consultați [atribuirea permisiunilor eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Pentru mai multe informații, consultați [Exportul rezultatelor căutării de conținut](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Dacă exportați mai mult de 100K cutii poștale, va trebui să utilizați următorul PowerShell pentru a descărca rezultatele de export:  [Exportul rezultatelor din mai mult de 100k cutii poștale](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
