@@ -2,7 +2,7 @@
 title: Anularea Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683486"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287186"
 ---
-# <a name="cancel-power-bi"></a><span data-ttu-id="04832-102">Anularea Power BI</span><span class="sxs-lookup"><span data-stu-id="04832-102">Cancel Power BI</span></span>
+# <a name="cancel-power-bi"></a><span data-ttu-id="f9770-102">Anularea Power BI</span><span class="sxs-lookup"><span data-stu-id="f9770-102">Cancel Power BI</span></span>
 
-<span data-ttu-id="04832-103">Power BI poate fi anulat în **Centrul de administrare Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="04832-103">Power BI can be canceled in the **Microsoft 365 admin center**.</span></span>  
+<span data-ttu-id="f9770-103">Power BI poate fi anulat în centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f9770-103">Power BI can be canceled in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="04832-104">Accesați pagina \*\*facturare > [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="04832-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="f9770-104">În centrul de administrare, accesați pagina \*\*facturare > [produsele dvs](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="f9770-104">In the admin center, go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="f9770-105">Pe fila **produse** , găsiți abonamentul pe care doriți să-l anulați.</span><span class="sxs-lookup"><span data-stu-id="f9770-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="f9770-106">Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="f9770-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="f9770-107">În panoul **Anulare abonament** , alegeți un motiv pentru care anulați.</span><span class="sxs-lookup"><span data-stu-id="f9770-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="f9770-108">Opțional, furnizați orice feedback.</span><span class="sxs-lookup"><span data-stu-id="f9770-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="f9770-109">Selectați **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="f9770-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="04832-105">Găsiți planul Power BI pentru a-l anula.</span><span class="sxs-lookup"><span data-stu-id="04832-105">Locate the Power BI Plan to cancel.</span></span>
+<span data-ttu-id="f9770-110">**Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.**</span><span class="sxs-lookup"><span data-stu-id="f9770-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-3. <span data-ttu-id="04832-106">Faceți clic pe **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="04832-106">Click **Cancel subscription**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="f9770-111">Dacă nu vedeți opțiunea de anulare, selectați abonamentul pentru a vizualiza pagina de detalii.</span><span class="sxs-lookup"><span data-stu-id="f9770-111">If you don't see the option to cancel, select the subscription to view the details page.</span></span> <span data-ttu-id="f9770-112">În secțiunea **abonamente și setări de plată** , selectați **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="f9770-112">In the **Subscription and payment settings** section, select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="04832-107">**Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.**</span><span class="sxs-lookup"><span data-stu-id="04832-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
-
-<span data-ttu-id="04832-108">**Notă**: dacă nu vedeți opțiunea de anulare, faceți clic pe abonament pentru a vizualiza detaliile și ar trebui să vedeți opțiunea **Anulare abonament** din **Setări & acțiuni**.</span><span class="sxs-lookup"><span data-stu-id="04832-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="04832-109">Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="04832-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="f9770-113">Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="f9770-113">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
