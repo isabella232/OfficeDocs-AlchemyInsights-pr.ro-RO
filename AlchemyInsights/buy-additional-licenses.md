@@ -2,7 +2,7 @@
 title: Cumpărați licențe suplimentare
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725563"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307210"
 ---
 # <a name="buy-additional-licenses"></a>Cumpărați licențe suplimentare
 
-1. În centrul de administrare, accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. În centrul de administrare, accesați pagina **Facturare**  >  [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pe fila **produse** , găsiți abonamentul pentru care doriți să cumpărați sau să eliminați licențe. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Cumpărați licențe**.
+3. Dacă doriți să micșorați numărul de licențe, în partea de sus a panoului **Cumpărați licențe** , selectați **Eliminare licențe**.
+4. Pentru a cumpăra sau a elimina licențe, sub **Cantitate nouă** în caseta **Total licențe** , introduceți numărul total de licențe pe care le doriți pentru acest abonament. De exemplu, dacă aveți licențe 100 și doriți să adăugați 25 mai multe, introduceți 125. Dacă doriți să eliminați 25 de licențe, introduceți 75.
+5. Selectați **Salvare**.
 
-2. Găsiți abonamentul la care doriți să adăugați licențe, apoi selectați **Adăugare/eliminare licențe**.
-
-    [Ce se întâmplă dacă nu văd linkul Adăugare/eliminare?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. În caseta **Total licențe** , introduceți numărul total de licențe de care aveți nevoie pentru acest abonament, apoi alegeți **Remitere modificare**. De exemplu, dacă aveți licențe 100 și trebuie să adăugați 5 mai multe, introduceți 105.
-
-    > [!NOTE]
-    > Dacă plătiți pentru abonament prin card de credit sau cont bancar, orice licențe noi pe care le cumpărați sunt disponibile imediat după ce primiți o confirmare a comenzii. Dacă plătiți cu factură, poate fi necesar să așteptați o verificare a creditului înainte ca noile licențe să fie disponibile pentru utilizare.
-
-Pentru a afla mai multe, consultați [cumpărarea de licențe pentru abonamentul Microsoft 365 pentru firme](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
+Pentru a afla mai multe, consultați [cumpărarea de licențe pentru abonamentul Microsoft 365 pentru firme](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Resurse suplimentare**
 
-- [Atribuirea de licențe pentru utilizatori în Microsoft 365 pentru firme](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Atribuirea de licențe pentru utilizatori în Microsoft 365 pentru firme](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
