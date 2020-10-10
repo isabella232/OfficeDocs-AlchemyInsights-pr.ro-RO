@@ -2,8 +2,8 @@
 title: Vă anulați abonamentul Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 661c962d7a6f19c7de036da87a02b44f8e463b86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683018"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416226"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vă anulați abonamentul Microsoft 365?
 
 Ne pare rău să vă vedem plecând!
   
-În funcție de datele organizației, considerăm că toate abonamentele curente au mai mult de 25 de licențe atribuite. Puteți să eliminați utilizatori până când aveți mai puțin de 25 de persoane, apoi accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** . În secțiunea **setări & acțiuni** , alegeți **Anulare abonament**.
- 
-**Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.** 
+În funcție de datele organizației, considerăm că toate abonamentele curente au mai mult de 25 de licențe atribuite. Eliminați licențe pentru utilizatori până când aveți mai puțin de 25 de utilizatori autorizați. Apoi, accesați pagina **Facturare** \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) . Pe fila **produse** , găsiți abonamentul pe care doriți să-l anulați, selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.
 
-**Notă**: dacă nu vedeți opțiunea de anulare, faceți clic pe abonament pentru a vizualiza detaliile și ar trebui să vedeți opțiunea **Anulare abonament** din **Setări & acțiuni**. 
+**Rambursare:** Toate creditele proestimate vă vor fi returnate în cadrul următorului ciclu de facturare.
 
 Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

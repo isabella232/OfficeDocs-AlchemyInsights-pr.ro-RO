@@ -1,8 +1,8 @@
 ---
 title: Reînnoirea implicită a subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745871"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416645"
 ---
 # <a name="renewing-your-subscription"></a>Reînnoirea abonamentului
 
@@ -25,8 +25,10 @@ Dacă plătiți cu cardul de credit sau contul bancar, facturarea recurentă est
 
 Dacă v-ați plătit abonamentul cu o cheie de produs, abonamentul dumneavoastră va expira la sfârșitul termenului de abonament. Puteți să activați facturarea recurentă și să furnizați informații despre cardul de credit sau contul bancar, astfel încât abonamentul să fie în continuare facturat în fiecare an în ziua în care v-ați abonat.
 
-Pentru a activa facturarea recurentă pentru: 
+Pentru a activa facturarea recurentă pentru:
 
-1. Accesați **facturarea**  >  **[produselor](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Alegeți abonamentul pentru care doriți să gestionați facturarea recurentă.
-3. Sub **Facturare**, selectați **Editare** și efectuați modificările în fereastra **Setări de facturare recurentă** . 
+1. În centrul de administrare, accesați pagina **Facturare**  >  [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pe fila **produse** , selectați abonamentul pe care doriți să îl modificați.
+3. Pe pagina Detalii abonament, sub **Setări abonament și plată**, selectați **editați facturarea recurentă**.
+4. În panoul **Editare setări de facturare recurentă** , selectați **activat**, **activat, dar reînnoiți o dată**sau **Dezactivați**.
+5. Selectați **Salvare**. 

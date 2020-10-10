@@ -1,8 +1,8 @@
 ---
 title: Anularea protecției complexe a amenințărilor
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683702"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416283"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Anularea protecției complexe a amenințărilor
 
-Protecția complexă a amenințărilor poate fi anulată în **Centrul de administrare Microsoft 365**.
+Administratorii pot anula abonamentul Advanced Threat Protection pentru organizația sa în centrul de administrare Microsoft 365.
 
 1. Accesați pagina **Facturare**  >  [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Găsiți planul Advanced Threat Protection pentru anulare.
-3. Faceți clic pe **Anulare abonament**.
+2. Pe fila **produse** , găsiți planul complex de protecție a amenințărilor pe care doriți să-l anulați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.
+3. În panoul **Anulare abonament** , alegeți un motiv pentru care anulați. Opțional, furnizați orice feedback.
+4. Selectați **Salvare**.
 
-Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.
-
-**Notă**: dacă nu vedeți opțiunea de anulare, faceți clic pe abonament pentru a vizualiza detaliile și ar trebui să vedeți opțiunea **Anulare abonament** din **Setări & acțiuni**.
+**Rambursare:** Toate creditele proestimate vă vor fi returnate în cadrul următorului ciclu de facturare.
 
 Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
