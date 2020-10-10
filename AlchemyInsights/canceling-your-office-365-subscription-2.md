@@ -2,8 +2,8 @@
 title: Vă anulați abonamentul Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 661c962d7a6f19c7de036da87a02b44f8e463b86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683018"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416226"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="4abb8-102">Vă anulați abonamentul Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="4abb8-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="7bb4e-102">Vă anulați abonamentul Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="7bb4e-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="4abb8-103">Ne pare rău să vă vedem plecând!</span><span class="sxs-lookup"><span data-stu-id="4abb8-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="7bb4e-103">Ne pare rău să vă vedem plecând!</span><span class="sxs-lookup"><span data-stu-id="7bb4e-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="4abb8-104">În funcție de datele organizației, considerăm că toate abonamentele curente au mai mult de 25 de licențe atribuite.</span><span class="sxs-lookup"><span data-stu-id="4abb8-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="4abb8-105">Puteți să eliminați utilizatori până când aveți mai puțin de 25 de persoane, apoi accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="4abb8-105">You can remove users until you have fewer than 25, then go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="4abb8-106">În secțiunea **setări & acțiuni** , alegeți **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="4abb8-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
- 
-<span data-ttu-id="4abb8-107">**Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.**</span><span class="sxs-lookup"><span data-stu-id="4abb8-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+<span data-ttu-id="7bb4e-104">În funcție de datele organizației, considerăm că toate abonamentele curente au mai mult de 25 de licențe atribuite.</span><span class="sxs-lookup"><span data-stu-id="7bb4e-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="7bb4e-105">Eliminați licențe pentru utilizatori până când aveți mai puțin de 25 de utilizatori autorizați.</span><span class="sxs-lookup"><span data-stu-id="7bb4e-105">Remove licenses from users until you have fewer than 25 licensed users.</span></span> <span data-ttu-id="7bb4e-106">Apoi, accesați pagina **Facturare** \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="7bb4e-106">Next, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="7bb4e-107">Pe fila **produse** , găsiți abonamentul pe care doriți să-l anulați, selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="7bb4e-107">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="4abb8-108">**Notă**: dacă nu vedeți opțiunea de anulare, faceți clic pe abonament pentru a vizualiza detaliile și ar trebui să vedeți opțiunea **Anulare abonament** din **Setări & acțiuni**.</span><span class="sxs-lookup"><span data-stu-id="4abb8-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+<span data-ttu-id="7bb4e-108">**Rambursare:** Toate creditele proestimate vă vor fi returnate în cadrul următorului ciclu de facturare.</span><span class="sxs-lookup"><span data-stu-id="7bb4e-108">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="4abb8-109">Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="4abb8-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="7bb4e-109">Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="7bb4e-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
