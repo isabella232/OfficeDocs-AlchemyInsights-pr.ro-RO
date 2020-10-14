@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798388"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452240"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft teams-acces invitat
 
@@ -24,13 +24,10 @@ Dacă aveți nevoie de ajutor la comunicarea cu utilizatorii din afara organiza�
 
 Asigurați-vă că [revizuiți diferențele](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) pentru a înțelege caracteristicile disponibile pentru fiecare.  De exemplu, accesul extern (Federation) permite comunicații 1:1, cum ar fi chat și prezență.  Utilizatorii federativi nu pot participa totuși la colaborarea în teams.  Dacă doriți ca un utilizator extern să se asocieze și să participe la conversațiile canalului teams sau să partajeze fișiere, va trebui să activați accesul invitaților.
 
-**Opțiunea 1: Activați accesul invitaților**   
-În centrul de administrare teams, accesați [Setări Wide Org > acces invitați](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) și activați opțiunea "se permite accesul invitaților în Teams".  Pentru o entitate găzduită cu toate celelalte setări implicite, aceasta ar trebui să fie tot ce trebuie să faceți.  Pentru a particulariza configurația Access invitat, asigurați-vă că urmați toți pașii din [lista de verificare acces invitați](https://docs.microsoft.com/microsoftteams/guest-access-checklist). După ce ați terminat complet, va trebui să [așteptați până la 24 de ore](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) pentru ca setările să aibă efect.
+**Opțiunea 1: Activați accesul invitaților** În centrul de administrare teams, accesați [Setări Wide Org > acces invitați](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) și activați opțiunea "se permite accesul invitaților în Teams".  Pentru o entitate găzduită cu toate celelalte setări implicite, aceasta ar trebui să fie tot ce trebuie să faceți.  Pentru a particulariza configurația Access invitat, asigurați-vă că urmați toți pașii din [lista de verificare acces invitați](https://docs.microsoft.com/microsoftteams/guest-access-checklist). După ce ați terminat complet, va trebui să [așteptați până la 24 de ore](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) pentru ca setările să aibă efect.
 
 Dacă sunteți sigur că ați finalizat toți pașii din lista de verificare și au trecut mai mult de 24 de ore, continuați și încercați să [Adăugați un invitat la echipa dvs](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Pentru mai multe informații, inclusiv videoclipuri introductive, consultați [accesul invitaților în Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
 **Opțiunea 2: Activați accesul extern (Federation)** Dacă doriți, de asemenea, să activați accesul extern (Federation), în centrul de administrare teams accesați [Setări la nivel de organizație > acces extern](https://admin.teams.microsoft.com/company-wide-settings/external-communications) și activați "utilizatorii pot comunica cu utilizatorii Skype for Business și Teams", apoi urmați toți pașii din [Permiteți utilizatorilor echipei să vorbească și să comunice cu utilizatorii din altă organizație](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
-
-
