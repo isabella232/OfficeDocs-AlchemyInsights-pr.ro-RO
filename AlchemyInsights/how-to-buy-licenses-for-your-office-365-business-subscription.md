@@ -2,8 +2,8 @@
 title: Cum să cumpărați licențe pentru abonamentul Microsoft 365 Apps pentru firme
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781115"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488893"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Cum să cumpărați licențe pentru abonamentul Microsoft 365 Apps pentru firme
 
-Atunci când atribuiți licențe utilizatorilor, este posibil să descoperiți că aveți nevoie să cumpărați licențe suplimentare. Pentru a face acest lucru:
+Atunci când atribuiți licențe utilizatorilor, este posibil să descoperiți că trebuie să cumpărați licențe suplimentare. Utilizați următorii pași:
   
-1. În centrul de administrare, accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. În centrul de administrare, accesați pagina **Facturare**  >  [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pe fila **produse** , găsiți abonamentul pe care doriți să-l actualizați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Cumpărați licențe**.
+3. În panoul **Cumpărați licențe** , sub **Cantitate nouă** în caseta **Total licențe** , introduceți numărul total de licențe pe care le doriți pentru acest abonament. De exemplu, dacă aveți licențe 100 și doriți să adăugați 25 mai multe, introduceți 125.
+4. Selectați **Salvare**.
 
-2. Găsiți abonamentul la care doriți să adăugați licențe, apoi selectați **Adăugare/eliminare licențe**.
-
-3. În caseta **Total licențe** , introduceți numărul total de licențe de care aveți nevoie pentru acest abonament, apoi selectați **Remitere modificare**. De exemplu, dacă aveți licențe 100 și trebuie să adăugați 5 mai multe, introduceți 105.
-
-Pentru a afla mai multe, consultați [cumpărarea de licențe pentru abonamentul Microsoft 365 Apps pentru firme](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Pentru a afla mai multe, consultați [cumpărarea de licențe pentru abonamentul Microsoft 365 pentru firme](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

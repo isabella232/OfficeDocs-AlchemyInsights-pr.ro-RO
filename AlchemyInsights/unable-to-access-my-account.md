@@ -1,8 +1,8 @@
 ---
 title: Nu îmi pot accesa contul
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800044"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489181"
 ---
 # <a name="unable-to-access-my-account"></a>Nu îmi pot accesa contul
 
@@ -25,14 +25,9 @@ Dacă abonamentul dvs. expiră, dacă a fost dezactivat de Microsoft sau dacă l
 
 **Reactivarea unui abonament**
 
-1. În centrul de administrare, accesați pagina **Facturare**  >  **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. În centrul de administrare, accesați pagina **Facturare**  >  [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pe fila **produse** , găsiți abonamentul pe care doriți să-l reactivați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **reactivați acest abonament**.
+3. În panoul **reactivați acest abonament** , selectați o metodă de plată din lista verticală sau selectați **Adăugare metodă de plată**.
+4. Selectați **Salvare**.
 
-2. Alegeți abonamentul pe care doriți să-l reactivați.
-
-3. În secțiunea **Facturare**, faceți clic pe **Reactivare acum**. Dacă vă aflați în vizualizarea **cărți** , faceți clic pe punctele de suspensie dintre **nume** și **Cantitate disponibilă** și alegeți **reactivare** din meniu.
-
-**Notă**: dacă nu vedeți abonamentul pe care îl căutați, poate fi necesar să ajustați filtrul **Stare abonament** din partea de sus a paginii la **Toate**.
-
-4. Confirmați detaliile de plată pentru a vă actualiza informațiile de plată existente. După ce ați terminat de introdus metoda de plată, faceți clic pe **Reactivare**.
-
-Pentru mai multe informații, consultați [Reactivarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

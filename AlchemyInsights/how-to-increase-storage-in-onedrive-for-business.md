@@ -2,32 +2,33 @@
 title: Cum să măriți spațiul de stocare în OneDrive pentru Business
 ms.author: pebaum
 author: pebaum
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676b17d47ee5071ed45e8d6022eaa82b51fc4d51
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780107"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489037"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Cum să măriți spațiul de stocare în OneDrive pentru Business
 
 Pentru a modifica spațiul de stocare implicit pentru utilizatorii OneDrive noi și existenți:
   
-- Accesați pagina de [stocare din centrul de administrare OneDrive](https://admin.onedrive.com/?v=StorageSettings), apoi introduceți o sumă nouă în GB.
+- Accesați pagina de [stocare din centrul de administrare OneDrive](https://admin.onedrive.com/?v=StorageSettings), introduceți o sumă nouă în GB, apoi selectați **Salvare**.
 
-Această setare de spațiu de stocare se aplică tuturor utilizatorilor pentru care nu ați setat limite de stocare specifice. Pentru a modifica spațiul de stocare pentru anumiți utilizatori, trebuie să utilizați Microsoft PowerShell. Pentru informații despre cum să procedați, consultați [modificarea spațiului de stocare OneDrive al utilizatorilor utilizând PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Această setare de spațiu de stocare se aplică tuturor utilizatorilor pentru care nu ați setat limite de stocare specifice. Pentru a modifica spațiul de stocare pentru anumiți utilizatori, utilizați Microsoft PowerShell. Pentru informații despre cum să procedați, consultați [modificarea spațiului de stocare OneDrive al utilizatorilor utilizând PowerShell](https://docs.microsoft.com/onedrive/change-user-storage).
 
-**Notă**: se pare că nu aveți un plan care include stocare nelimitată. Pentru informații despre spațiul de stocare livrat cu fiecare plan, consultați [Descrierea serviciului OneDrive pentru Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+**Notă**: se pare că nu aveți un plan care include stocare nelimitată. Pentru informații despre spațiul de stocare livrat cu fiecare plan, consultați [Descrierea serviciului OneDrive pentru Business](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
   
-Pentru a mări spațiul de stocare în OneDrive pentru Business, alegeți un abonament care include **OneDrive pentru business plan 2** sau **Office 365 Enterprise E3**. 
+Pentru a mări spațiul de stocare în OneDrive pentru Business, alegeți un abonament care include **OneDrive pentru business plan 2** sau **Office 365 E3**.
   
-Pentru a modifica planurile, în centrul de administrare Microsoft 365, accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** , selectați abonamentul de modificat, apoi alegeți fila **upgrade** .
+Pentru a modifica planurile, în centrul de administrare, accesați pagina **Facturare** \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) , selectați abonamentul de modificat, apoi alegeți **Vizualizare îmbunătățiri recomandate pentru organizația dvs**.
   
-Pentru mai multe informații despre comutarea între planuri și spațiul de stocare OneDrive pentru Business, consultați [Comutarea la un alt plan Microsoft 365 pentru Business](https://go.microsoft.com/fwlink/?LinkId=2031117) și [Descrierea serviciului OneDrive pentru Business](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
+Pentru mai multe informații despre modificarea planurilor și stocarea OneDrive pentru Business, consultați [upgrade-ul la un alt plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) și [Descrierea serviciului OneDrive pentru Business](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
