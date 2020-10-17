@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: ro-RO
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473113"
+ms.locfileid: "48478317"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Blocarea sau deblocarea redirecționarii mesajelor de e-mail
 
 Pentru a activa sau a dezactiva redirecționarea e-mailului pentru o anumită cutie poștală, consultați [Configurarea redirecționarii mesajelor de e-mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-La nivelul entității găzduite, controlul redirecționarii externe se termină utilizând politica de spam de ieșire. Puteți verifica Politica de filtrare antispam de ieșire din centrul de securitate și conformitate [aici] ( https://protection.office.com/antispam) sau utilizând [comanda Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+La nivelul entității găzduite, controlul redirecționarii externe se termină utilizând politica de spam de ieșire. Puteți să verificați politica de filtrare antispam de ieșire din centrul de securitate și conformitate [aici](https://protection.office.com/antispam) sau utilizând [comanda Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
 Dacă primiți următoarea eroare: **"550 5.7.520 Access Denied, organizația dumneavoastră nu permite redirecționarea externă"**, asigurați-vă că politica este configurată pentru a activa redirecționarea automată externă.
 
