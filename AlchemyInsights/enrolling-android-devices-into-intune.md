@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784319"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791270"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Înscrierea dispozitivelor Android în Intune
 
-Intune acceptă înscrierea următoarelor dispozitive Android:
-- Samsung KNOX și Zebra
-- Profil de lucru pentru Android Enterprise
-- Android Enterprise dedicat
-- Android Enterprise a gestionat complet
+Dacă doriți să migrați utilizatorii de la înscrierea la administratorul dispozitivelor Android la Android Enterprise, examinați: [mutați dispozitivele Android de la administratorul de dispozitiv la gestionarea profilurilor de lucru](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Înainte de a configura înscrierea pentru dispozitivele Android, [Revizuiți cerințele preliminare] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune acceptă înscrierea următoarelor dispozitive Android:  
 
-Pentru informații despre depanarea înscrierii dispozitivelor în general și a unor erori de înscriere Android, consultați [Depanarea înscrierii dispozitivelor în Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung Knox, Zebra, administrator de dispozitiv](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Profil de lucru pentru Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise dedicat](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise a gestionat complet](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-De asemenea, puteți utiliza [conținutul care descrie lama de depanare Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) pentru a vă ajuta să identificați problemele de înscriere pe care le întâmpină utilizatorii.
+Înainte de a configura înscriere pentru dispozitive Android, [Examinați cerințele](https://docs.microsoft.com/intune/enrollment/android-enroll)preliminare.  
 
+Pentru informații despre depanarea înscrierii dispozitivelor în general și a unor erori de înscriere Android, consultați [Depanarea înscrierii dispozitivelor în Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+De asemenea, puteți utiliza conținutul care descrie lama de depanare Intune pentru a vă ajuta să identificați problemele de înscriere pe care le întâmpină utilizatorii.
