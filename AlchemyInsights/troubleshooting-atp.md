@@ -1,5 +1,5 @@
 ---
-title: Depanarea protecției avansate a amenințărilor Office 365
+title: Depanarea Microsoft Defender pentru Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658926"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801455"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Depanarea protecției avansate a amenințărilor Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Depanarea Microsoft Defender pentru Office 365
 
 - Observați întârzieri în livrarea mesajelor? Utilizați opțiunea de [livrare dinamică](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) din Politica de atașări sigure pentru ATP. Acest lucru vă va ajuta să evitați întârzierile mesajelor, protejând destinatarii din fișiere rău intenționate.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658926"
 
   1. Accesați [https://protection.office.com](https://protection.office.com) și conectați-vă cu un cont de administrator global sau de administrator de securitate.
 
-  2. În panoul de navigare din stânga, sub **gestionare amenințări**, alegeți **Policy** \> **linkuri sigure**pentru politică.
+  2. În panoul de navigare din stânga, sub **gestionare amenințări** , alegeți **Policy** \> **linkuri sigure** pentru politică.
 
-  3. În **politicile care se aplică la întreaga** secțiune a Organizației, selectați politica și faceți clic pe **Editare**.
+  3. În **politicile care se aplică la întreaga** secțiune a Organizației, selectați politica și faceți clic pe **Editare** .
 
-  4. Sub **Setări**, activați **aplicați Linkuri sigure la mesajele trimise în cadrul Organizației**.
+  4. Sub **Setări** , activați **aplicați Linkuri sigure la mesajele trimise în cadrul Organizației** .

@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759231"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801563"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulatorul de atac în Microsoft 365
 
-- Vă lipsește simulatorul de atacuri? Simulatorul de atacuri necesită **office 365 Advanced Threat Protection Plan 2 (ATP plan 2)** sau **Office 365 Enterprise E5**. Simulatorul de atacuri **nu** este inclus în Office 365 Advanced Threat Protection Plan 1 (ATP plan 1), Office 365 Enterprise E3 sau orice aplicații Microsoft 365 pentru firme pentru abonamente.
+- Vă lipsește simulatorul de atacuri? Simulatorul de atacuri necesită **Microsoft Defender pentru office 365 plan 2 (ATP plan 2)** sau **Office 365 Enterprise E5** . Atac Simulator **nu** este inclus în Microsoft Defender pentru Office 365 plan 1 (ATP plan 1), Office 365 Enterprise E3 sau orice aplicații Microsoft 365 pentru firme pentru abonamente.
 
 - Contul pe care îl utilizați pentru a lansa atacuri simulate necesită permisiuni de administrator global sau de administrator de securitate și autentificarea multi-factor (AMF). Pentru mai multe informații despre cerințele pentru simulatorul de atacuri, consultați [acest subiect](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759231"
 
 - Lucruri importante de știut despre simulările de **înșelătorie** atașate de Lance:
 
-  - Prin proiectare, nu puteți furniza o valoare particularizată pentru **URL-ul serverului de conectare la phishing**.
+  - Prin proiectare, nu puteți furniza o valoare particularizată pentru **URL-ul serverului de conectare la phishing** .
 
   - Dacă un destinatar utilizează programul de [completare activare mesaj raport](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) pentru a raporta mesajul ca phishing, este posibil să nu primiți avertizări pentru mesaj (deoarece acesta este un atac simulat).
 

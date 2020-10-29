@@ -1,5 +1,5 @@
 ---
-title: Configurarea Office 365 Advanced Threat Protection (ATP)
+title: Configurarea Microsoft Defender pentru Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662733"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801087"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP)
+# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender pentru Office 365 (ATP)
 
 Office 365 ATP include [atașări sigure](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [linkuri sigure](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Advanced anti-phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)și altele. 
 
@@ -26,5 +26,5 @@ ATP este inclus în abonamente, cum ar fi Office 365 Enterprise E5, Office 365 E
 
 ## <a name="set-up-office-365-atp"></a>Configurarea Office 365 ATP
 
-Pentru ca protecția ATP să aibă efect, trebuie să configurați politicile. Consultați [Ghid de pornire rapidă: Configurarea protecției avansate a amenințărilor Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Pentru ca protecția ATP să aibă efect, trebuie să configurați politicile. Consultați [Ghid de pornire rapidă: Configurați Microsoft Defender pentru Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

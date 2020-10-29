@@ -1,5 +1,5 @@
 ---
-title: Protecție avansată împotriva amenințărilor Office 365
+title: Microsoft Defender pentru Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696633"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801239"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Protecție avansată împotriva amenințărilor Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pentru Office 365
 
-- Atașările sigure, legăturile sigure și anti-phishing fac parte din Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education a5 și Microsoft 365 Business Premium includ ATP. Toate celelalte planuri necesită un abonament ATP pentru programul de completare.
+- Atașările sigure, legăturile sigure și anti-phishing fac parte din Microsoft Defender pentru Office 365 (ATP). Enterprise E5, Education a5 și Microsoft 365 Business Premium includ ATP. Toate celelalte planuri necesită un abonament ATP pentru programul de completare.
 
 - Trebuie să atribuiți licențele corespunzătoare pentru a vă proteja utilizatorii de Office 365 ATP. Consultați [acest subiect](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) pentru instrucțiuni despre cum să aplicați în masă licențe pentru utilizatori.
 
-- Administratorii globali sau administratorii de securitate pot accesa caracteristicile ATP Office 365 în centrul de securitate & conformitate, la Politica de **amenințare Managmeent** \> **Policy**.
+- Administratorii globali sau administratorii de securitate pot accesa caracteristicile ATP Office 365 în centrul de securitate & conformitate, la Politica de **amenințare Managmeent** \> **Policy** .
 
 - Atașările sigure și politicile pentru linkuri sigure pot fi în domeniul dvs., în întreaga organizație, în anumite domenii sau în grupuri mai mici de utilizatori.
 

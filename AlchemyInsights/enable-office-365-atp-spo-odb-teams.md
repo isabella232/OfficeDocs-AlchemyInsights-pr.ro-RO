@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c84458622ae86bcf0f9f541a3a209b4f0ff2fc3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709919"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801067"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Activarea protecției avansate a amenințărilor Office 365 pentru SharePoint Online, OneDrive și Microsoft teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Activați Microsoft Defender pentru Office 365 pentru SharePoint Online, OneDrive și Microsoft teams
 
 1. Accesați https://protection.office.com și conectați-vă.
-2. Alegeți Politica de **gestionare a amenințărilor**  >  **Policy**  >  **atașări sigure**.
-3. Selectați **activați ATP pentru SharePoint, OneDrive și Microsoft teams**, apoi faceți clic pe **Salvare**.
-4. Recomandate Ca administrator global sau administrator SharePoint Online, rulează cmdletul [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cu parametrul **DisallowInfectedFileDownload** setat la *True*.
+2. Alegeți Politica de **gestionare a amenințărilor**  >  **Policy**  >  **atașări sigure** .
+3. Selectați **activați ATP pentru SharePoint, OneDrive și Microsoft teams** , apoi faceți clic pe **Salvare** .
+4. Recomandate Ca administrator global sau administrator SharePoint Online, rulează cmdletul [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cu parametrul **DisallowInfectedFileDownload** setat la *True* .
 5. Recomandate [Configurați avertizări](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) pentru fișierele detectate.
 
 > [!NOTE]
