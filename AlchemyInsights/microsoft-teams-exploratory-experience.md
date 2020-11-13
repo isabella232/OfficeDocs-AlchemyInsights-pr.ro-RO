@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674950"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019559"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Experiența exploratorie Microsoft teams
 
-Experiența exploratorie Microsoft teams permite utilizatorilor din organizația dvs., care au Azure Active Directory (AAD) și care nu sunt autorizați pentru teams să inițieze o experiență exploratorie a teams. Administratorii pot activa sau dezactiva această caracteristică pentru utilizatorii din organizația lor. (Versiunea anterioară a Microsoft comercial Cloud Trial se numește acum experiența explorator teams.)
-
-Experiența de explorare Microsoft teams este disponibilă fără costuri suplimentare până la următoarea aniversare a contractului de întreprindere sau reînnoirea la sau după luna ianuarie 2021. În acel moment, utilizatorii finali dintr-o licență de experiență exploratorie Microsoft vor trebui să treacă la o licență plătită care include teams.
-
-Pentru mai multe informații, consultați [gestionarea licențelor de explorare Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Ce este [exploratorii teams](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Experiența exploratorie Microsoft teams permite utilizatorilor din organizația dvs., care nu au licență pentru teams, să inițieze o experiență exploratorie a echipelor. Pentru mai multe informații, vă rugăm să vedeți [ce se află în experiența exploratorie teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Când va expira licența mea](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Experiența exploratorie Microsoft teams este disponibilă fără costuri suplimentare până la următoarea aniversare a contractului sau reînnoirea la sau după luna ianuarie 2021.
+- Ca administrator, puteți să [Faceți upgrade utilizatorilor din licența explorator teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) , achiziționând un abonament care include teams, eliminând abonamentul explorator teams de la utilizator și atribuind licența nou achiziționată.
+- Pentru mai multe informații, consultați [gestionarea licenței explorator teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
