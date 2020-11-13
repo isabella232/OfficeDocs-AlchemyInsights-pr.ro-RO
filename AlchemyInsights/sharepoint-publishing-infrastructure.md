@@ -1,5 +1,5 @@
 ---
-title: Infrastructură de publicare cu un site de comunicare
+title: Infrastructură de publicare SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,27 +8,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: ada85fec66a00c1fa4416ec25ef8c675fad39e53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms-custom:
+- "1846"
+- "9000253"
+ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758689"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002677"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="31b72-102">Infrastructură de publicare SharePoint</span><span class="sxs-lookup"><span data-stu-id="31b72-102">SharePoint Publishing Infrastructure</span></span>
+# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="f90c9-102">Infrastructură de publicare SharePoint</span><span class="sxs-lookup"><span data-stu-id="f90c9-102">SharePoint Publishing Infrastructure</span></span>
 
+> [!IMPORTANT]
+> <span data-ttu-id="f90c9-103">Site-urile de comunicare moderne nu acceptă caracteristicile de publicare clasice cunoscute sub numele de infrastructură de publicare SharePoint Server.</span><span class="sxs-lookup"><span data-stu-id="f90c9-103">Modern Communication Sites do not support the classic publishing features known as SharePoint Server Publishing Infrastructure.</span></span> <span data-ttu-id="f90c9-104">Atunci când încercați să activați caracteristica pentru un site de comunicare modern, veți primi o eroare.</span><span class="sxs-lookup"><span data-stu-id="f90c9-104">When trying to activate the feature for a modern Communication Site you will receive an error.</span></span> <span data-ttu-id="f90c9-105">Site-urile de comunicare moderne oferă o alternativă mai nouă în mod implicit.</span><span class="sxs-lookup"><span data-stu-id="f90c9-105">Modern communication sites provide a newer alternative by default.</span></span>
 
-<span data-ttu-id="31b72-103">SharePoint include un set clasic de caracteristici care vă permit să creați și să publicați pagini web bogate pentru intranet.</span><span class="sxs-lookup"><span data-stu-id="31b72-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="31b72-104">Activați infrastructura de publicare SharePoint la nivel de colecție de site-uri pentru a le activa.</span><span class="sxs-lookup"><span data-stu-id="31b72-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
+<span data-ttu-id="f90c9-106">Pentru site-uri clasice, SharePoint include un set clasic de caracteristici care vă permit să creați și să publicați pagini web bogate pentru intranet.</span><span class="sxs-lookup"><span data-stu-id="f90c9-106">For classic sites, SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="f90c9-107">Activați infrastructura de publicare SharePoint la nivel de colecție de site-uri pentru a le activa.</span><span class="sxs-lookup"><span data-stu-id="f90c9-107">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
 
-<span data-ttu-id="31b72-105">Pentru mai multe informații, vă rugăm să vizitați linkurile de mai jos.</span><span class="sxs-lookup"><span data-stu-id="31b72-105">For more information please visit the links below.</span></span>
-
-[<span data-ttu-id="31b72-106">Activarea caracteristicilor de publicare</span><span class="sxs-lookup"><span data-stu-id="31b72-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
-
-[<span data-ttu-id="31b72-107">Caracteristici de publicare</span><span class="sxs-lookup"><span data-stu-id="31b72-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
-
-<span data-ttu-id="31b72-108">Note</span><span class="sxs-lookup"><span data-stu-id="31b72-108">Notes:</span></span>
-
-- <span data-ttu-id="31b72-109">Șabloanele de site de publicare clasice includ caracteristicile de publicare în mod implicit.</span><span class="sxs-lookup"><span data-stu-id="31b72-109">The classic publishing site templates include the publishing features by default.</span></span>
-
-- <span data-ttu-id="31b72-110">Caracteristicile de publicare clasice nu sunt disponibile pe site-urile moderne.</span><span class="sxs-lookup"><span data-stu-id="31b72-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="31b72-111">Site-urile moderne oferă o alternativă mai nouă în mod implicit.</span><span class="sxs-lookup"><span data-stu-id="31b72-111">Modern sites provide a newer alternative by default.</span></span>
-
+<span data-ttu-id="f90c9-108">Pentru mai multe informații, consultați [activarea caracteristicilor de publicare](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) și a [caracteristicilor de publicare](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)</span><span class="sxs-lookup"><span data-stu-id="f90c9-108">For more information, see [Enable publishing features](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) and [Publishing features](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)</span></span>
