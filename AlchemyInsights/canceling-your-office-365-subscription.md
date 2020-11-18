@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: f019c60dca18a5b241bf445252463035e9841d64
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286466"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348677"
 ---
 # <a name="canceling-your-subscription"></a>Vă anulați abonamentul?
 
@@ -26,7 +26,7 @@ Ne pare rău să vă vedem, dar dacă doriți să vă anulați abonamentul, iat�
   
 - Dacă sunteți client de încercare, nu este nimic de anulat. Abonamentele de încercare expiră automat dacă nu furnizați o metodă de plată.
 - Dacă aveți mai puțin de 25 de licențe atribuite, puteți anula abonamentul online. Accesați pagina **Facturare** \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) și găsiți abonamentul pe care doriți să-l anulați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.
-- Dacă aveți mai mult de 25 de licențe atribuite, puteți să eliminați utilizatori până când aveți mai puțin de 25.
+- Dacă aveți mai mult de 25 de licențe atribuite utilizatorilor, [apelați asistența pentru a anula abonamentul](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
 **Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.**
 
