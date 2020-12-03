@@ -5,24 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932106"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529030"
 ---
 # <a name="contact-the-sales-team"></a>Contactați echipa de vânzări
 
-Cu conectorii Microsoft Graph, organizația dvs.
+Există mai multe modalități de a contacta echipa de vânzări Microsoft 365.
 
-- [Conectori de la Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Conectori de la partenerii noștri](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Pentru mai multe informații, consultați [Prezentarea generală a conectorilor Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Utilizați formularul [Contactați-ne](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) pentru ca un expert de vânzări Microsoft 365 să vă contacteze.
+- Pentru a lua legătura cu un expert de licențiere de volum din Contractul Enterprise, începeți cu portalul [Centrului de servicii de licențiere de volum](https://go.microsoft.com/fwlink/p/?LinkId=329762).
