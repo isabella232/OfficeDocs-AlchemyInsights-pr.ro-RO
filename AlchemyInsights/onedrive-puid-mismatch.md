@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569179"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605721"
 ---
 # <a name="onedrive-puid-mismatch"></a>Nepotrivire PUID OneDrive
 
-Se pare că întâmpinați o [nepotrivire de ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) în OneDrive pentru Business. Vă rugăm să urmați pașii de mai jos pentru a vă putea ajuta cât mai curând posibil:
+Se pare că întâmpinați o [nepotrivire de ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) în OneDrive pentru Business. Pentru a ne permite să vă ajutăm cel mai devreme, procedați după cum urmează:
 
 1. Faceți clic pe  **contactați asistența**, apoi pe  **solicitare de serviciu nouă**.
 2. Lăsați titlul și descrierea ca  **nepotrivire pentru ID-ul de utilizator al site-ului OneDrive**.
