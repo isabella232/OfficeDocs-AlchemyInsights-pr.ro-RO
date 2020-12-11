@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605721"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653272"
 ---
 # <a name="onedrive-puid-mismatch"></a>Nepotrivire PUID OneDrive
 
@@ -26,6 +26,6 @@ Se pare că întâmpinați o [nepotrivire de ID](https://docs.microsoft.com/shar
 
 1. Faceți clic pe  **contactați asistența**, apoi pe  **solicitare de serviciu nouă**.
 2. Lăsați titlul și descrierea ca  **nepotrivire pentru ID-ul de utilizator al site-ului OneDrive**.
-3. După ce biletul a fost trimis, actualizați-l cu următoarele informații:
+3. După ce biletul a fost remis, actualizați-l cu următoarele informații:
     - URL-ul site-ului OneDrive care este afectat.
     - Nume principal de utilizator (UPN) al utilizatorului afectat.
