@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682100"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726408"
 ---
 # <a name="change-organization-profile"></a>Modificarea profilului Organizației
 
-Modificați numele firmei, adresa, informațiile de contact tehnice și multe altele în centrul de administrare din **Settings**  >  pagina de[profil a Organizației](https://go.microsoft.com/fwlink/p/?linkid=2067339) de setări.
+Modificați numele firmei, adresa, informațiile de contact tehnice și multe altele în centrul de administrare din fila **Setări**  >    >  [organizație din profilul organizațional](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
 
 Asigurați-vă că completați toate câmpurile obligatorii marcate cu * pentru a permite salvarea modificărilor.
 
