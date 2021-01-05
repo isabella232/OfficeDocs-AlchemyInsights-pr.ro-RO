@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736890"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755559"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Transferarea proprietății Azure Billing
 
 Conectați-vă la [Portalul Azure](https://portal.azure.com/) ca administrator al contului de facturare care are abonamentul pe care doriți să-l transferați. Dacă nu sunteți sigur dacă sunteți administrator sau dacă trebuie să determinați cine este, consultați [Determinați administrator de facturare a contului](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Căutați _Management de costuri + Facturare_.
+1. Căutare _Gestionare costuri + Facturare_.
 1. Selectați **Abonamente** din panoul din stânga. În funcție de acces, poate fi necesar să selectați un domeniu de facturare, apoi să **Abonamente** sau **Abonamente Azure**.
 1. Selectați **Transferul de proprietate de facturare** pentru abonamentul pe care doriți să-l transferați.
 1. Introduceți adresa de e-mail a unui utilizator care este administrator de facturare al contului care va fi proprietarul nou pentru abonament, apoi selectați **Trimitere solicitare de transfer**.
