@@ -1,5 +1,5 @@
 ---
-title: Cum să adăugați și să gestionați pașii recomandați adminstrators
+title: Cum se adaugă și se gestionează pașii recomandați de administratori
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678874"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755847"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Cum să adăugați și să gestionați pașii recomandați adminstrators
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cum se adaugă și se gestionează pașii recomandați de administratori
+
+În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
 
 **Editarea administratorului de abonament sau a co-administratorului**
 

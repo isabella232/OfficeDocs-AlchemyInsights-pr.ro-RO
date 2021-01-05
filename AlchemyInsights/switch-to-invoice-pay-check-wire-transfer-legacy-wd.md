@@ -1,5 +1,5 @@
 ---
-title: Comutați la plata cu factură (cec/transfer bancar)-moștenitorul WD
+title: Comutați la plata prin factură (cec/transfer bancar)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726158"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755415"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Comutați la plata cu factură (cec/transfer bancar)-moștenitorul WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Comutați la plata prin factură (cec/transfer bancar)
+
+În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
 
 Dacă comutați la plata cu factură, înseamnă că veți plăti factura în termen de 30 de zile de la data facturii. Pentru a deveni eligibil să plătiți pentru abonamentul Azure prin factură, trimiteți o solicitare la asistența Azure. După ce solicitarea este aprobată, puteți comuta un abonament la plata facturii în [portalul Azure](https://portal.azure.com/).
 

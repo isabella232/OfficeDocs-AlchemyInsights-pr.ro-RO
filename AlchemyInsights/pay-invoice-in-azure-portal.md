@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715038"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755631"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Plata facturii în portalul Azure-pașii recomandați
+
+În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
 
 Trebuie să fiți administratorul contului de facturare pentru a plăti facturile în portalul Azure. Administratorul contului de facturare este utilizatorul care s-a înregistrat inițial pentru contul Microsoft Customer Agreement. 
 
 Pentru a plăti factura în portalul Azure: 
 
 1. Conectați-vă la [portalul Azure](https://portal.azure.com/).
-1. Căutați în **gestionarea costurilor + facturare**.
+1. Căutați **Management de costuri + Facturare**.
 1. În panoul din stânga, sub **Facturare**, faceți clic pe **facturi**.
 1. Dacă vreuna dintre facturi este scadentă sau scadentă, veți vedea un link cu **plată albastră acum** pentru acea factură. Faceți clic pe **plătiți acum**.
 1. În noua lamă, faceți clic pe **Selectați o metodă de plată** pentru a alege un card de credit existent sau adăugați unul nou.

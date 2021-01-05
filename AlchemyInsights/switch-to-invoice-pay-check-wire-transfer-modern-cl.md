@@ -1,5 +1,5 @@
 ---
-title: Comutați la plata cu factură (verificare/transfer bancar)-CL moderne
+title: Comutați la plata prin factură (verificare/transfer bancar)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706786"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755483"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Comutați la plata cu factură (verificare/transfer bancar)-CL moderne
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Comutați la plata prin factură (verificare/transfer bancar)
+
+În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
 
 Dacă comutați la plata cu factură, înseamnă că veți plăti factura în termen de 30 de zile de la data facturii. Pentru a deveni eligibil să plătiți pentru abonamentul Azure prin factură, trimiteți o solicitare la asistența Azure. După ce solicitarea este aprobată, puteți comuta un abonament la plata facturii în portalul Azure.
 
