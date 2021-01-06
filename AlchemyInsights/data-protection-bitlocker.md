@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731251"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768829"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Activarea criptării BitLocker cu Intune
 
@@ -30,10 +30,12 @@ Pentru informații despre depanarea problemelor cu BitLocker, consultați [Depan
  
 **ÎNTREBĂRI FRECVENTE**
 
- Î: ce ediții de Windows acceptă criptarea dispozitivelor folosind Politica de protecție a Endpoint?<br>
- A: Politica de protecție a Endpoint-ului setări din Intune este implementată utilizând CSP-ul [BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nu toate edițiile sau compilările Windows acceptă CSP-ul BitLocker. <br><br>
-      În acest moment, sunt acceptate următoarele ediții Windows: Enterprise, Education, mobile, Enterprise mobile și Professional (compilarea 1809 și versiuni mai recente).
- 
+Î: ce ediții de Windows acceptă criptarea dispozitivelor folosind Politica de protecție a Endpoint?<br>
+A: Politica de protecție a Endpoint-ului setări din Intune este implementată utilizând CSP-ul [BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nu toate edițiile sau compilările Windows acceptă CSP-ul BitLocker. <br><br>
+
+Î: Cum poate fi activată BitLocker pe dispozitive fără a necesita interacțiune cu utilizatorul final?<br>
+A: atât timp cât sunt îndeplinite cerințele preliminare necesare, este posibil să activați BitLocker "Silent Encryption" prin Intune. Vedeți detaliile cerințelor dispozitivului și exemple de politici pentru a activa criptarea silențioasă în următorul document: [activați în liniște criptarea BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 Î: dacă un dispozitiv este deja criptat cu BitLocker utilizând setările implicite de sistem de operare pentru metoda de criptare și tăria cifră (XTS-AES-128), va aplica o politică cu setări diferite care declanșează automat recriptarea unității cu noile setări?<br>
 R: Nu. Pentru a aplica noile setări de cifru, unitatea trebuie mai întâi decriptată.<br><br>
 **Notă:** Pentru dispozitivele care se înscriu cu autopilot, criptarea automată care va apărea în timpul OOBE nu este declanșată până când politica Intune este evaluată, care permite utilizarea setărilor bazate pe politică în locul valorilor implicite pentru sistemul de operare.
