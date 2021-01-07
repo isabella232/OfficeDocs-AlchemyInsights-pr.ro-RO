@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768829"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778205"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Activarea criptării BitLocker cu Intune
 
- Politica de protecție a Endpoint-ului Intune poate fi utilizată pentru a configura setările de criptare BitLocker pentru dispozitivele Windows. Pentru mai multe informații, consultați [Setări Windows 10 (și versiuni mai recente) pentru a proteja dispozitivele utilizând Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Politica de protecție a Endpoint-ului Intune poate fi utilizată pentru a configura setările de criptare BitLocker pentru dispozitivele Windows. Pentru mai multe informații, consultați [Setări Windows 10 (și versiuni mai recente) pentru a proteja dispozitivele utilizând Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+În plus față de Politica de protecție pentru Endpoint, există, de asemenea, un raport de criptare care oferă o vizualizare mai detaliată a stării de criptare pentru dispozitive. Acest raport poate fi accesat din portalul MEM de sub **dispozitive > monitor**, apoi, sub **configurare** , selectați [raport de criptare](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Dacă vi se pare că BitLocker nu reușește să fie activat așa cum vă așteptați sau că profilul utilizat pentru a activa BitLocker se află într-o stare de eroare, consultați raportul de criptare pentru a înțelege mai bine de ce se produce comportamentul.
+
+Pentru a găsi detalii despre cum să interpretați raportul, inclusiv diferitele valori de stare de criptare, consultați [monitorizarea codificării dispozitivelor cu Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Trebuie să rețineți că multe dispozitive mai noi care rulează Windows 10 acceptă criptarea automată BitLocker, care este declanșată fără aplicarea politicii MDM. Acest lucru poate avea un impact asupra aplicării politicii dacă sunt configurate setările non-implicite. Consultați următoarele întrebări frecvente pentru mai multe detalii.
- 
+
 Pentru informații despre depanarea problemelor cu BitLocker, consultați [Depanarea politicilor BitLocker în Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
