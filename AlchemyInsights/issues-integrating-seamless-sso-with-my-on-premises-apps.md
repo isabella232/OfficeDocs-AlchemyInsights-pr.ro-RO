@@ -1,0 +1,41 @@
+---
+title: Probleme cu integrarea SSO fără sudură cu aplicațiile mele locale
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/13/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004356"
+- "7798"
+ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49868721"
+---
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a><span data-ttu-id="bec54-102">Probleme cu integrarea SSO fără sudură cu aplicațiile mele locale</span><span class="sxs-lookup"><span data-stu-id="bec54-102">Issues with integrating Seamless SSO with my on-premises apps</span></span>
+
+<span data-ttu-id="bec54-103">Pentru a depana problemele cu integrarea SSO fără sudură cu aplicațiile locale, procedați astfel:</span><span class="sxs-lookup"><span data-stu-id="bec54-103">To troubleshoot issues with integrating Seamless SSO with on-premises applications, do the following:</span></span>
+
+<span data-ttu-id="bec54-104">**Pașii recomandați**</span><span class="sxs-lookup"><span data-stu-id="bec54-104">**Recommended steps**</span></span>
+
+1. <span data-ttu-id="bec54-105">Pentru a configura o **aplicație locală** pentru **Sign-on unic prin proxy de aplicație**, consultați [arhivarea parolelor pentru sign-on unic cu proxy de aplicație](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span><span class="sxs-lookup"><span data-stu-id="bec54-105">To configure an **on-premises application** for **single sign-on through Application Proxy**, see [Password vaulting for single sign-on with Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span></span>
+1. <span data-ttu-id="bec54-106">**Depanarea problemelor legate de proxy**-ul aplicației: vă recomandăm să începeți să revizuiți fluxul de depanare, să depanați [problemele legate de conectorul proxy al aplicației](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), pentru a determina dacă conectorii proxy ai aplicației sunt configurați corect.</span><span class="sxs-lookup"><span data-stu-id="bec54-106">**Troubleshooting Application Proxy issues**: we recommend that you start with reviewing the troubleshooting flow, [Debug Application Proxy Connector issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), to determine if Application Proxy connectors are configured correctly.</span></span> <span data-ttu-id="bec54-107">Dacă încă întâmpinați probleme la conectarea la aplicație, urmați pașii de depanare din [problemele de aplicație proxy pentru aplicații de depanare](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span><span class="sxs-lookup"><span data-stu-id="bec54-107">If you're still having trouble connecting to the application, follow the troubleshooting steps in [Debug Application Proxy application issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span></span> <span data-ttu-id="bec54-108">Puteți [identifica problemele CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) utilizând următoarele instrumente de depanare a browserului:</span><span class="sxs-lookup"><span data-stu-id="bec54-108">You can [identify CORS issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) by using the following browser debug tools:</span></span>
+    1. <span data-ttu-id="bec54-109">Lansați browserul și navigați la aplicația web.</span><span class="sxs-lookup"><span data-stu-id="bec54-109">Launch the browser and browse to the web app.</span></span>
+    1. <span data-ttu-id="bec54-110">Apăsați **F12** pentru a afișa consola de depanare.</span><span class="sxs-lookup"><span data-stu-id="bec54-110">Press **F12** to bring up the debug console.</span></span>
+    1. <span data-ttu-id="bec54-111">Încercați să reproduceți tranzacția și revizuiți mesajul consolei.</span><span class="sxs-lookup"><span data-stu-id="bec54-111">Try to reproduce the transaction, and review the console message.</span></span> <span data-ttu-id="bec54-112">O încălcare CORS produce o eroare de consolă despre origine.</span><span class="sxs-lookup"><span data-stu-id="bec54-112">A CORS violation produces a console error about origin.</span></span>
+    1. <span data-ttu-id="bec54-113">Unele probleme CORS nu pot fi rezolvate, cum ar fi atunci când aplicația redirecționează login.microsoftonline.com să se autentifice și simbolul Access expiră.</span><span class="sxs-lookup"><span data-stu-id="bec54-113">Some CORS issues can't be resolved, such as when your app redirects to login.microsoftonline.com to authenticate, and the access token expires.</span></span> <span data-ttu-id="bec54-114">Apelul CORS nu reușește.</span><span class="sxs-lookup"><span data-stu-id="bec54-114">The CORS call then fails.</span></span> <span data-ttu-id="bec54-115">O soluție pentru acest scenariu este să extindeți durata de viață a tokenului de acces, pentru a împiedica expirarea acestuia în timpul sesiunii unui utilizator.</span><span class="sxs-lookup"><span data-stu-id="bec54-115">A workaround for this scenario is to extend the lifetime of the access token, to prevent it from expiring during a user’s session.</span></span> <span data-ttu-id="bec54-116">Pentru mai multe informații despre cum să procedați, consultați [durată de viață simbolică configurabilă în platforma Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span><span class="sxs-lookup"><span data-stu-id="bec54-116">For more information about how to do this, see [Configurable token lifetimes in Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span></span>
+
+<span data-ttu-id="bec54-117">**Documente recomandate**</span><span class="sxs-lookup"><span data-stu-id="bec54-117">**Recommended documents**</span></span>
+
+- [<span data-ttu-id="bec54-118">Cum se configurează sign-on unic într-o aplicație proxy de aplicație</span><span class="sxs-lookup"><span data-stu-id="bec54-118">How to configure single sign-on to an Application Proxy application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [<span data-ttu-id="bec54-119">SAML sign-on unic pentru aplicațiile locale cu proxy de aplicație</span><span class="sxs-lookup"><span data-stu-id="bec54-119">SAML single sign-on for on-premises applications with Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [<span data-ttu-id="bec54-120">Înțelegerea și rezolvarea problemelor legate de proxy-ul aplicației Azure Active Directory CORS</span><span class="sxs-lookup"><span data-stu-id="bec54-120">Understand and solve Azure Active Directory Application Proxy CORS issues</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [<span data-ttu-id="bec54-121">Depanarea configurațiilor constrânse de delegare Kerberos pentru proxy de aplicație</span><span class="sxs-lookup"><span data-stu-id="bec54-121">Troubleshoot Kerberos constrained delegation configurations for Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
