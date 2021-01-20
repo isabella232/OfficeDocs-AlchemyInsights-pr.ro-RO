@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748256"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911779"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Modificarea domeniului pentru Microsoft 365 Group
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Modificarea domeniului pentru un grup Microsoft 365
 
 Dacă doriți să modificați domeniul pentru un grup Microsoft 365 în timpul creării, urmați pașii din [Alegeți domeniul de utilizat la crearea grupurilor microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-După ce grupul Microsoft 365 este deja creat, în prezent nu există nicio modalitate de a modifica domeniul. Singura modalitate este să creați un nou grup Microsoft 365 și să îl ștergeți pe cel vechi, dacă este necesar (adresele de e-mail suplimentare pot fi adăugate prin [Centrul de administrare Exchange](https://outlook.office365.com/ecp).
+Pentru a modifica domeniul unui grup Microsoft 365 existent, ca administrator, puteți să navigați la centrul de administrare Microsoft 365, https://admin.microsoft.com apoi să efectuați următorii pași:
+
+- Alegeți **grupuri** din meniul din partea stângă
+- Căutați grupul M365 pe care doriți să-l modificați și alegeți-l, apoi faceți clic pe **Editare** sub **adrese de e-mail** atunci când sunteți pe fila **General** .
+- Acum puteți modifica domeniul adresei sale principale de e-mail și puteți adăuga pseudonime de e-mail.
+
+> [!IMPORTANT]
+> Grupurile de distribuire regulate și grupurile de securitate activate pentru e-mail vă vor permite să gestionați mai puțin setările din secțiunea **grupuri** de administrare M365. Dacă doriți să gestionați mai multe detalii, faceți clic pe fila **Setări** atunci când editați una dintre ele în centrul de administrare M365 și alegeți **Gestionați mai multe setări în opțiunea Exchange centru de administrare** .
