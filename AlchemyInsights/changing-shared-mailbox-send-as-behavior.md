@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793662"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075873"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>Modificarea comportamentului de trimitere a cutiei poștale partajate
 
 În mod implicit, mesajele trimise din cutia poștală partajată nu sunt salvate în folderul Elemente trimise din cutia poștală partajată. În schimb, acestea sunt salvate în folderul Elemente trimise al persoanei care a trimis mesajul.
   
-Dacă doriți ca toți membrii să vadă mesajele de e-mail trimise, în centrul de administrare Microsoft 365, editați detaliile cutiei poștale partajate și alegeți editare **Elemente trimise** \> **Edit**.
+Dacă doriți ca toți membrii să vadă mesajele de e-mail trimise, în centrul de administrare Microsoft 365, editați detaliile cutiei poștale partajate și alegeți editare **Elemente trimise** \> .
   
-Pentru a citi mai multe, consultați [crearea unei cutii poștale partajate](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Pentru a citi mai multe, consultați [Configurarea setărilor pentru cutia poștală partajată](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).
   
