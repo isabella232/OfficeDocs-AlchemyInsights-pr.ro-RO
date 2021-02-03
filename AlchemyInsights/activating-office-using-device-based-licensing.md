@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697893"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094049"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Activarea Office utilizând licențierea bazată pe dispozitiv
 
-> [!NOTE]
-> [Activarea pe baza dispozitivelor](https://aka.ms/officedba) Office pentru clienții școlari din s.u.a. este acum dezaprobată. Încurajăm organizațiile să planifice noua licență Microsoft 365 Apps pentru educație (dispozitiv) pentru clienții școlari.
+Licențierea bazată pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi este disponibilă ca licență doar pentru unii clienți comerciali și pentru unii clienți școlari. Pentru informații detaliate, consultați: [licențierea bazată pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Pentru a activa Office utilizând licențierea bazată pe dispozitiv, trebuie să aveți licența de program de completare Microsoft 365 Apps pentru Education (Device) care este disponibilă doar pentru clienții școlari și este disponibilă doar prin înscriere pentru Education Solutions (SEO). Consultați [cerințe pentru utilizarea licențierii bazate pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Pentru a activa aplicațiile Microsoft 365 pentru întreprinderi utilizând licențierea bazată pe dispozitiv, consultați:
 
-
-Pentru informații detaliate despre configurare, consultați:
-
+- [Cerințe pentru utilizarea licențierii bazate pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Pașii pentru configurarea licențierii bazate pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Gestionarea licențelor pentru dispozitive](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Pentru instrucțiuni de depanare, consultați [Depanarea licențierii bazate pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Pentru instrucțiuni de depanare, consultați [Depanarea licențierii bazate pe dispozitiv pentru aplicațiile Microsoft 365 pentru întreprinderi](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+> [!NOTE]
+> Dacă aplicațiile Microsoft 365 sunt deja instalate și activate cu licențierea prin abonament pe bază de utilizator sau cu activarea pentru computere partajate, va trebui să resetați starea licenței pe dispozitiv înainte ca aceasta să treacă la licențierea bazată pe dispozitiv. Pentru a reseta starea de activare, consultați [Resetarea aplicațiilor Microsoft 365 pentru starea de activare Enterprise](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
