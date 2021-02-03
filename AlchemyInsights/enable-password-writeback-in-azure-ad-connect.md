@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560452"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093367"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Activați Rescriere parole în Azure AD Connect
 
@@ -43,4 +43,4 @@ Cu Rescrierea parolei activată în Azure AD Connect, configurați Azure AD SSPR
 Pentru mai multe informații, vedeți [Activarea rescrierii parolelor în Azure Active Directory într-un domeniu local](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Atunci când un administrator resetează parola unui utilizator în portalul Azure, dacă acel utilizator este federat sau hash-ul parolei este sincronizat, parola este scrisă din nou în local. Această funcție nu este momentan acceptată în portalul Office Admin.
+>  Atunci când un administrator resetează parola unui utilizator în portalul Azure, dacă acel utilizator este federativ sau hash-ul parolei este sincronizat, parola este scrisă din nou la local. Această funcționalitate necesită licență Azure Premium (P1 sau P2) și nu este acceptată momentan în portalul de administrare Office.
