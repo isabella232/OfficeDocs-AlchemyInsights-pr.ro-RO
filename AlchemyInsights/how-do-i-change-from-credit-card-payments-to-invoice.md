@@ -3,35 +3,33 @@ title: Cum modific din plăți cu cardul de credit la factură?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286747"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152318"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Cum modific din plăți cu cardul de credit la factură?
 
 > [!NOTE]
-> Opțiunea de plată cu factură este disponibilă numai dacă abonamentul dumneavoastră costă peste o anumită sumă (care variază în funcție de locația serviciului). Este posibil să fie necesară o verificare a creditului pentru plățile pe factură mai mari. Pentru a afla mai multe, consultați [plătiți pentru abonamentul dumneavoastră](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Puteți să modificați doar la plata prin factură dacă abonamentul dumneavoastră costă peste o anumită sumă. Trebuie să plătiți mai întâi orice sold restant pentru cardul de credit sau de debit sau contul bancar înainte de a putea trece la plata prin factură.
 
 1. În centrul de administrare, accesați pagina **Facturare**  >  [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Găsiți abonamentul pe care doriți să îl modificați. Sub **Facturare**, lângă metoda de plată, selectați **Editare**.
-3. Lângă metoda de plată existentă, selectați **modificare**.
-4. Din meniul vertical, selectați **factură sau transfer bancar**.
-5. Introduceți numele, adresa și numărul de telefon. De asemenea, puteți adăuga un număr PO pentru a-l afișa pe factură.
-6. Când ați terminat, selectați **Salvare**.
-7. Verificați dacă metoda de plată selectată este corectă, apoi selectați **Salvare**.
+2. Pe fila **produse** , găsiți abonamentul pentru care doriți să plătiți cu metoda alternativă de plată.
+3. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Înlocuire metodă de plată**.
+4. În panoul **Înlocuire metodă de plată** , selectați **Adăugați metoda de plată**.
+5. În panoul **Adăugați o metodă de plată** , selectați **factură sau transfer bancar**.
+6. Introduceți numele, adresa și numărul de telefon. De asemenea, puteți adăuga un număr PO pentru a-l afișa pe factură.
+7. Când ați terminat, selectați **Salvare**.
 
-Pentru a afla mai multe, consultați [modificarea metodei de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Pentru a afla mai multe, consultați [cum să plătiți pentru abonament](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
