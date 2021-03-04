@@ -1,0 +1,52 @@
+---
+title: Depanarea SSPR
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430217"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="1464f-102">Depanarea SSPR</span><span class="sxs-lookup"><span data-stu-id="1464f-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="1464f-103">**Am probleme cu configurarea resetării parolei**</span><span class="sxs-lookup"><span data-stu-id="1464f-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="1464f-104">Dacă sunteți administrator și căutați cum să activați resetarea cu autoservire a parolei, consultați [tutorial activare SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), pentru a configura resetarea parolei pentru organizația dvs.</span><span class="sxs-lookup"><span data-stu-id="1464f-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="1464f-105">De asemenea, este posibil să doriți să revizuiți [cerințele de licențiere](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="1464f-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="1464f-106">Trebuie să aveți cel puțin o licență atribuită în organizația dvs.</span><span class="sxs-lookup"><span data-stu-id="1464f-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="1464f-107">**Utilizatori Cloud Only** -orice Office 365 (O365) a plătit SKU sau Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="1464f-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="1464f-108">**Utilizatori cloud și/sau locali** -Azure AD Premium P1 sau P2, Enterprise Mobility + Security (EMS) sau Secure productive Enterprise (SPE)</span><span class="sxs-lookup"><span data-stu-id="1464f-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="1464f-109">Pentru întrebări suplimentare despre resetarea cu autoservire a parolei, consultați [secțiunea întrebări frecvente](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="1464f-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="1464f-110">**Primesc un mesaj de eroare**</span><span class="sxs-lookup"><span data-stu-id="1464f-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="1464f-111">Consultați acest articol pentru a găsi erorile comune și soluțiile lor: [Depanarea resetării parolei cu autoservire](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="1464f-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="1464f-112">**Am o problemă cu Politica de resetare a parolei**</span><span class="sxs-lookup"><span data-stu-id="1464f-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="1464f-113">Dacă Politica de resetare a parolei nu se comportă așa cum vă așteptați sau dacă aveți întrebări despre politicile de resetare a parolei, consultați acest articol: [politicile și restricțiile prin parolă din Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="1464f-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="1464f-114">Politicile de resetare a parolei nu se aplică administratorilor.</span><span class="sxs-lookup"><span data-stu-id="1464f-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="1464f-115">Microsoft impune o politică de resetare a parolei cu două porți implicite pentru orice rol de administrator Azure.</span><span class="sxs-lookup"><span data-stu-id="1464f-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="1464f-116">Asigurați-vă că testați cu un utilizator care nu este administrator.</span><span class="sxs-lookup"><span data-stu-id="1464f-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="1464f-117">Pentru mai multe informații despre politica de resetare a administratorului, consultați acest articol: [administratorul resetează diferențele de politică](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span><span class="sxs-lookup"><span data-stu-id="1464f-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="1464f-118">**Nu doresc ca utilizatorii mei să înregistreze informații suplimentare de securitate pentru resetarea parolei**</span><span class="sxs-lookup"><span data-stu-id="1464f-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="1464f-119">Puteți să prepopulați datele (atributele de e-mail și de telefon) pentru utilizatorii care utilizează un API, PowerShell sau Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="1464f-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="1464f-120">Pentru a afla cum să citiți:</span><span class="sxs-lookup"><span data-stu-id="1464f-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="1464f-121">Implementarea resetării parolei fără a solicita utilizatorilor să se înregistreze</span><span class="sxs-lookup"><span data-stu-id="1464f-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="1464f-122">Ce date se utilizează prin resetarea parolei</span><span class="sxs-lookup"><span data-stu-id="1464f-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="1464f-123">**Doresc ca utilizatorii mei să își înregistreze informațiile suplimentare de securitate pentru resetarea parolei**</span><span class="sxs-lookup"><span data-stu-id="1464f-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="1464f-124">Trebuie ca utilizatorii să își înregistreze informațiile de securitate pentru resetarea parolei cu autoservire prin direcționarea lor către [aka.MS/ssprsetup](https://mysignins.microsoft.com/security-info).</span><span class="sxs-lookup"><span data-stu-id="1464f-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="1464f-125">După ce datele sunt populate pentru utilizator (de către utilizator sau de către administrator), direcționați-vă utilizatorul către [aka.MS/SSPR](https://passwordreset.microsoftonline.com/) , pentru ca utilizatorii să poată fi împuterniciți să își reseteze propriile parole.</span><span class="sxs-lookup"><span data-stu-id="1464f-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="1464f-126">Dacă utilizatorii încă întâmpină probleme, probabil că sunt utilizatori **Sincronizați cu hash** -ul **federativ** sau cu parole.</span><span class="sxs-lookup"><span data-stu-id="1464f-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="1464f-127">Acest lucru înseamnă că există probabil o problemă cu serviciul de writeback a parolei.</span><span class="sxs-lookup"><span data-stu-id="1464f-127">This means there is likely a problem with the Password Writeback service.</span></span>
