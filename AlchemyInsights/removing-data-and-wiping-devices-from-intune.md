@@ -6,31 +6,37 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
-ms.translationtype: MT
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440469"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416325"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Eliminarea datelor și ștergerea dispozitivelor din Intune
 
-Acțiunile de la distanță Pentru retragerea dispozitivului și ștergerea dispozitivului pot fi utilizate pentru a elimina datele companiei gestionate de Intune sau pentru a efectua o resetare din fabrică și pentru a readuce dispozitivul la setările sale implicite.
+Acțiunile la distanță de retragere și ștergere a dispozitivului pot fi utilizate pentru a elimina datele firmei gestionate de Intune sau pentru a efectua o reinițializare la setările din fabrică și a restabili setările implicite pe dispozitiv.
 
-1. Conectați-vă la Microsoft 365 **Devices**Device Management și accesați  >  **Devices All Devices**.
-2. Selectați dispozitivul pe care doriți să-l ștergeți.
-3. Selectați tipul de ștergere la distanță pe care doriți să îl faceți. Retragere șterge numai informațiile organizaționale, în timp ce șervețelele complete restabilesc dispozitivul la setările sale din fabrică.
-4. Selectați **Da** pentru confirmare. Până la terminarea ștergerii, starea acțiunii Dispozitiv se afișează ca Retragere în așteptare.</br>
-    După terminarea acțiunii, nu veți mai vedea dispozitivul mobil în lista de dispozitive gestionate.
+1. Conectați-vă la Microsoft 365 Management și accesați **Dispozitive** > **Toate dispozitivele**.
+2. Selectați dispozitivul pe care doriți să îl ștergeți.
+3. Selectați tipul de ștergere de la distanță pe care doriți să o efectuați. Retragerea șterge numai informațiile organizației, în timp ce ștergerile complete restaurează dispozitivul la setările din fabrică.
+4. Selectați **Da** pentru a confirma. Până când se termină ștergerea, starea acțiunii pentru dispozitiv se afișează ca *În aşteptarea retragerii*.
+    După ce se încheie acțiunea, nu veți mai vedea dispozitivul mobil în lista de dispozitive gestionate.
 
-**Notă** Datele companiei nu pot fi eliminate de pe dispozitivele ASOCIATE în Azure AD.
+> [!NOTE]
+> Datele firmei nu pot fi eliminate de pe dispozitivele ASOCIATE la Azure AD. 
 
-Pentru detalii complete despre efectul acțiunilor Retragere și ștergere, inclusiv ce este reținut și ce este șters, consultați [Eliminarea dispozitivelor utilizând ștergerea, retragerea sau anularea manuală a dispozitivului](https://docs.microsoft.com/intune/devices-wipe).
+Pentru detalii complete cu privire la efectul acțiunilor de retragere și ștergere, inclusiv elementele păstrate și cele șterse, consultați documentația următoare:
 
-Pentru a șterge toate datele de pe un dispozitiv macOS, consultați [Ștergerea tuturor datelor de pe un dispozitiv macOS](https://docs.microsoft.com/intune/device-erase).
+- [Eliminarea dispozitivelor utilizând ștergerea, retragerea sau anularea manuală a înscrierii dispozitivului](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Cum să ștergeți doar datele corporației din aplicațiile gestionate de Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Ștergeți toate datele de pe un dispozitiv macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
