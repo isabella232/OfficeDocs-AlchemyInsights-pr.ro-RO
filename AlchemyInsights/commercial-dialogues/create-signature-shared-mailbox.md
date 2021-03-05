@@ -1,0 +1,29 @@
+---
+title: Crearea unei semnături de e-mail pentru o cutie poștală partajată
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/18/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1200009"
+- "7310"
+ms.openlocfilehash: b584ac2351b7ea6e0abe14db18af8785591cb5d6
+ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50483761"
+---
+# <a name="create-an-email-signature-for-a-shared-mailbox"></a><span data-ttu-id="897ab-102">Crearea unei semnături de e-mail pentru o cutie poștală partajată</span><span class="sxs-lookup"><span data-stu-id="897ab-102">Create an email signature for a shared mailbox</span></span>
+
+<span data-ttu-id="897ab-103">Fiecare persoană care utilizează cutia poștală partajată va trebui să adauge o nouă semnătură de e-mail la lista de semnături.</span><span class="sxs-lookup"><span data-stu-id="897ab-103">Each person who uses the shared mailbox will need to add a new email signature to their list of signatures.</span></span>
+
+1. <span data-ttu-id="897ab-104">Pentru a afla cum să creați o semnătură de e-mail pentru orice tip de cutie poștală, consultați [crearea și adăugarea unei semnături la mesaje.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)</span><span class="sxs-lookup"><span data-stu-id="897ab-104">To learn how to create an email signature for any type of mailbox, see [Create and add a signature to messages.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)</span></span>
+2. <span data-ttu-id="897ab-105">**Sfat**: când utilizatorii își utilizează adresa partajată, va trebui să seteze semnătura cutiei poștale partajate ca implicită.</span><span class="sxs-lookup"><span data-stu-id="897ab-105">**Tip**: When users use their shared address, they will need to set the shared mailbox signature as the default.</span></span>
+3. <span data-ttu-id="897ab-106">Apoi, atunci când revin la lucru cu propria adresă de e-mail, va trebui să modifice semnătura înapoi.</span><span class="sxs-lookup"><span data-stu-id="897ab-106">Then, when they go back to work with their own email address, they'll need to change the signature back.</span></span> <span data-ttu-id="897ab-107">În caz contrar, cel pentru adresa partajată va fi utilizat ca implicit.</span><span class="sxs-lookup"><span data-stu-id="897ab-107">Otherwise, the one for the shared address will be used as the default.</span></span>
