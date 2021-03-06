@@ -1,10 +1,11 @@
 ---
 title: Întrebări frecvente despre abonamentul pentru firme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -19,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169720"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469062"
 ---
 # <a name="business-subscription-faq"></a>Întrebări frecvente despre abonamentul pentru firme
 
 - Pentru a vedea opțiunile Microsoft 365 pentru firme, consultați [Comparați planurile pentru firme](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Pentru mai multe informații, contactați echipa de vânzări la 1-855-270-0615.
-- Pentru a **achiziționa** un plan, accesați **Facturare > [Achiziționare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Selectați planul și numărul de utilizatori. Pentru mai multe informații, consultați [Achiziționarea abonamentelor](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Pentru a **comuta între planuri**, consultați [Comutarea manuală a planurilor Microsoft 365 pentru firmă](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Pentru a **atribui utilizatorilor** licențe, accesați **Facturare > [Licențe](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Pentru mai multe informații, consultați [Atribuirea licențelor](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Pentru a **adăuga/elimina licențe**, accesați **Facturare > [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selectați **Adăugare/eliminare licențe**. Pentru mai multe informații, consultați [Adăugarea/eliminarea licențelor](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Pentru a **anula** licențe, accesați **Facturare > [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selectați **Setări și acțiuni**, apoi faceți clic pe **Anulare abonament**. Pentru mai multe informații, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Pentru a **achiziționa** un plan, accesați **Facturare > [Achiziționare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Selectați planul și numărul de utilizatori. Pentru mai multe informații, consultați [Cumpărați un alt abonament](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)
+- Pentru **a modifica planurile**, consultați [Upgrade la un alt plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Pentru **a atribui** licențe utilizatorilor, accesați **Facturare > [Licențe](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Pentru mai multe informații, consultați [Atribuiți licențe utilizatorilor](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Pentru **a cumpăra sau a elimina** licențe, accesați **Facturare > [Produsele dvs.](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Pentru mai multe informații, consultați [Cumpărarea sau eliminarea licențelor](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Pentru **a anula** un abonament, accesați **Facturare > [Produsele dvs.](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selectați abonamentul și, în secțiunea **Abonament și setări de plată**, selectați **Anulare abonament**. Pentru mai multe informații, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Pentru a **activa** abonamentul, consultați [Activarea abonamentului](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Pentru a **reactiva un abonament expirat**, consultați [Reactivarea abonamentului](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Pentru a **extinde abonamentul de încercare**, consultați [Extinderea abonamentului de încercare](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Pentru **a reactiva** un abonament, consultați [Reactivarea abonamentului](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Pentru **a prelungi** versiunea de încercare, consultați [Prelungiți versiunea de încercare](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Pentru mai multe informații, consultați [Gestionarea licențelor de abonament](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Pentru mai multe informații, consultați [Cumpărarea sau eliminarea licențelor](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
