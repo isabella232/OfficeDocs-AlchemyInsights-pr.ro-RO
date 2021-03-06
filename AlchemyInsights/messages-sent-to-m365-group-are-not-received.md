@@ -12,21 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: d222eb92d806bad52264139a8ddba72f323b3783
+ms.sourcegitcommit: 10cfd9d552b0d8a096bcef34e82c04a4c166a13a
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430695"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50479465"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="94f69-102">Mesajele trimise către un grup Microsoft 365 nu sunt primite de toți membrii</span><span class="sxs-lookup"><span data-stu-id="94f69-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="aff2c-102">Mesajele trimise către un grup Microsoft 365 nu sunt primite de toți membrii</span><span class="sxs-lookup"><span data-stu-id="aff2c-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
 
-<span data-ttu-id="94f69-103">Asigurați-vă că toți membrii grupului s-au abonat să primească mesajele de e-mail.</span><span class="sxs-lookup"><span data-stu-id="94f69-103">Make sure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="94f69-104">Consultați [Urmărirea unui grup în Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="94f69-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
+<span data-ttu-id="aff2c-103">Asigurați-vă că toți membrii grupului s-au abonat să primească mesajele de e-mail.</span><span class="sxs-lookup"><span data-stu-id="aff2c-103">Make sure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="aff2c-104">Consultați [Urmărirea unui grup în Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="aff2c-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
 
-<span data-ttu-id="94f69-105">Pentru a verifica starea mesajului pentru membrii care s-au abonat la mesaje de e-mail de grup, rulați următoarea comandă în [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="94f69-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
+<span data-ttu-id="aff2c-105">Pentru a verifica starea mesajului pentru membrii care s-au abonat la mesaje de e-mail de grup, rulați următoarea comandă în [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="aff2c-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
 
-<span data-ttu-id="94f69-106">Utilizați următoarea comandă EXO PowerShell pentru a configura toți membrii grupului să primească în inbox mesajele de e-mail trimise către grupul Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="94f69-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
+<span data-ttu-id="aff2c-106">Utilizați următoarea comandă EXO PowerShell pentru a configura toți membrii grupului să primească în inbox mesajele de e-mail trimise către grupul Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="aff2c-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
 
 `$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+<span data-ttu-id="aff2c-107">De exemplu:</span><span class="sxs-lookup"><span data-stu-id="aff2c-107">For example:</span></span>
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
