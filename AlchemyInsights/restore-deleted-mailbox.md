@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728083"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641530"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurarea unei cutii poștale șterse
 
 Atunci când un utilizator pierde o licență Exchange Online, cutia poștală este reținută timp de 30 de zile și poate fi recuperată prin reatribuirea licenței pentru utilizator.
   
- *Acest lucru va funcționa doar în termen de 30 de zile.*  
-  
-1. În centrul de administrare Microsoft 365, accesați pagina utilizatori **Users** \> **activi** utilizatori. Selectați utilizatorul în cauză.
+1. În centrul de administrare Microsoft 365, accesați pagina utilizatori  \> **activi** utilizatori. Selectați utilizatorul în cauză.
 
 2. Pe fila **licențe și aplicații** , atribuiți licența Exchange Online și selectați **Salvare modificări**.
 
-Dacă încercați să recuperați o cutie poștală partajată, aceasta este, de asemenea, recuperabilă timp de 30 de zile. Le puteți **găsi sub utilizatori utilizatori** \> **șterse**; cutiile poștale partajate nu necesită o licență. Dacă vă dați seama că trebuie să restaurați un utilizator șters, consultați [restaurarea unui utilizator](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Dacă încercați să recuperați o cutie poștală partajată sau un utilizator care a fost șters, acesta este, de asemenea, recuperabil timp de 30 de zile. Le puteți **găsi sub utilizatori utilizatori** \> **șterse**; cutiile poștale partajate nu necesită o licență. Consultați [restaurarea unui utilizator](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+
+Recuperarea mesajelor de e-mail din cutia poștală a utilizatorului poate fi efectuată de administratori, accesând [noul centru de administrare Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).
+
+În cele din urmă, dacă încercați să recuperați o cutie poștală inactivă, [urmați instrucțiunile de aici](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
   
