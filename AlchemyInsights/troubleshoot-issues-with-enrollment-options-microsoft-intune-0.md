@@ -13,12 +13,12 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 15b843bdf4a2152c2ddd5d25b623d36734bdf4a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e375d1ae3f6bfa56c4c050a296a0ae9b0ce05f9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665226"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708614"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Depanarea problemelor cu opțiunile de înscriere Microsoft Intune
 
@@ -28,6 +28,6 @@ Revizuiți resursele listate mai jos pentru a rezolva problema acum.
 
 - Utilizați [portalul de depanare Intune](https://aka.ms/intunetroubleshooting) pentru a diagnostica și a rezolva erorile de înscriere comune. Revizuiți [acest document](https://docs.microsoft.com/intune/help-desk-operators) pentru mai multe detalii.
 
-- Revizuiți [acest document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea și rezoluțiile la fiecare.
+- Revizuiți [acest document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) pentru o listă de erori comune care împiedică înscrierea și rezoluțiile la fiecare.
 
 - [Aflați despre opțiunile de înscriere în Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).

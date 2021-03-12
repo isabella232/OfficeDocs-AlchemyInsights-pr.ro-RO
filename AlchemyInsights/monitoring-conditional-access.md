@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366440"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708686"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Monitorizarea accesului condiționat pentru Exchange
 
@@ -27,7 +27,7 @@ Utilizatorii vizați de Access condițional vor primi un e-mail de notificare da
 - În portalul Azure, accesați Intune > conformitatea dispozitivelor. Sub gestionare, faceți clic pe politici. În lista de politici de conformitate, Verificați dacă un profil este atribuit dispozitivului utilizatorului. Dacă nu este atribuit niciun profil, atunci Intune nu va putea confirma starea de conformitate a dispozitivului.
 - Editați atribuirea accesului condiționat al utilizatorului.
 
-1. În portalul Azure, accesați Politica de **Intune**  >  **acces condițională**Intune  >  **Policies**.
+1. În portalul Azure, accesați Politica de   >  **acces condițională** Intune  >  .
 2. Selectați o politică din listă.
 3. Faceți clic pe utilizatori și grupuri.
 4. Pentru a viza o anumită politică la o persoană, adăugați-o la lista includere. Pentru a vă asigura că o persoană este omisă din politică, adăugați-o la lista de excluderi.
@@ -38,8 +38,8 @@ Linkuri utile:
 
 [Depanarea CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Politica de depanare](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Politica de depanare](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 [Monitorizarea conformității dispozitivelor Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Notă: acești pași sunt utili doar în depanarea caracteristicii Azure Active Directory Access condiționale. De asemenea, este posibil să plasați în carantină un dispozitiv care blochează accesul la e-mail cu politica Exchange. Mai multe informații despre gestionarea dispozitivelor Exchange pot fi găsite [aici](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Notă: acești pași sunt utili doar în depanarea caracteristicii Azure Active Directory Access condiționale. De asemenea, este posibil să plasați în carantină un dispozitiv care blochează accesul la e-mail cu politica Exchange. Mai multe informații despre gestionarea dispozitivelor Exchange pot fi găsite [aici] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
