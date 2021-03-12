@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667854"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708362"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalarea aplicației client Office pe un PC sau MAC
 
 Pentru a instala aplicațiile client Office, asigurați-vă că aveți un abonament Office 365 sau Microsoft 365 [ care include aplicații client Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), de exemplu, aplicații Microsoft 365 Business Standard, aplicații Microsoft 365 pentru afaceri sau aplicații Microsoft 365 pentru întreprindere.
 
-**Notă**: [Office pentru firme mici ](https://products.office.com/home-and-business) este un produs [Office pentru acasă](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) și nu face parte dintr-un abonament pentru firme. Project Online Essentials nu include o versiune desktop a Project, de aceea nu este necesară nicio instalare. Utilizatorii Visio Plan 1 pot accesa Visio pentru web deoarece planul nu include versiunea desktop a Visio. Aplicațiile Project și Visio nu sunt disponibile pe Mac.
+**Notă**: [Office pentru firme mici](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) este un produs [Office pentru acasă](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) și nu face parte dintr-un abonament pentru firme. Project Online Essentials nu include o versiune desktop a Project, de aceea nu este necesară nicio instalare. Utilizatorii Visio Plan 1 pot accesa Visio pentru web deoarece planul nu include versiunea desktop a Visio. Aplicațiile Project și Visio nu sunt disponibile pe Mac.
 
 Dacă aveți un abonament care include aplicații Microsoft 365, nu veți vedea o opțiune pentru a-l instala dacă nu aveți o [licență atribuită](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Dacă sunteți administrator Office 365 responsabil cu atribuirea de licențe, consultați [Atribuirea de licențe utilizatorilor](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). În plus, utilizați [setările de descărcare pentru software Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) pentru a selecta dacă utilizatorii pot instala aplicații ‎Office‎ pe dispozitivele lor.
 

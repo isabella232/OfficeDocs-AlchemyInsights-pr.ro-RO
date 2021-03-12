@@ -1,0 +1,31 @@
+---
+title: Restaurarea site-ului rădăcină SharePoint
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003017"
+- "5730"
+ms.openlocfilehash: 2a2178e704be32eb8cbc35c39e504575b17de371
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "50713923"
+---
+# <a name="restore-the-sharepoint-root-site"></a>Restaurarea site-ului rădăcină SharePoint
+
+Restaurați site-ul rădăcină șters din noul centru de administrare SharePoint. După ce ați restaurat, înlocuiți în schimb site-ul.
+
+1. Accesați pagina [site-uri șterse](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) . 
+2. Selectați site-ul rădăcină pentru a restaura.
+3. Faceți clic pe **Restaurare**.
+4. [Înlocuirea site-ului rădăcină](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
+
+Pentru mai multe informații, consultați [modernizarea site-ului rădăcină](https://docs.microsoft.com/sharepoint/modern-root-site).
