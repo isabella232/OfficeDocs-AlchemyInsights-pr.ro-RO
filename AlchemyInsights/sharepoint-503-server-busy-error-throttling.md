@@ -1,8 +1,8 @@
 ---
-title: Limitare SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online-limitare
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,16 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773859"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707570"
 ---
 # <a name="sharepoint-online-throttling"></a>Limitare SharePoint Online
 
-**Important**: în timpul acestor vremuri fără precedent, vom lua măsuri pentru a ne asigura că serviciile SharePoint Online și OneDrive rămân extrem de disponibile. Vizitați [Ajustări temporare de caracteristici SharePoint Online](https://aka.ms/ODSPAdjustments) pentru mai multe informații.
-
-**eroarea Server 503 este ocupată**
-
-Utilizatorii pot primi un server 503 este o eroare ocupată atunci când încercați să navigați la site-uri SharePoint sau OneDrive. 
-
-Această eroare poate fi cauzată de limitarea în serviciul SharePoint. SharePoint Online utilizează limitarea pentru a menține performanța optimă și fiabilitatea serviciului SharePoint Online. Limitarea se aplică la numărul de acțiuni de utilizator sau apeluri concurente (după script sau cod), pentru a preveni utilizarea excesivă a resurselor. 
+SharePoint Online utilizează limitarea pentru a menține performanța optimă și fiabilitatea serviciului SharePoint Online. Limitarea se aplică la numărul de acțiuni de utilizator sau apeluri concurente (după script sau cod), pentru a preveni utilizarea excesivă a resurselor. 
 
 Pentru mai multe informații despre limitare, consultați [evitați să fiți accelerat sau blocat în SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

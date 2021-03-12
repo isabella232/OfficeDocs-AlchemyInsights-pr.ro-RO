@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 33b8ad0a33eb02eb9ec5bd26f94b00e5645b3fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737353"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708074"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Erorile de sincronizare din cauza obiectelor dublate
 
@@ -28,6 +28,6 @@ Este posibil să primiți unul dintre următoarele mesaje de eroare atunci când
 
 - Nu se poate actualiza acest obiect, deoarece următoarele atribute asociate cu acest obiect au valori care pot fi deja asociate cu un alt obiect din serviciile directorului local: UserPrincipalName.
 
-Pentru a identifica și a remedia problema, descărcați și derulează [Instrumentul de remediere a erorilor IdFix DirSync](https://www.microsoft.com/download/details.aspx?id=36832).
+Pentru a identifica și a remedia problema, descărcați și derulează [Instrumentul de remediere a erorilor IdFix DirSync](https://github.com/Microsoft/idfix).
 
 Pentru mai multe informații, consultați [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
