@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687806"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704762"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Adăugarea, eliminarea sau împiedicarea utilizatorilor să modifice fotografii de profil
 
@@ -25,6 +25,6 @@ ms.locfileid: "47687806"
 
 - **Eliminarea fotografiilor de profil:** Fotografiile de profil pot fi eliminate de un administrator în [gestionarea utilizatorilor Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) sau de un utilizator din profilul de utilizator Microsoft teams.
 
-- Se **blochează modificările fotografiilor de profil:** Modificările fotografiilor pot fi blocate pentru toate Microsoft 365 * prin adăugarea unei politici Outlook Web App per articol, [blocarea fotografiilor sau restricționarea permisiunilor pentru a modifica fotografia de profil microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- Se **blochează modificările fotografiilor de profil:** Modificările fotografiilor pot fi blocate pentru toate Microsoft 365 * prin adăugarea unei politici Outlook Web App per articol, [blocarea fotografiilor sau restricționarea permisiunilor pentru a modifica fotografia de profil microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Vă rugăm să rețineți că Microsoft teams nu acceptă în prezent politica Outlook Web App pentru a bloca modificările de fotografie, dar intenționează să adauge suport pentru această caracteristică la începutul 2020.
+* Microsoft teams nu acceptă în prezent politica Outlook Web App pentru a bloca modificările de fotografii, dar intenționează să adauge suport pentru această caracteristică la începutul 2020.

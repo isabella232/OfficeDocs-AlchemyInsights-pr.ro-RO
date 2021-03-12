@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3550081a12379f73725253214a2c2d44974ab740
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c8ad84123fb58b73b9c378592ce970997893ea2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690795"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704906"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Depanarea mesajelor interzise în Access
 
@@ -26,7 +26,7 @@ Dacă cineva a primit un mesaj "acces refuzat" la un folder partajat din SharePo
     
 3. Lângă **modul blocare permisiune utilizator cu acces limitat**, faceți clic pe **Dezactivare**.
     
-De asemenea, se poate produce un mesaj de acces refuzat pentru folderele partajate, dacă site-ul este un site de publicare. Pentru informații, consultați [Access Denied atunci când accesați un folder partajat](https://go.microsoft.com/fwlink/?linkid=2004317).
+De asemenea, se poate produce un mesaj de acces refuzat pentru folderele partajate, dacă site-ul este un site de publicare. Pentru informații, consultați [Access Denied atunci când accesați un folder partajat](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb).
   
 Dacă o persoană a primit un mesaj "acces refuzat" atunci când încercați să vizualizați solicitările de acces, utilizatorul trebuie să fie adăugat ca administrator al colecției de site-uri sau ca membru al grupului de proprietari pentru site. Pentru mai multe informații, consultați [lista de solicitări Access Denied în Access](https://go.microsoft.com/fwlink/?linkid=2004220).
   
