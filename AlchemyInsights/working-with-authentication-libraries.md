@@ -1,0 +1,55 @@
+---
+title: Lucrul cu bibliotecile de autentificare
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/17/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9775"
+- "9004342"
+ms.openlocfilehash: f9f54ed2bfc5841df66d3e714112b9307455c182
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51036871"
+---
+# <a name="working-with-authentication-libraries"></a><span data-ttu-id="2fec3-102">Lucrul cu bibliotecile de autentificare</span><span class="sxs-lookup"><span data-stu-id="2fec3-102">Working with Authentication Libraries</span></span>
+
+<span data-ttu-id="2fec3-103">Pentru a rezolva problema bibliotecii de autentificare Microsoft (MSAL), efectuați următorii pași recomandate:</span><span class="sxs-lookup"><span data-stu-id="2fec3-103">To resolve Microsoft Authentication Library (MSAL) issue, perform the following recommended steps:</span></span>
+
+1. <span data-ttu-id="2fec3-104">**Lucrul cu MSAL**: [biblioteci de autentificare a platformelor Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) -acest articol afișează asistența pentru bibliotecile de autentificare Microsoft pentru mai multe tipuri de aplicații.</span><span class="sxs-lookup"><span data-stu-id="2fec3-104">**Working with MSAL**: [Microsoft identity platform authentication libraries](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) - This article shows Microsoft Authentication Library support for several application types.</span></span> <span data-ttu-id="2fec3-105">Include linkuri către codul sursă al bibliotecii; de unde să obțineți pachetul pentru proiectul aplicației dvs.; și dacă biblioteca acceptă conectarea la utilizator (autentificarea), accesul la API-uri web protejate (autorizare) sau ambele.</span><span class="sxs-lookup"><span data-stu-id="2fec3-105">It includes links to library source code; where to get the package for your app's project; and whether the library supports user sign-in (authentication), access to protected web APIs (authorization), or both.</span></span>
+
+2. <span data-ttu-id="2fec3-106">**Depanarea autentificării**: MSAL acceptă mai multe fluxuri de autentificare pentru utilizare în scenarii de aplicație diferite.</span><span class="sxs-lookup"><span data-stu-id="2fec3-106">**Troubleshoot Authentication**: The MSAL supports several authentication flows for use in different application scenarios.</span></span> <span data-ttu-id="2fec3-107">În funcție de modul în care este construită aplicația client, MSAL poate utiliza unul sau mai multe fluxuri de autentificare acceptate de platforma de identitate Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2fec3-107">Depending on how your client application is built, the MSAL can use one or more of the authentication flows supported by the Microsoft identity platform.</span></span> <span data-ttu-id="2fec3-108">Aceste fluxuri pot genera mai multe tipuri de jetoane și coduri de autorizare și necesită simboluri diferite pentru a le face să funcționeze.</span><span class="sxs-lookup"><span data-stu-id="2fec3-108">These flows can produce several types of tokens and authorization codes, and require different tokens to make them work.</span></span>
+
+3. <span data-ttu-id="2fec3-109">**Simboluri de acces**: [simboluri de acces ale platformei de identitate Microsoft](https://docs.microsoft.com/azure/active-directory/develop/access-tokens) -Aflați cum poate valida API-ul și utiliza creanțele dintr-un simbol Access.</span><span class="sxs-lookup"><span data-stu-id="2fec3-109">**Access Tokens**: [Microsoft identity platform access tokens](https://docs.microsoft.com/azure/active-directory/develop/access-tokens) - Learn how your API can validate and use the claims inside an access token.</span></span> <span data-ttu-id="2fec3-110">Toate documentația din acest articol, cu excepția cazului în care se menționează, se aplică doar la tokenurile emise pentru API-uri pe care le-ați înregistrat.</span><span class="sxs-lookup"><span data-stu-id="2fec3-110">All documentation in this article, except where noted, applies only to tokens issued for APIs you've registered.</span></span> <span data-ttu-id="2fec3-111">Nu se aplică tokenurilor emise pentru API-urile deținute de Microsoft și nici acele simboluri nu pot fi utilizate pentru a valida modul în care platforma de identitate Microsoft va emite tokenuri pentru un API pe care îl creați.</span><span class="sxs-lookup"><span data-stu-id="2fec3-111">It does not apply to tokens issued for Microsoft-owned APIs, nor can those tokens be used to validate how the Microsoft identity platform will issue tokens for an API you create.</span></span>
+
+<span data-ttu-id="2fec3-112">**Sfârșitul asistenței pentru Azure Active Directory Authentication Library (monica)**</span><span class="sxs-lookup"><span data-stu-id="2fec3-112">**End of support for Azure Active Directory Authentication Library (ADAL)**</span></span>
+
+- <span data-ttu-id="2fec3-113">**Începând cu 30 iunie 2020,** nu vom mai adăuga caracteristici noi la Monica și Azure AD Graph.</span><span class="sxs-lookup"><span data-stu-id="2fec3-113">**Starting June 30th, 2020,** we will no longer add any new features to ADAL and Azure AD Graph.</span></span> <span data-ttu-id="2fec3-114">Vom continua să oferim asistență tehnică și actualizări de securitate, dar nu vom mai furniza actualizări de caracteristici.</span><span class="sxs-lookup"><span data-stu-id="2fec3-114">We will continue to provide technical support and security updates but will no longer provide feature updates.</span></span>
+- <span data-ttu-id="2fec3-115">**Începând cu 30 iunie, 2022,** vom încheia asistența pentru monica și Azure AD Graph și nu va mai oferi asistență tehnică sau actualizări de securitate.</span><span class="sxs-lookup"><span data-stu-id="2fec3-115">**Starting June 30th, 2022,** we will end support for ADAL and Azure AD Graph and will no longer provide technical support or security updates.</span></span>
+- <span data-ttu-id="2fec3-116">Aplicațiile care utilizează monica pe versiunile de sistem de operare existente vor continua să funcționeze după această dată, dar nu vor *primi nicio asistență tehnică sau actualizări de securitate*.</span><span class="sxs-lookup"><span data-stu-id="2fec3-116">Apps using ADAL on existing OS versions will continue to work after this time but will not *get any technical support or security updates*.</span></span>
+- <span data-ttu-id="2fec3-117">Aplicațiile care utilizează Azure AD Graph după această dată nu mai pot primi răspunsuri de la punctul final Azure AD Graph.</span><span class="sxs-lookup"><span data-stu-id="2fec3-117">Apps using Azure AD Graph after this time may no longer receive responses from the Azure AD Graph endpoint.</span></span>
+
+<span data-ttu-id="2fec3-118">**Migrarea monica**</span><span class="sxs-lookup"><span data-stu-id="2fec3-118">**ADAL Migration**</span></span>
+
+- <span data-ttu-id="2fec3-119">Vă recomandăm să actualizați la MSAL, care are cele mai recente caracteristici și actualizări de securitate.</span><span class="sxs-lookup"><span data-stu-id="2fec3-119">We recommend updating to the MSAL, which has the latest features and security updates.</span></span>
+- <span data-ttu-id="2fec3-120">Dacă utilizați aplicațiile Microsoft, știți că Microsoft se află în procesul de migrare a aplicațiilor sale la MSAL până la termenul limită de finalizare a asistenței, asigurându-vă că va beneficia de securitatea în curs de desfășurare și de îmbunătățiri ale caracteristicii MSAL.</span><span class="sxs-lookup"><span data-stu-id="2fec3-120">If you're using Microsoft apps, know that Microsoft is in the process of migrating its apps to MSAL by the end-of-support deadline, ensuring they'll benefit from MSAL's ongoing security and feature improvements.</span></span>
+
+1. <span data-ttu-id="2fec3-121">[Citiți întrebările frecvente](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)despre Monica.</span><span class="sxs-lookup"><span data-stu-id="2fec3-121">[Read the ADAL FAQ](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).</span></span>
+2. <span data-ttu-id="2fec3-122">[Aflați cum să migrați aplicațiile pe o bază per platformă](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#migration-guidance).</span><span class="sxs-lookup"><span data-stu-id="2fec3-122">[Learn about how to migrate apps on a per-platform basis](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#migration-guidance).</span></span>
+3. <span data-ttu-id="2fec3-123">Dacă, după ce citiți Ghidul pentru platforma aplicației dvs., aveți întrebări suplimentare, puteți să postați pe [Microsoft Q&a](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html) cu eticheta [Azure-AD-monica-dezaprobare] sau să deschideți o problemă în depozitul GitHub din bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="2fec3-123">If, after reading the guide for your app's platform, you have additional questions, you can post on [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html) with the tag [azure-ad-adal-deprecation] or open an issue in library's GitHub repository.</span></span> <span data-ttu-id="2fec3-124">Consultați secțiunea [limbi și cadre](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks) din articolul **Prezentare generală MSAL** pentru linkuri la repo pentru fiecare bibliotecă.</span><span class="sxs-lookup"><span data-stu-id="2fec3-124">See the [Languages and frameworks](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks) section of the **MSAL overview** article for links to each library's repo.</span></span>
+4. <span data-ttu-id="2fec3-125">**Dacă aveți nevoie de ajutor pentru a înțelege ce aplicații utilizați** Monica, vă recomandăm să revizuiți toate codurile sursă ale aplicațiilor dvs.</span><span class="sxs-lookup"><span data-stu-id="2fec3-125">**If you need help understanding which of your apps use ADAL**, we recommend you review all of your apps' source code.</span></span> <span data-ttu-id="2fec3-126">Dacă este cazul, contactați orice furnizor de software independent (ISV) sau furnizori de aplicații.</span><span class="sxs-lookup"><span data-stu-id="2fec3-126">If applicable, reach out to any Independent software vendors (ISVs) or app providers.</span></span> <span data-ttu-id="2fec3-127">De asemenea, asistența Microsoft vă poate oferi o listă a tuturor aplicațiilor ADAL care nu provin de la Microsoft din entitatea găzduită.</span><span class="sxs-lookup"><span data-stu-id="2fec3-127">Microsoft support can also provide you with a list of all non-Microsoft ADAL apps in your tenant.</span></span>
+
+
+
+
+
+
+
