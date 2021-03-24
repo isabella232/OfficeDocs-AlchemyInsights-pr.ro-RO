@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fe3cc8693e41639de590450fc4b678c44bd9e784
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679293"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122891"
 ---
 # <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Implementarea și actualizarea aplicațiilor Microsoft 365 cu Configuration Manager Advisor
 
-Pentru organizațiile care utilizează Configuration Manager, puteți utiliza [implementarea și actualizarea aplicațiilor microsoft 365 cu Configuration Manager Advisor](https://admin.microsoft.com/adminportal/home#/oppinstall) pentru a genera un script care va configura automat implementarea aplicațiilor Microsoft 365 utilizând cele mai bune practici recomandate de ingineri FastTrack.
+Pentru organizațiile care utilizează Configuration Manager, puteți utiliza [implementarea și actualizarea aplicațiilor microsoft 365 cu Configuration Manager Advisor](https://go.microsoft.com/fwlink/?linkid=2146549) pentru a genera un script care va configura automat implementarea aplicațiilor Microsoft 365 utilizând cele mai bune practici recomandate de ingineri FastTrack.
 
 Utilizați acest ghid pentru a vă construi grupurile de implementare, a particulariza aplicațiile și caracteristicile Office, a configura instalările dinamice sau Lean, apoi a rula scriptul pentru a crea aplicațiile, regulile de implementare automată și colecțiile de dispozitive de care aveți nevoie pentru a viza implementarea.
