@@ -1,5 +1,5 @@
 ---
-title: Conectarea manuală la Microsoft Edge
+title: Conectați-vă manual la Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678852"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398669"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Conectarea manuală la Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-manually"></a>Conectați-vă manual la Microsoft Edge
 
-Dacă un utilizator nu este conectat automat în timpul unei experiențe de prima rulare, utilizatorul poate să se conecteze manual prin setările browserului sau în identitatea flyout. Pentru a gestiona conectarea, utilizați următoarele politici:
+Dacă un utilizator nu este conectat automat în timpul unei experiențe de primă rulare, utilizatorul se poate conecta manual prin setările browserului sau prin dispozitivul volant de identitate. Pentru a gestiona conectarea, utilizați politicile următoare:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) -pentru a vă asigura că un utilizator are întotdeauna un profil de lucru în Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) -pentru a restricționa conectarea la un set de conturi de încredere.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) -pentru a dezactiva conectarea sau pentru a obliga utilizatorii să se conecteze.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - Pentru a vă asigura că un utilizator are întotdeauna un profil de lucru în Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - pentru a restricționa conectarea la un set de conturi de încredere.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - pentru a dezactiva conectarea sau pentru a impune utilizatorilor să se conecteze.
 

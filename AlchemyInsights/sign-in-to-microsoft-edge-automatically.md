@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678813"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398741"
 ---
 # <a name="sign-in-to-microsoft-edge-automatically"></a>Conectarea automată la Microsoft Edge
 
-Microsoft Edge utilizează contul implicit al sistemului de operare pentru a se conecta automat la un utilizator în funcție de modul în care este configurat dispozitivul utilizatorului. 
+Microsoft Edge utilizează contul implicit al unui sistem de operare pentru a se conecta automat la un utilizator, în funcție de modul în care este configurat dispozitivul utilizatorului. 
 
-Scenariile pentru fiecare tip de configurație a dispozitivului și procesul de conectare la utilizatorul său dependent sunt descrise mai jos:
+Scenariile pentru fiecare tip de configurare a dispozitivului și procesul său dependent de conectare al utilizatorului sunt descrise mai jos:
 
-1. **Dispozitivul este hibrid/AAD-J**: această opțiune este disponibilă în Windows 10, Windows level și versiunile de server corespunzătoare. Utilizatorii sunt conectați automat cu conturile lor Azure Active Directory (AD).
-2. **Dispozitivul este asociat domeniului**: această opțiune este disponibilă în Windows 10, Windows level și versiunile de server corespondente. În mod implicit, utilizatorii cu conturi de domeniu nu sunt conectați automat; pentru a activa conectarea automată pentru ele, utilizați Politica **ConfigureOnPremisesAccountAutoSignIn** . Pentru a activa conectarea automată pentru utilizatori cu conturi de publicitate Azure, luați în considerare conectarea hibridă a dispozitivelor.
-3. **Contul implicit al sistemului de operare este un cont Microsoft**: această opțiune este disponibilă în Windows 10 RS3 (versiunea 1709, compilarea 10.0.16299) și versiunile ulterioare. Scenariul este puțin probabil să apară pe dispozitivele Enterprise. Cu toate acestea, dacă contul implicit al sistemului de operare este un cont Microsoft, atunci Microsoft Edge se va conecta automat la utilizator cu contul Microsoft.
+- **Dispozitivul este hibrid/AAD-J:** această opțiune este disponibilă în Windows 10, versiunile de nivel inferior windows și versiunile de server corespunzătoare. Utilizatorii sunt conectați automat cu conturile lor Azure Active Directory (AD).
+- **Dispozitivul este unit cu domeniul:** această opțiune este disponibilă în Windows 10, în windows de nivel inferior și în versiunile de server corespunzătoare. În mod implicit, utilizatorii cu conturi de domeniu nu sunt conectați automat; pentru a activa conectarea automată pentru ei, utilizați **politica ConfigureOnPremisesAccountAutoSignIn.** Pentru a activa conectarea automată pentru utilizatorii cu conturi Azure AD, luați în considerare asocierea hibridă la dispozitivele lor.
+- Contul implicit al sistemului de operare este un cont **Microsoft:** această opțiune este disponibilă în Windows 10 RS3 (versiunea 1709, versiunea 10.0.16299) și versiunile mai recente. Scenariul este puțin probabil să apară pe dispozitivele de întreprindere. Cu toate acestea, în cazul în care contul implicit al unui sistem de operare este un cont Microsoft, Microsoft Edge va conecta automat utilizatorul cu contul Microsoft.
  
  
