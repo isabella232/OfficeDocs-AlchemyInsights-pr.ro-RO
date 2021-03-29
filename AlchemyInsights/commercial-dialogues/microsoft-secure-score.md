@@ -1,9 +1,9 @@
 ---
-title: Punctaj Microsoft securizat
+title: Scor securizat Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: c8fe2efbc8832b02004bcd01eb289d54a42d78f8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483700"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403251"
 ---
-# <a name="microsoft-secure-score"></a>Punctaj Microsoft securizat
+# <a name="microsoft-secure-score"></a>Scor securizat Microsoft
 
-Puteți face mediul mai sigur utilizând Microsoft Secure scor. Gândiți-vă la aceasta ca la un punctaj de credit pentru securitate. Vă spune acțiunile pe care le puteți lua, care vă pot ajuta să îmbunătățiți securitatea organizației.
+Vă puteți face mediul mai sigur, utilizând Microsoft Secure Score. Gândiți-vă la acesta ca la un scor de credit pentru securitatea de securitate. Vă comunică acțiunile pe care le puteți lua și care ar putea îmbunătăți securitatea organizației dvs.
 
-1. Accesați centrul de [conformitate & securitate Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Selectați fișa de scor Microsoft Secure sau accesați [Microsoft Secure Scor](https://go.microsoft.com/fwlink/?linkid=2099589).
+1. Accesați Centrul de [securitate și conformitate Office 365 &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Selectați fișa Microsoft Secure Score sau accesați [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
     > [!TIP]
-    >  În pagina Prezentare generală a punctajului Microsoft securizat, selectați acțiuni de îmbunătățire pentru recomandările privind securizarea organizației. Puteți selecta filtrarea sau grupul după în tabel pentru a identifica rapid acțiunile care ar putea fi mai bune dacă le terminați în ordine.
-1. Selectați o acțiune de îmbunătățire din listă. Apare o flyout care oferă o scurtă descriere a acțiunii.
-1. Faceți clic pe **Setări vizualizare**, apoi urmați instrucțiunile furnizate în **pașii următori**.
+    >  Pe pagina Prezentare generală a scorului securizat Microsoft, selectați Acțiuni de îmbunătățire pentru recomandări pentru securizarea organizației. Puteți selecta Filtrare sau Grupare după în tabel pentru a identifica rapid acțiunile care ar putea fi mai bune dacă le finalizați în ordine.
+1. Selectați o acțiune de îmbunătățire din listă. Apare un fereastră volant care oferă o descriere scurtă a acțiunii.
+1. Faceți **clic** pe Vizualizare setări , apoi urmați instrucțiunile furnizate în **pașii următori**.
     > [!NOTE]
-    > Vi se oferă puncte pentru configurarea caracteristicilor de securitate recomandate, dar rețineți că unele acțiuni sunt etichetate ca **[nemarcate]**. Acest lucru înseamnă că, chiar dacă implementați acțiunea de îmbunătățire, nu vi se va acorda niciun punct pentru punctaj. În caz contrar, *poate dura până la 24 de ore* pentru ca scorul să fie actualizat.
+    > Ați acordat puncte pentru configurarea caracteristicilor de securitate recomandate, dar rețineți că unele acțiuni sunt etichetate cu **[Nerecomandat]**. Aceasta înseamnă că, chiar dacă implementați această acțiune de îmbunătățire, nu veți primi puncte pentru scor. În caz contrar, *poate dura până la 24 de ore pentru* ca punctajul să se actualizeze.
 
-Pentru mai multe informații despre Microsoft Secure Scor, consultați [Microsoft Secure Scor](https://go.microsoft.com/fwlink/?linkid=2103077).
+Pentru mai multe informații despre Microsoft Secure Score, consultați [Scorul de securitate Microsoft.](https://go.microsoft.com/fwlink/?linkid=2103077)

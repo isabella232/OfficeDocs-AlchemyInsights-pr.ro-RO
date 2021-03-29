@@ -3,7 +3,7 @@ title: Eliminarea adreselor de redirecționare din cutia poștală
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3b44ae0a981ad851ea368b3aff194ec061ae6648
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 52c205714bcb82cb50d22211ecb0b77c22569a9d
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483206"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403179"
 ---
 # <a name="remove-forwarding-addresses-on-the-mailbox"></a>Eliminarea adreselor de redirecționare din cutia poștală
 
-Uneori, hackerii redirecționează mesajele de e-mail ale utilizatorilor prin adăugarea unei adrese de redirecționare la cutia poștală. Iată cum să verificați dacă să redirecționați adresele și să le eliminați:
+Uneori, hackerii redirecționează mesajele de e-mail ale utilizatorilor adăugând o adresă de redirecționare la cutia poștală. Iată cum să căutați adrese de redirecționare și să le eliminați:
 
-1. Selectați **utilizatori**  >  **[activi](https://go.microsoft.com/fwlink/p/?linkid=834822)** utilizatori.
-1. Selectați utilizatorul al cărui cont a fost compromis. În flyout care apare, extindeți **setările de e-mail** și faceți clic pe **Editare** pentru **redirecționare e-mail**.
+1. Selectați **Utilizatori**  >  **[utilizatori activi.](https://go.microsoft.com/fwlink/p/?linkid=834822)**
+1. Selectați utilizatorul al cărui cont a fost compromis. În meniul volant care apare, extindeți Setări de **e-mail și** faceți clic **pe Editare pentru** **redirecționarea e-mailurilor.**
 1. Eliminați toate adresele de redirecționare.

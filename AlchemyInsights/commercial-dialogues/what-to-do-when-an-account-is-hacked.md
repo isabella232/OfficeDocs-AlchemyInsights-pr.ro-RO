@@ -1,9 +1,9 @@
 ---
-title: Ce se poate face atunci când un cont este tocat
+title: Ce se poate face atunci când un cont este spart
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483152"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402450"
 ---
-# <a name="what-to-do-when-an-account-is-hacked"></a>Ce se poate face atunci când un cont este tocat
+# <a name="what-to-do-when-an-account-is-hacked"></a>Ce se poate face atunci când un cont este spart
 
-Dacă credeți că un cont de utilizator a fost spart, procedați astfel:
+Dacă credeți că un cont de utilizator a fost spart, faceți următoarele:
 
-1. [Reinițializați imediat parola utilizatorului](https://go.microsoft.com/fwlink/?linkid=2103704) . Nu trimiteți utilizatorului parola nouă prin e-mail.
-1. [Eliminați toate adresele de redirecționare suspecte](https://go.microsoft.com/fwlink/?linkid=2103705) setate în cutia poștală.
-1. [Eliminați toate regulile de redirecționare](https://go.microsoft.com/fwlink/?linkid=2103706) setate în cutia poștală.
-1. Dacă utilizatorul este blocat de la trimiterea mesajelor de e-mail, confirmați că contul său nu a fost compromis, apoi eliminați-l din [pagina utilizatori restricționați](https://go.microsoft.com/fwlink/?linkid=2103706).
+1. [Resetați imediat parola](https://go.microsoft.com/fwlink/?linkid=2103704) *utilizatorului.* Nu trimiteți parola nouă prin e-mail utilizatorului.
+1. [Eliminați toate adresele suspecte de redirecționare](https://go.microsoft.com/fwlink/?linkid=2103705) setate în cutia poștală.
+1. [Eliminați toate regulile de redirecționare](https://go.microsoft.com/fwlink/?linkid=2103706) setate pentru cutia poștală.
+1. Dacă utilizatorul are blocarea trimiterii de e-mailuri, confirmați că nu i s-a compromis contul, apoi eliminați-l din [pagina Utilizatori restricționati.](https://go.microsoft.com/fwlink/?linkid=2103706)
 1. Eliminați contul de utilizator din orice [grupuri de roluri administrative](https://go.microsoft.com/fwlink/?linkid=2092294).
