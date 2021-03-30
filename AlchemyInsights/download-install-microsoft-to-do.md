@@ -1,5 +1,5 @@
 ---
-title: Cum să descărcați și să instalați Microsoft pentru a face
+title: Cum se descarcă și se instalează Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823158"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401955"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>Cum să descărcați și să instalați Microsoft pentru a face
+# <a name="how-to-download-and-install-microsoft-to-do"></a>Cum se descarcă și se instalează Microsoft To Do
 
-Aplicația Microsoft to do pentru Win32, iOS, Android și Mac poate fi descărcată de la magazinul corespunzător.
+Aplicația Microsoft To Do pentru Win32, iOS, Android și Mac poate fi descărcată din magazinul corespunzător.
 
-Dacă aveți acces restricționat la depozit pentru entitatea găzduită, consultați [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) pentru programul de instalare offline
+Dacă aveți acces restricționat la Magazin pentru entitatea dvs. găzduită, consultați [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) pentru programul de instalare offline
 
-Pentru a descărca o aplicație de la magazin utilizând contul de la **locul de muncă** , aplicația trebuie să fie publicată în **Magazinul privat** al firmei dvs. Pentru mai multe informații, vă rugăm să consultați [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
+Pentru a descărca o aplicație din Magazin utilizând contul **de la locul de muncă**, aplicația trebuie să fie publicată în **magazinul privat** al firmei dvs. Pentru mai multe informații, vizitați [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
