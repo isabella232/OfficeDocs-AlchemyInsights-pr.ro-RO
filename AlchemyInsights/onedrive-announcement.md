@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405195"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440878"
 ---
 # <a name="one-drive-announcement"></a>Anunț One Drive
 
-Faceți automat fotografii și fișiere, astfel încât veți avea întotdeauna acces la ele, chiar dacă PC-ul este pierdut, deteriorat sau furat. Pentru mai multe informații, consultați [Configurarea fișierelor de back-up pentru folderul OneDrive pentru PC gratuite.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
+Faceți automat fotografii și fișiere, astfel încât veți avea întotdeauna acces la ele, chiar dacă PC-ul este pierdut, deteriorat sau furat. [Configurați înapoi folderul OneDrive pentru PC gratuit.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
