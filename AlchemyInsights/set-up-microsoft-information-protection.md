@@ -1,5 +1,5 @@
 ---
-title: Configurarea protecției informațiilor Microsoft
+title: Configurare Microsoft Information Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679341"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440941"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Configurarea protecției informațiilor Microsoft
+# <a name="set-up-microsoft-information-protection"></a>Configurare Microsoft Information Protection
 
-Obțineți o prezentare generală a capacităților pe care le puteți aplica strategiei de protecție a informațiilor, astfel încât să fiți siguri că informațiile sensibile sunt protejate. Utilizați o abordare a ciclului de viață în patru etape în care Descoperiți, clasificați, protejați și monitorizați informațiile sensibile. Ghidul "Configurarea protecției informațiilor Microsoft" oferă instrucțiuni pentru finalizarea fiecăruia dintre aceste etape.
+Obțineți o prezentare generală a capacităților pe care le puteți aplica la strategia de protecție a informațiilor, astfel încât să vă asigurați că informațiile dvs. confidențiale sunt protejate. Utilizați o abordare pe patru etape privind ciclul de viață în care descoperiți, clasificați, protejați și monitorizați informațiile confidențiale. [Ghidul de configurare Microsoft Information Protection](https://go.microsoft.com/fwlink/?linkid=2146619) oferă îndrumări pentru completarea fiecărei etape.
