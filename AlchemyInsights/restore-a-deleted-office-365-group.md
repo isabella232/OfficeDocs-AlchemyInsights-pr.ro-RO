@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774721"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505699"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Restaurarea unui grup Microsoft 365 șters
 
-Grupurile șterse sunt păstrate timp de 30 de zile. Pentru a restaura un grup șters:
-  
-1. În [Centrul de administrare Exchange](https://outlook.office365.com/ecp/), selectați **destinatari** în panoul din stânga, apoi selectați **grupuri**. Dacă un grup a fost șters cu mai puțin de 30 de zile în urmă, acesta va apărea în listă, iar coloana stare va enumera data ștergerii.
+Puteți restaura un grup Microsoft 365 șters sau Microsoft Teams în termen de 30 de zile de la ștergere.
 
-2. Selectați grupul, apoi faceți clic pe **Restaurare** în bara de comenzi sau faceți clic pe linkul "faceți clic aici pentru a restaura" din panoul Detalii.
+1. Pentru a vă conecta la centrul de administrare Microsoft 365 și a lista grupurile și echipele șterse, accesați Centrul de [administrare Microsoft 365](https://aka.ms/RestoreDeletedGroup).
 
-Pentru mai multe informații sau pentru a afla cum să restaurați grupurile utilizând PowerShell, consultați [restaurarea unui grup Microsoft 365 șters](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Notă:** Conectați-vă utilizând contul care este atribuit administratorului entității găzduite sau rolului de administrator al grupurilor.
+
+1. Selectați grupul Microsoft 365 șters/Teams pentru a fi restaurat și dați clic pe **Restabiliți grupul**.
+
+    Dacă grupul nu poate fi restaurat din cauza unei adrese SMTP conflictuale, utilizați următoarea comandă pentru a găsi obiectul care provoacă conflictul și eliminați adresa SMTP:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Notă:** În unele cazuri, poate dura 24 de ore pentru ca grupul și toate datele sale să fie restaurate.
+
+    Pentru mai multe informații sau pentru a afla cum să restaurați grupuri utilizând PowerShell, consultați [Restaurarea unui grup Microsoft 365 șters.](https://go.microsoft.com/fwlink/?linkid=867802)
