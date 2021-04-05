@@ -1,5 +1,5 @@
 ---
-title: Verificați starea garanției pentru un dispozitiv Surface sau Xbox
+title: Verificați starea de garanție pentru un dispozitiv Surface sau Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036974"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505332"
 ---
-# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Verificați starea garanției pentru un dispozitiv Surface sau Xbox
+# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Verificați starea de garanție pentru un dispozitiv Surface sau Xbox
 
-Dacă aveți un dispozitiv Surface sau Xbox, puteți să vă utilizați contul Microsoft pentru a vă verifica Garanția. Iată cum:
+Dacă aveți un dispozitiv Surface sau Xbox, puteți utiliza contul dvs. Microsoft pentru a vă verifica garanția. Iată cum:
 
-1. Conectați-vă la contul Microsoft. 
+1. Conectați-vă la [contul dvs. Microsoft](https://account.microsoft.com/devices/) 
 
-1. Selectați dispozitivul pentru care doriți să verificați Garanția.
+1. Selectați dispozitivul pentru care doriți să verificați garanția.
 
-1. În **acoperirea dispozitivului**, veți vedea ce tip de acoperire a garanției are dispozitivul și cât timp a mai rămas.
+1. În **Acoperire dispozitive**, veți vedea ce tip de certificat de garanție are dispozitivul dvs. și cât timp mai este în vigoare.
 
-**Notă** Dispozitivul trebuie să fie înregistrat înainte de a vă putea verifica Garanția sau a obține servicii. Dacă trebuie să vă înregistrați dispozitivul sau nu v-ați văzut dispozitivul listat după ce v-ați conectat la cont, accesați [înregistrați Surface sau Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).
+**Notă:** dispozitivul dvs. trebuie să fie înregistrat înainte de a vă putea verifica garanția sau de a obține serviciul. Dacă trebuie să vă înregistrați dispozitivul sau nu v-ați văzut dispozitivul listat după ce v-ați conectat la cont, accesați [Înregistrați-vă dispozitivul Surface sau Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).

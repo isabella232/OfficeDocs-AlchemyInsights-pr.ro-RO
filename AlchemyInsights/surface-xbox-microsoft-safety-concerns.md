@@ -1,5 +1,5 @@
 ---
-title: Preocupările privind siguranța dispozitivelor Surface, Xbox și Microsoft
+title: Probleme de siguranță ale dispozitivelor Surface, Xbox și Microsoft
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: c0436154860a81ab1628407eaa808c225a790b11
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 5bdfc0d0a4d49ce8de50f1fa69472c834cf213b7
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037547"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505764"
 ---
-# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Preocupările privind siguranța dispozitivelor Surface, Xbox și Microsoft
+# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Probleme de siguranță ale dispozitivelor Surface, Xbox și Microsoft
 
-Dacă doriți să discutați despre o problemă privind siguranța produsului (vătămare corporală, daune de proprietate, fum vizibil), selectați **contactați-ne** în colțul din stânga jos pentru a fi conectat direct la un avocat de asistență asistat.
+Dacă doriți să discutați despre o problemă de siguranță a produsului (vătămare corporală, prejudicii materiale, fum vizibil), selectați **Contactați-ne** sau **Obțineți mai mult ajutor** mai jos pentru a lua legătura directă cu un consultant de suport asistat.
