@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
+ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505699"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51597455"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Restaurarea unui grup Microsoft 365 șters
 
 Puteți restaura un grup Microsoft 365 șters sau Microsoft Teams în termen de 30 de zile de la ștergere.
 
-1. Pentru a vă conecta la centrul de administrare Microsoft 365 și a lista grupurile și echipele șterse, accesați Centrul de [administrare Microsoft 365](https://aka.ms/RestoreDeletedGroup).
+1. Accesați Centrul de [administrare Microsoft 365 pentru a vă](https://aka.ms/RestoreDeletedGroup) conecta și a lista grupurile și echipele șterse.
 
     **Notă:** Conectați-vă utilizând contul care este atribuit administratorului entității găzduite sau rolului de administrator al grupurilor.
 
