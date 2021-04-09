@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696301"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645179"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Probleme la instalarea actualizărilor Exchange Server
 
-Înainte de a instala actualizările Exchange Server, consultați secțiunea "cele mai bune practici" din articolul [upgrade Exchange la cea mai recentă actualizare cumulativă](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Este deosebit de important să instalați actualizările utilizând promptul CMD privilegiat (cu excepția cazului în care actualizările sunt instalate prin Microsoft Update). Acest lucru se aplică atât actualizărilor cumulative, cât și securității!
+Dacă trebuie să actualizați la cea mai recentă actualizare cumulativă pentru Exchange Server, puteți utiliza pentru a obține un set detaliat de pași de actualizat de la cuva curentă la cuva [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) țintă.
 
-Dacă vedeți erori la instalarea actualizărilor de securitate sau după ce s-a instalat actualizarea, consultați [acest articol despre depanarea instalărilor nereușite](https://aka.ms/exupdatefaq).
+Dacă există erori în timpul instalării actualizărilor Exchange Server sau după aceasta, consultați secțiunea "Cele mai bune practici" din articolul Upgrade-ul exchange la cea mai [recentă actualizare cumulativă.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Este foarte important să instalați actualizări de securitate utilizând solicitarea CMD cu nivel ridicat (dacă actualizările nu sunt instalate prin Microsoft Update).
+
+Dacă vedeți erori atunci când instalați actualizările de securitate sau după instalarea actualizării, consultați Repararea instalărilor nereușizate [de actualizările cumulate și de securitate Exchange.](https://aka.ms/exupdatefaq)
