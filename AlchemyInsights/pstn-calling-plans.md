@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662517"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692478"
 ---
 # <a name="pstn-calling-plans"></a>Planurile de apelare PSTN
 
@@ -28,4 +28,4 @@ Dacă doriți ca utilizatorii dvs. să poată suna la numere de telefon obișnui
 
 - Instalați [Credite de comunicare](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pentru a preveni utilizatorii **să rămână fără minute**. Consultați tarifele [aici](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Pentru mai multe informații, consultați [Sistem de telefonie și planuri de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) sau [Ce sunt creditele de comunicare?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Pentru mai multe informații, consultați [Planurile de apelare Microsoft Teams prin telefon și Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) sau Ce sunt [creditele de comunicare?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
