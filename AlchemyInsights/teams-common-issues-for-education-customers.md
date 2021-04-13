@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739448"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692406"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemele uzuale în Teams pentru clienții din domeniul educației
 
@@ -45,7 +46,7 @@ Dacă aveți nevoie de ajutor pentru implementarea Teams pentru a asista învă�
     6. În centrul de administrare Skype for Business, faceți clic pe **conferințe audio** apoi **utilizatori**.
     7. Selectați utilizatorul în cauză și verificați dacă utilizatorul are un număr cu taxă implicit.
 
-    Pentru mai multe informații, consultați [Planuri de apelare](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru ajutor cu întrebări legate de licențiere.
+    Pentru mai multe informații, consultați [Planuri de apelare pentru Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru ajutor cu întrebări legate de licențiere.
 
     Resurse suplimentare
 
