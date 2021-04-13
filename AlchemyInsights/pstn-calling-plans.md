@@ -13,19 +13,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662517"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692478"
 ---
-# <a name="pstn-calling-plans"></a><span data-ttu-id="8b389-102">Planurile de apelare PSTN</span><span class="sxs-lookup"><span data-stu-id="8b389-102">PSTN calling plans</span></span>
+# <a name="pstn-calling-plans"></a><span data-ttu-id="f8def-102">Planurile de apelare PSTN</span><span class="sxs-lookup"><span data-stu-id="f8def-102">PSTN calling plans</span></span>
 
-<span data-ttu-id="8b389-103">Dacă doriți ca utilizatorii dvs. să poată suna la numere de telefon obișnuite și nu aveți deja un furnizor de servicii pentru a efectua apeluri vocale, trebuie să cumpărați un Plan de apelare.</span><span class="sxs-lookup"><span data-stu-id="8b389-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
+<span data-ttu-id="f8def-103">Dacă doriți ca utilizatorii dvs. să poată suna la numere de telefon obișnuite și nu aveți deja un furnizor de servicii pentru a efectua apeluri vocale, trebuie să cumpărați un Plan de apelare.</span><span class="sxs-lookup"><span data-stu-id="f8def-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
 
-- <span data-ttu-id="8b389-104">Consultați [Achiziționarea unui plan de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) pentru a începe procesul de achiziție.</span><span class="sxs-lookup"><span data-stu-id="8b389-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
+- <span data-ttu-id="f8def-104">Consultați [Achiziționarea unui plan de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) pentru a începe procesul de achiziție.</span><span class="sxs-lookup"><span data-stu-id="f8def-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
 
-- <span data-ttu-id="8b389-105">Instalați [Credite de comunicare](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pentru a preveni utilizatorii **să rămână fără minute**.</span><span class="sxs-lookup"><span data-stu-id="8b389-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="8b389-106">Consultați tarifele [aici](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="8b389-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
+- <span data-ttu-id="f8def-105">Instalați [Credite de comunicare](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pentru a preveni utilizatorii **să rămână fără minute**.</span><span class="sxs-lookup"><span data-stu-id="f8def-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="f8def-106">Consultați tarifele [aici](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="f8def-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
 
-- <span data-ttu-id="8b389-107">Pentru mai multe informații, consultați [Sistem de telefonie și planuri de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) sau [Ce sunt creditele de comunicare?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="8b389-107">For more info, see [Phone System and Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
+- <span data-ttu-id="f8def-107">Pentru mai multe informații, consultați [Planurile de apelare Microsoft Teams prin telefon și Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) sau Ce sunt [creditele de comunicare?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="f8def-107">For more info, see [Microsoft Teams Phone and Microsoft Teams Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
