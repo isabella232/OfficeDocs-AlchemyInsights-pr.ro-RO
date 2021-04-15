@@ -1,25 +1,28 @@
 ---
-title: 'caracteristică nouă 2571: Obțineți feedback despre hotărârile spam'
+title: '2571 Caracteristică nouă: Obțineți feedback despre judecatile antispam'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: e68cda455ddb312be3c1d2e5f37cb77d566de598
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 098dd1d16ea94d99fdfdf9cf760462d3df92eee4
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707687"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767877"
 ---
-# <a name="get-feedback-about-spam-judgments"></a><span data-ttu-id="fcc9f-102">Obțineți feedback despre hotărârile spam</span><span class="sxs-lookup"><span data-stu-id="fcc9f-102">Get feedback about spam judgments</span></span>
+# <a name="get-feedback-about-spam-judgments"></a><span data-ttu-id="4e8b3-102">Obțineți feedback despre judecatile antispam</span><span class="sxs-lookup"><span data-stu-id="4e8b3-102">Get feedback about spam judgments</span></span>
 
-<span data-ttu-id="fcc9f-103">Ca administrator, puteți să raportați cu ușurință mesaje de e-mail, adrese URL și conținut suspecte la Microsoft în [Explorer](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="fcc9f-103">As an admin, you can easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="fcc9f-104">Puteți chiar să-l utilizați pentru a înțelege de ce un mesaj legitim a fost semnalizat incorect.</span><span class="sxs-lookup"><span data-stu-id="fcc9f-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="fcc9f-105">Pentru mai multe informații, consultați acest [anunț](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="fcc9f-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+> [!NOTE]
+> <span data-ttu-id="4e8b3-103">Puteți accesa Centrul de securitate Microsoft 365 la [security.microsoft.com](https://security.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="4e8b3-103">You can access the Microsoft 365 security center at [security.microsoft.com](https://security.microsoft.com).</span></span>
 
-<span data-ttu-id="fcc9f-106">Pentru a simplifica, puteți permite utilizatorilor să raporteze direct la Microsoft prin programul de [completare pentru mesaje de raport](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="fcc9f-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="4e8b3-104">Ca administrator, puteți să raportați cu ușurință mesaje de e-mail, URL-uri și conținut suspecte la Microsoft [în Explorer.](https://security.microsoft.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="4e8b3-104">As an admin, you can easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://security.microsoft.com/reportsubmission).</span></span> <span data-ttu-id="4e8b3-105">Puteți chiar să îl utilizați pentru a înțelege de ce un mesaj legitim a fost semnalizat incorect.</span><span class="sxs-lookup"><span data-stu-id="4e8b3-105">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="4e8b3-106">Pentru mai multe informații, consultați acest [anunț](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="4e8b3-106">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+
+<span data-ttu-id="4e8b3-107">Pentru a ușura lucrurile, le puteți permite utilizatorilor să raporteze direct la Microsoft, prin [programul de completare Mesaj raport.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)</span><span class="sxs-lookup"><span data-stu-id="4e8b3-107">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
