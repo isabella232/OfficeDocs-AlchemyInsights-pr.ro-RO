@@ -1,8 +1,8 @@
 ---
-title: 'Eroare: regulile de pe acest computer nu se potrivește'
+title: 'Eroare: Regulile de pe acest computer nu se potrivesc'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690975"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782964"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Eroare: regulile de pe acest computer nu se potrivește
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Eroare: Regulile de pe acest computer nu se potrivesc
 
-Pentru a vedea starea actualizată a acestei probleme cunoscute, consultați [regulile de pe acest computer nu se potrivește cu regulile din Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Pentru a vedea starea actualizată a acestei probleme cunoscute, consultați [Regulile de pe acest computer nu se potrivesc cu regulile din Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Echipa Outlook a implementat o remediere în compilarea 12928,10000. Remedierea este deja la Insider rapid și va merge la Canalul lunar la sfârșitul lunii iunie 2020. După ce ați compilarea fixă, este posibil să primiți mesajul "ce reguli doriți să păstrați" pentru ultima dată. Alegeți server atunci când vi se solicită, apoi reveniți la Outlook și reactivați regulile care au fost dezactivate.
+Echipa Outlook a implementat o remediere în compilrea 12928.10000. Remedierea se află deja la Insider rapid și va ajunge pe Canalul lunar la sfârșitul lunii iunie 2020. După ce obțineți compilrea fixă, este posibil să vi se solicite "Ce reguli doriți să păstrați" o ultimă dată. Alegeți Server când vi se solicită, apoi reveniți în Outlook și reactivați toate regulile care au fost dezactivate.
 
-Până când remedierea este disponibilă, vă rugăm să utilizați următoarea soluție:
+Până când va fi disponibilă remedierea, utilizați următoarea soluție:
 
-**Soluție**: în rapoartele recente, problema a avut loc pentru cele care au creat doar reguli client în Outlook desktop. Dacă continuați să întâmpinați problema, luați în considerare ștergerea regulilor, apoi creați și editați regulile doar în OWA (Outlook Web App) până când problema este rezolvată.
+**Soluție: În** rapoartele recente, a apărut o problemă pentru cele care au creat doar reguli pentru clienți în Outlook pentru desktop. Dacă problema continuă să se rezolve, luați în considerare ștergerea regulilor, apoi crearea și editarea regulilor doar în OWA (Outlook Web App) până când problema se rezolvă.
 
-Dacă nu puteți șterge manual regulile, puteți executa o comandă Outlook atunci când porniți Outlook, rulând Outlook.exe/cleanrules. Acest lucru va șterge regulile client și server. Va șterge toate regulile pentru toate conturile din profilul Outlook. Această comandă este documentată în continuare în articolul parametri din linia de comandă.
+Dacă nu puteți șterge regulile manual, puteți rula o comandă Outlook atunci când porniți Outlook rulând Outlook.exe /cleanrules. Acest lucru va șterge atât regulile client, cât și pe cele de server. Se vor șterge toate regulile pentru toate conturile din Profilul Outlook. Această comandă este documentată și în articolul Switch-uri în linia de comandă.
 

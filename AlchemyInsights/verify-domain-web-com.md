@@ -1,8 +1,8 @@
 ---
-title: Verificarea domeniului cu web.com
+title: Verificați domeniul cu web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a6b20db14f752a3a27970af0318934907ff21083
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815761"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770643"
 ---
-# <a name="verify-your-domain-with-webcom"></a>Verificarea domeniului cu web.com
+# <a name="verify-your-domain-with-webcom"></a>Verificați domeniul cu web.com
 
 Pentru a vă verifica domeniul, va trebui să adăugați o înregistrare TXT la registratorul de domeniu pentru a verifica dacă dețineți domeniul. 
 
-Mai întâi, urmați [Expertul Adăugare domeniu](https://admin.microsoft.com/Adminportal#/Domains) , selectând domenii de **Setări** \> **Domains**, apoi **Adăugare domeniu**.
+Mai întâi, [urmați expertul Adăugare domeniu,](https://admin.microsoft.com/Adminportal#/Domains) **selectând** \> **Setări domenii**, apoi Adăugare **domeniu**.
   
-Consultați [crearea de înregistrări DNS la web.com pentru Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) pentru instrucțiuni pas cu pas.
+Consultați [Crearea de înregistrări DNS la web.com pentru Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) pentru instrucțiuni pas cu pas.

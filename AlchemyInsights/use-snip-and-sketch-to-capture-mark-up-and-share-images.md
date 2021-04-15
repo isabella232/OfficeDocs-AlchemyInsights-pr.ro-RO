@@ -1,8 +1,8 @@
 ---
-title: Utilizați schiță de & pentru a captura, a marca și a partaja imagini
+title: Utilizați Decup & schiță pentru a captura, a marca și a partaja imagini
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773211"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770823"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utilizați schiță de & pentru a captura, a marca și a partaja imagini
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utilizați Decup & schiță pentru a captura, a marca și a partaja imagini
 
-Schița de ecran se numește acum **& schiță de decupaj**. **Pentru a lua rapid un decupaj**:
+Schița de ecran se numește acum **Schiță de & decupare**. **Pentru a prelua rapid un decupaj:**
 
-1. Apăsați **tasta siglă Windows + Shift + S**. Veți vedea ecranul întunecând și cursorul afișat ca cruce. 
+1. Apăsați **tasta siglă Windows + Shift + S**. Veți vedea ecranul întunecat și cursorul afișat ca o cruce. 
 
 2. Alegeți un punct de la marginea zonei pe care doriți să o copiați și faceți clic stânga pe cursor. 
 
@@ -31,10 +31,10 @@ Schița de ecran se numește acum **& schiță de decupaj**. **Pentru a lua rapi
 
    ![imagine cu selecția evidențiată](media/snipone.png)
 
-Imaginea pe care ați decupat-o este salvată în Clipboard, gata pentru lipirea într-un mesaj de e-mail sau document. 
+Imaginea decupată este salvată în clipboard, gata pentru a fi lipită într-un e-mail sau într-un document. 
 
-**Dacă doriți să editați sau să vizualizați imaginea**: 
+**Dacă doriți să editați sau să vizualizați imaginea:** 
 
-- Faceți clic pe pictograma notificări din partea dreaptă a barei de activități; apoi faceți clic pe imaginea pe care tocmai ați capturat-o. Decupajul se deschide în aplicația decupaj & schiță.
+- Faceți clic pe pictograma notificări din extremita dreaptă a barei de activități; apoi faceți clic pe imaginea pe care tocmai ați capturat-o. Decupajul se deschide în aplicația Decupare & Schiță.
 
-   ![imagine a afișării imaginilor în aplicația de decupare](media/sniptwo.png)
+   ![Imagine cu afișarea imaginilor în aplicația de decupare](media/sniptwo.png)

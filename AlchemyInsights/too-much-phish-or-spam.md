@@ -1,26 +1,30 @@
 ---
-title: 665 primiți prea mult phishing sau spam în cutia poștală?
+title: 665 Primiți prea mult mesaje phish sau spam în cutia poștală?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700251"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767949"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Primiți prea mult phishing sau spam în cutia poștală?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Primiți prea mult phish sau spam în cutia poștală?
 
-Ca administrator Microsoft 365, cea mai bună metodă de a determina de ce a fost livrat un mesaj de phishing sau de spam este să remiteți eșantionul la Microsoft în [Explorer](https://protection.office.com/reportsubmission). Veți primi feedback imediat legat de filtrarea mesajelor și de ce există probleme.
+> [!NOTE]
+> Puteți accesa Centrul de securitate Microsoft 365 la [security.microsoft.com](https://security.microsoft.com).
 
-Pentru a simplifica, puteți permite utilizatorilor să raporteze direct la Microsoft prin programul de [completare pentru mesaje de raport](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+În calitate de administrator Microsoft 365, cea mai bună metodă de a determina de ce a fost livrat un mesaj de phishing sau spam este să remiteți eșantionul la Microsoft în [Explorer.](https://security.microsoft.com/reportsubmission) Veți primi feedback imediat legat de filtrarea mesajelor și motivul pentru care există probleme.
 
-**Știați?**: acum puteți să remiteți eșantioane direct din [urmărirea mesajelor](https://protection.office.com/messagetrace) , iar clienții din planul E5/ATP 2 pot trimite eșantioane din [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+Pentru a ușura lucrurile, le puteți permite utilizatorilor să raporteze direct la Microsoft, prin [programul de completare Mesaj raport.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Știați? : Acum** puteți trimite [](https://security.microsoft.com/messagetrace) eșantioane direct din Urmărirea mesajelor, iar clienții E5/ATP Plan 2 pot trimite eșantioane din [Threat Explorer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

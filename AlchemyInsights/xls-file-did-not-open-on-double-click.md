@@ -1,8 +1,8 @@
 ---
-title: Fișierul XLS nu s-a deschis la dublu clic
+title: Fișierul XLS nu s-a deschis făcând dublu clic
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796336"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770607"
 ---
 # <a name="excel-file-doesnt-open"></a>Fișierul Excel nu se deschide
 
@@ -25,26 +25,26 @@ ms.locfileid: "47796336"
 
 **Alegeți Excel ca implicit**
 
-* Faceți clic dreapta pe foaia de lucru, alegeți **Deschidere cu**, apoi alegeți **Excel**
+* Faceți clic dreapta pe foaia de lucru, **alegeți Deschidere cu**, apoi alegeți **Excel**
 
-**Rularea unei reparații rapide**
+**Rulați o reparare rapidă**
 
-1. Accesați **panoul de Control > programe > programe și caracteristici**.
+1. Accesați Panou **de control > Programe > Programe și caracteristici.**
 
-2. Selectați produsul Office pe care doriți să-l reparați, apoi alegeți **modificare**.
+2. Selectați produsul Office pe care doriți să-l reparați, apoi alegeți **Modificare**.
 
-3. Alegeți opțiunea de **reparare rapidă** , apoi alegeți **Reparare**.
+3. Alegeți **opțiunea Reparare rapidă,** apoi **Reparare.**
 
-**Dezinstalarea versiunilor de Office pe care nu le utilizați**
+**Dezinstalarea versiunilor de Office care nu se utilizează**
 
-1. Accesați **panoul de Control > dezinstalați un program**, apoi selectați versiunea de Office pe care doriți să o eliminați.
+1. Accesați Panou **de control > Dezinstalați un program**, apoi selectați versiunea de Office pe care doriți să o eliminați.
 
-2. Faceți clic pe **Dezinstalare**.
+2. Faceți **clic pe Dezinstalare.**
 
 3. Reporniți computerul.
 
-**Rulează acest depanator pentru a seta ca extensiile de fișier Office să se deschidă în Office**
+**Rulați acest depanator pentru a seta extensiile de fișier Office să se deschidă în Office**
 
-1. Rulează acest depanator: https://aka.ms/diag_officefile .
+1. Rulați acest depanator: https://aka.ms/diag_officefile .
 
-2. În funcție de browser, **deschideți** sau **Salvați** depanatorul pe desktop, apoi **rulează** -l.
+2. În funcție de browser, **deschideți** sau **salvați** depanatorul pe desktop, apoi **rulați-l.**
