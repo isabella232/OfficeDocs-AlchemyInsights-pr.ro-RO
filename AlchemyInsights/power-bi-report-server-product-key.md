@@ -1,8 +1,8 @@
 ---
-title: Cheia de produs a serverului de raport Power BI
+title: Cheie de produs Power BI Report Server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801961"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800694"
 ---
-# <a name="power-bi-report-server-product-key"></a>Cheia de produs a serverului de raport Power BI
+# <a name="power-bi-report-server-product-key"></a>Cheie de produs Power BI Report Server
 
-Dacă ați achiziționat Power BI Premium, în fila **Setări Premium** a portalului de administrare Power BI, aveți acces la cheia de produs Power BI Report Server. Acest lucru este disponibil doar pentru administratorii globali sau pentru utilizatorii care au atribuit rolul de administrator al serviciului Power BI.
+Dacă ați achiziționat Power BI Premium, în fila Setări **Premium** din portalul de administrare Power BI, aveți acces la cheia de produs Server de raport Power BI. Acest lucru este disponibil doar pentru administratorii globali sau utilizatorii cu rolul de administrator de serviciu Power BI.
 
-Selectarea **cheii de Server raport Power BI** afișează o casetă de dialog care conține cheia de produs. Puteți să-l copiați și să-l utilizați cu instalarea.
+Selectarea **tastei Power BI Report Server afișează** o casetă de dialog care conține cheia de produs. Puteți să îl copiați și să îl utilizați cu instalarea.
 
-Dacă aveți un acord SQL Server Enterprise SA, puteți obține cheia de produs din [Centrul de servicii de licențiere în volum](https://www.microsoft.com/Licensing/servicecenter/).
+Dacă aveți un acord SQL Server Enterprise SA, puteți obține cheia de produs din Centrul pentru [licențiere în volum.](https://www.microsoft.com/Licensing/servicecenter/)
 
 Pentru mai multe informații: https://docs.microsoft.com/power-bi/report-server/install-report-server

@@ -1,8 +1,8 @@
 ---
-title: Politicile catchall
+title: Politicile vă pot prinde tot
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721306"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801681"
 ---
-# <a name="teams-policies"></a>Politicile teams
+# <a name="teams-policies"></a>Politicile Teams
 
-Setările Microsoft teams sunt controlate de politici. Pentru a face o modificare, trebuie să configurați politica corespunzătoare, apoi să o aplicați utilizatorilor. Cea mai rapidă modalitate de a face acest lucru pentru toți utilizatorii este să modificați politica implicită denumită global. 
+Setările Microsoft Teams sunt controlate de politici. Pentru a efectua o modificare, trebuie să configurați politica corespunzătoare, apoi să o aplicați utilizatorilor. Cea mai rapidă modalitate de a face acest lucru pentru toți utilizatorii dvs. este să modificați politica implicită denumită Global. 
 
-**Notă** Modificările politicii durează ***cel puțin 4 până la 48 de ore pentru a avea efect***. Dacă creați o politică particularizată, trebuie să așteptați cel puțin 4 ore înainte de a putea face modificări suplimentare. Apoi puteți aplica această politică pentru utilizatori. Acest lucru înseamnă că politicile particularizate pot dura până la 48 de ore să intre în vigoare. Politicile globale sunt setate ca implicite pentru toți utilizatorii, iar modificările politicii globale pot dura până la 24 de ore pentru a se aplica. Dacă ați creat o politică particularizată, ați aplicat-o pentru utilizatori și încă nu a avut efect după 48 de ore sau ați modificat Politica globală și ați așteptat cel puțin 24 de ore, vă rugăm să deschideți un caz de asistență.
+**NOTĂ** Modificările politicii **_au cel puțin 4 până la 48 de ore pentru a avea efect._** Dacă creați o politică personalizată, trebuie să așteptați cel puțin de 4 ore pentru a face modificări suplimentare la aceasta. Apoi puteți aplica acea politică utilizatorilor. Aceasta înseamnă că pot fi necesare până la 48 de ore pentru ca politicile personalizate să aibă efect. Politicile globale sunt setate ca implicite pentru toți utilizatorii, iar modificarea politicii globale poate dura până la 24 de ore pentru a avea efect. Dacă ați creat o politică personalizată, ați aplicat-o utilizatorilor și tot nu a fost aplicată după 48 de ore sau ați modificat politica globală și ați așteptat cel puțin 24 de ore, deschideți un caz de asistență.
 
-Politicile teams sunt împărțite în următoarele zone:
+Politicile Teams sunt împărțite în următoarele zone:
 
-- [Politicile teams](https://docs.microsoft.com/MicrosoftTeams/teams-policies) controlează descoperirea de utilizatori a echipelor private în căutarea și crearea de canale private.  
-- [Politicile pentru întâlniri](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) controlează ce pot face utilizatorii cu întâlnirile teams, inclusiv controlul lobby-ului. Pentru ajutor cu problemele din lobby, cum ar fi configurarea teams pentru a admite toate persoanele, consultați [controlul setărilor pentru lobby și nivelurile de participare](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
-- [Politicile de mesagerie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) controlează ce pot face utilizatorii cu chatul și mesajele, inclusiv activarea sau dezactivarea chatului, ștergerea chaturilor, solicitarea confirmărilor de citire, utilizarea giphy și a autocolantelor și altele.
-- [Politicile de configurare a aplicațiilor](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) controlează ce aplicații sunt disponibile pentru utilizatori, inclusiv aplicațiile particularizate și de la terți și ordinea în care apar.  
-- [Politicile de retenție](https://docs.microsoft.com/microsoftteams/retention-policies) a datelor pentru teams se găsesc în centrul de securitate și conformitate Microsoft 365.
-- Politicile agendei de agendă sunt setate prin [căutarea în directoare a domeniului](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Politicile Teams controlează](https://docs.microsoft.com/MicrosoftTeams/teams-policies) descoperirea de către utilizatori a echipelor private în căutarea și crearea de canale private.  
+- [Politicile de întâlnire](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) controlează ce pot face utilizatorii în cazul întâlnirilor Teams, inclusiv controlul sălii de așteptare. Pentru ajutor în problemele privind sala de așteptare, cum ar fi configurarea aplicației Teams pentru a admite oricine, consultați [Controlul setărilor privind sala de așteptare și nivelurile de participare.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) Politicile de mesagerie controlează ce pot face utilizatorii cu chatul și mesajele, inclusiv activarea sau dezactivarea chatului, ștergerea chaturilor, solicitarea confirmării de citire, utilizarea giphy-urilor și autocolantelor și altele.
+- [Politicile de configurare](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) a aplicației controlează ce aplicații sunt disponibile pentru utilizatori, inclusiv aplicațiile particularizate și de la terți, precum și ordinea în care apar.  
+- Politicile [de retenție](https://docs.microsoft.com/microsoftteams/retention-policies) a datelor pentru Teams sunt disponibile în Centrul de securitate și conformitate Microsoft 365.
+- Politicile pentru agenda Teams sunt setate prin intermediul [căutării în directorul definit](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
