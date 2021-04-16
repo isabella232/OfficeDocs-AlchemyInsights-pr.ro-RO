@@ -2,7 +2,7 @@
 title: Eliminarea unei parole din document
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768223"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799425"
 ---
-# <a name="remove-a-password-from-a-word-document"></a><span data-ttu-id="1eac4-102">Eliminarea unei parole dintr-un document Word</span><span class="sxs-lookup"><span data-stu-id="1eac4-102">Remove a password from a Word document</span></span>
+# <a name="remove-a-password-from-a-word-document"></a><span data-ttu-id="d2469-102">Eliminarea unei parole dintr-un document Word</span><span class="sxs-lookup"><span data-stu-id="d2469-102">Remove a password from a Word document</span></span>
 
-<span data-ttu-id="1eac4-103">Atâta timp cât știți parola inițială, eliminarea unei parole dintr-un document este un proces simplu.</span><span class="sxs-lookup"><span data-stu-id="1eac4-103">As long as you know the original password, removing a password from a document is a simple process.</span></span>
+<span data-ttu-id="d2469-103">Atât timp cât știți parola originală, eliminarea unei parole dintr-un document este un proces simplu.</span><span class="sxs-lookup"><span data-stu-id="d2469-103">As long as you know the original password, removing a password from a document is a simple process.</span></span>
 
-1. <span data-ttu-id="1eac4-104">Deschideți documentul și introduceți parola.</span><span class="sxs-lookup"><span data-stu-id="1eac4-104">Open the document and enter the password.</span></span>
-2. <span data-ttu-id="1eac4-105">Accesați informații **fișier**  >  **Info**  >  **Protejare document**  >  **criptare cu parolă**.</span><span class="sxs-lookup"><span data-stu-id="1eac4-105">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
-3. <span data-ttu-id="1eac4-106">Debifați parola în **caseta parolă**, apoi selectați **OK**.</span><span class="sxs-lookup"><span data-stu-id="1eac4-106">Clear the password in the **Password box**, and then select **OK**.</span></span>
+1. <span data-ttu-id="d2469-104">Deschideți documentul și introduceți parola.</span><span class="sxs-lookup"><span data-stu-id="d2469-104">Open the document and enter the password.</span></span>
+2. <span data-ttu-id="d2469-105">Accesați Criptare **document**  >  **protejare**  >  **informații**  >  **fișier cu parolă**.</span><span class="sxs-lookup"><span data-stu-id="d2469-105">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
+3. <span data-ttu-id="d2469-106">Debifați parola în **caseta Parolă,** apoi selectați **OK.**</span><span class="sxs-lookup"><span data-stu-id="d2469-106">Clear the password in the **Password box**, and then select **OK**.</span></span>
