@@ -1,8 +1,8 @@
 ---
-title: 1800014 obțineți asistență în aplicație pentru aplicația mobilă Outlook
+title: 1800014 Obțineți asistență în cadrul aplicației pentru aplicația mobilă Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: fe099b2cf0a596900c4e5a9b35d5d8f8b1ac5d07
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707723"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812296"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Obțineți asistență în aplicație pentru aplicația mobilă Outlook
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Obțineți asistență în cadrul aplicației pentru aplicația mobilă Outlook
 
-1. În aplicația mobilă Outlook, deschideți **meniul**.
+1. În aplicația Outlook pentru dispozitive mobile, deschideți **meniul**.
 
-2. Selectați semnul de întrebare pentru a deschide ecranul **Ajutor pentru &amp; feedback** .
+2. Selectați semnul întrebării pentru a deschide **ecranul &amp; Feedback de** ajutor.
 
-3. Atingeți **contactați asistența** și explicați problema.
+3. Atingeți **Contactați asistența** și explicați problema.
 
 4. Atingeți **Trimitere** și veți primi o notificare în cadrul aplicației atunci când un agent de asistență vă contactează.
 
-Pentru instrucțiuni detaliate, consultați [Obțineți ajutor în aplicație pentru Outlook pentru iOS și Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
+Pentru instrucțiuni detaliate, [consultați Obțineți ajutor în cadrul aplicației pentru Outlook pentru iOS și Android.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
