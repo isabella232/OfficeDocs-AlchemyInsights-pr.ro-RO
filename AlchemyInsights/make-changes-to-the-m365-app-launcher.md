@@ -1,29 +1,30 @@
 ---
-title: Efectuarea de modificări la Microsoft 365 App Launcher
+title: Efectuarea modificărilor în lansatorul de aplicații Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
-ms.translationtype: MT
+ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650445"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794916"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Efectuarea de modificări la Microsoft 365 App Launcher
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Efectuarea modificărilor în lansatorul de aplicații Microsoft 365
 
-Puteți adăuga propriile dale particularizate la lansatorul de aplicații care indică spre site-uri SharePoint, site-uri externe, aplicații moștenite și altele.
+Vă puteți adăuga propriile dale particularizate la lansatorul de aplicații care indică spre site-uri SharePoint, site-uri externe, aplicații moștenite și altele.
 
-1. [Adăugați o dală particularizată la lansatorul](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) de aplicații din centrul de administrare accesându-vă la **Setări > Setări orgși** alegeți fila **Profil organizație.**
-2. [Promovați dala la Lansatorul](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) de aplicații **fixând aplicația** la lansator.
-3. [Editați sau ștergeți o dală particularizată](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) dacă s-a modificat ceva pentru aplicație.
+1. [Adăugați o dală particularizată la lansatorul de aplicații](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) din centrul de administrare, accesând **Setări > Setări organizație** și alegeți fila  **Profil organizație**.
+2. [Promovați dala în lansatorul de aplicații](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) prin **fixarea aplicației** în lansator.
+3. [Editați sau ștergeți o dală personalizată](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) dacă s-a modificat ceva pentru aplicație.
 
 Pentru mai multe informații, consultați [Particularizarea lansatorului de aplicații](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).

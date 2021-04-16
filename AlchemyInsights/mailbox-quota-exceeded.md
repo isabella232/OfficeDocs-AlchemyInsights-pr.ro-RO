@@ -1,8 +1,8 @@
 ---
-title: Cota de cutie poștală depășită
+title: Cota de cutie poștală a fost depășită
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695227"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795600"
 ---
-# <a name="mailbox-quota-exceeded"></a>Cota de cutie poștală depășită
+# <a name="mailbox-quota-exceeded"></a>Cota de cutie poștală a fost depășită
 
-Ați depășit cota de cutie poștală pentru contul dvs. Există câțiva pași pe care îi puteți lua pentru a reduce dimensiunea inboxului pentru o performanță mai bună.
+Ați depășit cota cutiei poștale pentru contul dvs. Există câțiva pași pe care îi puteți urma pentru a reduce dimensiunea inboxului, pentru o performanță mai bună.
 
-1. Ștergeți elementele din Inbox mai vechi. Puteți face acest lucru rapid în aplicație setând o mișcare de tragere particularizată: **setări > opțiuni de tragere cu degetul**. Cu acest set, puteți să trageți cu ușurință prin Inbox pentru a-l șterge.
+1. Ștergeți elementele mai vechi din inbox. Puteți face acest lucru rapid în aplicație, setând o tragere cu degetul particularizată: **Setări > Opțiuni tragere cu degetul.** Cu acest set, puteți trage cu ușurință cu degetul prin inbox pentru a-l șterge.
 
-2. Goliți folderele de spam. Mergeți direct în folderele de spam și apăsați pe **spam gol**.
+2. Goliți folderele spam. Mergeți direct în folderele de spam și apăsați **gol spam**.
 
-3. Pe Android, puteți goli folderele coș de gunoi cu un singur clic. Mergeți direct în folderul Coș de gunoi și apăsați **Coș de gunoi gol**. 
+3. Pe Android, puteți goli folderele de gunoi cu un singur clic. Mergeți direct în folderul coș de gunoi și apăsați **golirea coșului de gunoi**. 
 
-4. Salvați atașările în OneDrive, astfel încât să nu fie stocate în cutia poștală. Consultați [limite de stocare în Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) pentru mai multe informații. 
+4. Salvați atașările în OneDrive, astfel încât să nu fie stocate în cutia poștală. Consultați [Limitele de stocare în Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) pentru mai multe informații. 
 
-Dacă sunteți utilizator Microsoft 365, puteți solicita, de asemenea, o creștere a cutiei poștale din administratorul IT.
+Dacă sunteți utilizator Microsoft 365, puteți solicita, de asemenea, o creștere a cutiei poștale de la administratorul IT.
