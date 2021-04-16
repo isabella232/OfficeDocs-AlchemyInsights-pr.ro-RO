@@ -1,8 +1,8 @@
 ---
-title: Achiziție cu autoservire de PowerShell
+title: Achiziția PowerShell cu autoservre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739982"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797733"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Achiziție cu autoservire de PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Achiziția PowerShell cu autoservre
 
-Pentru a utiliza modulul PowerShell MSCommerce, trebuie să-l instalați pe un dispozitiv Windows 10 cu TLS 1,2 (permisiunile de administrator local necesare).  Importați și conectați-vă la modulul MSCommerce.  Atunci când vi se solicită să vă conectați, va trebui să utilizați acreditările pentru rolul de administrator global sau de facturare.  
+Pentru a utiliza modulul PowerShell MSCommerce, trebuie să-l instalați pe un dispozitiv Windows 10 cu TLS 1.2 (sunt necesare permisiuni de administrator locale).  Importați și conectați-vă la modulul MSCommerce.  Când vi se solicită să vă conectați, va trebui să utilizați acreditările de rol Administrator global sau de facturare.  
 
-Dacă nu aveți TLS 1,2, este posibil să primiți următoarea eroare atunci când încercați să obțineți sau să actualizați politica:
+Dacă nu aveți TLS 1.2, este posibil să primiți următoarea eroare atunci când încercați să obțineți sau să actualizați politica:
 
-*ErrorMessage-conexiunea subiacentă a fost închisă: s-a produs o eroare neașteptată la trimitere*.
+*ErrorMessage -The underlying connection was closed: An unexpected error occurred on a send*.
 
 
 
