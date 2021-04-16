@@ -1,8 +1,8 @@
 ---
-title: Redimensionați și atașați imagini pe Android
+title: Redimensionarea și atașarea imaginilor pe Android
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809523"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Redimensionați și atașați imagini pe Android
+# <a name="resize-and-attach-images-on-android"></a>Redimensionarea și atașarea imaginilor pe Android
 
-Atunci când atașați o imagine cu o dimensiune mai mare de 1 MO la un mesaj de e-mail, aveți opțiunea de a comprima/redimensiona imaginile din mesaj.
+Atunci când atașați o imagine cu o dimensiune de peste 1 MB la un mesaj de e-mail, aveți opțiunea de a comprima/redimensiona imaginile din mesaj.
  
-- Dacă alegeți să păstrați originalul, atunci toate imaginile din mesaj sunt trimise în dimensiunea completă.
+- Dacă alegeți să păstrați originalul, toate imaginile din mesaj sunt trimise la dimensiune completă.
  
-- Dacă alegeți să redimensionați, atunci toate imaginile din mesaj sunt comprimate.  Aceasta include imagini adăugate mai târziu în timp ce editați încă ciorna.
+- Dacă alegeți să redimensionați, se comprimă TOATE imaginile din mesaj.  Aici sunt adăugate imagini mai târziu, în timp ce editați în continuare acea schiță.
  
-- Dacă Salvați ciorna și reveniți mai târziu și adăugați o altă imagine mare, veți fi întrebat din nou și alegerea dumneavoastră se va aplica tuturor ciornelor din sesiunea de editare.
+- Dacă salvați schița și reveniți mai târziu și adăugați o altă imagine mare, veți fi întrebat din nou și alegerea dvs. se va aplica tuturor schițelor în timpul sesiunii de editare.
  

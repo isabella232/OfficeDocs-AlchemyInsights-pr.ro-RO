@@ -1,8 +1,8 @@
 ---
-title: Instanță rezervată pentru achiziționare
+title: Instanță rezervată de achiziționare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809919"
 ---
-# <a name="questions-before-purchase"></a>Întrebări înainte de cumpărare
+# <a name="questions-before-purchase"></a>Întrebări înainte de achiziție
 
-**Cum se aplică reducerea rezervării la resursele existente?**  
-Beneficiul rezervărilor se aplică automat resurselor existente care se potrivește cu SKU-ul, regiunea și domeniul rezervării. Nu există nicio etichetare a unei rezervări la o resursă. [află mai multe](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Cum se aplică discountul de rezervare resurselor existente?**  
+Avantajul rezervării se aplică automat resurselor existente care se potrivesc cu SKU-ul, regiunea și domeniul rezervării. Nu există nicio etichetare a unei rezervări pentru o resursă. [Aflați mai multe](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Ce dimensiune de VM să cumpăr?**  
-Citiți acest articol: [determinarea dimensiunii VM corecte înainte de a cumpăra](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Ce dimensiune de VM ar trebui să cumpăr?**  
+Citiți acest articol: [Stabiliți dimensiunea corectă a VM-ului înainte de a cumpăra](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Întrebări despre cum să cumpărați capacitatea de rezervare SQL?**  
-Citiți acest articol: [achiziționați capacitatea de rezervare SQL pentru baza de date](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Aveți întrebări despre cum să cumpărați capacitate rezervată SQL?**  
+Citiți acest articol: [Cumpărați capacitate rezervată pentru baza de date SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Sunt în clientul EA indirect, am nevoie de partenerul meu pentru a-l cumpăra?**  
-Nu, puteți achiziționa RI dacă aveți un proprietar într-un abonament EA.
+**Sunt un client EA indirect, este necesar să achiziționeze partenerul meu?**  
+Nu, dacă sunteți proprietarul unui abonament EA, puteți cumpăra dvs. instanță rezervată.
 
-**Achizițiile RI scad din angajamentul monetar?**  
-da. Dacă nu aveți suficient angajament monetar, veți primi o factură excesivă pentru suma care depășește angajamentul monetar disponibil.
+**Achiziționarea instanței rezervate se deduce din angajamentul financiar?**  
+Da. Dacă nu aveți suficient angajament financiar, veți primi o factură suplimentară pentru suma care depășește angajamentul financiar disponibil.
 
-**Cum se aplică instanța rezervată pentru Windows VMs sau pentru costurile mele SQL IP?**  
-Reducerea instanței rezervate se aplică doar la utilizarea calculată. Costurile cu Windows IP sau SQL IP vor fi taxate separat și nu primesc discount RI. [Costurile software-ului nu sunt incluse în instanțele Azure rezervate VM](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Cum se aplică instanța rezervată la VM-urilor Windows sau la costurilor mele pentru IP SQL?**  
+Discountul de instanță rezervată se aplică doar utilizării calculate. Costurile pentru IP Windows sau IP SQL vor fi tarifate separat și nu vor primi discount de instanță rezervată. [Costurile de software nu sunt incluse în instanțele VM Azure rezervate](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Facturare pentru achiziționarea de instanțe rezervate**  
+**Facturarea pentru achiziția instanței rezervate**  
       
-Achiziționarea de instanțe rezervate este taxată la metoda de plată legată de abonamentul pe care îl selectați în momentul achiziției. Tipul de abonament trebuie să fie un acord de întreprindere (număr ofertă: MS-AZR-0017P), Pay-as-you-go (număr ofertă: MS-AZR-0003P), Microsoft Customer Agreement sau CSP.
+Achiziția instanței rezervate este debitată prin metoda de plată asociată abonamentului pe care îl selectați în momentul achiziționării. Tipul de abonament trebuie să fie un Contract Enterprise (numărul ofertei: MS-AZR-0017P), Plătiţi pe măsură ce vorbiţi (numărul ofertei: MS-AZR-0003P), Microsoft Customer Agreement sau CSP.
 
--   Pentru un abonament pentru întreprinderi, tarifele sunt deduse din soldul angajamentului monetar al înscrierii sau sunt percepute ca supra-
--   Pentru abonamentul pay-as-Go, tarifele sunt facturate pe cardul de credit sau pe metoda de plată a facturii în abonament
+-   Pentru un abonament de întreprindere, taxele sunt deduse din soldul angajamentului financiar al înregistrării sau sunt facturate suplimentar.
+-   Pentru abonamentul Plătiți pe măsură ce vorbiți, plățile sunt facturate prin cardul de credit sau prin metoda de plată prin factură din abonament
 
-**Cumpărați un plan de serviciu:**
+**Cumpărați un plan de servicii:**
 
--   [Capacitate de plată anticipată pentru Cosmos DB rezervată](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Preplătit pentru baza de date SQL calculează resursele cu capacitatea de bază de date SQL Azure rezervată](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Plata anticipată pentru mașinile virtuale cu instanțe VM rezervate Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plătiți anticipat pentru capacitatea rezervată Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plătiți anticipat pentru resurse de calcul pentru baza de date SQL cu capacitate rezervată pentru baza de date SQL Azure](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plătiți anticipat pentru mașini virtuale cu instanțe VM Azure rezervate](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Cumpărați un plan software:**
 
--   [Anticipat pentru planurile de software Red Hat din rezervări Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Anticipat pentru planurile software SUSE din rezervări Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plătiți anticipat pentru planuri software Red Hat din Rezervări Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plătiți anticipat pentru planuri software SUSE din Rezervări Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

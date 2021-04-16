@@ -1,8 +1,8 @@
 ---
-title: Office 365 pentru planuri și prețuri pentru organizații non-profit
+title: Planurile Office 365 pentru organizații non-profit și prețurile acestora
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803113"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810316"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 pentru planuri și prețuri pentru organizații non-profit
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Planurile Office 365 pentru organizații non-profit și prețurile acestora
 
-Non-profiturile calificate pot primi Office 365 nonprofit ca donație sau upgrade la caracteristici complexe la un discount semnificativ. Pentru a vă califica pentru un plan Office 365 pentru organizații non-profit, trebuie să țineți cont de [caritate recunoscut](https://go.microsoft.com/fwlink/p/?LinkID=330253) în țara dumneavoastră și să semnați Politica de nediscriminare a Microsoft. Microsoft își rezervă dreptul de a verifica eligibilitatea în orice moment și de a suspenda serviciul pentru organizații neeligibile.
+Organizațiile non-profit calificate pot primi Office 365 Pentru organizații non-profit ca donație sau ca upgrade la caracteristici avansate, la o reducere semnificativă. Pentru a vă califica pentru un plan Office [](https://go.microsoft.com/fwlink/p/?LinkID=330253) 365 pentru organizații non-profit, trebuie să dețineți recunoscut starea caritabilă din țara dvs. și să semnați politica Microsoft non-politicile. Microsoft își rezervă dreptul de a verifica eligibilitatea în orice moment și de a suspenda serviciul pentru organizații neeligibile.
   
-Consultați întrebările [frecvente](https://products.office.com/nonprofit/office-365-nonprofit) pentru întrebări suplimentare despre această ofertă.
+Consultați Întrebări [frecvente](https://products.office.com/nonprofit/office-365-nonprofit) pentru întrebări suplimentare despre această ofertă.
   
-- [Revizuirea planurilor non-profit](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Revizuiți planurile pentru organizații non-profit](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
 - [Comparați toate abonamentele Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
