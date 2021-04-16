@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 pentru non-profit-aprobat '
+title: 'Microsoft 365 pentru organizații non-profit - aprobat '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779825"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810676"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a><span data-ttu-id="1ed47-102">Microsoft 365 pentru non-profit-aprobat</span><span class="sxs-lookup"><span data-stu-id="1ed47-102">Microsoft 365 for nonprofits - approved</span></span>
+# <a name="microsoft-365-for-nonprofits---approved"></a><span data-ttu-id="aecd8-102">Microsoft 365 pentru organizații non-profit - aprobat</span><span class="sxs-lookup"><span data-stu-id="aecd8-102">Microsoft 365 for nonprofits - approved</span></span>
 
-<span data-ttu-id="1ed47-103">Starea dumneavoastră de organizație non-profit calificată Microsoft a fost aprobată.</span><span class="sxs-lookup"><span data-stu-id="1ed47-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="1ed47-104">Puteți să finalizați achiziția din centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="1ed47-104">You can complete the purchase from the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="aecd8-103">Starea dvs. ca Organizație non-profit calificată Microsoft a fost aprobată.</span><span class="sxs-lookup"><span data-stu-id="aecd8-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="aecd8-104">Puteți finaliza achiziția de la centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="aecd8-104">You can complete the purchase from the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="1ed47-105">În centrul de administrare, accesați **Billing** \> pagina [achiziționare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturare.</span><span class="sxs-lookup"><span data-stu-id="1ed47-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="aecd8-105">În centrul de administrare, accesați pagina **Achiziționare** \> [servicii de](https://go.microsoft.com/fwlink/p/?linkid=868433) facturare.</span><span class="sxs-lookup"><span data-stu-id="aecd8-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="1ed47-106">Alegeți din lista de sub **planuri non-profit**.</span><span class="sxs-lookup"><span data-stu-id="1ed47-106">Choose from the list under **NonProfits Plans**.</span></span>
+2. <span data-ttu-id="aecd8-106">Alegeți din lista de **sub Planuri non-organizații.**</span><span class="sxs-lookup"><span data-stu-id="aecd8-106">Choose from the list under **NonProfits Plans**.</span></span>
 
-3. <span data-ttu-id="1ed47-107">Treceți cu mouse-ul peste abonamentul pe care doriți să-l cumpărați și alegeți **Cumpărați acum**.</span><span class="sxs-lookup"><span data-stu-id="1ed47-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
+3. <span data-ttu-id="aecd8-107">Treceți cu mouse-ul peste abonamentul pe care doriți să-l cumpărați și **alegeți Cumpărați acum**.</span><span class="sxs-lookup"><span data-stu-id="aecd8-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
 
-<span data-ttu-id="1ed47-108">Pentru mai multe informații, consultați [resurse Microsoft 365 pentru non-profit](https://www.microsoft.com/nonprofits/microsoft-365) sau vânzări de persoane de [contact](https://www.microsoft.com/nonprofits/contact-us).</span><span class="sxs-lookup"><span data-stu-id="1ed47-108">For more info, see [Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us).</span></span>
+<span data-ttu-id="aecd8-108">Pentru mai multe informații, consultați Resurse [Microsoft 365](https://www.microsoft.com/nonprofits/microsoft-365) pentru organizații non-profit sau vânzări [de persoane de contact.](https://www.microsoft.com/nonprofits/contact-us)</span><span class="sxs-lookup"><span data-stu-id="aecd8-108">For more info, see [Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us).</span></span>
