@@ -2,22 +2,23 @@
 title: Editare rapidă
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "5841"
-ms.openlocfilehash: f50468fb189ead308488e69288e0e4508357d321
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: aa5c60bebe9192d17a34615d635f8691d6e72e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708738"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790308"
 ---
-# <a name="quick-edit"></a><span data-ttu-id="b03ca-102">Editare rapidă</span><span class="sxs-lookup"><span data-stu-id="b03ca-102">Quick Edit</span></span>
+# <a name="quick-edit"></a><span data-ttu-id="dbacb-102">Editare rapidă</span><span class="sxs-lookup"><span data-stu-id="dbacb-102">Quick Edit</span></span>
 
-<span data-ttu-id="b03ca-103">Există două moduri de a edita un element într-o listă SharePoint.</span><span class="sxs-lookup"><span data-stu-id="b03ca-103">There are two ways to edit an item in a SharePoint list.</span></span> <span data-ttu-id="b03ca-104">Aveți posibilitatea să editați un singur element în vizualizarea listă, care este metoda implicită.</span><span class="sxs-lookup"><span data-stu-id="b03ca-104">You can edit a single item in list view, which is the default method.</span></span> <span data-ttu-id="b03ca-105">Sau pentru a fi și mai productiv, puteți edita mai multe elemente în vizualizarea Editare rapidă.</span><span class="sxs-lookup"><span data-stu-id="b03ca-105">Or to be even more productive, you can edit several items in Quick edit view.</span></span> <span data-ttu-id="b03ca-106">Aveți nevoie de permisiune de nivel contribuire sau mai mare pentru a edita elemente.</span><span class="sxs-lookup"><span data-stu-id="b03ca-106">You need Contribute level permission or higher to edit items.</span></span> <span data-ttu-id="b03ca-107">Consultați [Editarea elementelor de listă în SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).</span><span class="sxs-lookup"><span data-stu-id="b03ca-107">See [Edit list items in SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).</span></span>
+<span data-ttu-id="dbacb-103">Există două modalități de a edita un element dintr-o listă SharePoint.</span><span class="sxs-lookup"><span data-stu-id="dbacb-103">There are two ways to edit an item in a SharePoint list.</span></span> <span data-ttu-id="dbacb-104">Puteți edita un singur element în vizualizarea listă, care este metoda implicită.</span><span class="sxs-lookup"><span data-stu-id="dbacb-104">You can edit a single item in list view, which is the default method.</span></span> <span data-ttu-id="dbacb-105">Sau, pentru a fi mai productiv, puteți edita mai multe elemente în vizualizarea Editare rapidă.</span><span class="sxs-lookup"><span data-stu-id="dbacb-105">Or to be even more productive, you can edit several items in Quick edit view.</span></span> <span data-ttu-id="dbacb-106">Aveți nevoie de permisiunea de nivel Contribuire sau mai mare pentru a edita elemente.</span><span class="sxs-lookup"><span data-stu-id="dbacb-106">You need Contribute level permission or higher to edit items.</span></span> <span data-ttu-id="dbacb-107">Consultați [Editarea elementelor din listă în SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).</span><span class="sxs-lookup"><span data-stu-id="dbacb-107">See [Edit list items in SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).</span></span>
