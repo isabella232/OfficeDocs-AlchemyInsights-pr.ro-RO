@@ -1,8 +1,8 @@
 ---
-title: Aveți nevoie de ajutor pentru Microsoft 365 Business Premium Voice?
+title: Aveți nevoie de ajutor cu Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754603"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792612"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a><span data-ttu-id="58e15-102">Aveți nevoie de ajutor pentru Microsoft 365 Business Premium Voice?</span><span class="sxs-lookup"><span data-stu-id="58e15-102">Need help with Microsoft 365 Business Premium Voice?</span></span>
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a><span data-ttu-id="59bdf-102">Aveți nevoie de ajutor cu Microsoft 365 Business Premium Voice?</span><span class="sxs-lookup"><span data-stu-id="59bdf-102">Need help with Microsoft 365 Business Premium Voice?</span></span>
 
-<span data-ttu-id="58e15-103">Microsoft 365 Business Premium Voice simplifică organizațiile mici și mijlocii să transforme Microsoft teams într-un sistem de telefon puternic și flexibil.</span><span class="sxs-lookup"><span data-stu-id="58e15-103">Microsoft 365 Business Premium Voice makes it easy for small and medium organizations to turn Microsoft Teams into a powerful and flexible telephone system.</span></span> <span data-ttu-id="58e15-104">Pentru mai multe informații despre vocea de Business, consultați [ce este Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span><span class="sxs-lookup"><span data-stu-id="58e15-104">For more information on Business Voice, see [What is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span></span>
+<span data-ttu-id="59bdf-103">Microsoft 365 Business Premium Voice facilitează organizațiilor mici și medii să transforme Microsoft Teams într-un sistem de telefonie puternic și flexibil.</span><span class="sxs-lookup"><span data-stu-id="59bdf-103">Microsoft 365 Business Premium Voice makes it easy for small and medium organizations to turn Microsoft Teams into a powerful and flexible telephone system.</span></span> <span data-ttu-id="59bdf-104">Pentru mai multe informații despre Business Voice, [consultați Ce este Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span><span class="sxs-lookup"><span data-stu-id="59bdf-104">For more information on Business Voice, see [What is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span></span>
 
-<span data-ttu-id="58e15-105">Dacă ați achiziționat deja Microsoft 365 Business Premium Voice, [Expertul Introducere](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) vă poate ajuta să începeți lucrul.</span><span class="sxs-lookup"><span data-stu-id="58e15-105">If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going.</span></span> 
+<span data-ttu-id="59bdf-105">Dacă ați achiziționat deja Microsoft 365 Business Premium Voice, expertul Noțiuni de bază [vă](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) poate ajuta să începeți lucrul.</span><span class="sxs-lookup"><span data-stu-id="59bdf-105">If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going.</span></span> 
