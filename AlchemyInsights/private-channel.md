@@ -2,7 +2,7 @@
 title: Canal privat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790416"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Canale private în Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Canale private în Microsoft Teams
 
-Canalele private din Microsoft teams creează spații prioritare pentru colaborarea în cadrul echipelor. Doar utilizatorii din echipă, care sunt proprietari sau membri ai canalului privat, pot accesa canalul. Oricine poate fi adăugat ca membru al unui canal privat, chiar și invitații cu condiția să fie deja membri ai echipei.
+Canalele private din Microsoft Teams creează spații concentrate pentru colaborarea în cadrul echipelor dumneavoastră. Doar utilizatorii din echipă, care sunt proprietari sau membri ai canalului privat, pot accesa canalul. Oricine poate fi adăugat ca membru al unui canal privat, chiar și invitații cu condiția să fie deja membri ai echipei.
 
-Pentru a afla mai multe, începeți cu [canalele private din Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Printre acestea se numără informații, cum ar fi [crearea canalelor private și](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) site-urile de apartenență și [canal privat SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+Pentru a afla mai multe, începeți [cu Canale private în Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Acestea includ informații, cum ar fi crearea [de canale private și apartenența la](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) canale [private, site-uri SharePoint.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Aveți nevoie de un nou proprietar de echipă?**
 
-Dacă proprietarul canalului privat părăsește organizația sau este eliminat din grup, un membru al canalului privat este promovat automat ca proprietar al canalului privat.
+Dacă proprietarul canalului privat părăsește organizația sau este eliminat din grup, un membru al canalului privat este promovat automat pentru a fi proprietarul canalului privat.
 
-Administratorii pot vedea, de asemenea, [gestionarea ciclului de viață al canalelor private în Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) pentru a afla mai multe despre politicile de gestionare a persoanelor care pot crea canale private, precum și modalități de a ajuta la construirea interogărilor pentru descoperirea informațiilor electronice sau a reținerii legale.
+Administratorii pot, de asemenea, să consultați Gestionarea ciclului de viață al canalelor private în [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) pentru a afla mai multe despre politicile de gestionare a persoanelor care pot crea canale private, precum și modalități de a ajuta la construirea interogărilor pentru descoperirea informațiilor electronic sau reținerile legale.
