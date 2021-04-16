@@ -1,8 +1,8 @@
 ---
-title: Data de expirare a echipei și a grupului subiacent nu se potrivește
+title: Data de expirare a echipei și a grupului subiacent nu se potrivesc
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365225"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813448"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Data de expirare a echipei și a grupului subiacent nu se potrivește
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Data de expirare a echipei și a grupului subiacent nu se potrivesc
 
-Înainte ca o echipă să fie reînnoită, grupul care susține echipa este reînnoit mai întâi. Ca parte a reînnoirii, o nouă dată de expirare este setată la grup pentru o dată viitoare. Această dată nouă este posibil să nu fie vizibilă imediat în teams. Poate dura până la 24 de ore pentru a sincroniza. Dacă vedeți o diferență între data de expirare pentru o echipă și grupul său subiacent, așteptați 24 de ore înainte de a căuta asistență suplimentară.  
+Înainte ca o echipă să fie reînnoită, grupul care reprezintă echipa este reînnoit mai întâi. Ca parte a reînnoirii, o nouă dată de expirare este setată pentru grup pentru o dată viitoare. Este posibil ca această nouă dată să nu fie vizibilă imediat în Teams. Sincronizarea poate dura până la 24 de ore. Dacă vedeți o discrepanță între data de expirare pentru o echipă și grupul său subiacent, așteptați 24 de ore înainte de a solicita asistență suplimentară.  
 
-Consultați [expirarea și reînnoirea echipei în Microsoft teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  pentru mai multe informații.
+Consultați [Expirarea și reînnoirea echipei în Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  pentru mai multe informații.
