@@ -1,8 +1,8 @@
 ---
-title: Opțiunea de a utiliza deblocarea amprentelor în Windows 10
+title: Utilizarea opțiunii de deblocare a amprentelor în Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795256"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796689"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Opțiunea de a utiliza deblocarea amprentelor în Windows 10
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Utilizarea opțiunii de deblocare a amprentelor în Windows 10
 
-**Activare amprentă Windows Hello**
+**Activarea amprentelor Windows Hello**
 
-Pentru a debloca Windows 10 utilizând amprenta, trebuie să configurați amprenta Windows Hello prin Adăugare (permițând Windows să învețe să recunoască) cel puțin un deget. 
+Pentru a debloca Windows 10 folosind amprenta, trebuie să configurați amprentă Windows Hello adăugând (permițând ca Windows să învețe să recunoască) cel puțin un deget. 
 
-1. Accesați **setări > conturi > opțiuni de conectare** (sau faceți clic [aici](ms-settings:signinoptions?activationSource=GetHelp)). Opțiunile de conectare disponibile vor fi listate. De exemplu:
+1. Accesați Setări **> Conturi > Opțiuni de conectare (sau faceți** clic [aici](ms-settings:signinoptions?activationSource=GetHelp)). Vor fi listate opțiunile disponibile de conectare. De exemplu:
 
     ![Opțiuni de conectare.](media/sign-in-options.png)
 
-2. Atingeți sau faceți clic pe **Windows Hello amprentă**, apoi faceți clic pe **configurare**. În fereastra de configurare Windows Hello **, faceți clic pe introducere.** Senzorul de amprentă va fi activat și vi se va solicita să puneți degetul pe senzor:
+2. Faceți clic sau **atingeți Amprentă Windows Hello**, apoi faceți clic pe **Instalare**. În fereastra de instalare Windows Hello, faceți **clic pe Incepeți.** Senzorul de amprente se va activa și veți fi întrebat dacă puneți degetul pe senzor:
 
-   ![Senzor de amprentă.](media/fingerprint-sensor.png)
+   ![Senzor de amprente.](media/fingerprint-sensor.png)
 
-3. Urmați instrucțiunile, care vă vor solicita să scanați în mod repetat degetul. Când se termină acest lucru, veți avea opțiunea de a adăuga alte degete pe care poate doriți să le utilizați pentru conectare. Data viitoare când vă conectați la Windows 10, veți avea opțiunea de a vă folosi amprenta pentru a face acest lucru.
+3. Urmați instrucțiunile, care vă vor solicita să scanați în mod repetat cu degetul. Când se termină aceasta, veți avea opțiunea de a adăuga alte degete pe care poate doriți să le utilizați pentru conectare. Data viitoare când vă conectați la Windows 10, veți avea opțiunea de a utiliza amprenta pentru a face acest lucru.
 
-**Amprenta Windows Hello nu este disponibilă ca opțiune de conectare**
+**Amprentă Windows Hello nu este disponibilă ca opțiune de conectare**
 
-Dacă amprenta digitală din Windows Hello nu este afișată ca opțiune în **opțiunile de conectare**, înseamnă că Windows nu este conștient de niciun cititor de amprente/scaner ATAȘAT la PC sau că o politică de sistem îi împiedică utilizarea (dacă, de exemplu, PC-ul este gestionat de locul de muncă). Pentru a depana: 
+Dacă amprentă Windows Hello nu este afișată ca opțiune de opțiuni de conectare, înseamnă că Windows nu cunoaște niciun cititor de amprente sau scaner atașat la PC sau că o politică de sistem împiedică utilizarea acesteia (de exemplu, **PC-ul** este gestionat de locul de muncă). Pentru a depana: 
 
-1. Selectați butonul **Start** în bara de activități și căutați **Manager dispozitive**.
+1. Selectați **butonul Start** din bara de activități și căutați Manager **dispozitive**.
 
-2. Faceți clic sau atingeți pentru a deschide **Manager dispozitive**.
+2. Atingeți sau faceți clic pentru a **deschide Manager dispozitive**.
 
-3. În Manager dispozitive, extindeți dispozitivele biometrice făcând clic pe ghilimelele sale.
+3. În Manager dispozitive, extindeți Dispozitivele biometrice, făcând clic pe ghilimelele unghiulare.
 
    ![Dispozitive biometrice.](media/biometric-devices.png)
 
-4. Scanerul de amprente trebuie să fie listat ca dispozitiv biometric, cum ar fi scanerul Synaptics WBDI:
+4. Scanerul de amprente ar trebui să fie listat ca dispozitiv biometric, cum ar fi scanerul de sindicalizare WBDI:
 
    ![Dispozitive biometrice.](media/biometric-devices-expanded.png)
 
-5. Dacă scanerul de amprente nu este afișat și scanerul este integrat în PC-ul dvs., accesați site-ul web al producătorului PC-ului. În secțiunea asistență tehnică pentru modelul PC-ului, căutați un driver Windows 10 pentru un scaner pe care îl puteți instala.
+5. Dacă scanerul de amprente nu este afișat și scanerul este integrat în PC, accesați site-ul web al producătorului PC-ului. În secțiunea de asistență tehnică pentru modelul PC, căutați un driver Windows 10 pentru un scaner pe care să îl puteți instala.
 
-6. Dacă scanerul este separat de PC (atașat prin USB), accesați site-ul web al producătorului scanerului pentru a găsi și a instala software de driver de dispozitiv Windows 10 pentru modelul de scaner pe care îl aveți.
+6. Dacă scanerul este separat de PC (atașat prin USB), accesați site-ul web al producătorului scanerului pentru a găsi și a instala software-ul de driver de dispozitiv Windows 10 pentru modelul de scaner pe care îl aveți.

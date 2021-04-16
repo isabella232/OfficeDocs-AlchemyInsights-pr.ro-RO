@@ -1,8 +1,8 @@
 ---
-title: Nu se poate adăuga o atașare la un formular orientat către exterior
+title: Nu se poate adăuga o atașare la un formular orientat extern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749418"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797337"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Nu se poate adăuga o atașare la un formular orientat către exterior
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Nu se poate adăuga o atașare la un formular orientat extern
 
-Dacă încercați să adăugați o atașare la o anchetă Microsoft Forms externe, acea caracteristică nu este disponibilă încă. Pentru a urmări starea solicitării de caracteristici, accesați [această intrare uservoice](https://go.microsoft.com/fwlink/?linkid=2133069)și adăugați votul.
+Dacă încercați să adăugați o atașare la o anchetă Microsoft Forms externă, acea caracteristică nu este încă disponibilă. Pentru a urmări starea solicitării de caracteristică, accesați [această intrare UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)și adăugați-vă votarea.
