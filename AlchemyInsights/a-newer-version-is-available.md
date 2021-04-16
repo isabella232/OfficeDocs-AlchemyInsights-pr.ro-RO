@@ -2,7 +2,7 @@
 title: Este disponibilă o versiune mai nouă
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598996"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804285"
 ---
-# <a name="delete-the-office-document-cache"></a>Ștergerea memoriei cache a documentelor Office
+# <a name="delete-the-office-document-cache"></a>Ștergerea Cache pentru documente Office
 
-Dacă ați primit o solicitare Excel că **este disponibilă o versiune mai nouă a fișierului**, încercați să ștergeți memoria cache a documentelor Office urmând instrucțiunile din [ștergerea memoriei cache pentru documente Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Apoi încercați să redeschideți fișierul.
+Dacă ați primit o solicitare Excel care vă spune că este disponibilă o versiune mai nouă **a** fișierului, încercați să ștergeți Cache pentru documente Office urmând instrucțiunile din Ștergerea Cache [pentru documente Office.](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Apoi încercați să redeschideți fișierul.
