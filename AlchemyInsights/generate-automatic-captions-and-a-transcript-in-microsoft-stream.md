@@ -1,8 +1,8 @@
 ---
-title: Generarea de subtitrări automate și o transcriere în Microsoft Stream
+title: Generați subtitrări automate și o transcriere în Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812427"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a><span data-ttu-id="a2490-102">Generarea de subtitrări automate și o transcriere în Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a2490-102">Generate automatic captions and a transcript in Microsoft Stream</span></span>
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a><span data-ttu-id="20264-102">Generați subtitrări automate și o transcriere în Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="20264-102">Generate automatic captions and a transcript in Microsoft Stream</span></span>
 
-<span data-ttu-id="a2490-103">Stream poate genera automat Subtitrări folosind tehnologia automată de recunoaștere a vorbirii și puteți vizualiza o fereastră de transcriere defilare pentru a naviga și a urmări cu ușurință împreună cu conținutul rostit al unui videoclip.</span><span class="sxs-lookup"><span data-stu-id="a2490-103">Stream can automatically generate captions using Automatic Speech Recognition technology, and you can view a scrolling transcript window to easily navigate and follow along with the spoken content of a video.</span></span>
+<span data-ttu-id="20264-103">Redarea în flux poate genera automat subtitrări utilizând tehnologia Recunoașterea automată a vorbirii și puteți să vizualizați o fereastră de transcriere de defilare pentru a naviga și a urmări cu ușurință, împreună cu conținutul vorbit al unui videoclip.</span><span class="sxs-lookup"><span data-stu-id="20264-103">Stream can automatically generate captions using Automatic Speech Recognition technology, and you can view a scrolling transcript window to easily navigate and follow along with the spoken content of a video.</span></span>
 
-- [<span data-ttu-id="a2490-104">Generarea de subtitrări automate și o transcriere pentru videoclipurile Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a2490-104">Generate automatic captions and a transcript for your Microsoft Stream videos</span></span>](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [<span data-ttu-id="20264-104">Generați subtitrări automate și o transcriere pentru videoclipurile Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="20264-104">Generate automatic captions and a transcript for your Microsoft Stream videos</span></span>](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [<span data-ttu-id="a2490-105">Afișarea unei ferestre de transcriere defilare pentru un videoclip în Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a2490-105">Show a scrolling transcript window for a video in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [<span data-ttu-id="20264-105">Afișarea unei ferestre de transcriere de defilare pentru un fișier video în Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="20264-105">Show a scrolling transcript window for a video in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
