@@ -2,7 +2,7 @@
 title: Probleme uzuale în Yammer și rezolvări
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 4ecd8b34830f53670145068398f28d16e820efd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657576"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805482"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Probleme uzuale în Yammer și rezolvări
 
@@ -33,7 +33,7 @@ Iată câteva subiecte solicitate frecvent despre Yammer:
 
 - **Conformitate**: configurați o [politică de utilizare](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) pentru utilizatori, [exportați date Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), înțelegeți [cum să gestionați solicitările GDPR](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) pentru Yammer și [aflați unde sunt găzduite datele Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Dezactivați](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) accesul Yammer, dacă este necesar.
 
-- ** colaborare externă**: colaborați cu utilizatorii din afară în [grupuri externe](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups) sau găzduiți comunități mai mari în [rețele externe](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network). [Dezactivați mesajele externe și grupurile](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging) dacă politica dvs. de securitate necesită acest lucru.
+- **colaborare externă**: colaborați cu utilizatorii din afară în [grupuri externe](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups) sau găzduiți comunități mai mari în [rețele externe](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network). [Dezactivați mesajele externe și grupurile](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging) dacă politica dvs. de securitate necesită acest lucru.
 
 - **Utilizare monitor**: utilizați monitorul cu [raportul de activitate pentru Yammer](https://docs.microsoft.com/microsoft-365/admin/activity-reports/yammer-activity-report). Administratorii de comunitate pot [accesa detalii despre grup](https://support.office.com/article/view-group-insights-in-yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab).
 

@@ -1,8 +1,8 @@
 ---
-title: De ce nu se implementează actualizările de software?
+title: De ce nu sunt implementate actualizările de software?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805698"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>De ce nu se implementează actualizările de software?
+# <a name="why-software-updates-are-not-being-deployed"></a>De ce nu sunt implementate actualizările de software?
 
-Revizuiți următoarele dacă ați configurat actualizările de software printr-un apel Windows 10 Update, dar actualizările nu sunt implementate:  
+Dacă ați configurat actualizări de software printr-un cerc de actualizare Windows 10, dar actualizările nu sunt implementate, examinați următoarele:  
 
-- Luați în considerare modificarea service-ului Windows de la un tip de lansare  **semi-anuală a canalului**  la un tip de lansare mai strict și mai frecvent  
-- Verificați perioada de amânare pentru  **actualizarea calității**  și  **actualizarea de caracteristici**. Perioada de amânare poate duce la întârzieri în actualizările de până la 180 de zile.
+- Luați în considerare modificarea serviciilor Windows de la un  **canal semianual**  la un tip de lansare mai frecvent și mai strict  
+- Verificați perioada de temporizare pentru  **actualizarea de calitate**  și  **actualizarea de caracteristici**. Perioada de temporizare ar putea duce la o întârziere a actualizărilor de până la 180 de zile.

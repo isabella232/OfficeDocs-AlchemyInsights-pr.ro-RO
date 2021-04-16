@@ -2,21 +2,22 @@
 title: Probleme uzuale în Visio și rezolvări
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722596"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806598"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Probleme uzuale în Visio și rezolvări
 
@@ -24,13 +25,13 @@ Iată câteva subiecte solicitate frecvent privind Microsoft Visio:
 
 **Opțiuni în Visio Online**
 
-- Visio se vinde ca [aplicație independentă](https://products.office.com/visio/flowchart-software). Administratorii pot achiziționa [abonamentul Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) din Centrul de administrare Microsoft 365.
+- Visio se vinde ca [aplicație independentă](https://products.office.com/visio/flowchart-software). Administratorii pot achiziționa [abonamentul Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) din centrul de administrare Microsoft 365.
 
 - Visio oferă [planuri de abonament diferite](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Dacă vă lipsește o caracteristică din Visio, [comparați opțiunile Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) pentru a afla mai multe despre diferențele dintre Planul 1 și Planul 2.  Rețineți că Visio Online Planul 1 nu include și o versiune desktop de Visio.
 
 **Descărcarea, instalarea și activarea Visio**
 
-- Pentru a instala și a activa aplicația desktop Visio Online Plan 2, mai întâi trebuie să i se atribuie utilizatorului o [licență Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Pentru a instala și a activa aplicația desktop Visio Online Plan 2, mai întâi trebuie să i se atribuie utilizatorului o [licență Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Instalați Visio din portalul contului meu, dacă nu este deja instalat. Pentru ajutor, consultați [Instalarea Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ Iată câteva subiecte solicitate frecvent privind Microsoft Visio:
 
 **Visio pe un Mac**
 
-Nu există nicio aplicație desktop Visio pentru Mac. Cu toate acestea, utilizatorii cu o [licență Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) validă, pot să [vizualizeze, să creeze și să editeze diagrame](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) în Visio Online într-un browser web.
+Nu există nicio aplicație desktop Visio pentru Mac. Cu toate acestea, utilizatorii cu o [licență Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) validă, pot să [vizualizeze, să creeze și să editeze diagrame](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) în Visio Online într-un browser web.
 
 **Diagrame, șabloane, forme și conectori**
 
