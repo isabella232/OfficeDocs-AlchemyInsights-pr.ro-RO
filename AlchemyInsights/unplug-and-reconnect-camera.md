@@ -1,8 +1,8 @@
 ---
-title: Deconectarea și reconectarea camerei
+title: Deconectare și reconectare cameră
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365252"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827732"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Deconectarea și reconectarea camerei
+# <a name="unplug-and-reconnect-camera"></a>Deconectare și reconectare cameră
 
-Ne pare rău că nu a funcționat. Dacă aparatul foto este o cameră externă, deconectați dispozitivul și reconectați-vă din nou poate ajuta.
+Ne pare rău că nu a funcționat. Dacă camera este o cameră externă, deconectarea dispozitivului și reconectarea ar putea fi de ajutor.
 
-Dacă aceasta este o cameră încorporată, este posibil să vă ajute să reporniți computerul.
+Dacă aceasta este o cameră încorporată, repornirea computerului ar putea fi de ajutor.

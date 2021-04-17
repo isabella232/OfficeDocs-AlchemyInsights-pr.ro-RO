@@ -1,8 +1,8 @@
 ---
-title: Echipele permit sau dezactivează IP video
+title: Video Permiteți sau dezactivați IP teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670196"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826355"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Echipele permit sau dezactivează IP video
+# <a name="teams-allow-or-disable-ip-video"></a>Video Permiteți sau dezactivați IP teams
 
 **Modificarea sau crearea unei politici de întâlnire**
 
-Pentru a modifica sau a crea o politică de întâlnire, accesați **Centrul de administrare Microsoft teams > întâlniri > politicile de întâlnire**. Selectați o politică din listă sau selectați **Adăugare**. Dacă creați o politică nouă, adăugați un nume și o descriere. Numele nu trebuie să conțină caractere speciale sau să fie mai mare de 64 de caractere. Alegeți setările, apoi faceți clic pe **Salvare**.
+Pentru a modifica sau a crea o politică de întâlnire, accesați Centrul de administrare **Microsoft Teams > Întâlniri > Politicile întâlnirii**. Selectați o politică din listă sau selectați **Adăugare**. Dacă creați o politică nouă, adăugați un nume și o descriere. Numele nu trebuie să conțină caractere speciale sau să fie mai mare de 64 de caractere. Alegeți setările, apoi faceți clic pe **Salvare**.
 
-De exemplu, să presupunem că aveți mulți utilizatori și doriți să limitați lățimea de bandă pe care ar necesita-o întâlnirea. Ar trebui să creați o nouă politică particularizată numită: "lățime de bandă limitată" și să dezactivați următoarele setări:
+De exemplu, să presupunem că aveți mulți utilizatori și doriți să limitați lățimea de bandă necesară pentru întâlnirea lor. Ar trebui să creați o nouă politică particularizată numită: "lățime de bandă limitată" și să dezactivați următoarele setări:
 
 Sub **Audio și video**:
 
@@ -38,6 +38,6 @@ Apoi atribuiți politica utilizatorilor.
 
 1. În navigarea din stânga a centrului de administrare Microsoft Teams, accesați **Utilizatori**, apoi faceți clic pe utilizator.
 2. Selectați utilizatorul făcând clic pe stânga numelui de utilizator, apoi faceți clic pe **Editați setările**.
-3. Sub **Politica întâlnirii**, selectați politica pe care doriți să o atribuiți, apoi faceți clic pe **se aplică**.
+3. Sub **Politică de întâlnire**, selectați politica pe care doriți să o atribuiți, apoi faceți clic pe Se **aplică**.
 
-Pentru mai multe informații, consultați [gestionarea politicilor de întâlnire în teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Pentru mai multe informații, consultați [Gestionarea politicilor pentru întâlniri în Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

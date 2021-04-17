@@ -1,8 +1,8 @@
 ---
-title: Solicitare de credit din cauza unei întreruperi a serviciului
+title: Solicitare de credit din cauza unei deservije a serviciului
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726859"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826463"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Solicitare de credit din cauza unei întreruperi a serviciului
+# <a name="credit-request-due-to-a-service-outage"></a>Solicitare de credit din cauza unei deservije a serviciului
 
-Pentru a solicita o solicitare de credit din cauza unei întreruperi a serviciului, vă rugăm să deschideți o solicitare de serviciu.
+Pentru a solicita o solicitare de credit din cauza unei deservije a serviciului, deschideți o solicitare de serviciu.
 
-Asigurați-vă că aveți ID-ul de incident, găsit în [pagina stare servicii](https://docs.microsoft.com/office365/enterprise/view-service-health) din centrul de administrare Microsoft 365.
+Asigurați-vă că aveți ID-ul incidentului pe pagina [cu starea serviciilor](https://docs.microsoft.com/office365/enterprise/view-service-health) din centrul de administrare Microsoft 365.
 
-Vă informăm că, deoarece solicitarea dumneavoastră este procesată, aceasta va fi supusă validării pentru a observa impactul întreruperii.
+Rețineți că, pe măsură ce este procesată solicitarea, acesta va fi trecut prin validări pentru a observa impactul de eroare.

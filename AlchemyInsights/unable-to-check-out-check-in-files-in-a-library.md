@@ -1,8 +1,8 @@
 ---
-title: Nu se pot verifica sau Arhiva fișierele dintr-o bibliotecă
+title: Nu puteți să arhivați sau să arhivați fișiere într-o bibliotecă
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 4fbec85abdb2e43dd779a8411706fa3e6bbf8fcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 5c92abece3696cde81a3268bd5cbd122fb518667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827840"
 ---
-# <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Nu se pot verifica sau Arhiva fișierele dintr-o bibliotecă
+# <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Nu puteți să arhivați sau să arhivați fișiere într-o bibliotecă
 
-- Dacă aveți un câmp obligatoriu în bibliotecă, iar câmpul nu este populat cu o valoare, acesta va determina ca documentul să fie într-o stare de extragere până când este completat și apoi arhivat.
+- Dacă aveți un câmp obligatoriu în bibliotecă și câmpul nu este completat cu o valoare, acest lucru va determina ca documentul să fie într-o stare extras până când este completat și arhivat.
 
-- Dacă aveți un caracter special în titlul documentului, acesta poate provoca probleme. Eliminați caracterul special și încercați să verificați fișierul.
+- Dacă aveți un caracter special în titlul documentului, acest lucru poate cauza probleme. Eliminați caracterul special și încercați să verificați fișierul.
 
-- Dacă un utilizator are extras un fișier, acesta va fi blocat.  În absența persoanei care a extras fișierul, proprietarul bibliotecii poate să verifice fișierul din **Setări bibliotecă-> gestionarea fișierelor**.
+- Dacă un utilizator are un fișier extras, acesta va fi blocat.  În absența persoanei care are fișierul extras, proprietarul bibliotecii poate arhiva fișierul din Setări bibliotecă **-> Gestionare fișiere**.
 
 Iată câteva linkuri utile cu privire la această caracteristică:
 
-- [Cum să extrageți, să arhivați sau să renunțați la modificări în fișiere](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
-- [Principalele întrebări despre extragere, arhivare și versiuni](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
-- [Arhivarea simultană a mai multor fișiere](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
-- [Activarea sau dezactivarea versiunii/verificării unei biblioteci](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
+- [Cum să verificați, să verificați sau să renunțați la modificări în fișiere](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Top questions about check out, check in, and versions](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [Verificarea simultană a mai multor fișiere](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Activarea sau dezactivarea controlului versiunilor/check out într-o bibliotecă](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)

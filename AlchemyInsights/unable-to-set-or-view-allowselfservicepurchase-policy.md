@@ -1,8 +1,8 @@
 ---
-title: Nu puteți seta sau vizualiza politica AllowSelfServicePurchase
+title: Nu se poate seta sau vizualiza politica AllowServicePurchase
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735211"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826103"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nu puteți seta sau vizualiza politica AllowSelfServicePurchase
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nu se poate seta sau vizualiza politica AllowServicePurchase
 
-Atunci când încercați să setați sau să vizualizați politica AllowSelfServicePurchase, primiți următorul mesaj de eroare:
+Atunci când încercați să setați sau să vizualizați politica AllowServicePurchase, primiți următorul mesaj de eroare:
 
-*HandleError: nu s-a reușit regăsirea politicii de produs cu PolicyId ' AllowSelfServicePurchase ', ErrorMessage-conexiunea subiacentă a fost închisă: s-a produs o eroare neașteptată la trimitere.*
+*HandleError: Nu s-a reușit regăsirea politicii de produs cu PolicyId 'AllowServicePurchase', ErrorMessage - Conexiunea subiacentă a fost închisă: Eroare neașteptată la o trimitere.*
 
-Acest lucru poate fi cauzat de o versiune mai veche de transport Layer Security (TLS). Pentru a conecta serviciul MSCommerce, trebuie să utilizați TLS 1,2 sau o versiune ulterioară.  
+Acest lucru poate fi cauzat de o versiune mai veche de Transport Layer Security (TLS). Pentru a conecta serviciul MSCommerce, trebuie să utilizați TLS 1.2 sau o valoare ulterioară.  
 
-Încercați următorii pași pentru a activa/seta protocolul TLS la 1,2, verificați și încercați din nou.
- 1. În linia de comandă PowerShell (PS C: \) Introduceți următoarea comandă pentru a seta protocolul TLS la versiunea 1,2:
+Încercați următorii pași pentru a activa/a seta protocolul TLS la 1.2, a verifica și a reîncerca.
+ 1. În linia de comandă PowerShell (PS C: introduceți următoarea comandă pentru a seta protocolul \) TLS la versiunea 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Verificați dacă sunt utilizate protocoalele TLS, cu următoarea comandă:
+2. Verificați protocoalele TLS utilizate, cu următoarea comandă:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Încercați din nou comenzile obțineți sau actualizați după cum este necesar.
+3. Reîncercați comenzile Obțineți sau Actualizați după cum este necesar.
 

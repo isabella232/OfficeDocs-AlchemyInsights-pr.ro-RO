@@ -1,8 +1,8 @@
 ---
-title: Cum se încheie în mod formal o întâlnire
+title: Cum să încheiați oficial o întâlnire
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780431"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825707"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Cum se încheie în mod formal o întâlnire
+# <a name="how-to-formally-end-a-meeting"></a>Cum să încheiați oficial o întâlnire
 
-Organizatorii întâlnirii pot încheia o întâlnire pentru toți participanții la întâlnire în teams, făcând clic pe **sfârșit întâlnire** în controalele întâlnirii din întâlnire.  
+Organizatorii întâlnirilor pot încheia o întâlnire pentru toți participanții la întâlnire în Teams, făcând clic pe Sfârșit **întâlnire** din controalele întâlnirii din cadrul întâlnirii.  
 
-Pentru a încheia o întâlnire în curs pentru toți participanții, selectați controale pentru întâlniri, selectați pictograma 3-punct și faceți clic pe sfârșit întâlnire. Vi se va solicita să confirmați selecția. Confirmarea selecției va încheia întâlnirea pentru toată lumea.
+Pentru a încheia o întâlnire în desfășurare pentru toți participanții, selectați controalele întâlnirii, selectați pictograma 3 puncte și faceți clic pe Sfârșit întâlnire. Veți fi întrebat dacă confirmați selecția. Confirmarea selecției va încheia întâlnirea pentru toți.
 
-Notă: doar organizatorul întâlnirii poate "încheia" o întâlnire.
+NOTĂ: Doar organizatorul întâlnirii poate "încheia" o întâlnire.

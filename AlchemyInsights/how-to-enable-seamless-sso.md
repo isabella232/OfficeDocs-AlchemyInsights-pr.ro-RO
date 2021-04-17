@@ -1,8 +1,8 @@
 ---
-title: Cum se activează SSO fără sudură
+title: Cum se activează SSO perfect
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780539"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825743"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Cum se activează SSO fără sudură
+# <a name="how-to-enable-seamless-sso"></a>Cum se activează SSO perfect
 
-Activați SSO fără sudură prin [AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Activați SSO perfect prin [Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
   
-Dacă efectuați o instalare nouă de Azure AD Connect, alegeți [calea de instalare particularizată](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). În pagina de **conectare a utilizatorului** , alegeți opțiunea **Activare sign-on unic** .
+Dacă faceți o instalare de la zero de Azure AD Connect, alegeți calea [de instalare particularizată.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) Pe pagina **de conectare Utilizator,** alegeți opțiunea **Activați sign-on** unic.
   
-Pentru a verifica dacă ați activat corect SSO perfect:
+Pentru a verifica dacă ați activat SSO perfect corect:
   
-1. Conectați-vă la [Centrul de administrare Azure Active Directory](https://aad.portal.azure.com) ca administrator global.
+1. Conectați-vă [la centrul de administrare Azure Active Directory](https://aad.portal.azure.com) ca administrator global.
 
 2. Selectați **Azure Active Directory** în panoul din stânga.
 
-3. Verificați dacă este **activat**un singur sign-on fără sudură.
+3. Verificați dacă s-a activat sign-onul **unic fără sincope.**
 
-Pentru a afla mai multe, consultați [Azure Active Directory fără sudură sign-on unic: pornire rapidă](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Pentru a afla mai multe, [consultați Sign-on unic Perfect Azure Active Directory: Pornire rapidă](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

@@ -1,8 +1,8 @@
 ---
-title: Upgrade-ul la Windows 10 Home la Windows 10 Pro
+title: Upgrade-ul Windows 10 Home la Windows 10 Pro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 86181f0c14cf9ad20f5da7d22238af2974cf5d06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811904"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827300"
 ---
-# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgrade-ul utilizând o cheie de produs sau o licență digitală
+# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgrade utilizând o cheie de produs sau o licență digitală
 
-**Upgrade-ul la Windows 10 Pro folosind o cheie de produs**
+**Faceți upgrade la Windows 10 Pro utilizând o cheie de produs**
 
-1. Selectați **Start**  >  Actualizare**Setări**pornire  >  **&**  >  **Activare**securitate.
-2. Selectați **Modificați cheia de produs**, apoi introduceți cheia de produs de 25 de caractere Windows 10 Pro.
-3. Selectați **Următorul** pentru a porni upgrade-ul la Windows 10 Pro.
+1. Selectați **Pornire**  >    >  **actualizare setări & activare**  >  **securitate**.
+2. Selectați **Modificați cheia** de produs , apoi introduceți cheia de produs Windows 10 Pro din 25 de caractere.
+3. **Selectați** Următorul pentru a începe upgrade-ul la Windows 10 Pro.
 
-**Upgrade-ul la Windows 10 Pro utilizând o licență digitală**
+**Faceți upgrade la Windows 10 Pro utilizând o licență digitală**
 
-Dacă ați instalat deja și ați activat Windows 10 Pro pe dispozitivul dvs., veți avea o licență digitală care vă permite să faceți upgrade de la Windows 10 Home la Windows 10 Pro fără o cheie de produs.
+Dacă ați instalat și ați activat deja Windows 10 Pro pe dispozitivul dvs., veți avea o licență digitală care vă permite să faceți upgrade de la Windows 10 Home la Windows 10 Pro fără cheie de produs.
 
-Selectați **Start**  >  Actualizare**Setări**pornire  >  **&**  >  **Activare**securitate.
+Selectați **Pornire**  >    >  **actualizare setări & activare**  >  **securitate**.
 
-- Dacă aveți o licență digitală pentru Windows 10 Pro și Windows 10 Home este activat în prezent pe dispozitivul dvs., selectați **accesați Microsoft Store** și vi se va solicita să faceți upgrade gratuit la Windows 10 Pro.
-- Dacă aveți o licență digitală pentru Windows 10 Pro și Windows 10 Home nu este activat pe dispozitivul dvs., selectați **Depanare**, apoi urmați pașii pentru a face upgrade la Windows 10 Pro.
+- Dacă aveți o licență digitală pentru Windows 10 Pro, iar Windows 10 Home este activat în prezent pe dispozitivul dvs., selectați Accesați **Microsoft Store** și vi se va solicita să faceți upgrade gratuit la Windows 10 Pro.
+- Dacă aveți o licență digitală pentru Windows 10 Pro, iar Windows 10 Home nu este activat pe dispozitivul dvs., selectați Depanare **,** apoi urmați pașii pentru a face upgrade la Windows 10 Pro.
 
 [Aflați mai multe despre activarea în Windows 10](https://support.microsoft.com/help/12440)

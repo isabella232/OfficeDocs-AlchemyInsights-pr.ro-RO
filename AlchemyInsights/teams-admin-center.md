@@ -2,7 +2,7 @@
 title: Centrul de administrare Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826391"
 ---
 # <a name="teams-admin-center"></a>Centrul de administrare Teams
 
@@ -32,5 +32,5 @@ Dacă utilizatorii nu apar în Centrul de administrare Teams, consultați următ
 
 - Ați creat utilizatori sau ați atribuit licențe în ultimele 24 de ore? Asigurați-vă că așteptați cel puțin 24 de ore înainte de a deschide un tichet de asistență.
 - Verificați dacă ați atribuit licențe corespunzătoare?
-- Dacă aveți un Director activ local, Verificați dacă [Valoarea msRTCSIP-PrimaryUserAddress sau adresa SIP din câmpul ProxyAddresses din directorul active locale este unică și formatul se potrivește cu](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**numele de utilizator** al utilizatorului din [Centrul de administrare Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Dacă intenționați să păstrați o implementare Skype for Business Server și să aveți utilizatori conectați local și online: urmați opțiunea **"configurați hibridul cu teams și Skype for Business Online"** din panoul de control Skype for Business Server și mutați utilizatorii online.
+- Dacă aveți un Active Directory local, verificați dacă valoarea [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sau adresa SIP din câmpul ProxyAddresses din Active Directory local este unică și formatul se potrivește cu sip: Numele de utilizator al utilizatorului din Centrul de administrare [Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Dacă intenționați să mențineți o implementare Skype for Business Server și să aveți utilizatori la domiciliu local și online: urmați "Configurarea hibridă cu Teams și **Skype for Business Online"** din Panoul de control Skype for Business Server și mutați utilizatorii online.
