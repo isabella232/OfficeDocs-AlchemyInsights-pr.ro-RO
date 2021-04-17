@@ -2,7 +2,7 @@
 title: Ce versiune de Android acceptă aplicația dvs.?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773067"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824195"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Ce versiune de Android acceptă aplicația dvs.?
 
-Pentru performanțe optime, aplicația noastră funcționează pe orice dispozitiv cu Android Version 5,0 și versiuni superioare.
+Pentru performanțe optime, aplicația noastră funcționează pe orice dispozitiv cu Android versiunea 5.0 și mai recentă.
 
-Dacă sunteți la curent cu sistemul de operare Android, dar încă primiți notificări despre faptul că sistemul de operare este incompatibil cu dispozitivul dvs., încercați să debifați memoria cache și datele din aplicația Magazin Play.
+Dacă sunteți la zi cu sistemul de operare Android, dar încă primiți notificări despre incompatibilitatea sistemului de operare cu dispozitivul dvs., încercați să goliți memoria cache și datele aplicației Play Store.
 
-Pentru a face acest lucru: 
+Pentru aceasta: 
 
-1. Pe telefonul sau tableta Android, deschideți **Setări** , apoi **aplicații** sau **aplicații**.
+1. Pe telefonul sau tableta Android, deschideți **Setări,** **apoi Aplicații** **sau Aplicații**.
 
-2. În partea de sus a ecranului, atingeți **mai multe** (acest lucru poate fi, de asemenea, o elipsă sau trei puncte verticale), apoi **Afișați sistemul**. 
+2. În partea de sus a ecranului, atingeți Mai multe **(acesta** poate fi, de asemenea, o elipsă sau trei puncte verticale), apoi **Afișare sistem**. 
 
-3. Defilați în jos și atingeți **servicii Google Play**. 
+3. Defilați în jos și **atingeți Servicii Google Play.** 
 
-4. Atingeți **stocare** , apoi **Golire cache**. 
+4. Atingeți **Stocare,** apoi **Golire cache**. 
 
-5. Atingeți **gestionare spațiu** , apoi **Debifați toate datele**. 
+5. Atingeți **Gestionare spațiu,** apoi **Golire toate datele.** 
 
-6. Deschideți **Magazinul Google Play**. 
+6. Deschideți **Magazinul Google Play.** 
 
 7. Așteptați 5 minute, apoi încercați din nou. 

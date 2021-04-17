@@ -1,8 +1,8 @@
 ---
-title: Multi-geo
+title: Multi-Geo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 5e0b5f32fd2cb60ceae708cf9df62f78fb374322
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702339"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825239"
 ---
-# <a name="microsoft-365-multi-geo"></a>Microsoft 365 multi-geo
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Cu Microsoft 365 multi-geo, organizația dumneavoastră își poate extinde prezența Microsoft 365 în mai multe regiuni geografice și/sau țări din entitatea găzduită existentă. Consultați linkurile de mai jos pentru mai multe informații.
+Cu Microsoft 365 Multi-Geo, organizația dvs. își poate extinde prezența Microsoft 365 în mai multe regiuni geografice și/sau țări din entitatea dvs. găzduită existentă. Consultați linkurile de mai jos pentru mai multe informații.
 
-- [Microsoft 365 multi-geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Planificarea pentru Microsoft 365 multi-geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Configurarea multi-geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Plan pentru Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Configurarea Multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

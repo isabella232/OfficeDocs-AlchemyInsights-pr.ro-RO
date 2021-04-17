@@ -1,8 +1,8 @@
 ---
-title: Permiteți sau Împiedicați utilizatorii anonimi să se asocieze la întâlnirile teams
+title: Permiteți sau împiedicați utilizatorii anonimi să se alăture întâlnirilor Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824771"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Permiteți sau Împiedicați utilizatorii anonimi să se asocieze la întâlnirile teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Permiteți sau împiedicați utilizatorii anonimi să se alăture întâlnirilor Teams
 
-Puteți să controlați setările de asociere anonime la întâlnire în centrul de administrare teams.
+Puteți controla setările de asociere la întâlniri anonime în Centrul de administrare Teams.
 
-**Este posibil să dureze până la 24 de ore pentru ca această modificare să aibă efect.**
+**Poate dura până la 24 de ore pentru ca această modificare să aibă efect.**
 
-1.  Accesați centrul de [administrare teams](https://admin.teams.microsoft.com)
-2.  În navigarea stângă, accesați **Meetings**   >   **Setări întâlnire**întâlniri.
-3.  Sub  **participanți**, activați  **utilizatorii anonimi se pot asocia la o întâlnire**.
+1.  Accesați Centrul [de administrare Teams](https://admin.teams.microsoft.com)
+2.  În navigarea stângă, accesați Setările   >   **întâlnirilor**.
+3.  Sub **Participanți,** activați Utilizatorii **anonimi se pot alătura la o întâlnire.**

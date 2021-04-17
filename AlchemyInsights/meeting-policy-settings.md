@@ -1,8 +1,8 @@
 ---
-title: Setările politicii de întâlnire
+title: Setările politicii pentru întâlniri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704618"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825455"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Gestionarea politicilor de întâlnire în Microsoft teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Gestionarea politicilor pentru întâlniri în Microsoft Teams
 
-**Notă: poate dura până la 24 de ore pentru ca modificările politice să aibă efect pentru utilizatori.** Este posibil să nu reușiți să efectuați modificări imediat în politicile nou create; Așteptați 4 ore și încercați să modificați din nou o politică nou creată.
+**Notă: poate dura până la 24 de ore pentru ca modificările politicii să aibă efect pentru utilizatori.** Este posibil să nu puteți efectua imediat modificări la politicile nou create; așteptați 4 ore și încercați să modificați din nou o politică nou creată.
 
-Politicile pentru întâlniri sunt utilizate pentru a controla caracteristicile disponibile pentru participanții la întâlnire pentru întâlnirile programate de utilizatorii din organizația dvs. Este posibil ca unele caracteristici ale politicilor de întâlnire să nu fie implementate încă în centrul de administrare teams (acestea sunt etichetate "în curând" din documentație). În acest caz, sau dacă primiți o eroare de genul "nu putem actualiza politica acum, dar încercați din nou mai târziu" în centrul de administrare Microsoft teams, vă recomandăm să utilizați PowerShell pentru a crea sau a modifica politicile întâlnirii teams. 
+Politicile de întâlnire sunt utilizate pentru a controla caracteristicile disponibile participanților la întâlnire pentru întâlnirile programate de utilizatorii din organizația dvs. Este posibil ca unele caracteristici ale politicilor pentru întâlniri să nu fie implementate încă în centrul de administrare Teams (acestea sunt etichetate cu "în curând" în documentație). În acest caz sau dacă primiți o eroare precum "Nu putem actualiza politica în acest moment, dar încercați din nou mai târziu" din Centrul de administrare Microsoft Teams, vă recomandăm să utilizați PowerShell pentru a crea sau a modifica politicile întâlnirilor Teams. 
 
 Pentru mai multe informații despre politicile de întâlnire, consultați următoarele resurse:
 
-- Pentru a afla despre crearea politicilor, efectuarea de modificări și atribuirea de utilizatori la politică, consultați [gestionarea politicilor de întâlnire în teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Pentru a afla despre crearea politicilor, efectuarea de modificări și atribuirea utilizatorilor în politică, consultați Gestionarea politicilor [pentru întâlniri în Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Pentru a face modificări de politică utilizând cmdleturi PowerShell, consultați [Prezentare generală teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Trebuie să utilizați [modul Skype for Business PowerShell](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) pentru politicile de întâlnire teams. 
-    - Revizuiți [documentația cmdleturilor *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) pentru mai multe informații.
+- Pentru a face modificări de politică utilizând cmdleturi PowerShell, consultați [Prezentare generală Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - Trebuie să utilizați modulul [Skype for Business PowerShell pentru politicile](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) întâlnirii Teams. 
+    - Consultați [documentația cmdleturilor *-CsTeamsMeetingPolicy pentru mai](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) multe informații.
 
