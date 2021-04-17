@@ -2,7 +2,7 @@
 title: Nu se pot primi mesaje de e-mail de la conturile Gmail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735463"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830405"
 ---
 # <a name="unable-to-receive-email-from-gmail-accounts"></a>Nu se pot primi mesaje de e-mail de la conturile Gmail
 
 **PROBLEMĂ**
 
-Suntem conștienți că unii utilizatori nu pot primi mesaje de e-mail de la conturile Gmail. Investigăm o posibilă problemă.
+Suntem conștienți că este posibil ca unii utilizatori să nu poată primi e-mailuri din conturile Gmail. Investigăm o posibilă problemă.
 
 **SOLUȚIE**
 
-Verificați dacă nu ați blocat accidental domeniul Gmail atunci când blocați un utilizator Gmail.
+Verificați dacă nu ați blocat din greșeală domeniul Gmail atunci când blocați un utilizator Gmail.
 
-1. Deschideți [lista de expeditori blocați](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Deschideți lista [de Expeditori blocați.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Dacă Gmail.com se află în listă, faceți clic pe pictograma Coș de gunoi de lângă intrare și apăsați pe **Salvare**.
+2. Dacă Gmail.com lista, faceți clic pe pictograma coș de gunoi de lângă intrare și apăsați **Salvare**.

@@ -2,7 +2,7 @@
 title: Mărirea dimensiunii cutiei poștale
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756186"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830225"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Comutați între abonamente pentru a mări dimensiunea cutiei
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Comutați între abonamente pentru a mări dimensiunea cutiei poștale
 
-Dacă dimensiunea cutiei poștale este deja 100 GB, nu există nicio modalitate de a o mări.
+Dacă dimensiunea cutiei poștale este deja de 100 GB, nu există nicio modalitate de a o mări.
   
-Dacă dimensiunea cutiei poștale este 50 GB, o puteți mări la 100 GB comutând la [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) sau [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Iată pașii pentru a comuta la un alt abonament:
+Dacă dimensiunea cutiei poștale este de 50 GB, o puteți mări la 100 GB prin trecerea la [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) sau [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Iată pașii pentru a comuta la un alt abonament:
   
-1. În centrul de administrare Microsoft 365, accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. În centrul de administrare Microsoft 365, accesați pagina  \> **[Facturarea produselor](https://go.microsoft.com/fwlink/p/?linkid=842054)** dvs.
 
-2. Selectați abonamentul pe care doriți să-l faceți upgrade.
+2. Selectați abonamentul pentru care doriți să faceți upgrade.
 
-3. Pe pagina Detalii abonament, selectați **upgrade**.
+3. Pe pagina cu detaliile abonamentului, selectați **Upgrade**.
 
-4. Găsiți planul la care doriți să faceți upgrade, apoi selectați butonul **upgrade** .
+4. Găsiți planul la care doriți să faceți upgrade, apoi selectați **butonul Upgrade.**
 
-5. Introduceți numărul de licențe de care aveți nevoie, alegeți dacă doriți să plătiți lunar sau pentru tot anul, apoi selectați **Extragere**.
+5. Introduceți numărul de licențe de care aveți nevoie, alegeți dacă să plătiți lunar sau pentru tot anul, apoi selectați **Verificare .**
 
-Pentru mai multe detalii, consultați [upgrade-ul la un alt plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Pentru mai multe detalii, consultați [Upgrade-ul la un alt plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Dacă aveți un [abonament care acceptă o arhivă în locație](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), puteți obține și un spațiu de stocare suplimentar prin e-mail, activând o cutie poștală de arhivă. O cutie poștală de arhivă vă oferă spațiu de stocare suplimentar și vă permite să mutați, să copiați și să căutați mesaje atât în cutia poștală principală, cât și în cea de arhivă. Pentru pașii despre activarea unei cutii poștale de arhivă, consultați [Activarea unei cutii poștale de arhivă](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
+Dacă aveți un Abonament care acceptă o arhivă locală, puteți obține, de asemenea, spațiu de stocare suplimentar pentru [e-mail](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)activând o cutie poștală de arhivare. O cutie poștală de arhivare vă oferă spațiu de stocare suplimentar și vă permite să mutați, să copiați și să căutați mesaje atât în cutia poștală principală, cât și în cea de arhivă. Pentru pașii despre cum să activați o cutie poștală de arhivare, consultați [Activarea unei cutii poștale de arhivare.](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)

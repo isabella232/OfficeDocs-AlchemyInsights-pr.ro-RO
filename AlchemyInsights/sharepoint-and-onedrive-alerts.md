@@ -1,8 +1,8 @@
 ---
-title: Întârzieri în primirea avertizărilor în SharePoint și OneDrive
+title: Întârzieri în primirea avertizărilor SharePoint și OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599864"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831242"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Întârzieri în primirea avertizărilor în SharePoint și OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Întârzieri în primirea avertizărilor SharePoint și OneDrive
 
-- Dacă **toate avertizările din mai multe fișiere sau biblioteci sunt întârziate**, vizitați [tabloul de bord stare servicii](https://portal.office.com/adminportal/home?ref=/servicehealth) pentru a căuta orice recomandări/incidente care pot apărea cu SharePoint sau Exchange.
-- Dacă **nu este livrată o avertizare individuală de la un anumit fișier sau bibliotecă**, încercați să o ștergeți și să o creați din nou. Consultați [gestionarea, vizualizarea sau ștergerea avertizărilor SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) pentru a crea din nou avertizarea.
-- Verificați folderul junk sau spam din e-mailul dvs.
+- Dacă **toate avertizările** de la mai multe [](https://portal.office.com/adminportal/home?ref=/servicehealth) fișiere sau biblioteci sunt întârziate, vizitați tabloul de bord Starea serviciilor pentru a vedea dacă există avertizări/incidente care pot apărea în SharePoint sau Exchange.
+- Dacă **o avertizare individuală de la un anumit fișier sau bibliotecă nu este livrată,** încercați să o ștergeți și să o creați din nou. Consultați [Gestionarea, vizualizarea sau ștergerea avertizărilor SharePoint pentru](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) a crea din nou avertizarea.
+- Verificați folderul Nedorit sau Spam din e-mail.
 
 > [!NOTE]
-> - Avertizările nu pot fi trimise unui grup de distribuire. Sunt acceptate doar grupurile de securitate și O365.
-> - Nu puteți personaliza șabloanele de e-mail de avertizare. Trebuie să utilizați fluxul de lucru Microsoft Flow sau SharePoint Designer pentru a le atinge.
+> - Avertizările nu pot fi trimise la un grup de distribuire. Doar grupurile Securitate și O365 sunt acceptate.
+> - Nu puteți particulariza șabloanele de e-mail de avertizare. Trebuie să utilizați Microsoft Flow sau SharePoint Designer Workflow pentru a le obține.

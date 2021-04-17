@@ -2,7 +2,7 @@
 title: Cuprins
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758041"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831062"
 ---
 # <a name="table-of-contents"></a>Cuprins
 
-Pentru informații despre crearea unui cuprins în Word, consultați [Inserarea unui](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)cuprins sau descărcarea [tutorialului](https://go.microsoft.com/fwlink/?linkid=2065106)nostru cuprins.
+Pentru informații despre crearea unui cuprins în Word, [consultați](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)Inserarea unui cuprins sau descărcați tutorialul nostru [pentru Cuprins.](https://go.microsoft.com/fwlink/?linkid=2065106)
 
-**Soluții la probleme comune**
+**Soluții la probleme obișnuite**
 
 - Cuprinsul nu conține titlul pe care tocmai l-ați adăugat la document.
-  1. Selectați textul titlului, accesați stiluri de **pornire**  >  **Styles**și verificați dacă se aplică un stil la titlu.
-  2. Accesați **References**  >  **tabelul actualizare** referințe pentru a actualiza cuprinsul.
+  1. Selectați textul titlului, accesați   >  **Stiluri pornire** și verificați dacă s-a aplicat un stil la titlu.
+  2. Accesați tabelul **Actualizare**  >  **referințe** pentru a actualiza cuprinsul.
 
 - Cuprinsul afișează prea mult text. 
-  1. Selectați textul paragrafului, apoi accesați stiluri de **pornire**  >  **Styles**.
-  2. Selectați un stil, cum ar fi **normal**, care nu este inclus în cuprins.
+  1. Selectați textul paragrafului, apoi accesați **Stiluri**  >  **pornire**.
+  2. Selectați un stil, **cum ar fi Normal,** care nu este inclus în cuprins.
