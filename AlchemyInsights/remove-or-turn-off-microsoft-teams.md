@@ -1,8 +1,8 @@
 ---
-title: Eliminarea sau dezactivarea Microsoft teams
+title: Eliminarea sau dezactivarea Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: b40446cb7ed0c979c9b5bda3c7ff421f314d39a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f50c22952a26b62b1af01a5a94ae334d7aff529
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776462"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828812"
 ---
-# <a name="remove-or-turn-off-microsoft-teams"></a>Eliminarea sau dezactivarea Microsoft teams
+# <a name="remove-or-turn-off-microsoft-teams"></a>Eliminarea sau dezactivarea Microsoft Teams
 
-Organizația dumneavoastră nu este încă pregătită să [colaboreze sau să lucreze la distanță cu Microsoft teams](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?
+Organizația dvs. nu este încă gata să [colaboreze sau să lucreze de la distanță cu Microsoft Teams?](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)
 
-- Cum se [dezinstalează Microsoft teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
+- Cum să [dezinstalați Microsoft Teams.](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81)
 
-- [Cum să activați sau să dezactivați teams pentru întreaga organizație](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).
+- [Cum să activați sau să dezactivați Teams pentru întreaga organizație](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).
 
-- [Împiedicați echipele să pornească automat din fereastra 10, eliminând-o din meniul pornire](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).
+- [Împiedicați Teams să înceapă automat din Fereastra 10, eliminând-o din meniul de pornire](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).
 
-- [Utilizați Politica de grup pentru a controla instalarea Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).
+- [Utilizați Politica de grup pentru a controla instalarea Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)
 
-- [Utilizați Politica de grup pentru a împiedica pornirea automată a Microsoft teams după instalare](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+- [Utilizați Politica de grup pentru a împiedica Microsoft Teams să înceapă automat după instalare](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
-- [Computere partajate și medii VDI cu Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+- [Computer partajat și medii VDI cu Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)

@@ -2,21 +2,22 @@
 title: Plata dvs. a fost refuzată
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161018"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829064"
 ---
 # <a name="your-payment-was-declined"></a>Plata dvs. a fost refuzată
 
@@ -24,20 +25,31 @@ Microsoft va încerca de mai multe ori să vă taxeze pe card în 3-4 săptămâ
 
 **Important**: dacă ați adăugat un card nou și primiți în continuare o notificare de refuz pentru vechiul card de credit, poate fi necesar să asociați acel card nou cu abonamentul.
 
-1. Accesați **Facturare > [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Înlocuiți metoda de plată pentru toate elementele**
 
-2. Selectați abonamentul pentru care doriți să plătiți cu noul card sau cont bancar. În secțiunea **Facturare**, lângă metoda de plată, faceți clic pe **Editare**.
+1. În centrul de administrare, accesați pagina **Facturare** > **Facturi și plăți** > [Metode de plată](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Faceți clic pe **Modificare** lângă metoda de plată curentă.
+2. Selectați rândul metodei de plată de înlocuit. Panoul din dreapta listează toate profilurile de facturare și abonamentele individuale care utilizează metoda de plată selectată.
 
-4. Din meniul vertical, selectați o metodă alternativă de plată sau adăugați o metodă de plată nouă.
+3. În panoul din dreapta, selectați **Înlocuiți metoda de plată pentru toate elementele**.
 
-**Actualizarea sau adăugarea unei noi metode de plată**
+4. Pentru a utiliza o metodă de plată existentă, alegeți una din lista verticală, apoi selectați **Înlocuire**.
 
-1. Accesați pagina **Facturi > Facturare și plăți > [Metode de plată](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe pagina **Metode de plată**, acestea nu sunt disponibile pentru selectare în lista verticală.
 
-2. Faceți clic pe **Adăugați o metodă de plată**, alegeți cardul sau contul bancar de actualizat și faceți clic pe **Editare**.
+5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați metodă de plată**.
 
-3. Actualizați informațiile metodei de plată (numele de pe card sau din contul bancar, adresa de facturare, numărul de telefon sau data de expirare), apoi faceți clic pe **Salvare**.
+6. În panoul **Adăugați o metodă de plată**, introduceți informațiile despre cont, apoi selectați **Salvare**. Trebuie să utilizați o metodă de plată din aceeași țară ca entitatea dvs. găzduită.
 
-4. Nu uitați să schimbați modul în care plătiți pentru abonamentul dvs. la această nouă metodă de plată. Pentru informații suplimentare, consultați [Adăugați, actualizați sau eliminați metode de plată](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Noua metodă de plată este deja selectată în lista verticală. Selectați **Înlocuire**.
+
+**Actualizați detaliile metodei de plată**
+
+1. În centrul de administrare, accesați pagina **Facturare** > **Facturi și plăți** > [Metode de plată](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Selectați rândul metodei de plată de actualizat. În panoul din dreapta, selectați **Editare**.
+
+3. Actualizați informațiile despre metoda de plată, inclusiv numele de pe cardul de credit sau de debit, adresa de facturare sau data expirării, apoi selectați **Salvare**.
+
+Pentru a afla mai multe, consultați [Gestionați metodele de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

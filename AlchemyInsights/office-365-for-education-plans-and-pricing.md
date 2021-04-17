@@ -1,8 +1,8 @@
 ---
-title: Office 365 pentru planuri și prețuri pentru educație
+title: Planurile Office 365 pentru educație și prețurile acestora
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729595"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829604"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Obțineți Microsoft 365 gratuit pentru întreaga școală
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Obțineți gratuit Microsoft 365 pentru întreaga școală
 
-Îmbunătățiți colaborarea în săli de clasă și școlare cu instrumente de productivitate gratuite. Va trebui să verificați dacă sunteți o instituție academică acreditată pentru a profita de aceste oferte.
+Îmbunătățiți colaborarea în clasă și la școală cu instrumente de productivitate gratuite. Va trebui să verificați că sunteți o instituție academică acreditată pentru a beneficia de aceste oferte.
   
-- [Revizuirea planurilor educaționale](https://products.office.com/academic/compare-office-365-education-plans)
+- [Revizuiți planurile pentru educație](https://products.office.com/academic/compare-office-365-education-plans)
 
 - [Comparați toate abonamentele Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
