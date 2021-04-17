@@ -1,8 +1,8 @@
 ---
-title: Gestionarea unui utilizator sincronizat
+title: Gestionare utilizator sincronizat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451412"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823979"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="3aeee-102">Nu puteți să setați adresa de e-mail principală, să modificați atributele utilizatorilor sau să eliminați/să ștergeți un utilizator sincronizat</span><span class="sxs-lookup"><span data-stu-id="3aeee-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="6c36b-102">Imposibil de setat adresa de e-mail principală, de a modifica atributele de utilizator sau de a elimina/șterge un utilizator sincronizat</span><span class="sxs-lookup"><span data-stu-id="6c36b-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
 
-<span data-ttu-id="3aeee-103">Dacă sincronizarea directoarelor este activată pentru mediul dvs., unele atribute de utilizator sau obiect nu pot fi modificate utilizând Centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="3aeee-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="6c36b-103">Dacă sincronizarea directorului este activată pentru mediul dvs., unele atribute de utilizator sau obiect nu pot fi modificate utilizând Centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6c36b-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="3aeee-104">Pentru a gestiona pe deplin utilizatorii sincronizați și toate atributele lor, utilizați consola de gestionare a utilizatorilor și grupurilor Active Directory locale (ADSIEdit. msc).</span><span class="sxs-lookup"><span data-stu-id="3aeee-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
+<span data-ttu-id="6c36b-104">Pentru a gestiona complet utilizatorii sincronizați și toate atributele lor, utilizați utilizatorii Local Active Directory și consola de gestionare a grupurilor (adsiedit.msc).</span><span class="sxs-lookup"><span data-stu-id="6c36b-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
 
-<span data-ttu-id="3aeee-105">Ca alternativă, puteți să modificați utilizatori individuali sau atribute pentru utilizatorii sincronizați utilizând PowerShell, cum ar fi afișate în aceste exemple comune:</span><span class="sxs-lookup"><span data-stu-id="3aeee-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span>
+<span data-ttu-id="6c36b-105">Alternativ, puteți modifica utilizatorii individuali sau atributele pentru utilizatorii sincronizați folosind powershell, cum ar fi cele afișate în aceste exemple comune:</span><span class="sxs-lookup"><span data-stu-id="6c36b-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span>
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

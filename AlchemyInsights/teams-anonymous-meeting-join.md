@@ -1,8 +1,8 @@
 ---
-title: Permiteți sau Împiedicați utilizatorii anonimi să se asocieze la întâlnirile teams
+title: Permiteți sau împiedicați utilizatorii anonimi să se alăture întâlnirilor Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824771"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="a6223-102">Permiteți sau Împiedicați utilizatorii anonimi să se asocieze la întâlnirile teams</span><span class="sxs-lookup"><span data-stu-id="a6223-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="bf518-102">Permiteți sau împiedicați utilizatorii anonimi să se alăture întâlnirilor Teams</span><span class="sxs-lookup"><span data-stu-id="bf518-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
 
-<span data-ttu-id="a6223-103">Puteți să controlați setările de asociere anonime la întâlnire în centrul de administrare teams.</span><span class="sxs-lookup"><span data-stu-id="a6223-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
+<span data-ttu-id="bf518-103">Puteți controla setările de asociere la întâlniri anonime în Centrul de administrare Teams.</span><span class="sxs-lookup"><span data-stu-id="bf518-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
 
-<span data-ttu-id="a6223-104">**Este posibil să dureze până la 24 de ore pentru ca această modificare să aibă efect.**</span><span class="sxs-lookup"><span data-stu-id="a6223-104">**It may take up to 24 hours for this change to take effect.**</span></span>
+<span data-ttu-id="bf518-104">**Poate dura până la 24 de ore pentru ca această modificare să aibă efect.**</span><span class="sxs-lookup"><span data-stu-id="bf518-104">**It may take up to 24 hours for this change to take effect.**</span></span>
 
-1.  <span data-ttu-id="a6223-105">Accesați centrul de [administrare teams](https://admin.teams.microsoft.com)</span><span class="sxs-lookup"><span data-stu-id="a6223-105">Go to the [Teams admin center](https://admin.teams.microsoft.com)</span></span>
-2.  <span data-ttu-id="a6223-106">În navigarea stângă, accesați **Meetings**   >   **Setări întâlnire**întâlniri.</span><span class="sxs-lookup"><span data-stu-id="a6223-106">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
-3.  <span data-ttu-id="a6223-107">Sub  **participanți**, activați  **utilizatorii anonimi se pot asocia la o întâlnire**.</span><span class="sxs-lookup"><span data-stu-id="a6223-107">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
+1.  <span data-ttu-id="bf518-105">Accesați Centrul [de administrare Teams](https://admin.teams.microsoft.com)</span><span class="sxs-lookup"><span data-stu-id="bf518-105">Go to the [Teams admin center](https://admin.teams.microsoft.com)</span></span>
+2.  <span data-ttu-id="bf518-106">În navigarea stângă, accesați Setările   >   **întâlnirilor**.</span><span class="sxs-lookup"><span data-stu-id="bf518-106">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
+3.  <span data-ttu-id="bf518-107">Sub **Participanți,** activați Utilizatorii **anonimi se pot alătura la o întâlnire.**</span><span class="sxs-lookup"><span data-stu-id="bf518-107">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
