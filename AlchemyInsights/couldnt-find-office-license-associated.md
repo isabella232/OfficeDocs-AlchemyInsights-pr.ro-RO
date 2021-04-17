@@ -1,8 +1,8 @@
 ---
-title: Remedierea aplicațiilor Microsoft 365 nu a găsit mesaje asociate cu licențe Office
+title: Remedierea aplicațiilor Microsoft 365 nu a putut găsi mesajul asociat de licențe Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: bd127d6287b4438f6105a6158abdbd5b964b7e70
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d717fce77de2f55dfc983d42b7f8d46a8c212e7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747707"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816500"
 ---
-# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a><span data-ttu-id="093b5-102">Remedierea aplicațiilor Microsoft 365 "nu s-a putut găsi mesajul de licență Office asociat"</span><span class="sxs-lookup"><span data-stu-id="093b5-102">Fixing the Microsoft 365 apps "Couldn't find office licenses associated" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a><span data-ttu-id="d4c7f-102">Remedierea mesajului "Nu am putut găsi licențele Office asociate" pentru aplicațiile Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d4c7f-102">Fixing the Microsoft 365 apps "Couldn't find office licenses associated" message</span></span>
 
-<span data-ttu-id="093b5-103">Dacă primiți acest mesaj, încercați următoarele:</span><span class="sxs-lookup"><span data-stu-id="093b5-103">If you receive this message, try the following:</span></span>
+<span data-ttu-id="d4c7f-103">Dacă primiți acest mesaj, încercați următoarele:</span><span class="sxs-lookup"><span data-stu-id="d4c7f-103">If you receive this message, try the following:</span></span>
 
-1. <span data-ttu-id="093b5-104">Verificați firewallul, software-ul antivirus și setările proxy pentru a confirma că nu blochează accesul la internet la aplicațiile Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="093b5-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Microsoft 365 apps.</span></span> <span data-ttu-id="093b5-105">Consultați [adresele URL și intervalele de adrese IP Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span><span class="sxs-lookup"><span data-stu-id="093b5-105">See [Microsoft 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
-2. <span data-ttu-id="093b5-106">Eliminați și [reatribuiți licența Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) pentru utilizatorul afectat.</span><span class="sxs-lookup"><span data-stu-id="093b5-106">Remove and [reassign the Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.</span></span> 
-3. <span data-ttu-id="093b5-107">Deschideți o aplicație Office și [deconectați-vă](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de la orice conturi de utilizator existente.</span><span class="sxs-lookup"><span data-stu-id="093b5-107">Open an Office app and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>
-4. <span data-ttu-id="093b5-108">Accesați Setări Windows > **Conturi**  >  de**e-mail &** conturi și eliminați toate conturile de lucru, cu excepția contului afectat.</span><span class="sxs-lookup"><span data-stu-id="093b5-108">Go to Windows Settings > **Accounts** > **Email & accounts**, and remove all work accounts except the affected account.</span></span>
-5. <span data-ttu-id="093b5-109">Accesați Setări Windows > **Conturi**  >  de**acces la locul de muncă sau de la școală**și deconectați toate conturile de lucru, cu excepția contului afectat.</span><span class="sxs-lookup"><span data-stu-id="093b5-109">Go to Windows Settings > **Accounts** > **Access work or school**, and disconnect all work accounts except the affected account.</span></span>
-6. <span data-ttu-id="093b5-110">Reinițializați starea de activare Office.</span><span class="sxs-lookup"><span data-stu-id="093b5-110">Reset the Office activation state.</span></span> <span data-ttu-id="093b5-111">[Aflați cum](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="093b5-111">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
-7. <span data-ttu-id="093b5-112">[Conectați-vă](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) utilizând contul de utilizator afectat.</span><span class="sxs-lookup"><span data-stu-id="093b5-112">[Sign in](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) using the affected user account.</span></span>
+1. <span data-ttu-id="d4c7f-104">Verificați setările pentru firewall, software antivirus și proxy pentru a confirma că nu blochează accesul la internet la aplicațiile Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Microsoft 365 apps.</span></span> <span data-ttu-id="d4c7f-105">Consultați [Adrese URL și intervale de adrese IP Microsoft 365.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="d4c7f-105">See [Microsoft 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
+2. <span data-ttu-id="d4c7f-106">Eliminați [și reatribuiți licența Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) pentru utilizatorul afectat.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-106">Remove and [reassign the Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.</span></span> 
+3. <span data-ttu-id="d4c7f-107">Deschideți o aplicație Office și [deconectați-vă de](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) la orice conturi de utilizator existente.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-107">Open an Office app and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>
+4. <span data-ttu-id="d4c7f-108">Accesați Setări Windows > **Conturi** de & conturi de e-mail și eliminați toate conturile de la  >  locul de muncă, cu excepția contului afectat.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-108">Go to Windows Settings > **Accounts** > **Email & accounts**, and remove all work accounts except the affected account.</span></span>
+5. <span data-ttu-id="d4c7f-109">Accesați Setări Windows > Accesați contul de la **locul de** muncă sau de la școală și deconectați toate conturile de la locul de  >  muncă, cu excepția contului afectat.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-109">Go to Windows Settings > **Accounts** > **Access work or school**, and disconnect all work accounts except the affected account.</span></span>
+6. <span data-ttu-id="d4c7f-110">Reinițializați starea de activare Office.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-110">Reset the Office activation state.</span></span> <span data-ttu-id="d4c7f-111">[Aflați cum](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="d4c7f-111">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
+7. <span data-ttu-id="d4c7f-112">[Conectați-vă](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) utilizând contul de utilizator afectat.</span><span class="sxs-lookup"><span data-stu-id="d4c7f-112">[Sign in](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) using the affected user account.</span></span>
 
-<span data-ttu-id="093b5-113">Pentru soluții suplimentare de depanare, consultați [produse nelicențiate și erori de activare în Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="093b5-113">For additional troubleshooting solutions, see [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>
+<span data-ttu-id="d4c7f-113">Pentru soluții de depanare suplimentare, consultați Erorile de activare și ["Produs nelicențiat" în Office.](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)</span><span class="sxs-lookup"><span data-stu-id="d4c7f-113">For additional troubleshooting solutions, see [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>
