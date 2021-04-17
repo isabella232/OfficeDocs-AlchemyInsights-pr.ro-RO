@@ -1,8 +1,8 @@
 ---
-title: Nu puteți accesa folderele publice
+title: Imposibil de accesat folderele publice
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812559"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819524"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook nu se poate conecta la folderele publice
 
-Dacă accesul la foldere publice nu funcționează pentru unii utilizatori, încercați următoarele:
+Dacă accesul la folderele publice nu funcționează pentru unii utilizatori, încercați următoarele:
 
-Conectați-vă la EXO PowerShell și configurați parametrul DefaultPublicFolderMailbox pe contul de utilizator al problemei pentru a se potrivi cu parametrul pentru un cont de utilizator care funcționează.
+Conectați-vă la EXO PowerShell și configurați parametrul DefaultPublicFolderMailbox pe contul de utilizator problemă pentru a se potrivi cu parametrul unui cont de utilizator care lucrează.
 
-Exemplu
+Exemplu:
 
-WorkingUser de primire a cutiei poștale | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-cutia poștală ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
 Așteptați cel puțin o oră pentru ca modificarea să aibă efect.
 
-Dacă problema rămâne, vă rugăm să urmați [această procedură](https://aka.ms/pfcte) pentru a depana problemele de acces la foldere publice utilizând Outlook.
+Dacă problema rămâne, urmați această procedură pentru [a depana](https://aka.ms/pfcte) problemele de acces la folderele publice utilizând Outlook.
  
-**Pentru a controla ce utilizatori pot accesa folderele publice utilizând Outlook**:
+**Pentru a controla ce utilizatori pot accesa folderele publice utilizând Outlook:**
 
-1.  Utilizați Set-CASMailbox <mailboxname> -PublicFolderClientAccess $True sau $false  
+1.  Utilizarea Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true sau $false  
       
-    $true: Permiteți utilizatorilor să acceseze folderele publice în Outlook  
+    $true: Permiteți utilizatorilor să acceseze foldere publice în Outlook  
       
-    $false: împiedicați accesul utilizatorilor la foldere publice în Outlook. Aceasta este valoarea implicită.  
+    $false: Împiedicarea accesului utilizatorilor la folderele publice în Outlook. Aceasta este valoarea implicită.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Notă** Această procedură poate controla conexiunile doar cu clienții Outlook desktop pentru Windows. Un utilizator poate continua să acceseze foldere publice folosind OWA sau Outlook pentru Mac.
+**Notă** Această procedură poate controla conexiunile doar cu clienții Outlook pentru desktop pentru Windows. Un utilizator poate continua să acceseze folderele publice utilizând OWA sau Outlook pentru Mac.
  
-Pentru mai multe informații, consultați [anunțarea acceptării conexiunilor controlate la foldere publice în Outlook](https://aka.ms/controlpf).
+Pentru mai multe informații, [consultați Anunțarea suportului pentru Conexiuni controlate la folderele publice din Outlook.](https://aka.ms/controlpf)

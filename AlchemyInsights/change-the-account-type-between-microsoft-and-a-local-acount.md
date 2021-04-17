@@ -2,7 +2,7 @@
 title: Modificarea tipului de cont între contul Microsoft și contul local
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818444"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Modificarea tipului de cont cu care vă conectați
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Modificați tipul de cont cu care vă conectați
 
 Iată cum să modificați tipul de cont pe care îl utilizați pentru a vă conecta la Windows 10:
 
-1. Selectați **Start**  >  **Setări**pornire  >  **Conturi**  >  **informațiile dumneavoastră**.
-2. Dacă utilizați un cont local care nu este legat la o adresă de e-mail, dar doriți să utilizați un cont Microsoft, selectați **Conectați-vă în schimb cu un cont Microsoft**.
-3. Dacă utilizați un cont Microsoft care este legat la o adresă de e-mail, dar doriți să utilizați un cont local, selectați **Conectați-vă în schimb cu un cont local**.
+1. Selectați **Start**  >  **Setări**  >  **Conturi**  >  **Informațiile dvs.**.
+2. Dacă utilizați un cont local care nu este legat la o adresă de e-mail, dar doriți să utilizați un cont Microsoft, selectați Conectați-vă cu un **cont Microsoft în schimb.**
+3. Dacă utilizați un cont Microsoft legat la o adresă de e-mail, dar doriți să utilizați un cont local, selectați Conectați-vă cu **un cont local în schimb.**
 4. Dacă este necesar, introduceți parola, apoi selectați **Următorul**.
-5. Reporniți dispozitivul. Data viitoare când vă conectați, contul pe care l-ați comutat va fi afișat.
+5. Reporniți dispozitivul. Data viitoare când vă conectați, contul la care comutați va fi afișat.

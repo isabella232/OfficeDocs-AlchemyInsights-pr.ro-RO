@@ -1,8 +1,8 @@
 ---
-title: Modificarea fundalului pentru ecranul de blocare
+title: Schimbarea fundalului pentru ecranul de blocare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714484"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818120"
 ---
-# <a name="change-your-lock-screen-background"></a>Modificarea fundalului pentru ecranul de blocare
+# <a name="change-your-lock-screen-background"></a>Schimbarea fundalului pentru ecranul de blocare
 
-- Accesați ecranul **Settings**de  >  **Personalization**  >  **blocare**Personalizare setări. Sau faceți clic pe sau atingeți [aici](ms-settings:lockscreen?activationSource=GetHelp).
+- Accesați ecranul **de**  >  **blocare Personalizare**  >  **setări.** Sau faceți clic sau atingeți [aici](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Pentru a seta o imagine de fundal particularizată, selectați **imagine** din lista verticală **fundal** și alegeți sau **Răsfoiți** la imagine.
+- Pentru a seta o imagine de fundal **particularizată, selectați** **Imagine** din lista verticală Fundal, apoi alegeți **sau Răsfoire** la imagine.
 
   ![Setați o imagine de fundal particularizată.](media/set-custom-background-pic.png)
 
-- Pentru a configura o expunere de diapozitive cu imagini particularizate, selectați **Prezentare** din lista verticală **fundal** și alegeți un album sau adăugați un folder care conține imaginile pentru expunerea de diapozitive.
+- Pentru a configura o expunere de  diapozitive cu  imagini particularizate, selectați Expunere de diapozitive din lista verticală Fundal și alegeți un album sau adăugați un folder care conține imaginile pentru prezentarea de diapozitive.
 
-  ![Configurați o expunere de diapozitive cu imagini particularizate.](media/set-up-slideshow-background.png)
+  ![Configurarea unei expuneri de diapozitive cu imagini particularizate.](media/set-up-slideshow-background.png)

@@ -2,7 +2,7 @@
 title: Anularea rezervării
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807992"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819704"
 ---
 # <a name="cancelling-reservation"></a>Anularea rezervării
 
-- **Cu** autoservire: Puteți să anulați sau să schimbați singur o instanță rezervată utilizând [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervarea și faceți clic pe rambursare sau pe Exchange. Rețineți că trebuie să aveți acces proprietar în ordinea rezervării, pentru a face schimb sau a rambursa. Accesul la rezervare nu vă va permite să continuați cu rambursarea sau schimbul. Solicitați proprietarului comenzii de rezervare să vă ofere accesul proprietarului la comanda de rezervare
-- **Politica Exchange:** Puteți face schimb de rezervări pentru o altă rezervare de același tip – nu există **penalități** la schimbul de rezervări. Angajamentul total al rezervării noi ar trebui să fie mai mare decât suma rambursată a rezervării și a plăților lunare viitoare (dacă este cazul)
-- **Politica de rambursare:** Suma restituirilor și plățile viitoare anulate nu pot depăși $50.000 USD într-o fereastră rulantă de 12 luni. **În prezent nu percepem nicio sancțiune** pentru rambursări, dar o putem percepe pentru rambursări viitoare  
-    **Excepții:** Capacitățile Exchange și anulare cu autoservire nu sunt disponibile pentru clienții din acordul de întreprindere guvernamentală din S.U.A.
-- Asistența **API/PS/CLI** nu este disponibilă pentru anularea și rambursarea [schimburilor și restituirilor cu autoservire pentru rezervări Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Capacitățile Exchange și anulare cu autoservire nu sunt disponibile pentru clienții din acordul de întreprindere guvernamentală din SUA. Alte tipuri de abonamente pentru instituții guvernamentale din SUA, inclusiv plățile în timp și CSP sunt acceptate
+- **Autoservire:** puteți să anulați sau să schimbați singur o instanță rezervată, utilizând [portalul Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervarea și faceți clic pe rambursare sau schimb. Rețineți că trebuie să aveți acces de proprietar la comanda de rezervare pentru a realiza schimbul sau rambursarea. Accesul doar la rezervare nu vă va permite să continuați cu rambursarea sau schimbul. Solicitați-i proprietarului comenzii de rezervare să vă ofere acces de proprietar la comanda de rezervare
+- **Politică de schimb:** Puteți să schimbați o rezervare cu o altă rezervare de același tip; nu există **nicio penalizare** pentru schimbul de rezervare. Totalul angajat cu noua rezervare ar trebui să fie mai mare decât suma dintre rambursarea rezervării schimbate și plățile lunare viitoare (dacă este cazul)
+- **Politica de rambursare:** suma rambursării și plățile viitoare anulate nu pot depăși 50.000 de USD într-o perioadă rulantă de 12 luni. Momentan **nu percepem nicio taxă de penalizare** pentru rambursări, dar am putea să o percepem pentru rambursări viitoare  
+    **Excepții:** schimbul cu autoservire și capacitatea de anulare nu sunt disponibile pentru clienții US Government Enterprise Agreement
+- Asistența **API/PS/CLI** nu este disponibilă pentru anulare și [schimburi cu autoservire ale rambursărilor pentru rezervările Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Schimbul cu autoservire și capacitatea de anulare nu sunt disponibile pentru clienții US Government Enterprise Agreement. Alte tipuri de abonamente pentru Guvernul SUA, inclusiv Plătiţi pe măsură ce vorbiţi și CSP, sunt acceptate
 
-Aflați mai multe: [cum sunt prelucrate tranzacțiile de returnare și Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Aflați mai multe: [politicile pentru Exchange și rambursare](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Alte întrebări: [accesați documentele de instanță rezervate](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Aflați mai multe: [Cum sunt procesate tranzacțiile de schimb și de restituire](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Aflați mai multe: [Politicile de schimb și de rambursare](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Alte întrebări:[Consultați documente pentru instanța rezervată](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Schimbul unei instanțe rezervate existente (cu autoservire)**
+**Schimbați o instanță rezervată existentă (autoservire)**
 
-Puteți face schimb de rezervări pentru o altă rezervare de același tip. De asemenea, puteți să returnați o rezervare, de până la $50.000 USD pe an, dacă nu mai aveți nevoie de el. Capacitățile Exchange și anulare cu autoservire nu sunt disponibile pentru clienții din acordul de întreprindere guvernamentală din SUA. Alte tipuri de abonamente pentru guvern din SUA, inclusiv plățile în timp și CSP, sunt acceptate. Trebuie să aveți acces proprietar în ordinea rezervării pentru a face schimb de taxe sau pentru a rambursa o rezervare existentă.
+Puteți să schimbați o rezervare cu o altă rezervare de același tip. De asemenea, puteți să rambursați o rezervare de până la 50.000 de USD anual, dacă nu mai aveți nevoie de aceasta. Schimbul cu autoservire și capacitatea de anulare nu sunt disponibile pentru clienții US Government Enterprise Agreement. Alte tipuri de abonamente pentru Guvernul SUA, inclusiv Plătiţi pe măsură ce vorbiţi și CSP, sunt acceptate. Rețineți că trebuie să aveți acces de proprietar la comanda de rezervare pentru a schimba sau a rambursa o rezervare existentă.
 
-Următorii pași vor ghida procedura de terminare a tranzacției
+Pașii următori vor oferi orientări cu privire la procedura de finalizare a tranzacției
 
-1. Conectați-vă la [portalul Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervările pe care doriți să le rambursați și faceți clic pe **Exchange**
-2. Selectați produsul VM pe care doriți să-l achiziționați și tastați o cantitate. Asigurați-vă că noul total de achiziție este mai mare decât totalul de returnare [determină dimensiunea potrivită înainte de a cumpăra](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
-3. Revizuirea și finalizarea tranzacției
+1. Conectați-vă la [portalul Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervările pe care doriți să le rambursați și faceți clic pe **Schimb**
+2. Selectați produsul VM pe care doriți să-l achiziționați și tastați o cantitate. Asigurați-vă că noul total al achiziției este mai mare decât totalul restituit [Stabiliți dimensiunea corectă înainte de achiziționare](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3. Revizuiți și finalizați tranzacția
 
-**Rambursarea unei instanțe rezervate**
+**Rambursați o instanță rezervată**
 
-Pentru a rambursa o rezervare, accesați **detaliile rezervării** și faceți clic pe **rambursare**
+Pentru a rambursa o rezervare, accesați **Detalii rezervare** și faceți clic pe **Rambursare**
 
-**Rambursare pro-nominală:**
+**Rambursare proporțională:**
 
-**Exemple Pro-rație și cerințe minime pentru rambursare și Exchange**  
-Exemplu de rezervare în avans:
+**Exemple de tarifare fracționară și cerințe minime pentru rambursare și schimb**  
+Exemplu de rezervare în prealabil:
 
-- Achiziționați un termen de un an RI pentru $120 pe 1 ianuarie
-- Pe 7 aprilie doriți să returnați sau să schimbați această rezervare
-- Deoarece rezervarea a fost în direct pentru 97 de zile, veți primi (1-97/365) * $120 înapoi. (de exemplu, $88,1). În prezent nu există nicio sancțiune pentru rambursări
-- Dacă faceți schimb de focuri, noua achiziție trebuie să fie mai mare decât $88,1
-- Nu există nicio sancțiune în ceea ce privește rambursările în prezent
+- La 1 ianuarie, achiziționați o instanță de rezervare (RI) de un an pentru 120 de USD
+- Pe 7 aprilie, doriți să rambursați sau să schimbați această rezervare
+- Deoarece rezervarea a fost activă timp de 97 de zile, veți primi înapoi (1-97/365) * 120 de USD. (adică 88,1 USD). În prezent, nu există nicio penalizare pentru rambursări
+- Dacă realizați un schimb, noua achiziție ar trebui să fie mai mare de 88,1 USD
+- În prezent, nu există nicio penalizare pentru rambursări
 
-**Exemplu de rezervare a planului de facturare:**
+**Exemplu de rezervare a planului de tarifare:**
 
-- Achiziționați un termen de un an RI pentru $10 pe lună
-- Pe 7 aprilie doriți să returnați sau să schimbați această rezervare
-- Deoarece ultima plată a avut loc 7 zile, veți primi (1-7/31) * $10 înapoi. (de exemplu, $7,74)
-- Plățile viitoare anulate sunt $80. În prezent nu există nicio sancțiune pentru rambursări
-- Această anulare va deduce $87,74 de la dumneavoastră sunteți limita de rambursare $50.000
-- Dacă faceți schimb de valori, valoarea totală a achiziției noi trebuie să fie mai mare decât $87,74
+- Achiziționați o instanță de rezervare (RI) de un an pentru 10 USD pe lună
+- Pe 7 aprilie, doriți să rambursați sau să schimbați această rezervare
+- Deoarece ultima plată a avut loc în urmă cu 7 zile, veți primi înapoi (1-7/31) * 10 USD. (adică 7,74 USD).
+- Plățile viitoare anulate sunt de 80 USD. În prezent, nu există nicio penalizare pentru rambursări
+- Această anulare va deduce suma de 87,74 USD din limita rambursării de 50.000 de USD
+- Dacă realizați un schimb, valoarea totală a noii achiziții ar trebui să fie mai mare de 87,74 USD
 
 **Documente recomandate**
 
-- [Cum sunt prelucrate tranzacțiile de returnare și Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Politici de schimb și rambursare](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Cum sunt procesate tranzacțiile de schimb și de rambursare](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Politicile de schimb și de rambursare](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

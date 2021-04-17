@@ -1,8 +1,8 @@
 ---
-title: Modificarea fundalului și culorilor pentru desktop
+title: Schimbați fundalul și culorile desktopului
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793734"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818156"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Modificarea fundalului și culorilor pentru desktop
+# <a name="change-your-desktop-background-and-colors"></a>Schimbați fundalul și culorile desktopului
 
-Pentru a modifica setarea culorilor, accesați culori de personalizare a **Start**  >  **setărilor**  >  **Personalization**  >  **Colors**de pornire, apoi alegeți culoarea proprie sau permiteți Windows să tragă o culoare de accent din fundal.
+Pentru a schimba setarea pentru culori, accesați **Start** Setări Personalizare Culori , apoi alegeți propria culoare sau permiteți Windows să aleagă o culoare de  >    >    >  accent din fundal.
 
-![Personalizați-vă culorile în Windows.](media/windows-personalization-colors.png)
+![Personalizați culorile în Windows.](media/windows-personalization-colors.png)
 
-Pentru a vă schimba fundalul pentru desktop **Start**, accesați fundal de personalizare a  >  **setărilor**  >  **Personalization**  >  **Background**de pornire, apoi alegeți o imagine, o culoare solidă sau creați o expunere de diapozitive cu imagini. 
+Pentru a schimba fundalul desktopului, accesați **Start** Setări Personalizare fundal , apoi alegeți o imagine, o culoare solidă sau creați  >    >    >  o expunere de diapozitive cu imagini. 
 
-![Modificați fundalul pentru desktop Windows.](media/windows-desktop-background.png)
+![Schimbați fundalul desktopului Windows.](media/windows-desktop-background.png)
 
-Doriți mai multe fundaluri și culori pentru desktop? Vizitați [Magazinul Microsoft](https://www.microsoft.com/store/collections/windowsthemes) pentru a alege din zeci de teme gratuite.
+Doriți mai multe fundaluri și culori pentru desktop? Vizitați [Microsoft Store pentru](https://www.microsoft.com/store/collections/windowsthemes) a alege din zeci de teme gratuite.

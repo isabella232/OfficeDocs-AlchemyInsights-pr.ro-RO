@@ -1,8 +1,8 @@
 ---
-title: Modificarea profilului Organizației
+title: Modificați profilul organizației
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726408"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818552"
 ---
-# <a name="change-organization-profile"></a>Modificarea profilului Organizației
+# <a name="change-organization-profile"></a>Modificați profilul organizației
 
-Modificați numele firmei, adresa, informațiile de contact tehnice și multe altele în centrul de administrare din fila **Setări**  >    >  [organizație din profilul organizațional](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
+Modificați numele firmei, adresa, informațiile de contact tehnic și altele în centrul de administrare, pe **fila** Setări  >  **profil organizație** Setări  >  [organizație.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
 Asigurați-vă că completați toate câmpurile obligatorii marcate cu * pentru a permite salvarea modificărilor.
 
-[Vedeți mai multe informații despre modificările adresei sau ale adresei de facturare](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Aflați mai multe informații despre modificările adresei sau ale adresei de facturare.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)
