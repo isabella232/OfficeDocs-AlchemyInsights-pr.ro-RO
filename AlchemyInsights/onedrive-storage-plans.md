@@ -2,22 +2,23 @@
 title: Planuri de stocare OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002297"
 - "4450"
-ms.openlocfilehash: efa92b15e48546969276c3602022eaf67244fda6
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: db0cc383778a301b89e1d62babf2f2aa97e858a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599293"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832790"
 ---
-# <a name="onedrive-storage-plans"></a><span data-ttu-id="29a30-102">Planuri de stocare OneDrive</span><span class="sxs-lookup"><span data-stu-id="29a30-102">OneDrive storage plans</span></span>
+# <a name="onedrive-storage-plans"></a><span data-ttu-id="0ce63-102">Planuri de stocare OneDrive</span><span class="sxs-lookup"><span data-stu-id="0ce63-102">OneDrive storage plans</span></span>
 
-<span data-ttu-id="29a30-103">Aflați despre Planuri de stocare OneDrive</span><span class="sxs-lookup"><span data-stu-id="29a30-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="29a30-104">[Citiți mai multe](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="29a30-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
+<span data-ttu-id="0ce63-103">Aflați despre Planuri de stocare OneDrive</span><span class="sxs-lookup"><span data-stu-id="0ce63-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="0ce63-104">[Citiți mai multe](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="0ce63-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
