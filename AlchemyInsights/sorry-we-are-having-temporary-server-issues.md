@@ -1,8 +1,8 @@
 ---
-title: Remedierea aplicațiilor Microsoft 365 ne pare rău, avem mesaje temporare de probleme cu serverul
+title: Remedierea aplicațiilor Microsoft 365 Ne pare rău, avem mesaje de probleme temporare despre server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758257"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835283"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Remedierea aplicațiilor Microsoft 365 "Ne pare rău, avem probleme cu serverul temporare"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Remedierea aplicațiilor Microsoft 365 Cu mesajul "Ne pare rău, avem probleme temporare pe server"
 
 Dacă primiți acest mesaj, încercați următoarele:
 
-1. Verificați firewallul, software-ul antivirus și setările proxy pentru a confirma că nu blochează accesul la internet la aplicațiile Microsoft 365. Vedeți [adresele URL și intervalele de adrese IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Verificați setările pentru firewall, software antivirus și proxy pentru a confirma că nu blochează accesul la internet la aplicațiile Microsoft 365. Consultați [URL-uri și intervale de adrese IP.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Accesați **Start**  >  **Run**, apoi tastați **Services. msc**. Asigurați-vă că toate următoarele servicii sunt în execuție:
+2. Accesați **Start**  >  **Run**, apoi tastați **services.msc**. Asigurați-vă că toate serviciile următoare rulează:
     - Configurarea automată a dispozitivelor conectate la rețea
-    - Serviciu listă de rețele
-    - Conștientizarea locației rețelei
+    - Serviciul Listă de rețea
+    - Informații despre locația de rețea
     - Jurnal de evenimente Windows
 
-Dacă unul dintre aceste servicii nu rulează, încercați să-l porniți. Dacă aveți o problemă la pornirea serviciului, derulează următoarea comandă deschizând o linie de comandă cu permisiuni ridicate:
+Dacă unul dintre aceste servicii nu rulează, încercați să îl porniți. Dacă aveți o problemă la pornirea serviciului, rulați următoarea comandă deschizând o linie de comandă cu permisiuni cu drepturi înălțimii:
 
-**SFC/scannow**
+**sfc /scannow**
 
 După ce se termină această comandă, reporniți computerul.
 
-Pentru informații detaliate, consultați ["Ne pare rău, nu ne putem conecta la contul dvs. Vă rugăm să încercați din nou mai târziu "eroare la activare](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Pentru informații detaliate, [consultați "Ne pare rău, nu ne putem conecta la contul dvs. Încercați din nou mai târziu" atunci când activați.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

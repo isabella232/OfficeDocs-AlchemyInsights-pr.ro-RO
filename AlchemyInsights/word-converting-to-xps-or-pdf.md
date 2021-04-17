@@ -1,8 +1,8 @@
 ---
-title: Conversia Word în XPS sau PDF
+title: Word - Conversia la XPS sau PDF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794851"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834203"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Rezolvarea problemelor de conversie a unui document Word în XPS sau PDF
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Rezolvarea problemelor cu conversia unui document Word în XPS sau PDF
 
 Iată câteva soluții la problemele obișnuite. 
 
 **Pentru a exporta sau a salva un document Word ca PDF sau XPS:**
 
-1. În documentul Word, alegeți export **fișier**  >  **Export**  >  **Creare document PDF/XPS**  >  **Creați PDF/XPS**.
+1. În documentul Word, alegeți Export **fișier**  >    >  **Creare document PDF/XPS**  >  **Creare PDF/XPS.**
 
-2. În fereastra **Publicare ca PDF sau XPS** , răsfoiți la locația fișierului, modificați numele fișierului, dacă doriți, apoi alegeți **Publicare**.
+2. În fereastra Publicare ca PDF sau **XPS,** navigați la locația fișierului, modificați numele fișierului dacă vă place, apoi alegeți **Publicare.**
 
 **Pentru a îmbunătăți calitatea imaginii într-un fișier PDF generat de Word:**
 
-1. În documentul Word, alegeți export **fișier**  >  **Export**  >  **Creare document PDF/XPS**  >  **Creați PDF/XPS**.
+1. În documentul Word, alegeți Export **fișier**  >    >  **Creare document PDF/XPS**  >  **Creare PDF/XPS.**
 
-2. În fereastra **Publicare ca PDF sau XPS** , alegeți **Opțiuni**  >  **pentru optimizarea calității imaginii**. Setați orice alte opțiuni doriți și alegeți **OK**. 
+2. În fereastra **Publicare ca PDF sau XPS,** alegeți Opțiuni **Optimizare**  >  **pentru calitatea imaginii.** Setați orice alte opțiuni doriți și alegeți **OK.** 
 
 **Pentru a adăuga etichete de accesibilitate la un fișier PDF generat de Word:**
  
-1. În documentul Word, alegeți export **fișier**  >  **Export**  >  **Creare document PDF/XPS**  >  **Creați PDF/XPS**.
+1. În documentul Word, alegeți Export **fișier**  >    >  **Creare document PDF/XPS**  >  **Creare PDF/XPS.**
 
-2. În fereastra **Publicare ca PDF sau XPS** , alegeți **Opțiuni**  >  **etichete structură document pentru accesibilitate**. Setați orice alte opțiuni doriți și alegeți **OK**.
+2. În fereastra **Publicare ca PDF sau XPS,** alegeți Opțiuni etichete **de** structură a documentului  >  **pentru accesibilitate.** Setați orice alte opțiuni doriți și alegeți **OK.**
 
-Pentru mai multe informații despre opțiunile de conversie a fișierelor Office în XPS sau PDF, consultați [salvarea sau conversia la PDF sau XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Pentru mai multe informații despre opțiunile pentru conversia fișierelor Office în XPS sau PDF, consultați [Salvarea sau conversia la PDF sau XPS.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

@@ -2,7 +2,7 @@
 title: Configurarea unui monitor extern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773922"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835535"
 ---
 # <a name="set-up-one-monitor"></a>Configurarea unui monitor
 
 **Verificați setările de proiect ale PC-ului**
 
-1. Deschideți setările proiectului apăsând tastele următoare în același timp: tasta Windows (butonul de pornire siglă Windows) + P.
-2. Alegeți doar **dublură**, **Extindere**sau **ecran secundar**, în funcție de preferințele dvs.
+1. Deschideți setările proiectului apăsând în același timp următoarele taste: tasta Windows (butonul Start cu sigla Windows) + P.
+2. Alegeți **Dublare ,** Extindere sau **Doar pe Al doilea ecran**, în funcție de preferințe. 
 
 **Notă:** Dacă PC-ul are un singur port de afișare (cum ar fi HDMI sau VGA), veți avea nevoie de o stație de andocare sau de un adaptor USB pentru a configura mai multe monitoare.
 
-De asemenea, dacă puteți configura un monitor, dar nu multiplu, este posibil ca PC-ul să nu fie compatibil cu mai multe monitoare. Verificați documentele originale ale PC-ului pentru mai multe informații.
+De asemenea, dacă puteți configura un monitor, dar nu mai multe, ESTE posibil ca PC-ul să nu fie compatibil cu mai multe monitoare. Verificați documentele originale ale PC-ului pentru mai multe informații.

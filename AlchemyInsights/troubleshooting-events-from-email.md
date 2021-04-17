@@ -1,8 +1,8 @@
 ---
-title: Depanarea evenimentelor din E-mail
+title: Depanarea evenimentelor din e-mail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658746"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834851"
 ---
-# <a name="troubleshooting-events-from-email"></a>Depanarea evenimentelor din E-mail
+# <a name="troubleshooting-events-from-email"></a>Depanarea evenimentelor din e-mail
 
-1. Verificați dacă este activată caracteristica pentru cutia poștală: **Get-EventsFromEmailConfiguration <mailbox> -Identity**
+1. Verificați dacă este activată caracteristica pentru cutia poștală: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Apoi, uitați-vă la "evenimente din e-mailul" jurnalele de **Export-MailboxDiagnosticLogs <mailbox> -componenta TimeProfile**
+2. Apoi, verificați jurnalele "Evenimente din **e-mail" Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. În jurnalele "evenimente din E-mail", găsiți InternetMessageId care se potrivește cu elementul din cutia poștală.  
+3. În jurnalele "Evenimente din e-mail", găsiți InternetMessageId care se potrivește cu elementul din cutia poștală.  
 
-4. TrustScore determină dacă elementul este adăugat sau nu. Evenimentele vor fi adăugate doar dacă TrustScore = "de încredere".
+4. TrustScore determină dacă elementul este adăugat sau nu. Evenimentele vor fi adăugate doar dacă TrustScore = "Trusted".
 
-TrustScore este determinată de proprietățile SPF, DKIM sau DMARC, care se află în antetul mesajului.
+TrustScore este determinată de proprietățile SPF, Dkim sau Dmarc, care se află în Antetul mesajului.
 
 Pentru a vizualiza aceste proprietăți:
 
-**Outlook pentru desktop**
+**Desktop Outlook**
 
-- Deschiderea elementului
-- Fișier-> proprietăți-> anteturi de Internet
+- Deschideți elementul
+- File -> Properties -> Anteturi Internet
 
 sau
 
 **MFCMapi**
 
-- Navigarea la elementul din Inbox
-- Căutați PR_TRANSPORT_MESSAGE_HEADERS_W
+- Navigarea la elementul din inbox
+- Căutați un PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Aceste proprietăți sunt determinate și înregistrate în timpul transportului și rutare. Pentru depanarea ulterioară, poate fi necesar să urmăriți asistența pentru transport cu privire la erorile din SPF, DKIM și. or DMARC.
+Aceste proprietăți sunt determinate și înregistrate în timpul transportului și direcționării. Pentru depanare suplimentară, poate fi necesar să continuați cu asistența pentru transport cu privire la erorile din SPF, DKIM și.or DMARC.
