@@ -1,8 +1,8 @@
 ---
-title: Tastatură telefonică teams lipsește
+title: Tastatură vocală Teams lipsește
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 185c261311acc527b0f0469ef1d72ed00e56d17b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 6837cb9fffcf93a7fb99fec4c2343f476dd00599
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452060"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832358"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>Tastatura telefonică lipsește din Microsoft teams 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>Tastatură telefonică lipsește din Microsoft Teams 
 
-Dacă tastatura de apelare lipsește din Microsoft teams, vă rugăm să verificați următoarele:
+Dacă tastatură telefonică lipsește din Microsoft Teams, verificați următoarele:
 
 - Asigurați-vă că utilizatorului i s-a atribuit o[Licență Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
 - Asigurați-vă că utilizatorul are un [Plan de apelare](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atribuit.

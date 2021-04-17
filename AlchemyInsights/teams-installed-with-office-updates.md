@@ -2,7 +2,7 @@
 title: Teams instalat cu actualizări Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832394"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams instalat cu actualizări Office
+# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams instalat cu actualizări Office
 
-Microsoft teams este inclus în ***instalări noi*** de aplicații Microsoft 365 pentru întreprinderi, aplicații Microsoft 365 pentru firme și Office pentru Mac. Pentru mai multe informații, consultați [când va începe Microsoft teams să fie inclusă în instalări noi de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams este inclus  în noile instalări ale aplicațiilor Microsoft 365 pentru întreprinderi, ale aplicațiilor Microsoft 365 pentru firme și ale Office pentru Mac. Pentru mai multe informații, [consultați Când vor începe Microsoft Teams să fie incluse în noile instalări de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-În plus, începând cu versiunea 1906 din canalul curent, echipele vor fi adăugate treptat la ***instalările existente*** ale Microsoft 365 Apps pentru întreprinderi (și aplicații Microsoft 365 pentru firme) pe dispozitivele care execută Windows atunci când actualizați instalarea existentă la cea mai recentă versiune. Pentru mai multe informații, consultați [ce se întâmplă cu instalările existente de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+În plus, începând cu versiunea 1906 din Canalul  Curente, Teams va fi adăugat treptat la instalările existente ale aplicațiilor Microsoft 365 pentru întreprinderi (și ale aplicațiilor Microsoft 365 pentru firme) pe dispozitivele care rulează Windows atunci când actualizați instalarea existentă la cea mai recentă versiune. Pentru mai multe informații, consultați [Ce se întâmplă cu instalările existente de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Notă:** Dacă nu doriți să așteptați pentru acest program de implementare, puteți implementa teams ca independent pentru utilizatorii dvs., [urmând aceste instrucțiuni](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)sau puteți avea utilizatorii să instaleze teams de la https://teams.microsoft.com/downloads .
+**Notă:** Dacă nu doriți să așteptați acest program de implementare, puteți implementa Teams ca independent pentru utilizatorii dvs. urmând aceste instrucțiuni [sau](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)puteți permite utilizatorilor să instaleze Teams pentru ei din https://teams.microsoft.com/downloads .
 
-Dacă organizația nu este pregătită să implementeze teams, puteți ***exclude echipele*** din instalări [noi](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) sau [existente](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) de Office. Dacă doriți ca echipele să fie instalate, dar nu doriți ca echipele să pornească automat pentru utilizator după ce este instalat, consultați [împiedicarea pornirii automate a Microsoft teams după instalare](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Dacă organizația dvs. nu este gata să implementeze Teams, puteți ***exclude Teams*** din [instalările](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) noi [sau](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) existente de Office. Dacă doriți ca Teams să fie instalat, dar nu doriți ca Teams să pornească automat pentru utilizator după instalarea acestuia, consultați Împiedicați Microsoft Teams să pornească automat [după instalare.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Pentru a ***dezinstala echipele*** de pe un dispozitiv care execută Windows, consultați [Dezinstalarea Microsoft teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Pentru a curăța Microsoft teams de la mai multe mașini țintă sau utilizatori, consultați [Curățare implementare Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+Pentru ***a dezinstala Teams de*** pe un dispozitiv care rulează Windows, consultați [Dezinstalarea Microsoft Teams.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Pentru a curăța Microsoft Teams de pe mai multe dispozitive țintă sau utilizatori, consultați [Curățarea implementării Microsoft Teams.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Dacă utilizați computere partajate, Remote Desktop Services (RDS) sau infrastructură desktop virtuală (VDI), consultați [computere partajate și medii VDI cu Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Dacă utilizați Office pentru Mac, consultați [instalările Microsoft teams pe un Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Dacă utilizați computere partajate, servicii desktop la distanță (RDS) sau infrastructura desktop virtuală (VDI), consultați Computere partajate și medii [VDI cu Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams) Dacă utilizați Office pentru Mac, consultați Instalări [Microsoft Teams pe un Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
-**Notă:** După ce teams este instalat, acesta este [actualizat automat](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) aproximativ la fiecare două săptămâni, cu caracteristici noi și actualizări de calitate. 
+**Notă:** După instalarea Teams, acesta se actualizează [automat la](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) fiecare două săptămâni, cu noi caracteristici și actualizări de calitate. 

@@ -1,8 +1,8 @@
 ---
-title: OCM va fi retras din iunie 2020
+title: OCM va fi retras în iunie 2020
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 045ba28f29fcd37b7cbf7d5566bd4ae5c7210fe6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704834"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833555"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM va fi retras din iunie 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM va fi retras în iunie 2020
 
 
-În mod eficient **30 iunie, 2020**, programul de completare Outlook Customer Manager și aplicația mobilă vor fi retrase. Puteți  **exporta datele**  din acesta  **înainte de această dată**.  
+Începând **cu 30 iunie 2020,** programul de completare Outlook Customer Manager și aplicația mobilă vor fi retrase. Aveți posibilitatea **să exportați date** din acestea **înainte de această dată.**  
 
-Puteți să verificați cine din organizația dvs. are un standard Microsoft 365 Business (cunoscut anterior ca Office 365 Business Premium) sau Microsoft 365 Business Premium (cunoscut anterior ca Microsoft 365 Business) plan de abonament cu drepturi la Outlook Customer Manager, făcând clic [aici](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+Puteți verifica cine din organizația dvs. are un plan de abonament Microsoft 365 Business Standard (cunoscut anterior ca Office 365 Business Premium) sau Microsoft 365 Business Premium (cunoscut anterior ca Microsoft 365 Business) cu drepturi la Outlook Customer Manager, făcând clic [aici.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
 Pentru mai multe informații, consultați:
 

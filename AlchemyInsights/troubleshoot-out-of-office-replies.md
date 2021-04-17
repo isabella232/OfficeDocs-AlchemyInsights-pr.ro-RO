@@ -1,8 +1,8 @@
 ---
-title: Depanarea răspunsurilor automate Absent de la birou
+title: Depanarea răspunsurilor automate "Out Of Office"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664974"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832250"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Depanarea răspunsurilor automate Absent de la birou
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Depanarea răspunsurilor automate "Out Of Office"
 
-O mare varietate de cauze posibile pot fi motivul problemelor, în funcție de modul în care ați configurat răspunsurile automate Absent de la birou.
+O largă varietate de cauze posibile ar putea fi cauza problemelor, în funcție de modul în care ați configurat răspunsurile automate "Out of Office".
 
-Pentru o înțelegere mai profundă a locului în care s-ar putea afla problema, vă rugăm să citiți  [răspunsurile la înțelegere și depanare din Office (ăă)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Pentru a înțelege mai bine unde ar putea fi problema, citiți Înțelegerea și depanarea răspunsurilor  [De tip "Out of Office" (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)

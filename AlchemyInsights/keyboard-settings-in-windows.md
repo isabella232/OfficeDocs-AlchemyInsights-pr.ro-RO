@@ -1,8 +1,8 @@
 ---
-title: 'Setările tastaturii în Windows 10 '
+title: 'Setări tastatură în Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772815"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832979"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Setările tastaturii în Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>Setări tastatură în Windows 10
 
-**Tastarea setărilor**
+**Setări tip**
 
-Pentru a modifica setările Windows asociate cu verificarea ortografică, corectarea automată, sugestii și alte aspecte ale componentei hardware și tastatură tactilă, accesați **setări > dispozitivele > tastare**. 
+Pentru a modifica setările Windows legate de verificarea ortografică, corectarea automată, sugestii și alte aspecte ale hardware-ului și tastaturii tactile, accesați Setări **> Dispozitive > Tastare**. 
 
-**Setările de limbă și tastatură**
+**Setările lingvistice și de tastatură**
 
-Pentru a modifica setările legate de tastatura sau de metoda de intrare de utilizat pentru o limbă Windows, accesați **setări > ora & limba >** limba. Selectați limbi în lista **limbi preferate** și faceți clic pe **Opțiuni** pentru a adăuga/elimina tastaturi sau metode de intrare (IME).
+Pentru a modifica setările legate de tastatura sau metoda de intrare care să fie utilizate pentru o limbă windows, accesați Setări **> Ora & limba > limba.** Selectați limbile în **lista Limbi preferate** și faceți clic **pe** Opțiuni pentru a adăuga/elimina tastaturi sau metode de intrare (IM).
