@@ -2,7 +2,7 @@
 title: Achiziționarea unui abonament Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662364"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835895"
 ---
 # <a name="purchase-visio-subscription"></a>Achiziționarea unui abonament Visio
 
-Administratorii pot achiziționa abonamentul Visio pentru organizația sa din **Centrul de administrare Microsoft 365**.
+Administratorii pot achiziționa abonamentul Visio pentru organizația lor din **Centrul de administrare Microsoft 365.**
 
-1. Accesați **Billing**  >  pagina**[achiziționare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433)** de facturare pentru a vizualiza abonamentele disponibile pentru a le achiziționa pentru organizația dvs.
+1. Accesați pagina Achiziționare **servicii de**  >  **[facturare pentru](https://go.microsoft.com/fwlink/p/?linkid=868433)** a vedea abonamentele disponibile de cumpărat pentru organizația dvs.
 
 2. Găsiți planurile Visio căutând „Visio”.
 

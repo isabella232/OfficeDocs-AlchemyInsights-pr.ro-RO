@@ -2,7 +2,7 @@
 title: Puneți aplicații pe desktop
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768259"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835859"
 ---
 # <a name="put-apps-on-the-desktop"></a>Puneți aplicații pe desktop
 
-Căutați aplicația în meniul **Start** și luați pictograma aplicației ținând apăsat butonul din stânga al mouse-ului și mutând pictograma pe desktop.
+Căutați aplicația în meniul **Start** și luați pictograma aplicației ținând apăsat butonul mouse-ului din stânga și mutând pictograma pe desktop.
 
-De asemenea, puteți să apăsați **tasta Windows + R** , apoi să tastați această comandă:
+De asemenea, puteți să **apăsați tasta Windows + R** și să tastați această comandă:
 
 `shell:appsfolder`
 
-Aceasta va deschide folderul **Applications** în **Explorer**. Puteți acum să glisați și să fixați pictograma aplicației pe desktop.
+Acest lucru va **deschide folderul Aplicații** în **Explorer.** Acum puteți să glisați și să fixați pictograma aplicației pe desktop.

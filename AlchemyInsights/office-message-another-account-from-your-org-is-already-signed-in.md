@@ -1,8 +1,8 @@
 ---
-title: Mesajul de aplicații Microsoft 365-ne pare rău, un alt cont din organizație este deja conectat
+title: Mesaj despre aplicațiile Microsoft 365 - Ne pare rău, un alt cont din organizația dvs. este deja conectat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236030"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836255"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mesajul de aplicații Microsoft 365-ne pare rău, un alt cont din organizație este deja conectat
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mesaj despre aplicațiile Microsoft 365 - Ne pare rău, un alt cont din organizația dvs. este deja conectat
 
 Pentru a remedia această eroare, urmați pașii de mai jos:
 
@@ -33,7 +33,7 @@ Pentru a remedia această eroare, urmați pașii de mai jos:
 
 - Lansați aplicația Office și conectați-vă din nou, dacă este necesar. 
 
-**Sfat** Pe mașini Windows, putem diagnostica și remedia automat mai multe probleme comune de conectare la Office pentru dvs. Descărcați și derulează  **[Asistentul Microsoft pentru recuperare și asistență](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automat.
+**Sfat** Pe computerele Windows putem diagnostica și remedia automat pentru dvs. mai multe probleme comune de conectare la Office. Descărcați și rulați **[Asistentul pentru recuperare și asistență pentru Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automatizat.
 
 Dacă problema persistă, încercați pașii următori: 
 

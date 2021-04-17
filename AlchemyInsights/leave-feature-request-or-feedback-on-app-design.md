@@ -1,8 +1,8 @@
 ---
-title: Lăsați o solicitare de caracteristici sau un feedback despre proiectarea aplicațiilor
+title: Lăsați o solicitare de caracteristică sau feedback despre proiectarea aplicațiilor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836543"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Lăsați o solicitare de caracteristici sau un feedback despre proiectarea aplicațiilor
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Lăsați o solicitare de caracteristică sau feedback despre proiectarea aplicațiilor
 
-Apreciem că vă împărtășiți gândurile în timp ce continuăm să lucrăm în Outlook. *Uservoice* este un forum în care puteți să lăsați feedback și să votați ideile altora.  
+Apreciem să vă împărtășim gândurile pe măsură ce continuăm să lucrăm la Outlook. *UserVoice* este un forum unde puteți să lăsați feedback și să votați ideile altor persoane.  
 
 Pentru a ne lăsa o idee: 
 
-**Setări > ajutor & feedback > sugerați o caracteristică > postați o idee** 
+**Setări > Ajutor & Feedback > Sugerați o caracteristică sau > Postați o idee** 
 
-**Vă pasă cum se afișează numele/mesajele de e-mail?**
+**Vă interesează cum se afișează numele/e-mailul dvs.?**
 
-Atunci când adăugați un comentariu la o solicitare de caracteristică existentă, aplicația va completa automat numele sau adresa de e-mail din contul principal configurat în aplicație. Pentru a alege ce nume se afișează, trebuie să remiteți o **nouă** solicitare de caracteristici. 
+Atunci când adăugați un comentariu la o solicitare de caracteristică existentă, aplicația va completa automat numele sau adresa dvs. de e-mail din contul principal configurat în aplicație. Pentru a alege ce nume afișează, trebuie să remiteți o **solicitare de** caracteristică NOUĂ. 
 
-Remiterea unei solicitări este un proces simplu în trei pași. Pe a treia și ultima pagină, veți vedea o linie pentru adresa de e-mail (obligatorie) și o linie pentru numele dvs. Aici puteți alege modul în care se va afișa numele dumneavoastră sau puteți trimite în mod anonim ideea. 
+Remiterea unei solicitări este un proces simplu în 3 pași. Pe pagina a treia și finală, veți vedea o linie pentru adresa de e-mail (obligatoriu) și o linie pentru numele dvs. Aici puteți să alegeți cum se va afișa numele dvs. sau să remiteți anonim ideea. 
 
-**Notă:** De asemenea, poate fi necesar să modificați adresa de e-mail care este populată automat pe această pagină. Dacă numele dumneavoastră este configurat într-un anumit fel în cadrul setărilor clientului de e-mail, modificarea remiterii feedbackului la Anonymous poate fi înlocuită de setările dvs. 
+**Notă:** De asemenea, poate fi necesar să modificați ce adresă de e-mail este completată automat pe această pagină. Dacă numele dvs. este configurat într-un anumit mod în setările clientului de e-mail, modificarea remiterii de feedback la anonim poate fi înlocuită de setările dvs. 
