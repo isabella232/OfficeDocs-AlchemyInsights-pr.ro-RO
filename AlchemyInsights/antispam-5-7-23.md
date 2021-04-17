@@ -1,8 +1,8 @@
 ---
-title: Antispam-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717337"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821423"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Remedierea problemelor de livrare a mesajelor de e-mail pentru codul de eroare 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Remediați problemele de livrare a mesajelor de e-mail pentru codul de eroare 5.7.23
 
-Verificați înregistrarea SPF DNS pentru domeniul dvs., într-un verificator de înregistrare SPF sau DNS, disponibil public pe web.
+Verificați înregistrarea DNS SPF pentru domeniul dvs. la un verificator de înregistrări SPF sau DNS disponibil public pe web.
 
-Verificați dacă mesajul de ieșire nu a fost identificat ca spam de către Microsoft și a fost distribuit prin [bazinul cu risc ridicat](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). Mesajele din bazinul de livrare cu risc ridicat nu vor trece de controalele SPF și, prin urmare, nu vor fi acceptate de organizația de e-mail de destinație.
+Verificați dacă mesajul de ieșire nu a fost identificat ca spam de către Microsoft și distribuit prin intermediul [rezervorului de livrare pentru risc înalt.](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages) Mesajele din rezervor de livrare cu risc înalt nu vor trece verificările SPF și, prin urmare, nu vor fi acceptate de organizația de e-mail de destinație.
 
-Dacă problema persistă, poate fi necesar să contactați administratorul gazdei de e-mail la care încercați să trimiteți mesaje de e-mail. Notați eroarea externă detaliată disponibilă în mesajul Bounce. Asistența Microsoft poate să nu mai poată ajuta în continuare.
+Dacă problema persistă, poate fi necesar să contactați administratorul gazdei de e-mail la care încercați să trimiteți e-mail. Rețineți eroarea externă detaliată disponibilă în mesajul returnat. Asistența Microsoft ar putea să nu vă mai poată ajuta.

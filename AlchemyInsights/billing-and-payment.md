@@ -2,7 +2,7 @@
 title: Facturare și plată
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,50 +12,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686042"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820406"
 ---
 # <a name="billing-and-payment"></a>Facturare și plată
 
-Facturile dumneavoastră pot fi găsite pe **Billing**  >  fila[facturi de facturare & plăți](https://go.microsoft.com/fwlink/p/?linkid=848039) .  În mod implicit, se afișează ultimele 3 luni de facturi.  Pentru a vizualiza facturile mai vechi, ajustați filtrul.  Faceți clic pe linkul **Descărcare PDF factură** pentru a vizualiza factura.
+Facturile dvs. pot fi găsite pe **fila**  >  [Facturi & plată.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Se afișează implicit ultimele 3 luni ale facturilor.  Pentru a vizualiza facturile mai vechi, ajustați filtrul.  Faceți clic **pe linkul Descărcați factura PDF** pentru a vizualiza factura.
 
 **Primirea facturilor prin e-mail**
 
-Pe pagina **Billing**  >  [Notificări](https://go.microsoft.com/fwlink/p/?linkid=853212) facturare facturare, puteți să activați această caracteristică și **să** gestionați utilizatorii care vor primi factura ca atașare de e-mail. Factura va fi trimisă la adresele de e-mail ale utilizatorilor din lista destinatari de notificare. Lista include toți administratorii de facturare și globali.  Puteți gestiona persoanele care primesc notificările prin factură modificând rolul.  Eliminarea rolului de administrator global sau de facturare elimină utilizatorul din lista de destinatari și adăugarea rolului de administrator global sau de facturare va adăuga utilizatorul la lista de destinatari.
+Pe pagina **Notificări** de facturare, puteți să activați această caracteristică și să gestionați utilizatorii care vor primi factura  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) ca atașare de e-mail.  Factura va fi trimisă la adresele de e-mail ale utilizatorilor din lista Destinatari notificare. Lista include toți administratorii globali și de facturare.  Puteți gestiona cine primește notificările prin factură modificând rolul.  Eliminarea rolului de administrator global sau de facturare elimină utilizatorul din lista de destinatari și adăugarea rolului de administrator global sau de facturare va adăuga utilizatorul în lista de destinatari.
 
-**Notă**: veți primi două mesaje de e-mail separate: una care vă permite să știți că factura este gata, cu instrucțiuni pentru a vă conecta la centrul de administrare pentru a-l vizualiza și un al doilea e-mail care conține instrucțiunea de facturare ca atașare.
+**Notă:** Veți primi două e-mailuri separate: unul care vă anunță că factura este gata, cu instrucțiuni pentru a vă conecta la Centrul de administrare pentru vizualizare, și un al doilea care conține extrasul de cont ca atașare.
 
 **Plată**
 
-Dacă plătiți cu cardul de credit sau contul bancar, metoda de plată asociată cu abonamentul (ele) este taxată în termen de câteva zile de la crearea facturii. Dacă plata nu reușește, actualizați sau modificați metoda de plată.
+Dacă plătiți cu cardul de credit sau contul bancar, metoda de plată asociată abonamentelor dvs. este debitată în câteva zile după ce se creează factura. Dacă plata nu reușește, actualizați sau modificați metoda de plată.
 
-Dacă ați adăugat un card nou și încă primiți o notificare de declin pe cardul de credit vechi, poate fi necesar să asociați acea fișă nouă cu abonamentul.
+Dacă ați adăugat un card nou și încă obțineți o notificare de refuz pe vechiul card de credit, poate fi necesar să asociați cardul nou cu abonamentul.
 
-1. În centrul de administrare, accesați **Billing**  >  pagina facturi de facturare & metode de plată a**plăților**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. În centrul de administrare, accesați pagina Facturi  >  **de facturare & Metode de**  >  [plată.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Selectați rândul metodei de plată de înlocuit. Panoul din dreapta listează toate profilurile de facturare și abonamentele individuale care utilizează metoda de plată selectată.
 
-3. În panoul din dreapta, selectați **Înlocuire metodă de plată pentru toate elementele**.
+3. În panoul din dreapta, selectați **Înlocuiți metoda de plată pentru toate articolele.**
 
 4. Pentru a utiliza o metodă de plată existentă, alegeți una din lista verticală, apoi selectați **Înlocuire**.
 
     > [!NOTE]
-    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a plăti pentru ele. Dacă aveți conturi bancare listate pe pagina **metode de plată** , acestea nu sunt disponibile pentru a fi selectate în lista verticală.
+    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe **pagina Metode de** plată, acestea nu sunt disponibile pentru selectare în lista verticală.
 
-5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați metoda de plată**.
+5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați o metodă de plată**.
 
-6. În panoul **Adăugați o metodă de plată** , introduceți informațiile de cont, apoi selectați **Salvare**. Trebuie să utilizați o metodă de plată din aceeași țară ca entitatea găzduită.
+6. În panoul **Adăugați o metodă de plată,** introduceți informațiile contului, apoi selectați **Salvare**. Trebuie să utilizați o metodă de plată din aceeași țară ca entitatea găzduită.
 
 7. Noua metodă de plată este deja selectată în lista verticală. Selectați **Înlocuire**.
 
-Pentru a afla mai multe, consultați [gestionarea metodelor de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Pentru a afla mai multe, consultați [Gestionarea metodelor de plată.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-**Frecvența de facturare**
+**Frecvență de facturare**
 
-Facturile sunt generate lunar sau anual, în funcție de frecvența de facturare aleasă la extragere.  
+Facturile sunt generate lunar sau anual, în funcție de frecvența de facturare aleasă la verificare.  
 
-**Notă**: comenzile cu facturarea anuală pot primi o factură pe termen mediu dacă s-au efectuat modificări, cum ar fi adăugarea sau eliminarea licențelor. [Modificați frecvența de facturare](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Notă:** Comenzile cu facturare anuală pot primi o factură prin termen mediu dacă s-au efectuat modificări precum adăugarea sau eliminarea licențelor. [Modificați frecvența de facturare](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

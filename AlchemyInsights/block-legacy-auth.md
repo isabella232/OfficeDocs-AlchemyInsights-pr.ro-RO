@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685610"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820190"
 ---
 # <a name="blocking-legacy-authentication"></a>Blocarea autentificării moștenite
 
-Autentificarea moștenită este un termen care face referire la o solicitare de autentificare efectuată de:
+Autentificarea moștenit este un termen care se referă la o solicitare de autentificare efectuată de:
 
-- Clienții Office mai vechi care nu utilizează autentificarea modernă (de exemplu, clientul Office 2010).
+- Clienții Office mai vechi, care nu utilizează autentificarea modernă (de exemplu, clientul Office 2010).
 
-- Orice client care utilizează protocoale de corespondență moștenite, cum ar fi IMAP/SMTP/POP3.
+- Orice client care utilizează protocoale de e-mail moștenite, cum ar fi IMAP/SMTP/POP3.
 
-Pentru mai multe informații despre blocarea autentificării moștenite și activarea autentificării moderne, consultați [blocarea autentificării moștenite](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+Pentru mai multe informații despre blocarea autentificării moștenite și activarea autentificării moderne, consultați Blocarea [autentificării moștenite.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)
 
-Setările implicite de securitate din Azure Active Directory (Azure AD) vă ajută să fiți mai ușor de securizat și să contribuiți la protejarea organizației. Setările implicite de securitate conțin setări de securitate preconfigurate pentru atacuri comune.
-Pentru mai multe informații despre setările implicite de securitate, consultați [ce sunt valorile implicite de securitate?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+Valorile implicite de securitate din Azure Active Directory (Azure AD) simplifică securizarea și protejarea organizației dvs. Setările de securitate implicite conțin setări de securitate preconfigurate pentru atacurile obișnuite.
+Pentru mai multe informații despre setările implicite de securitate, consultați [Ce sunt valorile implicite de securitate?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Notă**: Dacă entitatea găzduită a fost creată la sau după 22 octombrie, 2019, este posibil să întâmpinați noul comportament securizat și aveți deja activate valorile implicite de securitate în entitatea găzduită.  Într-un efort de a proteja toți utilizatorii, valorile implicite de securitate sunt derulate pentru toate entitățile găzduite noi create.
+**Notă:** dacă entitatea dvs. găzduită a fost creată pe 22 octombrie 2019 sau după aceasta, este posibil să vă confruntați cu noul comportament securizat în mod implicit și să aveți deja activată setarea implicită de securitate în entitatea dvs. găzduită.  Pentru a ne proteja toți utilizatorii, valorile implicite de securitate sunt create pentru toate entitățile găzduite noi.

@@ -1,8 +1,8 @@
 ---
-title: AntiSpam 5.4.1 DBEB captură-toate
+title: AntiSpam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717373"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821459"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Remedierea problemelor de livrare pentru codul de eroare 550 5.4.1 Releu Access Denied
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Remedierea problemelor de livrare pentru codul de eroare 550 5.4.1 Acces la retransmisie refuzat
 
-Această problemă apare atunci când [Căutați pentru a vedea dacă o adresă de e-mail este validă pentru a împiedica bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) atunci când introduceți rețeaua Microsoft. Încercați următoarele:
+Această problemă apare atunci când [verificați dacă o adresă de e-mail](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) este validă pentru a împiedica revenirile la intrarea în rețeaua Microsoft. Încercați următoarele variante:
 
-1. Determinați dacă problema este specifică pentru un domeniu întreg sau pentru o singură adresă de e-mail:
-    - Domeniu întreg: uneori, domeniul trebuie sincronizat; Încercați să [Setați domeniul la intern, apoi înapoi la autoritate](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Adresă de e-mail unică: uneori, adresa trebuie sincronizată; Modificarea adresei proxy SMTP, apoi modificarea sa înapoi vă poate ajuta.
-2. Determinați dacă problema este specifică pentru un grup sau un folder public. Pentru unele tipuri de obiecte, este posibil ca obiectele să trebuiască să fie create manual în Azure Active Directory.
+1. Determinați dacă problema este specifică pentru un domeniu întreg sau o singură adresă de e-mail:
+    - Întregul domeniu: Uneori, domeniul trebuie să fie sincronizat; încercați [să setți domeniul la Intern, apoi înapoi la Autoritate.](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+    - Adresă de e-mail unică: uneori, adresa trebuie să fie sincronizată; changing the smtp proxy address and then changing it back can help.
+2. Determinați dacă problema este specifică unui grup sau folder public. Pentru unele tipuri de obiecte, poate fi necesar ca obiectele să fie create manual în Azure Active Directory.
 
-Dacă aveți nevoie de ajutor suplimentar, vă rugăm să deschideți un tichet de asistență și să specificați domeniul problemei (inclusiv tipul de obiect pe care îl trimiteți) pentru a vă putea ajuta mai bine.
+Dacă aveți nevoie de ajutor suplimentar, deschideți un tichet de asistență și specificați domeniul problemei (inclusiv tipul de obiect la care trimiteți) pentru a vă putea ajuta mai bine.
