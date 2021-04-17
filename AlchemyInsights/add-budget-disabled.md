@@ -1,8 +1,8 @@
 ---
-title: De ce butonul Adăugare buget este dezactivat pentru mine?
+title: De ce este dezactivat butonul Adăugare buget pentru mine?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807667"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822647"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>De ce butonul Adăugare buget este dezactivat pentru mine?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>De ce este dezactivat butonul Adăugare buget pentru mine?
 
 Pentru a crea un buget, aveți nevoie de una dintre următoarele permisiuni:
 
-- Grup de gestionare, abonament, domenii de grup de resurse
-- Contribuitor la gestionarea costurilor
+- Management Group, Subscription, Resource Group Scopes
+- Colaborator de gestionare a costurilor
 - Proprietar
-- Contribuitor
-- Numai pentru clienți de întreprindere: înscriere, departament, domenii de cont
-- Administrator de înscriere (setați bugetul la domeniul de înscriere)
-- Administrator de departament (setați bugetul la domeniul departamentului)
-- Proprietar cont (setați bugetul la domeniul de cont)
-- Numai acordul clienți modern: cont de facturare, profil de facturare, domenii de secțiune a facturii
-- Creator abonament Azure
+- Colaborator
+- Doar clientul Enterprise: Înscriere, Departament, Domenii cont
+- Administrator de înscriere (setați bugetul pentru domeniul de înscriere)
+- Administrator de departament (setați bugetul în domeniul Departament)
+- Proprietar cont (setați bugetul la domeniul de aplicare al contului)
+- Doar acordul modern cu clientul: Contul de facturare, profilul de facturare, domeniile secțiunii Facturi
+- Creator abonamente Azure
 
-**Am creat un buget atunci când costurile pentru luna curentă erau deja supra-bugetare. De ce nu am primit o avertizare?**  
-Dacă ați depășit deja un prag de cost dat atunci când creați un buget, avertizarea nu va fi trasă. După ce începe un nou ciclu, dacă încălcați pragul, avertizarea va fi trasă.
+**Am creat un buget atunci când costul pentru luna curentă a fost deja supra-buget. De ce nu am primit o avertizare?**  
+Dacă ați depășit deja un anumit prag de cost atunci când creați un buget, avertizarea respectivă nu va trage. După ce începe un nou ciclu, dacă încălcați pragul, avertizarea va fi trasă.
 
-**Când ar trebui să mă aștept să primesc o avertizare după ce depășesc unul dintre pragurile de avertizare bugetare definite?**  
-Bugetele sunt evaluate la fiecare 4 ore. Este nevoie de minimum 8 ore pentru ca datele de utilizare să ajungă la sistemul de bugete. Ținând cont de aceasta, avertizările pot dura până la 12 ore până când depășiți un prag.
+**Când ar trebui să mă aștept să primesc o avertizare după ce depășesc unul dintre pragurile de avertizare definite pentru buget?**  
+Bugetele sunt evaluate la fiecare 4 ore. Durează minimum 8 ore pentru ca datele de utilizare să ajungă în sistemul de bugete. Cu această dată, avertizările pot dura nu mai mult de 12 ore pentru a fi trase după ce depășiți un prag.
 
-**De ce butonul dată de început este dezactivat atunci când selectez o perioadă de resetare lunară sau de facturare?**  
-Bugetele sunt aliniate la luna curentă a calendarului sau la perioada de facturare curentă (în cazul în care este selectată luna de facturare). Prin urmare, vom pre-popula această valoare pentru dvs.
+**De ce este dezactivat butonul Data de început atunci când selectez o lună sau o perioadă de resetare a lunii de facturare?**  
+Bugetele sunt aliniate la luna curentă din calendar sau la perioada de facturare curentă (în cazul în care este selectată Luna de facturare). Prin urmare, prepopulăm această valoare pentru tine.
 
-**De ce nu văd un grafic al costurilor mele în experiența de creare a bugetului?**  
-Avem nevoie de minim 2 luni de date de cost înainte de a putea reda un grafic pentru a vă ajuta cu crearea bugetului.
+**De ce nu văd un grafic cu costurile mele în experiența de creare a bugetului?**  
+Avem nevoie de minimum 2 luni de date de cost înainte de a putea reda un grafic pentru a vă asista la crearea bugetului.
 
 **De ce nu pot seta un buget pentru un abonament pe care tocmai l-am creat?**  
-După crearea unui abonament, datele durează 24-48 de ore pentru a procesa înainte de a stabili un buget împotriva acestuia.
+După crearea unui abonament, procesarea datelor durează 24-48 de ore înainte de stabilirea unui buget.
 
-**Resurse API bugetare**
+**Resurse API bugetat**
 
-- [API-bugete v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): furnizează operațiuni pentru a crea și a actualiza bugetele. Utilizând API-ul bugete, puteți să setați un prag bugetar și să configurați mai multe avertizări la foc în timp ce vă apropiați de acel prag. Avertizările pot declanșa un mesaj de e-mail sau un grup de acțiuni Azure pentru a efectua automatizare. Notă: filtrarea pentru acest API nu se aliniază cu filtrarea/dimensiunile API-ului de interogare.
-- [Bugete API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): Creați bugete cu capacități mai mari de filtrare a costurilor decât v1. Filtrarea se aliniază la contractul utilizat în API-urile noastre de interogare și dimensiuni. Acesta este API-ul bugetelor recomandate pentru a utiliza Mutarea înainte.
-- [Dimensiuni](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): furnizează operații pentru a obține dimensiuni acceptate pentru utilizare sub o varietate de domenii. Utilizând API-ul de dimensiuni, puteți regăsi o listă de dimensiuni care pot fi utilizate ca intrări pentru generarea interogărilor cu API-ul de interogare.
-- [Query](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): furnizează operații pentru a obține date despre costurile agregate și utilizare pe baza interogării pe care o furnizați. Utilizând API-ul de interogare, puteți specifica filtrarea dorită, sortarea și gruparea la toate dimensiunile disponibile (care sunt accesate din API-ul de dimensiuni).
+- [Budgets API v1:](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support)Provides operations to create and update budgets. Utilizând API-ul de bugete, puteți să setați un prag de buget și să configurați mai multe avertizări la fire pe măsură ce vă apropiați de pragul respectiv. Avertizările pot declanșa un mesaj de e-mail sau un grup de acțiune Azure pentru a efectua automatizarea. Notă: Filtrarea pentru acest API nu se aliniază cu filtrarea/dimensiunile API de interogare.
+- [Budgets API v2:](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json)Create budgets with greater cost filtering capabilities than v1. Filtrarea se aliniază la contractul utilizat în API-urile pentru interogări și dimensiuni. Aceasta este API-ul de bugete recomandat pentru avansare.
+- [Dimensiuni:](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support)Furnizează operațiuni pentru a obține dimensiuni acceptate pentru utilizarea dvs. într-o varietate de domenii. Utilizând API-ul de dimensiuni, puteți regăsi o listă de dimensiuni care pot fi utilizate ca intrări pentru generarea interogărilor cu API-ul de interogare.
+- [Interogare:](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support)Furnizează operațiuni pentru a obține date de cost agregat și utilizare pe baza interogării pe care o furnizați. Utilizând API-ul de interogare, puteți specifica filtrele, sortarea și gruparea dorite după toate dimensiunile disponibile (care sunt accesate din API-ul de dimensiuni).
 
 **Costuri prognozate**
 
-**De ce nu văd prognoze pentru costurile mele în analiza costurilor?**  
-Există mai multe motive pentru care este posibil ca proiecția Prognoză să lipsească în analiza costurilor, unele dintre ele sunt după cum urmează:
+**De ce nu văd prognozele pentru costurile mele în Analiza costurilor?**  
+Există mai multe motive pentru care proiecția prognozare poate lipsi din analiza costurilor, unele dintre ele sunt după cum urmează:
 
-1. Dacă datele de cost sunt mai vechi de 10 zile, diagrama Prognoză nu se va încărca. Modelul necesită cel puțin 10 zile de date de cost recente pentru proiecții precise
-2. Dacă ați selectat date istorice, atunci diagrama Prognoză nu va fi vizibilă. Vă rugăm să selectați un interval de date cu datele viitoare pentru ca diagrama Prognoză să fie afișată
-3. Dacă aveți mai multe monede în cont, diagrama Prognoză va costa doar costurile pentru "toate costurile în USD"
+1. Dacă datele despre cost sunt mai mici de 10 zile, diagrama prognoză nu se va încărca. Modelul necesită cel puțin 10 zile de date recente de cost pentru proiecții precise
+2. Dacă ați selectat date istorice, diagrama de prognoză nu va fi vizibilă. Selectați un interval de date cu date viitoare pentru a se afișa diagrama de prognoză
+3. În cazul în care contul dvs. are mai multe monede, diagrama de prognoză va include doar costurile proiectului pentru "Toate costurile în USD"
 
-**De ce nu se modifică Prognoza atunci când fac modificări la resursele mele?**  
-Modelul de Prognoză necesită câteva zile pentru a lua în considerare modificările din cont și nu face proiecții imediate pe baza modificărilor resurselor  
-Pentru pași mai mari de mărire sau micșorare a resurselor, modelul va dura mai mult timp pentru a ajusta aceste modificări în funcție de anomalii
+**De ce nu se modifică prognoza atunci când fac modificări la resursele mele?**  
+Modelul de prognoză necesită câteva zile pentru a ține seama de modificările din cont și nu face proiecții imediate pe baza modificărilor din resurse  
+Pentru pași mai mari de creștere sau descreștere a resurselor, ajustarea acestor modificări la resursele modelului va dura puțin mai mult
 
-**De ce crește Prognoza mea după ce fac o rezervare sau o achiziție pe piață?**  
-Modelul de Prognoză consideră "costul real" și nu răspunde pentru utilizare și cumpărare separat. Pentru o achiziție unică, modelul va scădea proeminențele după 10 zile pentru a ține cont de creșterea bruscă a costurilor
+**De ce crește prognoza după ce fac o rezervare sau o achiziție de la Marketplace?**  
+Modelul de prognoză ia în considerare "Cost real" și nu ține cont de utilizare și de achiziție separat. Pentru o achiziție cu o singură dată, modelul va micșora proiecțiile după 10 zile pentru a ține cont de creșterea dintr-o dată a costurilor
 
-**Doresc să văd prognoze pentru o singură dimensiune (de exemplu,. Contorului**  
-Prognoza acceptă în prezent proiecții totale ale costului, nu pentru contoare individuale. Prin urmare, când "grupat după" o dimensiune, proiecțiile vor fi pentru totalul tuturor elementelor din dimensiune
+**Doresc să văd prognoze pentru o singură dimensiune (de exemplu, Metru)**  
+Prognozarea acceptă în prezent proiecții totale de cost, nu pentru metri individuali. Astfel, atunci când "Grupat după" o dimensiune, proiecțiile se vor proiecta în total din toate elementele de dimensiune
 
 **Documente recomandate**
 
-- [Ce este managementul costurilor Azure?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Cele mai bune practici de gestionare a costurilor Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Analizarea costurilor și cheltuielilor](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Ce este Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Practici recomandate pentru Gestionarea costurilor Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Analizați costurile și cheltuielile](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Explorarea și analizarea costurilor cu analiza costurilor](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Gestionarea costurilor Azure: prețuri](https://azure.microsoft.com/services/cost-management/#pricing)
-- [Revizuirea costurilor din analiza costurilor](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [Tutorial video: crearea unui buget în portalul Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [Azure Cost Management: Prețuri](https://azure.microsoft.com/services/cost-management/#pricing)
+- [Revizuirea costurilor în analiza costurilor](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
+- [Tutorial video: Crearea unui buget în portalul Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
 - [Cerințe preliminare pentru vizualizarea și particularizarea bugetelor](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
 - [Crearea și gestionarea bugetelor](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [Configurarea automatizarii cu Azure Action Groups și budgets API](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
-- [Utilizarea avertizărilor de cost pentru a monitoriza utilizarea și cheltuielile](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Cele mai bune practici de gestionare a costurilor](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Configurarea automatizarei cu API-ul Grupuri de acțiuni Azure și Bugete](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [Utilizarea avertizărilor de cost pentru monitorizarea utilizării și cheltuielilor](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Practici recomandate pentru gestionarea costurilor](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Videoclipuri tutorial**
+**Tutoriale video**
 
 - [Crearea unui buget în portalul Azure](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [Gestionarea costurilor cu API-ul bugetele și grupurile de acțiuni](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [Gestionarea costurilor cu API-ul de bugete și grupurile de acțiuni](https://go.microsoft.com/fwlink/?linkid=2147038)
