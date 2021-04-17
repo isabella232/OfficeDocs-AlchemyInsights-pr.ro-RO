@@ -2,7 +2,7 @@
 title: Înlocuirea unui cuvânt sau a unei expresii
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835751"
 ---
 # <a name="replace-a-word-or-phrase"></a>Înlocuirea unui cuvânt sau a unei expresii
 
-Pentru a înlocui mai multe instanțe ale unui cuvânt sau al unei expresii într-un document Word:
+Pentru a înlocui mai multe instanțe ale unui cuvânt sau ale unei expresii într-un document Word:
 
-1. Accesați înlocuire **acasă**  >  **Replace**sau apăsați Ctrl + H.
-2. În caseta de **găsit** , introduceți cuvântul sau expresia pe care doriți să le înlocuiți. 
-3. În caseta **Înlocuire cu** , introduceți textul nou.
-3. Selectați **înlocuire totală** pentru a modifica toate aparițiile cuvântului sau expresiei sau selectați **Următorul găsit** până când găsiți una sau mai multe dintre ele pe care doriți să le actualizați, apoi selectați **Înlocuire**.
+1. Accesați Înlocuire **pornire**  >  **sau** apăsați Ctrl+H.
+2. În caseta **De găsit,** introduceți cuvântul sau expresia pe care doriți să le înlocuiți. 
+3. În caseta **Înlocuire** cu, introduceți textul nou.
+3. Selectați **Înlocuire peste** tot pentru a modifica toate  aparițiile cuvântului sau expresiei sau selectați Următorul găsit până când îl găsiți pe cel sau pe care doriți să îl actualizați, apoi selectați **Înlocuire**.
