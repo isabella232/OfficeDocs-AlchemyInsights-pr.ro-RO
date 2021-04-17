@@ -1,8 +1,8 @@
 ---
-title: Dispozitivele sunt în așteptarea stării de înscriere
+title: Dispozitivele sunt în starea Care așteaptă înscrierea
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815366"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Dispozitivele sunt în starea "așteaptă înscrierea"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Dispozitivele sunt în starea "Se așteaptă înscrierea"
 
-Analizele desktop nu au date de diagnosticare pentru acest dispozitiv. 
+Analiza desktop nu are date de diagnosticare pentru acest dispozitiv. 
 
-Această problemă poate apărea deoarece ați adăugat recent dispozitivul la colecția țintă și nu a trimis încă date. De asemenea, se poate referi la faptul că dispozitivul nu comunică corect cu serviciul, iar cele mai recente date de diagnosticare sunt mai vechi de 28 de zile.
+Această problemă poate apărea deoarece ați adăugat recent dispozitivul la colecția țintă și acesta nu a trimis încă date. De asemenea, poate însemna că dispozitivul nu comunică corect cu serviciul și că cele mai recente date de diagnosticare au mai mult de 28 de zile.
 
-Asigurați-vă că dispozitivul poate comunica cu serviciul. Pentru mai multe informații, consultați [puncte finale](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Asigurați-vă că dispozitivul poate comunica cu serviciul. Pentru mai multe informații, [consultați Puncte finale](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Pentru mai multe informații despre starea de înscriere în așteptare, consultați [monitorizarea stării de funcționare a conexiunii](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Pentru mai multe informații despre starea de înscriere așteptată, consultați Monitorizarea [stării de conexiuni.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

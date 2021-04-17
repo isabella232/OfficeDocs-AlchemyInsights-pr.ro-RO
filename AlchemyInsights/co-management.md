@@ -1,8 +1,8 @@
 ---
-title: Gestionarea concomitentă
+title: Co-gestionare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896807"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817724"
 ---
-# <a name="co-management"></a>Gestionarea concomitentă
+# <a name="co-management"></a>Co-gestionare
 
-**Cerințe preliminare pentru migrarea de la config Manager hibrid la Intune**
+**Cerințe preliminare pentru migrarea de la Config Manager hibrid la Intune**
 
-- Revizuiți [acest articol](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [Adăugați o licență Intune pentru utilizatori](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Utilizați [browserul Edge](https://www.microsoft.com/edge) atunci când configurați co-gestionarea.
+- Consultați [acest articol.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Adăugați o licență Intune utilizatorilor.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Utilizați browserul [Edge atunci](https://www.microsoft.com/edge) când configurați Gestionarea prin co-gestionare.
 
-[Aici](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)puteți găsi o experiență de configurare A cooperării cu pas cu pas, ghidată prin cooperare.
+O experiență coordonată, pas cu pas de configurare pentru Co-management poate fi [găsită aici.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Cum să instalez clientul config Manager pe dispozitivele gestionate cu Intune**
+**Cum instalez clientul Config Manager pe dispozitive gestionate intune**
 
-Consultați [dispozitivele Windows Intune-gestionate de la MDM](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Consultați [Dispozitive windows gestionate de Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
 **Ce se întâmplă dacă doresc doar să modific autoritatea MDM?**
 
-Autoritatea MDM poate fi modificată fără a deschide un caz de asistență. Consultați următoarea documentație pentru a ajuta la modificarea autorității MDM:
+Autoritatea MDM poate fi modificată fără a deschide un caz de asistență. Revizuiți următoarea documentație pentru a vă asista la modificarea autorității MDM:
 
-- [Modificarea autorității MDM de la Manager de configurare la Intune standalone](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Modificarea autorității MDM din Intune standalone în Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Modificarea Autorității MDM din Managerul de configurare în Intune independent](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Modificarea autorității MDM de la intune independent la Managerul de configurare](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

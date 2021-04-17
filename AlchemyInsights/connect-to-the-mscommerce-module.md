@@ -2,7 +2,7 @@
 title: Conectarea la modulul MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713250"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817040"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Conectarea la modulul MSCommerce
 
-Trebuie să fiți conectat la modulul MSCommerce înainte de a putea să vizualizați sau să setați politica AllowSelfServicePurchase.  
+Trebuie să fiți conectat la modulul MSCommerce înainte de a putea vizualiza sau seta politica AllowServicePurchase.  
 
-Pentru a vă conecta la modulul MSCommerce, la promptul PowerShell (PS C: \) , introduceți următoarea comandă:
+Pentru a vă conecta la modulul MSCommerce, în solicitarea PowerShell (PS C: \) , introduceți următoarea comandă:
 
 `Connect-MSCommerce`
 
-Aceasta va deschide o casetă de dialog de conectare. Introduceți numele de utilizator și parola pentru a vă conecta.
+Se va deschide o casetă de dialog de conectare. Introduceți numele de utilizator și parola pentru conectare.
 
-**Notă:** &nbsp; &nbsp; Contul utilizat pentru a vă conecta trebuie să fie un administrator de firmă sau de facturare.
+**NOTĂ:** &nbsp; &nbsp; Contul utilizat pentru conectare trebuie să fie administrator de firmă sau de facturare.

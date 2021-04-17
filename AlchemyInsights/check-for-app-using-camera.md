@@ -1,8 +1,8 @@
 ---
-title: Căutați o aplicație utilizând camera
+title: Căutați aplicația utilizând camera foto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 611cdb28c8fac766f25583100e28854149b8f79a
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: d7f35bbe482d3bc5bae8c9d7af4ec1e3dcd0de35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274832"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817832"
 ---
-# <a name="check-for-app-using-camera"></a>Căutați o aplicație utilizând camera
+# <a name="check-for-app-using-camera"></a>Căutați aplicația utilizând camera foto
 
-1. Selectați **Start**, apoi selectați **setări > confidențialitate > cameră** (MS-setări: confidențialitate-webcam)
-2. În lista de aplicații, găsiți aplicația cu "în curs de utilizare" și închideți aplicația.
+1. Selectați **Start**, apoi **selectați Setări > Confidențialitate > Cameră** (ms-settings:privacy-webcam)
+2. În lista de aplicații, găsiți aplicația cu "în uz curent" și închideți aplicația.
