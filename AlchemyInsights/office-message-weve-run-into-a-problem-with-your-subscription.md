@@ -1,36 +1,37 @@
 ---
-title: Mesaj de la aplicațiile Office - Am întâmpinat o problemă cu abonamentul dvs.
+title: Mesaj despre aplicațiile Microsoft 365 - Am avut o problemă cu abonamentul
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787742"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832898"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Mesaj de la aplicațiile Office - Am întâmpinat o problemă cu abonamentul dvs.
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Mesaj despre aplicațiile Microsoft 365 - Am avut o problemă cu abonamentul
 
 - Dacă ați comutat recent la un alt abonament/plan, urmați pașii din [„Notificare cont” apare în Office după ce comutați planuri](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) să reinstalați sau să actualizați Office.
 
 - Consultați [Eroare Office „Notificare de cont: am întâmpinat o problemă cu abonamentul dvs.”](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
-- Eliminați și reatribuiți [licență Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) utilizatorului afectat. 
+- Eliminați și reatribuiți [licență Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) utilizatorului afectat. 
 
 - Deschideți o aplicație Office, accesați **Fișier > Cont** și Deconectare de la toate conturile. Conectați-vă din nou utilizând un cont de utilizator cu o licență validă. Pentru informații detaliate, consultați [Conturi din Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Rulați [Depanatorul de activare](https://aka.ms/SARA-OfficeActivation-Alchemy) și reporniți computerul.
 
-- Pe computerul afectat, [resetați starea de activare Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Pe computerul afectat, [resetați starea de activare Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Pentru instrucțiuni detaliate, consultați: 
 
