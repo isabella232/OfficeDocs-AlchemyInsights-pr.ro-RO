@@ -2,24 +2,25 @@
 title: Invitații la întâlnirile Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553420"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831026"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="e3201-102">Invitații la întâlnirile Teams</span><span class="sxs-lookup"><span data-stu-id="e3201-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="eb432-102">Invitații la întâlnirile Teams</span><span class="sxs-lookup"><span data-stu-id="eb432-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="e3201-103">Vreți să aflați cum să [creați o invitație la întâlnire în Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span><span class="sxs-lookup"><span data-stu-id="e3201-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="eb432-103">Aveți nevoie de ajutor la particularizarea invitațiilor la întâlniri Teams pentru organizația dvs.?</span><span class="sxs-lookup"><span data-stu-id="eb432-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="eb432-104">Nu asigurați-vă că [revizuiți Particularizarea invitațiilor la întâlnire.](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)</span><span class="sxs-lookup"><span data-stu-id="eb432-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="e3201-104">În prezent, invitațiile la întâlnirile Teams**nu pot fi particularizate**.</span><span class="sxs-lookup"><span data-stu-id="e3201-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="e3201-105">Vă rugăm să [votați UserVoice în Teams](https://microsoftteams.uservoice.com/) pentru a adăuga această problemă la foaia de parcurs.</span><span class="sxs-lookup"><span data-stu-id="e3201-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="eb432-105">Pentru informații suplimentare, consultați [Gestionarea setărilor întâlnirilor în Microsoft Teams.](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)</span><span class="sxs-lookup"><span data-stu-id="eb432-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
