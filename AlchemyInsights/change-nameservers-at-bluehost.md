@@ -2,25 +2,26 @@
 title: Modificarea serverelor de nume la Bluehost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5858"
 - "14"
-ms.openlocfilehash: 9a8e3157a2f10e88b9fe3da65f32be573f1f2961
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 60effb8e2a5e4d0bb7c241ed71562d87dffd14b5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818840"
 ---
-# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="56ba1-102">Modificarea serverelor de nume la Bluehost</span><span class="sxs-lookup"><span data-stu-id="56ba1-102">Change nameservers at Bluehost</span></span>
+# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="beb0e-102">Modificarea serverelor de nume la Bluehost</span><span class="sxs-lookup"><span data-stu-id="beb0e-102">Change nameservers at Bluehost</span></span>
 
-[<span data-ttu-id="56ba1-103">Modificarea serverelor de nume pentru a configura Microsoft 365 cu Bluehost</span><span class="sxs-lookup"><span data-stu-id="56ba1-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
+[<span data-ttu-id="beb0e-103">Modificarea serverelor de nume pentru a configura Microsoft 365 cu Bluehost</span><span class="sxs-lookup"><span data-stu-id="beb0e-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
 
-<span data-ttu-id="56ba1-104">Pentru alte probleme domenii încercați [Domenii FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="56ba1-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="beb0e-104">Pentru alte probleme legate de domenii, încercați  [Întrebări frecvente despre domenii](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="beb0e-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
