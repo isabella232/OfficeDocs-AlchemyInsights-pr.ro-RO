@@ -1,24 +1,25 @@
 ---
-title: Multi-Geo capabilități în Exchange Online
+title: Multi-Geo Capabilities în Exchange Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: 7c002b523cb8f2b796f69dd0dfc2fb61a4594ff2
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: 67028211f9aab0e982cfdd0307673e6235001d4d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825275"
 ---
-# <a name="multi-geo-capabilities-in-exchange-online"></a>Multi-Geo capabilități în Exchange Online
+# <a name="multi-geo-capabilities-in-exchange-online"></a>Multi-Geo Capabilities în Exchange Online
 
-Într-un mediu multi-geo, aveți posibilitatea să selectați locația de conținut de cutie poștală Exchange Online (date în repaus) pe o bază de utilizator.
-- [Multi-Geo Capabilități în Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+Într-un mediu multi-geo, puteți selecta locația conținutului cutiei poștale Exchange Online (datele când sunt stocate) în funcție de utilizator.
+- [Multi-Geo Capabilities în Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)

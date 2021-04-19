@@ -1,26 +1,27 @@
 ---
-title: Notificarea expirată a abonamentului în aplicațiile Office
+title: Notificare de expirare a abonamentului în aplicațiile Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789278"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823583"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Notificarea „Abonament expirat” apare în Office 365 Solo 
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Notificarea "Abonament expirat" în aplicațiile Microsoft 365
 
-- Verificați[Pagina Stare de Serviciu](https://docs.microsoft.com/office365/enterprise/view-service-health) pentru a vedea dacă există probleme cunoscute cu serviciul.
+- Verificați[Pagina Stare de Serviciu](https://docs.microsoft.com/office365/enterprise/view-service-health) pentru a vedea dacă există probleme cunoscute de serviciu.
 
 - Verificați dacă [starea abonamentului](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) este validă și dacă utilizatorului afectat i s-a [atribuit o licență validă](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) și este conectat la internet. Dacă ați comutat recent la un nou abonament sau plan Microsoft, încercați să dezinstalați Office și să îl reinstalați pe computerul afectat.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789278"
 
 - Rulați [Depanatorul de activare](https://aka.ms/SARA-OfficeActivation-Alchemy) și reporniți computerul.
 
-- Pe computerul afectat, [resetați starea de activare Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Pe computerul afectat, [resetați starea de activare Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Pentru instrucțiuni detaliate, consultați: 
 

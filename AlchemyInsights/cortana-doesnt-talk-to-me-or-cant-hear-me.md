@@ -2,39 +2,40 @@
 title: Cortana nu vorbește cu mine sau nu mă poate auzi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816536"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana nu vorbește cu mine sau nu mă poate auzi
 
-Dacă încercați să utilizați caracteristica "Hey Cortana", care vă permite să vorbiți cu Cortana fără a selecta butonul Cortana din bara de activități sau butonul microfon din panoul Cortana, confirmați că caracteristica este activată:
+Dacă încercați să utilizați caracteristica "Hey Cortana" (Salut, Cortana), care vă permite să vorbiți cu Cortana fără să selectați butonul Cortana din bara de activități sau butonul microfonului din panoul Cortana, confirmați că această caracteristică este activată:
 
-1. Accesați **Start**, apoi **[selectați Setări > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. Sub **Hey Cortana**, comutați comutatorul **Permiteți Cortana să răspundă la "Hey Cortana"** la **Activat**.
+1. Accesați **Start**, apoi selectați **[Setări > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. Sub Salut, Cortana , **comutați Let Cortana respond to "Hey Cortana" (Salut,** **Cortana)** la **Activat**.
 
-![Hei Cortana](media/hey-cortana.png)
+![Salut, Cortana](media/hey-cortana.png)
 
-**Setările de confidențialitate împiedică Cortana să vă audă?**
+**Setările dvs. de confidențialitate împiedică Cortana să vă audă?**
 
-Setările de confidențialitate pot împiedica Cortana să răspundă la vocea dvs.
-- Verificați dacă este activată recunoașterea vorbirii online:
-    - Accesați **Start**, apoi faceți clic pe **[Setări > vorbire > de confidențialitate](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - Sub **Recunoaștere vorbire online**, comutați setarea la **Activat**.
-- Verificați dacă Cortana are permisiunea de a vă accesa microfonul. 
-    - Accesați Start, apoi faceți clic pe **[Setări > Confidențialitate > Microfon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - Sub **Alegeți ce aplicații vă pot accesa microfonul**, căutați **Cortana** în lista de aplicații și servicii și asigurați-vă că comutatorul este comutat la **Activat**.
+Setările dvs. de confidențialitate pot împiedica Cortana să răspundă la vocea dvs.
+- Asigurați-vă că recunoașterea vorbirii în online este activată:
+    - Accesați **Start , apoi** faceți clic pe **[Setări > Confidențialitate > Vorbire.](ms-settings:privacy-speech?activationSource=GetHelp)**
+    - Sub **Recunoașterea vorbirii online**, comutați setarea la **Pornit**.
+- Asigurați-vă că Cortana are permisiunea de a vă accesa microfonul. 
+    - Accesați Start, apoi faceți clic **[pe Setări > Confidențialitate > Microfon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - Sub **Alegeți ce aplicații** vă pot accesa microfonul , căutați **Cortana** în lista de aplicații și servicii și asigurați-vă că comutatorul este comutat la **Activat**.
 
-În plus, asigurați-vă, de asemenea, că difuzoarele sau microfoanele sunt pornite și funcționează pentru a discuta cu Cortana.
+În plus, vă rugăm, de asemenea, să vă asigurați că difuzoarele sau microfoanele sunt activați pentru a discuta cu Cortana.

@@ -1,45 +1,46 @@
 ---
-title: Clasificarea automată nu se comportă conform așteptărilor cu clientul AIP
+title: Clasificarea automată nu are loc așa cum este așteptat cu clientul AIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820910"
 ---
-# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Clasificarea automată nu se comportă conform așteptărilor cu clientul AIP
+# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Clasificarea automată nu are loc așa cum este așteptat cu clientul AIP
 
-Clasificarea automată nu se comportă conform așteptărilor, utilizați următoarele instrucțiuni recomandate:
+Clasificarea automată nu are rezultatele așteptate, utilizați următoarele instrucțiuni recomandate:
 
-1. Dacă aveți probleme cu etichetarea automată, consultați [Cum se configurează condițiile pentru clasificarea automată și recomandată pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) și Ce caută tipurile de informații [sensibile](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-2. Verificați dacă utilizați politici de domeniu care nu sunt configurate corect: [Cum se configurează politica azure protecția informațiilor pentru anumiți utilizatori utilizând politici ledomeniu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-3. Dacă etichetarea automată nu funcționează pentru Outlook atunci când atașați un document etichetat, verificați că `DRMEncryptProperty` nu este definit ă ca descris ă aici: Setările de registry [IRM pentru securitate](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
-4. Dacă ați utilizat [tipurile de informații predefinite](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) pentru politica de protecție a informațiilor Azure, verificați dacă conținutul se potrivește cu formatul așteptat.
-5. Verificați dacă eticheta este configurată corespunzător pentru **Automat** sau **Recomandat**. (Etichetarea automată este**disponibilă** pentru toate aplicațiile Office, în timp ce **recomandat** este disponibil pentru toate aplicațiile Office, cu excepția Outlook.)
-6. Nu puteți utiliza clasificarea automată pentru documente și e-mailuri care au fost etichetate anterior manual sau etichetate anterior automat cu o clasificare mai mare.  Pentru mai multe informații, consultați: [Cum se aplică etichetele automate sau recomandate](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Dacă vă confruntați în continuare probleme, vă rugăm să colecteze Jurnalele de client Azure Information Protection și atașați jurnalele exportate la biletul de asistență. Pentru a exporta jurnalele azure informații de protecție:
-    - Deschideți un document Office sau creați un e-mail nou în Outlook.
-    - Faceți clic pe Ajutor și feedback **pentru protecție/sensibilitate**  >  **Help and feedback**.
-    - Faceți clic pe **Export jurnale**.
+1. Dacă aveți probleme cu etichetarea automată, consultați Cum se configurează condițiile pentru clasificarea automată și recomandată pentru [Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) și Ce tipuri de informații sensibile [caută.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+2. Verificați dacă utilizați politici de domeniu care nu sunt configurate corect: Cum se configurează politica [Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)pentru utilizatori specifici utilizând politici de domeniu.
+3. Dacă etichetarea automată nu funcționează pentru Outlook atunci când atașați un document etichetat, verificați dacă nu este definit așa cum este descris aici: Setări de `DRMEncryptProperty` [registry IRM pentru securitate.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
+4. Dacă ai utilizat [tipurile de informații predefinite pentru](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) politica Azure Information Protection, verificați dacă conținutul se potrivește cu formatul așteptat.
+5. Verificați dacă eticheta este configurată corespunzător pentru **Automat** sau **Recomandat.** (**Etichetarea** automată este disponibilă pentru toate aplicațiile Microsoft 365, în timp ce Recomandare este disponibilă pentru toate aplicațiile Microsoft 365, cu excepția Outlook.) 
+6. Nu puteți utiliza clasificarea automată pentru documente și mesaje de e-mail care au fost etichetate anterior manual sau etichetate anterior cu o clasificare superioară.  Pentru mai multe informații, consultați: [Cum se aplică etichetele automate sau recomandate.](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied)
+7. Dacă încă aveți probleme, colectați jurnale ale clientului Azure Information Protection și atașați jurnalele exportate la tichetul de asistență. Pentru a exporta jurnalele Azure Information Protection:
+    - Deschideți un document Office sau creați un mesaj de e-mail nou în Outlook.
+    - Faceți clic pe Ajutor și feedback **pentru**  >  **protejare/sensibilitate.**
+    - Faceți **clic pe Export jurnale.**
     - Salvați jurnalele la alegerea locației și atașați-le la solicitarea de serviciu.
 
 Pentru informații suplimentare, consultați:
 
-- [se configurează condițiile pentru clasificarea automată și recomandată pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
-- [Ghiduri de utilizare pentru scenarii comune care utilizează Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)
-- [Examinați documentația Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Revizuirea abonamentelor și caracteristicilor Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+- [Cum se configurează condițiile pentru clasificarea automată și recomandată pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
+- [Ghiduri detaliate pentru scenarii comune care utilizează Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)
+- [Revizuiți documentația Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Revizuiți abonamentele și caracteristicile Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
 - [Cerințe pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 - [Tutorial de pornire rapidă pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
 - [Descărcați clientul Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

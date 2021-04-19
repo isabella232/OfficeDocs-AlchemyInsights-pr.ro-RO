@@ -1,25 +1,26 @@
 ---
-title: Faceți copii de rezervă ale documentelor, imaginilor și folderelor Desktop cu OneDrive
+title: Faceți back up folderelor Documente, Imagini și Desktop cu OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708491"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820658"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Faceți copii de rezervă ale documentelor, imaginilor și folderelor Desktop cu OneDrive
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Faceți back up folderelor Documente, Imagini și Desktop cu OneDrive
 
-Aveți posibilitatea să [faceți copii de rezervă ale folderelor importante](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) (folderele Desktop, Documente și Imagini) de pe PC-ul Windows cu backup ul folderului OneDrive PC, astfel încât acestea să fie protejate și disponibile pe alte dispozitive. Această caracteristică nu este încă disponibilă pentru Mac.  
+Puteți face [backup](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  folderelor importante (folderele Desktop, Documente și Imagini) de pe PC-ul Windows cu backupul folderului OneDrive PC, astfel încât să fie protejate și disponibile pe alte dispozitive. Această caracteristică nu este disponibilă încă pentru Mac.  
 
-Dacă sunteți un administrator IT care dorește să gestioneze copierea de rezervă a folderelor importante pentru o organizație, există instrucțiuni pentru [rularea Mutări foldere cunoscute OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Dacă, un administrator IT, doresc să gestioneze o astfel de gestionare a folderelor importante pentru o organizație, există instrucțiuni pentru rulând [Mutare folder cunoscut OneDrive.](https://docs.microsoft.com/onedrive/redirect-known-folders)

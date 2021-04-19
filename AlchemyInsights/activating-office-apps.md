@@ -2,21 +2,22 @@
 title: Activarea aplicațiilor Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735224"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823043"
 ---
 # <a name="activating-microsoft-365-apps"></a>Activarea aplicațiilor Microsoft 365
 
@@ -26,7 +27,7 @@ Pentru a activa Office, consultați:
 
 - [Activați Office pe un Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Notă:**  Asigurați-vă că aveți un abonament Office 365 sau Microsoft 365 care [include aplicații client Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)de exemplu, Microsoft 365 Business Standard, Microsoft 365 Apps for business sau Microsoft 365 Apps for enterprise. În plus, asigurați-vă că contul de utilizator pe care îl utilizați pentru a vă conecta la aplicațiile Office are [o licență atribuită](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Notă:**  Asigurați-vă că aveți un abonament Office 365 sau Microsoft 365 care include aplicații [client Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)de exemplu Microsoft 365 Business Standard, aplicații Microsoft 365 pentru firme sau aplicații Microsoft 365 pentru întreprinderi. În plus, asigurați-vă că aveți atribuită o licență contului de utilizator pe care îl utilizați pentru a vă conecta [la aplicațiile](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)Office.
 
 Pentru a depana problemele de activare Office, consultați:
 
@@ -34,6 +35,8 @@ Pentru a depana problemele de activare Office, consultați:
 - [Erorile de activare și „Produs nelicențiat” în Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Ce să încercați dacă nu puteți instala sau activa Office pentru Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Sfat** Pe computerele Windows putem diagnostica și remedia automat pentru dvs. mai multe probleme comune de conectare la Office. Descărcați și rulați **[Asistentul pentru recuperare și asistență pentru Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automatizat.
 
 Dacă nu vă puteți conecta la aplicațiile Microsoft 365, urmați pașii de mai jos:
 

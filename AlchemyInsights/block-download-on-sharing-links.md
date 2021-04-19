@@ -1,25 +1,26 @@
 ---
-title: Blocarea descărcării la partajarea linkurilor
+title: Blocați descărcarea linkurilor de partajare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358034"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820262"
 ---
-# <a name="block-download-on-sharing-links"></a>Blocarea descărcării la partajarea linkurilor
+# <a name="block-download-on-sharing-links"></a>Blocați descărcarea linkurilor de partajare
 
-**Descărcarea blocului** este disponibilă pentru **linkurile doar pentru vizualizare** la documente Office. Când selectați această opțiune, persoanele care obțin acces la fișier prin intermediul linkului pe care l-ați creat nu vor vedea opțiunile de descărcare, imprimare sau copiere a fișierului.
+Atunci când partajați elemente cu alte persoane în OneDrive sau SharePoint, le puteți oferi acces la vizualizare, dar nu și la descărcare.
 
-Administratorii pot controla dacă setarea "block download" apare numai pentru fișierele Office sau nu prin modificarea `BlockDownloadLinksFileType` setării în cmdlet-urile [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) sau [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell.
+Pentru mai multe informații, consultați: [Blocarea descărcărilor pentru fișierele doar pentru vizualizare în SharePoint și OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)

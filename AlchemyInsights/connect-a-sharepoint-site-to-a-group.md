@@ -2,30 +2,33 @@
 title: Conectarea unui site SharePoint la un grup
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "5747"
-ms.openlocfilehash: 324cd20560925587d9c9187a0cf50579d99304e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: HT
+- "5200004"
+- "5767"
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493613"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817076"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>Conectarea unui site SharePoint la un grup
 
 Utilizați expertul de conexiune la grup pentru a conecta un site SharePoint la un grup Microsoft 365.
 
-1. De pe site-ul pe care doriți să vă conectați la un grup, selectați **Setări (pictograma roată).**
-2. Selectați **Conectare la noul grup Microsoft 365**.
+1. De pe site-ul pe care preferați să vă conectați la un grup, selectați  **Setări (pictograma rotiștă dințată)**.
+2. Selectați  **Conectare la noul grup Microsoft 365**.
 3. Urmați expertul pentru a finaliza conexiunea.
 
-**Notã:**  Dacă Conectarea la noul grup Microsoft 365 nu este disponibilă, site-ul nu va accepta o conexiune de grup.
+**Notă:**  Dacă nu este disponibilă conectarea la noul grup Microsoft 365, site-ul nu va acceptă o conexiune de grup.
 
-Pentru mai multe informații, consultați [Conectarea la un grup Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+Pentru mai multe informații, consultați [Conectarea la un grup Office 365.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

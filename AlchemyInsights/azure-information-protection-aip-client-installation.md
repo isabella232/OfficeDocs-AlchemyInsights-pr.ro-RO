@@ -2,21 +2,22 @@
 title: 'Azure Information Protection: instalarea clientului AIP'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944319"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820766"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: instalarea clientului AIP
 
@@ -33,4 +34,8 @@ Dacă instalați clientul AIP, respectați următorii pași recomandați:
 
 4. Dacă întâmpinați în continuare probleme la instalarea clientului propriu-zis după ce ați rulat instrumentul de mai sus, localizați folderul **% temp%** și furnizați fișierele jurnal de instalare pentru client care încep cu Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. Dacă instalarea a reușit și întâmpinați în continuare probleme în utilizarea AIP, selectați Subiectul de asistență potrivit pentru soluțiile respective.
+Pentru mai multe informații:
+
+- Revizuiți [documentația Azure Information Protection(AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)cerințele de [configurare](https://docs.microsoft.com/azure/information-protection/get-started/requirements) și locația pentru [descărcarea clientului AIP.](https://www.microsoft.com/download/details.aspx?id=53018)
+
+- Pentru informații despre abonamentul Azure, consultați [Abonamentele și caracteristicile Azure Information Protection.](https://azure.microsoft.com/pricing/details/information-protection)
