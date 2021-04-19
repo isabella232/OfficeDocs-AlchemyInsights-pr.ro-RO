@@ -2,9 +2,10 @@
 title: Cum configurez conferințele audio pentru Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,26 +13,26 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709951"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811072"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams - Conferințe audio
 
-Aveți nevoie de ajutor pentru a activa sau a configura conferințele audio în Microsoft Teams? Acest utilizator a fost creat recent?  Dacă este așa, va trebui să așteptați 2 - 24 de ore pentru ca setările să aibă efect.
+Aveți nevoie de ajutor pentru activarea sau [configurarea Conferințelor audio pentru Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Utilizatorul a fost creat recent? Dacă da, va trebui să aveți nevoie de câteva ore pentru ca setările să aibă efect.
 
-Pentru a verifica dacă utilizatorul este licențiat pentru conferințe audio și are un Număr apelare cu taxă implicit:
+Dacă [au fost achiziționate](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)licențe , verificați dacă utilizatorul este licențiat pentru Conferință audio Microsoft 365 și are un număr implicit de apelare cu taxă.
 
 1. Accesați [Utilizatori activi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) și apoi selectați utilizatorul respectiv.
 
 2. În funcție de versiunea centrului de administrare, alegeți **Licențe și aplicații** sau faceți clic pe **Editare** pe **Licențe de produs**.
 
-3. Confirmați că utilizatorul are licențe selectate pentru **Conferințe audio, Microsoft Teams** și **Skype for Business Online (Plan 2)**.
+3. Confirmați că utilizatorul are licențe selectate pentru **Conferințe audio Microsoft 365, Microsoft Teams** și Skype for Business Online **(Plan 2).** Dacă licența **Conferinței audio Microsoft 365** nu este prezentă, va trebui să [cumpărați mai întâi adăugare licențe.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
-4. Utilizator **Centre de administrare** faceți clic pe **Afișați tot** apoi faceți clic pe **Teams**.
+4. Utilizator **Centre de administrare** faceți clic pe **Afișați tot** și apoi pe **Teams**.
 
 5. În **Centrul de administrare Microsoft Teams** faceți clic pe **Portal moștenit**.
 
@@ -39,4 +40,4 @@ Pentru a verifica dacă utilizatorul este licențiat pentru conferințe audio ș
 
 7. Selectați utilizatorul în cauză și verificați dacă utilizatorul are un **Număr apelare cu taxă implicit**.
 
-Pentru mai multe informații, consultați [Planurile de apelare](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) sau apelați echipa de facturare Microsoft Commerce pentru a vă ajuta cu întrebările legate de licențiere.
+Dacă aveți nevoie de ajutor mai mare cu achiziționarea licențelor pentru **Conferința audio Microsoft,** apelați [Asistența pentru facturare Microsoft.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)

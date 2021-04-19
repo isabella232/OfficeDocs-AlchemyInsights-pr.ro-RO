@@ -1,49 +1,50 @@
 ---
-title: Crearea unei relații de organizație pentru a permite utilizatorilor să colaboreze cu altă organizație
+title: Crearea unei relații de organizație pentru a le permite utilizatorilor să colaboreze cu altă organizație
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862196"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816140"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Crearea unei relații de organizație pentru a permite utilizatorilor să colaboreze cu altă organizație
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Crearea unei relații de organizație pentru a le permite utilizatorilor să colaboreze cu altă organizație
 
-1. Din tabloul de bord al centrului **Admin**de administrare Microsoft 365, accesați  >  **Admin Exchange**.
-2. Accesați **organization**  >  **partajarea organizației**.
-3. Sub **Partajare organizație**, faceți clic pe **Nou** .
-4. În **noua relație de organizare**, în caseta Nume **relație,** tastați un nume prietenos pentru relația de organizație.
-5. În caseta **Domenii de partajat cu,** tastați domeniul pentru organizația locală Externă Office 365 sau Exchange pe care doriți să o permiteți să vedeți calendarele. Dacă trebuie să introduceți mai multe domenii, separați numele de domenii cu o virgulă. De exemplu, contoso.com, service.contoso.com.
-6. Bifați caseta de selectare **Activare partajare informații liber/ocupat calendar** pentru a activa partajarea calendarului cu domeniile pe care le-ați listat. Setați nivelul de partajare pentru informațiile din calendar liber/ocupat și setați utilizatorii care pot partaja informațiile de calendar liber/ocupat.  
+1. Din tabloul de bord al centrului de administrare Microsoft 365, accesați **Admin**  >  **Exchange**.
+2. Accesați **partajarea**  >  **organizației.**
+3. Sub Partajare **organizație, faceți** clic **pe Nou** .
+4. În **noua relație de organizație,** în caseta Nume **relație,** tastați un nume prietenos pentru relația organizației.
+5. În caseta **Domenii** de partajat cu, tastați domeniul pentru organizația office 365 sau Exchange externă pe care doriți să o permiteți să vedeți calendarele. Dacă trebuie să introduceți mai multe domenii, separați numele de domeniu prin virgulă. De exemplu, contoso.com, service.contoso.com.
+6. Bifați caseta **de selectare Activați partajarea informațiilor liber/ocupat** din calendar pentru a activa partajarea calendarelor cu domeniile listate. Setați nivelul de partajare pentru informațiile liber/ocupat din calendar și setați ce utilizatori pot partaja informațiile liber/ocupat din calendar.  
 
 Pentru a seta nivelul de acces liber/ocupat, selectați una dintre următoarele:
 
-- **Informații despre calendar liber/ocupat numai cu timp**
-- **Calendar liber/ocupat cu timpul, subiectul și locația**  
+- **Informații liber/ocupat din calendar doar cu timpul**
+- **Liber/ocupat din calendar cu timpul, subiectul și locația**  
 
- Pentru a seta utilizatorii care vor partaja informațiile din calendar liber/ocupat, selectați una dintre următoarele:
+ Pentru a seta utilizatorii care vor partaja informații liber/ocupat din calendar, selectați una dintre următoarele:
 
 - **Toate persoanele din organizația dvs.**
 - **Un grup de securitate specificat**  
 
-Faceți clic pe **răsfoire** pentru a alege grupul de securitate dintr-o listă, apoi faceți clic pe **ok**.
+Faceți **clic** pe răsfoire pentru a alege grupul de securitate dintr-o listă, apoi faceți clic **pe OK.**
 
-Faceți clic pe **salvare** pentru a crea relația de organizație.  
+Faceți **clic** pe salvare pentru a crea relația de organizație.  
 
-**Notă:** Configurațiile între entități găzduite nu acceptă persoanele de contact personale pentru căutarea liber/ocupat. Persoanele de contact trebuie incluse în lista globală de adrese pentru ca căutarea liber/ocupat să funcționeze.
+**Notă:** Configurațiile între entități găzduite nu acceptă persoanele de contact personale pentru căutare liber/ocupat. Persoanele de contact trebuie să fie incluse în lista globală de adrese pentru ca căutare liber/ocupat să lucreze.
 
-**Pentru o înțelegere completă a acestui subiect vă rugăm să citiți:**
+**Pentru a înțelege complet acest subiect, citiți:**
 
 - [Crearea unei relații de organizație în Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
 - [Modificarea unei relații de organizație în Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)

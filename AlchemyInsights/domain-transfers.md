@@ -2,34 +2,32 @@
 title: Transferuri de domenii
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783983"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814889"
 ---
 # <a name="domain-transfers"></a>Transferuri de domenii
 
-- [Cum se poate transfera un domeniu Microsoft achiziționat către un alt furnizor după 60 de zile](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+[Cum se poate transfera un domeniu Microsoft achiziționat către un alt furnizor după 60 de zile](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-    - Deși domeniile Microsoft achiziționate nu acceptă modificarea înregistrărilor NS, luați în considerare [actualizarea înregistrărilor DNS pentru site-ul dvs. web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) în locul transferării înregistrării domeniului către gazda web.
+- Rețineți că un domeniu Microsoft achiziționat nu poate fi transferat între entitățile găzduite Microsoft 365.
+- Deși domeniile achiziționate de Microsoft nu acceptă modificarea înregistrărilor NS, luați în considerare actualizarea înregistrărilor [DNS](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) pentru site-ul web în loc să transferați înregistrarea domeniului la gazda web.
 
-- Un domeniu Microsoft achiziționat nu poate fi transferat între entitățile găzduite de Microsoft 365. 
+Domeniile particularizate pot fi [verificate și utilizate cu Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
 
-    - Totuși, puteți transfera un domeniu de la terți între entitățile găzduite de Microsoft 365 prin [eliminarea domeniului de la o entitate găzduită](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide), iar apoi verificând domeniul dintr-o altă entitate găzduită.
+- Înregistrarea sau facturarea domeniilor particularizate de la terți nu poate fi transferată la Microsoft.
 
-- Înregistrarea sau facturarea domeniilor de la terți nu se pot transfera către Microsoft.
-
-    - Dar domeniile particularizate pot fi [verificate și utilizate cu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- Domeniile inițiale implicite Onmicrosoft.com nu pot fi transferate sau redenumite.
+Onmicrosoft.com implicite nu pot fi transferate sau redenumite.

@@ -1,8 +1,8 @@
 ---
-title: Înregistrările întâlnirilor teams în OneDrive
+title: Înregistrarea întâlnirilor Teams în OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807684"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810280"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Înregistrările întâlnirilor teams în OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Înregistrarea întâlnirilor Teams în OneDrive
 
-Microsoft teams are o metodă nouă pentru salvarea înregistrărilor de întâlnire. Ca prima fază a unei tranziții de la Microsoft Stream Classic la [noul flux](https://docs.microsoft.com/stream/streamnew/new-stream), această metodă stochează înregistrări în Microsoft OneDrive pentru Business și SharePoint în Microsoft 365 și oferă multe beneficii.  
+Microsoft Teams are o nouă metodă de a salva înregistrările întâlnirilor. Ca prima fază a unei tranziții de la Microsoft Stream clasic la noul [Stream,](https://docs.microsoft.com/stream/streamnew/new-stream)această metodă stochează înregistrările în Microsoft OneDrive pentru business și SharePoint din Microsoft 365 și oferă multe beneficii.  
 
-- [Configurarea opțiunii de înregistrare a întâlnirii pentru OneDrive pentru Business și SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Renunțarea la OneDrive pentru Business și SharePoint pentru a continua utilizarea fluxului](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Configurarea opțiunii de înregistrare a întâlnirilor pentru OneDrive pentru business și SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Renunțați la OneDrive pentru business și SharePoint pentru a continua să utilizați Stream](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Întrebări frecvente](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

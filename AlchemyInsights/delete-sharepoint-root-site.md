@@ -2,7 +2,7 @@
 title: Ștergerea site-ului rădăcină SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713823"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815483"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>Ștergerea site-ului rădăcină SharePoint
 
 Ștergerea site-ului rădăcină SharePoint  **nu este acceptată.**
 
-1.  Dacă site-ul rădăcină a fost deja șters, utilizatorii vor experimenta un fișier 404 care nu a găsit eroarea atunci când încearcă să acceseze site-ul.
-2.  Pentru a rezolva, restaurați site-ul din noul centru de administrare SharePoint accesând pagina  [site-uri șterse](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  , selectați site-ul rădăcină și faceți clic pe Restaurare.
-3.  În loc să ștergeți site-ul rădăcină, utilizați [Înlocuire site](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  din noul centru de administrare SharePoint după ce se restaurează site-ul rădăcină.
+1.  Dacă site-ul rădăcină a fost deja șters, utilizatorii vor primi o eroare 404 Fișier neac găsit atunci când încearcă să acceseze site-ul.
+2.  Pentru a rezolva problema, restaurați site-ul din [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) noul centru de administrare SharePoint, accesând pagina Site-uri șterse, selectați site-ul rădăcină și faceți clic pe Restaurare.
+3.  În loc să ștergerea site-ului rădăcină, utilizați [înlocuirea site-ului](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  din noul Centru de administrare SharePoint, după ce site-ul rădăcină este restaurat.
 
-Pentru mai multe informații, consultați [modernizarea site-ului rădăcină](https://docs.microsoft.com/sharepoint/modern-root-site)
+Pentru mai multe informații, consultați [Modernizarea site-ului rădăcină](https://docs.microsoft.com/sharepoint/modern-root-site)
