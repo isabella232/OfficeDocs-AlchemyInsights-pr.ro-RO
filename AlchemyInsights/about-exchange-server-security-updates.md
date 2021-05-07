@@ -1,5 +1,5 @@
 ---
-title: Despre actualizările de securitate Exchange Server
+title: Despre Exchange Server actualizări
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726539"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233474"
 ---
-# <a name="about-exchange-server-security-updates"></a>Despre actualizările de securitate Exchange Server
+# <a name="about-exchange-server-updates"></a>Despre Exchange Server actualizări
 
-Microsoft a lansat o serie de actualizări de securitate critice pentru Exchange Server local. Versiunile de server afectate sunt niveluri de actualizare pentru Exchange Server 2010, 2013, 2016 și 2019. Exchange Online nu este afectat, dar dacă aveți câteva servere Exchange locale din cauza configurației hibride, acestea sunt potențial vulnerabile.
+Microsoft lansează de obicei Exchange Server actualizări pentru actualizarea de marți (actualizări de securitate) sau trimestriale (actualizări cumulative). Pentru a vedea anunțurile despre cele mai recente actualizări lansate, consultați [blogul echipei Exchange .](https://aka.ms/ehlo)
 
-Vă rugăm să consultați următorul anunț pentru locația remedierii: [lansat: actualizări de securitate din martie 2021 Exchange Server](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Pentru a vă inventari Exchange serverele de nume, utilizați scriptul Exchange Server Verificator de bună [Exchange Server, (utilizați GitHub cea mai recentă versiune).](https://aka.ms/ExchangeHealthChecker) Rularea acestui script vă spune dacă oricare dintre serverele Exchange este în spatele actualizărilor (MEU și SUS).
 
-**Note importante:**
+- Pentru a actualiza la cea mai recentă actualizare cumulativă, [accesați expertul Exchange actualizare](https://aka.ms/ExchangeUpdateWizard) și alegeți cu cât rulează în prezent CU și cu cu ținta. Selectați **Spuneți-mi pașii** pentru a obține indicații de orientare pentru mediul dvs.
 
-Dacă instalați actualizările manual, vă rugăm să citiți secțiunea "probleme cunoscute" din articolele Update KB pentru informații importante. Actualizările de securitate trebuie să fie executate de la promptul CMD/PowerShell privilegiat!
-
-Informații despre depanarea actualizărilor pot fi [găsite aici](https://aka.ms/exupdatefaq).
+- Dacă întâmpinați erori în timpul sau după instalarea actualizărilor Exchange Server, consultați Repararea instalărilor nereușizate [de Exchange actualizările cumulate și de securitate.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

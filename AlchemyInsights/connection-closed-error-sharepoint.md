@@ -1,5 +1,5 @@
 ---
-title: The underlying connection was closed error in SharePoint
+title: Eroarea de conexiune închisă a conexiunii subiacente din SharePoint
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: 762b000fd9c63e0913a88402150055e8ee7c56de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: b64215b5b83ef1092eb58791e6dbb015b72d422d
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51595666"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233438"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>Eroarea "Conexiunea subiacentă a fost închisă" din SharePoint
 
-Dacă primiți eroarea "Conexiunea subiacentă a fost închisă" în SharePoint, aceasta poate fi legată de perimarea TLS 1.0/1.1. Pentru mai multe informații, consultați aceste articole:
+Dacă primiți eroarea "Conexiunea subiacentă a fost închisă" în SharePoint aceasta poate fi legată de perimarea TLS 1.0/1.1. Pentru mai multe informații, consultați aceste articole:
 
-- [Pregătirea pentru TLS 1.2 în Office 365 și Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365?view=o365-worldwide)
+- [Pregătirea pentru TLS 1.2 în Office 365 Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365?view=o365-worldwide)
 
 - [Erorile de autentificare apar dacă clientul nu are suport pentru TLS 1.2](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+
+Dacă utilizatorii sunt în Windows 7, asigurați-vă că verifică suitele [TLS Cipher în Windows 7.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)

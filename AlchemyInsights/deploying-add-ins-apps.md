@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125683"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233546"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Implementarea programelor de completare pentru Aplicații Microsoft 365
 
 Implementarea centralizată este modul recomandat pentru implementarea Office de completare pentru utilizatori și grupuri în cadrul organizației. Pentru a implementa programe de completare, urmați pașii de mai jos:
 
-**Notă:** Pentru a instala programe de completare pentru Office ca utilizator individual, consultați Vizualizarea, gestionarea și instalarea programelor de [completare Office programele.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) De asemenea, asigurați-vă că achiziționarea individuală de Office de completare din Magazin este activată. 
+**Notă:** Pentru a instala programe de completare pentru Office ca utilizator individual, consultați Vizualizarea, gestionarea și instalarea programelor de [completare Office programele.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) De asemenea, asigurați-vă că achiziționarea individuală de Office de completare din Magazin este activată. Pentru detalii, consultați Prevenirea descărcărilor de programe de completare prin dezactivarea descărcării Office Magazin pentru toți clienții [(cu excepția Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Asigurați-vă că mediul dvs. îndeplinește cerințele pentru implementarea de programe de completare care utilizează Implementarea centralizată. Pentru detalii, consultați [Cerințe.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. Accesați Pagina **Setări Aplicații**  >  **integrate**  >  **Obțineți aplicații din** centrul Microsoft 365 administrare pentru a implementa programe de completare. 

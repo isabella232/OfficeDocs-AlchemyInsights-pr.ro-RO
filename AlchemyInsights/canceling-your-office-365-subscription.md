@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896879"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261604"
 ---
 # <a name="canceling-your-subscription"></a>Vă anulați abonamentul?
 
-Ne pare rău să vă vedem, dar dacă doriți să vă anulați abonamentul, iată care sunt opțiunile:
+Ne pare rău că plecați, dar dacă doriți să anulați abonamentul, iată care sunt opțiunile dvs.:
   
-- Dacă aveți mai puțin de 25 de licențe atribuite, puteți anula abonamentul online. Accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** și găsiți abonamentul pe care doriți să-l anulați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.
-- Dacă aveți mai mult de 25 de licențe atribuite utilizatorilor, [apelați asistența pentru a anula abonamentul](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Dacă aveți mai puțin de 25 de licențe atribuite, vă puteți anula abonamentul online. Accesați pagina Facturare **produse** \> **[și găsiți](https://go.microsoft.com/fwlink/p/?linkid=842054)** abonamentul pe care doriți să-l anulați. Selectați **Mai multe** acțiuni (trei puncte), apoi selectați **Anulați abonamentul**.
+- Dacă aveți mai mult de 25 de licențe atribuite utilizatorilor, apelați [asistența pentru a vă anula abonamentul.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.**
+**Rambursare: Orice credit rambursat vă va fi returnat în următorul ciclu de facturare.**
 
 > [!NOTE]
-> Dacă nu vedeți opțiunea de anulare, selectați abonamentul pentru a vizualiza pagina de detalii. În secțiunea **abonamente și setări de plată** , selectați **Anulare abonament**.
+> Dacă nu vedeți opțiunea de a anula, selectați abonamentul pentru a vizualiza pagina de detalii. În **secțiunea Setări abonament și plată,** selectați **Anulați abonamentul.**
 
-Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Pentru a afla mai multe, [consultați Anularea abonamentului.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

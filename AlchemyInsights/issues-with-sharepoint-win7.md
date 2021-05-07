@@ -12,23 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006484"
 - "11070"
-ms.openlocfilehash: 787f0e713cc95b590bc494868d5098a25131ac56
-ms.sourcegitcommit: d33ab8c73d8af51da782094fb8f8abf7626f4df3
-ms.translationtype: MT
+ms.openlocfilehash: 5329a1cadf5ca38e479040fe1f400129e51e783f
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52125515"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261568"
 ---
 # <a name="issues-with-sharepoint-on-windows-7-machines"></a>Probleme cu SharePoint pe Windows 7
 
 Dacă primiți erori pe Windows 7 mașini în timp ce lucrați pe SharePoint sau OneDrive, acestea pot fi legate de perimarea TLS 1.0/1.1. Pentru mai multe informații, consultați:
 
-- [Pregătirea pentru TLS 1.2 în Office 365 Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+[Erori de autentificare atunci când vă conectați la SharePoint sau de OneDrive la Windows 8 sau 7](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-windows7)
 
-- Windows 7 SP1/Windows 8 trebuie să aibă TLS1.2 activat. Pentru mai multe informații, [consultați Erorile de autentificare apar atunci când clientul nu are suport pentru TLS 1.2](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
-
-- Instalați KB3140245 și creați valoarea de registry. Pentru mai multe informații, consultați Actualizarea pentru a activa [TLS 1.1 și TLS 1.2 ca protocoale](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392) sigure implicite în WinHTTP în Windows
-
-- Windows 7 SP1/Windows 8 trebuie să se asigure că sunt instalate cele mai recente suite TLS cipher. Pentru mai multe informații, consultați [Microsoft Security Advisory 3042058.](https://docs.microsoft.com/security-updates/SecurityAdvisories/2015/3042058) 
 
 
