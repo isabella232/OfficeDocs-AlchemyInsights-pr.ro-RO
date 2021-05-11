@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708542"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312416"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>Rularea Microsoft Edge în modul chioșc
 
-Puteți configura modul chioșc în Microsoft Edge versiunile 77 și versiuni mai recente, precum și în Microsoft Edge Legacy Versions 45 și versiuni anterioare.
+Puteți configura modul chioșc în Microsoft Edge 87 și mai recente, precum și în versiunile vechea versiune Microsoft Edge 45 și anterioare. Pentru mai multe informații, [consultați Configurarea modului Microsoft Edge chioșc.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Puteți configura dispozitivele care rulează în Windows 10 să [ruleze în modul de chioșc cu o singură aplicație sau cu mai multe aplicații](https://go.microsoft.com/fwlink/?linkid=2133659).
+Puteți să configurați dispozitivele care rulează pe Windows 10 să [ruleze](https://go.microsoft.com/fwlink/?linkid=2133659)în modul chioșc cu o singură aplicație sau cu mai multe aplicații .
 
-Pentru mai multe informații despre configurarea modului chioșc în cea mai recentă versiune a canalului Microsoft Edge stable și în Microsoft Edge Legacy, consultați:
+Pentru mai multe informații despre configurarea modului chioșc în cea mai recentă versiune a canalului Microsoft Edge stabil și în vechea versiune Microsoft Edge, consultați:
 
 - [Microsoft Edge cu acces atribuit](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Parametru linie de comandă Microsoft Edge "--chioșc"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Suport pentru modul chioșc moștenit Microsoft Edge](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge Parametrul de linie de comandă "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Suport pentru vechea versiune Microsoft Edge chioșc](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
