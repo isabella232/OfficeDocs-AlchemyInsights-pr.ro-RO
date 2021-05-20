@@ -1,5 +1,5 @@
 ---
-title: Configurarea SPF
+title: Configurați SPF
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798964"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544662"
 ---
-# <a name="set-up-spf"></a>Configurarea SPF
+# <a name="set-up-spf"></a>Configurați SPF
 
-Actualizați înregistrările DNS, astfel încât să puteți utiliza un cadru de politică expeditor (SPF) cu domeniul particularizat pentru a valida e-mailurile de ieșire trimise din domeniul particularizat. Acest lucru ajută la împiedicarea altor persoane să "falsificare" corespondență ca și cum ar fi trimis din domeniul dvs.
+Actualizați înregistrările DNS, astfel încât să puteți utiliza un SPF (Sender Policy Framework) cu domeniul particularizat pentru a valida e-mailurile de ieșire trimise din domeniul particularizat. Acest lucru împiedică alte persoane să "falsofeze" mesajele de e-mail ca și cum ar fi fost trimise din domeniul dvs.
   
-- [Configurați SPF pentru a preveni falsificarea](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Configurați SPF pentru a contribui la prevenirea falsării](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Ajutor la configurarea tuturor înregistrărilor DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Depanarea înregistrărilor SPF](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Ajutor la configurarea tuturor înregistrărilor DNS](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

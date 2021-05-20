@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 9f5bdb508f2e1ab884cb199914885ccb6103f2fb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261768"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543904"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Solicitarea stării de scutire de impozite
 
-Pregătiți-vă să fiți gata pentru următoarele documentații. Va trebui să [începeți o solicitare de serviciu](/microsoft-365/admin/contact-support-for-business-products) pentru a stabili starea de scutire de impozite.
+Pregătiți-vă să fiți gata pentru următoarele documentații. Va trebui să [începeți o solicitare de serviciu](https://go.microsoft.com/fwlink/p/?linkid=518322) pentru a stabili starea de scutire de impozite.
 
 - **Statele Unite** - Vă rugăm să aveți **Certificat de scutire de taxe de vânzări** gata.
 
@@ -33,4 +33,4 @@ Pregătiți-vă să fiți gata pentru următoarele documentații. Va trebui să 
 
 - **Puerto Rico** - Vă rugăm să aveți **Certificado de Compras Exentas** gata.
 
-Pentru mai multe informații, consultați [Informații despre taxe](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
+Pentru mai multe informații, consultați [Informații despre taxe](/microsoft-365/commerce/billing-and-payments/tax-information).

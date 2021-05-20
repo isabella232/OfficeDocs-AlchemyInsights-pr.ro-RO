@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801455"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545280"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Depanarea Microsoft Defender pentru Office 365
 
-- Observați întârzieri în livrarea mesajelor? Utilizați opțiunea de [livrare dinamică](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) din Politica de atașări sigure pentru ATP. Acest lucru vă va ajuta să evitați întârzierile mesajelor, protejând destinatarii din fișiere rău intenționate.
+- **Observați întârzieri în livrarea mesajelor?** Utilizați opțiunea [Livrare dinamică](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) din politica Microsoft Defender pentru Office 365 Seif atașări. Acest lucru vă va ajuta să evitați întârzierile mesajelor în timp ce protejați destinatarii de fișiere rău intenționate.
 
-- Doriți să raportați pozitiv false sau negative false la Microsoft? Utilizați acest [link](https://www.microsoft.com/wdsi/filesubmission/) pentru a remite fișiere pentru analiză.
+- **Doriți să raportați rezultatele fals pozitive sau fals negative la Microsoft?** Utilizați [Remitere Explorer](https://protection.office.com/reportsubmission).
 
-- Știați că puteți să activați protecția Linkuri sigure pentru e-mailul intern trimis între destinatarii din cadrul Organizației? Urmați acești pași:
+-** Știți că puteți activa protecția linkurilor Seif pentru mesajele de e-mail interne trimise între destinatarii din cadrul organizației dvs.?** Urmați acești pași:
 
-  1. Accesați [https://protection.office.com](https://protection.office.com) și conectați-vă cu un cont de administrator global sau de administrator de securitate.
+  1. Accesați și [https://protection.office.com](https://protection.office.com) conectați-vă cu un cont de administrator global sau de administrator de securitate.
 
-  2. În panoul de navigare din stânga, sub **gestionare amenințări** , alegeți **Policy** \> **linkuri sigure** pentru politică.
+  2. În panoul de navigare din stânga, sub **Gestionarea amenințărilor,** **alegeți Linkuri** \> **Seif politică.**
 
-  3. În **politicile care se aplică la întreaga** secțiune a Organizației, selectați politica și faceți clic pe **Editare** .
+  3. În **Politicile care se aplică la întreaga secțiune a organizației,** selectați politica și faceți clic pe **Editare**.
 
-  4. Sub **Setări** , activați **aplicați Linkuri sigure la mesajele trimise în cadrul Organizației** .
+  4. Sub **Setări**, activați **Se aplică linkuri sigure la mesajele trimise în cadrul organizației**.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827768"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544156"
 ---
 # <a name="unlocking-an-account"></a>Deblocarea unui cont
 
@@ -25,7 +25,7 @@ Este posibil ca accesul utilizatorilor să fie blocat din Microsoft 365 din cauz
 
 **E-mail restricționat**
 
-În calitate de administrator, dacă unuia dintre utilizatori i se restricționează posibilitatea de a trimite mesaje de e-mail, puteți să [deblocați singur contul](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Utilizatorul va putea trimite mesaje de e-mail în aproximativ o oră după eliminarea restricției.
+În calitate de administrator, dacă unuia dintre utilizatori i se restricționează posibilitatea de a trimite mesaje de e-mail, puteți să [deblocați singur contul](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Utilizatorul va putea trimite mesaje de e-mail în aproximativ o oră după eliminarea restricției.
 
 **Resetarea parolei de utilizator**
 
@@ -37,8 +37,8 @@ Este posibil ca accesul utilizatorilor să fie blocat din Microsoft 365 din cauz
 
 1. În Centrul de administrare, accesați **Utilizatori > [Utilizatori activi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. Selectați utilizatorul și faceți clic pe **Mai multe acțiuni (...)**; apoi, faceți clic pe **Editați starea de conectare**.
+2. Selectați utilizatorul și faceți clic pe cele trei puncte (mai multe acțiuni), apoi faceți **clic pe Editați starea de conectare.**
 
-Pentru mai multe scenarii de resetare a parolei, inclusiv resetarea parolei cu autoservire, consultați [Resetarea parolelor Microsoft 365 Business pentru încercări multiple de debitare a instrumentelor de plată online](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Pentru mai multe scenarii de resetare a parolei, inclusiv resetarea parolei cu autoservire, consultați [Resetarea parolelor Microsoft 365 Business pentru încercări multiple de debitare a instrumentelor de plată online](/microsoft-365/admin/add-users/reset-passwords).
 
-Serviciul previne utilizatorul să trimită mesaje de e-mail după detectarea unor elemente care ar indica un cont compromis și/sau a unui spam de ieșire. Ca măsură de precauție, urmați pașii din [Răspundeți la un cont de e-mail compromis în Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) pentru utilizator.
+Serviciul previne utilizatorul să trimită mesaje de e-mail după detectarea unor elemente care ar indica un cont compromis și/sau a unui spam de ieșire. Ca măsură de precauție, urmați pașii din [Răspundeți la un cont de e-mail compromis în Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) pentru utilizator.

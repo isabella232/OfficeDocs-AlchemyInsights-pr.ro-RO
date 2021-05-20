@@ -1,5 +1,5 @@
 ---
-title: Inventarierea software-ului lipsește sau este inexactă
+title: Inventarul de software lipsește sau nu este corect
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665298"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543976"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Inventarierea software-ului lipsește sau este inexactă
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Inventarul de software lipsește sau nu este corect
 
-Inventarul software din Microsoft Defender ATP service furnizează numele produsului sau distribuitorului, numărul său de versiune cel mai recent și a detectat deficiențe și vulnerabilități. Pentru mai multe informații, consultați [inventarul software-gestionarea amenințărilor și a vulnerabilității](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Inventarul de software din serviciul Microsoft Defender ATP furnizează numele sau vânzătorul produsului, numărul său de versiune cea mai recentă și vulnerabilitățile detectate. Pentru mai multe informații, consultați [Inventar software - Gestiunea amenințărilor și vulnerabilităților](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Puteți raporta informații vagi sau incomplete, numere de versiune incorecte sau informații despre inventarul software remediat, urmând acești pași.  
+Puteți să raportați informații vagi sau incomplete, numere de versiune incorecte sau informații remediate despre inventarul de software, urmând acești pași.  
 
-1. Deschideți flyout software și selectați aplicația pe pagina inventar software.
-2. Selectați **inacuratețea raportului**și, din panoul flyout, selectați o categorie din meniul vertical.
-3. Completați adresa de e-mail și detaliile inexactității.
+1. Deschideți fereastra volanta a software-ului și selectați aplicația pe pagina de inventar a software-ului.
+2. Selectați **Inaccuracy Report** și, din panoul flyout, selectați o categorie din meniul vertical.
+3. Completați adresa de e-mail și detaliile inadvertenției.
 4. Selectați **Remitere**.</br>
-    Feedbackul dumneavoastră este trimis imediat la amenințare & experți în gestionarea vulnerabilității.
+    Feedbackul dvs. este trimis imediat experților în & de management al vulnerabilității.

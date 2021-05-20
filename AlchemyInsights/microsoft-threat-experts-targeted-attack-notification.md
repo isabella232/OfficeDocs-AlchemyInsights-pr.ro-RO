@@ -1,5 +1,5 @@
 ---
-title: Notificare de atac orientată către experți Microsoft Threat
+title: Experți Microsoft în domeniul amenințărilor - Notificare de atac pentru țintit
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714849"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545388"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Notificare de atac orientată către experți Microsoft Threat
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Experți Microsoft în domeniul amenințărilor - Notificare de atac pentru țintit
 
-Notificarea de atac specifică este una dintre cele două capacități Microsoft Threat experts. Este un serviciu de vânătoare de amenințări proactiv care oferă detalii și analize speciale care asigură faptul că cele mai critice amenințări sunt identificate și au răspuns rapid și precis.
+Notificarea de atac pentru o țintă este una dintre cele două capacități Experți Microsoft în domeniul amenințărilor atac. Este un serviciu de căutare a amenințărilor proactive care oferă detalii și analize speciale, care asigură faptul că cele mai critice amenințări sunt identificate și răspundeți rapid și corect.
 
-Dacă sunteți client Microsoft Defender pentru punctul final, trebuie să solicitați notificări privind atacurile de la Microsoft Threat Experts pentru a obține detalii și analize speciale care ajută la identificarea amenințărilor cele mai critice, astfel încât să le puteți răspunde rapid.
+Dacă aveți Microsoft Defender pentru clientul punct final, trebuie să solicitați notificări de atac pentru Experți Microsoft în domeniul amenințărilor - pentru a obține detalii și analize speciale, care ajută la identificarea celor mai critice amenințări, astfel încât să puteți răspunde rapid la acestea.
 
-Pentru a vă înscrie la Microsoft Threat Experts-beneficiați de notificări de atac orientate către experți, accesați **Setări**  >  **General**  >  **Complex caracteristici**  >  **Microsoft Threat-notificări de atac vizate** pentru a se aplica. După ce ați acceptat, veți primi beneficiile notificărilor de atac specifice.
+Pentru a vă înscrie la Experți Microsoft în domeniul amenințărilor - beneficiile notificărilor de atac țintit, accesați **Setări** caracteristici generale avansate Experți Microsoft în domeniul amenințărilor - notificările de atac  >    >    >   țintit pentru a se aplica. După ce este acceptat, veți primi avantajele notificărilor de atac țintit.
 
-Puteți primi o notificare de atac specifică de la experții amenințați Microsoft prin următorul mediu:
+Puteți primi notificări de atac țintit Experți Microsoft în domeniul amenințărilor prin următoarele medii:
 
-- Pagina de incidente a site-ului Defender pentru Endpoint
-- Tabloul de bord al avertizărilor pentru portalul Defender pentru Endpoint
-- OData alerte API și REST API
-- Tabel DeviceAlertEvents în vânătoare avansată
-- Mesajul de e-mail, dacă alegeți să-l configurați
+- Pagina Defender pentru incidentele portalului de punct final
+- The Defender for Endpoint portal's Alerts dashboard
+- API de avertizare OData și REST API
+- DeviceAlertEvents table in Advanced hunting
+- Adresa de e-mail, dacă alegeți să o configurați
 
-Pentru a primi notificări de atac direcționate prin e-mail, creați o regulă de notificare prin e-mail. 
+Pentru a primi notificări de atac țintit prin e-mail, creați o regulă de notificare prin e-mail. 
 
-Consultați [Configurarea și gestionarea capacităților de experți Microsoft Threat](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) pentru detalii.
+Consultați [Configurarea și gestionarea capacităților Experți Microsoft în domeniul amenințărilor pentru](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) detalii.
