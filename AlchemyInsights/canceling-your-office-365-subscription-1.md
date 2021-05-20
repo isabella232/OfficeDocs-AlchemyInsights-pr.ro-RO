@@ -1,5 +1,5 @@
 ---
-title: Vă anulați abonamentul Microsoft 365?
+title: Vă anulați Microsoft 365 abonament?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931660"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543265"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Vă anulați abonamentul Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Vă anulați Microsoft 365 abonament?
 
-Ne pare rău să vă vedem, Iată pașii pentru a vă anula abonamentul:
+Ne pare rău că plecați, iată pașii pentru anularea abonamentului:
 
-1. În centrul de administrare, accesați pagina **Facturare**  >  **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** , apoi selectați fila **produse** .
-2. Găsiți abonamentul pe care doriți să-l anulați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.
-3. În panoul **Anulare abonament** , alegeți un motiv pentru care anulați. Opțional, furnizați orice feedback.
+1. În centrul de administrare, accesați pagina Facturare  >  **[produse,](https://go.microsoft.com/fwlink/p/?linkid=842054)** apoi selectați **fila** Produse.
+2. Găsiți abonamentul pe care doriți să-l anulați. Selectați cele trei puncte (mai multe acțiuni), apoi selectați **Anulați abonamentul.**
+3. În panoul **Anulați** abonamentul, alegeți un motiv pentru care anulați. Opțional, oferiți feedback.
 4. Selectați **Salvare**.
 
-Pentru a afla mai multe despre anularea unui abonament sau opțiuni, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Pentru a afla mai multe despre anularea unui abonament sau despre opțiuni, consultați [Anularea abonamentului.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Dacă doriți să continuați să utilizați abonamentul pe durata versiunii de încercare, puteți dezactiva facturarea recurentă pentru abonament. Pentru a afla cum, consultați [reînnoirea Microsoft 365 pentru Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Dacă preferați să utilizați în continuare abonamentul pe durata perioadei de încercare, puteți dezactiva facturarea recurentă pentru abonament. Pentru a afla cum, [consultați Microsoft 365 pentru firme.](/microsoft-365/commerce/subscriptions/renew-your-subscription)

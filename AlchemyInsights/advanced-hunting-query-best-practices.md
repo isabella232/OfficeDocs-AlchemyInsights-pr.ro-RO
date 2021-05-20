@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 02fe79d1cda2bdd853896520fa41b7ef7f9becb4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821747"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542977"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>Cele mai bune practici pentru interogarea de căutare complexă
 
-Consultați articolul complet Cele mai bune [practici de interogare de căutare complexă pentru](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) recomandări detaliate și instrucțiuni despre:
+Consultați articolul complet Cele mai bune [practici de interogare de căutare complexă pentru](/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) recomandări detaliate și instrucțiuni despre:
 - Optimizarea performanței interogărilor.
 - Sfaturi pentru interogări și sugestii de pe acum.
 - Interogări cu linii de comandă.

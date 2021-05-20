@@ -1,5 +1,5 @@
 ---
-title: Anularea Power BI
+title: Anulați Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287186"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543445"
 ---
-# <a name="cancel-power-bi"></a>Anularea Power BI
+# <a name="cancel-power-bi"></a>Anulați Power BI
 
-Power BI poate fi anulat în centrul de administrare Microsoft 365.
+Power BI poate fi anulat în centrul Microsoft 365 de administrare.
 
-1. În centrul de administrare, accesați pagina **facturare > [produsele dvs](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-2. Pe fila **produse** , găsiți abonamentul pe care doriți să-l anulați. Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.
-3. În panoul **Anulare abonament** , alegeți un motiv pentru care anulați. Opțional, furnizați orice feedback.
+1. În centrul de administrare, accesați pagina **Facturare > [Produsele](https://go.microsoft.com/fwlink/p/?linkid=842054)** dvs.
+2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l anulați. Selectați cele trei puncte (mai multe acțiuni), apoi selectați **Anulați abonamentul.**
+3. În panoul **Anulați** abonamentul, alegeți un motiv pentru care anulați. Opțional, oferiți feedback.
 4. Selectați **Salvare**.
 
-**Rambursare: orice credit proporțional va fi returnat în următorul ciclu de facturare.**
+**Rambursare: Orice credit rambursat vă va fi returnat în următorul ciclu de facturare.**
 
 > [!NOTE]
-> Dacă nu vedeți opțiunea de anulare, selectați abonamentul pentru a vizualiza pagina de detalii. În secțiunea **abonamente și setări de plată** , selectați **Anulare abonament**.
+> Dacă nu vedeți opțiunea de a anula, selectați abonamentul pentru a vizualiza pagina de detalii. În **secțiunea Setări abonament și plată,** selectați **Anulați abonamentul.**
 
-Pentru a afla mai multe, consultați [Anularea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Pentru a afla mai multe, [consultați Anularea abonamentului.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
