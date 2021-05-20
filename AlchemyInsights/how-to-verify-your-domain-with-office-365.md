@@ -1,5 +1,5 @@
 ---
-title: 'Cum să vă verificați domeniul '
+title: 'Cum se verifică domeniul '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683878"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569627"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="676ab-102">Cum să vă verificați domeniul</span><span class="sxs-lookup"><span data-stu-id="676ab-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="508c3-102">Cum se verifică domeniul</span><span class="sxs-lookup"><span data-stu-id="508c3-102">How to verify your domain</span></span>
 
-<span data-ttu-id="676ab-103">Pentru a verifica un domeniu, urmați [Expertul Adăugare domeniu](https://admin.microsoft.com/Adminportal#/Domains/Wizard)sau accesați manual domenii de **configurare**  >    >  **Adăugare domeniu**.</span><span class="sxs-lookup"><span data-stu-id="676ab-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="508c3-103">Pentru a verifica un domeniu, [urmați expertul Adăugare](https://admin.microsoft.com/Adminportal#/Domains/Wizard)domeniu sau accesați manual **Setarea**  >  **domeniilor Adăugare**  >  **domeniu.**</span><span class="sxs-lookup"><span data-stu-id="508c3-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setting** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="676ab-104">Pentru mai multe informații despre modificările DNS necesare pentru a vă verifica domeniul, consultați instrucțiunile din [adăugarea de înregistrări DNS pentru a vă conecta domeniul](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="676ab-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="508c3-104">Pentru mai multe informații despre modificările DNS necesare pentru verificarea domeniului, consultați instrucțiunile din [Adăugarea de înregistrări DNS pentru a vă conecta domeniul.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)</span><span class="sxs-lookup"><span data-stu-id="508c3-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="676ab-105">Pentru alte întrebări despre domenii, consultați [secțiunea întrebări frecvente despre domenii](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="676ab-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="508c3-105">Pentru alte întrebări despre domenii, consultați Întrebări frecvente [despre domenii.](/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="508c3-105">For other domains questions, see the [Domains FAQ](/microsoft-365/admin/setup/domains-faq).</span></span>

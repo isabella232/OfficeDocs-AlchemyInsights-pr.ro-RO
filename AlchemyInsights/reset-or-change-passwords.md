@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810208"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569663"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="c41dc-102">Resetarea sau modificarea parolelor</span><span class="sxs-lookup"><span data-stu-id="c41dc-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="1fd9d-102">Resetarea sau modificarea parolelor</span><span class="sxs-lookup"><span data-stu-id="1fd9d-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="c41dc-103">Un utilizator își poate modifica propria parolă din **Contul meu pentru a &**  >  [confidențialitatea.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="c41dc-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="1fd9d-103">Un utilizator își poate modifica propria parolă selectând fotografia de utilizator sau inițialele sale > **Vizualizare cont.**</span><span class="sxs-lookup"><span data-stu-id="1fd9d-103">A user can change their own password by selecting their user photo or initials > **View account**.</span></span>
   
-<span data-ttu-id="c41dc-104">Dacă utilizatorul și-a uitat parola, un administrator poate reseta parola accesând Utilizatori utilizatori activi , selectați utilizatorii și faceți clic  >  [](https://portal.office.com/adminportal/home#/users)pe **Reinițializare parolă.**</span><span class="sxs-lookup"><span data-stu-id="c41dc-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="1fd9d-104">Dacă utilizatorul și-a uitat parola, un administrator poate reseta parola accesând Utilizatori utilizatori activi , selectați utilizatorii și faceți clic  >  [](https://portal.office.com/adminportal/home#/users)pe **Reinițializare parolă.**</span><span class="sxs-lookup"><span data-stu-id="1fd9d-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="c41dc-105">[Faceți clic aici pentru a afla](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)mai multe sau pentru a le permite utilizatorilor să își reseteze propriile parole uitate.</span><span class="sxs-lookup"><span data-stu-id="c41dc-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="1fd9d-105">Pentru a afla mai multe despre parole și a le permite utilizatorilor să își reseteze parolele, consultați [Resetarea parolelor.](/microsoft-365/admin/add-users/reset-passwords)</span><span class="sxs-lookup"><span data-stu-id="1fd9d-105">To learn more about passwords and allowing users to reset their own passwords, see [Reset passwords](/microsoft-365/admin/add-users/reset-passwords).</span></span>
