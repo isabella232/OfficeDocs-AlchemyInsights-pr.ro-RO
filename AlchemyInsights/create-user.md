@@ -1,5 +1,5 @@
 ---
-title: Creați un utilizator
+title: Crearea unui utilizator
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747024"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569759"
 ---
-# <a name="create-user"></a>Creați un utilizator
+# <a name="create-user"></a>Crearea unui utilizator
 
-**ANUNȚ**
+**ANUNȚ:**
 
-- [Dezaprobarea suportului de conectare pentru vizualizare de la Google începând cu 4 ianuarie 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Testați dacă aplicațiile dumneavoastră pot fi afectate, urmând [instrucțiunile Google](https://go.microsoft.com/fwlink/?linkid=2157323) privind compatibilitatea testării.
-- Asigurați-vă că utilizați vizualizarea web sau browserul de sistem la conectarea utilizatorilor cu conturi Google pentru consumatori. Pentru mai multe informații, consultați [probleme la conectarea la aplicații utilizând doar browserul Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [Perimarea suportului pentru conectare WebView de la Google începând cu 4 ianuarie 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testați dacă aplicațiile dvs. pot fi afectate [urmând instrucțiunile Google](https://go.microsoft.com/fwlink/?linkid=2157323) privind testarea compatibilității.
+- Asigurați-vă că utilizați vizualizarea web sau browserul de sistem de sistem atunci când vă conectați utilizatorii cu conturi Google de larg consum. Pentru mai multe informații, [consultați Probleme la conectarea la aplicații utilizând doar browserul Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
-**Nu pot crea un utilizator nou în directorul Azure AD**
+**Nu pot crea un utilizator nou în directorul meu Azure AD**
 
-1. Asigurați-vă că sunteți autorizat să creați un nou utilizator standard. Doar rolul administratorului general sau al administratorului de utilizator din Azure Active Directory (AD) poate crea un nou utilizator standard. Dacă nu sunteți într-unul dintre aceste roluri, solicitați unui administrator să vă adauge la unul dintre aceste roluri sau să vă creeze noul cont de utilizator.
-1. Asigurați-vă că numele de utilizator se află într-un domeniu care este verificat în reclama Azure. Dacă nu aveți niciun nume de domeniu particularizat verificat în reclama Azure, puteți utiliza domeniul inițial Azure AD, care se termină cu *. onmicrosoft.com.
-1. Asigurați-vă că numele de utilizator se află într-un domeniu care nu este federativ la Azure AD din reclama locală. Utilizatorii nu pot fi adăugați în cloud cu numele de domenii care sunt federative din local.
+1. Asigurați-vă că sunteți autorizat să creați un utilizator standard nou. Doar rolul de administrator global sau de administrator de Azure Active Directory (AD) poate crea un utilizator standard nou. Dacă nu aveți unul dintre aceste roluri, solicitați unui administrator să vă adauge la unul dintre aceste roluri sau să creeze noul cont de utilizator pentru dvs.
+1. Asigurați-vă că numele de utilizator se află într-un domeniu verificat în Azure AD. Dacă nu aveți niciun nume de domeniu particularizat verificat în Azure AD, puteți utiliza domeniul inițial Azure AD, care se termină cu *.onmicrosoft.com.
+1. Asigurați-vă că numele de utilizator se află într-un domeniu care nu este federativ cu Azure AD din AD local. Utilizatorii nu pot fi adăugați în cloud cu nume de domeniu federative din local.
 1. Asigurați-vă că niciun alt utilizator sau persoană de contact nu are deja numele de utilizator pe care doriți să-l atribuiți noului utilizator. Numele de utilizator trebuie să fie unice în Azure AD.
-1. Consultați [rolurile AZURE AD și administratorii](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru reclama Azure.
-1. Consultați [numele de domenii](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru reclama Azure.
-1. Revizuiți [jurnalele de audit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru a vedea mai multe informații detaliate despre un utilizator recent creat sau șters, cum ar fi cine a efectuat acțiunea și când.
-1. Pentru mai multe informații despre adăugarea de utilizatori noi, consultați [utilizarea portalului Azure pentru a crea un utilizator nou în reclama Azure](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Roluri administrative AZURE AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): permisiuni de rol de administrator în Azure Active Directory
-1. De asemenea, puteți [utiliza AZURE AD PowerShell pentru a crea un utilizator nou](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. Consultați [Rolurile și administratorii Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru Azure AD.
+1. Consultați numele [de domeniu](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru Azure AD.
+1. Revizuiți [jurnalele de auditare](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru a vedea informații mai detaliate despre un utilizator creat recent sau șters, cum ar fi cine a efectuat acțiunea și când.
+1. Pentru mai multe informații despre adăugarea de utilizatori noi, consultați [Utilizarea portalului Azure pentru a crea un utilizator nou în Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Roluri administrative Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)Permisiuni de rol de administrator în Azure Active Directory
+1. De asemenea, [puteți utiliza Azure AD PowerShell pentru a crea un utilizator nou.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

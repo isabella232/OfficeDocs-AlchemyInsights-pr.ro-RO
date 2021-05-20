@@ -1,5 +1,5 @@
 ---
-title: 'Cum să vă verificați domeniul '
+title: 'Cum se verifică domeniul '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683878"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569627"
 ---
-# <a name="how-to-verify-your-domain"></a>Cum să vă verificați domeniul
+# <a name="how-to-verify-your-domain"></a>Cum se verifică domeniul
 
-Pentru a verifica un domeniu, urmați [Expertul Adăugare domeniu](https://admin.microsoft.com/Adminportal#/Domains/Wizard)sau accesați manual domenii de **configurare**  >    >  **Adăugare domeniu**.
+Pentru a verifica un domeniu, [urmați expertul Adăugare](https://admin.microsoft.com/Adminportal#/Domains/Wizard)domeniu sau accesați manual **Setarea**  >  **domeniilor Adăugare**  >  **domeniu.**
 
-Pentru mai multe informații despre modificările DNS necesare pentru a vă verifica domeniul, consultați instrucțiunile din [adăugarea de înregistrări DNS pentru a vă conecta domeniul](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Pentru mai multe informații despre modificările DNS necesare pentru verificarea domeniului, consultați instrucțiunile din [Adăugarea de înregistrări DNS pentru a vă conecta domeniul.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Pentru alte întrebări despre domenii, consultați [secțiunea întrebări frecvente despre domenii](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Pentru alte întrebări despre domenii, consultați Întrebări frecvente [despre domenii.](/microsoft-365/admin/setup/domains-faq)

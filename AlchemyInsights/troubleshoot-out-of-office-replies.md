@@ -1,5 +1,5 @@
 ---
-title: Depanarea răspunsurilor automate "Out Of Office"
+title: Depanarea în afara Office automate
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832250"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573722"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Depanarea răspunsurilor automate "Out Of Office"
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Depanarea în afara Office automate
 
-O largă varietate de cauze posibile ar putea fi cauza problemelor, în funcție de modul în care ați configurat răspunsurile automate "Out of Office".
+O largă varietate de cauze posibile ar putea fi cauza problemelor, în funcție de modul în care ați configurat răspunsurile Office automate.
 
-Pentru a înțelege mai bine unde ar putea fi problema, citiți Înțelegerea și depanarea răspunsurilor  [De tip "Out of Office" (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Pentru a înțelege mai bine unde ar putea fi problema, citiți Înțelegerea și depanarea [răspunsurilor Out of Office (OOF).](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)
