@@ -1,5 +1,5 @@
 ---
-title: Suspendarea sau întreruperea unui abonament
+title: Suspendarea sau punerea în pauză a unui abonament
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469098"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544518"
 ---
-# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="df943-102">Suspendarea sau întreruperea unui abonament</span><span class="sxs-lookup"><span data-stu-id="df943-102">Suspend or pause a subscription</span></span>
+# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="9b1ff-102">Suspendarea sau punerea în pauză a unui abonament</span><span class="sxs-lookup"><span data-stu-id="9b1ff-102">Suspend or pause a subscription</span></span>
 
-<span data-ttu-id="df943-103">Pentru a suspenda sau a întrerupe temporar abonamentul, puteți anula abonamentul în centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="df943-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="9b1ff-103">Pentru a suspenda sau a pune temporar în pauză abonamentul, puteți anula abonamentul din centrul Microsoft 365 de administrare.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="df943-104">În centrul de administrare, accesați pagina **Facturare**  >  **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="df943-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-2. <span data-ttu-id="df943-105">Pe fila **produse** , găsiți abonamentul pe care doriți să-l anulați.</span><span class="sxs-lookup"><span data-stu-id="df943-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="df943-106">Selectați **mai multe acțiuni** (trei puncte), apoi selectați **Anulare abonament**.</span><span class="sxs-lookup"><span data-stu-id="df943-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="df943-107">Starea abonamentului se afișează ca **Dezactivat** și afișează data la care a fost anulat abonamentul.</span><span class="sxs-lookup"><span data-stu-id="df943-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="df943-108">Abonamentul rămâne într-o stare dezactivată pentru 90 de zile și a redus funcționalitatea până când este șters sau [reactivat](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="df943-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
+1. <span data-ttu-id="9b1ff-104">În centrul de administrare, accesați pagina **Facturare**  >  **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="9b1ff-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="9b1ff-105">Pe fila **Produse,** găsiți abonamentul pe care doriți să-l anulați.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="9b1ff-106">Selectați cele trei puncte (mai multe acțiuni), apoi selectați **Anulați abonamentul.**</span><span class="sxs-lookup"><span data-stu-id="9b1ff-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="9b1ff-107">Starea abonamentului se **afișează ca** Dezactivat și afișează data la care abonamentul a fost anulat.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="9b1ff-108">Abonamentul rămâne în starea dezactivat timp de 90 de zile și are funcționalitate redusă până când este șters sau [reactivat.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="9b1ff-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-<span data-ttu-id="df943-109">Pentru mai multe informații, consultați [ce se întâmplă atunci când anulați un abonament](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) și [Salvați datele](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span><span class="sxs-lookup"><span data-stu-id="df943-109">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>
+<span data-ttu-id="9b1ff-109">Pentru mai multe informații, consultați [Ce se întâmplă atunci când anulați un abonament](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) și [Salvați datele.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)</span><span class="sxs-lookup"><span data-stu-id="9b1ff-109">For more info, see [What happens when you cancel a subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>

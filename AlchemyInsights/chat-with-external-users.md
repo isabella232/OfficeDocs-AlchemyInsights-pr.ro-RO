@@ -1,0 +1,31 @@
+---
+title: Discuții pe chat cu utilizatori externi - invitați sau utilizatori federativi
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 05/06/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "3700001"
+- "9001733"
+ms.openlocfilehash: e226c77267a6dd6dfacc47d4c7a4b56fdc1b7afe
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.translationtype: MT
+ms.contentlocale: ro-RO
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52564569"
+---
+# <a name="chat-with-external-users---guests-or-federated-users"></a><span data-ttu-id="1b878-102">Discuții pe chat cu utilizatori externi - invitați sau utilizatori federativi</span><span class="sxs-lookup"><span data-stu-id="1b878-102">Chat with external users - guests or federated users</span></span>
+
+<span data-ttu-id="1b878-103">Dacă aveți nevoie de ajutor pentru comunicarea cu utilizatorii din afara organizației în Teams, utilizați Acces extern [(federalizare) sau Acces invitați.](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)</span><span class="sxs-lookup"><span data-stu-id="1b878-103">If you need help communicating with users outside your Organization in Teams, use [External Access (Federation) or Guest Access](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access).</span></span>
+
+<span data-ttu-id="1b878-104">Nu contează să revizuiți diferențele pentru a înțelege caracteristicile disponibile pentru fderation și pentru a ghici accesul.</span><span class="sxs-lookup"><span data-stu-id="1b878-104">Be sure to review the differences to understand the features available for fderation and guess access.</span></span> <span data-ttu-id="1b878-105">De exemplu, Accesul extern ((federalizare) permite comunicații 1:1, cum ar fi Chat și Prezență, dar utilizatorii federativi nu pot participa Teams colaborare.</span><span class="sxs-lookup"><span data-stu-id="1b878-105">For example, External access ((federation) allows for 1:1 communications, like Chat and Presence, but federated users can't participate in Teams collaboration.</span></span> <span data-ttu-id="1b878-106">Dacă preferați ca un utilizator extern să se alăture conversațiilor de pe canalul Teams și să participe la acestea sau să partajează fișiere, trebuie să activați accesul invitaților.</span><span class="sxs-lookup"><span data-stu-id="1b878-106">If you’d like an external user to join and participate in Teams Channel Conversations or Share Files, you must turn on Guest Access.</span></span> <span data-ttu-id="1b878-107">Pentru detalii, consultați [Gestionarea accesului extern în Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access).</span><span class="sxs-lookup"><span data-stu-id="1b878-107">For details, see [Manage external access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access).</span></span>
+
+<span data-ttu-id="1b878-108">**Opțiunea 1: Activarea Accesului extern (Federalizare)** Dacă doriți să activați Accesul extern (federalizare), în centrul de administrare Teams, accesați Acces extern la nivel de [ **organizație Setări și**  > ](https://admin.teams.microsoft.com/company-wide-settings/external-communications) activați Accesul extern Utilizatorii pot comunica cu Skype for Business și Teams\*\*s.</span><span class="sxs-lookup"><span data-stu-id="1b878-108">**Option 1: Turn On External Access (Federation)** If you want to turn on External Access (Federation), in the Teams admin center go to [**Org-wide Settings** > **External Access**](https://admin.teams.microsoft.com/company-wide-settings/external-communications) and turn on Users can communicate with Skype for Business and Teams user\*\*s.</span></span> <span data-ttu-id="1b878-109">Urmați pașii din [Permiteți ca utilizatorii Teams conversați pe chat și să comunice cu utilizatori din altă organizație.](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)</span><span class="sxs-lookup"><span data-stu-id="1b878-109">Follow the steps in [Let your Teams users chat and communicate with users in another organization](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).</span></span>
+
+<span data-ttu-id="1b878-110">**Opțiunea 2: Activați accesul invitaților** În centrul Teams, accesați Org [ **Wide Setări**  >  **Guest Access**](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) și activați **Permiteți accesul invitaților în Teams**.</span><span class="sxs-lookup"><span data-stu-id="1b878-110">**Option 2: Turn on Guest Access** In the Teams admin center, go to [**Org Wide Settings** > **Guest Access**](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) and turn on **Allow Guest Access in Teams**.</span></span> <span data-ttu-id="1b878-111">Pentru a particulariza configurația accesului invitaților, asigurați-vă că urmați toți pașii din lista [de verificare Acces invitați.](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="1b878-111">To customize your Guest Access configuration, make sure you follow all the steps in the [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist).</span></span> <span data-ttu-id="1b878-112">După ce terminați complet, trebuie să așteptați până la 24 de ore pentru ca setările să aibă efect.</span><span class="sxs-lookup"><span data-stu-id="1b878-112">Once you're completely done, you must wait up to 24 hours for the settings to take effect.</span></span> <span data-ttu-id="1b878-113">Pentru mai multe informații, inclusiv videoclipuri despre cum să faceți acest lucru, [consultați Accesul invitaților în Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="1b878-113">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span></span>
