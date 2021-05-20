@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286862"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539980"
 ---
 # <a name="subscription-recurring-billing"></a>Facturare recurentă abonament
 
-Dacă doriți să știți când abonamentul lunar sau anual este facturat (dacă **facturarea recurentă** este activată) sau atunci când expiră (dacă **facturarea recurentă** este dezactivată), utilizați pașii următori:
+Dacă doriți să știți când este facturat abonamentul dvs. lunar sau anual (dacă facturarea  recurentă este activată) sau când expiră (dacă facturarea recurentă este dezactivată), urmați acești pași: 
   
-1. În centrul de administrare, accesați pagina **Facturare** \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pe fila **produse** , găsiți abonamentul despre care doriți să știți mai multe. Coloana **stare abonament** afișează data de reînnoire sau de expirare.
-3. Pentru a face o modificare, selectați **mai multe acțiuni** (trei puncte), apoi selectați **editați facturarea recurentă**.
-4. În panoul **Editare facturare recurentă** , **Selectați activat**, **activat, reînnoire o dată**sau **Dezactivat**.
+1. În centrul de administrare, accesați pagina **Facturare** \> [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pe fila **Produse,** găsiți abonamentul despre care doriți să aflați mai multe. Coloana **Stare abonament** afișează data de reînnoire sau de expirare.
+3. Pentru a face o modificare, selectați cele trei puncte (mai multe acțiuni), apoi selectați **Editați facturarea recurentă.**
+4. În panoul **Editați facturarea recurentă,** **selectați La**, **Pe, Reînnoiți o dată** sau **Dezactivat**.
 5. Selectați **Salvare**.
 
-Pentru mai multe informații, consultați [Activarea sau dezactivarea facturării recurente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Pentru mai multe informații, consultați [Activarea sau dezactivarea facturării recurente](/microsoft-365/commerce/subscriptions/renew-your-subscription).

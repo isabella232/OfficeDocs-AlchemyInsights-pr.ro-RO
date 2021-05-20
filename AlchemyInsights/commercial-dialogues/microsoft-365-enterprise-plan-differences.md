@@ -1,5 +1,5 @@
 ---
-title: Diferențe de plan Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise diferențelor între planuri
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748523"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539764"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Diferențe de plan Microsoft 365 Enterprise
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise diferențelor între planuri
 
-Microsoft 365 Enterprise E5 include toate caracteristicile Microsoft 365 Enterprise E3, plus măsuri de securitate avansate, cum ar fi:
+Microsoft 365 Enterprise E5 include toate caracteristicile E3 Microsoft 365 Enterprise plus măsuri de securitate complexe, cum ar fi:
 
-- Protecție avansată împotriva amenințărilor (ATP)
-- Guvernanță avansată a datelor
-- Lacăt pentru clienți
-- Securitatea aplicației cloud Microsoft 365
-- EDiscovery avansat
-- Servicii de administrare a drepturilor
-- Bolta cheii Azure
+- Protecție împotriva amenințărilor
+- Guvernare avansată a datelor
+- Customer Lockbox
+- Microsoft 365 Cloud App Security
+- Advanced eDiscovery
+- Rights Management Services
+- Seiful de chei Azure
 
-Microsoft 365 Enterprise E5 include, de asemenea, analize puternice și capacități vocale, cum ar fi:
+Microsoft 365 Enterprise E5 mai include și analize și capacități vocale puternice, cum ar fi:
 
 - Tablouri de bord în direct
 - Rapoarte cu Power BI
-- Voce modernă
+- Modern Voice
 - Conferință audio
 - Întâlniri online
 
-Pentru a afla mai multe despre Microsoft 365 Enterprise E5 sau pentru a vă înregistra pentru un abonament de încercare, consultați [Încercați sau cumpărați un abonament microsoft 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+Pentru a afla mai multe Microsoft 365 Enterprise E5 sau pentru a vă înregistra pentru un abonament de încercare, consultați Încercați sau [cumpărați un Microsoft 365 abonament.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Pentru a compara caracteristicile din planurile de întreprindere, consultați [comparație între planuri de întreprindere](https://go.microsoft.com/fwlink/?linkid=2097200).
+Pentru a compara caracteristicile din planurile Enterprise, consultați [Compararea planurilor Enterprise.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
-Apreciem feedbackul dvs., așadar, vă rugăm să selectați Da/nu la întrebarea care apare, apoi evaluați-vă experiența.
+Am aprecia feedbackul dvs., așa că vă rugăm să selectați Da/Nu la întrebarea care apare, apoi evaluați experiența dvs.

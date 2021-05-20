@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233798"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539656"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Cum se publică o etichetă de c sensibilitate
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233798"
 
 1. Repetați acești pași dacă aveți nevoie de setări de politică diferite pentru diferiți utilizatori sau locații. De exemplu, doriți etichete suplimentare pentru un grup de utilizatori sau o altă etichetă implicită pentru un subset de utilizatori.
 
-1. Dacă creați mai multe politici de etichete care pot duce la un conflict pentru un utilizator sau o locație, revizuiți ordinea politicii și, dacă este necesar, mutați-o în sus sau în jos. Pentru a modifica ordinea unei politici de etichetă, selectați **... pentru Mai** multe **acțiuni**, apoi selectați Mutare în **sus sau** Mutare **în jos**.
+1. Dacă creați mai multe politici de etichete care pot duce la un conflict pentru un utilizator sau o locație, revizuiți ordinea politicii și, dacă este necesar, mutați-o în sus sau în jos. Pentru a modifica ordinea unei politici de etichete, selectați cele trei puncte (mai multe acțiuni), apoi selectați **Mutare în sus sau** Mutare în **jos**.
 
 Finalizarea expertului publică automat politica pentru etichete.

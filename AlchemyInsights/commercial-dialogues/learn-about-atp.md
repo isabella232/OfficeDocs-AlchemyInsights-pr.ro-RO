@@ -1,5 +1,5 @@
 ---
-title: Aflați mai multe despre ATP
+title: Aflați mai multe despre Microsoft Defender pentru Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403575"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539800"
 ---
-# <a name="learn-about-atp"></a>Aflați mai multe despre ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Aflați mai multe despre Microsoft Defender pentru Office 365
 
-Iată câteva informații despre Office 365 Advanced Threat Protection (ATP):
+Iată câteva informații despre Microsoft Defender pentru Office 365:
 
-**Ce este ATP?**
+**Ce este Microsoft Defender pentru Office 365?**
 
-ATP este un serviciu de filtrare a mesajelor de e-mail bazat pe cloud, care contribuie la protejarea organizațiilor împotriva malware-ului și virușilor necunoscuți, furnizând o protecție robustă de zero zile. Acesta include caracteristici care protejează organizațiile împotriva linkurilor dăunătoare în timp real.
+Microsoft Defender pentru Office 365 este un serviciu de filtrare a mesajelor de e-mail bazat pe cloud care contribuie la protejarea organizațiilor împotriva malware-ului și virușilor necunoscute, furnizând protecție robustă de tip zero zile. Acesta include caracteristici care protejează organizațiile împotriva linkurilor dăunătoare în timp real.
 
-**Cum activez ATP?**
+**Cum activez Microsoft Defender pentru Office 365?**
 
-Atașările sigure, linkurile sigure și anti-phishing fac parte din caracteristica ATP. Enterprise E5, Education A5 și Microsoft 365 Business includ caracteristici ATP încorporate. Toate celelalte planuri necesită un abonament ATP de program de completare. Trebuie să atribuiți licențele corespunzătoare utilizatorilor pentru a fi protejați de Office 365 ATP. Trebuie să aveți permisiuni de administrator global sau de administrator de securitate pentru a accesa această caracteristică. Pentru a afla mai multe despre cum să aplicați licențe în masă utilizatorilor finali, consultați Atribuirea de licențe pentru utilizatorii [din Office 365 pentru firme.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Seif Atașările, Seif de înșelătorie și linkurile anti-phishing fac parte din caracteristica Microsoft Defender Office 365 aplicații. Enterprise E5, Education A5 și Microsoft 365 Business include Microsoft Defender încorporat pentru Office 365 încorporate. Toate celelalte planuri necesită un program de completare Microsoft Defender pentru Office 365 abonament. Trebuie să atribuiți licențele corespunzătoare utilizatorilor pentru a fi protejați de Microsoft Defender pentru Office 365. Trebuie să aveți permisiuni de administrator global sau de administrator de securitate pentru a accesa această caracteristică. Pentru a afla mai multe despre cum să aplicați licențe în masă utilizatorilor finali, consultați Atribuirea de licențe pentru utilizatorii [din Office 365 pentru firme.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Cum gestionez ATP sau aflu mai multe despre aceasta?**
+**Cum gestionez Microsoft Defender pentru a Office 365 mai multe informații despre acesta?**
 
 a. Accesați [Configurare](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 b. Sub **Conectare și securitate , găsiți** **Creșteți protecția împotriva amenințărilor avansate**, apoi selectați [Vizualizare](https://go.microsoft.com/fwlink/?linkid=2109302).
