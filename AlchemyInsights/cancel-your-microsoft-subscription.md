@@ -1,29 +1,31 @@
 ---
 title: Anularea abonamentului Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707754"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543337"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Anularea abonamentului Microsoft
 
-1. Accesați [Servicii și abonamente](https://account.microsoft.com/services/) și conectați-vă cu contul Microsoft pe care l-ați utilizat atunci când v-ați cumpărat abonamentul.
+Administratorii pot anula abonamentul pentru organizație din centrul Microsoft 365 administrare.
 
-2. Găsiți abonamentul și faceți clic pe **Gestionare**. Dacă vedeți **Activați facturarea recurentă** în loc de **Gestionare**, treceți la secțiunea Depanare;  altfel, treceți la pasul 3.
+1. Accesați pagina **Facturare** \> [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l anulați. Selectați cele trei puncte (mai multe acțiuni), apoi selectați **Anulați abonamentul.**
+3. În panoul **Anulați** abonamentul, alegeți un motiv pentru care anulați. Opțional, oferiți feedback.
+4. Selectați **Salvare**.
 
-3. Pe pagina următoare, faceți clic pe **Anulare** sau pe **Upgrade sau anulare**, în funcție de tipul de abonament.
-
-4. Urmați instrucțiunile de pe pagină pentru a continua anularea.
+**Rambursare:** Orice credit prorated vă va fi returnat în următorul ciclu de facturare.

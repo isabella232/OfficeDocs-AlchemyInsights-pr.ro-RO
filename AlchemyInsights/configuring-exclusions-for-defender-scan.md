@@ -1,5 +1,5 @@
 ---
-title: Configurarea excluderilor pentru Microsoft Defender ATP Scan
+title: Configurarea excluderilor pentru scanarea Microsoft Defender ATP scanare
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713903"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543697"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Configurarea excluderilor pentru Microsoft Defender ATP Scan
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Configurarea excluderilor pentru scanarea Microsoft Defender ATP scanare
 
-În general, puteți să excludeți anumite extensii de fișier și locații de foldere din scanările ATP Microsoft Defender. De asemenea, puteți configura excluderi pentru fișierele deschise de anumite procese. Pentru mai multe informații, consultați [Configurarea și validarea excluderilor pe baza extensiei de fișier și a locației folderului](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) și [Configurarea excluderilor pentru fișierele deschise de procese](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+În general, puteți exclude anumite extensii de fișier și locații ale folderelor din scanările Microsoft Defender ATP fișierelor. De asemenea, puteți configura excluderile pentru fișierele deschise de anumite procese. Pentru mai multe informații, consultați Configurarea și validarea excluderilor pe baza locației extensiilor de fișiere și a locației [folderului](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) și Configurarea excluderilor [pentru fișierele deschise de procese.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-Pentru a configura excluderi pentru  **Windows server 2016 și 2019**, consultați [Configurarea excluderilor antivirus Microsoft Defender pe Windows Server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Pentru a configura excluderile **pentru Windows Server 2016 și 2019,** consultați Configurarea [excluderilor Antivirus Microsoft Defender pe Windows Server.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
 
 **Mac**
 
-Pentru detalii despre tipurile de excluderi acceptate și configurarea unei liste de excluderi pentru Mac, consultați [tipuri de excluderi acceptate](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) și [cum să configurați lista de excluderi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Pentru detalii despre tipurile de excluderi acceptate și [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) configurarea unei liste de excluderi pentru Mac, consultați Tipuri de excluderi acceptate și Cum se configurează [lista de excluderi.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Notă** De asemenea, puteți să validați listele de excluderi utilizând fișierul de test EICAR. Pentru mai multe informații, consultați [validarea listelor de excluderi cu fișierul de test EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Notă** De asemenea, puteți valida listele de excluderi utilizând fișierul test EICAR. Pentru mai multe informații, consultați [Validarea listelor de excluderi cu fișierul de test EICAR.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-Pentru detalii despre tipurile de excluderi acceptate și configurarea unei liste de excluderi pentru Linux, consultați [tipuri de excluderi acceptate](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) și [Configurarea și validarea excluderilor pentru Microsoft Defender ATP pentru Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Pentru detalii despre tipurile de excluderi acceptate și [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) configurarea unei liste de excluderi pentru Linux, consultați Tipuri de excluderi acceptate și Configurarea și validarea excluderilor pentru linux Microsoft Defender ATP pentru [Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Notă** De asemenea, puteți să validați listele de excluderi utilizând fișierul de test EICAR. Pentru mai multe informații, consultați [validarea listelor de excluderi cu fișierul de test EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Notă** De asemenea, puteți valida listele de excluderi utilizând fișierul test EICAR. Pentru mai multe informații, consultați [Validarea listelor de excluderi cu fișierul de test EICAR.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
