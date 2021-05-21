@@ -2,34 +2,32 @@
 title: Cum să reactivați un abonament
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "441"
 - "1500017"
-ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2260ee6053cbb728167a36fb019f0500fe49732d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763517"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544374"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="09ac2-102">Cum să reactivați un abonament</span><span class="sxs-lookup"><span data-stu-id="09ac2-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="f607c-102">Cum să reactivați un abonament</span><span class="sxs-lookup"><span data-stu-id="f607c-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="09ac2-103">Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="09ac2-103">If your subscription has expired, been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="f607c-103">Dacă abonamentul dvs. a expirat, a fost anulat sau dezactivat de Microsoft, îl puteți reactiva în Centrul de administrare Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f607c-103">If your subscription has expired, been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="09ac2-104">În centrul de administrare, accesați pagina **Facturare** \> [Produse și servicii](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="09ac2-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="f607c-104">În centrul de administrare, accesați pagina **Facturare** \> [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="f607c-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="f607c-105">Pe fila **Produse,** găsiți abonamentul pe care doriți să-l reactivați.</span><span class="sxs-lookup"><span data-stu-id="f607c-105">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="f607c-106">Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament.**</span><span class="sxs-lookup"><span data-stu-id="f607c-106">Select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+    <span data-ttu-id="f607c-107">Dacă nu vedeți Reactivați **acest abonament ca acțiune** disponibilă, apelați asistența.</span><span class="sxs-lookup"><span data-stu-id="f607c-107">If you don't see **Reactivate this subscription** as an available action, call support.</span></span>
+3. <span data-ttu-id="f607c-108">În panoul **Reactivați acest abonament,** selectați o metodă de plată din lista verticală sau selectați Adăugați **o metodă de plată**.</span><span class="sxs-lookup"><span data-stu-id="f607c-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="f607c-109">Selectați **Salvare**.</span><span class="sxs-lookup"><span data-stu-id="f607c-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="09ac2-105">Alegeți abonamentul pe care doriți să-l reactivați.</span><span class="sxs-lookup"><span data-stu-id="09ac2-105">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="09ac2-106">În secțiunea **Facturare**, alegeți **Reactivare**.</span><span class="sxs-lookup"><span data-stu-id="09ac2-106">In the **Billing** section, choose **Reactivate**.</span></span>
-
-    <span data-ttu-id="09ac2-107">Dacă nu vedeți **Reactivare** ca acțiune disponibilă, apelați Asistența pentru a vă reactiva abonamentul.</span><span class="sxs-lookup"><span data-stu-id="09ac2-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
-
-3. <span data-ttu-id="09ac2-108">Confirmați detaliile de plată.</span><span class="sxs-lookup"><span data-stu-id="09ac2-108">Confirm your payment details.</span></span> <span data-ttu-id="09ac2-109">Aici vă puteți actualiza informațiile de plată existente.</span><span class="sxs-lookup"><span data-stu-id="09ac2-109">You can update your existing payment information here.</span></span> <span data-ttu-id="09ac2-110">După ce ați terminat de introdus metoda de plată, alegeți **Reactivare**.</span><span class="sxs-lookup"><span data-stu-id="09ac2-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
-
-<span data-ttu-id="09ac2-111">Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="09ac2-111">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="f607c-110">Pentru a afla mai multe, consultați [Reactivarea abonamentului](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="f607c-110">To learn more, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
