@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821126"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626089"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Atribuirea unui număr gratuit la puntea dvs. de conferințe audio
 
 Pentru a atribui noul număr de telefon la puntea dvs. de conferințe audio:
 
-1. Conectați-vă la Office 365 cu contul de la locul de muncă.
-2. Accesați **Centrul de administrare Microsoft 365 > Centre de administrare > Teams și Skype > Portal moștenit > Voce > Numere de telefon**.
-3. Selectați numărul de telefon din listă și, în panoul **Acțiune**, faceți clic pe **Atribuire**.
-4. Pe pagina **Atribuire**, faceți clic pe **Salvare**.
+1. Accesați Centrul de Microsoft Teams de administrare.
+1. În panoul de navigare din stânga, accesați **Punți**  >  **pentru conferințe întâlniri**.
+1. Evidențiați numărul de serviciu cu taxă pe care doriți să-l configurați ca implicit.
+1. Selectați **Stabilire ca implicit**.
 
-Pentru mai multe informații, vedeți [Modificarea numerelor de telefon din puntea Conferințe audio](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Pentru mai multe informații, vedeți [Modificarea numerelor de telefon din puntea Conferințe audio](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
