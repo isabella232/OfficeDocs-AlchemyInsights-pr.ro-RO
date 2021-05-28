@@ -1,5 +1,5 @@
 ---
-title: Nu pot găsi înregistrarea întâlnirii teams
+title: Nu pot găsi înregistrarea Teams întâlnirii
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294254"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696948"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Nu pot găsi înregistrarea întâlnirii teams
+# <a name="cant-find-the-teams-meeting-recording"></a>Nu pot găsi înregistrarea Teams întâlnirii
 
-Dacă nu găsiți sau găsiți o înregistrare a întâlnirii teams, consultați următoarea documentație de depanare:
+Dacă nu puteți găsi sau găsi o înregistrare Teams întâlnire, rulați mai întâi rulați Diagnostic înregistrare întâlnire lipsă tastând **Diag:** Înregistrarea lipsește din caseta de mai sus. 
 
-[Depanarea problemelor de înregistrare a întâlnirilor teams-Microsoft teams | Documente Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Înregistrările sunt găsite în Stream, OneDrive sau SharePoint în funcție de modul în care este configurată entitatea găzduită și dacă înregistrarea a fost pentru o întâlnire canal. Pentru instrucțiuni despre cum să găsiți manual înregistrarea întâlnirii, consultați: 
 
-Înregistrarea întâlnirii se va afla fie în flux, OneDrive sau SharePoint, în funcție de modul în care este configurată entitatea găzduită.
+[Problema 2: Linkul de înregistrare a întâlnirii nu este vizibil într-o fereastră de chat](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Pentru instrucțiuni despre cum să găsiți înregistrarea întâlnirii, consultați:
-
-**[Problema 2: linkul de înregistrare a întâlnirii nu este vizibil într-o fereastră de chat](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Pentru mai multe informații, consultați [Probleme cu înregistrările întâlnirilor](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).

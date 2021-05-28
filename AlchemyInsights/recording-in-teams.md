@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809775"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697042"
 ---
 # <a name="recording-in-teams"></a>Înregistrare în Teams
 
-Înregistrarea întâlnirilor Microsoft Teams poate fi stocată acum în OneDrive sau SharePoint. Pentru mai multe informații și pentru a vă înscrie, consultați următoarea postare din Centrul de mesaje: [Microsoft Teams (actualizat): înregistrările întâlnirilor salvate în OneDrive și SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Dacă butonul Pornire  înregistrare al unui utilizator este estompat sau lipsește într-o întâlnire Teams, încercați să rulați Diagnostic înregistrare întâlnire tastând **Diag:** Înregistrarea întâlnirii în caseta de mai sus. 
 
-Mutarea locației dvs. de stocare în OneDrive sau SharePoint elimină cerința anterioară ca Stream să fie disponibil în regiunea dvs.
+Microsoft Teams înregistrările întâlnirilor pot fi stocate acum în OneDrive SharePoint. Mutarea locației de stocare în OneDrive SharePoint remediază problema în care nu au funcționat înregistrările întâlnirilor, deoarece fluxul nu este disponibil în regiunea dvs. Pentru mai multe informații, consultați Întrebări [frecvente despre Microsoft Stream.](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-Pentru a afla cum **să activați și să configurați caracteristica de înregistrare** în Teams pentru organizația dvs., **inclusiv controalele pentru activarea sau dezactivarea înregistrării întâlnirii pentru unii utilizatori**, revizuiți [Înregistrarea în cloud a întâlnirilor Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Pentru mai multe informații despre salvarea înregistrărilor întâlnirilor, consultați postarea din Centrul de mesaje: [(Actualizat) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)înregistrările întâlnirilor salvate în OneDrive și SharePoint .
 
-Dacă **nu puteți înregistra în Teams sau doriți să înțelegeți cum să înregistrați** în Teams, încercați unul din următoarele articole.
+Pentru a afla cum să activați și să configurați caracteristica de înregistrare în Teams pentru organizația dvs., inclusiv controalele pentru activarea sau dezactivarea înregistrării întâlnirilor pentru unii utilizatori, consultați înregistrarea întâlnirilor în [cloud Teams cloud.](/microsoftteams/cloud-recording) 
 
-- Dacă nu ați optat încă pentru spațiul de stocare OneDrive sau SharePoint pentru înregistrarea întâlnirilor Teams, aceste capacități se bazează pe disponibilitatea Stream la nivel regional și național. Dacă nu puteți înregistra o verificare a întâlnirii pentru a vă asigura că [Stream este disponibil în țara sau regiunea dvs.](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Pentru mai multe informații, asigurați-vă că revizuiți următoarea postare din Centrul de mesaje în Portalul de administrare: [Caracteristică actualizată: controlul spațiului de stocare regional pentru înregistrările în cloud Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Dacă tot nu reușiți să înregistrați în Teams sau trebuie să înțelegeți cum să înregistrați în Teams, consultați: 
 
-- Înregistrarea întâlnirilor în Teams [necesită atribuirea de licențe și politici specifice](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), inclusiv licențe Stream pentru a încărca sau a descărca înregistrările întâlnirilor în Microsoft Stream.
+[Caracteristică actualizată: Controlul regional de stocare al înregistrărilor în cloud Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- După ce ați confirmat că sunt îndeplinite toate cerințele, inclusiv licențierea, politicile și disponibilitatea regională a Stream, revizuiți [Înregistrați o întâlnire în Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Înregistrarea întâlnirii în Teams necesită licențe și politici atribuite specifice, inclusiv licențe de flux pentru a încărca sau a descărca înregistrări ale întâlnirilor în Microsoft Stream. Pentru detalii, consultați Cerințe [preliminare pentru înregistrarea Teams cloud.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+După ce ați confirmat că sunt îndeplinite toate cerințele, inclusiv licențierea, politicile și disponibilitatea regională a streamului, revizuiți Înregistrați o întâlnire [în Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 

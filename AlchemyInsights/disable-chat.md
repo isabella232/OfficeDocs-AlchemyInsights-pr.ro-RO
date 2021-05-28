@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573758"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696898"
 ---
 # <a name="disable-chat"></a>Dezactivați chatul
 
@@ -26,7 +26,7 @@ Pentru a activa sau dezactiva chatul pentru organizația dvs., puteți crea poli
 
 - **Întâlnire:** În centrul Teams, accesați Politici de întâlnire [-](https://admin.teams.microsoft.com/) Setarea pentru chat este Permiteți **chatul în întâlniri**. Pentru mai multe informații despre crearea politicilor personalizate pentru întâlniri, consultați Gestionarea politicilor de [întâlnire în Teams](/microsoftteams/meeting-policies-in-teams) și [Permiteți chatul în întâlniri.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*essaging**: În centrul de Teams, accesați Politicile de mesagerie [și](https://admin.teams.microsoft.com/)comutați chatul la dezactivat sau **dezactivat.**  Pentru mai multe informații despre politicile personalizate de mesagerie și despre cum să atribuiți politici utilizatorilor, consultați Gestionarea politicilor de [mesagerie Teams](/microsoftteams/messaging-policies-in-teams).
+- **Mesagerie:** În centrul Teams, accesați Politicile de mesagerie [și](https://admin.teams.microsoft.com/)comutați chatul la Dezactivat sau **dezactivat.**  Pentru mai multe informații despre politicile personalizate de mesagerie și despre cum să atribuiți politici utilizatorilor, consultați Gestionarea politicilor de [mesagerie Teams](/microsoftteams/messaging-policies-in-teams).
 
 - **Elevi/studenți:** Pentru a dezactiva chatul pentru un elev/student, consultați opțiunile pentru permiterea chatului în întâlniri și permiterea unei discuții pe chat 1:1 în [Teams](/microsoftteams/policy-packages-edu)politici și pachete de politici pentru educație.
 
