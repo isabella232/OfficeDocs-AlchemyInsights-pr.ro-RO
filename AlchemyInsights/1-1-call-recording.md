@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: ro-RO
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696970"
+ms.locfileid: "52702102"
 ---
 # <a name="11-call-recording"></a>Înregistrarea apelurilor 1:1
 
-Dacă butonul **Începere înregistrare** este estompat într-un apel 1:1, trebuie să modificați setările de politică pentru utilizatorul afectat.   
+Dacă butonul **Începere înregistrare** este estompat într-un apel 1:1, trebuie să modificați setările de politică pentru utilizatorul afectat. Pentru a verifica setarea politicii, rulați diagnostic pentru utilizatorul afectat **tastând Diag: Teams înregistrarea apelurilor 1:1 mai** sus.     
 
 Începând cu 31 mai 2021, vom începe să impunem o nouă impunere a unei Teams de apelare internă *AllowCloudRecordingForCalls*. Înainte de această modificare, înregistrarea apelului 1:1 este controlată de *AllowCloudRecording* Teams Meeting Policy. Această modificare este documentată în postarea din Centrul de mesaje: [(Actualizat) 1:1 Introducere](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)în politica de înregistrare a apelurilor .  
 
 *AllowCloudRecordingForCalls*   opțiunea politicii de apelare este setată la **$False** implicit. Dacă preferați să blocați înregistrarea apelurilor 1:1 de către toți utilizatorii, nu trebuie să luați nicio măsură.  
 
-Pentru a activa înregistrarea apelurilor pentru toți utilizatorii în apeluri 1:1, Teams PowerShell pentru a rula următorul cmdlet: 
+Pentru a activa înregistrarea apelurilor pentru toți utilizatorii în apeluri 1:1, [Teams PowerShell](/microsoftteams/teams-powershell-install) pentru a rula următorul cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
