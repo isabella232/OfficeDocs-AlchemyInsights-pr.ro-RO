@@ -1,5 +1,5 @@
 ---
-title: Activarea aplicațiilor Microsoft 365
+title: Activarea Microsoft 365 aplicații
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823043"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798620"
 ---
-# <a name="activating-microsoft-365-apps"></a>Activarea aplicațiilor Microsoft 365
+# <a name="activating-microsoft-365-apps"></a>Activarea Microsoft 365 aplicații
+
+**Notă:** Dacă utilizați o versiune mai veche de Windows (de exemplu, Windows 7), asigurați-vă că TLS 1.2 este activat ca implicit. Pentru mai multe informații, consultați Actualizare pentru a activa [TLS 1.1 și TLS 1.2 ca](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)protocoale sigure implicite în WinHTTP în Windows .
 
 Pentru a activa Office, consultați:
 
@@ -27,7 +29,7 @@ Pentru a activa Office, consultați:
 
 - [Activați Office pe un Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Notă:**  Asigurați-vă că aveți un abonament Office 365 sau Microsoft 365 care include aplicații [client Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)de exemplu Microsoft 365 Business Standard, aplicații Microsoft 365 pentru firme sau aplicații Microsoft 365 pentru întreprinderi. În plus, asigurați-vă că aveți atribuită o licență contului de utilizator pe care îl utilizați pentru a vă conecta [la aplicațiile](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)Office.
+**Notă:**  Asigurați-vă că aveți Office 365 abonament Microsoft 365 care include aplicații [client Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)de exemplu, Microsoft 365 Business Standard, Aplicații Microsoft 365 pentru afaceri sau Aplicații Microsoft 365 pentru întreprindere. În plus, asigurați-vă că utilizați contul de utilizator pe care îl utilizați pentru a vă conecta Office [aplicațiile are atribuită o licență](/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Pentru a depana problemele de activare Office, consultați:
 
@@ -38,7 +40,7 @@ Pentru a depana problemele de activare Office, consultați:
 
 **Sfat** Pe computerele Windows putem diagnostica și remedia automat pentru dvs. mai multe probleme comune de conectare la Office. Descărcați și rulați **[Asistentul pentru recuperare și asistență pentru Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automatizat.
 
-Dacă nu vă puteți conecta la aplicațiile Microsoft 365, urmați pașii de mai jos:
+Dacă nu vă puteți conecta la aceste Microsoft 365, urmați pașii de mai jos:
 
 1. Deschideți o aplicație Office și [Deconectați-vă](https://go.microsoft.com/fwlink/?linkid=2114082) din conturile de utilizator existente.
 
@@ -46,6 +48,6 @@ Dacă nu vă puteți conecta la aplicațiile Microsoft 365, urmați pașii de ma
 
 3. Accesați **Setări Windows > Conturi > Accesați contul de la locul de muncă sau de la școală** și deconectați conturile vechi sau neutilizate
 
-4. [Resetați starea de activare Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), apoi [Conectați-vă la aplicațiile Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) utilizând noul cont.
+4. [Resetați starea de activare Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), apoi [Conectați-vă la aplicațiile Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) utilizând noul cont.
 
 Pentru acțiuni suplimentare de depanare, consultați [Când deschid o aplicație Office 365, apare o notificare de abonament](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
