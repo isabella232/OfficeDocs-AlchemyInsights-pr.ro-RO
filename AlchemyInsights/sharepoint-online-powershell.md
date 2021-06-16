@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell nu se poate conecta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774371"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931023"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell nu se poate conecta
 
-Lucrați cu PowerShell sau scripturi în SharePoint Online? Vizitați linkurile de mai jos pentru mai multe informații.
-- [Noțiuni de bază pentru SharePoint De administrare Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Conectare la SPO PowerShell cu multi-factor authentication (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- SharePoint și practici [(PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) conține o bibliotecă de comenzi PowerShell care vă permite să efectuați acțiuni complexe de gestionare către SPO.
+Dacă aveți probleme la conectarea la modulul SharePoint Online PowerShell, consultați Erori la conectarea la [SharePoint de administrare Online.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
