@@ -1,5 +1,5 @@
 ---
-title: Planificarea implementării Microsoft Edge
+title: Planificați implementarea Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037371"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989945"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Planificarea implementării Microsoft Edge
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Planificați implementarea Microsoft Edge
 
-Implementarea unui browser nou pentru un grup de utilizatori se poate simți descurajatoare. Vă putem ajuta să le detaliați și să parcurgeți fiecare dintre ele. Dacă urmați acești șapte pași, veți avea o implementare de succes Microsoft Edge cu frustrare minimă pentru utilizatori:
+Implementarea unui browser nou pentru o serie de utilizatori poate să nu fie prea complicată. Vă putem ajuta să o despărțiți în pași și să vă ajutăm să treceți prin fiecare. Dacă urmați acești șapte pași, veți avea o implementare de succes a Microsoft Edge, cu frustrări minime ale utilizatorilor:
 
-1. Evaluați mediul și nevoile existente ale browserului.
-2. Determinați metodologia de implementare.
+1. Evaluați mediul și necesitățile de browser existente.
+2. Determinarea metodologiei de implementare.
 3. Faceți descoperirea site-ului.
-4. Determinați strategia de canal.
+4. Determinați strategia canalului.
 5. Definirea și configurarea politicilor.
-6. Testarea compatibilității aplicațiilor.
-7. Implementați Microsoft Edge la un grup pilot și validați-l.
+6. Testează compatibilitatea aplicațiilor.
+7. Implementați Microsoft Edge-un grup pilot și validați-l.
 
-Pentru a parcurge acești pași pe cont propriu, consultați [Planificarea implementării Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
+Pentru a trece singur prin acești pași, consultați [Planificarea implementării Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).

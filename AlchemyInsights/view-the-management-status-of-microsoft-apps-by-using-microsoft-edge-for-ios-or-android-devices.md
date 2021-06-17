@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679197"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989909"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Vizualizarea stării de gestionare a aplicațiilor Microsoft utilizând Microsoft Edge pentru dispozitive iOS sau Android
 
-Pentru a accesa jurnalele de aplicații pentru utilizare în depanarea aplicațiilor iOS sau Android gestionate, deschideți Microsoft Edge și tastați **despre: intunehelp** în caseta adresă. Microsoft Edge lansează în modul de depanare.
+Pentru a accesa jurnalele de aplicații de utilizat în depanarea aplicațiilor gestionate iOS sau Android, deschideți un Microsoft Edge și tastați **despre:intunehelp** în caseta de adresă. Microsoft Edge se lansează în modul de depanare.
 
-Pentru o listă a setărilor stocate în jurnalele aplicației, consultați [revizuirea jurnalelor de protecție a aplicațiilor client](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Pentru o listă a setărilor stocate în jurnalele de aplicații, consultați Revizuirea [jurnalelor de protecție a aplicațiilor client.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Pentru a afla cum să vizualizați jurnalele de aplicații pe dispozitivele Android, consultați [încărcarea și jurnalele de e-mail](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Pentru a afla cum să vizualizați jurnalele de aplicații pe dispozitive Android, consultați Jurnalele de [e Upload de e-mail și jurnalele de e-mail.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
