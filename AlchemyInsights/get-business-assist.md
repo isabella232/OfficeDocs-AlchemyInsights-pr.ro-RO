@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53005128"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023151"
 ---
 # <a name="get-business-assist"></a>Obțineți Asistență pentru firme
 
-1. În pagina Centru de administrare Microsoft 365, accesați **Asistență pentru firme**  >  **pentru abonamente.**
-
-1. Selectați **Cumpărați**  >  **asistență pentru** firme și urmați expertul pentru a achiziționa Asistență pentru firme.
+1. În meniul Centru de administrare Microsoft 365, accesați [pagina de Asistență întreprinderi pentru Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2158423), selectați o frecvență de facturare, apoi selectați **Cumpărare**.
+2. Urmați pașii pentru a verifica.
 
 Pentru a afla mai multe, [consultați Asistență întreprinderi pentru Microsoft 365](/microsoft-365/admin/misc/business-assist).
