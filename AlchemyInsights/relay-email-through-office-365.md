@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809667"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117995"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Configurați un dispozitiv multifuncțional sau o aplicație pentru a trimite mesaje de e-mail
 
-Pentru a afla opțiunile și pașii, consultați [Cum să configurați un dispozitiv multifuncțional sau o aplicație pentru a trimite e-mail utilizând Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Pentru a afla opțiunile și pașii, consultați [Cum să configurați un dispozitiv multifuncțional sau o aplicație pentru a trimite e-mail utilizând Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**Notă:** dacă aveți un dispozitiv sau o aplicație care recent a încetat să funcționeze, vă rugăm să rețineți că am început recent [să dezactivăm cifrul 3DES](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption), conform planificării. Pentru a vedea dispozitivele afectate, accesați [Raportul clienților cu autentificare SMTP](https://protection.office.com/mailflow/dashboard). Erorile uzuale ar putea fi similare cu: Eroarea de autentificare, Eroarea TLS, Eroarea algoritmului de cifrare, Nepotrivirea de algoritm sau Conexiunea abandonată. Pentru a rezolva problema:
+Dacă aveți un dispozitiv sau o aplicație care nu mai funcționează recent, cele mai obișnuite probleme sunt:
 
- - **Windows Server 2003 IIS SMTP nu va mai funcționa - este necesară o versiune mai nouă de Windows.**  
- - Consultați furnizorul aplicației sau al dispozitivului pentru a vedea dacă este acceptat un cifru modern sau dacă există o actualizare.
+- **Erori asociate cu autentificarea în timpul utilizării remiterii clientului autentificare SMTP** Am făcut recent câteva modificări legate de modul în care funcționează autentificarea SMTP. Pentru mai multe informații despre cum să rezolvați problemele, consultați secțiunea Nereușită din Remedierea problemelor cu [imprimantele, scanerele](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)și aplicațiile LOB care trimit mesaje de e-Microsoft 365 sau Office 365 .
+- **Acceptăm doar versiunea TLS 1.2 atunci când facem o conexiune sigură la Office 365** Dacă utilizați Conexiune securizată (TLS), asigurați-vă că dispozitivul dvs. de aplicație acceptă TLS 1.2. Pentru mai multe informații, [consultați Pregătirea pentru TLS 1.2 în Office 365 în Office 365 GCC](/microsoft-365/compliance/prepare-tls-1.2-in-office-365).
+ 
+Pentru alte probleme și soluții, consultați Remedierea problemelor cu [imprimantele, scanerele](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)și aplicațiile LOB care trimit mesaje de e-mail utilizând Microsoft 365 sau Office 365 .
+
+Pentru a vedea dispozitivele afectate, accesați [Raportul clienților cu autentificare SMTP](https://protection.office.com/mailflow/dashboard).
+
+**Notă:** Exchange Online nu se include în scenariile de corespondență masivă. Pentru a trimite e-mailuri comerciale în masă (de exemplu, buletine informative pentru clienți), trebuie să utilizați furnizori terți specializați în aceste servicii.
