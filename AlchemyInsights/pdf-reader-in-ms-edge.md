@@ -1,5 +1,5 @@
 ---
-title: PDF Reader în Microsoft Edge
+title: Cititorul PDF în Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679077"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255903"
 ---
-# <a name="pdf-reader-in-microsoft-edge"></a><span data-ttu-id="8eb35-102">PDF Reader în Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="8eb35-102">PDF reader in Microsoft Edge</span></span>
+# <a name="pdf-reader-in-microsoft-edge"></a><span data-ttu-id="64517-102">Cititorul PDF în Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="64517-102">PDF reader in Microsoft Edge</span></span>
 
-<span data-ttu-id="8eb35-103">Popularitatea fișierelor PDF evidențiază necesitatea unui cititor PDF fiabil, sigur și puternic, care poate fi adoptat de companiile Enterprise.</span><span class="sxs-lookup"><span data-stu-id="8eb35-103">The popularity of PDF files highlights the need for a reliable, secure, and powerful PDF reader that can be adopted by enterprise companies.</span></span> <span data-ttu-id="8eb35-104">Cititorul de PDF-caracteristici bogat încorporat în Microsoft Edge (versiunile 77 și mai recente) este doar o astfel de aplicație.</span><span class="sxs-lookup"><span data-stu-id="8eb35-104">The feature-rich PDF reader built into Microsoft Edge (versions 77 and later) is just such an app.</span></span> <span data-ttu-id="8eb35-105">Acesta funcționează în Windows și macOS și poate fi utilizat pentru a deschide și a adnota fișiere PDF care sunt locale, online sau încorporate în pagini web.</span><span class="sxs-lookup"><span data-stu-id="8eb35-105">It works in Windows and macOS, and it can be used to open and annotate PDF files that are local, online, or embedded in web pages.</span></span>
+<span data-ttu-id="64517-103">Popularitatea fișierelor PDF evidențiază nevoia de a avea un cititor de PDF fiabil, sigur și puternic, care poate fi adoptat de firmele întreprinderi.</span><span class="sxs-lookup"><span data-stu-id="64517-103">The popularity of PDF files highlights the need for a reliable, secure, and powerful PDF reader that can be adopted by enterprise companies.</span></span> <span data-ttu-id="64517-104">Cititorul PDF bogat în caracteristici încorporat în Microsoft Edge (versiunile 77 și mai recente) este doar o astfel de aplicație.</span><span class="sxs-lookup"><span data-stu-id="64517-104">The feature-rich PDF reader built into Microsoft Edge (versions 77 and later) is just such an app.</span></span> <span data-ttu-id="64517-105">Funcționează în Windows și macOS și poate fi utilizată pentru a deschide și a adnota fișiere PDF locale, online sau încorporate în pagini web.</span><span class="sxs-lookup"><span data-stu-id="64517-105">It works in Windows and macOS, and it can be used to open and annotate PDF files that are local, online, or embedded in web pages.</span></span>
 
-<span data-ttu-id="8eb35-106">Pentru a afla mai multe, consultați [PDF Reader în Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).</span><span class="sxs-lookup"><span data-stu-id="8eb35-106">To learn more, see [PDF reader in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).</span></span>
+<span data-ttu-id="64517-106">Pentru a afla mai multe, [consultați Cititorul PDF în Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).</span><span class="sxs-lookup"><span data-stu-id="64517-106">To learn more, see [PDF reader in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).</span></span>
