@@ -1,5 +1,5 @@
 ---
-title: Asistența Microsoft Edge pentru Microsoft Defender Application Guard
+title: Microsoft Edge de asistență pentru Protecție Microsoft Defender pentru aplicații
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584013"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346074"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Asistența Microsoft Edge pentru Microsoft Defender Application Guard
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge de asistență pentru Protecție Microsoft Defender pentru aplicații
 
-Proiectat pentru Windows 10 și Microsoft Edge, Guard Application utilizează o abordare de izolare hardware care permite unui utilizator să navigheze pe un site care nu este de încredere din interiorul unui container izolat, Hyper-V-enabled, separat de sistemul de operare gazdă.
+Microsoft Defender pentru identitate oferă o locație centrală în care administratorii pot să identifice, să detecteze și să investigheze amenințările de identitate externe. 
 
-Un administrator de întreprindere definește o listă de site-uri web de încredere, resurse cloud și rețele interne. Atunci când un utilizator vizitează un site care nu se află în listă, Microsoft Edge va deschide site-ul în container. Acest lucru înseamnă că, dacă site-ul se dovedește a fi rău intenționat, PC-ul gazdă va rămâne protejat, iar atacatorul nu va accesa datele întreprinderii.
+Utilizați Ghidul [de configurare Microsoft Defender pentru identitate pentru](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) a verifica dacă ați mulțumit toate cerințele preliminare pentru mediu; să creați o instanță, să vă conectați la Active Directory și să instalați senzorul. 
 
-Instalarea extensiilor în container este acceptată de Microsoft Edge Version 81 și poate fi controlată prin intermediul unei politici. Adresa updateURL care se utilizează în politica ExtensionInstallForcelist ar trebui să fie adăugată ca resursă neutră în politicile de izolare a rețelei utilizate de Garda de aplicații.
-
-Pentru mai multe informații, consultați [asistența Microsoft Edge pentru Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2134229).
+După ce ați terminat, identitățile utilizatorilor sunt monitorizate, iar acțiunea imediată poate fi luată împotriva oricărei activități rău intenționate care vă compromite organizația.
