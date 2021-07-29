@@ -1,5 +1,5 @@
 ---
-title: Identificarea activității de regulă Inbox în jurnalele de auditare
+title: Identificarea activității regulilor de inbox în jurnalele de auditare
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779063"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630189"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificarea activității de regulă Inbox în jurnalele de auditare
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificarea activității regulilor de inbox în jurnalele de auditare
 
-Puteți utiliza căutarea în Jurnalul de audit din centrul de conformitate Microsoft 365 Security & pentru a vizualiza evenimentele de regulă pentru Inbox (crearea, modificarea și ștergerea regulilor pentru Inbox).
+Puteți utiliza căutarea în jurnalul de auditare din Centrul Microsoft 365 de securitate & pentru a vizualiza evenimentele regulilor de inbox (crearea, modificarea și ștergerea regulilor de inbox).
 
-1. Conectați-vă la [Centrul de conformitate Microsoft 365 Security &](https://protection.office.com/).
+1. Conectați-vă la [Centrul Microsoft 365 conformitate](https://protection.office.com/).
 
-2. Accesați **Search**  >  pagina**Căutare în Jurnalul de auditare** căutare.
+2. Accesați pagina Căutare **în jurnalul**  >  **de auditare.**
 
-3. Selectați intervalul de date din câmpurile data de **început** și **data de sfârșit** .
+3. Selectați intervalul de date în **câmpurile Dată** de început **și Dată de** sfârșit.
 
-4. Sub **activități de cutie poștală Exchange**, Verificați dacă câmpul **activități** este setat la **nou-InboxRule creare/modificare/Activare/Dezactivare regulă Inbox**.
+4. Sub **Exchange de cutie poștală**, verificați dacă câmpul Activități este setat la **New-InboxRule Create/modify/enable/disable inbox rule**. 
 
-5. Faceți clic pe **Căutare**.
+5. Faceți **clic pe Căutare.**
 
-În rezultate, selectați o înregistrare de audit. În flyout detalii, faceți clic pe **mai multe informații**. Sunt afișate informații despre setările regulii Inbox în câmpul **parametri** .
+În rezultate, selectați o înregistrare de auditare. În fișa detalii, faceți clic **pe Mai multe informații**. În câmpul Parametri se afișează informații despre setările **regulii** de inbox.
 
-Pentru mai multe informații, consultați [determinarea dacă un utilizator a creat o regulă de Inbox](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Pentru mai multe informații, consultați [Determinarea dacă un utilizator a creat o regulă de inbox](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

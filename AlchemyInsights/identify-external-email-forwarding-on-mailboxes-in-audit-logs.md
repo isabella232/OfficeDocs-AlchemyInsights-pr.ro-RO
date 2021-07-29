@@ -1,5 +1,5 @@
 ---
-title: Identificarea redirecționarii e-mailurilor externe în cutiile poștale din jurnalele de audit
+title: Identificarea redirecționării externe a e-mailurilor în cutiile poștale din jurnalele de auditare
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696309"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630261"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificarea când se configurează redirecționarea e-mailurilor externe în cutiile poștale
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificarea atunci când este configurată redirecționarea e-mailului extern pentru cutiile poștale
 
-Atunci când un utilizator Microsoft 365 configurează redirecționarea e-mailurilor externe într-o cutie poștală, activitatea este auditată ca parte din cmdletul **Set-Mailbox** . Puteți vedea activitatea utilizând căutarea în Jurnalul de audit din centrul de conformitate & de securitate.
+Atunci când Microsoft 365 configurează redirecționarea externă a e-mailurilor pentru o cutie poștală, activitatea este auditată ca parte a cmdletului **Set-Mailbox.** Puteți vedea activitatea utilizând căutarea în jurnalul de auditare din Centrul de & conformitate.
 
-1. Conectați-vă la [Centrul de conformitate Microsoft 365 Security &](https://protection.office.com/).
+1. Conectați-vă la [Centrul Microsoft 365 conformitate](https://protection.office.com/).
 
-2. Accesați **Search**  >  pagina**Căutare în Jurnalul de auditare** căutare.
+2. Accesați pagina Căutare **în jurnalul**  >  **de auditare.**
 
-3. Selectați intervalul de date din câmpurile data de **început** și **data de sfârșit** . Nu trebuie să specificați un nume de utilizator. Verificați dacă câmpul **activități** este setat să **afișeze rezultate pentru toate activitățile**.
+3. Selectați intervalul de date în **câmpurile Dată** de început **și Dată de** sfârșit. Nu trebuie să specificați un nume de utilizator. Verificați **dacă câmpul** Activități este setat la **Afișați rezultate pentru toate activitățile.**
 
-4. Faceți clic pe **Căutare**.
+4. Faceți **clic pe Căutare.**
 
-În rezultate, faceți clic pe **Filtrare rezultate** și tastați **set-cutie poștală** în caseta Filtru activitate. Selectați o înregistrare de auditare în rezultate. În flyout **Detalii** , faceți clic pe **mai multe informații**. Trebuie să examinați detaliile fiecărei înregistrări de audit pentru a determina dacă activitatea este corelată cu redirecționarea e-mailului.
+În rezultate, faceți clic **pe Filtrare rezultate** și tastați **Set-Mailbox** în caseta de filtrare de activitate. Selectați o înregistrare de auditare în rezultate. În **fișa Detalii,** faceți clic **pe Mai multe informații**. Trebuie să priviți detaliile fiecărei înregistrări de auditare pentru a determina dacă activitatea este corelată cu redirecționarea e-mailului.
 
-- **ObjectID**: valoarea alias a cutiei poștale care a fost modificată.
+- **ObjectId:** Valoarea alias a cutiei poștale care a fost modificată.
 
-- **Parametri**: _ForwardingSmtpAddress_ indică adresa de e-mail țintă.
+- **Parametri:** _RedirecționareaSmtpAddress indică_ adresa de e-mail țintă.
 
-- **ID**utilizator: utilizatorul care a configurat redirecționarea mesajelor de e-mail în cutia poștală din câmpul **objectID** .
+- **UserId:** Utilizatorul care a configurat redirecționarea e-mailului în cutia poștală **din câmpul ObjectId.**
 
-Pentru mai multe informații, consultați [cum se determină cine configurează redirecționarea e-mailului pentru o cutie poștală](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Pentru mai multe informații, consultați [Determinarea cine a configurat redirecționarea e-mailului pentru o cutie poștală.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
