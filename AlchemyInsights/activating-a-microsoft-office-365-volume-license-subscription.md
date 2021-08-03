@@ -1,9 +1,9 @@
 ---
-title: Activarea unui abonament de licență în volum Microsoft
+title: Activarea unui abonament Microsoft cu licență în volum
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 04/21/2020
+ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307189"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685818"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>Activarea unui abonament de licență în volum Microsoft
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Activarea unui abonament Microsoft cu licență în volum
 
-1. Conectați-vă la [portalul centru de servicii de licențiere în volum (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
-2. Navigați la abonament și alegeți **Activare**.
-3. Un mesaj de e-mail este trimis la persoana de contact Online Services (de la).
-4. Mesajul de e-mail de activare vă oferă două opțiuni: **înregistrați**-vă sau **Conectați**-vă. Dacă ați creat anterior o versiune de încercare, alegeți **Conectare**. Dacă nu aveți încă o entitate găzduită Microsoft 365, alegeți **înregistrare**.
-5. Conectați-vă la centrul de administrare Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) utilizând acreditările de administrator existente. După ce vă conectați cu succes, veți primi un alt e-mail care vă confirmă achiziția.
-6. După ce v-ați conectat, accesați pagina **Facturare** \> [produse](https://go.microsoft.com/fwlink/p/?linkid=842054) pentru a verifica dacă abonamentele achiziționate sunt acum active. 
+1. Conectați-vă la [portalul Centrul pentru licențiere de volum (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
+2. Navigați la abonamentul dvs. și alegeți **Activare**.
+3. Un mesaj de e-mail este trimis persoanei dvs. de contact Online Services (OLS).
+4. Mesajul de e-mail de activare vă oferă două **opțiuni:** Înscriere **sau Conectare.** Dacă ați creat anterior o versiune de încercare, **alegeți Conectare**. Dacă nu aveți încă o entitate găzduită Microsoft 365, alegeți **Înscriere**.
+5. Conectați-vă la Centru de administrare Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) utilizând acreditările de administrator existente. După ce vă conectați cu succes, veți primi un alt e-mail care confirmă achiziția.
+6. După ce vă ați conectat,  accesați pagina Facturare produse pentru a verifica dacă \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) abonamentele achiziționate sunt acum active. 
     > [!NOTE]
-    > De asemenea, puteți să alegeți fila **abonament** din VLSC pentru a vedea detaliile care verifică dacă abonamentul a fost activat.)
+    > De asemenea, puteți alege **fila Abonament** din VLSC pentru a vedea detaliile care verifică dacă abonamentul dvs. a fost activat.)

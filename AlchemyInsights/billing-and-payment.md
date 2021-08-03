@@ -3,6 +3,8 @@ title: Facturare și plată
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820406"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686898"
 ---
 # <a name="billing-and-payment"></a>Facturare și plată
 
@@ -35,27 +38,27 @@ Dacă plătiți cu cardul de credit sau contul bancar, metoda de plată asociat�
 
 Dacă ați adăugat un card nou și încă obțineți o notificare de refuz pe vechiul card de credit, poate fi necesar să asociați cardul nou cu abonamentul.
 
-1. În centrul de administrare, accesați pagina Facturi  >  **de facturare & Metode de**  >  [plată.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. În centrul de administrare, accesați pagina **Facturare** > **Facturi și plăți** > [Metode de plată](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
 2. Selectați rândul metodei de plată de înlocuit. Panoul din dreapta listează toate profilurile de facturare și abonamentele individuale care utilizează metoda de plată selectată.
 
-3. În panoul din dreapta, selectați **Înlocuiți metoda de plată pentru toate articolele.**
+3. În panoul din dreapta, selectați **Înlocuiți metoda de plată pentru toate elementele**.
 
 4. Pentru a utiliza o metodă de plată existentă, alegeți una din lista verticală, apoi selectați **Înlocuire**.
 
     > [!NOTE]
-    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe **pagina Metode de** plată, acestea nu sunt disponibile pentru selectare în lista verticală.
+    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe pagina **Metode de plată**, acestea nu sunt disponibile pentru selectare în lista verticală.
 
-5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați o metodă de plată**.
+5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați metodă de plată**.
 
-6. În panoul **Adăugați o metodă de plată,** introduceți informațiile contului, apoi selectați **Salvare**. Trebuie să utilizați o metodă de plată din aceeași țară ca entitatea găzduită.
+6. În panoul **Adăugați o metodă de plată**, introduceți informațiile despre cont, apoi selectați **Salvare**. Trebuie să utilizați o metodă de plată din aceeași țară ca entitatea dvs. găzduită.
 
 7. Noua metodă de plată este deja selectată în lista verticală. Selectați **Înlocuire**.
 
-Pentru a afla mai multe, consultați [Gestionarea metodelor de plată.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Pentru a afla mai multe, consultați [Gestionați metodele de plată](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frecvență de facturare**
 
 Facturile sunt generate lunar sau anual, în funcție de frecvența de facturare aleasă la verificare.  
 
-**Notă:** Comenzile cu facturare anuală pot primi o factură prin termen mediu dacă s-au efectuat modificări precum adăugarea sau eliminarea licențelor. [Modificați frecvența de facturare](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Notă:** Comenzile cu facturare anuală pot primi o factură prin termen mediu dacă s-au efectuat modificări precum adăugarea sau eliminarea licențelor. [Modificați frecvența de facturare](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

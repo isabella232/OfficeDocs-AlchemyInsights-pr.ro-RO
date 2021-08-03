@@ -3,6 +3,8 @@ title: Întrebare despre licențe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +14,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d88460df028ad72b9d097d67d71125fff7113efc
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231875"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685242"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a>Întrebări despre licența Microsoft 365
+# <a name="questions-about-your-microsoft-365-license"></a>Întrebări despre licența Microsoft 365 licență
 
-Utilizați acești pași pentru a afla câte licențe ați cumpărat sau câte licențe sunt atribuite dintr-un abonament.
+Urmați acești pași pentru a afla câte licențe ați cumpărat sau câte licențe sunt atribuite dintr-un abonament.
   
-1. În centrul de administrare, accesați pagina **Facturare** \> **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Pe fila **produse** , găsiți abonamentul despre care doriți să știți mai multe. Puteți vedea numărul de licențe pentru care plătiți și câte sunt atribuite în prezent.
+1. În centrul de administrare, accesați pagina **Facturare** \> **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Pe fila **Produse,** găsiți abonamentul despre care doriți să aflați mai multe. Puteți vedea numărul de licențe pe care le plătiți și numărul de licențe atribuite în prezent.
 
-Dacă doriți să adăugați mai multe licențe sau dacă aveți prea multe, selectați abonamentul. În pagina abonament date, selectați **Cumpărați licențe** sau **Eliminați licențe** pentru a ajusta numărul total de licențe pentru abonament.
+Dacă doriți să adăugați mai multe licențe sau dacă aveți prea multe, selectați abonamentul. Pe pagina de date de abonament, **selectați Cumpărați** licențe sau Eliminați licențe pentru a ajusta numărul total de licențe pentru abonament. 
 
-**Urmăriți un videoclip** care vă arată cum să procedați: [Cumpărați licențe noi](https://go.microsoft.com/fwlink/p/?linkid=2154857) sau [Eliminați licențe existente](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**URMĂRIți un videoclip** care vă arată cum să faceți acest [lucru: Cumpărați licențe](https://go.microsoft.com/fwlink/p/?linkid=2154857) noi sau [Eliminați licențele existente](https://go.microsoft.com/fwlink/p/?linkid=2154938)
