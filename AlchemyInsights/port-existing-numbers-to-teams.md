@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801459"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688338"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Portarea numerelor existente în Teams
 
-Dacă aveți în prezent un furnizor de servicii telefonice sau un operator telecom și aveți deja numere de telefon pentru utilizatori sau servicii, trebuie să creați un "ordin de portare" pentru a transfera acele numere de telefon în Microsoft Teams.
+Dacă aveți în prezent un furnizor de servicii telefonice sau un operator telecom și aveți deja numere de telefon pentru utilizatori sau servicii, trebuie să creați un "ordin de portare" pentru a transfera acele numere de telefon în Microsoft Teams.  
 
-- Consultați [Transferul numerelor de telefon în Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) pentru a afla cum să finalizați portarea. 
+Pentru a crea o nouă comandă de portare sau pentru a verifica una existentă, urmați acești pași: 
 
-- Consultați [Gestionarea numerelor de telefon pentru organizația dvs.](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) pentru instrucțiuni în legătură cu gestionarea numerelor de telefon. 
+1. Accesați centrul de [Teams centrul de administrare](https://admin.teams.microsoft.com/phone-numbers) pentru a deschide Telefon numere noi. 
 
-Pentru mai multe informații, consultați [Prezentare Generală a Comenzilor de Portare](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Selectați **linkul Obțineți asistență pentru numărul de telefon.** 
+
+Pentru a merge direct la asistența pentru numere de telefon, [consultați Centrul Telefon Number Service Center.](https://pstnsd.powerappsportals.com/)  
