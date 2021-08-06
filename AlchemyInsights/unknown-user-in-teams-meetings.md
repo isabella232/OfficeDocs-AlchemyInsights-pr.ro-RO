@@ -1,5 +1,5 @@
 ---
-title: "\"Utilizator necunoscut\" apare în întâlnirile teams sau în chaturi"
+title: În chaturi apare "Utilizator necunoscut", Teams sau în chaturi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019844"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Utilizator necunoscut" apare în întâlnirile teams sau în chaturi
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>În chaturi apare "Utilizator necunoscut", Teams sau în chaturi
 
-Este posibil ca utilizatorul să fi fost șters din Microsoft 365. În acest caz, încercați să ștergeți utilizatorul din teams.  
+Este posibil ca utilizatorul să fi fost șters din Microsoft 365. În acest caz, încercați să ștergeți utilizatorul din Teams.  
 
-Încercați să debifați următorul cache când teams este închis, apoi reporniți teams: `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Încercați să goliți următoarea memorie cache atunci Teams este închisă, apoi reporniți Teams:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Pentru actualizări legate de această problemă, consultați  [Eliminare utilizator apare ca "utilizator necunoscut" în Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Pentru actualizări despre această problemă, consultați [S-a eliminat utilizatorul apare ca "Utilizator necunoscut" în Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).

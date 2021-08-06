@@ -1,5 +1,5 @@
 ---
-title: Gestionarea abonamentelor-solicitări de securitate și conformitate-acreditarea conformității Azure Industry
+title: Gestionarea abonamentului - solicitări de securitate și conformitate - azure industry compliance
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998955"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Gestionarea abonamentelor-solicitări de securitate și conformitate-acreditarea conformității Azure Industry
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Gestionarea abonamentului - solicitări de securitate și conformitate - azure industry compliance
 
-În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
+Pe baza descrierii problemei, am găsit o soluție pentru dvs. Majoritatea clienților au reușit să-și rezolve singuri problema după ce au urmărit documentația.
 
-- **Politică**: pentru orice întrebări despre documentul de conformitate Microsoft, consultați [compatibilitatea cu centrul de autorizare Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Politică:** Pentru orice întrebări privind documentul de conformitate Microsoft, consultați [Conformitatea Azure Trust Center.](https://docs.microsoft.com/compliance/regulatory/offering-SOC)
 
-- **HIPAA și HITECH act**: consultați Ghidul Windows Azure HIPAA dacă vă interesează HIPAA și actul HiTech, pentru a înțelege capacitățile relevante ale Windows Azure.
+- **HIPAA** și Legea HITECH: Consultați Ghidul WINDOWS Azure HIPAA, dacă vă interesează HIPAA și Legea HITECH, pentru a înțelege capacitățile relevante ale Windows Azure.
 
-- **Certificare FedRamp**: pentru orice informații despre certificarea FedRamp, consultați FedRamp Marketplace.
+- **Certificare FedRamp:** Pentru informații despre certificarea FedRamp, consultați FedRamp Marketplace.
 
-- **Conformitatea AZURIU PCI DSS**: documentele Azure necesare pentru realizarea conformității industriei cardului de plată sunt "atestarea conformității" și "matricea de responsabilitate", ambele fiind disponibile în centrul de autorizare Azure. Vă rugăm să verificați dacă aveți aceste documente. Dacă aveți aceste documente, dar aveți nevoie de o dovadă suplimentară a conformității standardului de securitate a datelor Microsoft Azure PCI, consultați [Microsoft și PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Conformitatea Azure PCI DSS:** Documentele necesare legate de Azure pentru atingerea conformităților din domeniul cardurilor de plată sunt "Attestation of Compliance" și "Matrice de responsabilitate", ambele fiind disponibile în Centrul de autorizare Azure. Verificați dacă aveți aceste documente. Dacă aveți aceste documente, dar aveți nevoie de dovadă suplimentară Microsoft Azure conformitatea standard de securitate a datelor PCI, consultați [Microsoft și PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Operațiuni Azure/securitate/conformitate**: dacă aveți întrebări legate de securitatea generală pe Azure, consultați răspunsul standard la solicitarea de informații despre securitatea, confidențialitatea și conformitatea Microsoft Azure dacă aveți întrebări legate de conformitate, consultați secțiunea întrebări frecvente despre Microsoft STP-conformitate și servicii Trust.
+- **Operațiuni/securitate/conformitate Azure:** dacă aveți întrebări generale legate de securitate pe Azure, consultați Răspuns standard la Solicitarea de informații Microsoft Azure Securitate, Confidențialitate și conformitate Dacă aveți întrebări legate de conformitate, consultați: Microsoft STP - Întrebări frecvente despre conformitate și STP.
 
-Dacă aveți întrebări legate de conformitate, consultați întrebări frecvente despre [Microsoft STP-Conformity](https://www.microsoft.com/trust-center/compliance/compliance-overview) și Trust portal de servicii.
+Dacă aveți întrebări legate de conformitate, consultați [Microsoft STP - Întrebări frecvente despre STP](https://www.microsoft.com/trust-center/compliance/compliance-overview) Și Service Trust Portal.
 
-- **Conformitatea RGPD**: dacă aveți întrebări despre acordul de procesare a datelor, consultați "termeni de protecție a datelor" începând de la pagina 7 din termenii "servicii online". OST include Termenii principali de procesare a datelor, dar este încorporat în contractul comercial standard. Printre altele, acesta oferă un angajament contractual în ceea ce privește obligațiile noastre RGPD. În plus, consultați termenii specifici RGPD de la sfârșitul contractului în "atașare 4", începând de la pagina 42. Aceste secțiuni acoperă obligațiile RGPD ale Microsoft ca procesor de date și sub formă de subprocesor la alt procesor de date.
-
-> [!NOTE]
-> Se recomandă insistent să utilizați Adobe Acrobat Reader pentru a deschide documente PDF, deoarece au fost notate probleme cu alți spectatori PDF. De asemenea, se recomandă să descărcați fișierul local în loc să-l deschideți într-o fereastră de browser, deoarece poate provoca erori.
-
-- **Conformitatea HDS**: Azure este acum "găzduire date de sănătate", certificată conform cerințelor franceze. Pentru mai multe informații, consultați "Microsoft Azure este acum certificat pentru a găzdui date sensibile de sănătate în Franța".
-
-- **Testarea de penetrare**: procesul de demitere a solicitării de încercare de penetrare este clientul un proces de auto-servire la "PenTest".
-
-Pentru mai multe detalii despre testarea de penetrare, consultați [testarea de penetrare](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Notificările pentru clienți pentru modificările de subprocesor**: este posibil să optați pentru a primi notificări privind modificările la lista de subprocesoare de date personale Microsoft.
+- **Conformitatea RGPD:** Dacă aveți întrebări despre Contractul de procesare a datelor, consultați "Condițiile de protecție a datelor" începând cu pagina 7 din "Condițiile de utilizare a serviciilor online". OST include termenii primari de procesare a datelor, dar este încorporat în contractul comercial standard. Printre altele, acesta furnizează un angajament contractual cu privire la obligațiile RGPD. În plus, consultați termenii specifici RGPD la sfârșitul contractului de la "Atașarea 4", începând de la pagina 42. Aceste secțiuni acoperă obligațiile RGPD ale Microsoft ca procesor de date și ca subpro procesor de date la un alt procesor de date.
 
 > [!NOTE]
-> Notificarea datelor de client și a listelor de date personale din serviciile online este complet automatizată. Pentru mai multe informații, consultați resurse de protecție a datelor Microsoft.
+> Se recomandă ferm să utilizați Adobe Acrobat Reader pentru a deschide documente PDF, deoarece au fost notate problemele cu alți vizualizatoare de PDF. De asemenea, se recomandă să descărcați fișierul local, în loc să-l deschideți într-o fereastră de browser, deoarece acest lucru poate cauza erori.
+
+- **Conformitate HDS:** Azure este acum "Găzduire date de sănătate", certificată în conformitate cu cerințele în limba franceză. Pentru mai multe informații, consultați "Microsoft Azure este certificat să găzduiască date de sănătate sensibile în Franța".
+
+- **Testarea inerție:** întregul proces de "remitere a solicitării de test a inerției" este clientul un proces de auto-servire la "creiontest".
+
+Pentru mai multe detalii despre testarea insultrarii în testarea insetrarii, consultați [Testarea insetrarii în insulare.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Notificările clienților pentru modificările subprocesorului:** Puteți opta să primiți notificări privind modificările listei subprocesoarelor de date personale Microsoft.
+
+> [!NOTE]
+> Notificarea privind datele clienților online Services și Lista de date personale este automatizată complet. Pentru mai multe informații, consultați Resurse de protecție a datelor Microsoft.
 
 **Documente recomandate**
 
-- [Exportul sau ștergerea setărilor din portalul Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Exportul sau ștergerea setărilor în portalul Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [Găsirea rapoartelor de activitate în portalul Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Evenimente de risc Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Utilizatori cu risc](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Conectări riscante](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Ce sunt rapoartele Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft și HIPAA și HITECH act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [Documentația de autorizare provizorie a Departamentului Apărării din SUA (DoD) pe IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Azure Active Directory de risc](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Utilizatorii cu risc](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Autentificări riscante](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Ce sunt Azure Active Directory mele?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Microsoft și HIPAA și Legea HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [US Department of Defense (DoD) Însastă documentația Pentru autorizarea de sesizare pe IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

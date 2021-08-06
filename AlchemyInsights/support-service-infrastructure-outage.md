@@ -1,5 +1,5 @@
 ---
-title: Întreruperea infrastructurii serviciului de asistență
+title: Deseuri de infrastructură de serviciu de asistență
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48365318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998991"
 ---
-# <a name="support-service-infrastructure-outage"></a>Întreruperea infrastructurii serviciului de asistență
+# <a name="support-service-infrastructure-outage"></a>Deseuri de infrastructură de serviciu de asistență
 
-În prezent, întâmpinăm o pană în infrastructura serviciului de asistență. Lucrăm pentru a rezolva problema cât mai curând posibil, dar între timp este posibil să vedeți întârzieri în timpul răspunsului atunci când încercați să contactați Microsoft.
+Momentan ne confruntăm cu o desrajrajare a infrastructurii serviciului de asistență. Lucrăm pentru a rezolva problema cât mai rapid posibil, dar între timp este posibil să vedeți întârzieri ale răspunsului atunci când încerca să contactați Microsoft.

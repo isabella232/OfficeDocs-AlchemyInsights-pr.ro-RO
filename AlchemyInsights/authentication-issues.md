@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019520"
 ---
 # <a name="authentication-issues"></a>Probleme de autentificare
 
@@ -75,14 +75,14 @@ Pentru mai multe informații despre accesul condiționat, consultați:
 - [Gestionarea provocărilor de acces condiționat utilizând MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Îndrumări pentru dezvoltatori pentru accesul condiționat la Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Sfârșitul perioadei de asistență pentru biblioteca de autentificare Azure Active Directory (ADAL) și Azure AD Graph API (AAD Graph)_* _
+***Sfârșitul perioadei de asistență pentru Azure Active Directory de autentificare (ADAL) și Azure AD Graph API (AAD Graph)***
 
 - Începând cu 30 iunie 2020, nu vom mai adăuga caracteristici noi la biblioteca de autentificare Azure Active Directory (ADAL) și Azure AD Graph API (AAD Graph). Vom continua să oferim asistență tehnică și actualizări de securitate, dar nu vom mai furniza actualizări de caracteristici.
 - Începând cu 30 iunie 2022, vom înceta asistența pentru ADAL și AAD Graph, și nu vom mai furniza asistență tehnică sau actualizări de securitate.
     - Aplicațiile care utilizează ADAL în versiunile de sistem de operare existente vor continua să funcționeze după această dată, dar nu vor primi asistență tehnică sau actualizări de securitate.
     - Este posibil ca aplicațiile care utilizează AAD Graph după această dată să nu mai primească răspunsuri de la punctul final AAD Graph.
 
-_ *Migrarea ADAL**
+**MigrareA ADAL**
 
 Vă recomandăm să actualizați la [Biblioteca de autentificare Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), care are cele mai recente caracteristici și actualizări de securitate. Această recomandare vine în contextul migrării de către Microsoft a aplicațiilor sale în MSAL până la sfârșitul datei limită pentru asistență. Obiectivul migrării aplicațiilor Microsoft la MSAL este să ne asigurăm că aplicațiile beneficiază de îmbunătățirile permanente ale securității și caracteristicilor MSAL.
 

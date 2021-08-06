@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907750"
 ---
 # <a name="workflow-is-not-starting"></a>Fluxul de lucru nu porni
 
-- Fluxurile de lucru SharePoint 2010 și SharePoint 2013 nu rulează.
+- SharePoint 2010 și SharePoint 2013 nu încep.
 
     - Dacă fluxul dvs. de lucru nu începe, poate exista o problemă temporară de serviciu în care utilizatorii se pot experimenta întârzieri intermitente în progresul fluxului de lucru. Verificați tabloul [de bord cu starea](https://admin.microsoft.com/AdminPortal/Home/servicehealth) serviciilor pentru a vedea dacă organizația dvs. este afectat.
 
     - Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să introduceți în jurnal un tichet de asistență. În multe cazuri, lucrăm deja la o soluție. Acordați-ne cel puțin 24 de ore pentru a finaliza o soluție.
 
-- Fluxurile de lucru SharePoint 2010 au întârziat la pornire.
+- SharePoint 2010 a întârziat la pornire.
 
     - Acest lucru se întâmplă dacă fluxul de lucru este declanșat în grupuri mari. (de exemplu, când se adaugă mai multe elemente simultan).
 
@@ -45,5 +45,5 @@ ms.locfileid: "51403755"
 
 ## <a name="related-topics"></a>Subiecte asociate
 Doriți să încercați Microsoft Flow în SharePoint Online?
-- [Create Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Crearea Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint și Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

@@ -1,5 +1,5 @@
 ---
-title: Caracteristici nelicențiate dezactivat pentru utilizatorii standard de Business
+title: Caracteristici nelicențiate dezactivate pentru utilizatorii Business Standard
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908578"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Caracteristici nelicențiate dezactivat pentru utilizatorii standard de Business
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Caracteristici nelicențiate dezactivate pentru utilizatorii Business Standard
 
-Unii utilizatori și organizații Microsoft 365 Business standard au în prezent mai multe caracteristici disponibile pentru acestea decât sunt licențiate. Aceste caracteristici includ următoarele setări pentru clasificarea, etichetarea și protecția (CLP) și gestionarea drepturilor digitale (DRM):
+Unii Microsoft 365 Business Standard utilizatori și organizații au în prezent mai multe caracteristici disponibile decât cele pentru care au licență. Printre aceste caracteristici se numără următoarele setări pentru Clasificare, Etichetare și Protecție (CLP) și DrM (Digital Rights Management):
     
-Începând cu 30 iunie 2020, caracteristicile suplimentare sunt dezactivate pentru acești utilizatori în Microsoft Excel, Microsoft Word, Microsoft PowerPoint și Microsoft Outlook.
+Începând cu data de 30 iunie 2020, caracteristicile suplimentare sunt dezactivate pentru acești utilizatori în Microsoft Excel, Microsoft Word, Microsoft PowerPoint și Microsoft Outlook.
 
-Luați în considerare modificarea tipului de licență al utilizatorului efectuat la o licență care include aceste caracteristici. 
+Luați în considerare modificarea tipului de licență al utilizatorului efect într-o licență care include aceste caracteristici. 
 
-Pentru mai multe informații, consultați [caracteristici nelicențiate oferite utilizatorilor Microsoft 365 Business Standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Pentru mai multe informații, [consultați Caracteristici nelicențiate oferite utilizatorilor Microsoft 365 Business Standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

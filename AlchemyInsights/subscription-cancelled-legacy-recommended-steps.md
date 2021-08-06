@@ -1,5 +1,5 @@
 ---
-title: Abonament anulat
+title: Abonament anulat - moștenit - pași recomandați
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999072"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonament anulat
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonament anulat - moștenit - pași recomandați
 
 Înregistrarea noastră indică faptul că abonamentul a fost anulat de un utilizator cu drepturi de proprietar. Găsiți pașii de mai jos pentru a reactiva abonamentul.
 
-[Administratorul de cont](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) poate reactiva un abonament cu plată-as-Go anulat în centrul de cont.
+Administratorul [de cont](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) poate reactiva un abonament Pay-as-You-Go anulat în Centrul de cont.
 
-1. Conectați-vă la [Centrul de cont](https://account.azure.com/Subscriptions).
-2. Selectați abonamentul anulat și faceți clic pe **reactivare**.
+1. Conectați-vă [la Centrul de conturi.](https://account.azure.com/Subscriptions)
+2. Selectați abonamentul anulat și faceți clic **pe Reactivare**.
 
-Pentru alte tipuri de abonament, [contactați asistența](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) pentru a vă reactiva abonamentul.
+Pentru alte tipuri de abonamente, [contactați](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) asistența pentru ca abonamentul dvs. să fie reactivat.
