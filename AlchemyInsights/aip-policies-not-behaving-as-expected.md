@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90448bf57297ce59ba222efd1927b5de588bfbfdb1206b6403764d7f43fed690
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934305"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: Politicile nu se comportă așa cum vă așteptați
 
@@ -27,7 +27,7 @@ Azure Information Protection: Politicile nu au un comportament așa cum vă așt
 2. Dacă aveți probleme cu etichetarea automată, revizuiți Cum se configurează condițiile pentru clasificarea automată și recomandată pentru [Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) și Ce tipuri de informații sensibile [caută.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 3. Dacă aveți probleme cu protecția Native/Pfile, revizuiți [configurația FILE API.](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration)
 4. Verificați dacă utilizați politici de domeniu care nu sunt configurate corect: Cum se configurează politica [Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)pentru utilizatori specifici utilizând politici de domeniu.
-5. Dacă etichetarea automată nu funcționează pentru Outlook atunci când atașați un document etichetat, verificați dacă DRMEncryptProperty nu este definit după cum este descris aici: Setări de [registry IRM](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)pentru securitate.
+5. Dacă etichetarea automată nu funcționează pentru Outlook atunci când atașați un document etichetat, verificați dacă DRMEncryptProperty nu este definit după cum este descris aici: Setări de [registry IRM pentru](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)securitate.
 
 Dacă încă aveți probleme, colectați jurnale ale clientului Azure Information Protection și atașați jurnalele exportate la acest tichet.
 
@@ -40,5 +40,5 @@ Resurse suplimentare:
 
 - [Cum se configurează o etichetă pentru marcajele vizuale pentru Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
 - [Revizuiți documentația Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Utilizați etichete de sensibilitate în aplicațiile Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Utilizați etichete de sensibilitate în Microsoft 365 aplicații](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

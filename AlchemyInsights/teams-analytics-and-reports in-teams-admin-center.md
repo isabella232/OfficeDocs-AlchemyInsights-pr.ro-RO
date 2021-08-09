@@ -1,5 +1,5 @@
 ---
-title: Analiză și rapoarte Teams în Centrul de administrare Teams
+title: Teams Analytics and Reports in the Teams Admin Center
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909091"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Analiză și rapoarte Teams în Centrul de administrare Teams
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analytics and Reports in the Teams Admin Center
 
-Există o serie de rapoarte privind utilizarea și **activitatea** disponibile în Centrul de administrare Teams, inclusiv activitatea utilizatorilor, utilizarea dispozitivelor și utilizarea în direct a evenimentelor. Pentru detalii, consultați [Analize și raportare Microsoft Teams.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
+Există un număr de rapoarte **de** utilizare și activitate disponibile în Centrul de administrare Teams, inclusiv activitatea utilizatorilor, utilizarea dispozitivelor și utilizarea evenimentelor în direct. Pentru detalii, consultați [Microsoft Teams și raportare.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Rețineți:** Sunt disponibile rapoarte suplimentare privind utilizarea și activitatea în Teams în Centrul de administrare Microsoft 365. Consultați [Cum să vizualizați rapoartele Teams în tabloul de bord Rapoarte.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
+**Rețineți:** Sunt disponibile rapoarte Teams utilizare și activitate în Centrul Administrator Microsoft 365 autorizare. Consultați [Vizualizarea rapoartelor Teams din tabloul de bord Rapoarte.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
 
-În cazul în care căutați  rapoarte sau analize legate de apeluri sau calitatea apelului, consultați [Implementarea QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) și Monitorizarea calității apelurilor în Microsoft Teams pentru documentație corespunzătoare.
+În cazul în care căutați  rapoarte sau analize legate de apeluri sau calitatea apelurilor, consultați [Implementarea QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) și Monitorizarea calității apelurilor în Microsoft Teams documentație corespunzătoare.
 

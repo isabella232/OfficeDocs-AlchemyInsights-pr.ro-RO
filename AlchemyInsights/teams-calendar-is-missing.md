@@ -1,5 +1,5 @@
 ---
-title: Calendarul teams lipsește
+title: Teams lipsește calendarul
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6191"
 - "9003307"
-ms.openlocfilehash: 996f11a9917c09b19e20e5bc54d3ad22a3fe5f48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fc10c6b9a959adb8dd90c710859e82bd086493bd76ef30a9f6239713ec32109
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909037"
 ---
-# <a name="teams-calendar-is-missing"></a>Calendarul teams lipsește
+# <a name="teams-calendar-is-missing"></a>Teams lipsește calendarul
 
-Este posibil ca administratorul teams să fi dezactivat calendarul, așadar, mai întâi Verificați dacă este disponibil pentru dvs.
+Este Teams poate ca administratorul să fi dezactivat calendarul, deci mai întâi verificați dacă este disponibil.
 
-Dacă este disponibilă, încercați să comutați versiunea de teams.
+Dacă este disponibilă, încercați să comutați versiunea de Teams.
 
 - Dacă utilizați versiunea web, comutați la versiunea instalată.
-- Dacă utilizați versiunea instalată, încercați teams pe web.
+- Dacă utilizați versiunea instalată, încercați să Teams pe web.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060076"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Accesarea cheilor de recuperare BitLocker
 
-Atunci când configurați setările Bitlocker Politica de protecție Intune Endpoint, este posibil să definiți dacă informațiile de recuperare Bitlocker trebuie să fie stocate în Azure Active Directory.
+Atunci când configurați setările BitLocker Politica Endpoint Protection Intune, este posibil să definiți dacă informațiile de recuperare Bitlocker trebuie să fie stocate în Azure Active Directory.
 
 Dacă această setare este configurată, datele de recuperare stocate trebuie să fie vizibile pentru un administrator Intune ca parte a datelor înregistrării dispozitivului în blade pentru dispozitive Intune în două moduri:
 
@@ -47,5 +47,5 @@ Dacă dispozitivul a fost criptat înainte de înscrierea în Intune, este posib
  
 În cazul în care dispozitivul a fost criptat ca rezultat al configurării prin politica de grup bazată pe domeniu, informațiile despre recuperare pot fi stocate în Active Directory local.
 
-Dacă ați configurat politica de protecție a punctului final pentru a stoca cheia de recuperare în Azure Active Directory, dar cheia pentru un anumit dispozitiv nu a fost încărcată, puteți declanșa încărcarea, rotind cheia de recuperare pentru acel dispozitiv din consola MEM. Pentru detalii, consultați Rotire [chei de recuperare BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Dacă ați configurat o politică de protecție pentru punctul final pentru a stoca cheia de recuperare în Azure Active Directory dar cheia pentru un anumit dispozitiv nu a fost încărcată, puteți declanșa încărcarea, rotind cheia de recuperare pentru acel dispozitiv din consola MEM. Pentru detalii, consultați Rotire [chei de recuperare BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
