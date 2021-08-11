@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822143"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934917"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Activarea comunicațiilor externe și adăugarea persoanelor de contact
 
-În Skype for Business, puteți adăuga persoane în lista persoane de contact, astfel încât să fie la doar un clic distanță. Fiecărei persoane de contact pe care o adăugați îi este atribuită o apartenență la unul sau mai multe grupuri de contact. Consultați [Adăugarea unei persoane de contact în Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) pentru mai multe informații. 
+În Skype for Business, puteți să adăugați persoane în lista persoane de contact, pentru a le putea utiliza doar cu un clic. Fiecărei persoane de contact pe care o adăugați îi este atribuită o apartenență la unul sau mai multe grupuri de contact. Consultați [Adăugarea unei persoane de contact Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) pentru mai multe informații. 
 
 Asigurați-vă că administratorul entității găzduite a urmat pașii pentru [Permite comunicații externe.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Doriți să le permiteți utilizatorilor să contacteze utilizatorii Skype pentru consumatori? Consultați [Permiteți utilizatorilor Skype for Business să adauge persoane de contact Skype.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+Doriți doar să le permiteți utilizatorilor să contacteze utilizatorii Skype consumatori? Consultați [Permiteți utilizatorilor Skype for Business să adauge Skype de contact.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

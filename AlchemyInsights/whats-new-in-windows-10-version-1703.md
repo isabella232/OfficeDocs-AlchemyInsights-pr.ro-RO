@@ -1,5 +1,5 @@
 ---
-title: Noutăți în Windows 10, versiunea 1703
+title: Ce este nou în Windows 10, versiunea 1703
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: b2b8882a3a4c2b527c1a6eb8300b810a539599c8
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970703"
 ---
-# <a name="whats-new-in-windows-10-version-1703"></a>Noutăți în Windows 10, versiunea 1703
+# <a name="whats-new-in-windows-10-version-1703"></a>Ce este nou în Windows 10, versiunea 1703
 
-Iată noutățile din caracteristicile Technology (IT) Pro din Windows 10, versiunea 1703, denumită și actualizarea creatorilor:
+Iată ce este nou în caracteristicile profesioniste din tehnologia informației (IT) din Windows 10, versiunea 1703, numită și actualizarea Creators:
 
 1. [Configurare](https://go.microsoft.com/fwlink/?linkid=2114188)
 1. [Implementare](https://go.microsoft.com/fwlink/?linkid=2114365)    
 1. [Securitatea](https://go.microsoft.com/fwlink/?linkid=2114366)
 1. [Actualizare](https://go.microsoft.com/fwlink/?linkid=2114189)
 1. [Gestionare](https://go.microsoft.com/fwlink/?linkid=2114367)
-1. [Îmbunătățiri pentru dispozitive mobile Windows 10](https://go.microsoft.com/fwlink/?linkid=2114368)
-1. [Miracast pe rețeaua wireless existentă sau LAN](https://go.microsoft.com/fwlink/?linkid=2114190)
+1. [Windows 10 Mobile îmbunătățirile](https://go.microsoft.com/fwlink/?linkid=2114368)
+1. [Miracast-vă într-o rețea wireless sau LAN existentă](https://go.microsoft.com/fwlink/?linkid=2114190)
