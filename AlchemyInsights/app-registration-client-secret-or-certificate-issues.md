@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9685"
-ms.openlocfilehash: 990648d286ec801785201e6513b70534c3d80e3f
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 588273f43f7c2d57b377b234885cf4283d466919b562536f78a64356422f9f9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951505"
 ---
 # <a name="app-registration-client-secret-or-certificate-issues"></a>Probleme secrete ale clientului de înregistrare a aplicațiilor sau ale certificatelor
 
 Clientul aplicației expiră secret?
 
-Indiferent cum a fost creată aplicația înregistrată, fie prin procesul de înregistrare standard din portalul de înregistrare a aplicațiilor, fie dacă entitatea principală de serviciu a fost creată în entitatea dvs. găzduită folosind consimțământul aplicației, va trebui creat un nou Secret client înainte de expirarea acestuia curent și actualizat în codul aplicației asociate. Perioada maximă de validitate este de 2 ani. Ca memento, valoarea secretă trebuie înregistrată, deoarece nu va mai fi vizibilă după ce părăsiți pagina de înregistrări a aplicațiilor din portal. Pentru mai multe informații, consultați [Pornire rapidă: Înregistrați o](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app) aplicație pe platforma de identitate Microsoft și Cele mai bune practici pentru platforma de identitate [Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/identity-platform-integration-checklist#security)
+Indiferent cum a fost creată aplicația înregistrată, fie prin procesul de înregistrare standard din portalul de înregistrare a aplicațiilor, fie dacă entitatea principală de serviciu a fost creată în entitatea dvs. găzduită folosind consimțământul aplicației, va trebui creat un nou Secret client înainte de expirarea acestuia curent și actualizat în codul aplicației asociate. Perioada maximă de validitate este de 2 ani. Ca memento, valoarea secretă trebuie înregistrată, deoarece nu va mai fi vizibilă după ce părăsiți pagina de înregistrări a aplicațiilor din portal. Pentru mai multe informații, [consultați Pornire rapidă: Înregistrați](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app) o aplicație în Serviciu de identitate Microsoft și Cele mai bune practici pentru această [Serviciu de identitate Microsoft](https://docs.microsoft.com/azure/active-directory/develop/identity-platform-integration-checklist#security).
 
-Pentru a afla mai multe, consultați Crearea unui cont principal de & de aplicație [Azure AD în portalul - platforma de identitate Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal)
+Pentru a afla mai multe, [consultați Crearea unei aplicații Azure AD & principal](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal)de serviciu în portal - Serviciu de identitate Microsoft .

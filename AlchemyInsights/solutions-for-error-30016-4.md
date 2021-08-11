@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909946"
 ---
 # <a name="solutions-for-error-30016-4"></a>Soluții pentru eroarea 30016-4
 
-Atunci când încercați să dezinstalați aplicațiile Microsoft 365 pentru întreprinderi de pe un computer și primiți mesajul de eroare, ceva nu a funcționat **corect 30016-4**, înseamnă că unitatea **% temp%** este mapată la o altă unitate decât **% ProgramFiles%**.
+Atunci când încercați să dezinstalați Aplicații Microsoft 365 pentru întreprindere de pe un computer și obțineți mesajul de eroare Ceva nu a mers bine **30016-4,** înseamnă că unitatea **%temp%** este mapată la o altă unitate decât **%ProgramFiles%.**
   
-Pentru a remedia, a descărca și a instala [Asistentul pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Pentru a remedia, a descărca și a [instala Asistent pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Atunci când se deschide, de la **dezinstalarea produselor Office** Selectați versiunea pe care doriți să o dezinstalați și selectați **Următorul**.
+1. Atunci când se deschide, din **Dezinstalare Office produse selectați** versiunea pe care doriți să o dezinstalați și selectați **Următorul**.
 
 2. Continuați să parcurgeți ecranele și reporniți computerul atunci când vi se solicită.
 
-    După repornirea, asistentul pentru recuperare și asistență se va deschide automat pentru a finaliza procesul de dezinstalare.
+    După repornire, aplicația Asistent pentru recuperare și asistență se deschide automat din nou pentru a finaliza procesul de dezinstalare.
 
 3. Urmați solicitările rămase și [reinstalați Office](https://portal.office.com/OLS/MySoftware.aspx) sau închideți asistentul.

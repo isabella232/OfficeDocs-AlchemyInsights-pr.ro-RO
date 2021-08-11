@@ -1,5 +1,5 @@
 ---
-title: Modificarea domeniului pentru Microsoft 365 Group
+title: Modificarea domeniului pentru Microsoft 365 grup
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917003"
 ---
-# <a name="change-the-domain-for-a-microsoft-365-group"></a>Modificarea domeniului pentru un grup Microsoft 365
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Modificarea domeniului pentru un grup Microsoft 365 grup
 
-Dacă doriți să modificați domeniul pentru un grup Microsoft 365 în timpul creării, urmați pașii din [Alegeți domeniul de utilizat la crearea grupurilor microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Dacă doriți să modificați domeniul pentru un grup Microsoft 365 în timpul creării, urmați pașii din Alegerea domeniului de utilizat la [crearea unui Microsoft 365 Groups.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Pentru a modifica domeniul unui grup Microsoft 365 existent, ca administrator, puteți să navigați la centrul de administrare Microsoft 365, https://admin.microsoft.com apoi să efectuați următorii pași:
+Pentru a schimba domeniul unui grup de nume Microsoft 365 existent, ca administrator, puteți să navigați la Centrul Administrator Microsoft 365 și să https://admin.microsoft.com efectuați următorii pași:
 
-- Alegeți **grupuri** din meniul din partea stângă
-- Căutați grupul M365 pe care doriți să-l modificați și alegeți-l, apoi faceți clic pe **Editare** sub **adrese de e-mail** atunci când sunteți pe fila **General** .
-- Acum puteți modifica domeniul adresei sale principale de e-mail și puteți adăuga pseudonime de e-mail.
+- **Alegeți** Grupuri din meniul din partea stângă
+- Căutați grupul M365 pe care doriți să-l  modificați și alegeți-l, apoi faceți clic pe Editare sub Adrese de e-mail, pe **fila General.** 
+- Acum puteți schimba domeniul adresei sale de e-mail principale și, de asemenea, puteți adăuga aliasuri de e-mail.
 
 > [!IMPORTANT]
-> Grupurile de distribuire regulate și grupurile de securitate activate pentru e-mail vă vor permite să gestionați mai puțin setările din secțiunea **grupuri** de administrare M365. Dacă doriți să gestionați mai multe detalii, faceți clic pe fila **Setări** atunci când editați una dintre ele în centrul de administrare M365 și alegeți **Gestionați mai multe setări în opțiunea Exchange centru de administrare** .
+> Grupurile de distribuire obișnuite și grupurile de securitate cu e-mail activat vă vor permite să gestionați mai puține setări din Centrul de administrare M365, **secțiunea** Grupuri. Dacă doriți să gestionați mai multe dintre detaliile acestora, faceți clic pe fila **Setări** atunci când editați una dintre ele în Centrul de administrare M365 și alegeți Gestionați mai multe setări din **opțiunea Exchange** de administrare.

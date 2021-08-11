@@ -1,5 +1,5 @@
 ---
-title: Eroarea Outlook nu poate porni Microsoft Outlook
+title: Outlook eroare Imposibil de pornit Microsoft Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933657"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Eroare Outlook: nu se poate porni Microsoft Outlook
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook eroare: Microsoft nu poate porni Outlook
 
-Întâmpinați probleme la pornirea Outlook 2016, Outlook 2013 sau Outlook 2010 sau primirea "nu poate porni Microsoft Outlook. Nu se poate deschide fereastra Outlook "mesaje de eroare?
+Aveți probleme la pornirea Outlook 2016, Outlook 2013 sau Outlook 2010 sau primiți mesajele de e-Outlook 2016 microsoft Outlook. Imposibil de deschis Outlook"?
   
-Mai întâi, utilizați pașii de depanare din [acest articol](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) pentru a rezolva aceste probleme de pornire. 
+Mai întâi, urmați pașii de depanare din [acest articol pentru a](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) rezolva aceste probleme de pornire. 
   
-De asemenea, puteți să ruleze [Instrumentul de diagnosticare complexă](https://aka.ms/SaRA-OutlookAdvDiagnostics) pe mașina afectată.
+De asemenea, puteți [rula instrumentul Diagnostice complexe](https://aka.ms/SaRA-OutlookAdvDiagnostics) pe computerul afectat.

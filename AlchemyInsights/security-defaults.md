@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28a42e09eb810daad4b507756d6997e262a3021baab1176efb9050d793c0a05e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942919"
 ---
 # <a name="security-defaults"></a>Valori implicite de securitate
 
 Pentru informații despre valorile implicite de securitate, consultați [Ce sunt valorile implicite de securitate?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Valorile implicite de securitate din Azure Active Directory (Azure AD) simplifică securizarea și protejarea organizației dvs. Setările de securitate implicite conțin setări de securitate preconfigurate pentru atacurile obișnuite.
+Valorile implicite de securitate din Azure Active Directory (Azure AD) facilitează securizarea și protejarea organizației dvs. Setările de securitate implicite conțin setări de securitate preconfigurate pentru atacurile obișnuite.
 
 Microsoft face setările de securitate disponibile tuturor. Obiectivul este de a vă asigura că toate organizațiile au activat un nivel de securitate de bază fără costuri suplimentare. Activați valorile implicite de securitate în portalul Azure.

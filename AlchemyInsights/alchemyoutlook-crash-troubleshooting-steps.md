@@ -1,5 +1,5 @@
 ---
-title: Alchemy-pașii pentru depanarea căderii Outlook
+title: Alchemy - Outlook de depanare a căderea
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933693"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pașii de depanare la căderea Outlook
 
-Dacă întâmpinați probleme de cădere a desktopului Outlook, începeți prin a urma cei trei pași de mai jos, care sunt toate listate în detaliu în acest articol: [cum se depanează problemele care cauzează ca Outlook să se blocheze sau să nu mai răspundă.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Dacă aveți probleme cu căderea desktopului, începeți prin Outlook urma cei trei pași de mai jos, care sunt prezentați în detaliu în acest articol: Cum să depanați problemele care provoacă Outlook să se blochează sau să nu mai [răspundă.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Pasul 1: Investigarea problemelor posibile cu programele de completare.
+Pasul 1: Investigați posibilele probleme cu programele de completare.
   
-Pasul 2: reparați Outlook și derulează [instrumentul asistent pentru recuperare și asistență](https://aka.ms/SaRA-OutlookWontStart) pentru a depana erorile de pornire Outlook pe mașina afectată.
+Pasul 2: Outlook repararea [Asistent pentru recuperare și asistență](https://aka.ms/SaRA-OutlookWontStart) al instrumentului de Asistent pentru recuperare și asistență a depana erorile de Outlook la pornire pe computerul afectat.
   
-Pasul 3: Creați un nou profil Outlook sau derulează [instrumentul profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pe mașina afectată.
+Pasul 3: Creați un profil Outlook nou sau rulați [instrumentul Outlook profil nou](https://aka.ms/SaRA-OutlookSetupProfile) pe computerul afectat.
   
-Dacă problema a apărut după o actualizare, iar pașii de mai sus nu funcționează, poate fi necesar să reveniți la o versiune anterioară. Aflați [cum să reveniți la o versiune anterioară de Office 2016 clic și pornire](https://support.microsoft.com/help/2770432).
+Dacă problema a apărut după o actualizare, iar pașii de mai sus nu funcționează, poate fi necesar să reveniți la o versiune anterioară. Consultați [Cum să reveniți la o versiune anterioară de Office 2016 Clic și Executare.](https://support.microsoft.com/help/2770432)
   

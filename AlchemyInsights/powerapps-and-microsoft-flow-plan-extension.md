@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps și extinderea planului flux Microsoft
+title: 1575-PowerApps și Microsoft Flow extensie a planului
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960451"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps și extinderea planului flux Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps și extensia Microsoft Flow plan de planuri
 
-Dacă intenționați să solicitați o extensie a planului pentru **Microsoft Flow** sau **PowerApps** și entitatea găzduită are deja utilizatori activi cu una dintre următoarele caracteristici, nu este necesar să depuneți o solicitare de asistență.
+Dacă intenționați să solicitați o extensie a planului pentru **Microsoft Flow** sau **PowerApps** și entitatea dvs. găzduită are deja utilizatori activi cu una dintre caracteristicile următoare, nu este necesar să depuneți o solicitare de asistență.
 
 - Crearea și publicarea conectorilor particularizați în PowerApps și Microsoft Flow
-- Acțiunile particularizate HTTP integrate în flux în afara SharePoint și OneDrive
-- Integrarea datelor locale prin gateway-ul de date local
+- Acțiuni particularizate HTTP integrate în Flow exterior SharePoint cu OneDrive
+- Integrarea datelor local prin gateway-ul de date local
 
-Clienții cu utilizatori activi ai acestor caracteristici vor primi o extensie automată până la 31 ianuarie 2020 sau expirarea termenului de abonament Microsoft 365 existent, oricare dintre ele este mai lungă.
+Clienții cu utilizatori activi ai acestor caracteristici vor primi o extensie automată până la 31 ianuarie 2020 sau până la expirarea termenului existent pentru abonamentul Microsoft 365, în funcție de care este mai lungă.
