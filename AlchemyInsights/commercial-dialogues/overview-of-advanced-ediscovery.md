@@ -1,5 +1,5 @@
 ---
-title: Prezentare generală a informațiilor electronice avansate
+title: Prezentare generală a Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916175"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Prezentare generală a informațiilor electronice avansate
+# <a name="overview-of-advanced-ediscovery"></a>Prezentare generală a Advanced eDiscovery
 
 Advanced eDiscovery vă permite să analizați datele nestructurate pentru a reduce costul eDiscovery. Puteți să aplicați analize de text, învățare automată și coding relevant/predictiv. Iată câteva sfaturi:
 
-- Caracteristica Advanced eDiscovery necesită fie un abonament E5 pentru organizația dvs., fie un abonament Office 365 E3 cu programul de completare Advanced Conformity.
-- Pentru a crea un nou caz Advanced eDiscovery, accesați [Centrul de conformitate & de securitate](https://go.microsoft.com/fwlink/p/?linkid=2077143) și selectați **eDiscovery**  >  **Advanced eDiscovery**.
-- Pentru mai multe informații, consultați [prezentarea generală a Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Pentru informații despre pașii necesari pentru configurarea eDiscovery-ului avansat, consultați [configurarea Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).
+- Caracteristica Advanced eDiscovery necesită un abonament E5 pentru organizația dvs. sau un abonament Office 365 E3 cu programul de completare Advanced Compliance.
+- Pentru a crea un nou caz Advanced eDiscovery, accesați Centrul de [conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143) & de securitate și selectați **Advanced eDiscovery** Advanced  >  **eDiscovery.**
+- Pentru mai multe informații, consultați [Prezentare generală Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101588)
+- Pentru informații despre pașii necesari pentru a configura Advanced eDiscovery, consultați Configurarea [Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)

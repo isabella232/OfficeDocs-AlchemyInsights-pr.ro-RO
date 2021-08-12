@@ -1,5 +1,5 @@
 ---
-title: Problema de derulare a imprimării este rezolvată
+title: Problema cu derulatorul de imprimare este rezolvată
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 73ff86928c043dd41f49d456d30c2fcf7947bd4cb304d0456c634d4fa5808239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911350"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Problema de derulare a imprimării este rezolvată
+# <a name="print-spooler-issue-is-resolved"></a>Problema cu derulatorul de imprimare este rezolvată
 
-Dacă dispozitivul a fost actualizat cu Windows 10  **OS Build 19041,329**, este posibil să fi observat o problemă în care anumite imprimante nu reușesc să se imprime. Derulator de imprimare poate să arunce o eroare sau să se închidă în mod neașteptat atunci când încercați să imprimați și nicio ieșire nu provine de la imprimanta afectată. Această problemă este rezolvată în sistemul de operare generare  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Dacă dispozitivul dvs. a fost actualizat cu Windows 10 **19041.329** pentru sistem de operare, probabil că ați observat o problemă în care anumite imprimante nu se imprimă.   Derulatorul de imprimare poate să dea o eroare sau să se închidă în mod neașteptat atunci când încearcă să imprime și nu provine niciun rezultat de la imprimanta afectată. Această problemă este rezolvată în compilare sistem de operare  **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
 
-**Investigație în curs**
+**Investigație continuă**
 
-Fișierul local Security Authority (LSASS) (**Isass.exe**) este posibil să nu reușească pe unele dispozitive cu mesajul de eroare "un proces de sistem critic, C:\WINDOWS\system32\Isass.exe, nu a reușit cu codul de stare c0000008. Mașina trebuie repornită acum ".  **Microsoft lucrează la o rezoluție și va furniza o actualizare într-o lansare viitoare.**
+Fișierul LSASS (Local Security Authority Subsystem Service)**(Isass.exe)** poate să nu reușească pe unele dispozitive cu mesajul de eroare, "Un proces critic de sistem, C:\WINDOWS\system32\Isass.exe, nereușit cu codul de stare c0000008. Computerul trebuie repornit acum".  **Microsoft lucrează la o rezolvare și va furniza o actualizare într-o lansare viitoare.**
 
-Pentru mai multe informații, consultați  [probleme cunoscute cu Windows 10 Version 2004](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Pentru mai multe informații, consultați probleme [Windows 10 2004 cunoscute cu versiunea 2004.](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)

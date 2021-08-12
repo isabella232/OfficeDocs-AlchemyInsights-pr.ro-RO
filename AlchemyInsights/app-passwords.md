@@ -1,5 +1,5 @@
 ---
-title: parole de aplicație 500
+title: 500 parole de aplicație
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931965"
 ---
 # <a name="app-passwords"></a>Parole de aplicație
 
-O parolă de aplicație este un cod care oferă o permisiune de aplicație sau de dispozitiv pentru a accesa contul Microsoft de la locul de muncă sau de la școală. Dacă aveți nevoie de autentificarea multi-factor (AMF), iar aplicația se conectează la contul dvs., trebuie să generați o parolă de aplicație pentru ca aplicația să se poată conecta la Microsoft. De exemplu, Outlook 2016 și versiunile anterioare Outlook de necesită o parolă de aplicație.
+Parola de aplicație este un cod care oferă unei aplicații sau unui dispozitiv permisiunea de a accesa contul dvs. Microsoft de la locul de muncă sau de la școală. În cazul în care contul dvs. necesită Multi-Factor Authentication (MFA), iar aplicația se conectează la contul dvs., trebuie să generați o parolă de aplicație pentru ca aplicația să se poată conecta la Microsoft. De exemplu, Outlook 2016 versiunile mai Outlook necesită o parolă de aplicație.
 
- **Notă**: înainte de a încerca următorii pași, verificați cu administratorul Microsoft 365 că Mae este necesar pentru contul dvs. Dacă nu este, opțiunile descrise în pași nu vor fi disponibile pentru dvs.
+ **Notă:** Înainte de a încerca pașii următori, verificați cu administratorul Microsoft 365 dacă este necesară MFA pentru contul dvs. Dacă nu, opțiunile descrise în pași nu vor fi disponibile.
 
-1. Conectați-vă cu contul de la locul de muncă sau de la școală și parola.
+1. Conectați-vă cu contul de la locul de muncă sau de la școală și cu parola.
 
-2. Alegeți **configurați-l acum**.
+2. Alegeți **Configurați acum**.
 
-3. Selectați metoda de autentificare și urmați solicitările.
+3. Selectați metoda de autentificare și urmați instrucțiunile.
 
-4. După ce Verificați metoda de contact alternativă, alegeți **Următorul**.
+4. După ce verificați metoda de contact alternativă, **alegeți Următorul.**
 
-5. Veți primi o parolă de aplicație pe care o puteți utiliza cu Outlook, Apple mail și alte aplicații care le solicită. Alegeți **Copiere** pentru a copia parola, astfel încât să o lipiți în altă parte (nu trebuie să o memorați).
+5. Veți primi o parolă de aplicație pe care o puteți utiliza cu Outlook, Apple Mail și alte aplicații care necesită acest lucru. Alegeți **Copiere** pentru a copia parola, astfel încât să o puteți lipi în altă parte (nu trebuie să o memorați).
