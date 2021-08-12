@@ -1,5 +1,5 @@
 ---
-title: Configurarea și validarea excluderilor pentru MDATP pe o mașină Linux
+title: Configurarea și validarea excluderilor pentru MDATP pe un computer Linux
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916427"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Configurarea și validarea excluderilor pentru MDATP pe o mașină Linux
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Configurarea și validarea excluderilor pentru MDATP pe un computer Linux
 
-Puteți să excludeți anumite fișiere, foldere, procese și fișiere deschise proceselor din scanări MDATP. Excluderi ajuta la prevenirea detectării incorecte a software-ului și a fișierelor unice sau particularizate pentru organizația dvs. Excluderi ajută, de asemenea, la atenuarea problemelor de performanță cauzate de MDATP.
+Puteți exclude anumite fișiere, foldere, procese și fișiere deschise de proces din scanările MDATP. Excluderile contribuie la prevenirea detectării incorecte a software-ului și a fișierelor unice sau particularizate pentru organizația dvs. Excluderile contribuie și la atenuarea problemelor de performanță provocate de MDATP.
 
-Pentru a afla mai multe, consultați [Configurarea și validarea excluderilor pentru MDATP pentru Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
+Pentru mai multe informații, consultați [Configurarea și validarea excluderilor pentru MDATP pentru Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> Excluderile descrise în acest articol nu se aplică altor capacități de MDATP pentru Linux, inclusiv detectarea punctului final și răspunsul (EDR). Fișierele pe care le excludeți prin utilizarea metodelor descrise în acest articol pot totuși să declanșeze avertizări EDR și alte capacități de detectare.
+> Excluderile descrise în acest articol nu se aplică la alte capacități MDATP pentru Linux, inclusiv pentru detectare puncte finale și răspuns (Detectare puncte finale și răspuns). Fișierele pe care le excludeți utilizând metodele descrise în acest articol pot declanșa în continuare avertizările de detectare Detectare puncte finale și răspuns alte capacități de detectare.

@@ -14,18 +14,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 15286a34e6118ca5f379b52b2db26e4d6a4d3925
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c10caf49bb2937ff80f403bd7ff3d57a47205dc11d8e295b2a34ddacf0eacfad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959254"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Remedierea erorii de activare Office 0xD000000C
 
 - Asigurați-vă că Internetul funcționează pe computerul Mac pe care încercați să instalați. Pentru a verifica, deschideți browserul de internet și accesați [Microsoft](https://www.microsoft.com). Dacă pagina se încarcă, atunci conexiunea la Internet este funcțională.
 
-- Închideți toate aplicațiile Microsoft 365.
+- Închideți toate Microsoft 365 aplicațiile.
 
 - Descărcați și rulați [License removal tool](https://go.microsoft.com/fwlink/?linkid=849815) (instrumentul de eliminare a licenței) pentru a elimina toate intrările keychain de Office.
 

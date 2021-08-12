@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966589"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Ce se întâmplă cu mesajele în carantină?
 
-Dacă alegeți să nu faceți nimic, mesajul va fi șters automat de Office 365 la expirare. Rețineți următoarele:
+Dacă alegeți să nu faceți nimic, mesajul va fi șters de fiecare dată Office 365 automat la expirare. Rețineți următoarele:
 
-1. În mod implicit, mesajele spam, bulk, malware și phishing sunt păstrate în carantină timp de 15 zile.
-2. Un mesaj în carantină care se potrivește cu o regulă de flux de corespondență se menține în carantină timp de 7 zile (nu puteți particulariza acest lucru).
-3. Atunci când Office 365 șterge un mesaj din carantină, nu îl puteți recupera.
-4. Dacă doriți, puteți să modificați perioada de retenție pentru mesajele în carantină, utilizând setarea păstrare spam pentru (zile) din politicile de filtrare a conținutului.
+1. În mod implicit, mesajele spam, în bloc, malware și phishing sunt păstrate în carantină timp de 15 zile.
+2. Un mesaj în carantină care se potrivește cu o regulă de flux de corespondență este păstrat în carantină timp de 7 zile (nu puteți particulariza acest lucru).
+3. Când Office 365 un mesaj din carantină, nu îl puteți obține înapoi.
+4. Dacă place, puteți modifica perioada de reținere pentru mesajele în carantină, utilizând setarea Păstrați mesajele spam timp de (zile) în politicile de filtrare a conținutului.
