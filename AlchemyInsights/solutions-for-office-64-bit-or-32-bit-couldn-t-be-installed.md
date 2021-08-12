@@ -1,5 +1,5 @@
 ---
-title: Nu s-a putut instala soluții pentru ' Office (64-bit sau 32-bit)
+title: Soluțiile pentru "Office (pe 64 de biți sau pe 32 de biți) nu au putut fi instalate
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957256"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Nu s-a putut instala soluții pentru "Office (64-bit sau 32-bit)
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Soluții pentru "Office (pe 64 de biți sau pe 32 de biți) nu au putut fi instalate
 
-Eroarea "Office (64-bit sau 32-bit) nu a putut fi instalat" apare deoarece nu puteți amesteca versiuni de Office pe 64 de biți și 32 de biți.
+Eroarea "Office (pe 64 de biți sau pe 32 de biți) nu a putut fi instalat" apare deoarece nu puteți amesteca versiuni de Office.
   
-Pentru a remedia această eroare și a comuta de la 32-bit la 64-bit, trebuie să procedați astfel în această ordine.
+Pentru a remedia această eroare și a trece de la cea pe 32 de biți la cea pe 64 de biți, trebuie să faceți următoarele, în această ordine.
   
 1. Descărcați și instalați [Asistentul pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Atunci când se deschide, de la **dezinstalarea produselor Office** Selectați versiunea pe care doriți să o dezinstalați și selectați **Următorul**.
+1. Atunci când se deschide, din **Dezinstalare Office produse selectați** versiunea pe care doriți să o dezinstalați și selectați **Următorul**.
 
 2. Continuați să parcurgeți ecranele și reporniți computerul atunci când vi se solicită.
 
-    După repornirea, asistentul pentru recuperare și asistență se va deschide automat pentru a finaliza procesul de dezinstalare.
+    După repornire, aplicația Asistent pentru recuperare și asistență se deschide automat din nou pentru a finaliza procesul de dezinstalare.
 
-3. Urmați solicitările rămase și [reinstalați Office](https://portal.office.com/OLS/MySoftware.aspx) cu versiunea corectă 32 sau 64-bit.
+3. Urmați solicitările rămase și [reinstalați Office](https://portal.office.com/OLS/MySoftware.aspx) versiunea corectă pe 32 de biți sau pe 64 de biți.
 
-    Urmați pașii din [instalarea Office pe un PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Urmați pașii [din Instalarea Office pe un PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Pentru mai multe informații, consultați [eroarea "Office (64-bit sau 32-bit) nu a putut fi instalat" atunci când încercați să instalați](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Pentru mai multe informații, consultați [eroarea "Office (pe 64](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) de biți sau pe 32 de biți) nu a putut fi instalat" atunci când încercați să instalați
   
