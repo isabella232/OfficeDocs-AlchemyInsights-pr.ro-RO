@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemei PRT
+title: Depanarea problemei cu PRT
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972728"
 ---
-# <a name="troubleshoot-prt-issue"></a>Depanarea problemei PRT
+# <a name="troubleshoot-prt-issue"></a>Depanarea problemei cu PRT
 
-Pentru ca orice dispozitiv să termine să se autentifice, acesta trebuie să fie înregistrat complet și în stare bună și să poată obține un token de reîmprospătare principală (PRT).
+Pentru ca orice dispozitiv să se autentifice, acesta trebuie să fie înregistrat în întregime și în stare bună și să poată obține un token de reîmprospătare primară (PRT).
 
-Procesul de înregistrare a asocierii hibride Azure AD necesită ca dispozitivele să fie într-o rețea corporativă. De asemenea, funcționează prin VPN, dar există câteva limitări pentru aceasta. Am auzit clienți care au nevoie de asistență cu depanarea procesului de înregistrare hibrid Azure AD Join-up în circumstanțe de la locul de muncă. Iată o defalcare a ceea ce se întâmplă "sub capota" în timpul procesului de înregistrare.
+Procesul de înregistrare de asociere hibridă la Azure AD necesită ca dispozitivele să fie într-o rețea de corporație. De asemenea, funcționează prin VPN, dar există câteva avertismente în acest lucru. Am auzit clienții care au nevoie de asistență pentru depanarea procesului hibrid de înregistrare a unirii Azure AD în situații de lucru la distanță. Iată o defalcare a ceea ce se întâmplă în cu totul în timpul procesului de înregistrare.
 
-**Mediu de autentificare în cloud (utilizând Azure AD password hash-sincronizare sau autentificare directă)**
+**Mediul de autentificare în cloud (utilizând sincronizarea hash-ului parolei Azure AD sau autentificarea "pass-through")**
 
-Acest flux de înregistrare este, de asemenea, cunoscut sub numele de "asociere la sincronizare".
+Acest flux de înregistrare se mai știe și ca "Sincronizare asociere".
 
-1. Windows 10 descoperă o înregistrare SCP la conectarea la utilizator a dispozitivului.
-    1. Dispozitivul încearcă mai întâi să regăsească informațiile despre entitatea găzduită din partea client SCP în registry [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Pentru mai multe informații, consultați acest [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    2. Dacă nu reușește, dispozitivul comunică cu Active Directory local (AD) pentru a obține informații despre entitatea găzduită de la punctul de conexiune la serviciu (SCP). Pentru a verifica SCP, vă rugăm să consultați acest [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> Vă recomandăm să activați SCP în reclamă și să utilizați doar clientul-Side SCP pentru validare inițială.
-
-2. Windows 10 încearcă să comunice cu Azure AD sub contextul sistemului, pentru a se autentifica împotriva Azure AD. Puteți verifica dacă dispozitivul poate accesa resursele Microsoft sub contul sistemului, utilizând scriptul de conectivitate pentru înregistrarea dispozitivelor de testare.
-
-3. Windows 10 generează un certificat cu semnătură automată și îl stochează sub obiectul computer din reclama locală. Acest lucru necesită o linie de vedere la controlerul de domeniu.
-
-4. Un obiect dispozitiv care are un certificat este sincronizat cu Azure AD prin Azure AD Connect. Ciclul de sincronizare este la fiecare 30 de minute în mod implicit, dar depinde de configurarea Azure AD Connect. Pentru mai multe informații, consultați acest [document](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. În această etapă, ar trebui să puteți vedea dispozitivul subiect în starea "în așteptare" sub Blade Device din Azure portal.
-
-6. La următorul utilizator de conectare la Windows 10, înregistrarea va fi finalizată. 
+1. Windows 10 descoperă o înregistrare SCP la conectarea utilizatorului pe dispozitiv.
+    1. Dispozitivul încearcă mai întâi să regăsească informațiile entității găzduite din SCP pe partea client în registry [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Pentru mai multe informații, consultați acest [document.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Dacă nu reușește, dispozitivul comunică cu Active Directory local (AD) pentru a obține informații despre entitatea găzduită de la Punctul de conexiune serviciu (SCP). Pentru a verifica SCP, consultați acest [document.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Dacă vă deconectați de la VPN și un proces de conectare la logoff termină conectivitatea domeniului, puteți să declanșați manual înregistrarea:
- 1. Emiteți un dsregcmd/Join local pe un prompt de administrator sau la distanță prin PSExec pe PC. De exemplu, PsExec-s \\ win10client01 cmd, dsregcmd/Join
+> Vă recomandăm să activați SCP în AD și să utilizați doar SCP pe partea client pentru validare inițială.
 
- 2. Pentru mai multe detalii despre problemele de asociere hibrid, consultați [Depanarea problemei dispozitivelor](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 încearcă să comunice cu Azure AD în contextul de sistem pentru a se autentifica în Azure AD. Puteți verifica dacă dispozitivul poate accesa resurse Microsoft de sub contul de sistem, utilizând scriptul Test Device Registration Connectivity.
+
+3. Windows 10 generează un certificat auto-semnat și îl stochează sub obiectul computer din AD local. Aceasta necesită linii de vedere către controlerul de domeniu.
+
+4. Un obiect de dispozitiv care are un certificat este sincronizat cu Azure AD prin azure AD Conectare. Ciclul de sincronizare este o dată la fiecare 30 de minute în mod implicit, dar depinde de configurarea Azure AD Conectare. Pentru mai multe informații, consultați acest [document.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. În această etapă ar trebui să vedeți dispozitivul subiect în starea "În așteptare" sub Blade dispozitiv al portalului Azure.
+
+6. La următorul utilizator care se conectează la Windows 10, înregistrarea va fi finalizată. 
+
+> [!NOTE]
+> Dacă vă a conectați la VPN și un proces de conectare la conectare închide conexiunea la domeniu, puteți declanșa manual înregistrarea:
+ 1. Emiteți o dsregcmd /join local la solicitarea administratorului sau de la distanță prin PSExec pe PC. De exemplu, PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Pentru mai multe detalii despre problemele de asociere hibridă, consultați [Depanarea problemelor cu dispozitivele.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
