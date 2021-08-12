@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917723"
 ---
 # <a name="auditing-results-are-blank"></a>Rezultatele auditării sunt necompletate
 
  **Rapoarte de audit pentru site-uri clasice**
   
-Pentru a vizualiza un raport de audit pentru o colecție de site-uri SharePoint, trebuie să fiți administrator pentru colecția de site-uri. Pentru a vă adăuga ca administrator, consultați [adăugarea administratorilor colecției de site-uri ca administrator global sau SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Pentru informații despre lucrul cu jurnalul de audit, consultați [vizualizarea rapoartelor jurnal de auditare](https://go.microsoft.com/fwlink/?linkid=395237). 
+Pentru a vizualiza un raport de auditare pentru SharePoint de site-uri nouă, trebuie să fiți administrator al colecției de site-uri. Pentru a vă adăuga ca administrator, consultați [Adăugarea administratorilor de colecții de site-uri ca administrator global SharePoint site-uri.](https://go.microsoft.com/fwlink/?linkid=869390) Pentru informații despre lucrul cu jurnalul de auditare, consultați [Vizualizarea rapoartelor jurnal de auditare.](https://go.microsoft.com/fwlink/?linkid=395237) 
   
- **Căutarea în Jurnalul de auditare**
+ **Căutarea în jurnalul de auditare**
   
-Trebuie să fiți administrator global pentru a lucra cu jurnalul de auditare în [Centrul de &amp; conformitate pentru securitate](https://protection.office.com). Înainte de a începe, activați înregistrarea în jurnal a auditării. Apoi, puteți să efectuați o căutare în Jurnalul de auditare. 
+Trebuie să fiți administrator global pentru a lucra cu jurnalul de auditare din Centrul [de &amp; conformitate de securitate.](https://protection.office.com) Înainte de a începe, activați înregistrarea în jurnal de auditare. Apoi puteți rula o căutare în jurnalul de auditare. 
   
-[Aflați cum să căutați în Jurnalul de auditare](https://go.microsoft.com/fwlink/?linkid=708432).
+[Aflați cum să căutați în jurnalul de auditare.](https://go.microsoft.com/fwlink/?linkid=708432)
   
 

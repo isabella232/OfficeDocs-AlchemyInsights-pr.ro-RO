@@ -1,5 +1,5 @@
 ---
-title: Setați Microsoft Bing ca motor de căutare implicit
+title: Setați Microsoft Bing de căutare implicit
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925501"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>Setați Microsoft Bing ca motor de căutare implicit
+# <a name="make-microsoft-bing-your-default-search-engine"></a>Setați Microsoft Bing de căutare implicit
 
-Pentru a seta Bing ca motor de căutare implicit pentru Microsoft Edge, Google Chrome sau Internet Explorer, urmați instrucțiunile din [Setarea Bing ca motor de căutare implicit.](https://go.microsoft.com/fwlink/?linkid=2148834)
+Pentru a Bing la motorul de căutare implicit pentru Microsoft Edge, Google Chrome sau Internet Explorer, urmați instrucțiunile din Setarea Bing motorul [de căutare implicit.](https://go.microsoft.com/fwlink/?linkid=2148834)
