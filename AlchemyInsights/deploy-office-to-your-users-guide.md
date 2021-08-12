@@ -1,5 +1,5 @@
 ---
-title: Implementarea Office în Ghidul pentru utilizatori
+title: Implementarea Office pentru ghidul utilizatorilor
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948103"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Implementarea Office în Ghidul pentru utilizatori
+# <a name="deploy-office-to-your-users-guide"></a>Implementarea Office pentru ghidul utilizatorilor
 
-Implementați aplicațiile Office din cloud cu capacitatea de a particulariza instalarea utilizând instrumentul de implementare Office.
+Implementați Office din cloud cu capacitatea de a vă particulariza instalarea utilizând instrumentul de Office de implementare.
 
-Ghidul de [implementare Office pentru utilizatori](https://go.microsoft.com/fwlink/?linkid=2146451) vă ajută să creați o configurație Office particularizată cu setări complexe sau puteți utiliza o configurație recomandată predefinită. Dacă utilizatorii efectuează o instalare automată sau vă implementați individual sau în masă pentru utilizatori, acest expert complex vă oferă instrucțiuni pas cu pas pentru a le oferi utilizatorilor o instalare Office adaptată organizației dvs.
+Ghidul [Implementați Office](https://go.microsoft.com/fwlink/?linkid=2146451) pentru utilizatori vă ajută să creați o configurație de Office particularizată cu setări complexe sau puteți utiliza o configurație recomandată predefinită. Indiferent dacă utilizatorii dvs. efectuează o instalare autoinstalată sau implementați pentru utilizatori individual sau în masă, acest expert complex vă oferă instrucțiuni pas cu pas pentru a oferi utilizatorilor o instalare Office adaptată pentru organizația dvs.
