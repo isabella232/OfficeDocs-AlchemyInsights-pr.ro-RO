@@ -1,5 +1,5 @@
 ---
-title: Depanarea sfaturilor de siguranță pentru detectarea fraudelor
+title: Depanarea procesului notificare de siguranță de detectare a fraudelor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955978"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Depanarea sfaturilor de siguranță pentru detectarea fraudelor
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Depanarea procesului notificare de siguranță de detectare a fraudelor
 
-Dacă obțineți un sfat de siguranță care spune "Expeditorul nu a reușit verificările de detectare a fraudelor și este posibil să nu fie cine pare să fie", expeditorul nu a trecut nici verificările de autentificare DKIM, nici SPF. Cea mai bună metodă de a rezolva această problemă este ca expeditorul să se autorizeze singur. Dacă expeditorul trimite în numele dvs., trebuie să îl autorizați adăugând adresa IP a expeditorului la înregistrarea SPF.
+Dacă se afișează un mesaj de e-notificare de siguranță care spune "Expeditorul nu a reușit verificările de detectare a fraudelor și este posibil să nu fie cine pare să fie", expeditorul nu a trecut nici verificările de autentificare DKIM, nici SPF. Cea mai bună metodă de a rezolva această problemă este ca expeditorul să se autorizeze singur. Dacă expeditorul trimite în numele dvs., trebuie să îl autorizați adăugând adresa IP a expeditorului la înregistrarea SPF.
   
-Consultați [Depanarea sfatului de siguranță roșu (suspect) pentru detectarea fraudelor și a verificărilor](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) pentru mai multe informații.
+Consultați [Depanarea informațiilor roșii (suspecte) notificare de siguranță de detectare a fraudelor pentru](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) mai multe informații.
   
 Iată alte câteva linkuri care vă pot ajuta:
   

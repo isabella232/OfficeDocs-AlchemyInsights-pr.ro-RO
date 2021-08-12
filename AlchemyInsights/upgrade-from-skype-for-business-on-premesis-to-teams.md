@@ -1,5 +1,5 @@
 ---
-title: Cum să faceți upgrade de la Skype for Business local la Teams
+title: Faceți upgrade de Skype for Business local la Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5bf8d952441ff5fe1e6fae5b517aa0ad83b8bb79f5e49256e8ebcedbc086c3d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919681"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Cum să faceți upgrade de la Skype for Business local la Teams
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Faceți upgrade de Skype for Business local la Teams
 
-Dacă ați implementat Skype for Business sau Microsoft Lync local și organizația dvs. dorește să facă upgrade la Teams, urmați instrucțiunile din articolul de mai jos. Va trebui să configurați conectivitatea hibridă cu entitatea găzduită, apoi să mutați utilizatorii în Teams și să le atribuiți coexistența și modul de upgrade corespunzător. 
+Dacă ați implementat aplicații Skype for Business sau Microsoft Lync local și organizația dvs. dorește să facă upgrade la Teams, urmați instrucțiunile din articolul de mai jos. Va trebui să configurați conectivitatea hibridă cu entitatea găzduită, apoi să mutați utilizatorii la Teams și să le atribuiți coexistența și modul de upgrade corespunzător. 
 
-[Cum să faceți upgrade de la Skype for Business local la Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Faceți Skype for Business de la local la Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

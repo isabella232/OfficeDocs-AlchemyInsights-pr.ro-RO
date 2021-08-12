@@ -1,5 +1,5 @@
 ---
-title: Tipul de entitate care nu se afișează în rezultatele de căutare clasificate sau relevante în interfața unificată Dynamics 365
+title: Tipul de entitate nu se afișează în rezultatele de căutare clasificate sau relevante în interfața unificată Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946749"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Tipul de entitate care nu se afișează în rezultatele căutării
+# <a name="entity-type-not-showing-in-search-results"></a>Tipul de entitate nu se afișează în rezultatele de căutare
 
-Pentru ca un tip de entitate să se afișeze în căutarea clasificată sau în căutarea relevantă din interfața unificată Dynamics 365, trebuie să fie adăugată pentru prima dată în modulul aplicației.
+Pentru ca un tip de entitate să se arate în căutarea clasificată sau căutarea cu relevanță din interfața unificată Dynamics 365, aceasta trebuie mai întâi adăugată la modulul de aplicație.
 
-Notă: atunci când căutați atașări în căutare relevanță, entitatea atașare trebuie să fie adăugată la modulul aplicației, chiar dacă înregistrarea părinte este ceea ce se afișează în rezultate.
+Notă: Atunci când căutați atașări într-o căutare de relevanță, entitatea de atașare trebuie adăugată la modulul aplicației, chiar dacă înregistrarea părinte este ceea ce se afișează în rezultate.
