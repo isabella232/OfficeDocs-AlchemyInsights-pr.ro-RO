@@ -1,5 +1,5 @@
 ---
-title: Cum să adăugați sau să actualizați pașii pentru numărul PO-moștenite de la WD
+title: Adăugarea sau actualizarea numărului de puncte de actualizare - WD moștenit - pași recomandați
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953881"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Cum să adăugați sau să actualizați pașii pentru numărul PO-moștenite de la WD
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Adăugarea sau actualizarea numărului de puncte de actualizare - WD moștenit - pași recomandați
 
-Adăugarea unui număr de comandă de achiziție (PO) este acceptată doar pentru clienții care [plătesc prin factură](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) prin cec sau prin transfer bancar. Instrucțiunile de actualizare a numărului PO depind de [tipul de cont de facturare](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts).
+Adăugarea unui număr de comandă de achiziționare este suportată doar pentru clienții care plătesc prin [factură, prin](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) facturare, prin transfer bancar sau chiar prin transfer bancar. Instrucțiunile pentru actualizarea numărului po-mailului depind de [tipul contului de facturare.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Trebuie să aveți un rol de [administrator de cont](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) pentru a edita un număr Po.
+Trebuie să aveți un rol [de administrator de](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) cont pentru a edita un număr de po.
 
-1. Selectați abonamentul din [pagina Abonamente](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
-2. Faceți clic pe **metode de plată** în partea stângă.
-3. Din tabelul **metode de plată** , faceți clic pe **factură**. 
-4. Introduceți noul număr PO, apoi faceți clic pe **Salvare**.
+1. Selectați abonamentul din [pagina Abonamente.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Faceți **clic pe** Metode de plată în partea stângă.
+3. Din tabelul Metode **de plată,** faceți clic **pe Factură.** 
+4. Introduceți noul număr de înregistrare și faceți clic pe **Salvare**.
 
 **Documente recomandate**
 
 - [Țări/regiuni și monede acceptate](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Cum să plătiți prin factură](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Gestionarea informațiilor de contact ale contului de facturare Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Cum se plătește cu factură](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Gestionați informațiile de contact ale contului de facturare Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 

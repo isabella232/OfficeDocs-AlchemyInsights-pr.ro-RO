@@ -1,5 +1,5 @@
 ---
-title: Permisiunile dispozitivelor
+title: Permisiuni pentru dispozitiv
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913979"
 ---
-# <a name="device-permissions"></a>Permisiunile dispozitivelor
+# <a name="device-permissions"></a>Permisiuni pentru dispozitiv
 
-Pentru a gestiona un dispozitiv Windows, trebuie să fiți membru al grupului administratori locali. Ca parte a procesului de asociere Azure Active Directory (Azure AD), Azure AD actualizează apartenența la acest grup pe un dispozitiv. Puteți să particularizați actualizarea de apartenență pentru a vă satisface cerințele de afaceri. O actualizare de apartenență este, de exemplu, utilă dacă doriți să activați personalul biroului de asistență pentru a face activități care necesită drepturi de administrator pe un dispozitiv.
+Pentru a gestiona Windows dispozitiv, trebuie să fiți membru al grupului de administratori locali. Ca parte a procesului Azure Active Directory de asociere la Azure AD, Azure AD actualizează apartenența acestui grup pe un dispozitiv. Puteți să particularizați actualizarea de apartenență pentru a satisface cerințele firmei dvs. De exemplu, o actualizare a apartenenței este utilă dacă doriți să permiteți personalului de la acesta să facă activități care necesită drepturi de administrator pe un dispozitiv.
 
-Pentru a afla cum funcționează actualizarea de apartenență la administratorii locali și cum o puteți particulariza în timpul unei asocieri Azure AD, consultați [atribuirea administratorilor locali dispozitivelor](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Conținutul acestui articol nu se aplică la dispozitivele hibrid Azure AD asociate.
+Pentru a afla cum funcționează actualizarea de apartenență a administratorilor locali și cum puteți să o particularizați în timpul unei Azure AD Join, consultați Atribuirea administratorilor [locali pentru dispozitive.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Conținutul acestui articol nu se aplică pentru dispozitivele hibride cu asociere la Azure AD.

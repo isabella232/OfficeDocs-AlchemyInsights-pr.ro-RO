@@ -12,26 +12,26 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6856"
-ms.openlocfilehash: 58b4292d03a446ebaf77d4b753c928b8778dab74
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 9ed2a1221cac0951878f97e45baaf2a42236321d27809b9b59f612343f66fd58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953989"
 ---
 # <a name="add-or-replace-payment-method-in-azure"></a>Adăugarea sau înlocuirea metodei de plată în Azure
 
-Metodele dumneavoastră de plată sunt asociate cu [profilurile de facturare](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Doar utilizatorul care s-a înscris la Azure și a creat contul de facturare poate actualiza metoda de plată. Urmați pașii pentru a adăuga sau a înlocui metoda de plată.
+Metodele dvs. de plată sunt asociate cu [profilurile de facturare.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Doar utilizatorul care s-a înscris pentru Azure și a creat contul de facturare poate actualiza metoda de plată. Urmați pașii pentru a adăuga sau a înlocui metoda de plată.
 
-1. Conectați-vă la [portalul Azure](https://portal.azure.com/).
-2. Căutați în **gestionarea costurilor + facturare** .
-3. În meniul din stânga, selectați profiluri de **Facturare** .
+1. Conectați-vă [la portalul Azure.](https://portal.azure.com/)
+2. Căutați **Management de costuri + Facturare**.
+3. În meniul din stânga, selectați **Profiluri de facturare.**
 4. Selectați un profil de facturare.
-5. În meniul din stânga, selectați metode de **plată** .
-6. În secțiunea **metodă de plată implicită** , selectați **Înlocuire** .
-7. În zona nouă din dreapta, fie selectați o fișă existentă din lista verticală, fie adăugați una nouă selectând linkul Blue **Add New method payment**
+5. În meniul din stânga, selectați Metode **de plată**.
+6. În **secțiunea Metodă de plată implicită,** selectați **Înlocuire**.
+7. În zona nouă din dreapta, selectați un card existent din lista verticală sau adăugați unul nou, selectând linkul albastru Adăugați o nouă metodă **de plată**
 
 **Documente recomandate**
 
-- [Schimbarea metodei de plată-întrebări frecvente](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Modificarea metodei de plată pentru un profil de facturare](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Schimbarea metodei de plată - Întrebări frecvente](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Schimbarea metodei de plată pentru un profil de facturare](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
