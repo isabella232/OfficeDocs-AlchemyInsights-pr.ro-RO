@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094294"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Cum se partajează în SharePoint Online
 
@@ -25,11 +25,11 @@ Pentru a partaja un site:
   
 1. Deschideți site-ul într-un browser web.
     
-2. Dacă site-ul aparține unui grup Microsoft 365, faceți clic pe pictograma Setări din colțul din dreapta sus, apoi faceți clic pe **permisiuni site**. Faceți clic pe **invitați persoane**, apoi alegeți să adăugați membri la grupul Microsoft 365 sau să partajați doar site-ul. 
+2. Dacă site-ul aparține unui grup de Microsoft 365, faceți clic pe pictograma de Setări din colțul din dreapta sus, apoi faceți **clic pe Permisiuni site.** Faceți **clic pe** Invitare persoane , apoi alegeți să adăugați membri la Microsoft 365 grup sau să partajați doar site-ul. 
     
-    Pentru un site de comunicare, faceți clic pe **partajare site** în colțul din dreapta sus, introduceți numele persoanei, apoi selectați nivelul de permisiune (citire, editare sau control total). 
+    Pentru un site de comunicare, faceți clic pe Partajare **site** în colțul din dreapta sus, introduceți numele persoanei, apoi selectați nivelul de permisiune (Citire, Editare sau Control total). 
     
-    Pentru un site de echipă clasic, faceți clic pe **Partajare** în colțul din dreapta sus. Introduceți numele persoanei pe care doriți să o invitați sau tastați-o pe toată lumea pentru a o partaja cu toată lumea din organizația dvs. Faceți clic pe **Partajare**.
+    Pentru un site de echipă clasic, faceți **clic pe** Partajare în colțul din dreapta sus. Introduceți numele persoanei pe care doriți să o invitați sau tastați Oricine pentru a partaja cu toate persoanele din organizația dvs. Faceți **clic pe Partajare.**
     
 [Aflați cum să partajați un fișier sau un folder](https://go.microsoft.com/fwlink/?linkid=511430)
   

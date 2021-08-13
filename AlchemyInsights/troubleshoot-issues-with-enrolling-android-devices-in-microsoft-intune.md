@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 08620a44dcf693482c65ff05e19f11870f67afbe
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0ae926e6b31493e7359981c621fd27e8f53d49a17bdf107173b087fe6cc688fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008090"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Depanarea problemelor cu înscrierea dispozitivelor Android în Microsoft Intune
 
@@ -26,7 +26,7 @@ Revizuiți resursele listate mai jos pentru a rezolva problema acum.
   
 Câțiva pași uzuali pentru probleme și rezolvare:
   
- **Eroarea Dispozitiv necriptat din Portalul firmei:** Versiunile mai noi de Android, în special începând cu v7.0, necesită un cod de acces la pornire pentru a vă asigura că dispozitivul dvs. este complet criptat. Soluțiile obișnuite sunt cele de a activa un cod PIN de pornire sau a cripta complet dispozitivul. Consultați [acest document pentru](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) mai multe informații.
+ **Eroarea Dispozitiv fără criptare în Portal firmă:** Versiunile mai noi de Android, în special începând cu v7.0, necesită un cod de acces la pornire pentru a vă asigura că dispozitivul dvs. este complet criptat. Soluțiile obișnuite sunt cele de a activa un cod PIN de pornire sau a cripta complet dispozitivul. Consultați [acest document pentru](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) mai multe informații.
   
  **Dispozitivele nu reușesc să se verifice cu serviciul Intune sau să se afișeze ca "Nesăcoase" în consola de administrare Intune:** Este posibil ca unele dispozitive Samsung 4.4 și 5.5 să nu intre în serviciu. Există 3 soluții posibile pentru această problemă:
   
@@ -34,9 +34,9 @@ Câțiva pași uzuali pentru probleme și rezolvare:
 
 2. Actualizați dispozitivul la Android 6.0 sau o versiune mai recentă.
 
-3. Dezactivați Samsung Smart Manager din gestionarea portalului firmei Intune. Consultați [acest document pentru](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) detalii suplimentare despre aceste probleme și rezolvări.
+3. Dezactivați Samsung Smart Manager pentru a gestiona Portal firmă Intune. Consultați [acest document pentru](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) detalii suplimentare despre aceste probleme și rezolvări.
 
- **Tipul de licență de utilizator** Eroare nevalidă sau Nume de utilizator nerecunoscut: Utilizatorului trebuie să i se atribuie o licență Intune sau EMS.  Revizuiți aceste documente pentru a atribui o licență prin: Centrul de administrare Office sau portalul Azure.
+ **Tipul de licență de utilizator** Eroare nevalidă sau Nume de utilizator nerecunoscut: Utilizatorului trebuie să i se atribuie o licență Intune sau EMS.  Revizuiți aceste documente pentru a atribui o licență prin: Office de administrare sau portalul Azure.
   
 Resurse suplimentare care ajută la rezolvarea problemei:
   
