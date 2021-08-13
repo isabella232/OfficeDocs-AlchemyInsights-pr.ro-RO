@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 955c381d59b85150979efd1177d3f75802726bcfa7550cafee7eb0fb8e7381d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927229"
 ---
 # <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Cum salvez persoanele de contact Outlook în aplicația de persoane de contact iOS?
 
-Pentru a salva persoanele de contact Outlook în agenda nativă:
+Pentru a Outlook persoanele de contact în agenda nativă:
  
-1. Accesați Contacte **setări**  >  **dispozitiv și** confirmați că Valoarea **implicită** a Contului este setată **la iCloud.** Rețineți că această setare este disponibilă doar dacă aveți mai multe conturi adăugate la dispozitiv. Dacă nu există niciun cont conectat la dispozitiv, persoanele de contact Outlook vor fi salvate local, dar nu vor fi sincronizate cu alte dispozitive.
+1. Accesați Device **Setări**  >  **Contacts (Persoane de** contact) și **confirmați că valoarea Default Account** este setată la **iCloud.** Rețineți că această setare este disponibilă doar dacă aveți mai multe conturi adăugate la dispozitiv. Dacă nu există niciun cont conectat la dispozitiv, persoanele de contact Outlook vor fi salvate local, dar nu vor fi sincronizate pe alte dispozitive.
  
-2. Deschideți Outlook pentru iOS și, în navigarea stângă, selectați rotișa dințată Setări, alegeți Selectați contul **și** comutați Salvare persoane de contact LA ACTIVARE. 
+2. Deschideți Outlook pentru iOS și, în navigarea stângă, selectați rotita dințată Setări, alegeți Selectați contul **și** comutați Salvare persoane de contact la DA. 
  
 Persoanele de contact salvate vor fi adăugate sub persoanele de contact din contul dvs. iCloud. Aceste persoane de contact se vor sincroniza pe toate dispozitivele care sunt conectate cu același cont iCloud. Rețineți că puteți exporta persoanele de contact doar de pe un dispozitiv odată.
  
-Dacă un utilizator are activată exportul persoanelor de contact, trebuie dezactivată atât iPadul, cât și iPhone-ul, pentru a evita conflictele. Reconcilierea dublurilor poate dura 24 de ore.
+Dacă un utilizator are activată exportul persoanelor de contact, atât adresa de e-iPad, cât iPhone vor trebui dezactivate pentru a evita conflictele. Reconcilierea dublurilor poate dura 24 de ore.

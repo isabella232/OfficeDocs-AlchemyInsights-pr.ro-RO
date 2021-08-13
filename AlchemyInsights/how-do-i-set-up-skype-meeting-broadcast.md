@@ -1,5 +1,5 @@
 ---
-title: Cum se setează Difuzarea întâlnirii Skype
+title: Cum pot configura o Skype a întâlnirii
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927085"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nu puteți porni sau vă puteți alătura la o Difuzare a întâlnirii Skype?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nu puteți porni sau vă puteți alătura la o difuzare Skype întâlnirii?
 
-Dacă aveți probleme la pornirea sau asocierea la o Difuzare a întâlnirii Skype ca membru al echipei evenimentului (producător de întâlnire), verificați de două ori configurația. Difuzarea întâlnirii Skype necesită câțiva pași de configurare manuală. Urmați pașii din acest articol pentru a vă asigura că rețeaua și portalul Skype for Business Online sunt configurate corect și că utilizatorul afectat nu este blocat de o licență conflictuală:
+Dacă aveți probleme la pornirea sau asocierea la o Difuzare a întâlnirii Skype ca membru al echipei evenimentului (producător de întâlnire), verificați de două ori configurația. Skype Difuzarea întâlnirii necesită câțiva pași de configurare manuală. Urmați pașii din acest articol pentru a vă asigura că rețeaua și portalul Skype for Business Online sunt configurate corect și că utilizatorul afectat nu este blocat de o licență conflictuală:
 
-[Configurarea rețelei pentru Difuzarea întâlnirii Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Configurarea rețelei pentru difuzarea Skype întâlnirii](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
