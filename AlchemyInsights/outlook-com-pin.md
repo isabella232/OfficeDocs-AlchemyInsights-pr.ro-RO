@@ -1,5 +1,5 @@
 ---
-title: PIN Outlook.com 9000233
+title: 9000233 Outlook.com PIN
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983861"
 ---
-# <a name="change-your-pin"></a>Modificarea codului PIN
+# <a name="change-your-pin"></a>Modificați codul PIN
 
-Outlook.com nu utilizează un cod PIN, dar este posibil să vă conectați la PC cu un cod PIN sau Windows Hello. Pentru a modifica codul PIN în Windows 10:
+Outlook.com nu utilizează un cod PIN, dar este posibil să vă conectați la PC cu un cod PIN sau cu un Windows Hello. Pentru a schimba codul PIN în Windows 10:
 
-1. Selectați butonul Start sau apăsați tasta Windows de pe tastatură, apoi selectați **Setări**  >  **Accounts**  >  **Opțiuni de conectare la**conturi.
-2. Selectați butonul **modificare** sub **PIN**.
-3. Introduceți codul PIN curent, apoi introduceți și confirmați codul PIN nou dedesubt.
+1. Selectați butonul Start sau apăsați tasta Windows de pe tastatură, apoi **selectați Setări**  >  **Opțiuni de** conectare  >  **Conturi.**
+2. Selectați butonul **Modificare** sub **PIN.**
+3. Introduceți codul PIN curent, apoi introduceți și confirmați dedesubt noul cod PIN.
 
 [Citiți mai multe despre Windows Hello.](https://support.microsoft.com/help/17215/)

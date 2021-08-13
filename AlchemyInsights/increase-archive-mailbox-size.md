@@ -1,5 +1,5 @@
 ---
-title: 305 măriți dimensiunea cutiei poștale arhivă
+title: 305 Măriți dimensiunea cutiei poștale de arhivare
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926401"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Mărirea dimensiunii cutiei poștale arhivă
+# <a name="increase-the-archive-mailbox-size"></a>Mărirea dimensiunii cutiei poștale de arhivare
 
 
-Dacă doriți să efectuăm verificări automate pentru setările menționate mai jos, selectați butonul înapoi <-în partea de sus a acestei pagini, apoi introduceți adresa de e-mail a utilizatorului care are nevoie de dimensiunea cutiei poștale de arhivă mărită.
+Dacă doriți să rulați verificări automate pentru setările menționate mai jos, selectați butonul Înapoi < - în partea de sus a acestei pagini, apoi introduceți adresa de e-mail a utilizatorului care are nevoie de dimensiunea cutiei poștale de arhivare a crescut.
 
-Microsoft 365 [limitează](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) dimensiunea cutiilor poștale de arhivă în funcție de licența atribuită contului de utilizator. Atunci când cutia poștală de arhivă ajunge la 90% din dimensiunea permisă, utilizatorul primește o notificare prin e-mail. Atunci când o cutie poștală de arhivă atinge limita de dimensiune, utilizatorul nu poate muta mai multe elemente în cutia poștală de arhivă. Microsoft 365 nu va mări dimensiunea unei cutii poștale de arhivă după atingerea limitei de dimensiune. În schimb, utilizatorii pot întreprinde următoarele acțiuni pentru a elibera spațiu în cutia poștală de arhivă:
+Microsoft 365 [limitează](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) dimensiunea cutiilor poștale de arhivare în funcție de licența atribuită contului de utilizator. Atunci când cutia poștală de arhivare atinge 90% din dimensiunea permisă, utilizatorul primește o notificare prin e-mail. Atunci când o cutie poștală de arhivare atinge limita de dimensiune, utilizatorul nu poate muta mai multe elemente în cutia poștală de arhivare. Microsoft 365 va mări dimensiunea unei cutii poștale de arhivare după ce se atinge limita de dimensiune. În schimb, utilizatorii pot face următoarele acțiuni pentru a elibera spațiu în cutia poștală de arhivă:
 
-- Exportați elementele într-un fișier. pst utilizând Outlook.
+- Exportați elementele într-un fișier .pst utilizând Outlook.
 
-- Ștergeți elemente din cutia poștală arhivă.
+- Ștergeți elemente din cutia poștală de arhivare.
 
-Microsoft 365 oferă **arhivare nelimitată** pentru licențele Office 365 Enterprise E3 și E5. Un administrator trebuie să activeze această caracteristică înainte ca cutia poștală de arhivă să atingă dimensiunea maximă. Atunci când este activată arhivarea nelimitată, poate dura până la 30 de zile înainte ca spațiul liber să fie adăugat la cutia poștală de arhivă. Prin urmare, vă recomandăm ca administratorii să verifice spațiul liber din cutia poștală de arhivă, care îi permite utilizatorului să utilizeze în continuare cutia poștală de arhivă în timp ce se extinde. Pentru mai multe informații, consultați [prezentarea generală a arhivarii nelimitate în microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) și [Activarea arhivarii nelimitate în Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Microsoft 365 **oferă arhivare nelimitată** pentru Office 365 Enterprise licențe E3 și E5. Un administrator trebuie să activează această caracteristică înainte ca cutia poștală de arhivare să atingă dimensiunea maximă. Atunci când este activată arhivarea nelimitată, poate dura până la 30 de zile pentru ca spațiul liber să fie adăugat în cutia poștală de arhivă. Prin urmare, recomandăm ca administratorii să verifice spațiul liber din cutia poștală de arhivă, ceea ce îi permite utilizatorului să continue să folosească cutia poștală de arhivare în timp ce se extinde. Pentru mai multe informații, consultați Prezentare generală a arhivării nelimitate [în Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) și [Activarea arhivării nelimitate în Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-Pentru mai multe informații despre accesarea cutiei poștale arhivă din Outlook, consultați [cerințe Outlook pentru accesarea elementelor într-o arhivă extinsă automat](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Pentru a configura o politică de retenție care mută automat elementele în cutia poștală de arhivă, consultați [Configurarea unei politici de arhivare și ștergere pentru cutiile poștale din organizația Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Pentru mai multe informații despre accesarea cutiei poștale de arhivare din Outlook, consultați Outlook pentru accesarea elementelor [într-o arhivă extinsă automat.](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) Pentru a configura o politică de retenție care mută automat elemente în cutia poștală de arhivare, consultați Configurarea unei politici de arhivare și de ștergere pentru cutiile poștale [din Microsoft 365 dvs. .](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Notă**: Arhivele de extindere automată nu sunt acceptate pentru cutiile poștale primare în Exchange 2010.
+**Notă:** Extinderea automată a arhivelor nu este acceptată pentru cutiile poștale principale în Exchange 2010.

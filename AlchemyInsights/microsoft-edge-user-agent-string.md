@@ -1,5 +1,5 @@
 ---
-title: Șir agent utilizator Microsoft Edge (desktop)
+title: Microsoft Edge agent utilizator (Desktop)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976013"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Șir agent utilizator Microsoft Edge (desktop)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge agent utilizator (Desktop)
 
-Șirurile de agent utilizator (UA) pot fi utilizate pentru a detecta ce versiune a unui anumit browser este utilizată pentru un anumit sistem de operare. La fel ca alte browsere, Microsoft Edge include aceste informații în antetul HTTP "agent utilizator" de fiecare dată când face o solicitare către un site. De asemenea, informațiile despre versiunea în browser pot fi accesate prin JavaScript prin interogarea valorii "Navigator. userAgent".
+Șirurile agentului de utilizator (UA) pot fi utilizate pentru a detecta ce versiune a unui anumit browser este utilizată pe un anumit sistem de operare. La fel ca alte Microsoft Edge, include aceste informații în antetul HTTP "Agent utilizator" ori de câte ori face o solicitare pentru un site. Informațiile despre versiunea de browser pot fi accesate și prin JavaScript, interogând valoarea "navigator.userAgent".
 
-Vă recomandăm ca dezvoltatorii Web să utilizeze detectarea caracteristicilor atunci când este posibil, pentru a îmbunătăți menținerea codului, pentru a reduce fragilitatea codului și pentru a elimina riscul de spargere a codului în cazul actualizărilor de șir de viitor UA.
+Recomandăm dezvoltatorilor web să folosească detectarea caracteristicilor ori de câte ori este posibil pentru a îmbunătăți întreținerea codului, a reduce accesibilitatea codului și a elimina riscul apariției de erori de cod în cazul viitoarelor actualizări de șir UA.
 
-Pentru mai multe informații, consultați [șirul de agent utilizator Microsoft Edge (desktop)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Pentru mai multe informații, [consultați Microsoft Edge Șir agent de utilizator (Desktop).](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)
