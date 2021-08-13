@@ -1,5 +1,5 @@
 ---
-title: folderul RecoverableItems 1336 este plin
+title: 1336 RecoverableItems folder is full
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,33 +13,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c8d53ceabf2428f3d6d765040f1b789b6bbeda04a22dd7fde0d2d728fd17d93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061768"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Folderul Elemente recuperabile este plin
 
-Pentru cutiile poștale Exchange Online, limita implicită de stocare pentru folderul Elemente recuperabile este 30 GB. Limita de stocare pentru folderul Elemente recuperabile este mărită automat la 100 GB dacă cutia poștală este plasată în așteptare pentru litigii, descoperire eDiscovery sau este atribuită unei politici de retenție.
+Pentru Exchange Online poștale, limita implicită de stocare pentru folderul Elemente recuperabile este de 30 GB. Limita de stocare pentru folderul Elemente recuperabile crește automat la 100 GB în cazul în care cutia poștală este plasată în Reținere pe motiv de litigiu, reținere în depozit pentru descoperirea informațiilor electronic sau este atribuită unei politici de retenție.
 
-Atunci când folderul Elemente recuperabile atinge limita de stocare, funcționalitatea cutiei poștale este afectată în următoarele moduri:
+Atunci când folderul Elemente recuperabile atinge limita de spațiu de stocare, funcționalitatea cutiei poștale este afectată în următoarele moduri:
 
 - Utilizatorul nu poate șterge elemente din cutia poștală.
 
-- Asistentul pentru foldere gestionate nu poate șterge elemente pe baza etichetei de retenție sau a setărilor de folder gestionate.
+- Asistentul folder gestionat nu poate șterge elemente pe baza setărilor de etichetă de retenție sau de folder gestionat.
 
-- Pentru cutiile poștale care au activată recuperarea unui singur element sau sunt plasate în așteptare, procesul de protecție a paginilor de copiere-la-scriere nu poate menține versiunile de elemente editate de utilizator.
+- Pentru cutiile poștale care au recuperare element unic activată sau sunt plasate în așteptare, procesul de protecție a paginii de copiere-la-scriere nu poate menține versiuni ale elementelor editate de utilizator.
 
-- Pentru cutiile poștale care au activată înregistrarea în jurnal a auditării cutiilor poștale, nu se pot salva intrări în jurnal de auditare în caseta de auditare din folderul Elemente recuperabile.
+- Pentru cutiile poștale care au activată înregistrarea în jurnalul de auditare a cutiilor poștale, nu se pot salva intrări din jurnalul de auditare a cutiilor poștale în subfolderul Auditări din folderul Elemente recuperabile.
 
-Pentru cutiile poștale care nu sunt în așteptare, administratorii pot utiliza `Search-Mailbox -SearchDumpsterOnly -DeleteContent` comanda în Exchange Online PowerShell pentru a șterge elemente din folderul Elemente recuperabile. Pentru informații suplimentare, consultați următoarele articole:
+Pentru cutiile poștale care nu sunt în așteptare, administratorii pot utiliza comanda din Exchange Online PowerShell pentru a șterge elementele din folderul `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Elemente recuperabile. Pentru informații suplimentare, consultați următoarele articole:
 
 - [Căutarea și ștergerea mesajelor](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
-- [Căutare-cutie poștală](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pentru cutiile poștale care sunt în așteptare, administratorii trebuie să elimine suspendarea înainte să poată șterge elemente din folderul Elemente recuperabile. Pentru mai multe informații, consultați [ștergerea elementelor din folderul Elemente recuperabile din cutiile poștale bazate pe cloud în așteptare](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Pentru cutiile poștale care sunt în așteptare, administratorii trebuie să elimine așteptarea înainte ca aceștia să poată șterge elemente din folderul Elemente recuperabile. Pentru mai multe informații, [consultați Ștergerea elementelor din folderul Elemente recuperabile din cutiile poștale bazate pe cloud care sunt în așteptare.](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)
 
-Pentru a preveni ca folderul Elemente recuperabile să devină plin, administratorii pot mări limita de stocare a folderului Elemente recuperabile pentru cutiile poștale în așteptare și să configureze o politică de retenție a cutiei poștale care mută elementele din folderul Elemente recuperabile în cutia poștală de arhivă a utilizatorului. Consultați [creșterea cotei de Elemente recuperabile pentru cutiile poștale în așteptare](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Pentru a împiedica deveni complet folderul de elemente recuperabile, administratorii pot mări limita de spațiu de stocare al folderului de elemente recuperabile pentru cutiile poștale în așteptare și pot configura o politică de retenție pentru cutia poștală ce mută elemente din folderul Elemente recuperabile în cutia poștală de arhivă a utilizatorului. Consultați [Creșterea cotei de elemente recuperabile pentru cutiile poștale în așteptare.](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)

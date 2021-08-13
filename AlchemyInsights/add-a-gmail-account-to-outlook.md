@@ -1,5 +1,5 @@
 ---
-title: Adăugarea unui cont Gmail la Outlook
+title: Adăugarea unui cont Gmail pentru Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 18d9b44e06e62b2b1af30a53efe5fa47163ef4c6
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 0b642db4eee780d6010549c77de5777d2344d34a27c90994a1c7759bdd9ffc07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937005"
 ---
-# <a name="add-a-gmail-account-to-outlook"></a>Adăugarea unui cont Gmail la Outlook
+# <a name="add-a-gmail-account-to-outlook"></a>Adăugarea unui cont Gmail pentru Outlook
 
-Pașii sunt aceiași dacă adăugați primul cont Gmail sau conturi Gmail suplimentare în Outlook.
+Pașii sunt la fel, fie că adăugați primul cont Gmail sau conturi Gmail suplimentare la Outlook.
 
-1. Selectați **fișier**  >  **Add Account**.
-1. Introduceți adresa de e-mail și faceți clic pe **Conectare**. Outlook va lansa o fereastră Gmail care vă solicită parola. 
+1. Selectați   >  **Fișier Adăugare cont.**
+1. Introduceți adresa de e-mail și faceți **clic pe Conectare**. Outlook va lansa o fereastră Gmail care vă solicită parola. 
 1. Introduceți parola și selectați **Conectare**.
 > [!IMPORTANT]
-> După ce vă conectați contul Gmail la Outlook, este posibil să primiți un mesaj de avertizare în inboxul Gmail, care vă spune că s-a detectat un nou logon din Internet Explorer. Acesta este comportamentul așteptat.
-4. Dacă ați activat anterior autentificarea cu 2 factori pentru Gmail, vi se va solicita să introduceți codul trimis pe dispozitivul mobil. Dacă nu ați activat autentificarea cu 2 factori, treceți la pasul 6.
-1. Apare fereastra permisiuni cont Google. Faceți clic pe se **permite**.
-1. După ce Outlook termină de adăugat contul Gmail, puteți să adăugați un alt cont de e-mail sau să selectați **gata**.
+> După ce vă conectați contul Gmail la Outlook, este posibil să primiți un mesaj de avertisment în inboxul Gmail care vă spune că a fost detectată o nouă conectare din Internet Explorer. Acesta este comportamentul așteptat.
+4. Dacă ați activat anterior autentificarea pe 2 niveluri pentru Gmail, vi se va solicita să introduceți codul trimis pe dispozitivul mobil. Dacă nu ați activat autentificarea pe 2 niveluri, treceți la pasul 6.
+1. Apare fereastra de permisiuni pentru contul Google. Faceți **clic pe Se permite**.
+1. După Outlook a termina de adăugat contul Gmail, puteți să adăugați un alt cont de e-mail sau să selectați **Terminat**.
 > [!TIP]
-- > Dacă bifați și caseta pentru configurarea Outlook Mobile pe telefonul meu, veți fi dus la un site web unde puteți introduce numărul de telefon mobil și veți primi un link pentru a descărca Outlook pentru iOS sau Outlook pentru Android. Instalarea Outlook Mobile este o modalitate foarte bună de a rămâne la curent cu toate datele din mers.
-- Dacă aveți nevoie de instrucțiuni pentru adăugarea unui cont de e-mail utilizând Setări complexe, consultați [utilizarea configurării complexe pentru a adăuga un cont de E-mail POP sau IMAP în Outlook pentru PC](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).
+- > Dacă bifați caseta și pentru Configurare Outlook Telefon mobil pe telefonul meu, veți fi dus la un site web unde puteți introduce numărul de telefon mobil și veți primi un link pentru a descărca Outlook pentru iOS sau Outlook pentru Android. Instalarea Outlook Mobile este o modalitate foarte bună de a rămâne la zi atunci când plecați.
+- Dacă aveți nevoie de instrucțiuni pentru adăugarea unui cont de e-mail utilizând setări complexe, consultați Utilizarea configurării complexe pentru a adăuga un cont de e-mail POP sau [IMAP în Outlook pentru PC.](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced)
