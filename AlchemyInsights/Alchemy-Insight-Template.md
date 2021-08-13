@@ -1,5 +1,5 @@
 ---
-title: la fel ca numele de fișier este cel mai bun
+title: same as filename is best
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918907"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Antetul Alchemy necesar H1, H2 servește nu funcționează."
-Cele mai bune practici și instrucțiuni pentru crearea Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Antet Alchemy obligatoriu H1, H2 nu funcționează."
+Cele mai bune practici și îndrumări pentru autor alchemy:
 
-1. Nu **imbricați Insights Alchemy în foldere**-aceasta va întrerupe structura URL-ului. Încercăm să reparăm asta.
-1. Fișierele din folderul **AlchemyInsights** trebuie să aibă nume de fișiere minuscule cu cratime pentru spațiile ex. ***cum să activați-litigii-țineți***.
-    1. Includeți ID-ul de regulă sau ID-ul de cupă din [portalul partener Alchemy](https://alchemyportal.azurewebsites.net) în câmpul MS. Custom. exemplu. ***MS. Custom: 100021***
+1. **Nu imbricați Alchemy Insights foldere**- aceasta va întreruperea structura URL-ului. Căutăm să remediam acest lucru.
+1. Fișierele din folderul **AlchemyInsights trebuie** să aibă nume de fișiere mici cu cratime pentru spații, de exemplu. **_how-to-enable-litigation-hold_**.
+    1. Includeți ID-ul regulii sau ID-ul [de bucket din portalul Partener Alchemy](https://alchemyportal.azurewebsites.net) în câmpul ms.custom. de ex. ***ms.custom: 100021***
 1. Utilizați restul metadatelor din partea de sus a acestui fișier ca șablon.
-1. În [portalul partener Alchemy](https://alchemyportal.azurewebsites.net), navigați în jos la secțiunea **Customer Insight title:** și utilizați-o ca punct de pornire pentru titlul H1 pentru înțelegere. 
+1. În portalul [Partener Alchemy,](https://alchemyportal.azurewebsites.net)navigați în jos la secțiunea Titlu detaliu **client:** și utilizați-l ca punct de pornire pentru titlul H1 pentru detalii. 
     > [!NOTE]
-    > Insights Alchemy trebuie să aibă doar un singur H1 în partea de sus sau se vor rupe în producție. H2s nu redă niciuna dintre **bold** aceste convenții pentru a semnifica secțiuni separate.
-1. Apoi, completați corpul de text utilizând schița de material din secțiunea Customer Insights a paginii de reguli Alchemy
+    > Alchemy Insights MUST să aibă doar un singur H1 în partea de sus, altfel acestea se vor întrerupere în producție. H2 nu redă așadar utilizați convenții **aldine sau** de alt fel pentru a semna secțiuni separate.
+1. În continuare, completați corpul de text utilizând materialul schiță din secțiunea Customer Insights a paginii Regulă Alchemy
     1. Listele cu marcatori sunt în regulă
     1. Și liste numerotate
-    1. **Aldin** și *cursiv* sunt a-OK
-    1. Linkurile trebuie să fie întotdeauna **"linkuri către web"/external** sau **Deep-linkuri către elemente de interfață utilizator**, nu către Linkuri interne.
-    1. Imaginile nu sunt acceptate oficial în acest moment, dar se află în foaia de parcurs.
+    1. **Aldin** *și cursiv* sunt de-ok
+    1. Linkurile trebuie să fie întotdeauna **"linkuri la web"/linkuri** de adâncime OR externe la **elementele de interfața de utilizator,** nu linkuri interne.
+    1. Imaginile nu sunt acceptate oficial în acest moment, dar se află pe foaia de parcurs.
 
-Iar acest lucru este într-adevăr deja un pic prea lung. Cea mai bună practică este de aproximativ 400 de caractere---------------------------------
+Și acest lucru este deja prea lung. Se pot exersa aproximativ 400 de caractere ---------------------------------
 
-După ce conținutul este gata, trageți-l la ramura în direct. Apoi, accesați portalul pentru [parteneri Alchemy](https://alchemyportal.azurewebsites.net) și introduceți numele de fișier în câmpul URL. 
+După ce conținutul este gata, trageți-l în ramura live. Apoi, accesați portalul [Partener Alchemy și](https://alchemyportal.azurewebsites.net) introduceți numele fișierului în câmpul URL. 

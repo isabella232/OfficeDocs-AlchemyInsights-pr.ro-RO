@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951145"
 ---
 # <a name="app-registration-owner-issues"></a>Probleme cu Proprietarul înregistrării aplicațiilor
 
@@ -40,4 +40,4 @@ ms.locfileid: "51405318"
 
 **Nu puteți vizualiza aplicația blade pentru înregistrările aplicațiilor chiar dacă sunteți proprietarul aplicației?**
 
-Proprietarul unei aplicații nu este un rol administrativ. În cazul în care setarea Restricționați accesul la portalul de administrare [Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) este activată, doar administratorul va putea vizualiza aplicațiile în portalul de înregistrare a aplicațiilor. Pentru ca un proprietar să poată vedea aplicațiile, dezactivați această setare (Setați la NU) sau atribuiți rolul de administrator proprietarului doar pentru aplicația specifică. Cu toate acestea, veți avea nevoie de o licență Azure AD Premium P2 și veți activa Gestionarea [identităților privilegiați.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+Proprietarul unei aplicații nu este un rol administrativ. În cazul în care setarea Restricționați accesul la portalul de administrare [Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) este activată, doar administratorul va putea vizualiza aplicațiile în portalul de înregistrare a aplicațiilor. Pentru ca un proprietar să poată vedea aplicațiile, dezactivați această setare (Setați la NU) sau atribuiți rolul de administrator proprietarului doar pentru aplicația specifică. Cu toate acestea, veți solicita o licență Azure AD Premium P2 și veți activa [Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
