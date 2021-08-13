@@ -1,5 +1,5 @@
 ---
-title: Conectarea unui site SharePoint la un grup
+title: Conectare site SharePoint de conținut la un grup
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915419"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Conectarea unui site SharePoint la un grup
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Conectare site SharePoint de conținut la un grup
 
-Utilizați expertul de conexiune la grup pentru a conecta un site SharePoint la un grup Microsoft 365.
+Utilizați expertul conexiune de grup pentru a conecta un site SharePoint la un grup Microsoft 365 grup.
 
-1. De pe site-ul pe care preferați să vă conectați la un grup, selectați  **Setări (pictograma rotiștă dințată)**.
-2. Selectați  **Conectare la noul grup Microsoft 365**.
+1. De pe site-ul pe care preferați să vă conectați la un grup, selectați **pictograma Setări (pictograma rotită dințată)**.
+2. Selectați **Conectare la un grup Microsoft 365 nou**.
 3. Urmați expertul pentru a finaliza conexiunea.
 
-**Notă:**  Dacă nu este disponibilă conectarea la noul grup Microsoft 365, site-ul nu va acceptă o conexiune de grup.
+**Notă:**  Dacă Conectare la Microsoft 365 grup nou nu este disponibil, site-ul nu va acceptă o conexiune de grup.
 
-Pentru mai multe informații, consultați [Conectarea la un grup Office 365.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Pentru mai multe informații, [consultați Conectare unui grup Office 365 grup](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

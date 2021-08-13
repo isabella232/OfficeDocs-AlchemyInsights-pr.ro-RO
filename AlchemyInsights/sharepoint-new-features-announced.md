@@ -1,5 +1,5 @@
 ---
-title: Caracteristici noi SharePoint anunțate
+title: SharePoint noile caracteristici anunțate
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093934"
 ---
-# <a name="sharepoint-new-features-announced"></a>Caracteristici noi SharePoint anunțate
+# <a name="sharepoint-new-features-announced"></a>SharePoint noile caracteristici anunțate
 
-La Conferința Ignite 2018, Microsoft a anunțat noi inovații pentru SharePoint, inclusiv noi caracteristici pentru portaluri moderne, părți Web noi, numeroase îmbunătățiri pentru site-urile hub, linkul știri, direcționarea audienței, disponibilitatea aplicațiilor noi pentru dispozitive mobile, conectarea cu teams și altele...
+În conferința Ignite 2018, Microsoft a anunțat inovații noi pentru SharePoint, inclusiv caracteristici noi pentru portaluri moderne, părți web noi, numeroase îmbunătățiri ale site-urilor hub, link de știri, direcționarea către public, disponibilitatea noilor aplicații mobile, conexiunea cu Teams și altele...
   
-Pentru mai multe informații despre aceste caracteristici, consultați publicarea pe blog a [noilor inovații în SharePoint &amp; Microsoft 365 oferă puterea și simplitatea pentru colaborarea între conținut.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Pentru mai multe informații despre aceste caracteristici, consultați postarea pe blog Inovațiile noi din SharePoint Microsoft 365 oferă putere și simplitate [ &amp; pentru colaborarea la conținut.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Organizația dumneavoastră poate să participe la programul de lansare vizat pentru a avea acces timpuriu la noile caracteristici. Consultați [Configurarea opțiunilor de lansare standard sau țintă în Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Organizația dvs. se poate alătura programului Lansare pentru țintită pentru a avea acces timpuriu la noile caracteristici. Consultați [Configurarea opțiunilor de lansare standard sau pentru țintit în Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).

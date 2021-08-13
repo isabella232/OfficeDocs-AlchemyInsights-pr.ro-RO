@@ -1,5 +1,5 @@
 ---
-title: Configurarea supravegherii
+title: Configurare supraveghere
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807527"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915455"
 ---
-# <a name="configure-supervision-policies"></a>Configurarea politicilor de monitorizare
+# <a name="configure-supervision-policies"></a>Configurarea politicilor de supraveghere
 
-Politicile de monitorizare din Microsoft 365 vă permit să monitorizați e-mailul Exchange, Skype for Business Online, Microsoft teams și comunicațiile 3rd party trimise în interiorul și în afara organizației. Recenzenții desemnați pot examina mesajele monitorizate pentru a se asigura că sunt compatibile cu politicile organizației, cu gestionarea riscurilor și cu standardele de conformitate și le rezolvă cu un tip de clasificare.
+Politicile de supraveghere din Microsoft 365 vă permit să monitorizați e-mailul Exchange, Skype for Business Online, Microsoft Teams și comunicațiile terțe trimise în interiorul și în afara organizației dvs. Recenzetorii desemnați pot examina mesajele monitorizate, pentru a se asigura că sunt conforme cu politicile, gestionarea riscurilor și standardele de conformitate cu reglementările organizației dvs. și le pot rezolva cu un tip de clasificare.
 
-Pentru a utiliza politicile de monitorizare din organizația dvs., trebuie să:
+Pentru a utiliza politicile de supraveghere din organizația dvs., trebuie să:
 
-- Determinați comunicațiile de monitorizat.
-- Decideți cine va efectua controlul comunicațiilor.
-- Politicile de monitorizare a instalării
+- Determinarea comunicațiilor de monitorizat.
+- Decideți cine va efectua recenzia comunicațiilor.
+- Politicile de supraveghere pentru configurare
 
-află mai multe:
+Aflați mai multe:
 
-- [Prezentare generală a politicilor de monitorizare](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Configurarea politicilor de monitorizare](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Prezentare generală a politicilor de supraveghere](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Configurarea politicilor de supraveghere](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

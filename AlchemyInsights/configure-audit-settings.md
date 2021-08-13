@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 464c0e8a37b5f572db319ee6f304bb2c6858f748ce8e6d58d155e458ce8517a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915491"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Configurarea setărilor de audit SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Configurarea SharePoint auditare
 
-Administratorii colecției de site-uri SharePoint pot urmări acțiunile utilizatorilor în conținut, prin configurarea setărilor de auditare.
+SharePoint de site-uri, administratorii pot urmări acțiunile de utilizator asupra conținutului configurând setările de auditare.
   
-1. Deschideți site-ul SharePoint.
+1. Deschideți site-SharePoint site nou.
     
-2. Faceți clic pe pictograma Setări, apoi faceți clic pe **Setări site**. Dacă nu vedeți "Setări site", faceți clic pe **informații site**, apoi faceți clic pe **Vizualizați toate setările site-ului**.
+2. Faceți clic Setări pe pictograma Fișier, apoi faceți clic **pe Setări site.** Dacă nu vedeți "Setări site", faceți clic pe Informații **site,** apoi faceți clic pe **Vedeți toate setările de site.**
     
-3. Sub **Administrare colecție de site-uri**, selectați **Setări audit colecție de site-uri**. (Dacă nu îl vedeți, faceți clic pe accesați mai întâi **setările site-ului de nivel superior** .) 
+3. Sub Administrare **colecție de site-uri,** selectați **Setări de auditare colecție de site-uri.** (Dacă nu o vedeți, faceți clic mai întâi **pe Mergeți la setările de site de nivel** superior.) 
     
-Pentru informații despre ce este inclus în rapoartele jurnal de audit SharePoint și cum să le vizualizați, consultați [Configurarea setărilor de audit pentru o colecție de site-uri](https://go.microsoft.com/fwlink/?linkid=404050).
+Pentru informații despre ce este inclus în rapoartele jurnal de auditare SharePoint și cum să le vizualizați, consultați Configurarea setărilor de auditare pentru [o colecție de site-uri.](https://go.microsoft.com/fwlink/?linkid=404050)
   
 
