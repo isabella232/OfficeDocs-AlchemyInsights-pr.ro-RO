@@ -1,5 +1,5 @@
 ---
-title: Cum este furnizată și implementată protecția de identitate Azure Active Directory
+title: Cum Azure Active Directory de identitate este asigurată și implementată
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927872"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Cum este furnizată și implementată protecția de identitate Azure Active Directory?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Cum Azure Active Directory de identitate este asigurată și implementată?
 
-În mod implicit, caracteristicile protecției identității Azure Active Directory sunt activate la nivelul entității găzduite pentru toți utilizatorii din entitatea găzduită.
+În mod implicit, caracteristicile Protecției Azure Active Directory identitate sunt activate la nivel de entitate găzduită pentru toți utilizatorii din entitatea găzduită.
 
-Pentru a afla mai multe, consultați [ce este protecția de identitate Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Pentru a afla mai multe, [consultați Ce este Azure Active Directory identitate personală?](https://go.microsoft.com/fwlink/?linkid=2130395)
