@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986237"
 ---
 # <a name="move-public-folders-between-public-folder-mailboxes"></a>Mutarea folderelor publice între cutiile poștale de foldere publice
 
-Folderele publice din Exchange Online pot fi mutate între cutii poștale de foldere publice utilizând Outlook pentru clientul desktop Windows.
+Folderele publice din Exchange online pot fi mutate între cutiile poștale de foldere publice utilizând Outlook pentru clientul desktop Windows.
 
-Dacă încercați să mutați folderele publice din Exchange local în Exchange Online, consultați următoarele articole:
+Dacă încercarea de a muta folderele publice de Exchange local în Exchange online, consultați următoarele articole:
 
-[Migrarea folderelor publice Exchange Server 2013, 2016, 2019 la Exchange Online](https://aka.ms/ModernPFToEXO)
+[Migrarea Exchange Server 2013.2016.2019 la folderele Exchange online](https://aka.ms/ModernPFToEXO)
 
-[Migrarea folderelor publice 2010 Exchange Server la Exchange Online](https://aka.ms/LegacyPFToEXO)
+[Migrarea Exchange Server 2010 publice la Exchange Online](https://aka.ms/LegacyPFToEXO)

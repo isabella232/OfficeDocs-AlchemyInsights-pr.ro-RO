@@ -1,5 +1,5 @@
 ---
-title: Extensie server politică de rețea
+title: Extensie Network Policy Server
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985913"
 ---
-# <a name="network-policy-server-extension"></a>Extensie server politică de rețea
+# <a name="network-policy-server-extension"></a>Extensie Network Policy Server
 
-Extensia Network Policy Server (NPS) pentru Azure AD multi-factor Authentication adaugă capacități Mae bazate pe cloud la infrastructura de autentificare, utilizând serverele existente. Cu extensia NPS, puteți adăuga apeluri telefonice, mesaje text sau verificarea aplicațiilor telefonice la fluxul de autentificare existent fără a fi necesar să instalați, să configurați și să mențineți servere noi.
+Extensia Network Policy Server (NPS) pentru Azure AD Multi-Factor Authentication adaugă capacități MFA bazate pe cloud la infrastructura de autentificare, utilizând serverele existente. Cu extensia NPS, puteți adăuga apelul telefonic, mesajul text sau verificarea aplicației telefonice la fluxul de autentificare existent, fără a fi nevoie să instalați, să configurați și să mențineți servere noi.
 
-Extensia NPS acționează ca un adaptor între RADIUS și autentificarea Azure AD cu mai multe niveluri a norului pentru a furniza un al doilea factor de autentificare pentru utilizatorii federativi sau sincronizați.
+Extensia NPS acționează ca un adaptor între RAZA și Azure AD Multi-Factor Authentication bazat pe cloud, pentru a furniza un al doilea factor de autentificare pentru utilizatorii federativi sau sincronizați.
 
-Pentru mai multe detalii despre modul în care funcționează extensia NPS, consultați [integrarea infrastructurii existente de Network Policy Server (NPS) cu AZURE AD multi-factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Pentru mai multe detalii despre cum funcționează extensia NPS, consultați Integrarea infrastructurii serverului de politică de rețea [(NPS) existent cu Azure AD Multi-Factor Authentication.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 81941d84127a096c3bd588dafc61b492ab6d6458
-ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
+ms.openlocfilehash: 9a33b7880aff6016ef6df88960d6f59ac9dd50382c7e99d72ca36bc3c9f344ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928381"
 ---
 # <a name="unable-to-activate-office"></a>Nu se poate activa Office
 
-**Notă:** Dacă utilizați o versiune mai veche de Windows (de exemplu, Windows 7), asigurați-vă că TLS 1.2 este activat ca implicit. Pentru mai multe informații, consultați Actualizare pentru a activa [TLS 1.1 și TLS 1.2 ca](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)protocoale sigure implicite în WinHTTP în Windows .
+**Notă:** Dacă utilizați o versiune mai veche de Windows (de exemplu, Windows 7), asigurați-vă că TLS 1.2 este activat ca implicit. Pentru mai multe informații, consultați Actualizare pentru a activa [TLS 1.1 și TLS 1.2 ca](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)protocoale sigure implicite în WinHTTP din Windows.
 
 - Verificați dacă abonamentul dvs. a expirat.
 - Asigurați-vă că aveți un abonament care permite licențe client, cum ar fi Office 365 Business sau Business Premium, și [ asigurați-vă că utilizatorul are atribuită o licență](/microsoft-365/admin/manage/assign-licenses-to-users).
