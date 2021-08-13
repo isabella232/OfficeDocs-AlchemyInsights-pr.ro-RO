@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948175"
 ---
 # <a name="delete-a-site"></a>Ștergerea unui site
 
-Atunci când ștergeți un site, acesta este mutat în site-urile șterse și este păstrat pentru 93 de zile. Pentru a șterge un site, accesați [site-uri active](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Atunci când ștergeți un site, acesta este mutat în Site-uri șterse și este păstrat timp de 93 de zile. Pentru a șterge un site, accesați [Site-uri active](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Atunci când ștergeți un site, toate elementele din acesta sunt șterse, inclusiv:
+Atunci când ștergeți un site, tot ce se află în acesta se șterge, inclusiv:
 
 - Bibliotecile de documente și fișierele.
-- Liste și date listă.
-- Setările și istoricul site-ului.
-- Orice subsite-uri și conținutul lor.
+- Listează și listează date.
+- Setări și istoric site.
+- Orice sub sites and their contents.
 
-Trebuie să notificați administratorii de site și orice proprietari de subsite-uri înainte de a șterge un site, astfel încât aceștia să își mute datele în altă locație și să le comunice utilizatorilor când site-urile vor fi șterse.
+Trebuie să notificați administratorii site-ului și orice proprietari de subpașuri înainte de a șterge un site, astfel încât aceștia să-și poată muta datele în altă locație și, de asemenea, să le spuneți utilizatorilor când vor fi șterse site-urile.
 
-Pentru mai multe informații, consultați [ștergerea unui site](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Pentru mai multe informații, consultați [Ștergerea unui site.](https://docs.microsoft.com/sharepoint/delete-site-collection)

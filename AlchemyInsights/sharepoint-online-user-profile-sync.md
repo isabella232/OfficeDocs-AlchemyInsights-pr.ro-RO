@@ -1,5 +1,5 @@
 ---
-title: Sincronizarea profilului de utilizator SharePoint Online
+title: SharePoint Sincronizarea online a profilului de utilizator
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957481"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Sincronizarea profilului de utilizator SharePoint Online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Sincronizarea online a profilului de utilizator
 
-Microsoft SharePoint utilizează activitatea de sincronizare Active Directory pentru a importa informațiile de atribut de utilizator și de grup în aplicația profil utilizator (UAP).Pentru mai multe informații, vă rugăm să consultați articolul de mai jos.
+Microsoft SharePoint utilizează activitatea de sincronizare Active Directory pentru a importa informațiile despre atributul de utilizator și grup în Aplicația profil utilizator (UPA).Pentru mai multe informații, consultați articolul de mai jos.
 
-- [Sincronizarea profilului de utilizator SharePoint Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Sincronizarea online a profilului de utilizator](https://docs.microsoft.com/sharepoint/user-profile-sync)

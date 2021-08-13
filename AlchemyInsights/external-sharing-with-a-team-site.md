@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977705"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Partajarea externă cu un site de echipă
 
 Pentru a activa partajarea utilizatorilor externi pentru site-urile de echipă, urmați acești pași: 
   
-1. În noul centru de administrare SharePoint, faceți clic pe **site-uri active**.
+1. În noul centru de administrare SharePoint, faceți clic pe **Site-uri active.**
   
-2. Selectați un site care are un șablon de **site de echipă** . 
+2. Selectați un site care are un **șablon de Site de** echipă. 
   
-3. Selectați butonul **Partajare** din meniul de sus. 
+3. Selectați **butonul** Partajare din meniul din partea de sus. 
   
- **Notă**: în mod implicit, atunci când este creat un site de echipă modern, opțiunea de partajare externă va fi setată la utilizatori externi noi și existenți. 
+ **Notă:** În mod implicit, atunci când este creat un site de echipă modern, opțiunea Partajare externă va fi setată la Utilizatori externi noi și existenți. 
   
- **Notă:** Dacă ați selectat mai multe site-uri, butonul **Partajare** va apărea dezactivat. Selectați un singur site. 
+ **Notă:** Dacă aveți mai multe site-uri selectate, **butonul Partajare** va apărea dezactivat. Selectați un singur site. 
   
 
