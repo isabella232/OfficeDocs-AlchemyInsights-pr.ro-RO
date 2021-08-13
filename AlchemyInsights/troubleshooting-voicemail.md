@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972395"
 ---
 # <a name="troubleshooting-voicemail"></a>Depanarea mesageriei vocale
 
-Asigurați-vă că este intenționată caracteristica ocupat la ocupat.
+Asigurați-vă că este intenționată caracteristica Ocupat în ocupat.
 
 Dacă această caracteristică nu este necesară pentru acest utilizator:
 
-1. Accesați [Centrul de administrare teams](https://admin.teams.microsoft.com/policies/calling).
-1. Pe șina din stânga, navigați prin  >  **politicile de apelare** vocală  >  **gestionarea politicilor** în Politica de **Apelare**.
-1. Selectați **Gestionare utilizatori**.
-1. Căutați utilizator și modificați Politica de apelare într-una care **este ocupată pe ocupat este disponibilă atunci când sunteți într-un apel** către **Dezactivat**.
+1. Accesați Centrul [Teams administrare](https://admin.teams.microsoft.com/policies/calling).
+1. În partea stângă, navigați prin   >  **politicile de apelare**  >  **vocală Gestionați politicile** privind **politica de apelare.**
+1. Selectați **Gestionare utilizatori.**
+1. Căutați utilizatorul și schimbați Politica de apelare cu una care are Ocupat la Ocupat este disponibilă atunci când **vă a apelați** la **Dezactivat.**
 1. Faceți clic pe **Se aplică**.
 > [!NOTE]
-> Modificările aduse politicilor pot dura până la 24 de ore pentru reproducere.
+> Reproducerea modificărilor politicilor poate dura până la 24 de ore.
 
-Pentru mai multe informații despre această caracteristică, consultați: [ocupat pe ocupat este disponibil în timpul unui apel](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Pentru mai multe informații despre această caracteristică, consultați: [Ocupat la ocupat este disponibil în timpul unui apel.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

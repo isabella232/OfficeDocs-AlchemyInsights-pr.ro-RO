@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-alert-politici
+title: 1385-Office-365-alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918371"
 ---
 # <a name="alert-policies"></a>Politici de avertizare
 
-Centrul de conformitate Microsoft 365 Security & oferă [politici de avertizare implicite](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) care declanșează avertizări pentru organizații cu un abonament Office 365 Enterprise sau Office 365 SUA, E1/G1, E3/G3 sau E5/G5. Prin urmare, administratorii pot primi o notificare de e-mail de avertizare trimisă de Office365Alerts@microsoft.com cu o linie de subiect, cum ar fi "o avertizare cu severitate scăzută: *numele politicii de avertizare*". Notificările de avertizare sunt trimise atunci când se declanșează avertizări pentru activități comune, cum ar fi atunci când utilizatorii:
+Centrul de Microsoft 365 securitate & oferă politici [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) de avertizare implicite care declanșează avertizări pentru organizațiile cu un abonament Office 365 Enterprise sau Office 365 US Government E1/G1, E3/G3 sau E5/G5. Prin urmare, administratorii pot primi o notificare prin e-mail de avertizare trimisă de Office365Alerts@microsoft.com cu o linie de subiect, cum ar fi "O avertizare de severitate scăzută: numele politicii de avertizare ". Notificările de avertizare sunt trimise atunci când se declanșează avertizări pentru activitățile obișnuite, cum ar fi atunci când utilizatorii:
 
-- Creați reguli pentru Inbox care redirecționează e-mailul.
-- Atribuirea permisiunilor pentru cutia poștală.
-- Partajați sau ștergeți un număr mare de fișiere în partajarea fișierelor SharePoint.
-- Creați căutări eDiscovery și exportați rezultatele căutării.
+- Creați reguli pentru inbox care redirecționează e-mailul.
+- Atribuiți permisiuni cutiei lor poștale.
+- Partajați sau ștergeți un număr mare de fișiere în SharePoint de fișiere.
+- Creați căutări de descoperire a informațiilor electronic și exportați rezultatele căutării.
 
-Pentru a revizui și a acționa în alertă:
+Pentru a revizui și a acționa într-o avertizare:
 
-1. Accesați centrul de [conformitate & de securitate](https://protection.office.com) și conectați-vă.
-2. Faceți **Alerts**clic pe  >  **alerte vizualizare**avertizări.
-3. Faceți clic pe o avertizare pentru a afișa o pagină flyout cu informații despre avertizare.
+1. Accesați Centrul de [conformitate & securitate și conectați-vă.](https://protection.office.com)
+2. Faceți **clic pe Avertizări**- Vizualizare  >  **avertizări**.
+3. Faceți clic pe o avertizare pentru a afișa o pagină detașată, cu informații despre avertizare.
 
-Puteți lua măsuri într-o avertizare, cum ar fi [eliminarea unei reguli de Inbox suspecte](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Sau puteți pur și simplu să închideți alerta făcând clic pe **Rezolvare** în pagina avertizare flyout.
+Puteți să luați măsuri într-o avertizare, cum ar [fi eliminarea unei reguli de inbox suspecte.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Sau puteți să închideți avertizarea, făcând clic pe **Rezolvare** pe pagina detașată de avertizare.
 
-Pentru mai multe informații despre configurarea și gestionarea politicilor de avertizare, consultați  [acest articol](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Pentru mai multe informații despre configurarea și gestionarea politicilor de avertizare, consultați [acest articol.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-**Important**: avertizarea notificărilor prin e-mail de la Microsoft nu vă va solicita niciodată să procedați astfel:
+**Important:** notificările prin e-mail de avertizare de la Microsoft nu vă vor solicita niciodată să faceți următoarele:
 
 - Furnizați o parolă
-- Verificarea detaliilor de securitate ale contului dvs.
-- Reautentificați-vă
+- Verificarea detaliilor de securitate ale contului
+- Autentificați-vă din noi
 
-Dacă primiți un mesaj de e-mail ca acesta, acesta nu a fost trimis de Microsoft și ar trebui să fie considerat înșelător. Dacă se întâmplă acest lucru, [Raportați-l la Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Dacă primiți un mesaj de e-mail ca acesta, acesta nu a fost trimis de Microsoft și ar trebui să fie considerat fraudă de tip phishing. Dacă se întâmplă acest lucru, [raportați-l la Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

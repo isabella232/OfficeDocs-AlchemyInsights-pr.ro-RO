@@ -1,5 +1,5 @@
 ---
-title: Lista de evenimente de activitate și calendar din interfața de utilizator modernă
+title: Task and Calendar Event List in Modern UI
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941344"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lista de evenimente de activitate și calendar din interfața de utilizator modernă
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Task and Calendar Event List in Modern UI
 
-Este posibil să vedeți o eroare în afișarea "titlu" ca `< ID >_.000` în listele de activități și evenimente atunci când încercați să le redați în vizualizarea modernă.
+Este posibil să vedeți o eroare în afișarea "Titlu" ca în listele DE ACTIVITĂȚI și EVENIMENTE atunci când încearcă `< ID >_.000` să le redea în Vizualizare modernă.
 
 Anumite tipuri de liste și biblioteci nu sunt construite încă pentru a se afișa într-o interfață de utilizator modernă, cum ar fi o listă de activități sau o listă de evenimente.
 
-Unul dintre elementele prioritare pentru noi este să susținem listele de activități și evenimente ca parte a UX moderne. Cu toate acestea, nu avem un ETA pentru acest suport, așadar, vă rugăm să continuați să utilizați experiența clasică pentru aceste liste.
+Unul dintre elementele care au prioritate pentru noi este să acceptăm listele DE ACTIVITĂȚI și EVENIMENTE ca parte a UX modern. Cu toate acestea, nu avem O ea pentru această asistență, așadar, continuați să utilizați experiența clasică pentru aceste liste.
 
-Pentru mai multe informații, vizitați [maximizarea utilizării listelor și bibliotecilor moderne](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Pentru mai multe informații, vizitați [Maximizarea utilizării listelor și bibliotecilor moderne](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).

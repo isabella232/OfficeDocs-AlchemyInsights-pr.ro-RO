@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972431"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Depanarea problemelor de import PST
 
-- Dacă importați în cadrul clientului Outlook propriu-zis, consultați [Remedierea problemelor cu importul unui fișier .pst Outlook.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Dacă importați în cadrul clientului Outlook, consultați Remedierea problemelor [cu importul unui fișier .pst Outlook.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Dacă utilizați Serviciul de import și s-a blocat, rețineți că fiecare fișier PST pe care îl încărcați în locația de stocare Azure nu trebuie să aibă mai mult de 20 GB. Fișierele PST mai mari de 20 GB pot afecta performanța procesului de import PST. Pentru mai multe informații despre depanarea problemelor blocate, consultați [Probleme care afectează activitățile de import PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+- Dacă utilizați serviciul de import și se blocat, rețineți că fiecare fișier PST pe care îl încărcați în Azure Stocare locația nu trebuie să aibă mai mult de 20 GB. Fișierele PST mai mari de 20 GB pot afecta performanța procesului de import PST. Pentru mai multe informații despre depanarea problemelor blocate, consultați [Probleme care afectează activitățile de import PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
 - Dacă doriți să verificați starea unei anumite lucrări de Import, utilizați [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
