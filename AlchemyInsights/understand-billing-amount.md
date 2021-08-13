@@ -1,5 +1,5 @@
 ---
-title: Înțelegeți suma de facturare
+title: Înțelegerea sumei facturate
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919651"
 ---
-# <a name="understand-billing-amount"></a>Înțelegeți suma de facturare
+# <a name="understand-billing-amount"></a>Înțelegerea sumei facturate
 
 **Client led (WD):**
 
 - Pentru a ajuta la revizuirea și pentru a înțelege factura, consultați: [Tutorial: Revizuirea facturii Azure individuale](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Înțelegeți termenii de pe factură: Termenii [facturii Azure explicate](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Înțelegeți termenii privind taxele de utilizare Azure: Termeni [de utilizare explicați](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Pentru a obține un PDF al facturii și o copie a fișierului de utilizare zilnică detaliată (. CSV): [Obțineți date privind facturile și utilizarea](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pentru a obține un PDF al facturii și o copie a fișierului dvs. de utilizare zilnică detaliată (.CSV): [Obțineți date privind facturile și utilizarea](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Notă:** dacă anulați abonamentul/resursa la jumătatea ciclului de facturare, este posibil să vedeți o taxă care ar fi pentru orice utilizare în luna anterioară. De exemplu, în cazul în care ciclul dvs. de facturare a fost între 26 ale fiecărei luni și până pe 25 ale lunii următoare & l-ai suspendat pe 23, adică cu 28 de zile în ciclul de facturare pentru iunie, este posibil să vedeți o taxă pentru cele 28 de zile de utilizare. Dacă vedeți o taxă la anularea unui abonament, asigurați-vă că nu aveți alte planuri de asistență care provoacă încărcarea. Dacă faceți acest lucru, anulați planul.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827876"
 - Pentru a ajuta la revizuirea și înțelegerea facturii, consultați: [Tutorial: Revizuirea facturii acordului pentru partenerul Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Înțelegerea termenilor de pe factură: Termeni [în factura acordului pentru parteneri Microsoft explicate](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Contract Enterprise (EA)**
+**Contractul Enterprise (EA)**
 
-- Pentru ajutor la revizuirea și înțelegerea facturii dvs., consultați: [Înțelegerea facturii contractului Azure Enterprise](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Dacă sunt clienți Azure cu un contract Enterprise (client EA), nu puteți descărca facturile organizației dvs. Facturile sunt trimise utilizatorilor configurați pentru a primi facturi pentru înscriere, puteți descărca utilizarea în [portalul Azure.](https://portal.azure.com/)
+- Pentru a ajuta la revizuirea și pentru a înțelege factura, consultați: [Înțelegeți factura Contractul Enterprise Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Dacă sunt clienți Azure cu un Contractul Enterprise EA, nu puteți descărca facturile organizației dvs. Facturile sunt trimise utilizatorilor configurați pentru a primi facturi pentru înscriere, puteți descărca utilizarea în [portalul Azure.](https://portal.azure.com/)
 
 Revizuiți factura pentru suprasenzia serviciului:
 
@@ -71,7 +71,7 @@ Comparați totalul Azure Marketplace în Rapoarte > rezumatul de utilizare din p
 
 **Furnizor de soluții cloud (CSP)**
 
-- Aflați mai multe despre modul în care funcționează facturarea în programul Azure Cloud Solution Provider (Azure CSP): [Facturare Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Aflați mai multe despre cum funcționează facturarea în programul Azure Furnizor de soluții cloud (CSP Azure): [Facturare Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Aflați despre citirea și înțelegerea facturii CSP: [Factură Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Documente recomandate**
@@ -81,4 +81,4 @@ Comparați totalul Azure Marketplace în Rapoarte > rezumatul de utilizare din p
 - [Înțelegeți limita cheltuielilor Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Înțelegeți facturarea Azure pentru tarifele pentru servicii externe: [Cum sunt facturate serviciile externe](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Întrebări frecvente despre contul Azure Gratuit](https://azure.microsoft.com/free/free-account-faq/)
-- [Înțelegerea rolurilor administrative din Contractul Azure Enterprise în Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Înțelegeți Azure Contractul Enterprise administrative în Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

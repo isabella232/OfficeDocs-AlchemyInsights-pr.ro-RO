@@ -1,5 +1,5 @@
 ---
-title: Depanator 607 liber/ocupat
+title: 607 depanatorul Liber/ocupat
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987695"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Pașii de depanare pentru disponibilitatea calendarelor (liber/ocupat)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Pașii de depanare pentru disponibilitatea calendarului (liber/ocupat)
 
-În general, cel mai bun instrument pentru depanarea problemelor liber/ocupat este [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) pentru a vedea unde reușește. RCA vă va oferi o înregistrare detaliată a ceea ce a funcționat și ce nu a reușit cu anumite mesaje de eroare pe care le puteți căuta pentru a găsi soluții. De asemenea, are un link către [Asistentul Microsoft pentru recuperare și asistență](https://diagnostics.office.com/).
+În general, cel mai bun instrument pentru depanarea problemelor liber/ocupat [este Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) pentru a vedea unde nu reușesc. RCA vă va oferi o înregistrare detaliată a ceea ce a funcționat și ce a eșuat cu mesaje de eroare specifice, pe care le puteți căuta pentru a găsi soluții. De asemenea, are un link către [microsoft Asistent pentru recuperare și asistență](https://diagnostics.office.com/).
 
-Un alt instrument bun pentru a încerca este [Instrumentul de verificare a calendarului pentru Outlook](https://www.microsoft.com/download/details.aspx?id=28786) dacă utilizatorul are Outlook.
+Un alt instrument bun de încercat este [Instrumentul de verificare a calendarului Outlook](https://www.microsoft.com/download/details.aspx?id=28786) dacă utilizatorul Outlook.

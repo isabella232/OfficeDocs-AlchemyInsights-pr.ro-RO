@@ -1,5 +1,5 @@
 ---
-title: Comentarii la elementele din listă
+title: Comentarii despre elementele de listă
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995499"
 ---
-# <a name="comments-on-list-items"></a>Comentarii la elementele din listă
+# <a name="comments-on-list-items"></a>Comentarii despre elementele de listă
 
-Utilizatorii pot să vizualizeze toate comentariile unui element de listă și să filtreze între vizualizări care afișează comentariile sau activitatea asociate unui element.
+Utilizatorii pot vizualiza toate comentariile despre un element din listă și pot filtra între vizualizările care afișează comentarii sau activități asociate unui element.
 
-Utilizatorii trebuie să rețină următoarele înainte de a putea adăuga și șterge comentarii:
+Utilizatorii trebuie să notează următoarele înainte să poată adăuga și șterge comentarii:
 
-- Comentarii urmați setările de permisiune inerente în SharePoint.
-- Listele clasice care nu sunt construite încă pentru a se afișa în interfețele moderne de utilizator, cum ar fi listele de activități, nu vor avea această caracteristică de comentare.
-- Comentarea în listele din teams nu este disponibilă în această ediție.
-- Comentariile nu sunt indexate de căutare.
+- Comentariile urmează setările de permisiune inerente din SharePoint.
+- Listele clasice care nu sunt construite încă pentru a se afișa în interfețele de utilizator moderne, cum ar fi listele de activități, nu vor avea această caracteristică de comentare.
+- Comentarea în liste din Teams nu este disponibilă în această versiune.
+- Comentariile nu sunt indexate de Căutare.
 
-Administratorii pot dezactiva această caracteristică la nivel de organizație, modificând parametrul **CommentsOnListItemsDisabled** din cmdletul **Set-SPOTenant** PowerShell.
+Administratorii pot dezactiva această caracteristică la nivel de organizație modificând **parametrul CommentsOnListItemsDisabled** în cmdletul **PowerShell Set-SPOTenant.**
 
-În prezent, nu este posibil să dezactivați comentarea la site sau la nivelul listei. Sperăm să avem acele controale într-o actualizare ulterioară, probabil în primul trimestru 2021.
+Momentan nu este posibilă dezactivarea comentariilor la nivel de site sau listă. Sperăm să avem aceste controale într-o actualizare ulterioară, probabil în primul trimestru 2021.
