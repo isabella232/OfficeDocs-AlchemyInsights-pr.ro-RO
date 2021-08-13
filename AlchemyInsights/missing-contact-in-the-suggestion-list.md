@@ -1,5 +1,5 @@
 ---
-title: Persoană de contact lipsă în lista de sugestii în timpul compunerii corespondenței
+title: Persoană de contact lipsă din lista de sugestii în timp ce compuneți mesaje de e-mail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae6e347c315af0e987b3fb1323b3a4a39ecc484f15eaeba75840b5ab134cc4d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975221"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Persoană de contact lipsă în lista de sugestii în timpul compunerii corespondenței
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Persoană de contact lipsă din lista de sugestii în timp ce compuneți mesaje de e-mail
 
-1. Selectați **pentru:**, apoi selectați o persoană de contact din listă.
+1. Selectați **Către:**, apoi selectați o persoană de contact din listă.
 2. Selectați **Trimitere**.
 
-    Persoana de contact apare în lista sugestie.
+    Persoana de contact apare în lista de sugestii.

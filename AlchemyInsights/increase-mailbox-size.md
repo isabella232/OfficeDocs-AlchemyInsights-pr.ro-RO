@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913150"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Comutați între abonamente pentru a mări dimensiunea cutiei poștale
 
 Dacă dimensiunea cutiei poștale este deja de 100 GB, nu există nicio modalitate de a o mări.
   
-Dacă dimensiunea cutiei poștale este de 50 GB, o puteți mări la 100 GB prin trecerea la [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) sau [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Iată pașii pentru a comuta la un alt abonament:
+Dacă dimensiunea cutiei poștale este de 50 GB, o puteți mări la 100 GB prin trecerea [la Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) [sau Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Iată pașii pentru a comuta la un alt abonament:
   
-1. În centrul de administrare Microsoft 365, accesați pagina  \> **[Facturarea produselor](https://go.microsoft.com/fwlink/p/?linkid=842054)** dvs.
+1. În meniul Centru de administrare Microsoft 365, accesați pagina **Facturare** \> **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Selectați abonamentul pentru care doriți să faceți upgrade.
 

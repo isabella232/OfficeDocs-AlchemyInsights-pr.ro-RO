@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7769"
-ms.openlocfilehash: 8af9546f219474e2382cd2436470385bf3ad31e8
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 98057b8e34cad19e2118f470dbeacdc8a7e78d9bc941e7f6565743201a541b56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958669"
 ---
 # <a name="restricting-access"></a>Restricționarea accesului
 
-1. Pentru informații despre cum să restricționați accesul la o aplicație, consultați instrucțiuni [: restricționarea aplicației AZURE ad la un set de utilizatori dintr-o entitate găzduită AZURE AD](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users).
-1. Aflați cum să revizuiți și să gestionați permisiunile aplicației. [Luați măsuri pentru aplicațiile supraprivilegiate sau suspecte din Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) oferă acțiuni diferite pe care le puteți efectua pentru a vă securiza aplicația în conformitate cu scenariul. Aceste acțiuni se aplică tuturor aplicațiilor care au fost adăugate la entitatea găzduită Azure Active Directory (Azure AD) prin consimțământul utilizatorului sau al administratorului.
-1. [Gestionarea atribuirii de utilizator pentru o aplicație din Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) vă arată cum să atribuiți utilizatori și grupuri, aplicațiilor de întreprindere din Azure Active Directory (Azure AD), fie din interiorul portalului Azure, fie utilizând PowerShell. Atunci când atribuiți unui utilizator o aplicație, aplicația apare în aplicațiile mele ale utilizatorului pentru acces facil. Dacă aplicația expune roluri, puteți, de asemenea, să atribuiți un anumit rol utilizatorului.
-    - Pentru mai multe informații despre atribuirea de utilizatori și grup, consultați [accesul condiționat: utilizatori și grupuri](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups).
+1. Pentru informații despre cum să restricționați accesul la o aplicație, consultați Cum să: Restricționarea aplicației Azure AD la un set de utilizatori într-o entitate [găzduită Azure AD.](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users)
+1. Aflați cum să revizuiți și să gestionați permisiunile de aplicație. [Luați măsuri pentru aplicațiile supraprivileged](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) sau suspecte din Azure Active Directory furnizează diverse acțiuni pe care le puteți lua pentru a vă securiza aplicația în funcție de scenariu. Aceste acțiuni se aplică tuturor aplicațiilor care au fost adăugate la entitatea dvs. găzduită Azure Active Directory (Azure AD) prin acord de utilizator sau de administrator.
+1. Gestionarea atribuirii utilizatorilor pentru o aplicație în [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) vă arată cum să atribuiți utilizatori și grupuri pentru aplicațiile de întreprindere din Azure Active Directory (Azure AD), fie din portalul Azure, fie utilizând PowerShell. Atunci când atribuiți un utilizator unei aplicații, aplicația apare în aplicația Aplicațiile mele a utilizatorului, pentru acces ușor. Dacă aplicația expune roluri, puteți să atribuiți un anumit rol utilizatorului.
+    - Pentru mai multe informații despre atribuirea utilizatorilor și grupurilor, [consultați Acces condiționat: Utilizatori și grupuri.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups)

@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 80e8cc72db8ae32445d48e5c8a411d5ccd538626653260b3dbd28a247561e888
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975113"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Monitorizarea accesului condiționat pentru Exchange
 
-Utilizatorii vizați de Access condițional vor primi un e-mail de notificare dacă nu îndeplinesc cerințele de acces ale organizației dvs. Pentru a rezolva, vă recomandăm una sau mai multe dintre următoarele soluții:
+Utilizatorii țintiți cu acces condiționat vor primi un e-mail de notificare dacă nu îndeplinesc cerințele de acces ale organizației dvs. Pentru a rezolva problema, vă recomandăm una sau mai multe dintre următoarele soluții:
 
-- Dacă se presupune că dispozitivul este înscris, consiliați utilizatorul să meargă la aplicația portal a firmei și să verifice dacă apare în portalul firmei. Dacă nu, utilizatorul trebuie să înscrie dispozitivul.
-- În portalul Azure, accesați Intune > conformitatea dispozitivelor. Sub monitor, faceți clic pe conformitate dispozitiv. Vizualizați raportul de conformitate al dispozitivului pentru a verifica dacă dispozitivul utilizatorului este marcat ca fiind conform.
-- În portalul Azure, accesați Intune > conformitatea dispozitivelor. Sub gestionare, faceți clic pe politici. În lista de politici de conformitate, Verificați dacă un profil este atribuit dispozitivului utilizatorului. Dacă nu este atribuit niciun profil, atunci Intune nu va putea confirma starea de conformitate a dispozitivului.
-- Editați atribuirea accesului condiționat al utilizatorului.
+- Dacă dispozitivul trebuie să fie înregistrat, sfătuiți utilizatorul să meargă la aplicația Portal firmă și să verifice dacă apare în Portal firmă. Dacă nu, utilizatorul trebuie să înscrie dispozitivul.
+- În portalul Azure, accesați Intune > Conformitate dispozitiv. Sub Monitor, faceți clic pe Conformitate dispozitiv. Vizualizați raportul de conformitate al dispozitivului pentru a verifica dacă dispozitivul utilizatorului este marcat drept compatibil.
+- În portalul Azure, accesați Intune > Conformitate dispozitiv. Sub Gestionare, faceți clic pe Politici. În lista cu politicile de conformitate, verificați dacă s-a atribuit un profil pentru dispozitivul utilizatorului. Dacă nu i s-a atribuit niciun profil, Intune nu va putea să confirme starea de conformitate a dispozitivului.
+- Editați atribuirea de acces condiționat a utilizatorului.
 
-1. În portalul Azure, accesați Politica de   >  **acces condițională** Intune  >  .
+1. În portalul Azure, accesați Politici **de acces condiționat Intune.**  >    >  
 2. Selectați o politică din listă.
-3. Faceți clic pe utilizatori și grupuri.
-4. Pentru a viza o anumită politică la o persoană, adăugați-o la lista includere. Pentru a vă asigura că o persoană este omisă din politică, adăugați-o la lista de excluderi.
+3. Faceți clic pe Utilizatori și grupuri.
+4. Pentru a direcționa o politică anume către o persoană, adăugați persoana în lista Includere. Pentru a asigura că o persoană este omisă de la o politică, adăugați persoana în lista Excludere.
 
 Linkuri utile:
 
-[Prezentare generală a conformității dispozitivelor](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Prezentarea generală a conformității dispozitivului](https://docs.microsoft.com/intune/device-compliance-get-started)
 
 [Depanarea CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Politica de depanare](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+[Politică de depanare](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-[Monitorizarea conformității dispozitivelor Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+[Monitorizarea conformității dispozitivului Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Notă: acești pași sunt utili doar în depanarea caracteristicii Azure Active Directory Access condiționale. De asemenea, este posibil să plasați în carantină un dispozitiv care blochează accesul la e-mail cu politica Exchange. Mai multe informații despre gestionarea dispozitivelor Exchange pot fi găsite [aici] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
+Notă: acești pași sunt utili doar pentru depanarea accesului Azure Active Directory caracteristică condiționată. De asemenea, este posibil să puneți în carantină un dispozitiv care blochează accesul la e-mail Exchange dvs. Mai multe informații despre Exchange de management al dispozitivelor pot fi găsite [aici]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

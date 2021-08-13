@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918878"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleme cu mesajele de e-mail nedorite care pretind a fi de la LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleme cu e-mailul nedorit care pretinde a fi de la LinkedIn
 
-Dacă primiți mesaje de e-mail nedorite care pretind a fi de la LinkedIn, puteți crea o regulă pentru a filtra acele mesaje de e-mail.
-Consultați [utilizarea regulilor pentru Inbox în Outlook.com](https://aka.ms/OutlookComInboxRules) pentru mai multe informații.
+Dacă primiți e-mailuri nedorite care pretinde a fi de la LinkedIn, puteți crea o regulă pentru a filtra acele mesaje de e-mail.
+Consultați [Utilizarea regulilor pentru inbox în Outlook.com](https://aka.ms/OutlookComInboxRules) pentru mai multe informații.
 
 

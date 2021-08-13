@@ -1,5 +1,5 @@
 ---
-title: Cum se modifică limba în Outlook.com
+title: Cum se schimbă limba în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913295"
 ---
-# <a name="change-your-language"></a>Modificarea limbii
+# <a name="change-your-language"></a>Schimbarea limbii
 
-1. Pentru a schimba limba în Outlook, accesați Setări [**limbă și oră**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (vizualizarea**Setări** \> **toate setările Outlook**în  >  **General**  >  **limba generală și ora**).
+1. Pentru a configura limba în Outlook, accesați Setări de limbă și oră **(Setări** Vedeți toate setările [](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) \> **Outlook**  >  **Limbă** și oră  >  **generală**).
 
 2. Alegeți limba.
 
 3. Selectați **Salvare**.
 
-Pentru a afla mai multe, consultați [modificarea setărilor de fus orar și limbă din Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Pentru a afla mai multe, [consultați Modificarea setărilor de fus orar și limbă în Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=873132)

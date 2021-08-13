@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b8fe293295e161dfc2a6476f16574febfb92bf29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966985"
 ---
 # <a name="release-quarantined-messages"></a>Eliberarea mesajelor în carantină
 
-Puteți să lansați un mesaj în carantină (sau un set de mesaje) pentru toți destinatarii sau să eliberați doar mesajul către anumite persoane pe care le alegeți din lista de toți destinatarii.
+Puteți să eliberați un mesaj (sau un set de mesaje) în carantină către toți destinatarii sau să eliberați mesajul doar anumitor persoane pe care le alegeți din lista tuturor destinatarilor.
 
-1. Accesați centrul de [conformitate & de securitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Accesați carantina de revizuire a **gestionării amenințărilor**  >    >  .
+1. Accesați Centrul [de & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Accesați Treceți în **carantină**  >  **Revizuirea gestionării**  >  **amenințărilor.**
 3. Alegeți mesajele pe care doriți să le eliberați.
-4. După ce eliberați un mesaj, alegeți **Reîmprospătare** pentru a reîmprospăta datele, apoi faceți dublu clic pe mesaj. Trebuie să vedeți că mesajul a fost lansat către destinatarii destinați.
+4. După ce eliberați un mesaj, **alegeți Reîmprospătare** pentru a reîmprospăta datele, apoi faceți dublu clic pe mesaj. Ar trebui să vedeți că mesajul a fost lansat pentru destinatarii inițiali.

@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940975"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Remedierea mesajelor blocate în Outbox cu SaRA
 
-Vă recomandăm să începeți prin a rula scenariul ["Am](https://aka.ms/SaRA-OutlookSendReceive) probleme cu trimiterea, primirea sau găsirea mesajelor de e-mail" pe computerul utilizat de asistentul Microsoft pentru recuperare și asistență [(SaRa).](https://diagnostics.office.com/#/)
+Vă recomandăm să începeți prin a rula scenariul ["Am](https://aka.ms/SaRA-OutlookSendReceive) probleme cu trimiterea, primirea sau găsirea mesajelor de e-mail" pe computerul efectuat de la instrumentul [Microsoft Asistent pentru recuperare și asistență (SaRa).](https://diagnostics.office.com/#/)

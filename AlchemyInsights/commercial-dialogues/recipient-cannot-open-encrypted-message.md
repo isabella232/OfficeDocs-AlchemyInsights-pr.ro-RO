@@ -1,5 +1,5 @@
 ---
-title: Remedierea problemelor cu vizualizarea mesajului protejat în Outlook
+title: Remedierea problemei cu vizualizarea mesajului protejat Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967165"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Remedierea problemei vizualizării mesajului protejat în Outlook
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Remedierea problemei cu vizualizarea mesajului protejat din Outlook
 
-Dacă un destinatar întâmpină probleme la deschiderea unui mesaj criptat, asigurați-vă că destinatarul face clic pe linkul din mesaj pentru a solicita un cod de acces unic.
+Dacă un destinatar are probleme la deschiderea unui mesaj criptat, asigurați-vă că destinatarul face clic pe linkul din mesaj pentru a solicita un cod de acces pentru o singură dată.
 
-Pentru a deschide mesaje criptate, utilizatorii trebuie să efectueze următorii pași:
+Pentru a deschide mesajele criptate, utilizatorii trebuie să facă următorii pași:
 
-1. În funcție de clientul de e-mail utilizat, faceți clic pe **citiți mesajul** sau pe o solicitare similară. Utilizatorii sunt redirecționați către o pagină unde se pot conecta și primesc un cod de unică folosință.
+1. În funcție de clientul de e-mail utilizat, faceți **clic pe Citirea mesajului** sau pe o solicitare similară. Utilizatorii sunt redirecționați către o pagină unde se pot conecta și pot primi un cod de utilizare unică.
 
 > [!NOTE]
-> Pentru utilizatorii Gmail, li se va solicita să se conecteze cu Gmail. Mesajul se va deschide într-o filă nouă după ce faceți clic pe se **permite**.
+> Pentru utilizatorii Gmail, aceștia vor fi solicitați să se conecteze cu Gmail. Mesajul se va deschide într-o filă nouă după ce faceți clic pe **Se permite**.
 
-2. Verificați e-mailul pentru codul de unică utilizare, apoi introduceți acel cod în fereastra browserului.
+2. Verificați dacă în e-mail codul de utilizare unică este utilizat, apoi introduceți codul în fereastra browserului.
 
-3. Faceți clic pe **continuare** pentru a citi mesajul.
+3. Faceți **clic pe** Continuare pentru a citi mesajul.
 
-Pentru mai multe informații, consultați [trimiteți, Vizualizați și răspundeți la mesaje criptate în Outlook pentru PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Pentru mai multe informații, [consultați Trimiterea, vizualizarea și răspunsul la mesaje criptate în Outlook pentru PC.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 
