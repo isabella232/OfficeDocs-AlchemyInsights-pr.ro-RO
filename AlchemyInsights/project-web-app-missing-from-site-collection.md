@@ -1,5 +1,5 @@
 ---
-title: Project Web App lipsește din colecția de site-uri SharePoint
+title: Project Web App lipsește din colecția SharePoint site-uri
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973097"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App lipsește din colecția de site-uri SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App lipsește din colecția de SharePoint site-uri
 
-Project Web App poate lipsi din colecția de site-uri SharePoint din următoarele motive:
+Project Web App poate lipsi din colecția de SharePoint site-uri din următoarele motive:
 
-1. Organizațiile au doar licențe Project Online Essentials. Administratorii vor trebui să adauge o licență Project Online Professional și/sau Premium. Site-ul va ieși doar în citire în acel moment. Pentru mai multe informații, consultați [compararea soluțiilor de gestionare a proiectelor](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Entitatea găzduită a întâlnit o problemă de asigurare a accesului în care asigurarea accesului la site-ul Project Web App a fost amânată. Dacă au trecut mai mult de 24 de ore și încă întâmpinați problema, vă rugăm să înregistrați un tichet de asistență. Înțelegem că 24 de ore pot părea mult timp. În multe cazuri, lucrăm deja la o soluție. Vă rugăm să ne dați cel puțin 24 de ore pentru a finaliza o soluție.
+1. Organizațiile au Project Online Essentials licențe noi. Administratorii vor trebui să adauge o licență de Project Online Professional/sau de Premium licenței. Site-ul va deveni doar în citire în acel moment. Pentru mai multe informații, [consultați Compararea soluțiilor Project de gestionare.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Entitatea găzduită a întâmpinat o problemă de asigurare a accesului în care s-Project Web App a întârziat asigurarea accesului pentru site-uri. Dacă au trecut mai mult de 24 de ore și încă mai aveți probleme, vă rugăm să conectați un tichet de asistență. Înțelegem că 24 de ore pot părea mult timp. În multe cazuri, lucrăm deja la o soluție. Acordați-ne cel puțin 24 de ore pentru a finaliza o soluție.
