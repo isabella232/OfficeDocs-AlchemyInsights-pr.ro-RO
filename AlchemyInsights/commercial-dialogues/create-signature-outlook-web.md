@@ -1,5 +1,5 @@
 ---
-title: Crearea unei semnături de e-mail în Outlook pe web
+title: Crearea unei semnături de e-mail Outlook pe web
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949543"
 ---
-# <a name="create-an-email-signature-in-outlook-on-the-web"></a>Crearea unei semnături de e-mail în Outlook pe web
+# <a name="create-an-email-signature-in-outlook-on-the-web"></a>Crearea unei semnături de e-mail Outlook pe web
 
 1. Conectați-vă la Outlook pe web.
-2. Pe bara de navigare din partea de sus, alegeți **Setări**  >  **corespondență**.
-3. În panoul **Opțiuni** , sub **corespondență**, alegeți   >  **semnătură de e-mail** de aspect.
+2. Pe bara de navigare de sus, alegeți **Setări**  >  **Mail**.
+3. În panoul **Opțiuni,** sub Corespondență, **alegeți** Aspect **semnătură**  >  **e-mail.**
 4. În caseta text, tastați semnătura și utilizați opțiunile de formatare disponibile pentru a-i modifica aspectul.
 
-**Sfat:** Inserarea unui fișier imagine (de exemplu, într-un format. gif sau. jpg) pentru semnătură nu este acceptată, dar puteți să copiați o imagine dintr-o pagină Web și să o lipiți în caseta semnătură.
+**Sfat:** Inserarea unui fișier imagine (de exemplu, într-un format .gif sau .jpg) pentru semnătura dvs. nu este acceptată, dar puteți să copiați o imagine dintr-o pagină web și să o lipiți în caseta de semnătură.
 
-5. Dacă doriți ca semnătura să se afișeze în partea de jos a tuturor mesajelor de e-mail de ieșire, inclusiv a răspunsurilor și a redirecționărilor, selectați **includeți automat semnătura mea în mesajele noi pe care le compun**.
+5. Dacă doriți ca semnătura să se afișeze în partea de jos a tuturor mesajelor de e-mail trimise, inclusiv a răspunsurilor și redirecționelor, selectați Includeți automat semnătura mea în mesajele noi pe care **le compun**.
 6. Faceți clic pe **Salvare**.

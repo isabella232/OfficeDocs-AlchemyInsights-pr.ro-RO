@@ -1,5 +1,5 @@
 ---
-title: Probleme de conexiune la aplicații
+title: Probleme de conexiune a aplicației
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931556"
 ---
-# <a name="application-connection-issues"></a>Probleme de conexiune la aplicații
+# <a name="application-connection-issues"></a>Probleme de conexiune a aplicației
 
-[Tutoriale pentru Integrarea aplicațiilor cu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) -pentru a contribui la integrarea aplicațiilor cu Azure Active Directory, am dezvoltat o colecție de tutoriale care vă ghidează prin configurare.
+[Tutoriale pentru integrarea](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) aplicațiilor cu Azure Active Directory - Pentru a vă ajuta să integrați aplicațiile cu Azure Active Directory, am dezvoltat o colecție de tutoriale care vă ajută să faceți o configurare.
 
-**Depanarea conectorului agent proxy aplicație**
+**Depanarea conectorului Agent proxy aplicație**
 
-Pentru ajutor dacă instalarea unui conector nu reușește, consultați [problema instalării conectorului de agent proxy aplicație](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
+Pentru ajutor în cazul în care instalarea conectorului nu reușește, [consultați Problemă la instalarea conectorului Agent proxy de aplicație.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
 
-[Problemele legate de conectorul proxy al aplicației depanare](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) vă ajută să depanați problemele cu conectorii proxy de aplicație Azure Active Directory (Azure AD). Dacă utilizați serviciul proxy aplicație pentru acces la distanță la o aplicație Web locală, dar întâmpinați probleme la conectarea la aplicație, utilizați această schemă logică pentru a depana problemele cu conectorul.
+[Depanarea problemelor cu conectorii Proxy de](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) aplicație vă ajută să depanați problemele cu conectorii proxy de aplicație Azure Active Directory (Azure AD). Dacă utilizați serviciul Proxy aplicație pentru acces de la distanță la o aplicație web local, dar aveți probleme la conectarea la aplicație, utilizați această schemă logică pentru a depana problemele cu conectorii.
 
-Nu s-a [găsit un grup de conectori de lucru pentru o aplicație proxy de aplicație](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) ajută la rezolvarea problemelor comune cu care se confruntă atunci când nu există un conector detectat pentru o aplicație proxy de aplicație integrată cu Azure Active Directory.
+[Nu a fost găsit niciun](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) grup de conectori de lucru pentru o aplicație Proxy de aplicație vă ajută să rezolvați problemele comune cu care se confruntă atunci când nu există un conector detectat pentru o aplicație Proxy de aplicație integrată Azure Active Directory.
 
-**Depanarea integrării Cisco AnyConnect**
+**Depanarea integrării cu Cisco AnyConnect**
 
-Pentru a afla cum să integrați Cisco AnyConnect cu Azure Active Directory (Azure AD), consultați [Tutorial: integrarea cu sign-on unic (SSO) Azure Active Directory cu Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect).
+Pentru a afla cum să integrați Cisco AnyConnect cu Azure Active Directory (Azure AD), consultați [Tutorial: integrarea cu Cisco AnyConnect Azure Active Directory sign-on unic (SSO).](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)

@@ -1,5 +1,5 @@
 ---
-title: 763 blocarea accesului PowerShell Exchange Online pentru utilizatori
+title: 763 Blocarea Exchange Online accesului PowerShell pentru utilizatori
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931425"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blocarea accesului PowerShell Exchange Online pentru utilizatori
-Ca administrator, aveți capacitatea de a bloca accesul la Exchange Online PowerShell pentru utilizatorii dvs. Pentru mai multe informații, consultați aceste subiecte:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blocarea Exchange Online accesului PowerShell pentru utilizatori
+Ca administrator, aveți posibilitatea de a bloca accesul la Exchange Online PowerShell pentru utilizatorii dvs. Pentru mai multe informații, consultați aceste subiecte:
 
 - [Activarea sau dezactivarea accesului la Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Regulile de acces pentru clienți în Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (căutați protocolul **RemotePowerShell** ) 
+- [Reguli de acces clienți în Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (căutați protocolul **RemotePowerShell)** 
 
-**Notă**: așa cum se descrie în subiect, aveți grijă să nu blocați accesul la Exchange Online PowerShell pentru administratori.
+**Notă:** După cum este descris în subiect, aveți grijă să nu blocați accesul la Exchange Online PowerShell pentru administratori.
