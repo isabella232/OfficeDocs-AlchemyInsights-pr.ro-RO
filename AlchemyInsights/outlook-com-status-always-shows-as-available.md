@@ -1,5 +1,5 @@
 ---
-title: Starea Outlook.com se afișează întotdeauna ca disponibil
+title: Outlook.com se afișează întotdeauna ca Disponibil
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095158"
 ---
-# <a name="my-status-always-shows-as-available"></a>Starea mea se afișează întotdeauna ca disponibil
+# <a name="my-status-always-shows-as-available"></a>Starea mea se afișează întotdeauna ca Disponibil
 
-De fiecare dată când vă conectați la Outlook.com, starea contului va fi resetată la disponibilă. Puteți împiedica modificarea stării, dacă nu vă deconectați de la Outlook.com. Pentru a rămâne conectat când închideți browserul, bifați caseta **păstrați-mă conectat** pe pagina de conectare Outlook.com.
+De fiecare dată când vă conectați la Outlook.com, starea contului dvs. va fi resetată la Disponibil. Puteți împiedica modificarea stării, neconectându-vă de Outlook.com. Pentru a rămâne conectat atunci când  închideți browserul, selectați caseta Păstrează-mă conectat din pagina Outlook.com de conectare.

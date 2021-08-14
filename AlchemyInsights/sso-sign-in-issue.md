@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemelor de conectare a utilizatorilor cu sign-on unic (SSO) fără întreruperi
+title: Depanarea problemelor de conectare prin sign-on unic (SSO) pentru utilizatori
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009440"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Depanarea problemelor de conectare a utilizatorilor cu sign-on unic (SSO) fără întreruperi
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Depanarea problemelor de conectare prin sign-on unic (SSO) pentru utilizatori
 
-Pentru a rezolva problemele de conectare ale utilizatorilor cu sign-on unic (SSO) fără sudură, utilizați următoarele resurse recomandate:
+Pentru a rezolva problemele de conectare perfecte cu sign-on unic (SSO), utilizați următoarele resurse recomandate:
 
-- [Solicitare de consimțământ neașteptată atunci când vă conectați la o aplicație](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Solicitare de consimțământ neașteptat atunci când vă conectați la o aplicație](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
 - [Eroare neașteptată atunci când efectuați consimțământul pentru o aplicație](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
-- [Depanarea problemelor de conectare la o aplicație din Azure AD aplicațiile mele](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
-- [O pagină de aplicație afișează un mesaj de eroare după ce utilizatorul se conectează](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [Depanarea problemelor de conectare la o aplicație din Azure AD Aplicațiile mele](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [O pagină de aplicație afișează un mesaj de eroare după ce utilizatorul se semnează](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
 - [Probleme la conectarea la o aplicație Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
-- [Probleme la conectarea la aplicațiile configurate pentru sign-on unic bazat pe SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
+- [Probleme la aplicațiile configurate de sign-on unic bazate pe SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-Pentru a face solicitări de caracteristici sau a solicita întrebări tehnice despre SSO fără sudură, consultați [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+Pentru a face solicitări de caracteristici sau a adresa întrebări tehnice despre SSO perfect, consultați [Întrebări și&Microsoft.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
 

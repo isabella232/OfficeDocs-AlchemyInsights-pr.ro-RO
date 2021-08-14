@@ -1,5 +1,5 @@
 ---
-title: '8000016: cum se șterge un folder'
+title: '8000016: Cum se șterge un folder'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063244"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Cum se șterge un folder în Outlook pe web
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Cum se șterge un folder din Outlook pe web
 
-1. În panoul de foldere, faceți clic cu butonul din dreapta pe folderul sau pe subfolderul pe care doriți să-l ștergeți.
-2. Selectați **Ștergere folder**.
+1. În panoul de foldere, faceți clic dreapta pe folderul sau pe subfolderul pe care doriți să-l ștergeți.
+2. Selectați **Ștergeți folderul**.
 3. Selectați **OK** pentru a confirma.
 
-Pentru a afla mai multe, consultați [lucrul cu folderele de mesaje în Outlook pe web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Pentru a afla mai multe, [consultați Lucrul cu folderele de mesaje în Outlook pe web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

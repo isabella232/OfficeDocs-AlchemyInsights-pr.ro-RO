@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975329"
 ---
 # <a name="migrating-applications"></a>Migrarea aplicațiilor
 
-[Resurse pentru migrarea aplicațiilor la Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) -resurse pentru a vă ajuta să migrați accesul la aplicații și autentificarea la Azure Active Directory (Azure AD).
+[Resurse pentru migrarea aplicațiilor la Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) - resurse care vă ajută să migrați accesul aplicațiilor și autentificarea la Azure Active Directory (Azure AD).
 
-[Mutarea autentificării aplicației din Active Directory Federation Services la Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) -dezvoltator axate pe ghiduri pentru migrarea aplicațiilor din Active Directory Federation Services la Azure Active Directory.
+[Mutarea autentificării aplicațiilor](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) de la Active Directory Federation Services la Azure Active Directory - instrucțiuni focalizate pentru dezvoltatori pentru migrarea aplicațiilor de la Active Directory Federation Services la Azure Active Directory.

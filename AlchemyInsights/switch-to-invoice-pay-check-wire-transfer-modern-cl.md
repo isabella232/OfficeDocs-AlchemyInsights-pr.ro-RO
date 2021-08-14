@@ -1,5 +1,5 @@
 ---
-title: Comutați la plata prin factură (verificare/transfer bancar)
+title: Comutați la plata prin factură (cec/transfer bancar)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009080"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Comutați la plata prin factură (verificare/transfer bancar)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Comutați la plata prin factură (cec/transfer bancar)
 
-În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
+Pe baza descrierii problemei, am găsit o soluție pentru dvs. Majoritatea clienților au reușit să-și rezolve singuri problema după ce au urmărit documentația.
 
-Dacă comutați la plata cu factură, înseamnă că veți plăti factura în termen de 30 de zile de la data facturii. Pentru a deveni eligibil să plătiți pentru abonamentul Azure prin factură, trimiteți o solicitare la asistența Azure. După ce solicitarea este aprobată, puteți comuta un abonament la plata facturii în portalul Azure.
+Dacă treceți la plata prin factură, aceasta înseamnă că veți plăti factura în termen de 30 de zile de la data facturii. Pentru a deveni eligibil pentru a plăti pentru abonamentul Azure prin factură, remiteți o solicitare la asistența Azure. După ce solicitarea dvs. este aprobată, puteți comuta un abonament la plata prin factură în portalul Azure.
 
-**Înainte de a continua, examinați următoarele cerințe/limite la solicitarea opțiunii de plată a facturii:**
+**Înainte de a continua, consultați următoarele cerințe/limitări pentru solicitarea opțiunii de plată prin factură:**
 
-- Conectați-vă la [portalul Azure](https://portal.azure.com/), navigați la metode de plată și verificați dacă sunteți deja pre-aprobat pentru plată pe factură.
-- Plata facturilor este disponibilă numai pentru conturile de Business, nu și pentru conturile personale.
-- Trebuie să plătiți toate tarifele restante înainte de a comuta la plata facturii.
-- Echipa de asistență va revizui contul pentru a determina dacă este eligibil pentru modul de plată a facturii.
-- După ce comutați la plata facturii, nu puteți comuta înapoi la plata cu cardul de credit sau de debit.
+- Conectați-vă la [portalul Azure](https://portal.azure.com/), navigați la metodele de plată și verificați dacă sunteți deja pre-aprobat pentru plata prin factură.
+- Plata facturii este disponibilă doar pentru conturile de firmă, nu și pentru conturile personale.
+- Trebuie să plătiți toate taxele restante înainte de a trece la plata prin factură.
+- Echipa de asistență va revizui contul pentru a determina dacă este eligibil pentru modul de plată prin factură.
+- După ce comutați la plata prin factură, nu puteți comuta înapoi la plata cu cardul de credit sau de debit.
 
-După ce sunteți aprobat să plătiți cu factură, puteți comuta abonamentul Azure la factură plăti prin cec sau transfer bancar în [portalul Azure](https://portal.azure.com/).
-Pentru a face acest lucru:
+După ce sunteți aprobat să plătiți prin factură, puteți comuta abonamentul Azure la factura de plată prin cec sau transfer bancar în [portalul Azure.](https://portal.azure.com/)
+Pentru aceasta:
 
-1. Conectați-vă la [portalul Azure](https://portal.azure.com/)   ca administrator de cont. Căutați și selectați **gestionarea costurilor + facturare**.
-2. În meniu, alegeți **profiluri de facturare**.
+1. Conectați-vă [la portalul Azure](https://portal.azure.com/)ca administrator de   cont. Căutați și selectați **Gestionare costuri + Facturare.**
+2. În meniu, alegeți **Profiluri de facturare.**
 3. Selectați un profil de facturare.
-4. În meniul *profil facturare* , selectați **metode de plată**.
-5. Selectați bannerul care spune că sunteți eligibil să plătiți prin virament/transfer bancar.
+4. În meniul *Profil de facturare,* selectați **Metode de plată**.
+5. Selectați bannerul care spune că sunteți eligibil pentru a plăti prin cec/transfer bancar.
 
 **Documente recomandate**
 
-- [Cerere/descărcare/vizualizare factură de facturare Azure și date de utilizare](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Cum să trimiteți prin e-mail facturi Azure direct în Inbox](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Plata prin factură](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Înțelegerea termenilor din factură](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Solicitare/descărcare/Vizualizarea facturii Azure și a datelor de utilizare](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Cum să trimiteți facturi Azure direct în inbox](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Plata cu factură](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
+- [Să înțelegeți termenii de pe factură](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
