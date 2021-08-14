@@ -1,5 +1,5 @@
 ---
-title: Limitele și fișierele mari din SharePoint
+title: Limite și fișiere mari în SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986714"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Fișiere care nu pot fi încărcate în SharePoint Online
 
@@ -25,10 +25,10 @@ Dacă un fișier nu se încarcă în SharePoint Online, asigurați-vă că:
   
 - Are o dimensiune mai mică de 15 GB.
     
-- Întreaga cale, inclusiv numele fișierului, este mai mic decât 400 de caractere.
+- Întreaga cale, inclusiv numele fișierului, este mai mică de 400 de caractere.
     
-- Numele fișierului nu conține caracterele " \* : \< \> ? / \ | și nu se află în lista de [nume nevalide](https://go.microsoft.com/fwlink/?linkid=866430).
+- Numele de fișier nu conține caracterele " \* \< \> :? / \ | și nu se listează pe lista de [nume nevalide.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Dacă încercați să încărcați fișierul utilizând aplicația desktop OneDrive, consultați [restricții și limite atunci când sincronizați fișiere și foldere](https://go.microsoft.com/fwlink/p/?LinkID=717734) sau [remediați problemele de sincronizare cu OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Dacă încercarea de a încărca fișierul utilizând aplicația desktop [](https://go.microsoft.com/fwlink/p/?LinkID=717734) OneDrive, consultați Restricții și limite pentru sincronizarea fișierelor și folderelor sau Remedierea [Sincronizare cu OneDrive probleme.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 
