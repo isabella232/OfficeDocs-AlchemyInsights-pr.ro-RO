@@ -1,5 +1,5 @@
 ---
-title: Asocierea unui site hub
+title: Asocierea unui site Hub
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989639"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Asocierea site-ului existent cu un site hub
+# <a name="associate-existing-site-with-a-hub-site"></a>Asociați site-ul existent cu un site hub
 
-Pentru a asocia un site existent cu site-ul Hub, procedați astfel:
+Pentru a asocia un site existent cu site-ul hub, faceți următoarele:
   
-1. Pe site-ul dvs., selectați **Setări** (pictograma de viteze din colțul din dreapta sus), apoi selectați **informații site**.
+1. Pe site, selectați **pictograma Setări** (pictograma rotită dințată din colțul din dreapta sus), apoi selectați **Informații site**.
 
-2. În panoul **Editare informații site** , în meniul **asociere site hub** , selectați site-ul Hub pe care doriți să-l asociați cu site-ul dvs., apoi faceți clic pe **Salvare**. Aspectul site-ului se va modifica pentru a se potrivi cu cel al site-ului hub și bara de navigare a site-ului hub va apărea în partea de sus.
+2. În panoul  **Editați informațiile despre site,** în meniul Asociere site hub, selectați site-ul hub pe care doriți să-l asociați cu site-ul, apoi faceți clic pe **Salvare.** Privirea site-ului se va modifica, pentru a se potrivi cu cea a site-ului hub și bara de navigare a site-ului hub vor apărea în partea de sus.
 
 >**Notă**
 >
->Dacă opțiunea de asociere a site-ului hub nu este prezentă sau nu sunt listate site-uri acolo, este posibil ca site-urile hub să nu fie activate sau să nu aveți permisiunea de a asocia site-uri cu un site hub. Contactați administratorul pentru mai multe informații.
+>Dacă opțiunea de asociere hub de site nu este prezentă sau nu este listată nicio site-uri acolo, este posibil ca site-urile hub să nu fie activate sau să nu aveți permisiunea de a asocia site-uri cu un site hub. Pentru mai multe informații, contactați administratorul.
 >
->Nu există nicio limită la numărul de site-uri care pot fi asociate cu un site hub.
+>Nu există nicio limită pentru numărul de site-uri care pot fi asociate cu un site hub.
   
