@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975869"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Utilizarea Microsoft Intune pentru a gestiona accesul web în Microsoft Edge pentru iOS și Android
 
 Microsoft Edge pentru iOS și Android permite unui utilizator să navigheze pe web din mai multe profiluri complet separate.
 
-Cele mai largi capacități de protecție pentru datele Microsoft 365 devin disponibile atunci când vă abonați la suita Enterprise Mobility + Security, care include caracteristicile Microsoft Intune și Azure Active Directory Premium, cum ar fi accesul condiționat. Veți dori să implementați cel puțin o politică de acces condiționat care (1) permite utilizatorilor să se conecteze de la dispozitive mobile la Microsoft Edge pentru iOS și Android și că (2) implementează o politică de protecție a aplicațiilor Microsoft Intune care oferă o experiență de navigare protejată.
+Cele mai largi capacități de protecție Microsoft 365 datelor devin disponibile atunci când vă abonați la suita Enterprise Mobility + Security, care include caracteristici Microsoft Intune și Azure Active Directory Premium, cum ar fi accesul condiționat. Veți dori să implementați cel puțin o politică de acces condiționat care (1) permite utilizatorilor să se conecteze de la dispozitive mobile la Microsoft Edge pentru iOS și Android și că (2) implementează o politică de protecție Microsoft Intune a aplicațiilor care oferă o experiență de navigare protejată.
 
 Pentru a înțelege cum puteți utiliza accesul condiționat și politicile, consultați:
 
-[Aplicarea politicilor de acces condiționat Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Aplicarea Azure Active Directory de acces condiționat](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Crearea politicilor de protecție pentru aplicația Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Crearea Microsoft Intune de protecție pentru aplicații](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Utilizați sign-on unic pentru aplicațiile web Azure Active Directory conectate în browserele protejate prin politică](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Utilizați sign-on unic pentru Azure Active Directory web conectate la politici în browserele protejate prin politică](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Utilizarea configurației aplicației pentru a gestiona experiența de navigare](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -45,4 +45,4 @@ Pentru a înțelege cum puteți utiliza accesul condiționat și politicile, con
 
 [Utilizarea Microsoft Endpoint Manager pentru a implementa politicile de configurare a aplicațiilor](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Pentru a afla cum să accesați jurnalele de aplicații gestionate, consultați Utilizarea Microsoft Edge pentru iOS și Android pentru a accesa [jurnalele de aplicații gestionate.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Pentru a afla cum să accesați jurnalele de aplicații gestionate, consultați Utilizarea aplicațiilor Microsoft Edge pentru [iOS și Android pentru a accesa jurnalele de aplicații gestionate.](https://go.microsoft.com/fwlink/?linkid=2132578)

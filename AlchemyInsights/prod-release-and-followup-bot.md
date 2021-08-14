@@ -1,5 +1,5 @@
 ---
-title: 'Aplicații Azure V 1.2-faza 7: lansare și urmărire prod-bot'
+title: 'Azure Apps V1.2 - Faza 7: Lansarea și urmărirea prod - Bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009944"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Aplicații Azure V 1.2-faza 7: lansare și urmărire prod-bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 - Faza 7: Lansarea și urmărirea prod - Bot
 
-Ghidul de integrare a aplicațiilor de la [terți](https://admin.microsoft.com/AdminPortal/Home) vă va ajuta să executați următoarele activități: 
-- Integrarea aplicației Cloud de la terți cu Azure AD, 
-- Configurarea celei mai bune opțiuni de conectare pentru organizația dvs.
+Ghidul [de integrare a aplicațiilor de la](https://admin.microsoft.com/AdminPortal/Home) terți vă va ajuta să executați următoarele activități: 
+- Integrarea aplicației cloud de la terți cu Azure AD, 
+- Configurați cea mai bună opțiune de sign-on pentru organizația dvs.
 
-Prin integrarea aplicației și configurarea conectării unice, veți simplifica accesul, permițându-le utilizatorilor să lanseze aplicația din portalul **aplicațiile mele** din Office 365. Această simplificare Access va reduce numărul de solicitări de conectare sau le va elimina cu totul.
+Integrând aplicația și configurând sign-on unic, veți simplifica accesul, permițându-le utilizatorilor să lanseze aplicația din portalul Aplicațiile mele din Office 365.  Această simplificare a accesului va reduce numărul de solicitări de conectare sau le va elimina cu totul.
