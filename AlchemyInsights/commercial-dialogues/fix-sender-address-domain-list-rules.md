@@ -1,5 +1,5 @@
 ---
-title: Remedierea regulilor de adresă expeditor/listă de domenii
+title: Remedierea regulilor pentru Adresa expeditorului/Lista de domenii
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930037"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Remedierea regulilor de adresă expeditor/listă de domenii
+# <a name="fix-sender-addressdomain-list-rules"></a>Remedierea regulilor pentru Adresa expeditorului/Lista de domenii
 
-O politică anti-spam din entitatea găzduită a afectat acest mesaj. Expeditorul mesajului a fost găsit într-o listă de permisiuni sau de blocare. Pentru a revizui politica, procedați astfel:
+O politică antispam din entitatea dvs. găzduită a afectat acest mesaj. Expeditorul mesajului a fost găsit într-o listă de Permitere sau Blocare. Pentru a revizui politica, acțiunile următoare:
 
-1. Accesați centrul de [conformitate Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de **gestionare a amenințărilor**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pe fila **standard** , dacă este activată **Setarea standard** , bifați listele se **permit listele** și **blocarea**.
-3. Pe fila **particularizat** , dacă sunt activate **setările particularizate** , examinați politicile, selectând **Editare politică** și verificând listele se **permit liste** și **blocări**.
+1. Accesați Centrul de [Office 365 securitate &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de gestionare a  >  **amenințărilor**  >  [Antispam.](https://go.microsoft.com/fwlink/?linkid=2101518)
+2. Pe fila **Standard,** dacă este **activată opțiunea** Setări standard, bifați **listele Se permit și** Liste de **blocare.**
+3. Pe fila **Particularizate,** dacă este **activată** opțiunea Setări  personalizate, revizuiți politicile selectând Editați politica și verificând Listele de permitere **și** **Listele de blocare.**
 
-Pentru mai multe informații despre configurarea politicilor de filtrare antispam, consultați [Configurarea politicilor de filtrare antispam](https://go.microsoft.com/fwlink/?linkid=2101431).
+Pentru mai multe informații despre configurarea politicilor de filtrare antispam, consultați [Configurarea politicilor de filtrare antispam.](https://go.microsoft.com/fwlink/?linkid=2101431)

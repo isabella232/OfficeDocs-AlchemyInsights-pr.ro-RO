@@ -1,5 +1,5 @@
 ---
-title: Oprirea automată a mesajelor în arhivă
+title: Împiedicați mesajele să se mute automat în arhivă
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929965"
 ---
-# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Oprirea automată a mesajelor în arhivă
+# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Împiedicați mesajele să se mute automat în arhivă
 
-Dacă utilizați o politică de retenție, puteți modifica vârsta de retenție din acea politică pentru a opri automat mesajele să se arhiveze. Iată cum se procedează:
+Dacă utilizați o politică de retenție, puteți modifica vârsta de retenție din acea politică pentru a împiedica arhivarea automată a mesajelor. Iată cum se procedează:
 
-1. În [Centrul de administrare Exchange](https://go.microsoft.com/fwlink/?linkid=2059104), alegeți etichete de retenție pentru **gestionarea conformității**  >  . Găsiți mutarea pentru a arhiva eticheta de retenție.
-2. În eticheta retenție, modificați perioada de retenție (perioada de arhivare) pentru a **nu opri niciodată** elementele să fie arhivate automat de o politică de retenție.
+1. În centrul de [Exchange, alegeți etichetele](https://go.microsoft.com/fwlink/?linkid=2059104)de **retenție**  >  **pentru gestionarea conformității.** Găsiți eticheta de retenție Mutare la arhivă.
+2. În eticheta de reținere, modificați perioada  de conservare (perioada de arhivare) la Niciodată, pentru a nu opri arhivarea automată a elementelor printr-o politică de retenție.
 
 > [!NOTE]
-> Astfel, se va modifica setarea arhivă pentru toate cutiile poștale cu această etichetă de retenție aplicată.
+> Acest lucru va modifica setarea de arhivare pentru toate cutiile poștale, cu această etichetă de retenție aplicată.
