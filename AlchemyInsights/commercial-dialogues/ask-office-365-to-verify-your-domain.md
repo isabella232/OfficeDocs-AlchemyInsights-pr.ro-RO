@@ -1,5 +1,5 @@
 ---
-title: Solicitați Office 365 pentru a vă verifica domeniul
+title: Solicitați Office 365 să vă verifice domeniul
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949615"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Solicitați Office 365 pentru a vă verifica domeniul
+# <a name="ask-office-365-to-verify-your-domain"></a>Solicitați Office 365 să vă verifice domeniul
 
-Atunci când Office 365 găsește înregistrarea TXT corectă, domeniul este verificat. Pentru a solicita Office 365 pentru a vă verifica domeniul, efectuați pașii următori:
+Atunci Office 365 găsește înregistrarea TXT corectă, domeniul este verificat. Pentru a Office 365 să vă verifice domeniul, efectuați pașii următori:
 
-1. Asigurați-vă că vă aflați la pagina **verificare domeniu** . Dacă nu sunteți momentan în această pagină, alegeți **configurare > domenii**, alegeți domeniul pe care îl verificați, apoi faceți clic pe **Pornire configurare** sau pe **continuare configurare**. Aterizați pe pagina **verificare domeniu** .
+1. Asigurați-vă că vă a numărați **pe pagina Verificare** domeniu. Dacă nu vă abonați momentan la această pagină, alegeți **Configurare > Domenii**, alegeți domeniul pe care îl verificați, apoi faceți clic pe **Porniți configurarea** sau **continuați configurarea**. Ajuns la pagina **Verificare** domeniu.
 
-2. Faceți clic pe **Verificare**.
+2. Faceți **clic pe Verificare.**
 
-De obicei, durează aproximativ 15 minute pentru ca modificările DNS să aibă efect. Cu toate acestea, uneori, poate dura mai mult timp pentru o modificare pe care ați făcut-o pentru a o actualiza în sistemul DNS al internetului.
+De obicei, durează aproximativ 15 minute pentru ca modificările DNS să aibă efect. Cu toate acestea, uneori poate dura mai mult timp ca o modificare efectuată să se actualizeze în sistemul DNS din internet.
 

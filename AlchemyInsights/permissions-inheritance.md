@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: f086bd7312772b399146cd81261f147364d64665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd3cb78ca96953403bd0acc7e36e8466face0efd230d64dabcf055185c8ab12a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095302"
 ---
 # <a name="how-permissions-inheritance-works-in-sharepoint"></a>Cum funcționează moștenirea permisiunilor în SharePoint
 
-În mod implicit, permisiunile din SharePoint sunt moștenite de la mai sus în ierarhie. Prin urmare, un fișier își moștenește permisiunile din folder, care îi moștenește permisiunile din bibliotecă, care îi moștenește permisiunile de la site, care îi moștenește permisiunile din colecția de site-uri.
+În mod implicit, permisiunile din SharePoint sunt moștenite de la mai sus în ierarhie. Astfel, un fișier moștenește permisiunile de la folder, care moștenește permisiunile sale de la bibliotecă, care moștenește permisiunile de la site, care moștenește permisiunile sale de la colecția de site-uri.
   
-Pentru informații despre eliminarea permisiunilor unice și restaurarea moștenirii, consultați [editarea și gestionarea permisiunilor pentru o listă sau o bibliotecă](https://go.microsoft.com/fwlink/?linkid=869946).
+Pentru informații despre eliminarea permisiunilor unice și restaurarea moștenirii, consultați [Editarea și gestionarea permisiunilor pentru o listă sau o bibliotecă.](https://go.microsoft.com/fwlink/?linkid=869946)
   
 
