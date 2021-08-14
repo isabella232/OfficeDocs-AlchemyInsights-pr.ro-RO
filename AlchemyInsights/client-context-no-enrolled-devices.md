@@ -1,5 +1,5 @@
 ---
-title: Context client-fără dispozitive înrolate
+title: Contextul clientului - fără dispozitive înscrise
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930551"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Context client-fără dispozitive înrolate
+# <a name="client-context---no-enrolled-devices"></a>Contextul clientului - fără dispozitive înscrise
 
-Entitatea găzduită nu are dispozitive de gestionare a dispozitivelor mobile (MDM) cu Intune. Dacă doriți să vă înregistrați și să gestionați dispozitivele prin Intune MDM, consultați documentația de [aici](https://docs.microsoft.com/intune/device-enrollment) pentru platforma dorită. Dacă utilizați un terț sau doar caracteristici de protecție a aplicațiilor, nu este posibil să fie necesară nicio acțiune. 
+Entitatea dvs. găzduită nu are dispozitive înscrise cu Intune pentru managementul dispozitivelor mobile (MDM). Dacă doriți să vă înscrieți și să vă gestionați dispozitivele prin Intune MDM, revizuiți [documentația aici](https://docs.microsoft.com/intune/device-enrollment) pentru platforma dorită. Dacă utilizați un MDM terț sau doar caracteristicile protecției aplicațiilor, nu poate fi necesară nicio acțiune. 
