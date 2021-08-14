@@ -1,5 +1,5 @@
 ---
-title: Cum să configurați și să activați Participantul automat Teams
+title: Instalarea și activarea Teams automat
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b54108c9df524f97b111a17952cfc8dfb5f2e8aa09cdf105e9452fcc27dc1028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921703"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>Configurarea unui operator automat Cloud
 
-În prezent, operatorii automați au cerințe de licențiere specifice. Consultați [Ce sunt operatorii automați Cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) pentru a afla despre crearea și configurarea operatorului automat Teams. 
+În prezent, operatorii automați au cerințe de licențiere specifice. Consultați [Ce sunt operatorii automați cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) pentru a afla despre crearea și configurarea Teams automați. 
 
 Pentru mai multe informații, consultați:
 
 - [Configurați un operator automat Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) cu Microsoft Teams. 
-- [Creați o coadă de așteptare în cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) cu Microsoft Teams. 
-- [Răspundeți la apelurile operatorului automat și la coada de așteptare a apelurilor direct din Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
+- [Creați o coadă de așteptare în](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) cloud cu Microsoft Teams. 
+- [Răspundeți la apelurile operatorului automat și la coada de așteptare a apelurilor direct din Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 

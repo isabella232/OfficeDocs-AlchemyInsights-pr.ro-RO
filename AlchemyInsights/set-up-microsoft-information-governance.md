@@ -1,5 +1,5 @@
 ---
-title: Configurarea guvernanței informațiilor Microsoft
+title: Configurarea guvernării informațiilor Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921631"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Configurarea guvernanței informațiilor Microsoft
+# <a name="set-up-microsoft-information-governance"></a>Configurarea guvernării informațiilor Microsoft
 
-[Ghidul de configurare pentru guvernanța informațiilor Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) vă oferă informațiile de care va trebui să configurați și să gestionați strategia de guvernanță a Organizației dvs., pentru a vă asigura că datele sunt clasificate și gestionate în conformitate cu regulile specifice ale ciclului de viață pe care le setați.
+Ghidul de configurare a guvernării informațiilor [Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) vă oferă informațiile necesare pentru a configura și a gestiona strategia de guvernanță a organizației dvs., pentru a vă asigura că datele dvs. sunt clasificate și gestionate în conformitate cu instrucțiunile specifice privind ciclul de viață pe care le setați.
 
-Cu acest ghid, veți învăța cum să creați, să aplicați automat sau să publicați etichete, politici de etichetare și politici de retenție care se aplică la conținutul reutilizabil al organizației și la înregistrările conformității. De asemenea, veți primi informații despre importul fișierelor CSV cu un plan de fișier pentru scenarii masive sau pentru a le aplica manual la documente individuale.
+Cu acest ghid, veți afla cum să creați, să aplicați automat sau să publicați etichete, politici de etichete și politici de retenție care se aplică la înregistrările de conținut și de conformitate reutilizabile ale organizației. De asemenea, veți obține informații despre importul fișierelor CSV cu un plan de fișiere pentru scenarii în bloc sau pentru aplicarea manuală a acestora la documente individuale.

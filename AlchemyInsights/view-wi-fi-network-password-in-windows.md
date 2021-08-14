@@ -1,5 +1,5 @@
 ---
-title: Vizualizarea Wi-Fi parola de rețea în Windows 10
+title: Vizualizarea Wi-Fi de rețea în Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990159"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Vizualizarea Wi-Fi parola de rețea în Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Vizualizarea Wi-Fi de rețea în Windows 10
 
-1. Asigurați-vă că PC-ul Windows 10 este conectat Wi-Fi rețea.
+1. Asigurați-vă Windows 10 PC-ul dvs. este conectat Wi-Fi rețea.
 
-2. Accesați Setări **> Network & Internet > Status** sau faceți clic [](ms-settings:network?activationSource=GetHelp) sau atingeți aici pentru a vă duce acolo acum.)
+2. Accesați Network **Setări > Network & Internet > Status**(Stare internet) sau faceți clic sau atingeți aici pentru a vă duce acolo acum.) [](ms-settings:network?activationSource=GetHelp)
 
 3. Faceți **clic pe Centru rețea și partajare.**
 

@@ -1,5 +1,5 @@
 ---
-title: Nu puteți încărca o imagine într-un chat teams
+title: Nu puteți încărca o imagine într-un chat Teams chat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930813"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Nu puteți încărca o imagine într-un chat teams
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Nu puteți încărca o imagine într-un chat Teams chat
 
 Sugestii de depanare:
 
-- Dacă utilizați teams pe web, încercați un alt browser. Pentru o listă de browsere acceptate, consultați secțiunea "browsere" a [limitelor și specificațiilor pentru Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Verificați compatibilitatea hardware-ului și sistemului de operare. Pentru mai multe informații, consultați [cerințe de hardware pentru Microsoft teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Verificați dacă aveți cea mai recentă versiune teams. Pentru mai multe informații, consultați [procesul de actualizare a teams](https://docs.microsoft.com/microsoftteams/teams-client-update) pentru detalii.
+- Dacă utilizați aplicații Teams pe web, încercați un alt browser. Pentru o listă de browsere acceptate, consultați secțiunea "Browsere" din [Limite și specificații pentru Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Verificați compatibilitatea hardware-ului și sistemul de operare. Pentru mai multe informații, [consultați Cerințe de hardware pentru Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Verificați dacă aveți cea mai recentă Teams versiune. Pentru mai multe informații, [consultați Teams de actualizare](https://docs.microsoft.com/microsoftteams/teams-client-update) pentru detalii.
