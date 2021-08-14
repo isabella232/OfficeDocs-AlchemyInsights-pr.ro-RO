@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988811"
 ---
 # <a name="create-a-journal-rule"></a>Crearea unei reguli de jurnal
 
 Iată cum se procedează:
 
-1. În [Centrul de administrare Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104), accesați regulile de jurnal de **gestionare a conformității**  >  , apoi selectați pictograma **Adăugare (+)** .
-2. În **regula jurnal nou**, furnizați un nume pentru regula de jurnal, apoi concurați cu următoarele câmpuri:  
-    - **Trimitere rapoarte jurnal către**: Introduceți adresa cutiei poștale de jurnal care va primi toate rapoartele de jurnal.  
-    - **Dacă mesajul este trimis sau primit de la**: specificați destinatarul pe care îl va viza regula. Puteți fie să selectați un anumit destinatar, fie să aplicați regula la toate mesajele.  
-    - **Jurnalați următoarele mesaje**: specificați domeniul regulii de jurnal. Puteți să jurnalați doar mesajele interne, doar mesajele externe sau toate mesajele, indiferent de origine sau de destinație.
+1. În centrul [Exchange administrare](https://go.microsoft.com/fwlink/p/?linkid=2059104), accesați Reguli jurnal de **gestionare** a conformității ,  >  apoi selectați **pictograma Adăugare (+).**
+2. În **noua regulă de jurnal,** furnizați un nume pentru regula de jurnal și apoi concurați cu următoarele câmpuri:  
+    - **Trimiteți rapoarte jurnal** către : introduceți adresa cutiei poștale de jurnal care va primi toate rapoartele de jurnal.  
+    - **Dacă mesajul este trimis către sau primit de la**: Specificați destinatarul care va fi țintit de regulă. Puteți fie să selectați un anumit destinatar, fie să aplicați regula la toate mesajele.  
+    - **Jurnal pentru următoarele mesaje:** Specificați domeniul regulii de jurnal. Puteți jurnali doar mesajele interne, doar mesajele externe sau toate mesajele, indiferent de origine sau destinație.
 3. Selectați **Salvare** pentru a crea regula de jurnal.

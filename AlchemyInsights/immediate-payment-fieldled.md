@@ -1,5 +1,5 @@
 ---
-title: Efectuarea unei plăți imediate
+title: Faceți o plată imediată
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945241"
 ---
-# <a name="make-an-immediate-payment"></a>Efectuarea unei plăți imediate
+# <a name="make-an-immediate-payment"></a>Faceți o plată imediată
 
-În funcție de Descrierea problemei, am găsit o soluție pentru dvs. Majoritatea clienților au putut să își rezolve singuri problema după ce au urmărit documentația noastră.
+Pe baza descrierii problemei, am găsit o soluție pentru dvs. Majoritatea clienților au reușit să-și rezolve singuri problema după ce au urmărit documentația.
 
-Cu un acord pentru clienți Microsoft (MCA), metodele de plată sunt asociate cu [profilurile de facturare](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile).
+Cu un acord Microsoft pentru clienți (MCA), metodele de plată sunt asociate cu [profilurile de facturare.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 
-Dacă aveți o companie MCA, metoda de plată implicită este prin cec sau transfer bancar. După ce ați primit prima factură, veți putea găsi instrucțiuni pentru plata prin cec sau transfer bancar în partea de jos a primei pagini a facturii.
+Dacă aveți o firmă MCA, metoda de plată implicită este transfer bancar sau chiar transfer bancar. După ce ați primit prima factură, veți putea găsi instrucțiuni pentru a afla cum să plătiți prin facturare sau transfer bancar în partea de jos a primei pagini a facturii.
 
-Pentru a plăti facturi cu cardul de credit în portalul Azure, trebuie să aveți un cont de facturare, un proprietar de profil de facturare sau un rol de colaborator.
+Pentru a plăti facturile cu cardul de credit în portalul Azure, trebuie să aveți un cont de facturare, un proprietar de profil de facturare sau un rol de colaborator.
 
-1. Conectați-vă la [portalul Azure](https://portal.azure.com/).
-2. Căutați *gestionarea costurilor + facturare*.
-3. În meniul din stânga, selectați **facturi**   sub *Facturare*.
-4. Dacă vreuna dintre facturi este scadentă sau scadentă, veți vedea un link cu *plată albastră acum*   pentru acea factură. Selectați **plătiți acum**.
-5. În noua lamă, faceți clic pe **Selectați o metodă de plată**   pentru a alege un card de credit existent sau adăugați unul nou.
-6. După ce se selectează metoda de plată, faceți clic pe **plătiți acum**.
+1. Conectați-vă [la portalul Azure.](https://portal.azure.com/)
+2. Căutați *Gestionare costuri + facturare.*
+3. În meniul din stânga, **selectați Facturi**   sub *Facturare.*
+4. Dacă vreuna dintre facturile dvs. este scadentă sau scadentă, veți vedea un link albastru *Plătiți*   acum pentru acea factură. Selectați **Plătiți acum.**
+5. În noul blade, faceți clic **pe Selectați o metodă de plată** pentru a alege un card de credit existent sau pentru a adăuga unul   nou.
+6. După ce este selectată metoda de plată, faceți clic **pe Plătiți acum.**
 
-Starea facturii va fi actualizată la plată în lama facturi.
+Starea facturii va fi actualizată la plata prin blade pentru facturi.
 
 **Documente recomandate**
 
-- [Schimbarea metodei de plată-întrebări frecvente](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Modificarea metodei de plată pentru un profil de facturare](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Verificarea accesului la un contract de client Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
-- [Roluri de facturare pentru contractele de clienți Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Schimbați metoda de plată - Întrebări frecvente](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Schimbarea metodei de plată pentru un profil de facturare](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Verificarea accesului la un Acord pentru clienți Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Roluri de facturare pentru Acordurile clienților Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

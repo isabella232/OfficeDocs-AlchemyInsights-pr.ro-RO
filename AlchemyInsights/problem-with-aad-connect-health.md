@@ -1,5 +1,5 @@
 ---
-title: Problemă cu AAD Connect Health
+title: Problemă cu starea Conectare AAD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923764"
 ---
-# <a name="problem-with-aad-connect-health"></a>Problemă cu AAD Connect Health
+# <a name="problem-with-aad-connect-health"></a>Problemă cu starea Conectare AAD
 
-- Asigurați-vă că sunteți autorizat să efectuați operațiunea. Administratorii globali au acces în mod implicit. În plus, puteți utiliza [controlul Access bazat pe roluri](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) pentru a delega permisiunea de înregistrare la colaborator.
-- Asigurați-vă că punctele finale necesare sunt activate și nu sunt blocate din cauza firewallului. Pentru detalii, consultați [cerințe](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Înregistrarea poate să nu reușească din cauza comunicării de ieșire supusă inspecției SSL de către stratul de rețea.
-- Asigurați-vă că ați verificat setările de notificare pentru Azure AD Connect Health. Vă rugăm să vă revizuiți setarea. Acest [Ghid](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) vă poate ajuta să înțelegeți cum să configurați setările de notificare pentru notificările de sănătate Azure AD Connect.
-- Pentru a afla mai multe despre raportul de sincronizare de la AAD Connect Health și despre cum să îl descărcați, consultați [raportul de sincronizare la nivel de obiect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Asigurați-vă că sunteți autorizat să efectuați operațiunea. Administratorii globali au acces în mod implicit. În plus, puteți utiliza Controlul accesului [pe bază de rol pentru](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) a delega permisiunea de înregistrare la Colaborator.
+- Asigurați-vă că punctele finale necesare sunt activate, nu blocate din cauza firewallului. Pentru detalii, consultați [cerințele](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Înregistrarea poate să nu reușească din cauza comunicațiilor de ieșire care sunt supuse inspectării SSL la nivel de rețea.
+- Asigurați-vă că ați verificat setările de notificare pentru Azure AD Conectare Health. Revizuiți setarea. Acest [ghid vă](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) poate ajuta să înțelegeți cum să configurați setările de notificare pentru Azure AD Conectare de sănătate.
+- Pentru a afla mai multe despre AAD și Conectare sincronizare stare și cum să-l descărcați, consultați Raportul de sincronizare [la nivel de obiect.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Pentru a depana avertizările de sănătate din Dan Connect, urmați [Ghidul de depanare pentru depanarea alertelor de stare a stării de sănătate](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) și pentru întrebări frecvente, consultați [întrebări comune despre instalarea](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)problemelor de sănătate.
+Pentru a depana avertizările AAD Conectare Pentru mai multe informații despre sănătate, urmați Ghidul de depanare pentru avertizările privind starea de sănătate din [AAD Conectare](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Și pentru întrebări frecvente, consultați Întrebări comune despre instalarea datelor pentru [AAD Conectare](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)Health .
