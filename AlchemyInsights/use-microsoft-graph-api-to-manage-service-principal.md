@@ -1,5 +1,5 @@
 ---
-title: Utilizați Microsoft Graph API pentru a gestiona directorul de servicii
+title: Utilizarea API Microsoft Graph pentru a gestiona principalul serviciu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038016"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Utilizați Microsoft Graph API pentru a gestiona directorul de servicii
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Utilizarea API Microsoft Graph pentru a gestiona principalul serviciu
 
-Cu API-ul [principal de serviciu](https://docs.microsoft.com/graph/api/resources/serviceprincipal), puteți să gestionați prin programare instanțele aplicațiilor și să controlați ce poate face o aplicație în cadrul entității găzduite.
+Cu [API-ul principal al serviciului,](https://docs.microsoft.com/graph/api/resources/serviceprincipal)puteți să gestionați prin programare instanțe ale aplicațiilor și să controlați ce poate face o aplicație în cadrul entității găzduite.
 
-Pentru mai multe informații despre relația dintre aplicații și directori de servicii, consultați [obiecte principale aplicații și servicii din Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Pentru mai multe informații despre relația dintre aplicații și principale de serviciu, consultați Aplicațiile și obiectele [principale de serviciu din Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978785"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Modificări ale extragerea numelui firmei în SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Modificări ale extragerea numelui firmei SharePoint Online
 
-Începând cu 15 noiembrie 2019, vom elimina extragerea numelui firmei [din SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Extragerea numelor firmei în SharePoint permite sistemului de căutare să extragă nume de firme din conținutul dintr-un set specific de condiții utilizând un dicționar prepopulat sau utilizând listele Includeri firmă sau Excluderi de firmă. În timp ce extragerea numelui firmei a devenit o soluție bazată pentru a deduce unul sau mai multe nume de firme din conținutul SharePoint Online, atât dicționarul, cât și setul de caracteristici subiacent au devenit depășite.
+Începând cu data de 15 noiembrie 2019, vom elimina extragerea numelui firmei [din SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Extragerea numelor de firmă din SharePoint permite sistemului de căutare să extragă nume de firme din conținutul dintr-un set specific de condiții utilizând un dicționar prepopulat sau utilizând listele Includeri firmă sau Excluderi firmă. În timp ce extragerea numelui firmei a devenit o soluție bazează pentru a deduce unul sau mai multe nume de firme din conținutul din SharePoint Online, atât dicționarul, cât și setul de caracteristici subiacent au devenit depășite.
 
 - [Cum știu dacă extragerea numelui firmei este activată pentru o proprietate?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

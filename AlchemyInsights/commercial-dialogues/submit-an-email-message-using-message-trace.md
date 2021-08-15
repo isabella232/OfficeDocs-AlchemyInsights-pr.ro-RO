@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a3d7edf0be0e7ddaf749399327868d7fdea9f980
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978857"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Remiterea unui mesaj de e-mail utilizând urmărirea mesajelor
 
-1. Accesați centrul de [conformitate Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi mergeți la urmărirea **mesajului flux de corespondență**  >  [](https://go.microsoft.com/fwlink/?linkid=2101048).
-2. Selectați **+ Începeți o urmărire**.
-3. Parcurgeți opțiunile prezentate. Selectați destinatarii și expeditorii, apoi ajustați intervalul de date, după cum este necesar. Puteți să lăsați setările implicite pentru opțiunile rămase.
-4. Selectați **Căutare**. O listă de mesaje de e-mail se va afișa pe baza criteriilor de căutare. Faceți dublu clic pe mesajul pe care doriți să-l trimiteți, apoi selectați **Remitere mesaj**.
-5. Pentru a afla mai multe, consultați [urmărirea mesajelor în centrul de conformitate & de securitate](https://go.microsoft.com/fwlink/?linkid=2101557).
+1. Accesați Centrul de [Office 365 de &](https://go.microsoft.com/fwlink/p/?linkid=2077143)conformitate , apoi accesați Urmărire mesaj flux **de**  >  [corespondență.](https://go.microsoft.com/fwlink/?linkid=2101048)
+2. Selectați **+ Începeți o trasare**.
+3. Prezentați opțiunile prezentate. Selectați destinatarii și expeditorii, apoi ajustați intervalul de date după cum este necesar. Puteți lăsa setările implicite pentru opțiunile rămase.
+4. Selectați **Căutare**. Se va afișa o listă de mesaje de e-mail în funcție de criteriile de căutare. Faceți dublu clic pe mesajul pe care doriți să-l remiteți, apoi selectați **Remitere mesaj**.
+5. Pentru mai multe informații, consultați [Urmărirea mesajelor în Centrul de & conformitate](https://go.microsoft.com/fwlink/?linkid=2101557).
