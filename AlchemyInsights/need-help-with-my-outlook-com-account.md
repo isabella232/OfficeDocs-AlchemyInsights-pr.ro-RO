@@ -1,5 +1,5 @@
 ---
-title: Am nevoie de ajutor pentru contul Outlook.com personal
+title: Aveți nevoie de ajutor cu contul Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b2e5e92eb009f7027e9795e358485f3d22e979fb7126285694dd2b3a7ea70b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025766"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Am nevoie de ajutor pentru contul Outlook.com personal
+# <a name="need-help-with-my-outlookcom-account"></a>Aveți nevoie de ajutor cu contul Outlook.com
 
-Dacă aveți nevoie de ajutor pentru serviciul Outlook.com, am dedicat ajutor pentru a vă asista. Pentru a obține asistență direct pe aplicația web: 
+Dacă aveți nevoie de ajutor cu serviciul Outlook.com, am dedicat ajutor pentru a vă asista. Pentru a obține asistență direct pe aplicația web: 
 
 1. Faceți clic pe ? din partea din dreapta sus a ecranului. 
 
