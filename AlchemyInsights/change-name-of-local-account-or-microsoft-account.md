@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017828"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Modificarea numelui unui cont local sau al unui cont Microsoft
 
-Dacă utilizați doar un nume de utilizator și o parolă pentru a vă conecta la Windows 10, utilizați un cont local. 
+Dacă utilizați doar un nume de utilizator și o parolă pentru a vă conecta Windows 10, utilizați un cont local. 
 
 **Pentru a modifica numele unui cont local:**
 
@@ -37,7 +37,7 @@ Dacă utilizați o adresă de e-mail și o parolă pentru a vă conecta, utiliza
 
 **Pentru a modifica numele afișat al contului Microsoft:**
 
-Utilizați numele afișat de fiecare dată când vă conectați la cont. Este, de asemenea, numele pe care îl vedeți pe dispozitivele Windows 10 și este numele pe care îl văd alte persoane atunci când trimiteți mesaje de e-mail. Acest nume poate diferi de numele afișat al contului local. Iată cum să vă modificați numele afișat:
+Utilizați numele afișat de fiecare dată când vă conectați la cont. De asemenea, este numele pe care îl vedeți pe dispozitivele Windows 10 și este numele pe care îl văd alte persoane atunci când trimiteți mesaje de e-mail. Acest nume poate diferi de numele afișat al contului local. Iată cum să vă modificați numele afișat:
 
 1. Conectați-vă la pagina **Informațiile dvs.** de pe site-ul [web al contului Microsoft.](https://account.microsoft.com/)
 

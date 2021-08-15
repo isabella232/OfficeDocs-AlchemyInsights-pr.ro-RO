@@ -14,16 +14,16 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: b9e333fb229f0a8c1717e11829232dca80b591d3
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 9247277180a7245ab4b5635ec9e93f57f189e3ac8c5d71f39505616ff4cf0603
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026558"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrarea la SharePoint Online prin intermediul Managerului de Migrare
 
-Situat în Centrul de Administrare SharePoint modern, Managerul de Migrare vă ghidează prin configurarea clienților și crearea activităților. Aveți posibilitatea să specificați setările nivelurilor globale sau de activitate, să vizualizați progresul activității, să descărcați rezumatele agregate și rapoartele la nivel de activitate.
+Situat în Centrul de Administrare SharePoint modern, Managerul de Migrare vă ghidează prin configurarea clienților și crearea activităților. Puteți să specificați setări globale sau la nivel de activitate, să vizualizați progresul activității în ansamblu și să descărcați rapoarte rezumative și la nivel de activitate.
 
 * [Începeți lucrul cu Managerul de Migrare](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 * [Configurarea clienților Managerului de Migrare](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)

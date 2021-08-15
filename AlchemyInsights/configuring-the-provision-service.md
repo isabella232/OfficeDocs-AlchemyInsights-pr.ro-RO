@@ -1,5 +1,5 @@
 ---
-title: Configurarea serviciului de furnizare
+title: Configurarea serviciului de furnizare a accesului
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033290"
 ---
-# <a name="configuring-the-provision-service"></a>Configurarea serviciului de furnizare
+# <a name="configuring-the-provision-service"></a>Configurarea serviciului de furnizare a accesului
 
-Pentru ca utilizatorul să aibă acces automat la serviciu, Azure AD necesită acreditări valide care îi permit să se conecteze la ziua de lucru Web Services API. Mai departe, butonul de test de conexiune de la data de lucru la aplicația de asigurare a accesului pentru utilizatori AD validează, de asemenea, dacă se poate conecta la agentul Azure AD Connect Provisioning asociat domeniului de publicitate.
+Pentru ca asigurarea accesului automat al utilizatorilor să lucreze, Azure AD necesită acreditări valide care îi permit să se conecteze la API Workday Web Services. În continuare, butonul Testare conexiune din ziua de lucru la aplicația Asigurare acces pentru utilizatorii AD validează și dacă se poate conecta la Agentul de furnizare a accesului Azure AD Conectare asociat cu domeniul AD.
 
-Dacă portalul Azure returnează o eroare la salvarea acreditărilor, urmați pașii de mai jos:
+Dacă portalul Azure returnează o eroare la salvarea acreditărilor, urmați pașii recomandați de mai jos:
 
-1. Confirmați că ați configurat contul de utilizator al sistemului de integrare lucrătoare, așa cum se indică în secțiunea tutorial, [configurați utilizatorul sistemului de integrare în ziua de](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)lucru.
-2. Confirmați că serviciul de agent de furnizare Azure AD Connect este în funcțiune pe serverul Windows local, utilizând consola de gestionare a serviciilor. De asemenea, puteți să verificați starea agentului în portalul Azure, făcând clic pe butonul Vizualizare agenți locali.
-3. Asigurați-vă că introduceți valoarea pentru câmpul "zi de lucru nume", utilizând formatul username@workday-entitatea găzduită. Dacă numele de zi de lucru-entitatea găzduită lipsește, autentificarea zilei de lucru nu reușește.
-4. În cazul în care configurați integrarea cu entitatea găzduită de execuție de zile lucrătoare, notați orele de downtime programate ale entității găzduite lucrătoare. Ziua de lucru a programat timp pentru entitățile găzduite de implementare în week-end (de obicei, de vineri seara până sâmbătă dimineață) și erorile de conectivitate din această fereastră de nefuncționare este o problemă cunoscută care se rezolvă automat imediat ce entitățile găzduite de implementare sunt din nou online.
-5. În cazuri rare, este posibil să vedeți această eroare și dacă parola utilizatorului sistemului de integrare s-a modificat din cauza reîmprospătării entității găzduite sau dacă contul este în stare blocată sau expirată. Vă rugăm să verificați starea utilizatorului de sistem de integrare cu administratorul zilei de lucru.
+1. Confirmați că ați configurat Contul de utilizator pentru integrarea cu workday, după cum se precizează în secțiunea de tutorial Configurarea utilizatorului [sistemului de integrare în Workday.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
+2. Confirmați că Serviciul agent de Conectare Azure AD Conectare este activat și rulează pe serverul dvs. Windows local, utilizând Consola de gestionare a serviciilor. De asemenea, puteți verifica starea agentului în portalul Azure, făcând clic pe butonul Vizualizare agenți locali.
+3. Asigurați-vă că introduceți valoarea pentru câmpul "Nume utilizator zi lucrătoare" utilizând formatul username@workday-numele entității găzduite. Dacă lipsește numele de entitate găzduită al zilei de lucru, autentificarea pentru ziua de lucru nu reușește.
+4. Dacă configurați integrarea cu entitatea găzduită de implementare Workday, rețineți orele de neconfigurate ale entității găzduite pentru zilele lucrătoare. Ziua de lucru a programat o perioadă de neimplementarea entităților găzduite în weekend (de obicei, de vineri seara până sâmbătă dimineața) și erorile de conectivitate din timpul acestei ferestre de neconectare este o problemă cunoscută care se rezolvă automat imediat ce entitățile găzduite de implementare revin online.
+5. În cazuri rare, este posibil să vedeți această eroare și dacă parola utilizatorului de sistem de integrare s-a modificat din cauza reîmprospătării entității găzduite sau dacă contul este în starea blocat sau expirat. Verificați starea utilizatorului Sistem de integrare cu administratorul dvs. de zi de lucru.
 
-Pentru mai multe detalii despre configurarea zilei de lucru pentru asigurarea accesului automat, consultați [Tutorial: Configurarea zilei de lucru pentru asigurarea accesului automat la utilizatori](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Pentru mai multe detalii despre configurarea zilei de lucru pentru asigurarea automată a accesului, consultați Tutorial: Configurarea zilei de lucru pentru asigurarea automată [a accesului utilizatorilor.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)

@@ -1,5 +1,5 @@
 ---
-title: Oprirea mesajelor de acces la folderul E-mail nedorit din Outlook.com
+title: Împiedicați mesajele să nu mai fie trimise în folderul E-mail nedorit din Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041130"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Oprirea mesajelor de acces la folderul E-mail nedorit
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Împiedicați mesajele să vă duce la folderul de E-mailuri nedorite
 
-Dacă descoperiți că un mesaj de e-mail în folderul E-mail nedorit din Outlook.com nu este nedorit:
+Dacă descoperiți că un mesaj de e-mail din folderul E-mail nedorit din Outlook.com nu este nedorit:
 
-1. Deschideți [folderul e-mail nedorit](https://outlook.live.com/mail/junkemail).
-1. Selectați mesajul. (*Notă:* elementele din folderul E-mail nedorit sunt șterse după 30 de zile.)
-1. Deasupra listei de mesaje, selectați **Not junk**  >  **Not junk**.
+1. Deschideți folderul [E-mail nedorit.](https://outlook.live.com/mail/junkemail)
+1. Selectați mesajul. (*Notă:* Elementele din folderul E-mail nedorit se șterg după 30 de zile.)
+1. Deasupra listei de mesaje, selectați **Nu este nedorit**  >  **.**
 
-Dacă doriți să împiedicați mesajele de la un expeditor să ajungă în folderul E-mail nedorit, adăugați expeditorul la lista de expeditori siguri:
+Dacă doriți să împiedicați mesajele de la un expeditor sări în folderul E-mail nedorit, adăugați expeditorul în lista de expeditori siguri:
 
-1. Deschideți [setările de e-mail nedorit](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Sub **Expeditori și domenii sigure**, selectați **Adăugare**, introduceți adresa de e-mail sau domeniul pe care doriți să-l adăugați și selectați **Salvare**.
+1. Deschideți setările [E-mail nedorit.](https://go.microsoft.com/fwlink/?linkid=2035804)
+1. Sub **Seif și domeniile**, selectați Adăugare , introduceți adresa de e-mail sau domeniul pe care doriți să le adăugați și selectați **Salvare**. 
 
-Pentru a afla mai multe, citiți [marcarea mesajelor de e-mail ca expeditori nedoriți sau blocați în Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Pentru a afla mai multe, [citiți Marcați mesajele de e-mail ca nedorite sau blocați expeditorii Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

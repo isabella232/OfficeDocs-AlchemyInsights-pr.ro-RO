@@ -1,5 +1,5 @@
 ---
-title: profil de ștergere 1800001
+title: 1800001 Ștergere profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005534"
 ---
 # <a name="delete-a-profile"></a>Ștergerea unui profil
 
-Pentru a șterge un profil, utilizați pașii următori.
+Pentru a șterge un profil, urmați acești pași.
   
-1. În Outlook, selectați **File** \> **Setări cont** fișier \> **gestionarea profilurilor**.
+1. În Outlook, selectați  \> **Cont fișier Setări** Gestionare \> **profiluri.**
 
-2. Selectați **Afișare profiluri**.
+2. Selectați **Afișare profiluri.**
 
-3. În caseta de dialog **corespondență** , selectați profilul pe care doriți să-l ștergeți, apoi faceți clic pe **Eliminare**.
+3. În caseta de dialog **Corespondență,** selectați profilul pe care doriți să-l ștergeți, apoi faceți clic **pe Eliminare.**
 
     > [!NOTE]
-    > Outlook vă poate avertiza că ștergerea profilului va elimina datele offline. Nu veți pierde nicio informație stocată în fișierele de date Outlook (. pst) sau orice informații stocate în conturile online, de exemplu Outlook.com, Exchange sau conturi Microsoft 365.
+    > Outlook vă poate avertiza că ștergerea profilului va elimina datele offline. Nu veți pierde informațiile stocate în fișierele dvs. de date Outlook (.pst) sau informațiile stocate în conturile dvs. online, cum ar fi conturile Outlook.com, Exchange sau Microsoft 365.
   
-Pentru gestionarea profilurilor **Outlook pentru Mac** , consultați [gestionarea profilurilor sau a identităților în Outlook pentru Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) sau utilizarea următoarelor pași.
+Pentru **Outlook gestionarea profilului Mac,** consultați Gestionarea profilurilor sau identităților [în Outlook pentru Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) sau urmați acești pași.
   
-1. Din Finder, deschideți folderul **Applications** .
+1. Din Finder, deschideți **folderul** Aplicații.
 
-2. Apăsați Ctrl + clic sau faceți clic dreapta pe **Microsoft Outlook**, apoi selectați **Afișați conținutul pachetului**.
+2. Apăsați Ctrl+clic sau faceți clic dreapta **pe Microsoft Outlook**, apoi selectați **Afișați conținutul pachetului**.
 
-3. Selectați **conținut** \> **suport partajat**, apoi lansați **Outlook Profile Manager**.
+3. Selectați  \> **Conținut partajat Asistență**, apoi lansați Outlook de **profil.**

@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: db2360baaf94d322f97c56c37af492f7c37b900b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 1de8ee459689287eca449694568145c516af5009cf39e237f3f82bdeb27403e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994913"
 ---
 # <a name="set-up-an-email-signature-in-outlook-for-ios"></a>Configurarea unei semnături de e-mail în Outlook pentru iOS
 
-Există o mulțime de resurse extraordinare pe Internet care explică modul în care se face acest lucru. Vă rugăm să căutați pe Internet: "cum să configurați o semnătură de e-mail în Outlook pentru iOS"
+Există multe resurse grozave pe internet care vă arată cum să faceți acest lucru. Căutați pe internet: "Cum să configurați o semnătură de e-mail în Outlook pentru iOS"
