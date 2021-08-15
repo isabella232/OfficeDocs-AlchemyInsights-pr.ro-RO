@@ -1,5 +1,5 @@
 ---
-title: Erorile de sincronizare pentru înregistrare automată a dispozitivelor Apple
+title: Erori de sincronizare automată a înscrierii dispozitivelor Apple
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013760"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Erorile de sincronizare pentru înregistrare automată a dispozitivelor Apple
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Erori de sincronizare automată a înscrierii dispozitivelor Apple
 
-"Am detectat că aveți unul sau mai multe simboluri ADE/DEP care se află într-o stare de eroare. Până când starea erorii este rezolvată pentru fiecare simbol afectat, funcționalitatea ADE nu va funcționa așa cum vă așteptați. ".
+"Am detectat că aveți unul sau mai multe simboluri ADE/DEP, care se află într-o stare de eroare. Până când se rezolvă starea de eroare pentru fiecare simbol afectat, funcționalitatea ADE nu va funcționa așa cum vă așteptați.".
 
-Această eroare s-ar putea manifesta în mai multe moduri, inclusiv:
+Această eroare se poate manifesta în mai multe moduri, inclusiv:
 
-1. Este posibil ca dispozitivele să nu se sincronizeze de la ABM/ASM la Intune
-2. Atribuirile de profil de înscriere pot fi nereușite
+1. Dispozitivele nu se pot sincroniza din ABM/ASM cu Intune
+2. Este posibil ca atribuirile de profil de înscriere să nu reușesc
 3. Este posibil ca dispozitivele să nu finalizeze cu succes înscrierea ADE
 
-Verificați dacă eroarea de sincronizare a fost raportată în consola Intune de sub **dispozitive > Înscrieți dispozitivele > înscriere Apple > token**-ul programului de înscriere.
+Căutați eroarea de sincronizare raportată în consola Intune sub Dispozitive **> Înscrieți dispozitivele > înscrierea Apple > simboluri pentru** programul de înscriere .
 
-Una dintre cele mai comune cauze ale erorii de sincronizare este expirarea simbolului curent. În multe cazuri, reînnoirea simbolului afectat va rezolva problema.
+Una dintre cele mai comune cauze ale erorii de sincronizare este expirarea tokenului curent. În multe cazuri, reînnoirea tokenului afectat va rezolva problema.
 
-Dacă una sau mai multe dintre jetoane a expirat, consultați următoarea documentație pentru a vă ajuta să le reînnoiți, după cum este necesar:
+Dacă unul sau mai multe simboluri au expirat, consultați documentația următoare pentru a vă ajuta să le reînnoiți după cum este necesar:
 
-[Reînnoirea unui simbol de înscriere automată a dispozitivelor](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+[Reînnoiți un token de înscriere automată a dispozitivului](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-În plus, puteți vedea următoarea documentație pentru a vedea potențialele remedieri pentru alte erori care cauzează erorile de sincronizare a tokenului:
+În plus, puteți vedea documentația următoare pentru a vedea remedierile potențiale pentru alte erori care provoacă erori de sincronizare a simbolurilor:
 
-[Erorile de sincronizare ABM/ASM pentru token-ul de înscriere a dispozitivelor automate pentru iOS/iPadOS și macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
-
-
+[Erori de sincronizare ABM/ASM pentru simbolurile de înscriere automată a dispozitivelor pe iOS/iPadOS și macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
 
 
-[Erorile de sincronizare ABM/ASM pentru token-ul de înscriere a dispozitivelor automate pentru iOS/iPadOS și macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+
+
+[Erori de sincronizare ABM/ASM pentru simbolurile de înscriere automată a dispozitivelor pe iOS/iPadOS și macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

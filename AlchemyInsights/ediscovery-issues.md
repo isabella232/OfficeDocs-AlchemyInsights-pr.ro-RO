@@ -1,5 +1,5 @@
 ---
-title: 1829-eDiscovery-probleme
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030437"
 ---
-# <a name="ediscovery-issues"></a>probleme cu eDiscovery
+# <a name="ediscovery-issues"></a>Probleme de descoperire a informațiilor electronic
 
-Căutați opțiuni eDiscovery? Cu navigarea reproiectată din centrul de conformitate & de securitate, este posibil ca opțiunile eDiscovery să se fi mutat deja.  Puteți găsi opțiunile eDiscovery în următoarele locații din centrul de conformitate & de securitate, pe baza a ceea ce încercați să faceți:
+Căutați opțiuni de descoperire a informațiilor electronic? Cu navigarea re-proiectată în Centrul de & conformitate, este posibil ca opțiunile de descoperire a informațiilor electronic să se fi mutat deja.  Puteți găsi opțiunile de descoperire a informațiilor electronic în următoarele locații din Centrul de & conformitate pe baza a ceea ce încercați să faceți:
 
-- Utilizați căutarea de conținut pentru a căuta conținut în organizație prin e-mail, documente, conversații Skype for Business, apoi exportați datele-accesați **căutare > căutare conținut**
+- Utilizați Căutarea de conținut pentru a căuta conținut în e-mail, documente Skype for Business conversații și apoi exportați datele Accesați Căutarea **și căutarea > conținut**
 
-- Creați un caz eDiscovery pentru a căuta conținut și a amplasa locații de conținut în așteptare-accesați **ediscovery > eDiscovery**
+- Crearea unui caz de descoperire a informațiilor electronic pentru a căuta conținut și a plasa locațiile de conținut în așteptare - Accesați descoperirea informațiilor **> descoperirea informațiilor electronic**
 
-- Utilizați noua soluție de descoperire avansată a informațiilor electronice end-to-end pentru a identifica și a comunica cu custozii, a păstra datele de custode relevante pentru caz, a colecta date și a-l adăuga la un set de revizuire și a reduce volumul de date aplicând analize pentru a elimina datele inutile și a vă concentra asupra a ceea ce este relevant pentru caz-accesați **ediscovery > descoperire eDiscovery**
+- Utilizați noua soluție Advanced eDiscovery end-to-end pentru a identifica și a comunica cu ele, a păstra datele relevante pentru caz, a colecta date și a le adăuga la un set de revizuire și a reduce volumul de date, aplicând analize pentru a elimina datele inutile și a vă concentra asupra a ceea ce este mai relevant pentru caz - Accesați **> Advanced eDiscovery**
 
 Pentru mai multe informații, consultați:
 
 - [Căutare conținut](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [cazuri eDiscovery în centrul de conformitate & de securitate](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Cazurile de descoperire a informațiilor electronic în Centrul de & conformitate](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Soluție eDiscovery avansată în Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery soluție în Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
