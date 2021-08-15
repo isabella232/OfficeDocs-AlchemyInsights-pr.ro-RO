@@ -1,5 +1,5 @@
 ---
-title: Depanarea unui singur semn activat pentru dispozitivele Azure AD asociate
+title: Depanarea sign-on unic pentru dispozitivele cu Asociere Azure AD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039258"
 ---
-# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Depanarea unui singur semn activat pentru dispozitivele Azure AD asociate
+# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Depanarea sign-on unic pentru dispozitivele cu Asociere Azure AD
 
-Dacă aveți un mediu Active Directory (AD) local și doriți să vă asociați la computerele asociate domeniului de publicitate la Azure AD, puteți realiza acest lucru efectuând asocierea hibrid Azure AD. Instrucțiuni [: planificarea implementării hibride Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) vă oferă pașii asociați pentru a implementa un hibrid Azure AD Join în mediul dvs.
+Dacă aveți un mediu Local Active Directory (AD) și doriți să vă asociați computerelor care au domeniul unit cu Azure AD, puteți realiza acest lucru prin asocierea hibridă Azure AD. [Cum să: Planificați implementarea hibridă a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) de asociere vă furnizează pașii asociați pentru a implementa o asociere Azure AD hibridă în mediul dvs.
 
-Pentru mai multe informații, consultați [Configurarea dispozitivelor asociate AZURE AD pentru Single-Sign local la utilizarea Windows Hello pentru Business](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base).
+Pentru mai multe informații, consultați Configurarea dispozitivelor cu asociere Azure AD pentru dispozitive [Single-Sign Pe utilizând Windows Hello pentru business.](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)
 
-**Probleme principale de refresh token (PRT)**
+**Probleme principale cu tokenul de reîmprospătare (PRT)**
 
-Un simbol reîmprospătare principală (PRT) este un artefact cheie al autentificării Azure AD pe Windows 10, Windows Server 2016 și versiunile mai recente, iOS și dispozitivele Android. Acesta este un token web JSON (JWT) emis special pentru brokerii de simboluri pentru prima parte din Microsoft pentru a activa sign-on unic (SSO) în aplicațiile utilizate pe acele dispozitive. Pentru detalii despre modul în care este emis un PRT, utilizat și protejat pe dispozitivele Windows 10, consultați [ce este un token de reîmprospătare primară?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Un token de reîmprospătare primară (PRT) este un artefact cheie de autentificare Azure AD pe dispozitive Windows 10, Windows Server 2016 și versiuni mai recente, iOS și Android. Este un simbol web JSON (JWT) emis special către tokenul de la prima parte Microsoft, pentru a activa sign-on unic (SSO) în aplicațiile utilizate pe aceste dispozitive. Pentru detalii despre modul în care este emis, utilizat și protejat un PRT pe Windows 10 dispozitive, consultați Ce este un token [de reîmprospătare principal?.](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)
 
-**WamDefaultSet: Da și AzureADPrt: Da**
+**WamDefaultSet: YES și AzureADPrt: DA**
 
-Aceste câmpuri indică dacă utilizatorul s-a autentificat cu succes la Azure AD la conectarea la dispozitiv. Dacă valorile **nu** sunt, se poate datora:
+Aceste câmpuri indică dacă utilizatorul s-a autentificat cu succes la Azure AD atunci când s-a conectat la dispozitiv. Dacă valorile sunt **NU,** cauza poate fi:
 
-- Cheie de stocare nepotrivită din TPM asociată dispozitivului la înregistrare (Verificați KeySignTest în timp ce lucrați cu ridicat)
-- ID de conectare alternativă
-- Proxy HTTP negăsit
+- Cheie de stocare nereparticulară în TPM asociată cu dispozitivul după înregistrare (verificați KeySignTest în timp ce rulează cu nivel mare)
+- ID conectare alternativă
+- Proxy HTTP nu a fost găsit
 
-Pentru a depana dispozitivele utilizând comanda dsregcmd, consultați [SSO state](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
+Pentru a depana dispozitivele utilizând comanda dsregcmd, consultați [Starea SSO.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)

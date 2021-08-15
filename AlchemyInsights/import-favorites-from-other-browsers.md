@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014948"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importați preferințele dintr-un browser diferit de Internet Explorer, Google Chrome sau Mozilla Firefox
 
 1. În browserul din care doriți să importați preferințele, salvați preferințele într-un fișier HTML.
 
-1. Deschideți Microsoft Edge, apoi selectați **Setări și multe altele...**  >  **Setări**  >  **Importați date de browser.**
+1. Deschideți Microsoft Edge, apoi selectați Setări **și altele...**  >  **Setări**  >  **Importați date de browser.**
 
 1. Din meniul **Import din,** selectați **Preferințe sau fișier HTML Marcaje în** document Alegeți fișierul , apoi  >  selectați fișierul HTML cu preferințele dvs.
 

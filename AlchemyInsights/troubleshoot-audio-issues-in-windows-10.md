@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039438"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Depanarea problemelor audio în Windows 10
 
@@ -55,7 +55,7 @@ Pentru a vă asigura că driverele sunt actualizate:
 
 2. Sub **Controlere audio, video și de** joc , selectați placa dvs. de sunet, deschideți-o, selectați fila **Driver** și selectați **Actualizare driver**.
 
-**Notă:** Dacă Windows nu găsește un driver nou, căutați unul pe site-ul web al producătorului dispozitivului și urmați instrucțiunile.
+**Notă:** Windows nu găsește un driver nou, căutați unul pe site-ul web al producătorului dispozitivului și urmați instrucțiunile.
 
 **Reinstalați driverul**
 
@@ -63,4 +63,4 @@ Dacă nu puteți să actualizați prin Manager dispozitive sau să găsiți un d
 
 1. În Manager dispozitive, faceți clic dreapta (sau apăsați și țineți apăsat) pe driverul audio și selectați **Dezinstalare**. Reporniți dispozitivul și Windows va încerca să reinstaleze driverul.
 
-2. Dacă reinstalarea driverului nu funcționează, încercați să utilizați driverul audio generic care este dotat cu Windows. În Manager dispozitive, faceți clic dreapta (sau apăsați și țineți apăsat) pe driverul audio > Actualizare software de **driver** Răsfoire computer pentru software de driver Permiteți-mi să aleg dintr-o listă de drivere de dispozitiv de pe computer , selectați Dispozitiv audio de înaltă definiție , selectați Următorul și urmați instrucțiunile pentru  >    >  **a-l** instala.  
+2. Dacă reinstalarea driverului nu funcționează, încercați să utilizați driverul audio generic care este Windows. În Manager dispozitive, faceți clic dreapta (sau apăsați și țineți apăsat) pe driverul audio > Actualizare software de **driver** Răsfoire computer pentru software de driver Permiteți-mi să aleg dintr-o listă de drivere de dispozitiv de pe computer , selectați Dispozitiv audio de înaltă definiție , selectați Următorul și urmați instrucțiunile pentru  >    >  **a-l** instala.  

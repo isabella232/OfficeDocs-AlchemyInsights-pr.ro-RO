@@ -1,5 +1,5 @@
 ---
-title: Offboard non-dispozitivele Windows de la Microsoft Defender-protecție avansată împotriva amenințărilor (ATP)
+title: Dispozitivele non-Windows de la Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967813"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard non-dispozitivele Windows de la Microsoft Defender-protecție avansată împotriva amenințărilor (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Dispozitivele non-Windows de la Microsoft Defender Advanced Threat Protection (ATP)
 
 Iată cum se procedează:
 
-1. Urmați documentația de la terți pentru deconectarea soluției de la terți de la Microsoft Defender ATP.
-2. De la entitatea găzduită Azure Active Directory, eliminați permisiunile pentru soluția de la terți:
+1. Urmați documentația terților pentru deconectarea soluției de la terți de la Microsoft Defender ATP.
+2. Din entitatea Azure Active Directory găzduită, eliminați permisiunile pentru soluția terță:
 
-    1. Conectați-vă la [portalul Azure](https://go.microsoft.com/fwlink/?linkid=2125612).
-    1. Selectare **totală servicii**  >  **Azure Active Directory**  >  **Enterprise Applications**.
-    1. Selectați aplicația pe care doriți să o offboard.
-    1. Selectați **Ștergere**.
+    1. Conectați-vă [la portalul Azure.](https://go.microsoft.com/fwlink/?linkid=2125612)
+    1. Selectați **Toate**  >  **serviciile Azure Active Directory** Aplicații  >  **Enterprise.**
+    1. Selectați aplicația pe care preferați să o dezactivați.
+    1. Selectați **Ștergere.**
 
-Pentru a afla mai multe, consultați [offboard dispozitivelor non-Windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+Pentru a afla mai multe, [consultați Dezactivați dispozitivele care nu Windows dispozitive](https://go.microsoft.com/fwlink/?linkid=2143630).

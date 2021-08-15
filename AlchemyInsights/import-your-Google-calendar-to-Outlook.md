@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014840"
 ---
 # <a name="import-your-google-calendar-to-outlook"></a>Importul calendarului Google în Outlook
 
-Repetați această procedură pentru fiecare calendar Google pe care doriți să-l importați în Outlook.
+Repetați această procedură pentru fiecare calendar Google pe care doriți să îl importați în Outlook.
 
-1. În Outlook pe desktop (Outlook 2013 sau Outlook 2016), accesați **calendarul**.
-1. Faceți clic pe Deschidere **fișier**  >  **& export**  >  **Import/export**.
-1. În **Expertul import și export**, selectați **importați un fișier iCalendar (. ICS) sau vCalendar**, apoi faceți clic pe **Următorul**.
-1. Navigați la locul unde ați stocat fișierul extras și alegeți-l pe cel care se termină cu **Gmail.com** și faceți clic pe **OK**.
-1. Faceți clic pe **Import**
+1. În Outlook desktop (în Outlook 2013 sau o Outlook 2016), accesați **calendarul**.
+1. Faceți **clic**  >  **pe Deschidere fișier & Export**  >  **Import/Export**.
+1. În Expertul **import și export,** selectați Import fișier **iCalendar (.ics) sau vCalendar**, apoi faceți clic pe **Următorul.**
+1. Navigați în locul unde l-ai stocat pe fișierul extras și alegeți fișierul care se **termină cu gmail.com** și faceți clic pe **OK.**
+1. Faceți clic **pe Import**
 
-Accesați calendarul Outlook. Acum ar trebui să vedeți evenimentele din calendarul Google acolo.
+Accesați calendarul Outlook. Acum ar trebui să vedeți acolo evenimentele din calendarul Google.
