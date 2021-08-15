@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026090"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernizarea paginii de pornire clasice
 
-O actualizare recentă a paginii de pornire a site-ului de echipă SharePoint clasic afectează pagina de pornire a site-urilor de echipă clasice (STS # 0) atunci când o pagină de pornire conține *doar părțile Web implicite ale casetei* , cum ar fi introducere, biblioteca de documente și fluxul de știri.
+O actualizare recentă a paginilor de pornire SharePoint de echipă clasice afectează pagina de pornire a *site-urilor* de echipă clasice (STS#0) atunci când o pagină de pornire conține doar părțile web implicite inasitare, cum ar fi noțiunile de bază, biblioteca de documente și fluxul de știri.
 
-Vizualizați o parcurgere a modificării [aici](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Vedeți aici o trecere prin [modificări](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
-**Notă: site-urile de echipă clasice care conțin conținut particularizat nu vor fi actualizate automat.**
+**Notă: Site-urile de echipă clasice care conțin conținut particularizat nu vor fi actualizate automat.**
 
-* Aflați mai multe despre criteriile de actualizare la [modernizarea paginii de pornire clasice](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Aflați mai multe despre criteriile de actualizare [la Modernizarea clasică a paginilor de pornire](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
 
-* [Faceți upgrade altor pagini de pornire care nu făceau parte din modernizarea automată](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Faceți upgrade altor pagini de pornire care nu au făcut parte din modernizarea automată.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Dezactivați acest upgrade pe anumite site-uri utilizând un [cmdlet PowerShell modele și practici SharePoint (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Dezactivați acest upgrade pentru anumite site-uri, [utilizând un cmdlet PowerShell SharePoint Patterns and Practices (PnP).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)

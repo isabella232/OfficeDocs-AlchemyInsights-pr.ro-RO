@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: f65878f987924d4f1b428d66e9b82596b2760004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dddf341d5c021e30b65984fae165765cb8116f791f8ea3a02ff70f27e73c19f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018908"
 ---
 # <a name="change-a-name-and-email-address"></a>Modificarea unui nume și a unei adrese de e-mail
 
-Este simplu să modificați numele și adresa de e-mail a unui utilizator în Microsoft 365. Accesați pagina Utilizatori **activi** \> [și selectați](https://go.microsoft.com/fwlink/p/?linkid=834822) utilizatorul pentru a-i edita informațiile. De asemenea, puteți utiliza acest articol pentru instrucțiuni pas cu pas:
+Este simplu să modificați numele și adresa de e-mail a Microsoft 365 utilizator. Accesați pagina Utilizatori **activi** \> [și selectați](https://go.microsoft.com/fwlink/p/?linkid=834822) utilizatorul pentru a-i edita informațiile. De asemenea, puteți utiliza acest articol pentru instrucțiuni pas cu pas:
   
-[Modificarea numelui și adresei de e-mail ale unui utilizator în Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[Modificarea numelui și adresei de e-mail ale unui utilizator Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
  **Notă:** dacă modificați adresa de e-mail principală a utilizatorului, adresa sa de e-mail veche va fi în continuare validă pentru primirea mesajelor de e-mail (acest lucru se întâmplă automat). De asemenea, dacă organizația dvs. se află în starea Hibrid, toate modificările e-mailului și ale numelui de utilizator trebuie efectuate în Active Directory local, apoi sincronizate în cloud.

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7e6ece7d9f60cf6cd52b46bf87d21a5049c5b3c17c7c1da2241cab0bff3264
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011528"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Nu există memorie suficientă pentru a finaliza această acțiune
 
-Când lucrați cu un fișier Microsoft Excel, primiți unul dintre următoarele mesaje:
+Atunci când lucrați cu Microsoft Excel fișier, primiți unul dintre următoarele mesaje:
 
-- Excel nu poate finaliza această activitate cu resursele disponibile. Alegeți mai puține date sau închideți alte aplicații.
+- Excel poate termina această activitate cu resursele disponibile. Alegeți mai puține date sau închideți alte aplicații.
 - Memorie insuficientă
 - Nu sunt suficiente resurse de sistem pentru a fi afișate complet
 - Nu există memorie suficientă pentru a finaliza această acțiune. Încercați să utilizați mai puține date sau să închideți alte aplicații. Pentru a mări disponibilitatea memoriei, luați în considerare: 
-    - Utilizarea unei versiuni de Microsoft Excel pe 64 de biți.
+    - Utilizarea unei versiuni de 64 de biți de Microsoft Excel.
     - Adăugarea memoriei la dispozitiv.
 
-Pentru a depana aceste erori, [consultați Depanarea erorilor "resurse disponibile" în Excel.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
+Pentru a depana aceste erori, [consultați Depanarea erorilor de "resurse disponibile" în Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).

@@ -1,5 +1,5 @@
 ---
-title: Adăugarea sau actualizarea TVA/ID-ul taxei-Legacy WD + MCA CL _ pașii recomandați
+title: Adăugați sau actualizați TVA/ID de taxe - WD + MCA CL _ Pași recomandați
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953701"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Adăugarea sau actualizarea TVA/ID-ul taxei-etapele recomandate WD + MCA CL
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Adăugați sau actualizați TVA/ID de taxe - WD + MCA CL moștenit - Pași recomandați
 
-ID-ul taxei este utilizat pentru calcularea scutirilor de taxe și apare pe factură.
+ID-ul de taxă este utilizat pentru calculul de scutire de impozite și apare pe factură.
 
-1. Accesați pagina de [gestionare a costurilor + facturare](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Faceți clic pe **Proprietăți** din partea stângă. 
-3. Faceți clic pe **Gestionare ID-uri fiscale** din panoul **ID-uri fiscale** , apoi introduceți noul ID de taxă.
-4. Faceți clic pe **Actualizare**. 
+1. Accesați pagina [Management cost +](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) Facturare. 
+2. Faceți **clic** pe Proprietăți din partea stângă. 
+3. Faceți **clic pe Gestionare ID-uri** **de taxe din panoul ID-uri** de taxe, apoi introduceți noul ID de taxe.
+4. Faceți **clic pe Actualizare.** 
 
-Dacă nu vedeți panoul de **ID-uri fiscale** , înseamnă că ID-urile fiscale nu sunt colectate încă pentru regiunea dvs., sau actualizarea ID-urilor fiscale din portal nu este acceptată pentru contul dvs.
+Dacă nu vedeți panoul **IDs** de taxe, înseamnă că NU sunt încă colectate URI-uri de taxe pentru regiunea dvs. sau actualizarea URI-urilor de taxe din portal nu este acceptată pentru contul dvs.
 
 **Documente recomandate**
 
