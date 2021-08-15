@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038196"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Actualizarea informațiilor de profil sau modificarea imaginii mele
 
 Momentan, nu este posibil să editați și să actualizați informațiile de profil direct din Outlook pentru iOS, dar este posibil să editați aceste informații în altă parte. 
 
-Puteți să faceți actualizări la profilul dvs. în Outlook pentru Windows sau în Outlook pe web (OWA). 
+Puteți face actualizări la profilul dvs. în Outlook pentru Windows sau Outlook pe web (OWA). 
 
 **Outlook pentru Windows:** 
 
-- **Fișier**  >  **Cont Office**  >  **Informații utilizator**  >  **Despre mine** (vă aduce la profilul Microsoft 365 online) > **Actualizați profilul** sau faceți clic pe pictograma camerei pentru a vă schimba fotografia  
+- **Fișier**  >  **Office cont**  >  **Informații utilizator**  >  **Despre mine** (vă aduce la Microsoft 365 online) sau faceți clic > **Actualizare** profil sau faceți clic pe pictograma camerei pentru a vă schimba fotografia  
   
 **Outlook pe web (OWA)**: 
 
