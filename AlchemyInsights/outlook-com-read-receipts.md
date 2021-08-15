@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983429"
 ---
 # <a name="read-receipts"></a>Confirmări de citire
 
-Nu puteți solicita o confirmare de citire în Outlook.com, dar puteți solicita confirmări de citire pentru mesajele Outlook.com trimise utilizând Outlook pentru Windows. Pentru a afla cum, consultați [adăugarea și solicitarea de confirmări de citire și notificări de livrare](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Nu puteți solicita o confirmare de citire în Outlook.com, dar puteți solicita confirmări de citire pentru mesajele Outlook.com trimise utilizând Outlook for Windows. Pentru a afla cum, consultați [Adăugarea și solicitarea confirmării de citire și a notificărilor de livrare.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Pentru a alege modul în care Outlook.com răspunde la solicitările de confirmare a citirii, accesați [setările de confirmare a citirii](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Pentru a alege cum Outlook.com răspunde la solicitările de confirmare de citire, accesați [Setările confirmării de citire.](https://outlook.live.com/mail/options/mail/handling/readReceipts)
