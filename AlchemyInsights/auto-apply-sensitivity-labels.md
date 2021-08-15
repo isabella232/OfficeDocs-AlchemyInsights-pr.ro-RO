@@ -1,5 +1,5 @@
 ---
-title: Aplicarea automată a etichetelor de sensibilitate
+title: Aplicarea automată a etichetelor de clorți
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969314"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Aplicarea automată a etichetelor de sensibilitate
+# <a name="auto-apply-sensitivity-labels"></a>Aplicarea automată a etichetelor de clorți
 
-Etichetele de sensibilitate se pot aplica manual la conținut de către utilizatori sau le puteți configura pentru a fi aplicate automat la conținut.
+Etichetele de sensibilitate pot fi aplicate manual conținutului de către utilizatori sau le puteți configura să se aplice automat la conținut.
 
-Aplicarea automată a etichetelor de sensibilitate elimină necesitatea instruirii utilizatorilor cu privire la clasificarea conținutului și necesitatea de a-i notifica asupra configurațiilor politicilor.
+Aplicarea automată a etichetelor de confidențialitate elimină nevoia de a-i instrui pe utilizatori cu privire la modul de clasificare a conținutului și la necesitatea de a-i notifica în ce configurații de politică.
 
-Pentru a aplica automat etichetele, sunt necesare următoarele:
+Pentru a aplica automat etichete, este necesar să urmați următoarele:
 
-- Abonamentul Azure Information Protection P2
-- [Descărcați și instalați clientul de etichetare unificată pentru protecția informațiilor Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Abonament Azure Information Protection P2
+- [Descărcarea și instalarea clientului de etichetare unificată Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Lucrăm la asistența nativă care nu va necesita în viitor clientul de etichetare unificată pentru protecția informațiilor Azure.
+Lucrăm la asistență nativă care nu va necesita clientul de etichetare unificată Azure Information Protection pe viitor.
 
-În prezent, doar Windows acceptă clientul unificat de etichetare.  Caracteristica nu este acceptată încă pe Mac, iOS și Android.
+În prezent, Windows acceptă doar clientul de etichetare unificată.  Caracteristica nu este încă acceptată pe Mac, iOS și Android.
 
-Pentru mai multe informații despre etichetele de sensibilitate și aplicarea lor automată la conținut, consultați:
+Pentru mai multe informații despre etichetele de c sensibilitate și aplicarea automată a acestora la conținut, consultați:
 
-- [Prezentare generală a etichetelor de sensibilitate](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Aplicarea unei etichete de sensibilitate la conținut automat](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Prezentare generală a etichetelor de clor](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Aplicarea automată a unei etichete de c sensibilitate la conținut](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

@@ -1,5 +1,5 @@
 ---
-title: Învățați limba pentru crearea interogărilor complexe de vânătoare
+title: Aflați limba pentru crearea de interogări de căutare avansate
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016784"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Învățați limba pentru crearea interogărilor complexe de vânătoare
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Aflați limba pentru crearea de interogări de căutare avansate
 
-Vânătoarea avansată se bazează pe [limba de interogare Kusto](https://go.microsoft.com/fwlink/?linkid=2144620). Aveți posibilitatea să utilizați sintaxa Kusto și operatorii pentru a construi interogări care găsesc informații în [schema](https://go.microsoft.com/fwlink/?linkid=2144621) structurată special pentru vânătoarea complexă.
+Căutarea complexă se bazează pe limbajul [de interogare Kusto.](https://go.microsoft.com/fwlink/?linkid=2144620) Puteți utiliza sintaxa și operatorii Kusto pentru a construi interogări care găsesc informații în [schema](https://go.microsoft.com/fwlink/?linkid=2144621) structurată special pentru căutare complexă.
 
-Pentru a afla mai multe, consultați [Aflați limba interogării complexe de vânătoare](https://go.microsoft.com/fwlink/?linkid=2144518).
+Pentru a afla mai multe, consultați [Aflați limbajul de interogare de căutare complexă.](https://go.microsoft.com/fwlink/?linkid=2144518)
