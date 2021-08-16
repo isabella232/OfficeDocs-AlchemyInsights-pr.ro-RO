@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 37355c1b6658f21d35d03aacf292bbdc174a2359
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7dd2fbbd23beedda47bd724d84d717a3751f51f9607274d9b124f14463cf4b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045180"
 ---
 # <a name="update-dns-settings"></a>Actualizarea setărilor DNS
 
-Actualizarea setărilor DNS implică copierea și lipirea valorilor pe care Office 365 le oferă în registratorul de domeniu sau în furnizorul de găzduire DNS. Pentru a face acest lucru, efectuați pașii următori:
+Actualizarea setărilor DNS implică copierea și lipirea valorilor pe care Office 365 le oferă registratorului de domeniu sau furnizorului de găzduire DNS. Pentru a face acest lucru, efectuați pașii următori:
 
-1. Copiați și lipiți valorile afișate în pagina **Actualizare setări DNS** în furnizorul de găzduire DNS.
-2. Faceți clic pe **Verificare**.
-3. Faceți clic pe **Terminare**.
+1. Copiați și lipiți valorile afișate **pe pagina Actualizați setările DNS** în furnizorul de găzduire DNS.
+2. Faceți **clic pe Verificare.**
+3. Faceți **clic pe Terminare.**

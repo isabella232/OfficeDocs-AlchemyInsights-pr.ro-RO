@@ -1,5 +1,5 @@
 ---
-title: Creați o echipă în Microsoft teams
+title: Cum să creați o echipă în Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: 53e69c5ec5428da7d1469d3b25e242af9d659092
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 4889efc0a86ce7d7b4eeb8595160c0e3e3bb397e5f0d6c5395a54daece512465
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032210"
 ---
-# <a name="create-a-team-in-microsoft-teams"></a>Creați o echipă în Microsoft teams
+# <a name="create-a-team-in-microsoft-teams"></a>Cum să creați o echipă în Microsoft Teams
 
-Pentru a crea o echipă în Microsoft teams, efectuați pașii următori:
+Pentru a crea o Microsoft Teams, efectuați pașii următori:
 
-1. În partea stângă a teams, faceți clic pe **teams**.
-2. În partea de jos a listei teams, faceți clic pe **asociere** sau **Creați o echipă**.
-3. Faceți clic pe **Creați o echipă nouă**.
+1. În partea stângă a butonului, Teams clic **pe Teams**.
+2. În partea de jos a listei de echipe, dați clic **pe Alăturați-vă** **sau creați o echipă.**
+3. Dați **clic pe Creați o echipă nouă.**
 
-Dacă întâmpinați probleme la crearea unei echipe, este posibil să existe o politică aplicată. Pentru mai multe informații, consultați [gestionarea persoanelor care pot crea Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).
+Dacă aveți probleme la crearea unei echipe, poate exista o politică aplicată. Pentru mai multe informații, [consultați Gestionați cine poate crea Microsoft 365 Grupuri.](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014228"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalarea aplicației client Office pe un PC sau MAC
 
@@ -27,7 +27,7 @@ Pentru a instala aplicațiile client Office, asigurați-vă că aveți un abonam
 
 Dacă aveți un abonament care include aplicațiile Microsoft 365, nu veți vedea o opțiune de instalare a acestora decât dacă aveți o [ licență atribuită](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Dacă sunteți administrator Office 365 responsabil cu atribuirea de licențe, consultați [Atribuirea de licențe utilizatorilor](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). În plus, utilizați [setările de descărcare pentru software Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) pentru a selecta dacă utilizatorii pot instala aplicații ‎Office‎ pe dispozitivele lor.
 
-**Notă:** [Raportul Activare Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) vă oferă o vizualizare a utilizatorilor care au instalat și au activat aplicațiile Microsoft 365 pe cel puțin un dispozitiv.
+**Notă:** [raportul Office activare](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) vă oferă o vizualizare a utilizatorilor care au instalat și au activat aplicațiile Microsoft 365 pe cel puțin un dispozitiv.
 
 Apoi, fiecare utilizator trebuie să:
 

@@ -1,5 +1,5 @@
 ---
-title: Inventarul dispozitivelor Intune
+title: Inventar dispozitiv Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014084"
 ---
-# <a name="intune-device-inventory"></a>Inventarul dispozitivelor Intune
+# <a name="intune-device-inventory"></a>Inventar dispozitiv Intune
 
-Lama Devices oferă administratorului informații despre dispozitivele de sub gestionare în Intune pe bază de dispozitiv. Informațiile afișate includ: hardware, aplicații descoperite, starea conformității dispozitivelor și starea configurației dispozitivelor.
+Sistemul blade Dispozitive furnizează detaliile administratorului asupra dispozitivelor aflate în gestionare în Intune pe fiecare dispozitiv. Informațiile afișate includ: Hardware, aplicații descoperite, starea de conformitate a dispozitivului și starea de Configurare dispozitiv.
 
-Datele de inventar pentru componente hardware și aplicații descoperite sunt colectate pe un ciclu de șapte zile. Aplicațiile și elementele specifice ale componentelor hardware raportate diferă în funcție de sistemul de operare al dispozitivului și dacă dispozitivul este deținut personal sau corporativ.
+Datele inventarului pentru hardware și aplicațiile descoperite sunt colectate într-un ciclu de șapte zile. Aplicațiile și elementele specifice ale hardware-ului raportate diferă în funcție de sistemul de operare al dispozitivului și de proprietarul personal sau corporativ al dispozitivului.
 
 Pentru mai multe informații, consultați [Vedeți detaliile dispozitivului în Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **ÎNTREBĂRI FRECVENTE**
 
-Î: nu primesc o listă completă de inventar a aplicațiilor prezente pe dispozitivele Windows Intune-inrolat. de ce nu?
+Î: Nu primesc o listă completă de inventar cu aplicațiile prezente pe dispozitivele mele cu Windows Intune. de ce nu?
 
-A: în acest moment, doar aplicațiile moderne sunt listate pentru PC-urile Windows 10 care sunt identificate ca dispozitive corporative. Intune nu colectează informații despre aplicațiile Win32 instalate pe aceste dispozitive.
+A: În acest moment, doar aplicațiile moderne sunt listate pentru Windows 10 PC-uri care sunt identificate ca dispozitive de corporație. Intune nu colectează informații despre aplicațiile Win32 instalate pe aceste dispozitive.
 
-Î: de ce nu sunt colectate numerele de telefon de pe toate dispozitivele?
+Î: De ce nu sunt colectate numerele de telefon de pe toate dispozitivele?
 
-A: telefoanele clasificate ca dispozitive corporative în Intune nu sunt identificate cu numărul de telefon complet atunci când, de exemplu, rulează un raport de inventar al dispozitivelor mobile. Numerele de telefon bring-you-own-dispozitiv sunt întotdeauna parțial mascate cu asteriscuri (* * * *) și afișează doar ultimele patru cifre.
+A: Telefoanele clasificate ca dispozitive de corporație în Intune nu sunt identificate cu numărul lor de telefon complet atunci când, de exemplu, rulați un raport de inventar pentru dispozitive mobile. Numerele de telefon de tip Aducere pe propriul dispozitiv sunt întotdeauna mascate parțial cu asteriscuri (****) și afișează numai ultimele patru cifre.
