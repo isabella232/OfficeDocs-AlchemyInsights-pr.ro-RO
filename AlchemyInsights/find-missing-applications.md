@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068932"
 ---
 # <a name="find-missing-applications"></a>Găsirea aplicațiilor lipsă
 
-- [Pornire rapidă: Vizualizați lista de aplicații care utilizează entitatea găzduită Azure Active Directory (AZURE AD) pentru gestionarea identității](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) vă arată cum să vizualizați aplicațiile, denumite și aplicații, care sunt deja configurate pentru a utiliza entitatea găzduită Azure AD ca furnizor de identitate (IDP).
-- Pentru a căuta o anumită aplicație, accesați meniul **tip aplicație** , selectați **toate aplicațiile** și alegeți **se aplică**.
-  - Introduceți numele aplicației pe care doriți să o găsiți. Dacă aplicația a fost adăugată la entitatea găzduită Azure AD, aceasta apare în rezultatele căutării. De asemenea, puteți să introduceți primele câteva litere ale unui nume de aplicație.
-- [Depanarea problemei comune adăugarea sau eliminarea unei aplicații la Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) vă ajută să înțelegeți problemele comune cu care se confruntă persoanele care vizualizează aplicații în Azure Active Directory.
+- Pornire rapidă: Vizualizați lista de aplicații care utilizează entitatea găzduită [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) pentru gestionarea identităților vă arată cum să vizualizați aplicațiile, cunoscute și ca aplicații, care sunt configurate deja să utilizeze entitatea găzduită Azure AD ca furnizor de identitate (IDP).
+- Pentru a căuta o anumită aplicație, accesați meniul **Tip aplicație,** **selectați Toate aplicațiile** și alegeți **Se aplică**.
+  - Introduceți numele aplicației pe care doriți să o găsiți. Dacă aplicația a fost adăugată la entitatea găzduită Azure AD, aceasta apare în rezultatele căutării. De asemenea, puteți introduce primele câteva litere ale unui nume de aplicație.
+- [Depanați problema obișnuită la adăugarea sau](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) eliminarea unei aplicații Azure Active Directory vă ajută să înțelegeți problemele comune cu vizualizarea aplicațiilor în Azure Active Directory.

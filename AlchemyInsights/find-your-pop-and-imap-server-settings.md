@@ -1,5 +1,5 @@
 ---
-title: 1800018 Găsirea setărilor de Server POP și IMAP
+title: 1800018 Găsirea setărilor de server POP și IMAP
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -12,15 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099946"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>Găsirea setărilor de Server POP sau IMAP
+# <a name="find-your-pop-or-imap-server-settings"></a>Găsirea setărilor de server POP sau IMAP
 
-Dacă nu știți ce setări aveți nevoie pentru a adăuga contul POP sau IMAP la Outlook, le puteți căuta în [setările de E-mail pop și IMAP pentru Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Dacă nu știți de ce setări aveți nevoie pentru a adăuga contul POP sau IMAP la Outlook, le puteți căuta în setările de e-mail POP și [IMAP pentru Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
   
  
