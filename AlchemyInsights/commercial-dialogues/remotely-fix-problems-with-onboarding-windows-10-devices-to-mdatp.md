@@ -1,5 +1,5 @@
 ---
-title: Remedierea de la distanță a problemelor cu dispozitivele Windows 10 la protecția avansată a amenințărilor la Microsoft Defender
+title: Remedierea de la distanță a problemelor cu Windows 10 de la distanță la Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034046"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Remedierea de la distanță a problemelor cu dispozitivele Windows 10 la protecția avansată a amenințărilor la Microsoft Defender
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Remedierea de la distanță a problemelor cu Windows 10 de la distanță la Microsoft Defender Advanced Threat Protection
 
 Dacă puteți accesa computerul la distanță, urmați acești pași:
 
-1. Descărcați instrumentul de diagnosticare [client Connectivity Analyzer](https://go.microsoft.com/fwlink/?linkid=2143466) .
-2. Extrage și rulează MDATPAnalyzer. cmd.
-3. Găsiți Jurnalul de diagnosticare în folderul MDATPClientAnalyzerResult, care este același folder în care a fost descărcat instrumentul Analyzer.
-4. Pentru a găsi probleme cu setările de conectivitate sau proxy de internet, examinați MDATPClientAnalyzer.txt fișierului jurnal.
+1. Descărcați [instrumentul de diagnosticare Client Connectivity Analyzer.](https://go.microsoft.com/fwlink/?linkid=2143466)
+2. Extrageți și rulați MDATPAnalyzer.cmd.
+3. Găsiți jurnalul de diagnosticare din folderul MDATPClientAnalyzerResult, care este același folder în care a fost descărcat instrumentul Analizor.
+4. Pentru a găsi problemele cu setările de conectivitate sau proxy la internet, revizuiți fișierele jurnal MDATPClientAnalyzer.txt.
 
-Pentru a afla mai multe, consultați [probleme cu mașinile de la bord](https://go.microsoft.com/fwlink/?linkid=2143634).
+Pentru a afla mai multe, [consultați Probleme cu mașinile deboarding](https://go.microsoft.com/fwlink/?linkid=2143634).

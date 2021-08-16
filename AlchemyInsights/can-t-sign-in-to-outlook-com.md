@@ -1,5 +1,5 @@
 ---
-title: 8000050 nu se poate conecta la Outlook.com
+title: 8000050 mă pot conecta la Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: c2406119592ea295f793570db4e95c43058e107e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1b537e0fd2d222674954baddd5339e53fcbffc27bb1bf2636d93895137f320b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071668"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nu mă pot conecta sau mi-am uitat parola
+# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nu mă pot conecta sau am uitat parola
 
-Dacă întâmpinați probleme la conectarea la alt cont, este posibil ca contul să fie blocat temporar, deoarece am observat o activitate neobișnuită de conectare. Dacă aveți contul blocat, consultați [deblocarea contului meu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Dacă aveți probleme la conectarea la alt cont, contul poate fi blocat temporar, deoarece am observat o activitate de conectare neobișnuită. Dacă este blocat contul dvs., consultați [Deblocarea contului Outlook.com.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Dacă ați uitat parola, vă puteți [reseta parola](https://go.microsoft.com/fwlink/p/?linkid=841909).
+Dacă ați uitat parola, puteți reseta [parola.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-Dacă suspectați că v-a fost spart contul Outlook.com, consultați [contul meu Outlook.com a fost spart](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Dacă suspectați că un Outlook.com a fost spart de un hacker, consultați Contul meu [Outlook.com a fost spart de un hacker.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Citiți mai multe despre [atunci când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).
+Citiți mai [multe despre Atunci când nu vă puteți conecta la contul dvs. Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=842227)
   
