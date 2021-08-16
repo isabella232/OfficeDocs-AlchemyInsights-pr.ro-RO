@@ -1,5 +1,5 @@
 ---
-title: Gestionarea unui grup fără o licență Exchange
+title: Gestionarea unui grup fără o licență Exchange licență
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 8a02362eb716e7e879deae7392d86ccc9f10ce5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 949c37b035a85dd9996a741da73eb2e8a0dbfdcfc7dcef3905aa78e5759404e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099082"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Gestionarea unui grup fără o licență Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Gestionarea unui grup fără o licență Exchange licență
 
-Dacă contul de administrator nu are o cutie poștală, este posibil să primiți o eroare legată de o licență de produs lipsă atunci când încercați să editați un grup Microsoft 365.
+În cazul în care contul dvs. de administrator nu are o cutie poștală, este posibil să primiți o eroare legată de o licență de produs care lipsește atunci când încercați să editați un Microsoft 365 grup.
   
-Pentru că sunteți administratorul entității găzduite, este posibil să editați un grup chiar dacă nu aveți o licență Exchange. Accesați grupurile [Centru de administrare Exchange](https://outlook.office365.com/ecp.aspx) \> **Groups** pentru a gestiona grupul Microsoft 365.
+Deoarece dvs. este administratorul entității găzduite, este posibil să editați un grup chiar dacă nu aveți o licență Exchange grup. Accesați grupuri Exchange [de administrare pentru](https://outlook.office365.com/ecp.aspx) \> **a** gestiona Microsoft 365 grup.
   
-Dacă doriți să editați grupuri în centrul de administrare, adăugați o licență Exchange la contul de administrator. Trebuie să așteptați până când cutia poștală este creată complet înainte de a putea edita un grup.
+Dacă doriți să editați Grupuri în centrul de administrare, adăugați o licență Exchange la contul de administrator. Trebuie să așteptați până când cutia poștală este creată complet, înainte de a putea edita un grup.
   
