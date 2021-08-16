@@ -1,5 +1,5 @@
 ---
-title: Cum se actualizează informațiile contului de facturare
+title: Cum să actualizați informațiile contului de facturare
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015344"
 ---
-# <a name="how-to-update-billing-account-information"></a>Cum se actualizează informațiile contului de facturare
+# <a name="how-to-update-billing-account-information"></a>Cum să actualizați informațiile contului de facturare
 
-Înainte de a achiziționa servicii care au o taxă, trebuie să adăugați sau să actualizați adresa de firmă a Organizației, adresa de e-mail a persoanei de contact și numele persoanei de contact.
+Înainte de a achiziționa servicii pentru care există o taxă, trebuie să adăugați sau să actualizați adresa de afaceri a organizației, adresa de e-mail de contact și numele persoanei de contact.
 
-Utilizăm adresa firmei pentru a calcula IMPOZITul pe vânzări și TVA. Dacă doriți să actualizați numărul TAXEi/TVA-ului, atunci proprietarul contului de facturare pentru acordul de client Microsoft poate face acest lucru urmând pașii următori:
+Utilizăm adresa firmei pentru a calcula TVA și TVA. Dacă doriți să actualizați numărul tva/TVA, atunci proprietarul contului de facturare pentru acordul dvs. cu clientul Microsoft poate face acest lucru urmând pașii următori:
 
-**Pentru a actualiza informațiile contului de facturare și pentru a vă actualiza ID-ul fiscal**:
+**Pentru a actualiza informațiile contului de facturare și a actualiza ID-ul de IDENTIFICARE FISCALĂ:**
 
-1. Conectați-vă la [Magazinul Microsoft pentru firme](https://businessstore.microsoft.com/).
-1. Faceți clic pe **gestionare**  >  **conturi de facturare**.
-1. Din **Prezentare generală**, faceți clic pe **Editare informații cont de facturare**.
-1. Efectuați actualizările, apoi faceți clic pe **Salvare**. 
+1. Conectați-vă la [Microsoft Store pentru Business](https://businessstore.microsoft.com/).
+1. Faceți **clic pe**  >  **Gestionați conturile de facturare.**
+1. Din Prezentare **generală,** faceți clic **pe Editați informațiile contului de facturare.**
+1. Faceți actualizările, apoi faceți clic **pe Salvare**. 
 
 **Documente recomandate**
 
-- [Înțelegerea facturii MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Înțelegeți factura MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Vizualizarea și descărcarea documentelor de impozitare pentru factura Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Vizualizarea și descărcarea documentelor fiscale pentru factura Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Actualizarea setărilor contului de facturare](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Actualizați setările contului de facturare](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

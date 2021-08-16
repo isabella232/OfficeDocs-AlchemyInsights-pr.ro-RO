@@ -1,5 +1,5 @@
 ---
-title: Găsirea unui anumit mesaj în carantină
+title: Găsirea unui anumit mesaj aflat în carantină
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3f9bd87a30bc7062afbe39dcc7df19b8eac37741
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967957"
 ---
-# <a name="find-a-specific-quarantined-message"></a>Găsirea unui anumit mesaj în carantină
+# <a name="find-a-specific-quarantined-message"></a>Găsirea unui anumit mesaj aflat în carantină
 
-1. Accesați centrul de [conformitate & de securitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Accesați carantina de revizuire a **gestionării amenințărilor**  >    >  .
+1. Accesați Centrul [de & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Accesați Treceți în **carantină**  >  **Revizuirea gestionării**  >  **amenințărilor.**
 3. Alegeți **Căutare**.
-4. Alegeți orice combinație de condiții, selectând casetele de selectare de lângă acestea (nu puteți utiliza metacaractere în acest moment).
+4. Alegeți orice combinație de condiții bi selectare a casetelor de selectare de lângă ele (nu puteți utiliza metacaractere în acest moment).
