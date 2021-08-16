@@ -1,5 +1,5 @@
 ---
-title: Identificarea spațiilor plasate în cutiile poștale
+title: Identificarea reținerii plasate în cutiile poștale
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987581"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identificarea spațiilor plasate în cutiile poștale
+# <a name="identify-holds-placed-on-mailboxes"></a>Identificarea reținerii plasate în cutiile poștale
 
-Aveți conținut Microsoft 365 care este **reținut** de o **reținere** pe care nu o puteți identifica? Trebuie să **Aflați** unde se află reținerea în **cutia poștală** ? Reține (*caracteristicile de retenție*) pot fi aplicate de una dintre următoarele metode:
+Ați reținut Microsoft 365 conținut reținut **printr-o reținere** **în așteptare pe care** nu o puteți identifica? Trebuie să **a afla unde** se află așteptarea în cutia **poștală?** Reținerea *( caracteristicile* de retenție ) poate fi aplicată prin una dintre următoarele metode:
   
-- Reținerea litigiilor
+- Așteptare pe motiv de litigiu
 
-- Descoperirea informațiilor electronice
+- Hold pentru descoperirea informațiilor electronic
 
-- Reținerea în locație
+- In-Place hold
 
-- Politica de retenție Microsoft 365 
+- Microsoft 365 de retenție 
 
-  - Politici specifice de retenție a locației
+  - Politici de retenție specifice pentru locație
 
   - Politici de retenție la nivel de organizație
 
-- Etichete Microsoft 365
+- Microsoft 365 etichete
 
-Pentru a identifica ce tip de reținere se aplică la cutia poștală a unui utilizator, consultați [cum se identifică tipul de așteptare plasat într-o cutie poștală Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Pentru a identifica ce tip de așteptare se aplică la cutia poștală a unui utilizator, consultați Cum se identifică tipul de așteptare plasat pe o cutie [Exchange Online poștală](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

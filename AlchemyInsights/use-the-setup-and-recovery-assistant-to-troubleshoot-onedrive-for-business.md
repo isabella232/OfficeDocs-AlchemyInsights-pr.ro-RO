@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 123c32a54ef3893448e8d149f35b9cb84fb10074
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46b0f5eefb3ba6170f39263b81d0d59d66622644df0cfa3871b1ce4cdd214818
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037836"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Remedierea problemelor de sincronizare cu OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Remedierea Sincronizare cu OneDrive probleme
 
-Aplicația Asistent pentru recuperare și asistență vă poate ajuta să identificați și să remediați problemele uzuale cu sincronizarea fișierelor OneDrive. 
+Aplicația Asistent pentru recuperare și asistență vă poate ajuta să identificați și să remediați problemele obișnuite cu sincronizarea OneDrive fișiere. 
   
-[Descărcați Asistentul pentru recuperare și](https://aka.ms/sara)asistență, conectați-vă cu contul de la locul de muncă sau de la școală și urmați instrucțiunile din aplicație pentru a depana OneDrive pentru business. 
+[Descărcați aplicația Asistent pentru recuperare și asistență](https://aka.ms/sara), conectați-vă cu contul de la locul de muncă sau de la școală și urmați instrucțiunile din aplicație pentru a OneDrive pentru business. 
   
 [Mai mulți pași de depanare](https://go.microsoft.com/fwlink/?linkid=872097)
   
