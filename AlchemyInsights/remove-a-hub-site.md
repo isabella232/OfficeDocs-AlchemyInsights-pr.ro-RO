@@ -11,20 +11,20 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e16d56681825ab469f4dc9c142fc0fc22bdce62ba6a4bedce0ad8f488acf71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023966"
 ---
 # <a name="remove-a-hub-site"></a>Eliminarea unui site hub
 
-Pentru a anula înregistrarea unui site hub în noul centru de administrare SharePoint:
+Pentru a anula înregistrarea unui site hub în noul centru SharePoint administrare:
   
-1. În noul centru de administrare SharePoint, sub **site-uri**, faceți clic pe **site-uri active**.
+1. În noul centru de administrare SharePoint, sub Site-uri, **faceți** clic pe **Site-uri active.**
 
-2. Selectați site-ul, faceți clic pe **site hub**, apoi faceți clic pe **Anulare înregistrare ca site hub**.
+2. Selectați site-ul, **faceți clic pe Site hub,** apoi **faceți clic pe Anulare** înregistrare ca site hub.
 
 3. Faceți clic pe **OK**.
 

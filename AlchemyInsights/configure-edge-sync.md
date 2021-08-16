@@ -1,5 +1,5 @@
 ---
-title: Configurarea sincronizării Microsoft Edge
+title: Configurarea Microsoft Edge sincronizare
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9137"
 - "9004431"
-ms.openlocfilehash: c99e65ca931335a7db9d73b5a6d25a4ba4d1a769
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
-ms.translationtype: MT
+ms.openlocfilehash: 3a858dcda2df3d6148ca49aac6bc7384e810d34c00735deba74dfe9dd31f5656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51595721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033578"
 ---
-# <a name="configure-microsoft-edge-sync"></a>Configurarea sincronizării Microsoft Edge
+# <a name="configure-microsoft-edge-sync"></a>Configurarea Microsoft Edge sincronizare
 
-Configurați sincronizarea Microsoft Edge utilizând politicile de grup și serviciul Azure Information Protection (AIP). Pentru mai multe informații, consultați [Configurarea sincronizării Microsoft Edge Enterprise.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-sync)
+Configurați Microsoft Edge a sincroniza utilizând politicile de grup și serviciul Azure Information Protection (AIP). Pentru mai multe informații, consultați [Configurarea sincronizării Microsoft Edge întreprindere.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-sync)

@@ -1,5 +1,5 @@
 ---
-title: Ghid de configurare a lucrului la distanță
+title: Ghid de instalare a lucru la distanță
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024002"
 ---
-# <a name="remote-work-setup-guide"></a>Ghid de configurare a lucrului la distanță
+# <a name="remote-work-setup-guide"></a>Ghid de instalare a lucru la distanță
 
-Mai multe și mai multe lucruri se fac de la distanță. Organizația dumneavoastră trebuie să fie echipată pentru a gestiona creșterea cererii de lucru la distanță.
+Se lucrează din ce în ce mai mult la distanță. Orga dvs. trebuie să fie echipată pentru a gestiona cererea crescută de lucru la distanță.
 
-Utilizați [Ghidul de configurare a lucrului la distanță](https://go.microsoft.com/fwlink/?linkid=2142062) pentru a activa caracteristicile esențiale de securitate și a revizui recomandările suplimentare de securitate. Veți primi instrucțiuni pentru a reduce tulpina infrastructurii VPN și, opțional, pentru a configura acces la distanță pentru desktopuri și aplicații. Apoi veți revizui opțiunile pentru implementarea Microsoft teams și Office Apps.
+Utilizați Ghidul de [instalare a lucru la distanță pentru](https://go.microsoft.com/fwlink/?linkid=2142062) a activa caracteristicile de securitate esențiale și a revizui recomandările suplimentare de securitate. Veți primi instrucțiuni pentru a reduce oboseala infrastructurii VPN și, opțional, a configura accesul la distanță pentru desktopuri și aplicații. Apoi veți revizui opțiunile pentru implementarea aplicațiilor Microsoft Teams aplicații Office office.

@@ -1,5 +1,5 @@
 ---
-title: Referințe API pentru Microsoft Graph REST
+title: Referință MICROSOFT Graph API REST
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012536"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Referințe API pentru Microsoft Graph REST
+# <a name="microsoft-graph-rest-api-reference"></a>Referință Microsoft Graph API REST
 
-API-ul grafic-Seturile de pe punctul final v 1.0 sunt în starea de disponibilitate generală (GA) și au trecut printr-un proces riguros de revizuire și feedback cu clienții pentru a răspunde nevoilor practice, de producție.
+Seturile Graph API ale punctului final v1.0 sunt în starea de disponibilitate generală (GA - general availability) și au trecut printr-un proces riguros de revizuire și feedback cu clienții, pentru a îndeplini necesități practice, de producție.
 
-- Pentru mai multe informații despre API-ul grafic v 1.0, consultați [referințe la Microsoft Graph rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Pentru mai multe informații despre versiunea beta Graph API, consultați [referințe finale Microsoft Graph beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Pentru mai multe informații despre Graph API v1.0, consultați [Referința Microsoft Graph REST API v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Pentru mai multe informații despre versiunea Graph API beta, consultați [Referințe pentru punctul final Microsoft Graph beta.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Pentru mai multe informații despre Microsoft Graph, consultați [documentația Microsoft Graph](https://docs.microsoft.com/graph/).
+Pentru mai multe informații despre Microsoft Graph, consultați [Documentația Microsoft Graph.](https://docs.microsoft.com/graph/)
 
-Clienții unificat și Premier pot ridica un bilet de asistență folosind acest portal. Dacă nu aveți suport unificat sau Premier, puteți accesa asistența gratuită pentru dezvoltatori pentru Microsoft Graph în Microsoft Q&A. Vă rugăm să postați întrebarea aici: https://aka.ms/AskGraph
+Clienții cu asistență unificată și Premier pot ridica un tichet de asistență utilizând acest portal. Dacă nu aveți asistență Unificată sau Premier, puteți accesa asistență gratuită pentru dezvoltatori pentru Microsoft Graph la Microsoft Q&A. Postați întrebarea aici: https://aka.ms/AskGraph
