@@ -1,5 +1,5 @@
 ---
-title: Găsirea e-mailului în arhivare automată
+title: Găsirea e-mailului în Arhivare automată
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: ce969ca2d3e07d6b7548cf7a553e8b5bee4799be
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a6a6a311708fc23a63656f5b8ccf572e30bc13dab1728bc3be48ad36aeb35077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017288"
 ---
-# <a name="find-email-in-autoarchive"></a>Găsirea e-mailului în arhivare automată
+# <a name="find-email-in-autoarchive"></a>Găsirea e-mailului în Arhivare automată
 
-Fișierul arhivă este un tip de fișier de date Outlook (. pst). Pentru prima dată când se execută arhivare automată, fișierul arhivă este creat automat în: C:\Users\YourUserName\Documents\Outlook Files\archive.pst.
+Fișierul arhivă este un tip de fișier Outlook date (.pst). Prima dată când rulează Arhivarea automată, fișierul arhivă este creat automat în: C:\Utilizatori\NumeleDvsDeUtilizator\Documente\Outlook Files\archive.pst.
 
-Pentru a vizualiza arhivarea automată:
+Pentru a vizualiza Arhivarea automată:
 
-1. În Outlook, alegeți fila **fișier** > **deschideți**  >  **fișierul de date Outlook**.
-2. Navigați la locația fișierului PST și deschideți-l. Aceasta va adăuga fișierul PST în lista de foldere.
-3. Puteți să căutați în folder mesaje de e-mail anterioare.
+1. În Outlook, alegeți **fila Fișier** sau > **Deschidere** Outlook  >  **de date.**
+2. Navigați la locația fișierului PST și deschideți-l. Acest lucru va adăuga fișierul PST în lista de foldere.
+3. Puteți căuta în folder mesajele de e-mail trecute.

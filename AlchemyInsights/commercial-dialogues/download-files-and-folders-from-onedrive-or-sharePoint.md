@@ -1,5 +1,5 @@
 ---
-title: Descărcarea de fișiere și foldere din OneDrive sau SharePoint
+title: Descărcarea fișierelor și folderelor OneDrive foldere SharePoint
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017396"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Descărcarea de fișiere și foldere din OneDrive sau SharePoint
+# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Descărcarea fișierelor și folderelor OneDrive foldere SharePoint
 
-Puteți să descărcați fișiere și foldere din Microsoft OneDrive sau din SharePoint în Microsoft 365 sau SharePoint Server 2019, pe computer cu doar câteva clicuri. Pentru mai multe informații, consultați [descărcarea fișierelor și folderelor din OneDrive sau SharePoint](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Puteți descărca fișierele și folderele de pe Microsoft OneDrive sau de pe SharePoint în Microsoft 365 sau SharePoint Server 2019, pe computer cu doar câteva clicuri. Pentru mai multe informații, [consultați Descărcarea fișierelor și folderelor de OneDrive sau de SharePoint](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

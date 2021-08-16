@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 610357684f0086b4de5813c2246acf00be36f5cb873a0fd1162b00fd0e57eb42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066088"
 ---
-# <a name="microsoft-threat-experts"></a>Experți în amenințări Microsoft
+# <a name="microsoft-threat-experts"></a>Experți Microsoft în domeniul amenințărilor
 
-Experții Microsoft în amenințări este un serviciu gestionat de căutarea amenințărilor în Microsoft Defender pentru punctul final.  Suntem parteneri cu Centrul de operațiuni de securitate pentru a monitoriza, a analiza și a susține identificarea și răspunsul la amenințări critice în mediul dvs. unic.
+Experți Microsoft în domeniul amenințărilor este un serviciu de căutarea a amenințărilor gestionate în Microsoft Defender pentru punctul final.  Suntem parteneri cu Centrul de operațiuni de securitate pentru a monitoriza, a analiza și a susține identificarea și răspunsul la amenințări critice în mediul dvs. unic.
 
-Acest serviciu de căutare a amenințărilor gestionate oferă detalii și date pe bază de experți prin aceste două capacități: notificare de atac țintit și acces la experți la cerere. Pentru Detalii despre Punctul final Microsoft Defender, consultați Experți în amenințări [Microsoft.]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
+Acest serviciu de căutare a amenințărilor gestionate oferă detalii și date pe bază de experți prin aceste două capacități: notificare de atac țintit și acces la experți la cerere. Pentru Detalii despre Microsoft Defender pentru puncte finale, [consultați Experți Microsoft în domeniul amenințărilor]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts).
 
-Pentru detalii despre serviciul gestionat de suspectare a amenințărilor în contextul protejării punctelor finale, e-mailului și identităților organizației dvs., consultați Experții Microsoft în amenințări din [Microsoft 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)- Prezentare generală.
+Pentru detalii despre serviciul de amenințare gestionată pe care îl caută în contextul protejării punctelor finale, e-mailului și identităților organizației dvs., consultați Experți Microsoft în domeniul amenințărilor detalii [Microsoft 365 prezentare generală](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide).
