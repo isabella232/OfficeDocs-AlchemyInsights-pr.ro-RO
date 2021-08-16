@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf532c2b2ce54a33cfbd122a2b8032d8343df881634d51c507b3c743d7ed1d6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068608"
 ---
 # <a name="troubleshoot-your-printer"></a>Depanarea imprimantei
 
@@ -27,4 +27,4 @@ Dacă aveți probleme cu imprimanta, încercați mai întâi să efectuați un c
 2. Așteptați 30 de secunde.
 3. Conectați din nou imprimanta și redeschideți imprimanta.
 
-Dacă acest lucru nu a rezolvat problema, rulați depanatorul de imprimantă, în **Porniți actualizarea**  >    >  **setărilor & Depanare**  >  **securitate**. Selectați **Imprimantă**, apoi selectați **Rulați depanatorul**.
+Dacă acest lucru nu v-a rezolvat problema, rulați depanatorul de imprimantă, în **Start**  >  **Setări**  >  **Actualizare & Depanare**  >  **securitate**. Selectați **Imprimantă**, apoi selectați **Rulați depanatorul**.

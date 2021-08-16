@@ -1,5 +1,5 @@
 ---
-title: 1800005 remedia problemele de căutare prin reconstruirea catalogului de căutare instantanee
+title: 1800005 Remediați problemele de căutare prin reconstruirea catalogului de căutare instantanee
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a51c7c24e63820a5abbfdc9d72f9f18554b9a9f42c5c804e944137df928efa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068530"
 ---
 # <a name="troubleshoot-search-issues"></a>Depanarea problemelor de căutare
 
-Dacă întâmpinați probleme cu căutarea în Outlook, vă rugăm să consultați linkurile de mai jos pentru ajutor și depanare.
+Dacă aveți probleme cu căutarea în Outlook, consultați linkurile de mai jos pentru ajutor și depanare.
 
-Acestea sunt cele mai comune probleme și sunt un bun punct de pornire:
+Acestea sunt problemele cele mai comune și sunt un bun loc pentru a începe:
 
-- [Căutarea Outlook nu returnează niciun rezultat](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Căutarea Outlook returnează rezultate incomplete](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Căutarea Outlook nu poate găsi mesaje de e-mail mai vechi](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook căutare nu returnează niciun rezultat](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook căutare returnează rezultate incomplete](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook nu puteți găsi mesajele de e-mail mai vechi](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-Soluțiile posibile pentru probleme mai puțin frecvente pot fi găsite aici:
+Soluții posibile pentru probleme mai puțin obișnuite pot fi găsite aici:
 
-- [Numai Outlook 2016: fila căutare este estompată](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [Cutie poștală partajată: probleme cu rezultatele căutării](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Eroare: performanța de căutare va fi afectată din cauza unei probleme cu modul în care este configurat Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Folderele de căutare afișează elemente PersonMetadata neașteptate fără niciun subiect](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016: fila Căutare este estompată](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Cutie poștală partajată: Probleme cu rezultatele căutării](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Eroare: Performanța căutării va fi afectate din cauza unei probleme cu modul Outlook este configurat](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Folderele de căutare afișează elemente PersoanăMetadata neașteptate, fără subiect](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
