@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: f3294bb9d0f388e1003181b0b83f9fd6ccef6097
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058194"
 ---
 # <a name="troubleshooting-the-intune-policy-and-profiles"></a>Depanarea politicii și profilurilor Intune
 
-Pentru a vedea politicile existente, a depana conflictele, a revizui datele din jurnal și a vedea întrebări și probleme uzuale, următoarele ghiduri pot ajuta:
+Pentru a vedea politicile existente, a depana conflicte, a revizui datele din jurnal și a vedea întrebări și probleme comune, următoarele ghiduri vă pot ajuta:
 
 - [Depanarea politicilor și profilurilor în Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
-- [Întrebări frecvente, probleme și rezoluții cu politicile și profilurile dispozitivelor în Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
-- [Monitorizarea profilurilor de configurare a dispozitivelor și vizualizarea conflictelor în Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
+- [Întrebări, probleme și rezolvări comune cu politicile și profilurile de dispozitiv în Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
+- [Monitorizarea profilurilor de configurare ale dispozitivelor și a conflictelor de vizualizare în Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
 - [Depanarea conformității dispozitivelor și accesului condiționat în Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
 - [Monitorizarea politicilor de conformitate și vizualizarea conflictelor în Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
 

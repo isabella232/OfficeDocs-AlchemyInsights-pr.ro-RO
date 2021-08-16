@@ -1,5 +1,5 @@
 ---
-title: Modul Microsoft teams together
+title: Microsoft Teams Modul Împreună
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012248"
 ---
-# <a name="microsoft-teams-together-mode"></a>Modul Microsoft teams together
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Modul Împreună
 
-Modul împreună combină deceniile de cercetare și dezvoltare a produselor pentru participanții la un apel video care par să fie împreună într-un spațiu virtual, cum ar fi o sală de ședințe, o sală de întâlniri sau o cafenea. 
+Modul împreună combină de zeci de ani de cercetare și dezvoltare de produse pentru participanți într-un apel video, pentru a părea că se află împreună într-un spațiu virtual, cum ar fi un auditoriu, o sală de întâlnire sau o cafenea. 
 
-Noua caracteristică șanțuri grila tradițională de casete, creând un mediu în care utilizatorii spun că are un impact profund asupra senzației Conferinței video și oferă mai multă coeziune grupului. Pentru a afla mai multe despre modul împreună, consultați [cum să beneficiați la maximum de modul împreună](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Noua caracteristică este caracteristică caracteristică tradițională a casetelor, creând un mediu despre care utilizatorii spun că are un impact impresionant asupra stilului conferinței video și oferă mai mult din partea grupului. Pentru a afla mai multe despre modul Împreună, consultați [Cum să obțineți cel mai mult din modul Împreună](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Pentru mai multe informații despre când modul împreună va fi disponibil pentru organizația dvs., consultați foaia de parcurs Microsoft 365, [Microsoft teams-modul împreună](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Pentru mai multe informații despre când va fi disponibil modul Împreună pentru organizația dvs., consultați Foaia Microsoft 365, [Microsoft Teams - Modul Împreună](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
