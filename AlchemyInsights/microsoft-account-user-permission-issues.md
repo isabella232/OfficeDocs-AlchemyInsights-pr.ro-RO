@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemei-utilizatorul nu a fost găsit în Director
+title: Depanarea problemei - Utilizatorul nu a fost găsit în director
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79429f8e9523ad6b08cd2cd2b19dd221bac797d00de142cbb18826b86fb5ae4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098182"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Depanarea problemei-utilizatorul nu a fost găsit în Director
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Depanarea problemei - Utilizatorul nu a fost găsit în director
 
-Dacă utilizatorii primesc mesajul de eroare "utilizatorul nu poate fi găsit" în director, vă rugăm să încercați din nou în cazul în care tipul de problemă este utilizator care nu este în director.
+Dacă utilizatorii primesc mesajul de eroare "Utilizatorul nu poate fi găsit" în director, încercați din nou dacă Tipul de problemă este Utilizator care nu se află în director.
 
-Pașii următori pot fi terminați pentru a depana problema.
+Următorii pași pot fi finalizați pentru a depana problema.
 
-- Asigurați-vă că contul care a acceptat invitația de e-mail este același cont utilizat pentru a vă conecta mai târziu. Asigurați-vă că utilizatorul utilizează același cont pentru a accepta invitația și a vă conecta la site. 
+- Asigurați-vă că acel cont care a acceptat invitația prin e-mail este același cont care este utilizat pentru a vă conecta mai târziu. Asigurați-vă că utilizatorul utilizează același cont pentru a accepta invitația și a se conecta la site. 
 
-Pentru mai multe informații, consultați [cum să gestionați aliasuri pentru contul Microsoft </a> pentru a gestiona conectarea Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Pentru mai multe informații, [consultați Cum se gestionează aliasurile pentru contul Microsoft </a> pentru a gestiona Microsoft 365 conectare.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- Navigați la fiecare site-uri în care utilizatorul primește eroarea. 
+- Navigați la fiecare site sau site în care utilizatorul primește eroarea. 
 
-Adăugați "/_layouts/15/People.aspx/MembershipGroupId = 0" (în ghilimele duble) până la sfârșitul URL-ului site-ului. 
+Adăugați "/_layouts/15/people.aspx/membershipgroupid=0" (în ghilimele duble) la sfârșitul adresei URL a site-ului. 
 
-Exemplu: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Exemplu: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Selectați utilizatorul din listă.
 
-- Faceți clic pe **Eliminare permisiuni utilizator** din panglică. 
--  Adăugați înapoi utilizatorul și retrimiteți invitația la utilizator.
+- Faceți **clic pe Eliminare permisiuni utilizator** din panglică. 
+-  Adăugați din nou Utilizatorul și retrimiteți invitația către utilizator.
 
