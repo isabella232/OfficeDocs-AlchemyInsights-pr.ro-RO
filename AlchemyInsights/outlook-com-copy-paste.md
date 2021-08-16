@@ -1,5 +1,5 @@
 ---
-title: Outlook.com copiere lipire
+title: Outlook.com copy paste
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011096"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Copierea și lipirea în Outlook.com
 
-Nu există butoane de copiere sau lipire în Outlook.com, dar puteți utiliza comenzi rapide de la tastatură:
+Nu există butoane pentru copiere sau lipire în Outlook.com, dar puteți utiliza comenzile rapide de la tastatură:
 
-**Pe un PC:** CTRL + C pentru a copia, CTRL + X pentru a decupa și CTRL + V pentru a-l lipi.
+**Pe un PC:** CTRL+C pentru a copia, CTRL+X pentru a decupa și CTRL+V pentru a lipi.
 
-**Pe un Mac:** CMD + C pentru a copia, CMD + X pentru a decupa și CMD + V pentru a-l lipi.
+**Pe un Mac:** CMD+C pentru a copia, CMD+X pentru a decupa și CMD+V pentru a lipi.

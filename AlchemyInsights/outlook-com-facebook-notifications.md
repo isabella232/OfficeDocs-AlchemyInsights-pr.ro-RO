@@ -1,5 +1,5 @@
 ---
-title: Notificări Facebook Outlook.com
+title: Outlook.com pe Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010988"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Notificări Facebook utilizând Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Notificări facebook utilizând Outlook.com
 
-Dacă nu doriți să primiți notificări de la Facebook, puteți să modificați [setările Facebook](https://aka.ms/facebook-notifications-settings) sau să configurați o regulă pentru Inbox.
+Dacă nu doriți să primiți notificări de la Facebook, puteți să modificați setările [Facebook sau](https://aka.ms/facebook-notifications-settings) să configurați o regulă de inbox.
 
-1. Accesați [Setări reguli](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Selectați **Adăugare regulă nouă**.
-1. Denumiți regula "Facebook".
-1. Adăugați o condiție "de la" și introduceți "notification@facebookmail.com"
-1. Adăugați o acțiune de "Ștergere". Alegerea ștergerii înseamnă că mesajele rămân în elementele șterse și pot fi recuperate. Dacă selectați "marcare ca nedorit", mesajele vor fi șterse automat și nu pot fi recuperate.
+1. Accesați Setări [de reguli.](https://outlook.live.com/mail/options/mail/rules/inboxRules)
+1. Selectați **Adăugați o regulă nouă.**
+1. Dați un nume regulii "Facebook".
+1. Adăugați condiția "De la" și introduceți "notification@facebookmail.com"
+1. Adăugați o acțiune "Ștergere". Dacă alegeți Ștergere, mesajele rămân în Elemente șterse și pot fi recuperate. Dacă selectați "Marcați ca nedorit", mesajele vor fi șterse automat și nu vor putea fi recuperate.
 1. Selectați **Salvare**.
