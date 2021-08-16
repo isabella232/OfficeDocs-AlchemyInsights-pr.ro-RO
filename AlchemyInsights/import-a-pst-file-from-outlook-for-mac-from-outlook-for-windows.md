@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987407"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295919"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importul unui fișier .pst din Outlook pentru Windows într-Outlook pentru Mac 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importul unui fișier .pst din Outlook pentru Windows în Outlook pentru Mac 
 
 Pentru a transfera mesajele și alte elemente de pe un computer bazat pe Windows pe un Mac, Outlook pentru Mac poate importa fișiere de date Outlook (.pst) care au fost create în Outlook pentru Windows.
 
@@ -28,7 +28,7 @@ Pentru a transfera mesajele și alte elemente de pe un computer bazat pe Windows
 
 1. Din meniul Outlook fișier **pentru** Mac, selectați **Import**.
 
-2. Alegeți **Outlook fișier Windows arhivă (.pst),** apoi faceți clic pe **Continuare.**
+2. Alegeți **Outlook fișier Windows de arhivă (.pst),** apoi faceți clic pe **Continuare.**
 
 3. Găsiți fișierul de date pe computerul dvs., apoi faceți clic **pe Import.**
 
@@ -37,13 +37,13 @@ Pentru a transfera mesajele și alte elemente de pe un computer bazat pe Windows
    Elementele importate apar în panoul de navigare de **sub Pe computerul meu.**
 
 
-**În Office 2011 - importul unui fișier .pst din fișier .pst Outlook pentru Windows**
+**În Office 2011 - importul unui fișier .pst din Outlook pentru Windows**
 
 1. Transferați fișierul .pst pe computerul Macintosh.
 
 2. Din meniul Outlook fișier pentru **Mac,** faceți clic pe **Import.**
 
-3. Faceți **Outlook fișier de date**, apoi faceți clic pe săgeata spre dreapta.
+3. Faceți **Outlook fișierul de date**, apoi faceți clic pe săgeata spre dreapta.
 
 4. Selectați **Outlook fișier Windows date , apoi** faceți clic pe săgeata spre dreapta.
 
@@ -53,16 +53,15 @@ Pentru a transfera mesajele și alte elemente de pe un computer bazat pe Windows
 
    Elementele importate apar în panoul de navigare de **sub Pe computerul meu.**
 
-> [!NOTE]
-> Outlook pentru Mac pot importa doar fișiere .pst bazate pe Unicode, care sunt formatul standard pentru fișierele de foldere personale pentru Outlook (pentru Windows) 2003 și versiunile mai recente. Fișierele .pst formatate ANSI, cunoscute și ca fișiere de foldere personale Outlook 97-2002, era formatul standard de foldere personale pentru salvarea datelor în Outlook pentru Windows în versiunile 97-2002. Acest format de fișier nu poate fi importat în Outlook pentru Mac. Dacă aveți versiunea mai veche a fișierului .pst formatat ANSI, nu există nicio procedură automată pentru a efectua conversia fișierului la formatul de fișier mai nou. Totuși, puteți să creați un nou fișier de date Outlook (.pst) în Microsoft Outlook pentru Windows 2003 sau versiuni mai recente, apoi să importați elementele din fișierul mai vechi în noul fișier. Apoi puteți importa noul fișier .pst în Outlook pentru Mac. Pentru mai multe informații despre crearea fișierelor .pst și importul elementelor, consultați Ajutorul pentru versiunea dvs. de Outlook pentru Windows. 
+**Notă:** Outlook pentru Mac pot importa doar fișiere .pst bazate pe Unicode, care sunt formatul standard pentru fișierele de foldere personale pentru Outlook (pentru Windows) 2003 și versiunile mai recente. Fișierele .pst formatate ANSI, cunoscute și ca fișiere de foldere personale Outlook 97-2002, erau formatul standard de foldere personale pentru salvarea datelor în Outlook pentru Windows în versiunile 97-2002. Acest format de fișier nu poate fi importat în Outlook pentru Mac. Dacă aveți versiunea mai veche a fișierului .pst formatat ANSI, nu există nicio procedură automată pentru a efectua conversia fișierului la formatul de fișier mai nou. Totuși, puteți să creați un nou fișier de date Outlook (.pst) în Microsoft Outlook pentru Windows 2003 sau versiuni mai recente, apoi să importați elementele din fișierul mai vechi în noul fișier. Apoi puteți importa noul fișier .pst în Outlook pentru Mac. Pentru mai multe informații despre crearea fișierelor .pst și importul elementelor, consultați Ajutorul pentru versiunea dvs. de Outlook pentru Windows. 
 
 **Deschiderea unui fișier Outlook date (.pst sau .olm)**
 
 Puteți importa un fișier Outlook pentru Windows date (.pst) sau un fișier de date Outlook pentru Mac (.olm). Aceste fișiere de date pot conține volume mari de date cu mai multe tipuri de elemente. Outlook Fișierele de date sunt utilizate frecvent ca arhivă sau pentru transferul datelor între computere.
 
-1. Pe meniul Outlook fișier pentru Mac, faceți clic pe **Import.**
+1. În meniul Outlook fișier pentru Mac, faceți clic pe **Import.**
 
-2. Faceți **Outlook fișier de date**, apoi faceți clic pe săgeata spre dreapta.
+2. Faceți **Outlook fișierul de date**, apoi faceți clic pe săgeata spre dreapta.
 
 3. Selectați un tip de fișier de date, apoi faceți clic pe săgeata spre dreapta.
 
@@ -72,8 +71,7 @@ Puteți importa un fișier Outlook pentru Windows date (.pst) sau un fișier de 
 
 Elementele importate apar în panoul de navigare de **sub Pe computerul meu.**
 
-> [!NOTE]
-> Outlook pentru Mac pot importa doar fișiere .pst bazate pe Unicode, care sunt formatul standard pentru fișierele de foldere personale pentru Outlook (pentru Windows) 2003 și versiunile mai recente. Fișierele .pst formatate ANSI, cunoscute și ca fișiere de foldere personale Outlook 97-2002, nu se pot importa în fișiere Outlook pentru Mac. Dacă aveți versiunea mai veche a fișierului .pst formatat ANSI, nu există nicio procedură automată pentru a efectua conversia fișierului la formatul de fișier mai nou. Totuși, puteți să creați un nou fișier de date Outlook (.pst) în Microsoft Outlook pentru Windows 2003 sau o versiune mai recentă, apoi să importați elementele din fișierul mai vechi în fișierul nou. Apoi puteți importa noul fișier .pst în Outlook pentru Mac. Pentru mai multe informații despre crearea fișierelor .pst și importul elementelor, consultați Ajutorul pentru versiunea dvs. de Outlook pentru Windows. 
+**Notă:** Outlook pentru Mac pot importa doar fișiere .pst bazate pe Unicode, care sunt formatul standard pentru fișierele de foldere personale pentru Outlook (pentru Windows) 2003 și versiunile mai recente. Fișierele .pst formatate ANSI, cunoscute și ca fișiere de foldere personale Outlook 97-2002, nu se pot importa în fișiere Outlook pentru Mac. Dacă aveți versiunea mai veche a fișierului .pst formatat ANSI, nu există nicio procedură automată pentru a efectua conversia fișierului la formatul de fișier mai nou. Totuși, puteți să creați un nou fișier de date Outlook (.pst) în Microsoft Outlook pentru Windows 2003 sau o versiune mai recentă, apoi să importați elementele din fișierul mai vechi în fișierul nou. Apoi puteți importa noul fișier .pst în Outlook pentru Mac. Pentru mai multe informații despre crearea fișierelor .pst și importul elementelor, consultați Ajutorul pentru versiunea dvs. de Outlook pentru Windows. 
 
 **Deschiderea elementelor Entourage dintr-o arhivă sau dintr-o versiune anterioară**
 
@@ -81,14 +79,14 @@ Puteți să importați elemente cum ar fi mesaje de e-mail, persoane de contact 
 
 1. Din meniul Outlook fișier pentru **Mac,** faceți clic pe **Import.**
 
-2. Faceți **clic pe Informații Entourage dintr-o arhivă sau o** versiune anterioară , faceți clic pe săgeata spre dreapta, apoi urmați instrucțiunile.
+2. Faceți **clic pe Informații Entourage dintr-o arhivă sau o versiune anterioară,** faceți clic pe săgeata spre dreapta, apoi urmați instrucțiunile.
 
-> [!NOTE]
+**Notă:**
 - Dacă ați utilizat un cont Microsoft Exchange cu Entourage, toate elementele din contul Exchange sunt descărcate de pe serverul Exchange după finalizarea procesului de import. Orice reguli sau planificări referitoare la contul Exchange vor trebui reconfigurate în Outlook.
 
-- Dacă importați elemente din Entourage 2004 sau Entourage 2008, informațiile despre categorii pentru elementele dintr-un cont Exchange nu sunt importate în Outlook. Cu toate acestea, cu Entourage 2008, Web Services Edition, informațiile despre categorii vor fi descărcate de Exchange server.
+- Dacă importați elemente din Entourage 2004 sau Entourage 2008, informațiile despre categorii pentru elementele dintr-un cont Exchange nu sunt importate în Outlook. Cu toate acestea, cu Entourage 2008, Web Services Edition, informațiile despre categorii vor fi descărcate de pe Exchange server.
 
-- Outlook include Centrul Project. Dacă ai utilizat Centrul Project în Entourage, apoi ai importa informațiile Entourage în Outlook, asocierile din Centrul Project se transformă în categorii. De exemplu, dacă ați adăugat elemente la un proiect care a fost intitulat "Teancod" de cercetare în Entourage, aceste elemente se atribuie unei categorii denumite "Lucrare de cercetare" în Outlook.
+- Outlook include centrul Project. Dacă ai utilizat Centrul Project în Entourage, apoi ai importa informațiile Entourage în Outlook, asocierile din Project Center sunt convertite în categorii. De exemplu, dacă ați adăugat elemente la un proiect care a fost intitulat "Lucrare de cercetare" în Entourage, aceste elemente se atribuie unei categorii denumite "Telegrafie de cercetare" în Outlook.
 
 - Vizualizările particularizate, setările de căutare și informațiile despre timpul de călătorie pentru eveniment din Entourage nu sunt importate în Outlook. Outlook nu includ informații privind timpul de călătorie.
 
@@ -100,8 +98,7 @@ Puteți să importați elemente cum ar fi mesaje de e-mail, persoane de contact 
 
 3. În caseta de căutare, introduceți numele folderului pe care doriți să-l mutați și faceți clic pe **Mutare.**
 
-> [!TIP]
-> Pentru a copia un element dintr-un folder de arhivă în alt folder din Outlook, glisați pur și simplu elementul în folderul în care doriți să plasați copia.
+   **Sfat:** Pentru a copia un element dintr-un folder de arhivă în alt folder din Outlook, glisați pur și simplu elementul în folderul în care doriți să plasați copia.
 
 **Consultați și**
 

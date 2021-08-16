@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966985"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296063"
 ---
 # <a name="release-quarantined-messages"></a>Eliberarea mesajelor în carantină
 
-Puteți să eliberați un mesaj (sau un set de mesaje) în carantină către toți destinatarii sau să eliberați mesajul doar anumitor persoane pe care le alegeți din lista tuturor destinatarilor.
+Puteți să eliberați un mesaj (sau un set de mesaje) în carantină pentru toți destinatarii sau să eliberați mesajul doar anumitor persoane pe care le alegeți din lista tuturor destinatarilor. Iată cum se procedează:
 
-1. Accesați Centrul [de & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Accesați Treceți în **carantină**  >  **Revizuirea gestionării**  >  **amenințărilor.**
-3. Alegeți mesajele pe care doriți să le eliberați.
-4. După ce eliberați un mesaj, **alegeți Reîmprospătare** pentru a reîmprospăta datele, apoi faceți dublu clic pe mesaj. Ar trebui să vedeți că mesajul a fost lansat pentru destinatarii inițiali.
+1. În portalul de Microsoft 365 Defender la <https://security.microsoft.com> , accesați Treceți în **carantină & de revizuire** a \>  \> **colaborării.**
+
+   Pentru a merge direct la pagina **Carantină,** utilizați <https://security.microsoft.com/quarantine> .
+
+2. Pe pagina **Carantină,** verificați dacă fila **e-mail** este selectată, apoi urmați unul dintre pașii următori:
+   - **Mesaj unic:** selectați mesajul. În meniul volant detalii care apare, selectați **E-mail lansare**, configurați opțiunile dorite, apoi faceți clic pe Mesaj **de lansare**.
+   - **Mai multe** mesaje : selectați până la 100 de mesaje pentru a lansa mesajul pentru toți destinatarii (nu puteți specifica destinatari inițiali individuali). În lista **verticală Acțiuni** în bloc care apare, **selectați** Eliberați mesaje , configurați opțiunile dorite, apoi faceți clic pe Mesaj **de lansare**.
+
+Pentru mai multe informații, consultați articolele de mai jos:
+
+- [Găsirea și eliberarea mesajelor aflate în carantină ca utilizator](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Gestionarea mesajelor și fișierelor în carantină ca administrator](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
