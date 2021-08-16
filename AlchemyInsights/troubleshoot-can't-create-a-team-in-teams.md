@@ -1,5 +1,5 @@
 ---
-title: Ce se poate face dacă nu puteți crea o echipă în Microsoft teams
+title: Ce se poate face dacă nu puteți crea o echipă în Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: 287416aac9034104272b4ddb453be04b2488f2f7
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: 439f00147f7d643fbb77fc4107c3664a4f4e0d6a58d31d2a5a33599fab16185f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048600"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Ce se poate face dacă nu puteți crea o echipă în Microsoft teams
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Ce se poate face dacă nu puteți crea o echipă în Microsoft Teams
 
-Solicitați administratorului teams să efectueze următoarele:
+Solicitați administratorului Teams să facă următoarele:
 
-1. Creați sau modificați setările grupului de securitate al organizației în Microsoft 365.
-2. Adăugați-vă la acel grup de securitate.
+1. Creați sau modificați setările de grup de securitate ale organizației în Microsoft 365.
+2. Să vă adaug la acel grup de securitate.

@@ -1,5 +1,5 @@
 ---
-title: Remedierea politicii anti-spam
+title: Remedierea politicii antispam
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988271"
 ---
-# <a name="fix-anti-spam-policy"></a>Remedierea politicii anti-spam
+# <a name="fix-anti-spam-policy"></a>Remedierea politicii antispam
 
-O politică antispam particularizată din entitatea găzduită A afectat acest mesaj. Pentru a revizui politica, procedați astfel:
+O politică antispam personalizată din entitatea găzduită a afectat acest mesaj. Pentru a revizui politica, acțiunile următoare:
 
-1. Accesați centrul de [conformitate Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de **gestionare a amenințărilor**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pe fila **particularizat** , selectați **politica implicită de filtrare antispam** sau orice altă politică particularizată pe care ați creat-o, apoi selectați **Editare politică**.
-3. Extindeți opțiunea **Proprietăți spam** și Examinați setările **Marcare ca spam** .
+1. Accesați Centrul de [Office 365 securitate &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de gestionare a  >  **amenințărilor**  >  [Antispam.](https://go.microsoft.com/fwlink/?linkid=2101518)
+2. Pe fila **Particularizate,** selectați Politica **implicită de filtrare antispam** sau orice altă politică personalizată pe care ați creat-o, apoi **selectați Editați politica.**
+3. Extindeți **opțiunea de Proprietăți spam** și revizuiți setările **Marcați ca spam.**
 
-Pentru mai multe informații despre configurarea politicilor de filtrare antispam, consultați [Configurarea setărilor de politică de filtrare antispam](https://go.microsoft.com/fwlink/?linkid=2101054).
+Pentru mai multe informații despre configurarea politicilor de filtrare antispam, consultați Configurarea [setărilor politicii personalizate de filtrare antispam.](https://go.microsoft.com/fwlink/?linkid=2101054)

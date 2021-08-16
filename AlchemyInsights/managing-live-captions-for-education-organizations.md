@@ -1,5 +1,5 @@
 ---
-title: Gestionarea legendelor în direct pentru organizațiile educaționale
+title: Gestionarea subtitrărilor în direct pentru organizațiile din educație
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066710"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Gestionarea legendelor în direct pentru organizațiile educaționale
+# <a name="managing-live-captions-for-education-organizations"></a>Gestionarea subtitrărilor în direct pentru organizațiile din educație
 
-Vă recomandăm administratori ai organizațiilor educaționale, luați în considerare utilizarea pachetelor de politici pentru siguranța elevilor și educatorilor și a educatorilor. Pentru mai multe informații, consultați:  
+Recomandăm administratorilor organizațiilor din educație să ia în considerare utilizarea pachetelor de politici pentru siguranța elevilor/studenților și a cadrelor didactice. Pentru mai multe informații, consultați:  
 
-- [Pachetele de politici din Microsoft teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Pachete de politică în Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Politici care ar trebui să fie atribuite pentru siguranța elevilor](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Politici care trebuie atribuite pentru siguranța elevilor/studenților.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Politici care ar trebui să fie atribuite pentru cadre didactice](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Politici care trebuie atribuite cadrelor didactice](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Dacă doriți să gestionați doar capacitatea de a activa legende în direct, consultați [Activarea legendelor în direct](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Pentru mai multe informații, consultați [gestionarea politicilor de întâlnire în teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Dacă doriți să gestionați doar capacitatea de a activa subtitrări în direct, consultați [Activarea subtitrărilor în direct.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) Pentru mai multe informații, consultați [Gestionarea politicilor pentru întâlniri în Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

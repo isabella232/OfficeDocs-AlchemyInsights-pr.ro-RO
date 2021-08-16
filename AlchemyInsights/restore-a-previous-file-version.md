@@ -1,5 +1,5 @@
 ---
-title: Restaurarea unei versiuni anterioare de fișier
+title: Restaurarea unei versiuni anterioare a fișierului
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039582"
 ---
-# <a name="restore-a-previous-file-version"></a>Restaurarea unei versiuni anterioare de fișier
+# <a name="restore-a-previous-file-version"></a>Restaurarea unei versiuni anterioare a fișierului
 
-Cu Istoricul versiunilor online, puteți să vedeți și să restaurați versiunile mai vechi ale fișierelor în OneDrive sau SharePoint. Istoricul versiunilor funcționează cu toate tipurile de fișiere, inclusiv PDF-uri, fișiere CAD, fotografii și videoclipuri. Pentru a restaura o versiune anterioară de fișier:
+Cu ajutorul istoricului versiunilor online, puteți să vedeți și să restaurați versiuni mai vechi ale fișierelor în OneDrive sau SharePoint. Istoricul versiunii funcționează cu toate tipurile de fișiere, inclusiv fișiere PDF și CAD, fotografii și videoclipuri. Pentru a restaura o versiune anterioară de fișier:
   
-1. Deschideți biblioteca de documente SharePoint sau locația OneDrive.
+1. Deschideți biblioteca SharePoint document sau locația OneDrive document.
     
-2. Faceți clic în partea stângă a fișierului pentru a-l selecta, apoi faceți clic pe **istoric versiuni**. Dacă nu vedeți Istoricul versiunilor în bara de comenzi, faceți clic pe mai multe ( **...** ). 
+2. Faceți clic în partea stângă a fișierului pentru a-l selecta, apoi faceți clic **pe Istoric versiuni.** Dacă nu vedeți Istoricul versiunilor pe bara de comenzi, faceți clic pe Mai multe ( **...** ). 
     
-3. Faceți clic pe versiunea pe care doriți să o vizualizați sau faceți clic pe mai multe ( **...** ) în partea dreaptă a unei versiuni, apoi faceți clic pe **Restaurare**.
+3. Faceți clic pe versiunea pe care doriți să o vizualizați sau faceți clic pe Mai multe ( **...** ) în partea dreaptă a unei versiuni, apoi faceți clic pe **Restaurare.**
     
 
