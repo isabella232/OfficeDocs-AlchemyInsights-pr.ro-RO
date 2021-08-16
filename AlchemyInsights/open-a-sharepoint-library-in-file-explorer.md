@@ -1,5 +1,5 @@
 ---
-title: Deschiderea unei biblioteci SharePoint în Explorer
+title: Deschiderea unei SharePoint de fișiere în Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025262"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Deschiderea unei biblioteci SharePoint în Explorer
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Deschiderea unei SharePoint de fișiere în Explorer
 
-1. Răsfoiți la bibliotecă în Internet Explorer 10 sau Internet Explorer 11. 
+1. Navigați la biblioteca din Internet Explorer 10 sau Internet Explorer 11. 
     
-2. Faceți clic pe pictograma Vizualizare din colțul din dreapta sus, apoi faceți clic pe **vizualizare în Explorer**.
+2. Faceți clic pe pictograma Vizualizare din colțul din dreapta sus, apoi **faceți clic pe Vizualizare în Explorer.**
     
 > [!NOTE]
-> Deschiderea unei biblioteci în Explorer este utilă dacă trebuie să copiați sau să mutați mai multe fișiere și foldere o singură dată, dar dacă doriți să lucrați în mod regulat în bibliotecă, vă recomandăm să îl sincronizați. Pentru a depana problemele care se deschid în Explorer, consultați [deschiderea în Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Pentru informații despre configurarea sincronizării, consultați [sincronizarea fișierelor SharePoint cu noul client de sincronizare OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Deschiderea unei biblioteci în Explorer este utilă dacă trebuie să copiați sau să mutați mai multe fișiere și foldere o dată, dar dacă doriți să lucrați cu regularitate în bibliotecă, vă recomandăm să o sincronizați. Pentru a depana problemele de deschidere în Explorer, [consultați Deschidere în Explorer.](https://go.microsoft.com/fwlink/?linkid=871665) Pentru informații despre configurarea sincronizării, [consultați Sincronizarea SharePoint cu noul client Sincronizare cu OneDrive client](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

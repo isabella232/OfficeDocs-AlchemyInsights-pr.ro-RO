@@ -1,5 +1,5 @@
 ---
-title: Recuperarea BitLocker Outlook.com
+title: Outlook.com BitLocker
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025118"
 ---
-# <a name="bitlocker-recovery"></a>Recuperarea BitLocker
+# <a name="bitlocker-recovery"></a>Recuperare BitLocker
 
-Accesați [dispozitive](https://account.microsoft.com/devices/recoverykey) pentru a vizualiza cheile de recuperare BitLocker.
+Accesați Dispozitive [pentru](https://account.microsoft.com/devices/recoverykey) a vizualiza cheile de recuperare BitLocker.
 
-Consultați [Găsirea cheii de recuperare BitLocker](https://support.microsoft.com/help/4026181)   pentru mai multe informații.
+Consultați [Găsirea cheii de recuperare BitLocker](https://support.microsoft.com/help/4026181) pentru mai multe informații.
