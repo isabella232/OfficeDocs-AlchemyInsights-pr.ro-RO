@@ -1,5 +1,5 @@
 ---
-title: Aflați despre compatibilitatea site-ului-care afectează modificările care sosesc în Microsoft Edge
+title: Aflați despre compatibilitatea site-ului care afectează modificările care Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 80955b953f48a7cc70b009d71c7c0c65da6c8ad56e76cb2b4f76edd2486dc076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022148"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Aflați despre compatibilitatea site-ului-care afectează modificările care sosesc în Microsoft Edge
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Aflați despre compatibilitatea site-ului care afectează modificările care Microsoft Edge
 
-Webul evoluează constant pentru a îmbunătăți experiența de utilizator, securitatea și confidențialitatea. Unele modificări sunt suficient de semnificative pentru a afecta funcționalitatea paginilor existente. Echipa Microsoft Edge actualizează paginile pe măsură ce gândirea evoluează, cronologiile solidifică și [modificările sunt anunțate](https://go.microsoft.com/fwlink/?linkid=2135534).
+Webul evoluează permanent, pentru a îmbunătăți experiența de utilizator, securitatea și confidențialitatea. Unele modificări sunt suficient de semnificative pentru a afecta funcționalitatea paginilor existente. Echipa Microsoft Edge actualizează paginile pe măsură ce gândurile evoluează, cronologia se dezvoltă și sunt [anunțate modificări.](https://go.microsoft.com/fwlink/?linkid=2135534)
