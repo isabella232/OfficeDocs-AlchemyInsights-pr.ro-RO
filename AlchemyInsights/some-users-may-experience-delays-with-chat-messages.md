@@ -1,5 +1,5 @@
 ---
-title: Unii utilizatori pot avea întârzieri cu mesajele de chat
+title: Unii utilizatori pot experimenta întârzieri în mesajele de chat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "8431"
-ms.openlocfilehash: ad5f11e60aa4c14f1accc43300dc1b3af75709ff
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: ec2adfdcfd4145a187cb1a1e816594a19f825fe84619c4972be73ee565befe77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021680"
 ---
-# <a name="some-users-may-experience-delays-with-chat-messages"></a>Unii utilizatori pot avea întârzieri cu mesajele de chat
+# <a name="some-users-may-experience-delays-with-chat-messages"></a>Unii utilizatori pot experimenta întârzieri în mesajele de chat
 
-Microsoft cunoaște o problemă în care utilizatorii pot avea întârzieri în trimiterea și primirea mesajelor de chat atunci când utilizează teams.
+Microsoft cunoaște o problemă în care utilizatorii pot experimenta întârzieri la trimiterea și primirea mesajelor de chat atunci când Teams.
 
 Pentru cele mai recente informații, consultați [https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228](https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228)

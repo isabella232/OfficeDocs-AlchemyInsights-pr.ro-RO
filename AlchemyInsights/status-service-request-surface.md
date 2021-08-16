@@ -1,5 +1,5 @@
 ---
-title: Verificarea stării unei solicitări de comandă de serviciu pentru Surface sau Xbox
+title: Verificarea stării unei solicitări de comandă de service pentru Surface sau Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021536"
 ---
-# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Verificarea stării unei solicitări de comandă de serviciu pentru Surface sau Xbox
+# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Verificarea stării unei solicitări de comandă de service pentru Surface sau Xbox
 
-Dacă doriți să vizualizați detaliile comenzii de serviciu (de exemplu, solicitările de reparare), urmați acești pași:
+Dacă doriți să vedeți detaliile comenzii de service (de exemplu, solicitările de reparare), urmați acești pași:
 
-1. Accesați servicii dispozitiv.
+1. Accesați Servicii pentru dispozitive.
 
 1. Selectați **Afișați detaliile** pentru a vedea istoricul complet și cele mai recente actualizări.
 
