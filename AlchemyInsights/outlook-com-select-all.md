@@ -1,5 +1,5 @@
 ---
-title: 8000090 Outlook.com Selectare totală
+title: 8000090 Outlook.com - selectați tot
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010808"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Cum se "selectează toate" din Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>Cum să "selectați tot" în Outlook.com
 
-Puteți selecta toate dacă toate mesajele sunt vizibile. Aceasta este pentru a împiedica acțiunile accidentale din mesajele pe care nu le vedeți.
+Puteți selecta toate mesajele doar dacă sunt vizibile. Aceasta pentru a preveni acțiunile accidentale asupra mesajelor pe care nu le puteți vedea.
 
-**Ctrl + clic** selectează mai multe mesaje individuale.
+**CTRL + clic selectează** mai multe mesaje individuale.
 
-**Shift + clic** selectează toate mesajele dintre primul și ultimul mesaj pe care îl selectați.
+**SHIFT + clic selectează** toate mesajele dintre primul și ultimul mesaj pe care îl selectați.

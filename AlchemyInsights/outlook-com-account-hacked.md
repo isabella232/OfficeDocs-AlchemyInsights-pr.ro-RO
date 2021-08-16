@@ -1,5 +1,5 @@
 ---
-title: contul 8000039 Outlook.com tocat
+title: 8000039 Outlook.com a spart un cont
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: b7f72921e6eddddff0fa9e95dd28006a50780c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17129583b48db457d8cec814b8fde19888a720e4878ba35d60088e381d63927c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096562"
 ---
-# <a name="outlookcom-account-hacked"></a>Cont Outlook.com tocat
+# <a name="outlookcom-account-hacked"></a>Outlook.com a spart un cont
 
-Dacă contul a fost spart, urmați instrucțiunile din [contul meu Outlook.com a fost tocat](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) pentru a vă recupera contul.
+În cazul în care contul dvs. a fost spart de un hacker, urmați instrucțiunile din contul meu [Outlook.com](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) a fost spart de un hacker pentru a vă recupera contul.
   
-Aflați mai multe despre [securitatea Outlook.com avansată pentru abonații Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Aflați mai [multe despre Outlook.com avansată pentru Microsoft 365 abonați.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)
   
