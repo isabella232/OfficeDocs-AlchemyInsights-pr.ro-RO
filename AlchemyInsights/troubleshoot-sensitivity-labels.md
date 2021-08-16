@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11017"
 - "9000181"
-ms.openlocfilehash: ae6829dbb16d5f76795325da939bf1591734c398
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
-ms.translationtype: MT
+ms.openlocfilehash: 6dc6a7776813b0a2a71b2d726b3c8af1dfd33e83b5c79376e7fbcfcc2a6ea0a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "52125315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020924"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>Depanarea etichetelor de sensibilitate care nu se afișează
 
 Dacă ați configurat etichetele de sensibilitate, dar acestea nu apar în aplicațiile Office, verificați următoarele:
 
-- Asigurați-vă Office 365 este atribuită o licență E3 sau E5.
+- Asigurați-vă Office 365 E3 este atribuită o licență E5.
 
 - Confirmați că eticheta de cloritate a fost publicată pentru utilizatorii și grupurile dorite.
 
