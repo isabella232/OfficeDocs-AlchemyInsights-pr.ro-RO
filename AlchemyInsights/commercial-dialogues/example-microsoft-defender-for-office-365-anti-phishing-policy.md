@@ -1,5 +1,5 @@
 ---
-title: Exemplu de politică anti-phishing Microsoft Defender pentru Office 365
+title: Exemplu de Microsoft Defender pentru Office 365 anti-phishing
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035018"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Exemplu de politică anti-phishing Microsoft Defender pentru Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Exemplu de Microsoft Defender pentru Office 365 anti-phishing
 
-Aceste setări permit o politică denumită *Domain și CEO*. Această politică oferă protecție pentru utilizator și domeniu de la personificare, apoi aplică politica pentru toate mesajele de e-mail primite de utilizatorii din domeniu. Mai întâi, adăugați următoarele informații pentru a crea politica:
+Aceste setări activează o politică numită *Domeniu și CEO*. Această politică asigură atât protecția utilizatorilor, cât și a domeniului împotriva substituirii zonării, apoi aplică politica la toate mesajele de e-mail primite de utilizatorii din domeniu. Mai întâi, adăugați următoarele informații pentru a crea politica:
 
-- **Nume**: Domain and CEO **Description**: asigură faptul că directorul general și domeniul dumneavoastră nu sunt imitate.
-  **Aplicată la**: selectați **domeniul destinatarului este**. Sub **oricare dintre acestea**, selectați **alegere**, apoi selectați un domeniu. Selectați **+ Adăugare**. Bifați caseta de selectare de lângă numele domeniului din listă (de exemplu, *contoso.com*), apoi selectați **Adăugare**. Selectați **gata**.
-- După ce se creează politica, puteți ajusta politica utilizând următoarele opțiuni:
-  - **Adăugați utilizatori pentru a proteja:** Pentru acest exemplu, adăugați adresa de e-mail a CEO-ului, cel puțin.
-  - **Adăugați domenii de protejat**: adăugați domeniul organizațional care include Office pentru CEO.
-  - **Alegeți acțiuni**: pentru **dacă e-mailul este trimis de un utilizator pretins**, selectați **redirecționați mesajul către altă adresă de e-mail**, apoi introduceți adresa de e-mail a administratorului de securitate (de exemplu, *securityadmin@contoso.com*). **Dacă e-mailul este trimis de un domeniu pretins**, selectați **carantină mesaj**.
-  - **Serviciul de informații pentru cutia poștală**: în mod implicit, această opțiune este selectată atunci când creați o nouă politică anti-phishing. Lăsați această setare **la** cele mai bune rezultate.
-  - **Adăugați expeditori și domenii de încredere:** Pentru acest exemplu, nu definiți nicio suprascrie.
-- După ce ați revizuit setările, selectați **Creați această politică** sau **Salvați**, după cum este cazul.
+- **Nume:** Descriere domeniu și ceo: asigură că ceo și domeniul dvs. nu vor fi substituiți de identitate.
+  **Se aplică la:** **Selectați Domeniul destinatarului este**. Sub **Oricare dintre acestea**, **selectați Alegeți**, apoi selectați un domeniu. Selectați **+ Adăugare**. Bifați caseta de selectare de lângă numele domeniului din listă (de exemplu, *nume contoso.com*), apoi selectați **Adăugare**. Selectați **Terminat**.
+- După ce se creează politica, puteți să reglați fin politica utilizând următoarele opțiuni:
+  - **Adăugați utilizatori pentru a proteja:** Pentru acest exemplu, adăugați adresa de e-mail a ceoului, cel puțin.
+  - **Adăugați domenii pentru a proteja:** adăugați domeniul organizațional care include biroul de CEO.
+  - **Alegeți acțiuni:** **Pentru** Dacă e-mailul este trimis de un utilizator cu identitate , selectați Redirecționare mesaj la altă adresă de e-mail **,** apoi introduceți adresa de e-mail a administratorului de securitate (de *exemplu, securityadmin@contoso.com*). Pentru Dacă **e-mailul este trimis de un domeniu cu substituire a zonei,** selectați **Puneți în carantină mesajul.**
+  - **Informații despre cutia** poștală: Această opțiune este selectată în mod implicit atunci când creați o nouă politică anti-phishing. Lăsați această setare **La, pentru** rezultate optime.
+  - **Adăugați expeditori și domenii de încredere:** Pentru acest exemplu, nu definiți înlocuiri.
+- După ce ați revizuit setările, selectați Creați această **politică sau Salvați** **,** după cum este necesar.
 
-Pentru a afla mai multe, consultați [politici anti-phishing în Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Pentru a afla mai multe, [consultați Politicile anti-phishing din Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
