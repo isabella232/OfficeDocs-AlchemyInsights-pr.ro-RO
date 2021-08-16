@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097528"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Noile etichete de retenție create automat
 
-Este posibil să vedeți [trei noi etichete de retenție](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) create automat în organizație sub **etichete de retenție** în centrul de administrare de securitate sau conformitate. Numele etichetelor sunt:
+Este posibil să vedeți [trei noi etichete de retenție](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) create automat în organizația dvs. sub Etichete de **retenție** în centrul de administrare pentru securitate sau conformitate. Numele etichetelor sunt:
 
 - Procedură operațională
-- General firmă
-- Contract contractual
+- General pentru afaceri
+- Contract contract
 
-Aceasta va avea loc prima dată când alegeți **plan de fișier** dacă nu există alte etichete de retenție create. Aceste etichete sunt create automat și, dacă este necesar, pot fi eliminate dacă acestea nu au fost aplicate încă la conținut. Pentru a elimina etichetele:
+Aceasta se va întâmpla prima dată când alegeți **Plan fișier dacă** nu se creează alte etichete de retenție. Aceste etichete sunt create automat și, dacă este necesar, pot fi eliminate dacă nu au fost aplicate încă la conținut. Pentru a elimina etichetele:
 
-1. În centrul de administrare de securitate sau de conformitate **Classifications**, alegeți  >  **Labels**  >  fila**reținere** etichete clasificări.
+1. În centrul de administrare pentru securitate sau conformitate, alegeți **fila Retenție**  >    >  **etichete clasificări.**
 
-1. Selectați etichetele de retenție pe care doriți să le eliminați > **Ștergere etichetă**  >  **Da** pentru a șterge eticheta.
+1. Selectați etichetele de retenție pe care doriți să le > **Ștergere**  >  **etichetă Da** pentru a șterge eticheta.
 
-Cu managerul de planuri de fișiere, puteți gestiona etichetele de retenție și politicile din organizație-pentru mai multe informații, consultați [prezentarea generală a managerului de planuri de fișiere](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Cu Manager de planuri de fișiere, puteți gestiona etichetele și politicile de retenție pentru organizația dvs. Pentru mai multe informații, consultați Prezentare generală [a Managerului de planuri de fișiere.](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)

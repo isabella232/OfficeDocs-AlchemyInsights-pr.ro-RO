@@ -1,5 +1,5 @@
 ---
-title: Probleme cu revendicările și atributele token
+title: Probleme cu solicitările de token și atributele
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012896"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Probleme cu revendicările și atributele token
+# <a name="issues-with-token-claims-and-attributes"></a>Probleme cu solicitările de token și atributele
 
-**Actualizarea, configurarea sau eliminarea revendicărilor token**
+**Actualizarea, configurarea sau eliminarea solicitărilor de simboluri**
 
-1. Utilizând Azure Active Directory (Azure AD), puteți [particulariza tipul de revendicare pentru revendicarea rolului](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) în simbolul de răspuns pe care îl primiți după ce autorizați o aplicație.
-2. Dezvoltatorii de aplicații pot utiliza revendicări opționale în aplicațiile lor Azure AD pentru a specifica ce revendicări doresc în tokenuri trimise aplicației. Pentru mai multe informații, consultați [furnizarea de solicitări opționale la aplicație](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-3. [Configurați revendicările de grup pentru aplicațiile cu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
-4. Dacă utilizați sign-on unic fără sudură în aplicația dvs., consultați [Particularizarea creanțelor emise în fișierul SAML pentru aplicațiile Enterprise](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
+1. Utilizând un Azure Active Directory (Azure AD), [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) puteți particulariza tipul de solicitare pentru solicitarea de rol în simbolul de răspuns pe care îl primiți după ce autorizați o aplicație.
+2. Dezvoltatorii de aplicații pot utiliza solicitări opționale în aplicațiile lor Azure AD pentru a specifica solicitările pe care le doresc în simbolurile trimise aplicației lor. Pentru mai multe informații, consultați [Furnizarea de solicitări opționale pentru aplicația dvs.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Configurați solicitările de grup pentru aplicații cu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Dacă utilizați sign-on unic perfect în aplicația dvs., consultați Particularizarea solicitărilor emise în simbolul [SAML pentru aplicațiile de întreprindere.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
-**Maparea atributului revendicări**
+**Maparea atributelor de solicitări**
 
-1. Pentru a configura politica de mapare a revendicărilor utilizând PowerShell, consultați [Particularizarea creanțelor emise în tokenuri pentru o anumită aplicație într-o entitate găzduită (Previzualizare)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-2. Atributele de extensie a schemelor directoare oferă o modalitate de a stoca date suplimentare în Azure Active Directory pentru obiectele de utilizator și alte obiecte din Director, cum ar fi grupuri, detalii despre entități găzduite, directori de servicii. Numai atributele de extensie pentru obiectele de utilizator pot fi utilizate pentru emiterea de revendicări la aplicații. [Utilizarea atributelor de extensie a schemelor directoare din revendicări](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) descrie modul în care se utilizează atributele de extensie a schemelor directoare pentru trimiterea datelor de utilizator la aplicațiile din revendicările token.
+1. Pentru a configura politica de mapare a solicitărilor folosind PowerShell, consultați Particularizarea solicitărilor omise în simboluri pentru o anumită aplicație [într-o entitate găzduită (Previzualizare).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+2. Atributele extensiei schemei directorului furnizează o modalitate de a stoca date suplimentare în Azure Active Directory despre obiectele de utilizator și alte obiecte de director, cum ar fi grupuri, detalii despre entitatea găzduită, entitatea principală de serviciu. Numai atributele de extensie pentru obiectele utilizatorului pot fi utilizate pentru a emite solicitări către aplicații. [Utilizarea atributelor extensiei schemei](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) de director în revendicări descrie cum se utilizează atributele extensiei de schemă de director pentru a trimite date de utilizator aplicațiilor în solicitările de simboluri.
 
-Pentru mai multe informații despre revendicările Token, consultați:
+Pentru mai multe informații despre solicitările de simboluri, consultați:
 
-- [Revendicări în jetoanele Access](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
-- [Creanțe într-o id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Afirmațiile](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) la care vă puteți aștepta în tokenuri ID și simboluri de acces emise de AZURE AD B2C
-- [Referință pentru revendicările tokenului SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Revendicări în tokenurile de acces](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Solicitări într-o id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
+- [Solicitări](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) la care vă puteți aștepta în tokenurile DE ID și simbolurile de acces emise de Azure AD B2C
+- [Referința la solicitările de token SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)

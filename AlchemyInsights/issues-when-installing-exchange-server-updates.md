@@ -1,5 +1,5 @@
 ---
-title: Probleme la instalarea actualizărilor Exchange Server
+title: Probleme la instalarea Exchange Server actualizări
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013040"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Probleme la instalarea actualizărilor Exchange Server
+# <a name="issues-when-installing-exchange-server-updates"></a>Probleme la instalarea Exchange Server actualizări
 
 Dacă trebuie să actualizați la cea mai recentă actualizare cumulativă pentru Exchange Server, puteți utiliza pentru a obține un set detaliat de pași de actualizat de la cuva curentă la cuva [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) țintă.
 
-Dacă există erori în timpul instalării actualizărilor Exchange Server sau după aceasta, consultați secțiunea "Cele mai bune practici" din articolul Upgrade-ul exchange la cea mai [recentă actualizare cumulativă.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Este foarte important să instalați actualizări de securitate utilizând solicitarea CMD cu nivel ridicat (dacă actualizările nu sunt instalate prin Microsoft Update).
+Dacă există erori în timpul instalării actualizărilor Exchange Server sau după aceasta, consultați secțiunea "Practici recomandate" din articolul [Upgrade-ul Exchange](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates)la cea mai recentă actualizare cumulativă. Este foarte important să instalați actualizări de securitate utilizând solicitarea CMD cu nivel ridicat (dacă actualizările nu sunt instalate prin Microsoft Update).
 
-Dacă vedeți erori atunci când instalați actualizările de securitate sau după instalarea actualizării, consultați Repararea instalărilor nereușizate [de actualizările cumulate și de securitate Exchange.](https://aka.ms/exupdatefaq)
+Dacă vedeți erori atunci când instalați actualizările de securitate sau după instalarea actualizării, consultați Repararea instalărilor nereușizate [de Exchange Actualizări cumulative și de securitate.](https://aka.ms/exupdatefaq)
