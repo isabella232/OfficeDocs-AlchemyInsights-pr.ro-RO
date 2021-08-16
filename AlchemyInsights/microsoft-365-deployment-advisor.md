@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027395"
 ---
 # <a name="deploy-microsoft-365"></a>Implementarea Microsoft 365
 
-[Microsoft 365 Deployment Advisor](https://go.microsoft.com/fwlink/?linkid=2072646) oferă clienților comerciali instrucțiuni atunci când configurați instrumente de productivitate, politici de securitate și capacități de gestionare a dispozitivelor. Cu un abonament Microsoft 365 Business Premium sau Microsoft 365 pentru întreprinderi, puteți utiliza acest consultant pentru a configura și a configura dispozitivele organizației.
+Consultantul [Microsoft 365 implementare le](https://go.microsoft.com/fwlink/?linkid=2072646) oferă clienților comerciali instrucțiuni atunci când configurați instrumente de productivitate, politici de securitate și capacități de gestionare a dispozitivelor. Cu un Microsoft 365 Business Premium un Microsoft 365 abonament pentru întreprinderi, puteți utiliza acest consultant pentru a configura și a configura dispozitivele organizației dvs.
 
-Veți primi instrucțiuni și acces la resurse pentru a activa serviciile în cloud, a actualiza dispozitivele la cea mai recentă versiune acceptată de Windows 10 și a vă asocia dispozitivelor la Azure Active Directory (Azure AD), toate într-o singură locație centrală.
+Veți primi instrucțiuni și acces la resurse pentru a activa serviciile în cloud, a actualiza dispozitivele la cea mai recentă versiune acceptată de Windows 10 și a vă alătura dispozitivelor la Azure Active Directory (Azure AD), totul într-o singură locație centrală.

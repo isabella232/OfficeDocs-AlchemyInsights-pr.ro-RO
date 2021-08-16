@@ -1,5 +1,5 @@
 ---
-title: Crearea unui caz eDiscovery
+title: Crearea unui caz de descoperire a informațiilor electronic
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988379"
 ---
-# <a name="create-an-ediscovery-case"></a>Crearea unui caz eDiscovery
+# <a name="create-an-ediscovery-case"></a>Crearea unui caz de descoperire a informațiilor electronic
 
-Iată cum să creați un caz eDiscovery:
+Iată cum să creați un caz de descoperire a informațiilor electronic:
 
-1. Accesați centrul de [conformitate & de securitate](https://go.microsoft.com/fwlink/p/?linkid=2077143) și selectați **eDiscovery**  >  **eDiscovery**.
-1. Pe pagina eDiscovery, faceți clic pe **Creați un caz**.
-1. Introduceți un nume și o descriere a literei, apoi faceți clic pe **Salvare**.
+1. Accesați Centrul de [conformitate & securitate și](https://go.microsoft.com/fwlink/p/?linkid=2077143) selectați **Descoperirea**  >  **informațiilor electronic.**
+1. Pe pagina descoperirea informațiilor electronic, faceți clic **pe Creare caz.**
+1. Introduceți un Nume caz și o Descriere, apoi faceți clic **pe Salvare.**
     > [!TIP]
-    >Pentru a gestiona permisiunile pentru caz, faceți clic pe spațiul alb de lângă numele literei (nu faceți clic pe Deschidere).
-1. Pentru a gestiona setările de așteptare, căutare și export pentru acest caz, faceți clic pe **Deschidere**.
+    >Pentru a gestiona permisiunile pentru caz, faceți clic pe spațiul alb de lângă numele cazului (nu faceți clic pe Deschidere).
+1. Pentru a gestiona setările Așteptare, Căutare și Export pentru acest caz, faceți clic **pe Deschidere.**
 
-Pentru informații detaliate despre modul în care eDiscovery funcționează cu conținut, consultați [cazuri eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101589).
+Pentru informații detaliate despre modul în care funcționează cazurile de descoperire a informațiilor electronic cu conținutul, consultați [Cazuri de descoperire a informațiilor electronic.](https://go.microsoft.com/fwlink/?linkid=2101589)

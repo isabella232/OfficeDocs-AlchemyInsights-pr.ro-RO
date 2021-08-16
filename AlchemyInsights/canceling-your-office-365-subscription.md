@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996606"
 ---
 # <a name="canceling-your-subscription"></a>Vă anulați abonamentul?
 
 Ne pare rău că plecați, dar dacă doriți să anulați abonamentul, iată care sunt opțiunile dvs.:
   
 - Dacă aveți mai puțin de 25 de licențe atribuite, vă puteți anula abonamentul online. Accesați pagina Facturare **produse** \> **[și găsiți](https://go.microsoft.com/fwlink/p/?linkid=842054)** abonamentul pe care doriți să-l anulați. Selectați cele trei puncte (mai multe acțiuni), apoi selectați **Anulați abonamentul.**
-- Dacă aveți mai mult de 25 de licențe atribuite utilizatorilor, apelați [asistența pentru a vă anula abonamentul.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Dacă aveți mai mult de 25 de licențe atribuite utilizatorilor, reduceți-o la mai puțin de 25 pentru a anula sau a apela asistența [pentru a vă anula abonamentul.](/microsoft-365/business-video/get-help-support)
   
 **Rambursare: Orice credit rambursat vă va fi returnat în următorul ciclu de facturare.**
 

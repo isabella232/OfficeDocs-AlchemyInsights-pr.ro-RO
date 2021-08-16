@@ -1,5 +1,5 @@
 ---
-title: Expertul de configurare hibridă (HCW) ACSTS50011
+title: Eroarea ACSTS50011 din Expertul de configurare hibridă (HCW)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055962"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Expertul de configurare hibridă (HCW) ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Eroarea ACSTS50011 din Expertul de configurare hibridă (HCW)
 
-Dacă utilizați un expert de configurare hibridă (HCW) și primiți eroarea **ADSTS50011: adresa URL de răspuns specificată în solicitare nu se potrivește cu URL-urile de răspuns configurate pentru aplicație: ' a0c73c16-a7e3-4564-9a95-2bdf47383716**, faceți upgrade la cea mai recentă versiune de HCW la https://aka.ms/hybridwizard .
+Dacă rulați un expert de configurare hibridă (HCW) și obțineți eroarea ADSTS50011: Adresa URL de răspuns specificată în solicitare nu corespunde URL-urilor de răspuns configurate pentru **aplicație: "a0c73c16-a7e3-4564-9a95-2bdf47383716,** faceți upgrade la cea mai recentă versiune de HCW la https://aka.ms/hybridwizard .
 
 
 

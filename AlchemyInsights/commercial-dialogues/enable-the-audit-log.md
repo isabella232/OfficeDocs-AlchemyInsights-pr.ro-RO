@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988415"
 ---
 # <a name="enable-the-audit-log"></a>Activarea jurnalului de auditare
 
-Conformitatea comunicării necesită jurnalele de audit pentru a afișa avertizări și a urmări acțiunile de remediere efectuate de recenzenți. Jurnalele de audit sunt un rezumat al tuturor activităților asociate cu o politică organizațională definită, inclusiv oricând se modifică politica de conformitate a comunicațiilor. Pentru a activa înregistrarea în jurnal a auditării:
+Conformitatea comunicațiilor necesită jurnale de auditare pentru a afișa avertizări și a urmări acțiunile de remediere luate de recenzenți. Jurnalele de auditare sunt un rezumat al tuturor activităților asociate cu o politică organizațională definită, inclusiv oricând se modifică o politică de conformitate de comunicare. Pentru a activa înregistrarea în jurnal pentru audit:
 
-1. În [Centrul de conformitate & de securitate](https://go.microsoft.com/fwlink/?linkid=2101341), accesați   >  **Căutare în Jurnalul de auditare** căutare.
+1. În Centrul de [& conformitate,](https://go.microsoft.com/fwlink/?linkid=2101341)accesați Căutare în **jurnalul**  >  **de auditare.**
 2. Selectați **Activare auditare**.
 
-    După ce activați auditarea, se afișează un mesaj care spune că jurnalul de auditare este pregătit și puteți să efectuați o căutare în câteva ore după finalizarea pregătirii. Trebuie doar să faceți această acțiune o singură dată.
+    După ce activați auditarea, se afișează un mesaj care spune că jurnalul de auditare este pregătit și că puteți rula o căutare în câteva ore după ce pregătirea se termină. Trebuie să faceți această acțiune o singură dată.
 
-Pentru a afla mai multe, consultați [Activarea sau dezactivarea căutării în Jurnalul de auditare](https://go.microsoft.com/fwlink/?linkid=2129077) și [căutarea în Jurnalul de auditare](https://go.microsoft.com/fwlink/?linkid=2123729).
+Pentru a afla mai multe, consultați [Activarea sau dezactivarea căutării în jurnalul](https://go.microsoft.com/fwlink/?linkid=2129077) de auditare și [Căutarea în jurnalul de auditare.](https://go.microsoft.com/fwlink/?linkid=2123729)
