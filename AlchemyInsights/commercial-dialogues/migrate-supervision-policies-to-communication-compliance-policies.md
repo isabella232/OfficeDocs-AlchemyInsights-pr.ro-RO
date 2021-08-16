@@ -1,5 +1,5 @@
 ---
-title: Migrarea politicilor de monitorizare la politicile de conformitate cu comunicațiile
+title: Migrarea politicilor de supraveghere la politicile de conformitate de comunicare
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c488a4b3c5881909aa5b3c1a4afb6c0054989d02
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: dbb29c59dca7d0cb901df7e828736b2458f7345e86400a7ea823cf654cd0891e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034262"
 ---
-# <a name="migrate-supervision-policies-to-communication-compliance-policies"></a>Migrarea politicilor de monitorizare la politicile de conformitate cu comunicațiile
+# <a name="migrate-supervision-policies-to-communication-compliance-policies"></a>Migrarea politicilor de supraveghere la politicile de conformitate de comunicare
 
-Caracteristica de supraveghere a fost înlocuită de conformitatea comunicării. Dacă aveți în prezent politici de monitorizare configurate în centrul de conformitate & de securitate, va trebui să le tranziți la politicile de conformitate Microsoft 365 Communication. Nu există niciun instrument de migrare pentru migrarea acestor politici; în schimb, va trebui să creați noi politici de conformitate a comunicării pentru a înlocui politicile de monitorizare existente.
+Caracteristica Supraveghere a fost înlocuită de conformitatea comunicațiilor. Dacă aveți în prezent politici de supraveghere configurate în Centrul de conformitate & securitate, va trebui să le faceți tranziția la politicile de conformitate Microsoft 365 comunicații. Nu există niciun instrument de migrare pentru migrarea acestor politici; în schimb, va trebui să creați noi politici de conformitate pentru comunicații pentru a înlocui politicile de supraveghere existente.
 
-Pentru a afla mai multe despre tranziția de la caracteristica de supraveghere, consultați [tranziția de la supraveghere](https://go.microsoft.com/fwlink/?linkid=2128750).
+Pentru a afla mai multe despre tranziția de la caracteristica Supraveghere, consultați [Tranziția de la supraveghere.](https://go.microsoft.com/fwlink/?linkid=2128750)

@@ -1,5 +1,5 @@
 ---
-title: Procesul de implementare a aplicațiilor Intune
+title: Procesul de implementare a aplicației Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034442"
 ---
-# <a name="intune-app-deployment-process"></a>Procesul de implementare a aplicațiilor Intune
+# <a name="intune-app-deployment-process"></a>Procesul de implementare a aplicației Intune
 
 Implementarea aplicațiilor cu Intune urmează procesul de mai jos:
 
-- Adăugarea unei aplicații-puteți să adăugați o aplicație App Store sau să încărcați o aplicație de business.
-- Atribuirea unei aplicații-determinați domeniul de implementare a aplicației.
-- Monitorizarea aplicațiilor-Vizualizați starea de instalare a aplicațiilor, lista Aplicații descoperite și gestionarea aplicațiilor achiziționate din magazinele de aplicații.
-- [Aplicația a implementat SDK-ul Intune. Pentru o listă de aplicații care acceptă SDK-ul, consultați aplicațiile protejate Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Adăugarea unei aplicații - puteți să adăugați o aplicație din App Store sau să încărcați o aplicație Line of Business.
+- Atribuirea unei aplicații - Determinarea domeniului de implementare a aplicației.
+- Monitorizarea aplicațiilor - vizualizați starea de instalare a aplicațiilor, listați aplicațiile descoperite și gestionați aplicațiile achiziționate de la magazinele de aplicații.
+- [Aplicația a implementat SDK Intune. Pentru o listă de aplicații care acceptă SDK, consultați Microsoft Intune aplicații protejate.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Citiți mai multe despre implementarea și gestionarea aplicațiilor Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Citiți mai multe despre Implementarea și gestionarea aplicațiilor Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
