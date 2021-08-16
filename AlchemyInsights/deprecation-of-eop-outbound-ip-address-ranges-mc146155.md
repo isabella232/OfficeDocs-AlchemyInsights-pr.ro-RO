@@ -1,5 +1,5 @@
 ---
-title: 1065 dezaprobarea adresei IP de ieșire EOP rangesMC146155
+title: 1065 Perimarea zonelor de adrese IP de ieșire EOPMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214abc57a99c70a02a7d159441713e007f6ad980f67e373780d4ca297f69f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031274"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Dezaprobarea zonelor de adrese IP de ieșire EOP
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Perimarea intervalelor de adrese IP de ieșire EOP
 
-Am detectat o problemă potențială cu organizația dvs., care (dacă nu este corectată până la 26 octombrie 2018) poate întrerupe fluxul de corespondență la destinațiile locale sau externe. Așa cum s-a comunicat anterior, pentru a simplifica gestionarea intervalelor de adrese IP, sintetizăm intervalele de adrese IP Exchange Online Protection (EOP) care sunt utilizate pentru a trimite și a primi mesaje de e-mail în afara Microsoft 365. Analiza noastră indică faptul că una sau mai multe dintre sursele sau destinațiile externe de e-mail pe care le-ați configurat în conectorii fluxului de corespondență nu acceptă conexiuni din intervalele de adrese IP afișate [aici](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Am detectat o problemă potențială cu organizația dvs., care (dacă nu este corectată de pe 26 octombrie 2018) poate eșua fluxul de corespondență către destinațiile dvs. externe sau local. După cum am comunicat anterior, pentru a simplifica gestionarea intervalelor de adrese IP, unim intervalele de adrese IP Protecție Exchange Online (EOP) care sunt utilizate pentru a trimite și a primi mesaje de e-mail în Microsoft 365. Analiza noastră indică faptul că una sau mai multe dintre sursele de e-mail externe sau destinațiile pe care le-ați configurat în conectorii de flux de corespondență nu acceptă conexiuni din intervalele de adrese IP afișate [aici.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-Acționeze înainte de 26 octombrie pentru a vă asigura că aceste surse și destinații vor accepta conexiuni la și de la toate [adresele IP de EOP publicate](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Acționați înainte de 26 octombrie pentru a vă asigura că aceste surse și destinații vor accepta conexiuni la și de la [toate adresele IP EOP publicate.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-Pentru mai multe informații despre această modificare, consultați postările din centrul de mesaje [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)sau [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Pentru mai multe informații despre această modificare, consultați Postările din Centrul de mesaje [MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)sau [MC149274.](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)
 
-**Notă**: dacă ați utilizat anterior publicarea IP sau URL prin intermediul actualizărilor HTML, XML și RSS pentru Endpoint, ar trebui, de asemenea, să migrați la noile servicii web pentru automatizarea acestor tipuri de actualizări. Pentru mai multe informații, consultați [microsoft 365 Endpoint categorii și microsoft 365 IP Address și URL web service](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Notă:** Dacă ați utilizat anterior publicarea de IP sau URL prin HTML, XML și RSS pentru actualizări de puncte finale, ar trebui, de asemenea, să migrați la noile servicii web pentru automatizarea acestor tipuri de actualizări. Pentru mai multe informații, [consultați categoriile Microsoft 365 puncte finale și serviciul web Microsoft 365 IP și URL.](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)

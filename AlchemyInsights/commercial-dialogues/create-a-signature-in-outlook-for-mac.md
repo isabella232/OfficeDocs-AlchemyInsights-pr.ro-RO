@@ -1,5 +1,5 @@
 ---
-title: Crearea unei semnături în Outlook pentru Mac
+title: Crearea unei semnături într-Outlook pentru Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070732"
 ---
-# <a name="create-a-signature-in-outlook-for-mac"></a>Crearea unei semnături în Outlook pentru Mac
+# <a name="create-a-signature-in-outlook-for-mac"></a>Crearea unei semnături într-Outlook pentru Mac
 
-1.  În meniul **Outlook** , faceți clic pe **Preferințe**.
-2.  Sub **E-mail**, faceți clic pe **semnături**.
-3.  Faceți clic pe **Adăugare** **+** .
-4.  Faceți dublu clic pe fără **titlu**, apoi tastați un nume pentru semnătură.
+1.  Pe meniul **Outlook,** faceți clic **pe Preferințe.**
+2.  Sub **E-mail,** faceți clic **pe Semnături.**
+3.  Faceți **clic pe Adăugare.** **+**
+4.  Faceți dublu **clic pe Fără titlu**, apoi tastați un nume pentru semnătură.
 5.  În panoul din dreapta, tastați textul pe care doriți să-l includeți în semnătură.
-6.  Închideți pagina **semnături** .
-7.  Pentru a aplica formatarea precum fontul, stilul de font, dimensiunea fontului, culoarea fontului sau evidențierea, selectați textul, apoi, în meniul format, faceți clic pe opțiunea dorită.
-8.  Închideți pagina **semnături** .
+6.  Închideți **pagina Semnături.**
+7.  Pentru a aplica formatări precum fontul, stilul de font, dimensiunea fontului, culoarea fontului sau evidențierea, selectați textul, apoi, în meniul Format, faceți clic pe opțiunea dorită.
+8.  Închideți **pagina Semnături.**

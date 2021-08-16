@@ -1,5 +1,5 @@
 ---
-title: Crearea șabloanelor de notificare pentru angajați
+title: Crearea șabloanelor de notificare a angajaților
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae3efbab6b8d7778911107ba6d724f3555078c55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c4259668c500987b16a7a4f31e3be37c42b23d45efec35b522c95213680299f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070660"
 ---
-# <a name="create-employee-notice-templates"></a>Crearea șabloanelor de notificare pentru angajați
+# <a name="create-employee-notice-templates"></a>Crearea șabloanelor de notificare a angajaților
 
-Acest pas este opțional. Puteți crea șabloane de notificare particularizate pentru a trimite notificări prin e-mail angajaților ca opțiune de remediere pentru meciuri de politică.
+Acest pas este opțional. Puteți crea șabloane de notificare particularizate pentru a le trimite notificări prin e-mail angajaților ca opțiune de remediere pentru potrivirile de politică.
 
-Dacă doriți să aveți opțiunea de a răspunde la o avertizare de politică, trimițând o notificare de memento către angajatul asociat, va trebui să creați cel puțin un șablon de notificare în organizația dvs.
+Dacă doriți să aveți opțiunea de a răspunde la o avertizare de politică trimițând o notificare de memento angajatului asociat, va trebui să creați cel puțin un șablon de notificare în organizația dvs.
 
-Pentru a afla cum, consultați [crearea șabloanelor pentru notificarea angajaților](https://go.microsoft.com/fwlink/?linkid=2129080).
+Pentru a afla cum, consultați Crearea [șabloanelor de notificare pentru angajați.](https://go.microsoft.com/fwlink/?linkid=2129080)

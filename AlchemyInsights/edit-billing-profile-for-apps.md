@@ -1,5 +1,5 @@
 ---
-title: Editarea profilului de facturare pentru aplicații
+title: Editați profilul de facturare pentru aplicații
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100846"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Editarea profilului de facturare pentru aplicații
+# <a name="edit-billing-profile-for-apps"></a>Editați profilul de facturare pentru aplicații
 
-**Editarea profilurilor de facturare**
+**Editați profilurile de facturare**
 
-1. Accesați pagina facturi de **Facturare**  >  **[& plăți](https://go.microsoft.com/fwlink/p/?linkid=848039)** , apoi faceți clic pe profiluri de **Facturare**.
+1. Accesați pagina Facturi **și**  >  **[plăți &](https://go.microsoft.com/fwlink/p/?linkid=848039)** facturare, apoi faceți clic pe Profiluri de **facturare.**
 
 2. Din lista de profiluri de facturare, alegeți profilul de facturare pe care doriți să-l editați.
 
-**Pentru a modifica profilul de facturare în aplicații**
+**Pentru a modifica profilul de facturare pentru aplicații**
 
-1. Accesați pagina **Facturare**  >  **[produse](https://go.microsoft.com/fwlink/p/?linkid=842054)** , apoi faceți clic pe fila **aplicații** .
+1. Accesați pagina Facturare  >  **[produse, apoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** faceți clic pe **fila** Aplicații.
 
 2. Găsiți și selectați aplicația pe care doriți să o gestionați.  
 
-3. Lângă **profil de facturare**, faceți clic pe **Editare** și selectați profilul de facturare pe care doriți să îl asociați cu aplicația.
+3. Lângă Profil de **facturare, faceți** clic **pe Editați** și selectați profilul de facturare pe care vreți să-l asociați cu aplicația.

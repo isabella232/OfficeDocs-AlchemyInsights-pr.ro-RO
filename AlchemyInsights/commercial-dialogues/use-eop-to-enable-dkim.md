@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070324"
 ---
 # <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Utilizarea Exchange Online PowerShell pentru a activa DKIM pentru un anumit domeniu
 
-Dacă nu puteți crea înregistrările DNS DKIM în centrul de administrare, încercați să utilizați Exchange Online PowerShell. 
+Dacă nu puteți crea înregistrăriLE DNS DKIM în centrul de administrare, încercați să utilizați Exchange Online PowerShell. 
 
 Pentru a crea o înregistrare DNS DKIM utilizând Exchange Online PowerShell, efectuați pașii următori:
 
 1. Deschideți Windows PowerShell ca administrator și rulați următoarele comenzi în secvența descrisă:
 
-    un. `$UserCredential = Get-Credential`
+    a. `$UserCredential = Get-Credential`
 
     b. `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
     c. `Import-PSSession $Session -DisableNameChecking`
     
-Dacă aveți probleme la conectarea la Exchange Online PowerShell, consultați [conectarea la Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Dacă aveți probleme la conectarea la Exchange Online PowerShell, consultați [Conectare cu Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
-2. După ce sunteți conectat la Exchange Online PowerShell, derulează următoarea comandă:
+2. După ce vă conectați la Exchange Online PowerShell, rulați următoarea comandă:
 
     `New-DkimSigningConfig -DomainName < CustomDomain > -Enabled $true`
 
-3. După ce comanda de mai sus a fost executată cu succes, rulați următoarea comandă pentru a rezilia sesiunea Exchange Online PowerShell:
+3. Odată ce comanda de mai sus a fost executată cu succes, rulați următoarea comandă pentru a Exchange Online sesiunea PowerShell:
 
     `Remove-PSSession $Session` 
 

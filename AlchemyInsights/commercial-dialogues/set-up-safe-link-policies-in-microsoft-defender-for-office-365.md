@@ -1,5 +1,5 @@
 ---
-title: Configurarea politicilor de legare sigură în Microsoft Defender pentru Office 365
+title: Configurarea politicilor Seif Link în Microsoft Defender pentru Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070372"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Configurarea politicilor de legare sigură în Microsoft Defender pentru Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Configurarea politicilor Seif Link în Microsoft Defender pentru Office 365
 
-O politică implicită pentru linkuri sigure în Microsoft Defender pentru Office 365 este deja creată pentru dvs. Pentru a modifica configurațiile:
+O politică implicită pentru Seif linkuri din Microsoft Defender pentru Office 365 creat deja pentru dvs. Pentru a modifica configurațiile:
 
-1. Accesați centrul de [conformitate & securitate Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Selectați Politica de **gestionare a amenințărilor**  >  . În pagina **Policy** , selectați [linkuri sigure Microsoft Defender pentru Office 365](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. În **politicile care se aplică la întreaga** secțiune a Organizației, selectați **implicit**, apoi selectați pictograma **Editare** .
-4. În secțiunea **blocarea următoarelor adrese URL** , specificați unul sau mai multe URL-uri pe care doriți să le împiedicați să viziteze persoanele din organizație. Pentru a afla mai multe, consultați [lista "blocarea următoarelor adrese URL" pentru linkuri sigure](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. În **setările care se aplică la conținut, cu excepția** secțiunii e-mail, selectați (sau debifați) opțiunile pe care doriți să le utilizați. (Se recomandă să selectați toate opțiunile.)
+1. Accesați Centrul de [Office 365 securitate & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Selectați **Politică de gestionare a**  >  **amenințărilor.** Pe pagina **Politică,** selectați [Microsoft Defender pentru linkuri Office 365 Seif stânga.](https://go.microsoft.com/fwlink/?linkid=2101058)
+3. În **Politicile care se aplică la întreaga secțiune a organizației,** **selectați Implicit**, apoi selectați **pictograma** Editare.
+4. În **secțiunea Blocați următoarele URL-uri,** specificați unul sau mai multe URL-uri pe care doriți să le împiedicați pe persoanele din organizația dvs. să vi le viziteze. Pentru mai multe informații, [consultați Lista "Blocați următoarele URL-uri" Seif Linkuri](https://go.microsoft.com/fwlink/?linkid=2092123).
+5. În fila **Setări care se aplică la conținut cu excepția** secțiunii de e-mail, selectați (sau debifați) opțiunile pe care doriți să le utilizați. (Se recomandă să selectați toate opțiunile.)
 6. Selectați **Salvare**.

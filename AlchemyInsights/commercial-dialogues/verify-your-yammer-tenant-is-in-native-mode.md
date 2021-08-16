@@ -1,5 +1,5 @@
 ---
-title: Verificați dacă entitatea găzduită Yammer este în modul nativ
+title: Verificați dacă entitatea Yammer găzduită este în modul nativ
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070264"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Verificați dacă entitatea găzduită Yammer este în modul nativ
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Verificați dacă entitatea Yammer găzduită este în modul nativ
 
-Acest pas este opțional. În modul nativ, toți utilizatorii Yammer sunt în Azure Active Directory (Azure AD), toate grupurile sunt Microsoft 365 Groups și toate fișierele sunt stocate în SharePoint Online. Entitatea găzduită Yammer trebuie să fie în modul nativ pentru a activa politicile de conformitate în comunicare pentru a scana și a identifica conversațiile riscante în mesaje private și în conversațiile comunitare din Yammer.  
+Acest pas este opțional. În Modul nativ, toți Yammer sunt în Azure Active Directory (Azure AD), toate grupurile sunt grupuri Microsoft 365, iar toate fișierele sunt stocate în SharePoint Online. Entitatea Yammer găzduită trebuie să fie în Modul nativ pentru a permite politicilor de conformitate a comunicațiilor să scaneze și să identifice conversațiile riscante din mesajele private și conversațiile din comunitate Yammer.  
   
-Pentru mai multe informații despre configurarea Yammer în modul nativ, consultați [prezentarea generală a modului nativ Yammer în microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) și [configurarea rețelei Yammer pentru modul nativ pentru Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).
+Pentru mai multe informații despre configurarea unei Yammer în Modul nativ, consultați Prezentarea generală Yammer Modului nativ în [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) și Configurarea rețelei Yammer pentru Modul nativ [pentru Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).
