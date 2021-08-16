@@ -1,5 +1,5 @@
 ---
-title: Despre perioadele de retenție ale jurnalelor de auditare
+title: Despre perioade de retenție a jurnalelor de audit
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006330"
 ---
-# <a name="about-audit-logs-retention-periods"></a>Despre perioadele de retenție ale jurnalelor de auditare
+# <a name="about-audit-logs-retention-periods"></a>Despre perioade de retenție a jurnalelor de audit
 
-Perioada de retenție pentru jurnalele de auditare depinde de abonamentul Office 365 al Organizației dvs.
+Perioada de reținere pentru jurnalele de auditare depinde de abonamentul de abonament Office 365 organizației dvs.
 
-- **Office 365 E3**: 90 de zile.
-- **Office 365 E5**: 365 de zile. Reținerea de un an este în prezent în previzualizare.
-- **Programul de completare Advanced conformion E3 și Office 365**: 365 de zile. Reținerea de un an este în prezent în previzualizare.
-- Pentru a vă înscrie în programul de previzualizare, descrieți o solicitare cu asistența Microsoft și includeți următoarele ca descriere a ceea ce aveți nevoie de ajutor: **jurnal de auditare Office 365 pentru examinare privată**.
+- **Office 365 E3:** 90 de zile.
+- **Office 365 E5:** 365 de zile. Reținerea pe un an este în prezent în previzualizare.
+- **E3 și Office 365 Advanced Compliance program de completare:** 365 de zile. Reținerea pe un an este în prezent în previzualizare.
+- Pentru a vă înscrie în programul de previzualizare, înscriu o solicitare la Asistența Microsoft și includeți următoarele ca descriere a informațiilor pentru care aveți nevoie de ajutor: Previzualizarea privată din jurnalul de **auditare Office 365 termen lung.**
 > [!NOTE]
-> Perioada de retenție se bazează pe licențierea per utilizator. De exemplu, dacă un utilizator din organizația dumneavoastră are o licență E3, atunci înregistrările audit pentru activitățile efectuate de acel utilizator sunt păstrate pentru 90 de zile. Dacă un alt utilizator are o licență E5, înregistrările lor de audit sunt păstrate timp de un an.
+> Perioada de retenție se bazează pe licențierea per utilizator. De exemplu, dacă un utilizator din organizația dvs. are o licență E3, înregistrările de audit pentru activitățile efectuate de acel utilizator sunt păstrate timp de 90 de zile. Dacă un alt utilizator are o licență E5, înregistrările sale de audit sunt păstrate timp de un an.
 
-Pentru a afla mai multe, consultați aceste [întrebări frecvente](https://go.microsoft.com/fwlink/?linkid=2115336).
+Pentru mai multe informații, consultați acest articol cu [Întrebări frecvente.](https://go.microsoft.com/fwlink/?linkid=2115336)
