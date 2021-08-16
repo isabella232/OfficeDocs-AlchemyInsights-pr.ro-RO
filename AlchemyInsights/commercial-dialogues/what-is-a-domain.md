@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070012"
 ---
 # <a name="whats-a-domain"></a>Ce este un domeniu
 
-Un domeniu face parte din adresa de e-mail care este după simbolul @. De exemplu, în adresa rob@contoso.com, domeniul este **contoso.com**. Majoritatea firmelor preferă să utilizeze propriul nume de domeniu în adresa sa de e-mail.
+Un domeniu face parte din adresa dvs. de e-mail care se află după simbolul @. De exemplu, în adresa rob@contoso.com, domeniul este **contoso.com**. Majoritatea firmelor preferă să-și utilizeze propriul nume de domeniu în adresa lor de e-mail.
 
-Iată câteva sfaturi cu privire la domenii:
+Mai jos sunt câteva sfaturi cu privire la domenii:
 
-- Puteți să cumpărați un nume de domeniu de la Microsoft. Astfel, veți avea o adresă de e-mail particularizată.
-- Sau puteți să adăugați un domeniu pe care îl dețineți deja la Office 365.
+- Puteți cumpăra un nume de domeniu de la Microsoft. Astfel, veți avea o adresă de e-mail particularizată.
+- Sau puteți adăuga un domeniu pe care îl dețineți deja la Office 365.
 
-Pentru mai multe informații, [urmăriți acest videoclip grozav](https://www.youtube.com/watch).
+Pentru mai multe informații, [urmăriți acest videoclip extraordinar](https://www.youtube.com/watch).
