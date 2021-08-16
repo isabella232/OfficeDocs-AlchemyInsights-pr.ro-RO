@@ -1,5 +1,5 @@
 ---
-title: Cum își pot căuta utilizatorii arhiva online pentru mesaje
+title: Cum pot căuta mesaje utilizatorii în arhiva online
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034514"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Cum își pot căuta utilizatorii arhiva online pentru mesaje
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Cum pot căuta mesaje utilizatorii în arhiva online
 
-Arhiva online este o caracteristică pentru clienții Office 365 Enterprise care au cutii poștale neobișnuit de mari. Arhiva online a unui utilizator acționează oarecum ca un al doilea cont în Outlook cu propria structură de foldere. Pentru a găsi e-mailul în arhiva online:
+Arhiva online este o caracteristică pentru Office 365 întreprinderi care au cutii poștale neobișnuit de mari. Arhiva online a unui utilizator acționează oarecum ca un al doilea cont Outlook cu propria structură de foldere. Pentru a găsi e-mailul în arhiva online:
 
-1. Arhiva online nu este inclusă în căutările efectuate din Inbox. Trebuie să accesați arhiva online, apoi să efectuați căutarea.
-2. În Outlook pe web, Arhiva este denumită *arhivă în locație*. Accesați cutia poștală arhivare In-Place, apoi efectuați căutarea.
-3. În Outlook 2016, se numește *arhiva online-<`name` >*. Accesați cutia poștală arhivare online, apoi efectuați căutarea.
+1. Arhiva online nu este inclusă în căutările efectuate din Inbox. Trebuie să accesați arhiva online și apoi să efectuați căutarea.
+2. În Outlook pe web, arhiva se numește *Arhivă locală.* Accesați cutia poștală In-Place arhivare, apoi efectuați căutarea.
+3. În Outlook 2016, se numește *Arhivă online - <`name` >*. Accesați cutia poștală Arhivă online, apoi efectuați căutarea.
 
 > [!TIP]
-> Utilizatorii nu își pot accesa cutia poștală de arhivă online utilizând Outlook pe un dispozitiv mobil, cum ar fi un telefon inteligent.
+> Utilizatorii nu își pot accesa cutia poștală de arhivare online utilizând Outlook pe un dispozitiv mobil, cum ar fi un telefon inteligent.

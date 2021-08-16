@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemelor și erorilor instrumentului de migrare SharePoint
+title: Depanarea SharePoint și erori ale Instrumentului de migrare
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020672"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Depanarea problemelor și erorilor instrumentului de migrare SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Depanarea SharePoint și erori ale Instrumentului de migrare
 
-Este posibil să întâmpinați câteva probleme și erori comune atunci când utilizați instrumentul de migrare SharePoint (SPMT). Vă rugăm să faceți referire la linkurile de mai jos pentru mai multe informații.
+Puteți întâmpina câteva probleme și erori comune atunci când utilizați instrumentul SharePoint migrare (SPMT). Consultați linkurile de mai jos pentru mai multe informații.
 
-- [Depanarea problemelor și erorilor comune SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Depanarea problemelor și erorilor SPMT obișnuite](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
 - [Depanarea problemelor de instalare SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
