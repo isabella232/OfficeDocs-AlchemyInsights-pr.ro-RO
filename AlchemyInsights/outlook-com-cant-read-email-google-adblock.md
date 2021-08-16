@@ -1,5 +1,5 @@
 ---
-title: Nu puteți citi e-mailul Outlook.com în Google Chrome cu AdBlock
+title: Nu pot citi mesajele de Outlook.com din Google Chrome cu AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984725"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Nu puteți citi e-mailul în Google Chrome cu AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Nu puteți citi mesaje de e-mail în Google Chrome cu AdBlock
 
-Dacă nu puteți citi sau compune mesaje de e-mail atunci când utilizați Google Chrome cu extensia AdBlock:
+Dacă nu puteți să citiți sau să compuneți mesaje de e-mail atunci când utilizați Google Chrome cu extensia AdBlock:
 
-- Utilizați [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) sau alt browser web.
-- Excludeți Outlook.com din setările AdBlock. În colțul din dreapta sus al Google Chrome, selectați **Adblock** , apoi selectați **nu rulează pe pagini în acest domeniu**. Reîmprospătați browserul pentru a încărca Outlook.com din nou.
+- Utilizați [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) alt browser web.
+- Excludeți Outlook.com din setările AdBlock. În colțul din dreapta sus din Google Chrome, selectați **AdBlock,** apoi **Nu rula pe paginile din acest domeniu**. Reîmprospătați browserul pentru a încărca Outlook.com.

@@ -1,5 +1,5 @@
 ---
-title: Găsirea adresei IP în Jurnalul de auditare
+title: Găsirea adresei IP în jurnalul de auditare
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7a01aa3cc0d875e6534435f3e8f90a24f2832dc3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017144"
 ---
-# <a name="find-the-ip-address-in-audit-log"></a>Găsirea adresei IP în Jurnalul de auditare
+# <a name="find-the-ip-address-in-audit-log"></a>Găsirea adresei IP în jurnalul de auditare
 
-1. Adresa IP care corespunde unei activități efectuate de un utilizator sau administrator este afișată în jurnalele de auditare. Informațiile clientului sunt, de asemenea, înregistrate. Iată cum să identificați adresa IP:
+1. Adresa IP care corespunde unei activități efectuate de un utilizator sau un administrator este afișată în jurnalele de auditare. De asemenea, informațiile despre client sunt înregistrate în jurnal. Iată cum să identificați adresa IP:
 
-1. Accesați centrul de [conformitate & securitate Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Selectați căutare în  >  **[Jurnalul de auditare](https://go.microsoft.com/fwlink/?linkid=2103759)** căutare.
+1. Accesați Centrul de [Office 365 securitate & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Selectați **Căutare**  >  **[în jurnalul de auditare.](https://go.microsoft.com/fwlink/?linkid=2103759)**
     > [!NOTE]
-    > Dacă vedeți o notificare că trebuie să activați auditarea, mergeți mai departe și activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea să tragă date din datele anterioare.
-1. Dacă sunteți interesat de o anumită activitate, selectați-o din lista **activități** ; altfel, în mod implicit, toate activitățile vor fi returnate pentru utilizatorul selectat. Rețineți că este posibil ca anumite activități să nu fie disponibile pentru selecție din meniul **activități** ; cu toate acestea, acele elemente de audit vor fi returnate dacă se selectează **Afișare rezultate pentru toate activitățile** (setare implicită).
-1. Specificați intervalul de date și, în câmpul **utilizatori** , selectați numele de utilizator al utilizatorului pe care doriți să-l anchetați.
+    > Dacă vedeți o notificare că trebuie să activați auditarea, activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea extrage date din datele anterioare.
+1. Dacă vă interesează o anumită activitate, selectați-o din **lista** Activități; altfel, în mod implicit, toate activitățile vor fi returnate pentru utilizatorul selectat. Rețineți că este posibil ca anumite activități să nu fie disponibile pentru selectare **din meniul** Activități; totuși, elementele de auditare respective vor fi returnate **dacă s-a selectat Afișare** rezultate pentru toate activitățile (setare implicită).
+1. Specificați intervalul de date și, în câmpul Utilizatori, **selectați** numele de utilizator al utilizatorului pe care doriți să-l investigați.
 1. Selectați **Căutare**. Activitățile apar sub **Rezultate**. Puteți vedea adresa IP pentru fiecare activitate.
-1. Pentru a vizualiza detaliile, selectați o activitate, apoi selectați **mai multe informații**.
+1. Pentru a vedea detaliile, selectați o activitate, apoi selectați **Mai multe informații.**
 
-Pentru a afla mai multe, consultați căutați în [Jurnalul de audit Office 365 pentru a depana scenarii comune](https://go.microsoft.com/fwlink/?linkid=2103944).
+Pentru mai multe informații, consultați Căutarea în [jurnalul Office 365 auditare pentru a depana scenarii comune.](https://go.microsoft.com/fwlink/?linkid=2103944)

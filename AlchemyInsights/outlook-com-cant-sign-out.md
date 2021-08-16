@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984653"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Nu se poate deconecta de la Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Nu vă puteți deconecta de la Outlook.com
 
-Pentru a vă deconecta de la Outlook.com, selectați numele sau imaginea din colțul din dreapta sus al ecranului, apoi selectați **Deconectare**.
+Pentru a vă deconecta de Outlook.com, selectați numele sau imaginea dvs. în colțul din dreapta sus al ecranului, apoi **selectați Deconectare**.
 
-Dacă nu vedeți imaginea în partea de sus a ecranului, Verificați dacă blocarea reclamelor este activată. Uneori, acest lucru împiedică afișarea imaginii.
+Dacă nu vedeți imaginea dvs. în partea de sus a ecranului, verificați dacă este activată blocarea anunțurilor. Uneori, acest lucru împiedică afișarea imaginii.
 
-Dacă tot nu vă puteți deconecta de la Outlook.com, faceți clic pe  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Închideți toate ferestrele browserului.
+Dacă tot nu vă puteți deconecta de la Outlook.com, faceți clic pe [https://login.live.com/logout.srf](https://login.live.com/logout.srf) închideți toate ferestrele browserului.

@@ -1,5 +1,5 @@
 ---
-title: Utilizați Microsoft Edge pentru a proteja utilizatorii împotriva PUAs
+title: Utilizarea Microsoft Edge pentru a proteja utilizatorii împotriva PUA
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000512"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Utilizați Microsoft Edge pentru a proteja utilizatorii împotriva PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Utilizarea Microsoft Edge pentru a proteja utilizatorii împotriva PUA
 
-Versiunile Microsoft Edge 80.0.361.50 și mai târziu blochează descărcările de aplicații potențial nedorite (PUAs) și URL-urile asociate. Pentru a activa această caracteristică, procedați astfel:
+Microsoft Edge 80.0.361.50 și versiunile mai recente blochează descărcările de aplicații potențial nedorite (PUA) și URL-urile asociate. Pentru a activa această caracteristică, acțiunile următoare:
 
-1. Accesați   >  **confidențialitatea și serviciile** setărilor din browser.
+1. Accesați Setări **Setări**  >  **confidențialitate și servicii** în browser.
 
-2. Defilați în jos la secțiunea **servicii** și asigurați-vă că **Microsoft Defender SmartScreen** și **blocarea aplicațiilor potențial nedorite** sunt activate.
+2. Defilați în **jos la** secțiunea Servicii **și asigurați-Microsoft Defender SmartScreen** **sunt activate aplicațiile potențial** nedorite și Blocare aplicații potențial nedorite.
 
-    Data viitoare când Microsoft Defender SmartScreen detectează o ridicare, aceasta o va bloca și vă va notifica în mod corespunzător.
+    Data viitoare când Microsoft Defender SmartScreen o pucă, aceasta o va bloca și vă va notifica în mod corespunzător.
 
-    Pentru a afla mai multe, consultați [cum să blocați împotriva URL-urilor asociate cu autorizația de ridicare](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Pentru a afla mai multe, [aflați cum să blocați adresele URL asociate cu PUA.](https://go.microsoft.com/fwlink/?linkid=2133024)

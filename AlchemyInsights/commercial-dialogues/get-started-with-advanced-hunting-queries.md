@@ -1,5 +1,5 @@
 ---
-title: Introducere în interogările de vânătoare complexe
+title: Începeți cu interogările complexe de căutare
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0dce5a6ac69994c8953401aba06aefb2d3761ff2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1819720b1c7dd1b5a0b5822f2ba7f9e6a6b7c2fec6d962ea411b8a3a350cc758
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017000"
 ---
-# <a name="get-started-with-advanced-hunting-queries"></a>Introducere în interogările de vânătoare complexe
+# <a name="get-started-with-advanced-hunting-queries"></a>Începeți cu interogările complexe de căutare
 
-Cercetătorii Microsoft Security partajează regulat [interogări de vânătoare complexe în GitHub](https://go.microsoft.com/fwlink/?linkid=2144624).
+Cercetații de securitate Microsoft partajează [cu regularitate interogări de căutare avansate în GitHub](https://go.microsoft.com/fwlink/?linkid=2144624).
 
-De asemenea, cercetătorii oferă interogări complexe de vânătoare pentru localizarea activităților și a indicatorilor asociați cu [amenințările emergente](https://go.microsoft.com/fwlink/?linkid=2145808). Aceste interogări sunt furnizate ca parte a rapoartelor Threat Analytics, în centrul de securitate Microsoft Defender.
+De asemenea, cercetare oferă interogări de căutare avansate pentru găsirea activităților și indicatorilor asociați cu amenințări [în curs de dezvoltare.](https://go.microsoft.com/fwlink/?linkid=2145808) Aceste interogări sunt furnizate ca parte a rapoartelor de analiză a amenințărilor, în Centrul de securitate Microsoft Defender.
