@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026810"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
 - [Prezentare generală MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Cerințe preliminare](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Cerințe de licență](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Cum să activați MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Activarea MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [Depanare MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Cum se verifică licențierea: trebuie să vi se atribuie fie administratorul de facturare, fie rolul de cititor global din Azure AD pentru a vizualiza licența. Accesați centrul de [administrare](https://admin.microsoft.com/) și navigați la **Billing**  >  **licențe** de facturare pentru a vizualiza licențele existente.
+Cum să verificați licențierea: Trebuie să vă fie atribuit rolul administrator de facturare sau cititor global în Azure AD pentru a vizualiza licența dvs. Accesați centrul de [administrare și](https://admin.microsoft.com/) navigați la **Licențe de**  >  **facturare** pentru a vedea licențele existente.

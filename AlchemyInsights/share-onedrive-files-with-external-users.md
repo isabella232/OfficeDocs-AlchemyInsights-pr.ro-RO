@@ -1,5 +1,5 @@
 ---
-title: Partajarea fișierelor OneDrive cu utilizatori externi
+title: Partajarea OneDrive cu utilizatori externi
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,34 +12,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051606"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Partajarea fișierelor în OneDrive cu persoane din afara organizației dvs.
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Partajarea fișierelor în OneDrive cu persoane din afara organizației
 
-1. Utilizați lansatorul de aplicații pentru a merge la OneDrive în browserul web. 
+1. Utilizați lansatorul de aplicații pentru a vă OneDrive în browserul web. 
     
 2. Selectați fișierul sau folderul pe care doriți să-l partajați, apoi selectați **Partajare**. 
     
-3. Dacă tipul de link este setat la "persoane în" \<your organization\> , faceți clic pe săgeata în jos și selectați una dintre următoarele: 
+3. Dacă tipul de link este setat la "Persoane \<your organization\> în," faceți clic pe săgeata în jos și selectați una dintre următoarele: 
     
-  - **Oricine** oferă acces la orice persoană care primește acest link, indiferent dacă o primește direct de la dumneavoastră sau Redirecționat de la altcineva. Acestea pot include persoane din afara organizației dvs. 
+  - **Oricine** oferă acces oricui primește acest link, indiferent dacă l-a primit direct de la voi sau redirecționat de la o altă persoană. Pot fi incluse și persoane din afara organizației. 
     
   - **Anumite persoane** oferă acces doar persoanelor pe care le specificați, deși alte persoane pot avea deja acces. Dacă persoanele redirecționează invitația de partajare, doar persoanele care au deja acces la element vor putea utiliza linkul. 
     
     > [!NOTE]
-    > Dacă una dintre aceste opțiuni nu este disponibilă sau dacă doriți ca un alt tip de link să apară în mod implicit, puteți să modificați setările la nivel de organizație accesând Centrul de administrare OneDrive și făcând clic pe **Partajare** în panoul din stânga. [află mai multe](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Dacă una dintre aceste opțiuni nu este disponibilă sau dacă doriți ca un alt tip de link să apară în mod implicit, puteți modifica setările la nivel de organizație, accesând Centrul de administrare OneDrive și făcând clic pe Partajare în panoul din stânga.  [Aflați mai multe](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. În mod implicit, **Permiteți editarea** este activată. Dacă doriți ca alte persoane să vă vizualizeze fișierele, debifați caseta de selectare. 
+4. Setarea Permiteți **editarea este** activată implicit. Dacă doriți ca alte persoane doar să vizualizează fișierele, debifați caseta de selectare. 
     
 5. Introduceți numele persoanelor cu care doriți să partajați și un mesaj, dacă doriți.
     
-6. Atunci când sunteți gata să trimiteți linkul, faceți clic pe **Trimitere**. 
+6. Când sunteți gata să trimiteți linkul, faceți clic pe **Trimitere**. 
     
-[află mai multe](https://go.microsoft.com/fwlink/?linkid=871861)
+[Aflați mai multe](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

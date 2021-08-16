@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online-limitare
+title: SharePoint Online - Throttling
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 01/05/2021
@@ -13,20 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051498"
 ---
-# <a name="sharepoint-online-throttling"></a>Limitare SharePoint Online
+# <a name="sharepoint-online-throttling"></a>SharePoint Online Throttling
 
 SharePoint Online utilizează limitarea pentru a menține performanța optimă și fiabilitatea serviciului SharePoint Online. Limitarea se aplică la numărul de acțiuni de utilizator sau apeluri concurente (după script sau cod), pentru a preveni utilizarea excesivă a resurselor. 
 
-Pentru mai multe informații despre limitare, consultați [evitați să fiți accelerat sau blocat în SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Pentru mai multe informații despre reglare, consultați Evitarea amânării sau [blocării în SharePoint Online.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-Dacă credeți că această eroare nu are legătură cu limitarea, puteți să verificați dacă există întreținere activă care apare în entitatea găzduită, navigând la [Centrul de mesaje](https://portal.office.com/adminportal/home#/MessageCenter).
+Dacă credeți că această eroare nu are legătură cu aceasta, puteți verifica dacă există o întreținere activă în entitatea dvs. găzduită, navigând la [Centrul de mesaje.](https://portal.office.com/adminportal/home#/MessageCenter)
 
- În cele din urmă, asigurați-vă că vizitați pagina stare [servicii](https://portal.office.com/adminportal/home#/servicehealth) pentru a verifica dacă există recomandări/incidente care pot apărea.
+ La final, asigurați-vă [că vizitați pagina Starea](https://portal.office.com/adminportal/home#/servicehealth) serviciilor pentru a verifica dacă există consultanță/incidente care pot apărea.
 

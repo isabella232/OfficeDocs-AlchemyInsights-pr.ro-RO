@@ -1,5 +1,5 @@
 ---
-title: Se Microsoft Defender ATP
+title: Vă adăți la Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985481"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Se Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>Vă adăți la Microsoft Defender ATP
 
-Pentru resurse pentru a vă Microsoft Defender ATP pentru Windows 10, servere Windows și computere Mac și Linux, consultați: 
+Pentru resurse pentru a utiliza Microsoft Defender ATP pentru sisteme Windows 10, servere Windows computere Mac și Linux, consultați: 
 
 - **Windows 10 uri** În funcție de cerințele firmei dvs., puteți alege dintre opțiuni pentru a vă abla pe un computer care rulează Windows 10. Pentru mai multe informații, [consultați Instrumente de conectare și metode pentru Windows 10 dispozitive .](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows server** Pentru a vă Microsoft Defender ATP pentru versiunea dvs. de Windows Server, consultați Serverele de Microsoft Defender ATP [server.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
+- **Windows server** Pentru a vă aboard Microsoft Defender ATP pentru versiunea Windows Server, consultați Serverele de bord [la serviciul ATP Microsoft Defender.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
 - **Non-Windows endpoints**  Înainte de a vă întrui într-un sistem care Windows sistem, trebuie să îndepliniți cerințele de [sistem pentru Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) sau [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 

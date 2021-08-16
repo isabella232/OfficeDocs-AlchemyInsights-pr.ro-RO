@@ -1,5 +1,5 @@
 ---
-title: Site-urile web publice SharePoint Online sunt întrerupte
+title: SharePoint Site-urile web publice online vor fi întrerupte
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051282"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Site-urile web publice SharePoint Online sunt întrerupte
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Site-urile web publice online vor fi întrerupte
 
-Dacă ați creat un site web public SharePoint Online, îl puteți utiliza în continuare până la 31 martie 2018. Dacă doriți să continuați să aveți un site web public, trebuie să creați unul nou cu un furnizor nou. Conținutul de pe site-ul web public SharePoint Online va fi șters, deci trebuie să copiați conținutul pe care doriți să îl păstrați.
+Dacă ați creat un SharePoint web public Online, îl puteți utiliza în continuare până la 31 martie 2018. Dacă doriți să continuați să aveți un site web public, trebuie să creați unul nou cu un furnizor nou. Conținutul de pe site-SharePoint web public Online se va șterge, deci trebuie să copiați orice conținut pe care doriți să îl păstrați.
   
-Un banner apare acum în partea de sus a site-ului web public SharePoint Online ca notificare că site-ul va fi eliminat. Nu puteți dezactiva acest banner. Pentru informații despre salvarea și copierea conținutului pe un site web partener, consultați [Detalii despre procesul de întrerupere a caracteristicii](https://go.microsoft.com/fwlink/?linkid=866980).
+Acum apare un banner în partea de sus a site-ului SharePoint Web public Online, ca notificare că site-ul va fi eliminat. Nu puteți dezactiva acest banner. Pentru informații despre salvarea și copierea conținutului pe un site web partener, consultați [Detalii despre procesul de întrerupere a caracteristicii.](https://go.microsoft.com/fwlink/?linkid=866980)
   
