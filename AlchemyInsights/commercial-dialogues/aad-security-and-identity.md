@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory (securitate și identitate
+title: Azure Active Directory (securitate și identitate)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995453"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (securitate și identitate)
 
-Selectați unul dintre următoarele ghiduri de configurare:
+Selectați unul dintre următoarele ghiduri de instalare:
 
-- **Azure Active Directory conectați** [utilizatorii de sincronizare la director să](https://go.microsoft.com/fwlink/?linkid=2071310) configureze sincronizarea cu codul hash prin parolă sau autentificarea directă, astfel încât utilizatorii să se poată conecta la e-mailul său și la Active Directory local (controler de domeniu) utilizând aceeași parolă. De asemenea, puteți configura conectarea Federation cu Active Directory Federation Services (AD FS).
+- **Azure Active Directory Conectare** [](https://go.microsoft.com/fwlink/?linkid=2071310) Sincronizați utilizatorii în director Configurarea sincronizării parolelor prin hash sau autentificarea pass-through, astfel încât utilizatorii să se poată conecta la e-mailul lor și la Active Directory local (controlerul de domeniu) utilizând aceeași parolă. De asemenea, puteți configura conectarea federalizare cu Active Directory Federation Services (AD FS).
 
-- **Configurarea Azure caracteristici** Azure [AD configurare ghid](https://go.microsoft.com/fwlink/?linkid=2134390) Configurați caracteristicile complexe disponibile în Azure Active Directory Premium, cum ar fi autentificarea multi-factor, înregistrarea dispozitivelor și monitorizarea securității.
+- **Configurarea caracteristicilor Azure** Ghid de instalare [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Configurați caracteristicile complexe disponibile în Azure Active Directory Premium, cum ar fi autentificarea prin mai multe metode, înregistrarea dispozitivelor și monitorizarea securității.
