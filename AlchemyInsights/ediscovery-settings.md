@@ -1,5 +1,5 @@
 ---
-title: Setările eDiscovery
+title: Setări de descoperire a informațiilor electronic
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101242"
 ---
-# <a name="ediscovery-settings"></a>Setările eDiscovery
+# <a name="ediscovery-settings"></a>Setări de descoperire a informațiilor electronic
 
-eDiscovery/căutările de conținut vă permit să căutați, să mențineți și să exportați conținut din cutiile poștale Exchange Online, SharePoint Online și OneDrive pentru Business, pentru conversații Skype for Business, Microsoft teams și Microsoft 365 groups.
+Căutările de descoperire a informațiilor electronic/conținut vă permit să căutați, să țineți apăsat și să exportați conținut din cutii poștale Exchange Online, site-uri SharePoint Online și OneDrive pentru business, conversații Skype for Business, Microsoft Teams și grupuri Microsoft 365 grup.
 
-- În cazul în care căutați opțiunile eDiscovery sau meniul Căutare conținut, consultați [probleme de descoperire a informațiilor electronice](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Aflați despre permisiunile necesare pentru efectuarea căutărilor eDiscovery din [permisiunile necesare pentru căutările eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Dacă căutarea nu returnează rezultatele așteptate, consultați [căutarea nu returnează rezultatele așteptate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- În cazul în care căutați opțiunile din meniul Descoperirea informațiilor electronic sau Căutare conținut, consultați [Probleme de descoperire a informațiilor electronic.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Aflați despre permisiunile necesare pentru efectuarea căutărilor de descoperire a informațiilor electronic din [Permisiunile necesare pentru căutările de descoperire a informațiilor electronic.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- În cazul în care căutarea nu întoarce rezultatele așteptate, consultați Căutarea [nu întoarce rezultatele așteptate.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Pentru mai multe informații despre eDiscovery, consultați [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Pentru mai multe informații despre descoperirea informațiilor electronic, consultați [Descoperirea informațiilor electronică.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

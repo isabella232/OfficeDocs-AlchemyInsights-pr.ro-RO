@@ -1,5 +1,5 @@
 ---
-title: Nu a fost returnat niciun rezultat în timpul căutării de conținut/export
+title: Nu s-au returnat rezultate în timpul căutării/exportului de conținut
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101278"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Nu a fost returnat niciun rezultat în timpul căutării de conținut/export
+# <a name="no-results-returned-during-content-searchexport"></a>Nu s-au returnat rezultate în timpul căutării/exportului de conținut
 
-Dacă întâmpinați probleme cu următoarele scenarii eDiscovery:
+Dacă aveți probleme cu următoarele scenarii de descoperire a informațiilor electronic:
 
-- Căutarea de conținut/exportul nu returnează date sau date neașteptate
+- Căutarea/Exportul conținutului nu returnează date sau date neașteptate
 - Căutarea sau exportul eDiscovery nu reușește
 
-Acest lucru se poate datora anumitor filtre de securitate conformității care au fost de configurare de către un anumit administrator și nu au fost comunicate către toți administratorii.
+Acest lucru poate fi cauzat de anumite filtre de securitate de conformitate care au fost configurate de un anumit administrator și nu au fost comunicate tuturor administratorilor.
 
-Pentru a rezolva acest lucru, Verificați dacă există filtre de securitate conformității care pot provoca aceste probleme:
+Pentru a rezolva această problemă, verificați dacă există filtre de securitate de conformitate care pot fi cauza acestor probleme:
 
-1. Conectarea la centrul de securitate și conformitate PowerShell
-2. Rulează următorul commandlet:
+1. Conectare powershell către Centrul de securitate și conformitate
+2. Rulați următoarele commandleturi:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Pentru informații suplimentare despre filtrele de securitate de conformitate, consultați [Filtrarea permisiunilor pentru căutarea de conținut](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Pentru informații suplimentare despre filtrele de securitate a conformității, [consultați Filtrarea permisiunilor pentru căutarea conținutului](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

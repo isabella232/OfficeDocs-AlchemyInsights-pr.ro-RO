@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101314"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nu puteți să instalați sau să rulați Instrumentul de export pentru descoperirea informațiilor electronic?
 
@@ -44,7 +44,7 @@ Dacă nu puteți instala sau rula Instrumentul de export pentru descoperirea inf
 
 - Organizația dvs. se poate conecta la punctul final în Azure, care este **\* .blob.core.windows.net** (wildcardul reprezintă un identificator unic pentru munca dvs. de export).
 
-- În Centrul de conformitate de securitate Microsoft 365, i s-a atribuit rolul &amp; Export. În mod implicit, acest rol este atribuit doar grupului de roluri Manager pentru descoperirea informațiilor electronic. Consultați [Atribuirea permisiunilor de descoperire a informațiilor electronic.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- I s-a atribuit rolul Export în Centrul de conformitate Microsoft 365 &amp; securitate. În mod implicit, acest rol este atribuit doar grupului de roluri Manager pentru descoperirea informațiilor electronic. Consultați [Atribuirea permisiunilor de descoperire a informațiilor electronic.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Pentru mai multe informații, consultați [Exportul rezultatelor căutării de conținut.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

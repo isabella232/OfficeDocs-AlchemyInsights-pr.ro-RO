@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032282"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Crearea unei politici de partajare pentru a le permite utilizatorilor să-și partajeze calendarul cu persoane din afara organizației
 
-1. Din tabloul de bord al centrului de administrare Microsoft 365, accesați **Admin**  >  **Exchange**.
+1. Din tabloul Centru de administrare Microsoft 365 de bord, accesați **Administrator**  >  **Exchange**.
 2. Accesați **partajarea**  >  **organizației.**
 3. În vizualizarea listă, sub Partajare **individuală, faceți** clic **pe Nou** .
 4. În **noua politică de partajare,** tastați un nume prietenos pentru politica de partajare în caseta **Nume** politică.
