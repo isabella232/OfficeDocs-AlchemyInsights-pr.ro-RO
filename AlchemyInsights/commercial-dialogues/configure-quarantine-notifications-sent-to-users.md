@@ -1,5 +1,5 @@
 ---
-title: Configurarea notificărilor de carantină trimise către utilizatori
+title: Configurarea notificărilor de carantină trimise utilizatorilor
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035198"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Configurarea notificărilor de carantină trimise către utilizatori
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Configurarea notificărilor de carantină trimise utilizatorilor
 
-Pentru a trimite notificări către utilizatori despre ce este în carantină:
+Pentru a le trimite notificări utilizatorilor despre ce se află în carantină:
 
-1. În centrul de administrare, navigați la **centrele de administrare** a  >    >  **protecției**  >  **spam** Exchange.
-2. Selectați Politica de filtrare antispam pentru care doriți să activați notificările.
-3. În panoul din dreapta, alegeți linkul **configurați notificările de spam pentru utilizatorul final** .
-4. În caseta de dialog următoare, alegeți **activați notificările de spam pentru utilizatorul final**. Alegeți să activați notificările de spam pentru această politică.
-5. În **notificările de spam pentru utilizatorii finali la fiecare (zile)**, specificați cât de des să trimiteți notificări de spam pentru utilizatori. Valoarea implicită este de 3 zile. Puteți specifica între 1 și 15 zile. Dacă specificați 7 zile, de exemplu, notificarea va include o listă cu toate mesajele destinate acelui utilizator în ultimele 7 zile care au fost trimise în carantină pentru spam.
-6. În **limba de notificare** , alegeți limba în care să scrieți notificările de spam pentru utilizatori pentru această politică.
-7. Alegeți **Salvare**.
+1. În centrul de administrare, navigați la **centre de administrare** Exchange  >  **Filtru**  >  **antispam**  >  **Protecție.**
+2. Selectați politica de filtrare antispam pentru care doriți să activați notificările.
+3. În panoul din dreapta, alegeți **linkul Configurați notificările de spam pentru utilizatori finali.**
+4. În următoarea casetă de dialog, alegeți **Activați notificările de spam pentru utilizatori finali.** Alegeți să activați notificările de spam pentru această politică.
+5. În **Trimiteți notificări de spam pentru utilizatori finali la fiecare (zile),** specificați cât de des să trimiteți notificări de spam utilizatorilor. Valoarea implicită este de 3 zile. Puteți specifica între 1 și 15 zile. De exemplu, dacă specificați 7 zile, notificarea va include o listă a tuturor mesajelor destinate utilizatorului respectiv în ultimele 7 zile și care au fost trimise în schimb în carantina de spam.
+6. În **Limba pentru notificări,** alegeți limba în care să scrieți notificările de spam ale utilizatorilor pentru această politică.
+7. Alegeți **Salvare.**

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072568"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word se blochează sau nu răspunde
 
@@ -29,11 +29,11 @@ Defecțiunile frecvente din Word pot fi cauzate de un program de completare defe
 
 Dacă Word nu începe, încercați următoarele:
 
-1.   Pe un desktop Windows, închideți Outlook și apăsați CTRL+ALT+DEL pentru a deschide Managerul de activități. 
+1.   Pe un Windows desktop, închideți Outlook apăsați CTRL+ALT+DEL pentru a deschide Managerul de activități. 
 2. Pe fila **Procese,** dacă procesele Word rulează, selectați-le și alegeți **Terminați activitatea.** De asemenea, vă recomandăm să reporniți pentru a goli totul din memorie.
 
-    Dacă Word continuă să se blochează sau se blochează în timpul lansării, consultați Deschiderea aplicațiilor [Microsoft 365](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) în modul de siguranță pe un PC Windows pentru a-l lansa în Modul de siguranță.
+    Dacă Word continuă să se blochează sau se blochează în timpul lansării, consultați Deschiderea aplicațiilor Microsoft 365 în modul de siguranță pe un [PC Windows pentru a-l](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) lansa Seif modul de siguranță.
 
 Dacă încă mai aveți probleme, consultați următoarele articole: 
-- [Primesc o eroare "nu mai funcționează" când pornesc aplicații Office pe PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Primesc o eroare "nu mai funcționează" când pornesc Office aplicații pe PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
 - [Remedieri sau soluții pentru problemele recente din Word pentru Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

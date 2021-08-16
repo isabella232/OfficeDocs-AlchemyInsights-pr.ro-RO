@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004335"
 - "7737"
-ms.openlocfilehash: 4df9a98644f6bc7a30f9009719c5198db591afc9
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 0c7be98650ca87f36b66f0bb38fb665fc81525b7f3410da14b99fb67468c1e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102583"
 ---
 # <a name="delete-or-restore-applications"></a>Ștergerea sau restaurarea aplicațiilor
 
-**Pentru a șterge o aplicație din entitatea găzduită AZURE AD**:
+**Pentru a șterge o aplicație din entitatea găzduită Azure AD:**
 
-1. În **portalul AZURE AD**, selectați **aplicații de întreprindere**. Apoi găsiți și selectați aplicația pe care doriți să o ștergeți.
-2. În secțiunea **gestionare** din panoul din stânga, selectați **Proprietăți**.
-3. Selectați **Ștergere**, apoi selectați **Da** pentru a confirma că doriți să ștergeți aplicația de la entitatea găzduită Azure AD.
+1. În portalul **Azure AD**, selectați **Aplicații enterprise**. Apoi găsiți și selectați aplicația pe care doriți să o ștergeți.
+2. În **secțiunea** Gestionare din panoul din stânga, selectați **Proprietăți**.
+3. Selectați **Ștergere**, apoi selectați **Da pentru** a confirma că doriți să ștergeți aplicația din entitatea găzduită Azure AD.
 
-Pentru mai multe informații despre cum să ștergeți o aplicație, consultați [pornire rapidă: ștergerea unei aplicații din entitatea găzduită Azure Active Directory (AZURE AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).
+Pentru mai multe informații despre cum să ștergeți o aplicație, consultați Pornire rapidă: Ștergerea unei aplicații din entitatea [găzduită Azure Active Directory (Azure AD).](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant)
 
-În PowerShell, cmdletul [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) elimină configurațiile proxy ale aplicației dintr-o anumită aplicație din Azure Active Directory și poate șterge complet aplicația dacă este specificată.
+În PowerShell, cmdletul [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) elimină configurațiile Proxy aplicație dintr-o anumită aplicație din Azure Active Directory și poate șterge aplicația complet dacă se specifică.
 
-Puteți **restaura o aplicație ștearsă** utilizând PowerShell. După ce aplicația pe care doriți să o restaurați a fost identificată, puteți să o restaurați utilizând [Restaurare-AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).
+Puteți restaura **o aplicație ștearsă** utilizând PowerShell. După ce a fost identificată aplicația pe care doriți să o restaurați, o puteți restaura utilizând [Restaurare-AzureADDeletedApplication.](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication)
