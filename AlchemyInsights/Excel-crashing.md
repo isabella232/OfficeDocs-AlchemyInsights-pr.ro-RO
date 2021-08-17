@@ -11,25 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312771"
 ---
-# <a name="frequent-excel-crashes"></a>Frecvent Excel de cădere?
+# <a name="frequent-excel-crashes"></a>Faceți Excel frecvente?
 
-Defecturile frecvente din Excel pot fi cauzate de un program de completare defect. Puteți dezactiva un Excel program de completare urmând aceste instrucțiuni:
+Defecțiunile frecvente din Excel pot fi cauzate de un program de completare defect. Puteți dezactiva un Excel program de completare urmând aceste instrucțiuni:
   
 1. Alegeți  \> **Opțiuni** fișier , \> **Programe de completare**.
 
 2. În caseta **Gestionare,** alegeți **Programe de completare COM**, apoi faceți clic pe Go **(Accesează).**
 
-3. În caseta Add-Ins, debifați caseta de selectare de lângă programul de completare pe care doriți să-l dezactivați, apoi faceți clic pe **OK.**
+3. În caseta Add-Ins, debifați caseta de selectare de lângă programul de completare pe care doriți să îl dezactivați, apoi faceți clic pe **OK.**
 
-> [!NOTE]
-> Dacă Excel în timpul lansării, lansați-l în modul Seif apăsând și ținând apăsată tasta Ctrl în timp ce porniți programul.
+**Notă:** dacă Excel în timpul lansării, lansați-l în modul Seif apăsând și ținând apăsată tasta Ctrl în timp ce porniți programul.
   
 Dacă încă mai aveți probleme, consultați următoarele articole:
   

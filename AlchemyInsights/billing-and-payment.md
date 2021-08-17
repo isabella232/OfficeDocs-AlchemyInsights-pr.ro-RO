@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502404"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893067"
 ---
 # <a name="billing-and-payment"></a>Facturare și plată
 
-Facturile dvs. pot fi găsite pe **fila**  >  [Facturi & plată.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Se afișează implicit ultimele 3 luni ale facturilor.  Pentru a vizualiza facturile mai vechi, ajustați filtrul.  Faceți clic **pe linkul Descărcați factura PDF** pentru a vizualiza factura.
+Facturile dvs. pot fi găsite pe **fila Facturi**  >  [& plată.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Se afișează implicit ultimele 3 luni ale facturilor.  Pentru a vizualiza facturile mai vechi, ajustați filtrul.  Faceți clic **pe linkul Descărcați factura PDF** pentru a vizualiza factura.
 
 **Primirea facturilor prin e-mail**
 
@@ -55,10 +55,10 @@ Dacă ați adăugat un card nou și încă obțineți o notificare de refuz pe v
 
 7. Noua metodă de plată este deja selectată în lista verticală. Selectați **Înlocuire**.
 
-Pentru a afla mai multe, consultați [Gestionați metodele de plată](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Pentru a afla mai multe, consultați [Gestionați metodele de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frecvență de facturare**
 
 Facturile sunt generate lunar sau anual, în funcție de frecvența de facturare aleasă la verificare.  
 
-**Notă:** Comenzile cu facturare anuală pot primi o factură prin termen mediu dacă s-au efectuat modificări precum adăugarea sau eliminarea licențelor. [Modificați frecvența de facturare](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Notă:** Comenzile cu facturare anuală pot primi o factură prin termen mediu dacă s-au efectuat modificări precum adăugarea sau eliminarea licențelor. [Modificați frecvența de facturare](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

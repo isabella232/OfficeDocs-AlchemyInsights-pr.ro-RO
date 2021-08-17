@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311411"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892879"
 ---
 # <a name="view-all-quarantined-messages"></a>Vizualizați toate mesajele în carantină
 
-1. În portalul de Microsoft 365 Defender la <https://security.microsoft.com> , accesați Treceți în **carantină & de revizuire** a \>  \> **colaborării.**
+1. În portalul de Microsoft 365 Defender din <https://security.microsoft.com> , accesați Treceți în **carantină & de revizuire** a \>  \> **colaborării.**
 
    Pentru a merge direct la pagina **Carantină,** utilizați <https://security.microsoft.com/quarantine> .
 

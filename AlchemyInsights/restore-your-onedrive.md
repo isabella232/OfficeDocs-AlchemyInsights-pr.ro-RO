@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109360"
 ---
 # <a name="restore-your-onedrive"></a>Restaurarea OneDrive
 
-Dacă multe dintre fișierele OneDrive sunt șterse, overwritted, deteriorate sau infectate prin malware, puteți să restaurați întregul OneDrive la o oră anterioară în ultimele 30 de zile.
+Dacă multe dintre fișierele dvs. OneDrive sunt șterse, suprascrise, deteriorate sau infectate cu malware, puteți restaura întregul OneDrive la o dată anterioară în ultimele 30 de zile.
   
-1. Accesați OneDrive în browserul web.
+1. Accesați-vă OneDrive în browserul web.
     
-2. Faceți clic pe pictograma Setări din colțul din dreapta sus, apoi selectați **restaurați OneDrive**.
+2. Faceți clic Setări din colțul din dreapta sus, apoi **selectați Restaurați OneDrive**.
     
-3. Selectați o dată din listă sau alegeți **dată și oră particularizate**.
+3. Selectați o dată din listă sau alegeți **Dată și oră particularizată.**
     
-4. Faceți clic pe **Restaurare** pentru a anula toate activitățile după data selectată. 
+4. Faceți **clic** pe Restaurare pentru a anula toate activitățile după data pe care ați selectat-o. 
     
-[Mai mult ajutor utilizând restaurarea fișierelor](https://go.microsoft.com/fwlink/?linkid=872874)
+[Mai mult ajutor utilizând Restaurare fișiere](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081802"
 ---
 # <a name="run-a-message-trace"></a>Rulați o urmărire a mesajelor
 
-Puteți rula o urmărire a mesajelor **din Exchange de** mesaje din portalul Microsoft 365 Defender de la <https://security.microsoft.com> .
+Trasarea mesajelor este rulat în secțiunea Flux de corespondență din Centrul Office 365 securitate & conformitate.
 
-Pentru mai multe informații, [consultați Urmărirea mesajelor în Microsoft 365 Defender portal](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
+Pentru a afla cum să rulați o urmărire a mesajelor, consultați [Urmărirea mesajelor în Centrul Office 365 de & conformitate.](https://go.microsoft.com/fwlink/?linkid=2103855)

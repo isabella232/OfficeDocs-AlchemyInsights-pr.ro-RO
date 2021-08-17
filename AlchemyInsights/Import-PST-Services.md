@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891767"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312735"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Import service
 
@@ -31,7 +31,7 @@ Pentru a accesa serviciul de import și a începe procesul de import:
 
 1. Pe pagina **Import,** selectați **Activitate de import nouă.** Introduceți numele unei lucrări și selectați **Următorul**.
 
-1. Selectați **Upload datele pentru** a utiliza opțiunea de încărcare în rețea pentru Tipul de activitate **Import.** Pentru pași detaliați, [consultați Utilizarea încărcării în rețea pentru a importa](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)fișierele PST ale organizației în Microsoft 365 .
+1. Selectați **Upload datele pentru** a utiliza opțiunea de încărcare în rețea pentru Tipul de activitate **Import.** Pentru pași detaliați, [consultați Utilizarea încărcării în rețea pentru a importa fișierele PST](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)ale organizației în Microsoft 365 .
 
 Pentru a accesa **pagina Import,** asigurați-vă că ați primit permisiunile corespunzătoare. Pentru mai multe informații, consultați Utilizarea [încărcării în rețea pentru a importa fișiere PST.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

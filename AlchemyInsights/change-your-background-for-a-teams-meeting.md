@@ -1,5 +1,5 @@
 ---
-title: Modificarea fundalului pentru o întâlnire teams
+title: Modificarea fundalului pentru o întâlnire Teams întâlnire
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
-ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
+ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082378"
 ---
-# <a name="change-your-background-for-a-teams-meeting"></a>Modificarea fundalului pentru o întâlnire teams
+# <a name="change-your-background-for-a-teams-meeting"></a>Modificarea fundalului pentru o întâlnire Teams întâlnire
 
-Dacă doriți să modificați ceea ce apare în spatele dumneavoastră în videoclip, puteți fie să estompați fundalul, fie să îl înlocuiți în întregime cu orice imagine doriți.
+Dacă doriți să modificați ceea ce apare în spatele dvs. în videoclip, puteți să estomparea fundalului sau să îl înlocuiți complet cu orice imagine doriți.
 
-Pentru a afla mai multe despre cum să vă schimbați fundalul, fie înainte, fie în timpul unei întâlniri, consultați [modificarea fundalului pentru o întâlnire teams](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Pentru a afla mai multe despre cum să schimbați fundalul înainte sau în timpul unei întâlniri, consultați Modificarea fundalului [pentru o întâlnire Teams întâlnire](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
 
 > [!NOTE]
-> Pentru moment, utilizatorii Linux nu pot utiliza această caracteristică. Efectele de fundal, de asemenea, nu vor fi disponibile dacă utilizați teams prin infrastructură desktop virtuală optimizată (VDI).
+> Momentan, utilizatorii Linux nu pot utiliza această caracteristică. De asemenea, efectele de fundal nu vor fi disponibile dacă utilizați aplicații Teams prin infrastructura desktop virtuală optimizată (VDI).

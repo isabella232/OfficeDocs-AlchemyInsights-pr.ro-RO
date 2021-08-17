@@ -1,5 +1,5 @@
 ---
-title: Aflați mai multe despre Microsoft Defender pentru punctul final
+title: Aflați mai multe despre Microsoft Defender pentru punct final
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2b2a425904c63ea627332c36d67cc2b902571ee3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 891ed9f226cfab2882554e68c24f675c11f54c1aea2802f3851d42630af80df8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081910"
 ---
-# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Aflați mai multe despre Microsoft Defender pentru punctul final
+# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Aflați mai multe despre Microsoft Defender pentru punct final
 
-Microsoft Defender pentru punctul final este o platformă proiectată pentru a ajuta rețelele de întreprindere să împiedice, să detecteze, să investigheze și să răspundă la amenințările complexe.
+Microsoft Defender pentru punctul final este o platformă proiectată pentru a ajuta rețelele de întreprindere să prevină, să detecteze, să investigheze și să răspundă la amenințări complexe.
 
-- Microsoft Defender pentru Office 365 și Microsoft Defender pentru Endpoint oferă capacități distincte:
-  - **Defender pentru Office 365** monitorizează e-mailuri, împreună cu instrumente de colaborare zilnică, cum ar fi SharePoint, o unitate și teams.
-  - **Defender pentru punctul final** protejează dispozitivele asociate cu punctele finale și vă ajută să identificați atacurile care trec de apărarea de dinainte de încălcare.
-- Pentru a afla mai multe despre Defender pentru punctul final sau pentru a începe o versiune de încercare gratuită, consultați [Microsoft Defender pentru punctul final](https://go.microsoft.com/fwlink/?linkid=2094113).
+- Microsoft Defender pentru Office 365 Microsoft Defender pentru puncte finale oferă capacități distincte:
+  - **Defender pentru Office 365** monitorizează e-mailurile, împreună cu instrumentele de colaborare zilnice, cum ar fi SharePoint, One Drive și Teams.
+  - **Defender pentru punctul final protejează** dispozitivele asociate punctelor finale și contribuie la identificarea atacurilor care trec de apărarea împotriva securității.
+- Pentru a afla mai multe despre Defender pentru punct final sau a începe o versiune de încercare gratuită, [consultați Microsoft Defender pentru punctul final.](https://go.microsoft.com/fwlink/?linkid=2094113)
