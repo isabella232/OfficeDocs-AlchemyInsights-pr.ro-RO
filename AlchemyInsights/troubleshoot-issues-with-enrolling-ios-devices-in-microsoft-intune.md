@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047988"
 ---
 # <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Depanarea problemelor cu înscrierea dispozitivelor iOS în Microsoft Intune
 
@@ -27,7 +27,7 @@ Câțiva mesaje de eroare comune și pași de rezolvare:
     
 - **Acest serviciu nu este acceptat. Nicio politică de înscriere:** Serviciul de notificare push (APNS) Apple trebuie să fie configurat sau reînnoit. Consultați [acest document pentru](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) instrucțiuni despre cum să faceți acest lucru. 
     
-- **Tipul de licență de utilizator este nevalid sau Nume de utilizator nerecunoscut:** Utilizatorului trebuie să i se atribuie o licență Intune sau EMS. Revizuiți aceste documente pentru a atribui o licență prin: [Centrul de administrare Office](https://docs.microsoft.com/intune/licenses-assign) sau portalul [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Tipul de licență de utilizator este nevalid sau Nume de utilizator nerecunoscut:** Utilizatorului trebuie să i se atribuie o licență Intune sau EMS. Revizuiți aceste documente pentru a atribui o licență prin: [Office de administrare](https://docs.microsoft.com/intune/licenses-assign) sau portalul [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Resurse suplimentare care ajută la rezolvarea problemei:
   
