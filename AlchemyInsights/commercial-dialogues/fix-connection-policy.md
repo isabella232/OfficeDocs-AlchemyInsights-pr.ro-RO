@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888418"
 ---
 # <a name="fix-connection-policy"></a>Remedierea politicii de conexiune
 
-Mesajul de e-mail a fost marcat ca sigur și livrat în inboxul utilizatorului, deoarece adresa IP de expediere a fost marcată ca sigură în politica Filtru de conexiune. Pentru a revizui politica, acțiunile următoare:
+Mesajul de e-mail a fost marcat ca sigur și livrat în Inboxul utilizatorului, deoarece adresa IP sursă a fost marcată ca sigură în politica implicită de filtrare a conexiunii. Pentru a revizui politica, urmați acești pași:
 
-1. Accesați Centrul de [Office 365 securitate &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de gestionare a  >  **amenințărilor**  >  [Antispam.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Pe fila **Particularizate,** selectați Politica **de filtrare a conexiunii**, apoi selectați **Editați politica**.
-3. Revizuiți **lista de adrese IP permisă.** Vedeți dacă **Seif** este activată.
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-mail & politicilor de colaborare & Reguli <https://security.microsoft.com/>  \>  \>  \> **antispam** în **secțiunea** Politici.
 
-    > [!NOTE]
-    > Microsoft se abonează la surse terțe ale expeditorilor de încredere. Dacă **Seif este** activată, acești expeditori de încredere nu sunt marcați din greșeală ca spam. Vă recomandăm să selectați această opțiune, deoarece va reduce numărul de rezultate fals pozitive (mesaje bune clasificate ca spam) pe care le primiți.
+   Pentru a merge direct la **pagina Politici antispam,** utilizați <https://security.microsoft.com/antispam> .
+
+2. Pe pagina **Politici antispam,** selectați politica denumită Politica de filtrare a conexiunii **(Implicit),** făcând clic pe numele politicii.
+
+3. În meniul volant detalii care apare, faceți clic **pe Editați politica de filtrare** a conexiunii din **secțiunea Filtrare** conexiune.
+
+4. Examinați intrările din **secțiunea Se permit întotdeauna mesajele** din următoarea secțiune de adrese IP sau intervale de adrese și vedeți dacă **s-a selectat Activați lista** sigură.
+
+   > [!NOTE]
+   > Microsoft se abonează la surse terțe ale expeditorilor de încredere. Dacă este activată lista sigură, acești expeditori de încredere nu sunt marcați greșit ca spam. Vă recomandăm să selectați această opțiune, deoarece va reduce numărul de rezultate fals pozitive (mesaje de e-mail bune clasificate ca spam) pe care le primiți.
+
+Pentru mai multe informații, consultați [Configurarea filtrării conexiunii.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

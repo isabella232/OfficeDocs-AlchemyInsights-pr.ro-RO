@@ -1,5 +1,5 @@
 ---
-title: 603 Aflați cum să ajustați setările agendei
+title: 603 Aflați cum să ajustați setările pentru Agendă
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054126"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>Aflați cum să configurați setările agendei
 
-Setările agendei se află în setările **calendarului** din Outlook pe web. Pentru mai multe informații, consultați [setările calendarului în Outlook pe web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Setările pentru Agendă se află în **setările Calendar** din Outlook pe web. Pentru mai multe informații, [consultați Setările de calendar din Outlook pe web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Administratorii pot utiliza cmdletul **set-CalendarNotification** în Exchange Online PowerShell pentru a configura setările agendei. Pentru mai multe informații, consultați [set-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Administratorii pot utiliza **cmdletul Set-CalendarNotification (Setare calendarNotificare)** în Exchange Online PowerShell pentru a configura setările agendei. Pentru mai multe informații, consultați [Setarea Adnotării calendarelor.](https://technet.microsoft.com/library/dd351284)
