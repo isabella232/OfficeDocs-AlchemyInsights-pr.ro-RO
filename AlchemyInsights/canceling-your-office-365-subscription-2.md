@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686934"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893967"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vă anulați Microsoft 365 abonament?
 
@@ -33,4 +33,4 @@ Pe baza datelor organizației dvs., credem că toate abonamentele curente au atr
 
 **Rambursare:** Orice credit prorated vă va fi returnat în următorul ciclu de facturare.
 
-Pentru a afla mai multe, [consultați Anularea abonamentului.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Pentru a afla mai multe, [consultați Anularea abonamentului.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891691"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312699"
 ---
 # <a name="alert-policies"></a>Politici de avertizare
 
-Microsoft 365 conține politici de [avertizare](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) implicite care declanșează avertizări pentru organizații cu un abonament Microsoft 365 Enterprise sau Microsoft 365 US Government E1/G1, E3/G3 sau E5/G5. Prin urmare, administratorii pot primi o notificare prin e-mail de avertizare trimisă de Office365Alerts@microsoft.com cu o linie de subiect, cum ar fi "O avertizare de severitate scăzută: numele politicii de avertizare ". Notificările de avertizare sunt trimise atunci când se declanșează avertizări pentru activitățile obișnuite, cum ar fi atunci când utilizatorii:
+Microsoft 365 conține politici [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) de avertizare implicite care declanșează avertizări pentru organizații cu un abonament Microsoft 365 Enterprise sau Microsoft 365 US Government E1/G1, E3/G3 sau E5/G5. Prin urmare, administratorii pot primi o notificare prin e-mail de avertizare trimisă de Office365Alerts@microsoft.com cu o linie de subiect, cum ar fi "O avertizare de severitate scăzută: numele politicii de avertizare ". Notificările de avertizare sunt trimise atunci când se declanșează avertizări pentru activitățile obișnuite, cum ar fi atunci când utilizatorii:
 
 - Creați reguli pentru inbox care redirecționează e-mailul.
 - Atribuiți permisiuni cutiei lor poștale.
@@ -33,7 +33,7 @@ Pentru a revizui și a acționa într-o avertizare:
 
 1. Urmați unul dintre pașii următori:
    - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați **Avertizări**. Sau, pentru a merge direct la **pagina Avertizări,** utilizați <https://compliance.microsoft.com/compliancealerts> .
-   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Incidente și &** \> **avertizări**. Sau, pentru a merge direct la **pagina Avertizări,** utilizați <https://security.microsoft.com/alerts> .
+   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați Incidente și &  \> **avertizări**. Sau, pentru a merge direct la **pagina Avertizări,** utilizați <https://security.microsoft.com/alerts> .
 2. Faceți clic pe o avertizare pentru a afișa o pagină detașată, cu informații despre avertizare.
 
 Puteți să luați măsuri într-o avertizare, cum ar [fi eliminarea unei reguli de inbox suspecte.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Sau puteți pur și simplu să închideți avertizarea, făcând **clic pe Rezolvare** pe pagina detașată de avertizare.

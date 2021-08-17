@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2527e9e6a88c033816479ea745c86121ca0887ec
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890218"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313638"
 ---
 # <a name="change-organization-profile"></a>Modificați profilul organizației
 
-Modificați numele firmei, adresa, informațiile de contact tehnic și altele în centrul de administrare **de pe Setări** Org  >  **Setări**  >  [fila Profil](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) organizațional.
+Modificați numele firmei, adresa, informațiile de contact tehnic și altele în centrul de **administrare, pe Setări** Organizație Setări  >    >  [fila Profil](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) organizație.
 
 Asigurați-vă că completați toate câmpurile obligatorii marcate cu * pentru a permite salvarea modificărilor.
 

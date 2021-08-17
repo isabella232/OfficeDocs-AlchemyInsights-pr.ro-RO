@@ -1,5 +1,5 @@
 ---
-title: Extinderea perioadei de încercare Microsoft 365 for Business
+title: Extinderea perioadei de încercare Microsoft 365 pentru firme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,12 +16,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b3898c5446a8193f818fd810bb3645f78865aa80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868654"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313393"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Prelungiți perioada de încercare Microsoft 365 pentru firme
 
