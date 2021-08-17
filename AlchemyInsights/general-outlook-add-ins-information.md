@@ -1,5 +1,5 @@
 ---
-title: Informații generale despre programele de completare Outlook
+title: Informații Outlook suplimentare ale programelor de completare
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116956"
 ---
-# <a name="general-outlook-add-ins-information"></a>Informații generale despre programele de completare Outlook
+# <a name="general-outlook-add-ins-information"></a>Informații Outlook suplimentare ale programelor de completare
 
-Vizitați acest site web pentru resursele de documentație All-in în ceea ce privește [construirea programelor de completare Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Vizitați acest site web pentru resursele documentației pentru toate programele de completare [Outlook construirii de programe de completare.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Pentru resurse suplimentare privind gestionarea, implementarea și activarea programelor de completare, consultați:
+Pentru resurse suplimentare cu privire la gestionarea, implementarea și activarea programelor de completare, consultați:
 
-- [Determinați dacă implementarea centralizată a programelor de completare funcționează pentru organizația dvs](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Determinați dacă Implementarea centralizată a programelor de completare funcționează pentru organizația dvs.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Gestionați implementarea programelor de completare în centrul de administrare Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Specificați administratorii și utilizatorii care pot instala și gestiona programele de completare pentru Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Specificați administratorii și utilizatorii care pot instala și gestiona programe de completare pentru Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

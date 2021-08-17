@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116920"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Obțineți o copie a facturii sau a utilizării
 
@@ -25,7 +25,7 @@ ms.locfileid: "51812422"
 
 1. Selectați-vă abonamentul [din pagina Abonamente](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) din portalul Azure, [ca utilizator cu acces la facturi, apoi](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) **selectați Facturi**
 2. Faceți **clic pe** Descărcare factură pentru a vizualiza o copie a facturii PDF. Dacă pe acesta **scrie Indisponibil**, consultați De ce nu văd o factură pentru ultima perioadă [de facturare?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. De asemenea, puteți vizualiza utilizarea zilnică făcând clic pe perioada de facturare Pentru a obține un PDF al facturii și o copie a fișierului de utilizare zilnică detaliată (. CSV): [Obțineți date privind facturile și utilizarea](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. De asemenea, puteți vizualiza utilizarea zilnică făcând clic pe perioada de facturare Pentru a obține un PDF [](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support) al facturii și o copie a fișierului de utilizare zilnică detaliată (.CSV): Obțineți datele privind facturile și utilizarea
 
 **Obțineți factura prin e-mail (.pdf)**
 
@@ -34,7 +34,7 @@ ms.locfileid: "51812422"
 3. [Facturi Azure trimise direct în inbox](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Înțelegeți utilizarea zilnică:**  
- [Înțelegeți factura dvs. pentru Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+ [Înțelegeți factura pentru Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Gestionarea costurilor: Prevenirea** [costurilor neașteptate cu facturarea Azure și gestionarea costurilor](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
@@ -47,10 +47,10 @@ Dacă aveți un Acord cu [clientul Microsoft,](https://docs.microsoft.com/azure/
 
 Dacă aveți un Acord Microsoft cu clientul, puteți opta pentru a obține factura într-un e-mail. Toți proprietarii profilului de facturare, Colaboratori, Cititori și Manageri de facturi vor primi factura prin e-mail. Cititorii nu pot actualiza preferința facturii de e-mail
 
-- Căutare **Gestionare costuri + Facturare**. Selectați un **profil de facturare.** Sub Setări, selectați **Proprietăți**
+- Căutare **Gestionare costuri + Facturare**. Selectați un **profil de facturare.** Under Setări, select **Properties**
 - Sub Factură prin e-mail, selectați **Actualizați preferința facturii de e-mail.** Selectați înscriere. Faceți clic **pe Actualizare**
 
-**Contract Enterprise (EA)**
+**Contractul Enterprise (EA)**
 
 Pentru a vizualiza și a descărca datele de utilizare ca client EA, trebuie să fiți administrator De întreprindere, Proprietar cont sau Administrator de departament cu politica de vizualizare activată.
 
