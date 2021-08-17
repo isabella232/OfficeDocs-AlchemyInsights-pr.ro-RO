@@ -1,5 +1,5 @@
 ---
-title: Golirea folderului Elemente șterse din Outlook.com
+title: Goliți folderul Elemente șterse din Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111808"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Golirea folderului Elemente șterse
 
 1. Deschideți folderul Elemente șterse și selectați **Golire folder**.
-2. Selectați **Elemente recuperabile** în partea de sus a paginii și selectați din nou **folder gol** .
+2. Selectați **Elemente recuperabile în** partea de sus a paginii și selectați din **nou Golire folder.**
 
 **Nu se poate goli folderul Elemente șterse**
 
-- Dacă ați șters o mulțime de e-mail, poate dura un timp pentru ca acele elemente să se mute sau să fie șterse din folderul Elemente șterse. Lăsați fereastra de browser deschisă în timp ce se efectuează ștergerea.
-- Dacă mesajul de e-mail încă nu se șterge corect, selectați un grup mai mic de șters.
-- Dacă e-mailul șters se întoarce, ar putea fi pentru că ați șters recent o mulțime de e-mail. Vă rugăm să încercați din nou mai târziu.
+- Dacă ați șters multe mesaje de e-mail, poate dura un timp pentru ca aceste elemente să se mute sau să fie șterse din folderul Elemente șterse. Lăsați fereastra browserului deschisă în timp ce are loc ștergerea.
+- Dacă e-mailul tot nu reușește să șteargă corect, selectați un grup mai mic pentru a-l șterge.
+- Dacă mesajele de e-mail șterse se întorc, cauza poate fi că ați șters recent multe mesaje de e-mail. Încercați din nou mai târziu.

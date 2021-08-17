@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313439"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895095"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Configurarea politicilor anti-phishing în Microsoft Defender pentru Office 365
 
-1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-& prin e-mail a politicilor & de amenințare a <https://security.microsoft.com/>  \>  \>  \> **regulilor, Anti-phishing,** **în secțiunea** Politici.
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-mail & Politicilor de colaborare & Regulile de amenințare <https://security.microsoft.com/>  \>  \>  \> **anti phishing** **în secțiunea** Politici.
 
    Pentru a merge direct la **pagina Anti-phishing,** utilizați <https://security.microsoft.com/antiphishing> .
 

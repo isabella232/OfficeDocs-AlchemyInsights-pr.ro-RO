@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893067"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314928"
 ---
 # <a name="billing-and-payment"></a>Facturare și plată
 
@@ -46,8 +46,7 @@ Dacă ați adăugat un card nou și încă obțineți o notificare de refuz pe v
 
 4. Pentru a utiliza o metodă de plată existentă, alegeți una din lista verticală, apoi selectați **Înlocuire**.
 
-    > [!NOTE]
-    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe pagina **Metode de plată**, acestea nu sunt disponibile pentru selectare în lista verticală.
+    **Notă:** dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe pagina **Metode de plată**, acestea nu sunt disponibile pentru selectare în lista verticală.
 
 5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați metodă de plată**.
 
