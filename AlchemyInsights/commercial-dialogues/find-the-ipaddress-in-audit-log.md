@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017144"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303589"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Găsirea adresei IP în jurnalul de auditare
 
-1. Adresa IP care corespunde unei activități efectuate de un utilizator sau un administrator este afișată în jurnalele de auditare. De asemenea, informațiile despre client sunt înregistrate în jurnal. Iată cum să identificați adresa IP:
+Adresa IP care corespunde unei activități efectuate de un utilizator sau un administrator este afișată în jurnalele de auditare. De asemenea, informațiile despre client sunt înregistrate în jurnal. Iată cum să identificați adresa IP:
 
-1. Accesați Centrul de [Office 365 securitate & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Selectați **Căutare**  >  **[în jurnalul de auditare.](https://go.microsoft.com/fwlink/?linkid=2103759)**
-    > [!NOTE]
-    > Dacă vedeți o notificare că trebuie să activați auditarea, activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea extrage date din datele anterioare.
-1. Dacă vă interesează o anumită activitate, selectați-o din **lista** Activități; altfel, în mod implicit, toate activitățile vor fi returnate pentru utilizatorul selectat. Rețineți că este posibil ca anumite activități să nu fie disponibile pentru selectare **din meniul** Activități; totuși, elementele de auditare respective vor fi returnate **dacă s-a selectat Afișare** rezultate pentru toate activitățile (setare implicită).
-1. Specificați intervalul de date și, în câmpul Utilizatori, **selectați** numele de utilizator al utilizatorului pe care doriți să-l investigați.
-1. Selectați **Căutare**. Activitățile apar sub **Rezultate**. Puteți vedea adresa IP pentru fiecare activitate.
-1. Pentru a vedea detaliile, selectați o activitate, apoi selectați **Mai multe informații.**
+1. Urmați una dintre următoarele acțiuni:
+   - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați Audit  \> **soluții**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://compliance.microsoft.com/auditlogsearch> .
+   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Audit**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://security.microsoft.com/auditlogsearch> .
 
-Pentru mai multe informații, consultați Căutarea în [jurnalul Office 365 auditare pentru a depana scenarii comune.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Notă:** dacă vedeți o notificare că trebuie să activați auditarea, activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea extrage date din datele anterioare.
+
+2. Pe pagina **Audit,** verificați dacă **este selectată** fila Căutare, apoi configurați următoarele setări:
+   - **Interval de timp și dată:** selectați intervalul de timp în **casetele Început** **și** Sfârșit.
+   - **Activități:** Dacă vă interesează o anumită activitate, selectați-o din listă; în caz contrar, valoarea implicită **Afișați rezultate pentru toate activitățile** returnează toate activitățile. Rețineți că este posibil ca anumite activități să nu fie disponibile pentru selecție; totuși, elementele de auditare respective vor fi returnate **dacă s-a selectat Afișare rezultate** pentru toate activitățile.
+   - **Utilizatori:** Acceptați valoarea implicită necompletată pentru a returna rezultate pentru toți utilizatorii sau introduceți unul sau mai mulți utilizatori.
+
+3. Când terminați, faceți clic pe **Căutare**. Activitățile apar pe noua pagină **Căutare audit.**
+
+4. În rezultate, faceți clic **pe Filtrare rezultate** și tastați **Set-Mailbox** în caseta de filtrare de activitate.
+
+5. Selectați o înregistrare de auditare din rezultate pentru a **deschide fereastra** volanată Detalii.
+
+Pentru mai multe informații, consultați Căutarea [în jurnalul de auditare pentru a investiga problemele comune de asistență.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
