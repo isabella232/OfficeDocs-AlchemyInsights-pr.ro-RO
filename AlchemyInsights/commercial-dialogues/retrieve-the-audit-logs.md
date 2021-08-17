@@ -1,5 +1,5 @@
 ---
-title: Regăsirea jurnalelor de auditare
+title: Regăsirea jurnalelor de audit
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483170"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893603"
 ---
-# <a name="retrieve-the-audit-logs"></a>Regăsirea jurnalelor de auditare
+# <a name="retrieve-the-audit-logs"></a>Regăsirea jurnalelor de audit
 
-Atunci când deschideți mai întâi Jurnalul de auditare, acesta va fi necompletat. Trebuie să căutați pentru a vedea ce este acolo. Iată cum să faceți o căutare generală pentru toate activitățile:
+Când deschideți pentru prima dată jurnalul de auditare, acesta va fi gol. Trebuie să faceți o căutare pentru a vedea ce este acolo. Iată cum să faceți o căutare generală pentru toate activitățile:
 
-1. Accesați pagina de [Căutare în Jurnalul de auditare](https://protection.office.com/#/unifiedauditlog) (sau navigați la **centrele de administrare**  >  **Securitate & căutare Centru de conformitate**  >  **&**  >  **Căutare în Jurnalul de auditare** a investigațiilor).
-1. În caseta **activități** , acceptați valoarea implicită, **Afișați rezultatele pentru toate activitățile**.
-1. Specificați intervalul de date, iar în caseta **utilizatori** acceptați valoarea implicită pentru a returna rezultatele pentru toți utilizatorii sau alegeți numele de utilizator pentru utilizatorul pe care doriți să-l investigați.
-1. Faceți clic pe **Căutare**. Activitățile apar sub **Rezultate**.
-1. Pentru a vizualiza detaliile, faceți clic pe o activitate, apoi alegeți **mai multe informații**. Veți vedea mai multe informații, cum ar fi clientul, utilizatorul care a efectuat acțiunea etc.
+1. Urmați una dintre următoarele acțiuni:
+   - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați Audit  \> **soluții**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://compliance.microsoft.com/auditlogsearch> .
+   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Audit**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://security.microsoft.com/auditlogsearch> .
+
+2. Pe fila **Căutare** din pagina **Audit,** configurați următoarele setări:
+   - **Interval de timp și dată:** selectați intervalul de timp în **casetele Început** **și** Sfârșit.
+   - **Activități:** verificați **Afișați rezultate pentru toate activitățile** este selectată.
+   - **Utilizatori:** Acceptați valoarea implicită necompletată pentru a returna rezultate pentru toți utilizatorii sau introduceți unul sau mai mulți utilizatori.
+
+3. Când terminați, faceți clic pe **Căutare**. Activitățile apar pe noua pagină **Căutare audit.**
+
+4. Selectați o activitate din rezultate pentru a deschide fereastra volant detalii. Veți vedea mai multe informații, cum ar fi Client, Utilizator care a efectuat acțiunea etc.
+
+Pentru a afla mai multe, consultați [Căutarea în jurnalul de auditare pentru a investiga problemele comune de asistență.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
