@@ -1,5 +1,5 @@
 ---
-title: Set de reproduceri
+title: Set de reproducere
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110692"
 ---
-# <a name="replica-set"></a>Set de reproduceri
+# <a name="replica-set"></a>Set de reproducere
 
-AADDS este, de asemenea, denumit domeniul gestionat. De fapt, sunt două controlere de domeniu care rulează și sunt întreținute de backend. Cele două DCs includ un DC principal și unul de replicare DC. Backupurile din AADDS (domeniul gestionat) sunt un proces automatizat gestionat de platforma Azure. În cazul unei probleme cu domeniul gestionat, asistența Azure vă poate ajuta în restaurarea din backup.
+AADDS se mai numește și domeniu gestionat. De fapt, sunt două controlere de domeniu care sunt rulate și întreținute de backend. Cele două DCs includ un dc principal și o reproducere DC. Copiile backup din AADDS (domeniul gestionat) sunt un proces automatizat gestionat de platforma Azure. În cazul unei probleme cu domeniul gestionat, asistența Azure vă poate asista la restaurarea de pe backup.
 
-Creați fiecare set de reproduceri într-o rețea virtuală. Fiecare rețea virtuală trebuie să fie coordonată fiecărei rețele virtuale care găzduiește un set de reproduceri al domeniului gestionat. Această configurație creează o topologie de rețea Mesh care acceptă reproducerea directorului. O rețea virtuală poate accepta mai multe seturi de replicare, cu condiția ca fiecare set de reproduceri să se află într-o subrețea virtuală diferită.
+Creați fiecare set de reproducere într-o rețea virtuală. Fiecare rețea virtuală trebuie să fie grupată la fiecare altă rețea virtuală care găzduiește setul de reproducere a unui domeniu gestionat. Această configurație creează o topologie de rețea rețea ce acceptă reproducerea directoarelor. O rețea virtuală poate acceptă mai multe seturi de reproducere, cu condiția ca fiecare set de reproducere să se află într-o subrețea virtuală diferită.
 
-Pentru mai multe detalii despre setul de reproduceri, consultați [seturi de reproduceri concepte](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Pentru mai multe detalii despre setul de reproducere, consultați [Seturi de reproducere a conceptelor](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).

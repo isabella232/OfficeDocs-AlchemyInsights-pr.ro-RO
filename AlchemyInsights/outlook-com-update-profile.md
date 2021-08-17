@@ -1,5 +1,5 @@
 ---
-title: 8000036 modificare profil pic/nume în Outlook.com
+title: 8000036 Modificare fotografie/nume profil în Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8630b53c69b731f50951358c9ec2fec71f13f9d80cc45e30c5741c2a10de56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111268"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Modificarea imaginii sau a numelui de profil în Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Modificarea fotografiei sau numelui de profil în Outlook.com
 
-1. Accesați [informațiile contului Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Selectați **Editare nume** sau **Modificare imagine**.
+1. Accesați [informațiile despre contul dvs. Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=860841)
+1. Selectați **Editați numele** sau **Modificați imaginea.**
 
-Vă rugăm să permiteți până la 24 de ore pentru ca modificările din fotografia de profil sau numele să intre în vigoare.
+Așteptați până la 24 de ore pentru ca modificările la fotografia de profil sau numele dvs. să intre în vigoare.

@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948967"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894407"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Investigarea phishingului, a spamului sau a mesajelor de e-mail filtrate incorect
 
 Utilizați Remitere Explorer pentru a remite mesajul la Microsoft. Veți primi feedback imediat despre filtrarea mesajelor și motivul pentru care a apărut problema. Iată un rezumat al pașilor:
 
-1. Accesați Centrul de [Office 365 securitate &](https://go.microsoft.com/fwlink/p/?linkid=2077143), selectați Remiteri de gestionare a amenințărilor , apoi   >  selectați **+Remitere nouă**.
-2. Specificați detaliile în **fișa detașare** Remitere nouă.
-3. Informați utilizatorii că ar trebui să raporteze mesaje de [e-mail](https://go.microsoft.com/fwlink/?linkid=2092385) suspecte la Microsoft și că programul de completare Mesaj raport este instrumentul pe care ar trebui să îl utilizeze în acest scop.
+1. În portalul de Microsoft 365 Defender de la <https://security.microsoft.com> , accesați Remiteri **de & de** \> **e-mail pentru colaborare**.
+
+   Pentru a merge direct la **pagina Remiteri,** utilizați <https://security.microsoft.com/reportsubmission> .
+
+2. Pe pagina **Remiteri,** verificați dacă **fila Remise** pentru analiză este selectată, apoi faceți clic **pe + Remitere la Microsoft pentru analiză.**
+
+3. Va apărea o fișă cu opțiunea de a remite un e-mail, o adresă URL sau un fișier. Pentru mai multe informații, consultați Utilizarea remiterii de către administrator pentru a remite la Microsoft mesaje suspecte de spam, mesaje [phish, URL-uri și fișiere.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Informați utilizatorii că trebuie să raporteze toate mesajele suspecte din inboxul lor utilizând programul de completare Report Message sau programul de [completare Report Phishing.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

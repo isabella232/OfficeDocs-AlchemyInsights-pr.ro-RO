@@ -1,5 +1,5 @@
 ---
-title: Activarea Microsoft 365 aplicații
+title: Activarea Microsoft 365 aplicațiile
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889266"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314252"
 ---
-# <a name="activating-microsoft-365-apps"></a>Activarea Microsoft 365 aplicații
+# <a name="activating-microsoft-365-apps"></a>Activarea Microsoft 365 aplicațiile
 
-**Notă:** Dacă utilizați o versiune mai veche de Windows (de exemplu, Windows 7), asigurați-vă că TLS 1.2 este activat ca implicit. Pentru mai multe informații, consultați Actualizare pentru a activa [TLS 1.1 și TLS 1.2 ca](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)protocoale sigure implicite în WinHTTP în Windows .
+**Notă:** dacă utilizați o versiune anterioară de Windows (de exemplu, Windows 7 SP1, Windows Server 2008 R2), activați TLS 1.2 în mod implicit, utilizând remedierea [simplă.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Pentru mai multe informații, consultați Actualizarea pentru a activa [TLS 1.1 și TLS 1.2 ca](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)protocoale sigure implicite în WinHTTP în Windows .
 
 Pentru a activa Office, consultați:
 
@@ -29,7 +29,7 @@ Pentru a activa Office, consultați:
 
 - [Activați Office pe un Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Notă:**  Asigurați-vă că aveți un abonament Office 365 sau Microsoft 365 care include aplicații [client Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)de exemplu, Microsoft 365 Business Standard, Aplicații Microsoft 365 pentru afaceri sau Aplicații Microsoft 365 pentru întreprindere. În plus, asigurați-vă că aveți atribuită o licență contului de utilizator pe care îl utilizați pentru a Office [aplicațiile .](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Notă:**  Asigurați-vă că aveți un abonament Office 365 sau Microsoft 365 care include aplicații [client Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)de exemplu, Microsoft 365 Business Standard, Aplicații Microsoft 365 pentru afaceri sau Aplicații Microsoft 365 pentru întreprindere. În plus, asigurați-vă că acel cont de utilizator pe care îl utilizați pentru a vă conecta Office [aplicațiile are atribuită o licență](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Pentru a depana problemele de activare Office, consultați:
 
@@ -38,7 +38,7 @@ Pentru a depana problemele de activare Office, consultați:
 
 - [Ce să încercați dacă nu puteți instala sau activa Office pentru Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Sfat** Pe computerele Windows putem diagnostica și remedia automat pentru dvs. mai multe probleme comune de conectare la Office. Descărcați și rulați **[Asistentul pentru recuperare și asistență pentru Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automatizat.
+**Sfat:** Pe Windows, putem diagnostica și remedia automat mai multe probleme comune Office conectare pentru dvs. Descărcați și rulați **[Asistentul pentru recuperare și asistență pentru Office 365](https://aka.ms/SaRA-OfficeSignInScenario)** pentru a utiliza instrumentul nostru automatizat.
 
 Dacă nu reușiți să vă conectați la Microsoft 365, urmați pașii de mai jos:
 
