@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898868"
 ---
 # <a name="fix-anti-spam-policy"></a>Remedierea politicii antispam
 
-O politică antispam personalizată din entitatea găzduită a afectat acest mesaj. Pentru a revizui politica, acțiunile următoare:
+Una dintre politicile dvs. antispam a afectat acest mesaj. Pentru a revizui politica, urmați acești pași:
 
-1. Accesați Centrul de [Office 365 securitate &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de gestionare a  >  **amenințărilor**  >  [Antispam.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Pe fila **Particularizate,** selectați Politica **implicită de filtrare antispam** sau orice altă politică personalizată pe care ați creat-o, apoi **selectați Editați politica.**
-3. Extindeți **opțiunea de Proprietăți spam** și revizuiți setările **Marcați ca spam.**
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-mail & politicilor de colaborare & Reguli <https://security.microsoft.com/>  \>  \>  \> **antispam** în **secțiunea** Politici.
 
-Pentru mai multe informații despre configurarea politicilor de filtrare antispam, consultați Configurarea [setărilor politicii personalizate de filtrare antispam.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Pentru a merge direct la **pagina Politici antispam,** utilizați <https://security.microsoft.com/antispam> .
+
+2. Pe pagina Politici antispam, selectați politica, făcând clic pe numele politicii (Tipul  este Politica **antispam** particularizată sau Numele este politica de intrare antispam  **(implicit)**).
+
+3. În meniul volant detalii care apare, faceți clic pe Editați pragul de **spam** și proprietățile în secțiunea Pragul de e-mail în bloc & proprietăți **spam,** selectați Editare acțiuni **și** revizuiți setările Marcați ca **spam.**
+
+Pentru mai multe informații, [consultați Configurarea politicilor antispam în EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

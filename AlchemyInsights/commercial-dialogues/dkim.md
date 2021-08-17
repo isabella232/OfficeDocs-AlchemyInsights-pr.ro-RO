@@ -1,5 +1,5 @@
 ---
-title: DKIM (DomainKeys identificat de E-mail)
+title: DKIM (DomainKeys Identified Mail)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 509cd2db33a84f93baf3f53d1ae66aee28c62051
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a56513d727517a799f0a415b8bcb777cd2b26dec677f1990a6caf4b2090f660b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058914"
 ---
-# <a name="dkim-domainkeys-identified-mail"></a>DKIM (DomainKeys identificat de E-mail)
+# <a name="dkim-domainkeys-identified-mail"></a>DKIM (DomainKeys Identified Mail)
 
-DomainKeys identificat mail (DKIM) este un protocol care permite unei organizații să își asume responsabilitatea pentru transmiterea unui mesaj într-un mod care poate fi verificat de furnizorii de cutii poștale. Această verificare este posibilă prin autentificarea criptografică.
+DomainKeys Identified Mail (DKIM) este un protocol care permite unei organizații să-și asume responsabilitatea pentru transmiterea unui mesaj într-un mod care poate fi verificat de furnizorii cutiei poștale. Această verificare este posibilă prin autentificarea criptografică.

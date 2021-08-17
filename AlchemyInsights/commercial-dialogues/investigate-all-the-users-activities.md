@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949399"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898808"
 ---
 # <a name="investigate-all-the-users-activities"></a>Investigați toate activitățile utilizatorilor
 
 Iată cum să faceți acest lucru:
 
-1. Accesați Centrul de [conformitate & securitate.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selectați **Căutare**  >  **[în jurnalul de auditare.](https://go.microsoft.com/fwlink/?linkid=2103759)**
+1. Urmați una dintre următoarele acțiuni:
+   - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați Audit  \> **soluții**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://compliance.microsoft.com/auditlogsearch> .
+   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Audit**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Dacă vedeți o în prealabil că trebuie să activați caracteristica, activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea extrage date din datele anterioare.
 
-1. Dacă vă interesează o anumită activitate, selectați-o din **lista** Activități. Dacă nu, în mod implicit, toate activitățile vor fi returnate pentru utilizatorul selectat.
-1. Specificați intervalul de date, apoi, în caseta Utilizatori, **selectați** numele de utilizator al utilizatorului pe care doriți să-l investigați. Puteți selecta mai mulți utilizatori o dată.
-1. Faceți **clic pe Căutare.** Activitățile apar sub **Rezultate**. Veți vedea adresa IP, numele de utilizator și numele activității.
-1. Pentru a descărca rezultatele, selectați **Export rezultate**.
-1. Pentru a revizui detaliile, selectați activitatea, apoi extindeți **Mai multe informații.**
+2. Pe fila **Căutare** din pagina **Audit,** configurați următoarele setări:
+   - **Interval de timp și dată:** selectați intervalul de timp în **casetele Început** **și** Sfârșit.
+   - **Activități:** Dacă vă interesează o anumită activitate, selectați-o din listă; în caz contrar, valoarea implicită **Afișați rezultate pentru toate activitățile returnează** toate activitățile.
+   - **Utilizatori:** Acceptați valoarea implicită necompletată pentru a returna rezultate pentru toți utilizatorii sau introduceți unul sau mai mulți utilizatori.
 
-Pentru a afla mai multe, [consultați Căutarea în jurnalul de auditare pentru a depana scenarii comune.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Când terminați, faceți clic pe **Căutare**. Activitățile apar pe noua pagină **Căutare audit.** Veți vedea adresa **IP,** **utilizatorul** și **numele activității.**
+
+4. Pentru a descărca rezultatele, selectați **Exportați** \> **descărcați toate rezultatele.**
+
+5. Selectați o activitate din rezultate pentru a deschide fereastra volant detalii.
+
+Pentru a afla mai multe, consultați [Căutarea în jurnalul de auditare pentru a investiga problemele comune de asistență.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

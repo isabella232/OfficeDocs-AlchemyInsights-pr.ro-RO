@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 0fd0eab942a07fdf4e01eb5b4a45dd1035b490bb4ef265e57c28701e93eb3c11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937905"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889394"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Activarea sau reactivarea unui abonament
 
 **Activarea unui abonament**
 
-- Pentru a le oferi utilizatorilor acces la un serviciu, atribuiți o licență. Pentru a afla cum, [consultați Atribuirea de licențe pentru utilizatori.](/microsoft-365/admin/manage/assign-licenses-to-users)
+- Pentru a le oferi utilizatorilor acces la un serviciu, atribuiți o licență. Pentru a afla cum, [consultați Atribuirea de licențe pentru utilizatori.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Dacă aveți deja o licență atribuită, puteți găsi aplicațiile pe care puteți să le descărcați din [pagina Contul meu.](https://portal.office.com/account/#installs) Această pagină furnizează o listă de aplicații disponibile pentru descărcare, pe baza licențelor atribuite.
-- Dacă ați descărcat deja aplicațiile Office Office, poate fi necesar să vă conectați la aplicații cu contul de la locul de muncă sau de la școală. Puteți face acest lucru în orice aplicație Office (Word, Excel etc.), făcând clic pe Fișier  >  **Office Cont** (lângă partea de jos). Sub **Informații utilizator,** selectați **Comutare cont.** Pentru mai multe informații, [consultați Instalarea Office aplicații.](/microsoft-365/admin/setup/install-applications)
+- Dacă ați descărcat deja aplicațiile Office Office, poate fi nevoie să vă conectați la aplicații cu contul de la locul de muncă sau de la școală. Puteți face acest lucru în orice aplicație Office (Word, Excel etc.), făcând clic pe Fișier  >  **Office Cont** (lângă partea de jos). Sub **Informații utilizator,** selectați **Comutare cont.** Pentru mai multe informații, [consultați Office aplicațiilor](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Reactivarea unui abonament**
 
@@ -35,15 +35,15 @@ Dacă abonamentul dvs. expiră, a fost dezactivat de Microsoft sau l-ai anulat �
   
 1. În centrul de administrare, accesați pagina **Facturare**  >  [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l reactivați.
-3. Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament.**
+3. Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament**.
     > [!IMPORTANT]
     > Dacă nu vedeți Reactivați acest **abonament ca** acțiune disponibilă, apelați [Asistența pentru](https://go.microsoft.com/fwlink/p/?linkid=518322) a vă reactiva abonamentul.
-4. În panoul **Reactivați acest abonament,** selectați o metodă de plată existentă sau selectați **Adăugați o metodă de plată.**
+4. În panoul **Reactivați acest abonament,** selectați o metodă de plată existentă sau selectați **Adăugați o metodă de plată**.
 5. Selectați **Reactivare**.
 
-Pentru mai multe informații, consultați [Reactivarea abonamentului](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pentru mai multe informații, consultați [Reactivarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Activarea unui abonament nou cu o cheie de produs**
 
-1. Pentru a activa un Microsoft 365 nou cu cheia de produs, consultați [Unde să introduceți cheia de Office produs](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-2. Introduceți cheia de produs Microsoft 365 și urmați pașii pentru a vă activa abonamentul. Dacă aveți probleme cu activarea, consultați această listă de erori și soluții [pentru cheile de produs.](/microsoft-365/commerce/product-key-errors-and-solutions)
+1. Pentru a activa un Microsoft 365 nou cu cheia de produs, consultați Unde [să introduceți cheia de Office produs](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+2. Introduceți cheia de produs Microsoft 365 și urmați pașii pentru a vă activa abonamentul. Dacă aveți probleme cu activarea, consultați această listă de erori și soluții [pentru cheile de produs.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

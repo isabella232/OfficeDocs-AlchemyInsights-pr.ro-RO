@@ -1,5 +1,5 @@
 ---
-title: Activați Microsoft Defender pentru Office 365 pentru SharePoint Online, OneDrive și Microsoft teams
+title: Activați Microsoft Defender pentru Office 365 pentru SharePoint Online, OneDrive aplicații și Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058878"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Activați Microsoft Defender pentru Office 365 pentru SharePoint Online, OneDrive și Microsoft teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Activați Microsoft Defender pentru Office 365 pentru SharePoint Online, OneDrive aplicații și Microsoft Teams
 
-1. Utilizând acreditările de administrator global sau de securitate, conectați-vă la [Centrul de securitate și conformitate Office 365](https://protection.office.com/).
-2. Selectați **gestionarea amenințărilor** în panoul din stânga, apoi selectați   >  [atașări sigure](https://protection.office.com/safeattachment)pentru politică.
-3. Selectați **activați Microsoft Defender pentru Office 365 pentru SharePoint, OneDrive și Microsoft teams**, apoi selectați **Salvare**.
+1. Utilizând acreditările de administrator global sau de administrator de securitate, conectați-vă la [Centrul Office 365 securitate și conformitate.](https://protection.office.com/)
+2. Selectați **Gestionare** amenințări în panoul din stânga, apoi selectați **Politică**  >  [și Seif atașări.](https://protection.office.com/safeattachment)
+3. Selectați **Activați Microsoft Defender pentru Office 365 pentru SharePoint, OneDrive și Microsoft Teams**, apoi selectați **Salvare**.
     > [!TIP]
     >
-    > - Ca administrator global sau administrator SharePoint Online, rulează următorul cmdlet PowerShell cu parametrul **DisallowInfectedFileDownload** setat la *True*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
+    > - Ca administrator global sau SharePoint Online, rulați următorul cmdlet PowerShell cu **Parametrul DisallowInfectedFileDownload** setat la *true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
     > - [Configurarea avertizărilor pentru fișierele detectate](https://go.microsoft.com/fwlink/?linkid=2092110)
 
-Pentru mai multe informații, consultați [Microsoft Defender pentru Office 365 pentru SharePoint, OneDrive și Microsoft teams](https://go.microsoft.com/fwlink/?linkid=2092041).
+Pentru mai multe informații, [consultați Microsoft Defender pentru Office 365 pentru SharePoint, OneDrive și Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
