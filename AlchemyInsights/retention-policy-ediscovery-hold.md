@@ -1,5 +1,5 @@
 ---
-title: 2609-reținerea-sau-eDiscovery-Hold
+title: Reținere 2609-sau-descoperirea informațiilor electronic
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074836"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nu se pot șterge elementele din SharePoint Online sau OneDrive pentru Business
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nu se pot șterge elemente din SharePoint Online sau OneDrive pentru business
 
-Este posibil ca dumneavoastră sau utilizatorii să nu reușiți să ștergeți elemente din SharePoint Online sau OneDrive pentru Business, deoarece o politică de retenție, o etichetă de retenție sau o reținere eDiscovery este aplicată la un site SharePoint de OneDrive sau la un anumit element. Aceasta include faptul că nu puteți șterge un document, o versiune de document, un folder, o bibliotecă de documente, o listă, o aplicație, un site sau o colecție de site-uri. 
+Este posibil ca dvs. sau utilizatorii dvs. să nu puteți șterge elemente din SharePoint Online sau OneDrive pentru business, din cauza unei politici de retenție, a unei etichete de retenție sau a unei rețineri în eDiscovery aplicate unui site SharePoint de OneDrive sau unui element specific. Între acestea se numără imposibilitatea de a șterge un document, o versiune de document, un folder, o bibliotecă de documente, o listă, o aplicație, un site sau o colecție de site-uri. 
 
-Pentru a șterge elemente dintr-unul dintre aceste scenarii, Politica de retenție, eticheta de retenție sau reținerea eDiscovery trebuie eliminate (sau un site trebuie să fie exclus dintr-o politică de retenție). Trebuie fie să dezactivați sau să excludeți reținerea respectivă care cauzează această problemă. După eliminarea unei politici de retenție sau a unei rețineri, poate dura până la 24 de ore pentru ca modificarea să aibă efect. 
+Pentru a șterge elementele dintr-unul dintre aceste scenarii, politica de retenție, eticheta de retenție sau reținerea în eDiscovery trebuie să fie eliminate (sau un site trebuie să fie exclus dintr-o politică de retenție). Trebuie fie să dezactivați, fie să excludeți din așteptarea care provoacă această problemă. După ce o politică de retenție sau o reținere este eliminată, poate dura până la 24 de ore pentru ca modificarea să aibă efect. 
 
-Pentru informații despre diferitele caracteristici de retenție și reținere care se pot aplica la site-uri SharePoint și conturi OneDrive, consultați unul dintre subiectele următoare.
+Pentru informații despre diversele caracteristici de reținere și reținere care pot fi aplicate conturilor SharePoint site-uri OneDrive, consultați unul dintre următoarele subiecte.
 
-- [Prezentare generală a politicilor de conservare](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Prezentare generală a politicilor de retenție](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 - [Prezentare generală a etichetelor de retenție](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Gestionarea susținerii în descoperirea informațiilor electronice avansate](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [Descoperirea informațiilor electronice](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Politici de închidere și de ștergere a site-ului moștenite](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Gestionarea reținelor în Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [Descoperirea informațiilor electronic conține](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Politici de închidere și ștergere a site-urilor moștenite](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

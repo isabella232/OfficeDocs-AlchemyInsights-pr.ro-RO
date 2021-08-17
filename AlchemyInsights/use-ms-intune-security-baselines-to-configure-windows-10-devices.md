@@ -1,5 +1,5 @@
 ---
-title: Utilizați liniile de bază de securitate Microsoft Intune pentru a configura dispozitivele Windows 10
+title: Utilizați Microsoft Intune de referință de securitate pentru a configura Windows 10 dispozitive
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104356"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Utilizați liniile de bază de securitate Microsoft Intune pentru a configura dispozitivele Windows 10
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Utilizați Microsoft Intune de referință de securitate pentru a configura Windows 10 dispozitive
 
-Liniile de referință de securitate Intune ajută la protejarea utilizatorilor și dispozitivelor. Liniile de referință de securitate sunt grupuri de setări Windows preconfigurate utilizate pentru a aplica un grup cunoscut de setări și valori implicite recomandate de echipele de securitate relevante. Prin crearea unui profil de referință de securitate în Intune, creați un șablon care constă din mai multe profiluri de configurare a dispozitivelor.
+Nivelurile de referință de securitate Intune contribuie la protejarea utilizatorilor și a dispozitivelor. Referințele de securitate Windows grupurile preconfigurate ale setărilor utilizate pentru a aplica un grup cunoscut de setări și valorile implicite recomandate de echipele de securitate relevante. Creând un profil de referință de securitate în Intune, creați un șablon care constă în mai multe profiluri de configurare a dispozitivului.
 
-Atunci când implementați linii de referință de securitate la grupuri de utilizatori sau dispozitive, setările se aplică la dispozitivele care rulează în Windows 10 sau o versiune mai recentă. De exemplu, linie de bază de securitate MDM automat (1) activează BitLocker pentru unitățile amovibile, (2) necesită parola pentru deblocarea unui dispozitiv și (3) dezactivează autentificarea de bază. Atunci când o valoare implicită nu funcționează pentru mediul dvs., particularizați valoarea de referință pentru a aplica setările de care aveți nevoie.
+Atunci când implementați niveluri de referință de securitate pentru grupuri de utilizatori sau dispozitive, setările se aplică pentru dispozitivele care rulează pe dispozitivele Windows 10 sau mai recente. De exemplu, MDM Security Baseline (1) activează BitLocker pentru unitățile amovibile, (2) necesită parola pentru deblocarea unui dispozitiv și (3) dezactivează autentificarea de bază. Atunci când o valoare implicită nu funcționează pentru mediul dvs., particularizați nivelul de referință pentru a aplica setările de care aveți nevoie.
 
-De asemenea, liniile de referință de securitate vă ajută să stabiliți un flux de lucru securizat final în Microsoft 365. Iată câteva dintre următoarele avantaje:
+De asemenea, referințele de securitate vă ajută să stabiliți un flux de lucru securizat end-to-end Microsoft 365. Mai jos sunt câteva dintre avantajele acestui lucru:
 
-- O linie de bază de securitate include cele mai bune practici și recomandări pentru setările care afectează securitatea. Deoarece Intune parteneri cu echipa de securitate Windows care creează valori de referință pentru politicile de grup, aceste recomandări se bazează pe orientări solide și o experiență extinsă.
-- Dacă nu sunteți familiarizat cu Intune și nu sunteți sigur de unde să începeți, atunci liniile de referință de securitate vă vor ajuta să creați și să implementați rapid un profil securizat.
-- Dacă utilizați în prezent o politică de grup, migrarea la Intune în scopuri de gestionare este mult mai simplă cu liniile de bază de securitate, deoarece acestea sunt încorporate în Intune și includ capacități de vârf pentru gestionare.
+- Un nivel de referință de securitate include cele mai bune practici și recomandări pentru setările care afectează securitatea. Deoarece partenerii Intune cu echipa Windows de securitate care creează niveluri de referință pentru politicile de grup, aceste recomandări se bazează pe îndrumări solide și pe o experiență extinsă.
+- Dacă nu sunteți sigur de unde să începeți, nivelurile de referință de securitate vă vor ajuta să creați și să implementați rapid un profil sigur.
+- Dacă utilizați în prezent o politică de grup, migrarea la Intune în scopuri de gestionare este mult mai ușoară cu nivelurile de referință de securitate, deoarece acestea sunt încorporate în Intune și includ capacități de ultimă oră pentru gestionare.
 
-Pentru a afla mai multe, consultați [liniile de bază de securitate Windows](https://go.microsoft.com/fwlink/?linkid=2141503) și [gestionarea dispozitivelor mobile](https://go.microsoft.com/fwlink/?linkid=2141701).
+Pentru a afla mai multe, [consultați Referințe Windows securitate și](https://go.microsoft.com/fwlink/?linkid=2141503) Gestionarea [dispozitivelor mobile.](https://go.microsoft.com/fwlink/?linkid=2141701)

@@ -1,5 +1,5 @@
 ---
-title: Facturare pentru achiziția de instanță rezervată
+title: Facturarea pentru achiziția instanței rezervate
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,64 +12,64 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104032"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Facturare pentru achiziția de instanță rezervată
+# <a name="billing-for-reserved-instance-purchase"></a>Facturarea pentru achiziția instanței rezervate
 
-Achiziția instanței rezervate este debitată la metoda de plată legată la abonamentul pe care îl selectați în momentul achiziției. Tipul de abonament trebuie să fie un contract de întreprindere (numărul ofertei: MS-AZR-0017P), Pay-As-You-Go (număr de ofertă: MS-AZR-0003P), Contractul pentru clienți Microsoft sau CSP.
+Achiziția instanței rezervate este debitată prin metoda de plată asociată abonamentului pe care îl selectați în momentul achiziționării. Tipul de abonament trebuie să fie un Contract Enterprise (numărul ofertei: MS-AZR-0017P), Plătiţi pe măsură ce vorbiţi (numărul ofertei: MS-AZR-0003P), Microsoft Customer Agreement sau CSP.
 
-- Pentru un abonament la nivel de întreprindere, taxele sunt scăzute din soldul angajamentului monetar al înscrierii sau din suma percepută ca supraabonare
-- Pentru abonamentul Pay-As-You-Go, taxele sunt facturate pe cardul de credit sau prin factură, în abonamentul
+- Pentru un abonament de întreprindere, taxele sunt deduse din soldul angajamentului financiar al înregistrării sau sunt facturate suplimentar.
+- Pentru abonamentul Plătiți pe măsură ce vorbiți, plățile sunt facturate prin cardul de credit sau prin metoda de plată prin factură din abonament
 
-**Se anulează rezervarea**
+**Anularea rezervării**
 
-- **Autoserviție:** Puteți să anulați sau să schimbați singur o instanță rezervată [utilizând portalul Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Selectați rezervarea și faceți clic pe rambursare sau pe schimb. Rețineți că trebuie să aveți acces ca proprietar în Comanda de rezervare pentru schimb sau rambursare. Accesul doar la Rezervare nu vă va permite să continuați cu rambursarea sau schimbul. Solicitați proprietarului comenzii de rezervare să vă ofere acces de proprietar la comanda de rezervare
-- **Politică Exchange:** Puteți face schimb de rezervări pentru o altă rezervare de același tip - nu există **pedepse în cazul schimbului** de rezervări. Angajamentul total cu noua rezervare ar trebui să fie mai mare decât suma rambursării schimbate și plățile lunare viitoare (dacă este cazul)
-- **Politica de rambursare:** Suma rambursării și plățile viitoare anulate nu pot depăși 50.000 USD într-o fereastră continuă de 12 luni. În prezent **nu percepem nicio taxă pentru rambursări,** dar ar putea fi taxat cu privire la rambursările viitoare
+- **Autoservire:** puteți să anulați sau să schimbați singur o instanță rezervată, utilizând [portalul Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervarea și faceți clic pe rambursare sau schimb. Rețineți că trebuie să aveți acces de proprietar la comanda de rezervare pentru a realiza schimbul sau rambursarea. Accesul doar la rezervare nu vă va permite să continuați cu rambursarea sau schimbul. Solicitați-i proprietarului comenzii de rezervare să vă ofere acces de proprietar la comanda de rezervare
+- **Politică de schimb:** Puteți să schimbați o rezervare cu o altă rezervare de același tip; nu există **nicio penalizare** pentru schimbul de rezervare. Totalul angajat cu noua rezervare ar trebui să fie mai mare decât suma dintre rambursarea rezervării schimbate și plățile lunare viitoare (dacă este cazul)
+- **Politica de rambursare:** suma rambursării și plățile viitoare anulate nu pot depăși 50.000 de USD într-o perioadă rulantă de 12 luni. Momentan **nu percepem nicio taxă de penalizare** pentru rambursări, dar am putea să o percepem pentru rambursări viitoare
 
-**Excepții:** Posibilitatea de schimb și anulare cu autoservire nu este disponibilă pentru clienții cu Acord Us Government Enterprise
+**Excepții:** schimbul cu autoservire și capacitatea de anulare nu sunt disponibile pentru clienții US Government Enterprise Agreement
 
-- **Asistența API/PS/ CLI** nu este disponibilă pentru anulare și rambursări cu [autoservre și rambursări pentru rezervări Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Posibilitatea de schimb și anulare cu autoservire nu este disponibilă pentru clienții cu Acord Us Government Enterprise. Sunt acceptate alte tipuri de abonamente pentru guvernul SUA, inclusiv Pay-As-You-Go și CSP
+- Asistența **API/PS/CLI** nu este disponibilă pentru anulare și [schimburi cu autoservire ale rambursărilor pentru rezervările Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Schimbul cu autoservire și capacitatea de anulare nu sunt disponibile pentru clienții US Government Enterprise Agreement. Alte tipuri de abonamente pentru Guvernul SUA, inclusiv Plătiţi pe măsură ce vorbiţi și CSP, sunt acceptate
 
-Aflați mai multe: [Cum sunt procesate](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) tranzacțiile de returnare și exchange Aflați mai multe: [Politicile Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) și de rambursare Alte [întrebări: Vizitați documentele instanțelor rezervate](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Aflați mai multe: [Cum sunt procesate](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) tranzacțiile de returnare și exchange Aflați mai multe : [Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) și politicile de rambursare Alte întrebări: Vizitați [documentele instanțelor rezervate](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange o instanță rezervată existentă (autoservre)**
+**Schimbați o instanță rezervată existentă (autoservire)**
 
-Puteți face schimb de rezervări pentru o altă rezervare de același tip. De asemenea, puteți rambursa o rezervare, de până la 50.000 USD pe an, dacă nu mai aveți nevoie de aceasta. Posibilitatea de schimb și anulare cu autoservire nu este disponibilă pentru clienții cu Acord Us Government Enterprise. Sunt acceptate alte tipuri de abonamente pentru guvernul SUA, inclusiv Pay-As-You-Go și CSP. Trebuie să aveți acces la proprietar în Comanda de rezervare pentru a face schimb sau a rambursa o rezervare existentă.
+Puteți să schimbați o rezervare cu o altă rezervare de același tip. De asemenea, puteți să rambursați o rezervare de până la 50.000 de USD anual, dacă nu mai aveți nevoie de aceasta. Schimbul cu autoservire și capacitatea de anulare nu sunt disponibile pentru clienții US Government Enterprise Agreement. Alte tipuri de abonamente pentru Guvernul SUA, inclusiv Plătiţi pe măsură ce vorbiţi și CSP, sunt acceptate. Rețineți că trebuie să aveți acces de proprietar la comanda de rezervare pentru a schimba sau a rambursa o rezervare existentă.
 
-Pașii următori vă vor ghida în procedura de finalizare a tranzacției
+Pașii următori vor oferi orientări cu privire la procedura de finalizare a tranzacției
 
-1.Conectați-vă la [portalul Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervările pe care doriți să le restituiți și faceți clic pe **Exchange** 2.Selectați produsul VM pe care doriți să-l cumpărați și tastați o cantitate. Asigurați-vă că noul total de achiziție este mai mare decât totalul returnat [Determinați dimensiunea corectă înainte de a cumpăra](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
+1.Conectați-vă la [portalul Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selectați rezervările pe care doriți să le rambursați și faceți **clic Exchange** 2.Selectați produsul VM pe care doriți să-l cumpărați și tastați o cantitate. Asigurați-vă că noul total de achiziție este mai mare decât totalul returnat [Determinați dimensiunea corectă înainte de a cumpăra](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
 3.Revizuiți și finalizați tranzacția
 
-**Rambursare pentru o instanță rezervată**
+**Rambursați o instanță rezervată**
 
-Pentru a rambursa o rezervare, accesați Detalii rezervare **și faceți** clic pe **Rambursare**
+Pentru a rambursa o rezervare, accesați **Detalii rezervare** și faceți clic pe **Rambursare**
 
-**Rambursare pro-evaluată:**
+**Rambursare proporțională:**
 
-**Exemple de prorationare și cerință minimă pentru rambursare și schimb** Exemplu de rezervare din upfront:
+**Pro de rambursare și exemple minime de cerințe pentru rambursare și schimb** Exemplu de rezervare din upfront:
 
-- Achiziționați un RI pe termen de un an la prețul de 120 $ la 1 ianuarie
-- Pe 7 aprilie, doriți să faceți o rambursare sau să faceți schimb cu această rezervare
-- Deoarece rezervarea a fost live timp de 97 de zile, veți primi (1-97/365) * 120 LEI înapoi. (de exemplu, 88,1 LEI). În prezent nu există niciun peisa pentru rambursări
-- Dacă schimbul, noua dvs. achiziție ar trebui să fie mai mare de 88,1 LEI
-- În prezent nu există rambursare
+- La 1 ianuarie, achiziționați o instanță de rezervare (RI) de un an pentru 120 de USD
+- Pe 7 aprilie, doriți să rambursați sau să schimbați această rezervare
+- Deoarece rezervarea a fost activă timp de 97 de zile, veți primi înapoi (1-97/365) * 120 de USD. (adică 88,1 USD). În prezent, nu există nicio penalizare pentru rambursări
+- Dacă realizați un schimb, noua achiziție ar trebui să fie mai mare de 88,1 USD
+- În prezent, nu există nicio penalizare pentru rambursări
 
-**Exemplu de rezervare a planului de facturare:**
+**Exemplu de rezervare a planului de tarifare:**
 
-- Achiziționați un RI pe termen de un an la prețul de 10 $ pe lună
-- Pe 7 aprilie, doriți să faceți o rambursare sau să faceți schimb cu această rezervare
-- Deoarece ultima plată a fost efectuată cu 7 zile, veți primi (07.01.2031) * 10 LEI înapoi. (de exemplu, 7,74 dolari)
-- Plățile viitoare anulate sunt de 80 LEI. În prezent nu există niciun peisa pentru rambursări
-- Această anulare va returna 87,74 LEI din limita de rambursare de 50.000 lei
-- Dacă schimbul, valoarea totală a achiziției noi ar trebui să fie mai mare de 87,74 lei
+- Achiziționați o instanță de rezervare (RI) de un an pentru 10 USD pe lună
+- Pe 7 aprilie, doriți să rambursați sau să schimbați această rezervare
+- Deoarece ultima plată a avut loc în urmă cu 7 zile, veți primi înapoi (1-7/31) * 10 USD. (adică 7,74 USD).
+- Plățile viitoare anulate sunt de 80 USD. În prezent, nu există nicio penalizare pentru rambursări
+- Această anulare va deduce suma de 87,74 USD din limita rambursării de 50.000 de USD
+- Dacă realizați un schimb, valoarea totală a noii achiziții ar trebui să fie mai mare de 87,74 USD
 
 **Nu pot vedea factura pentru ultima perioadă de facturare**
 
@@ -101,7 +101,7 @@ Notă: Dacă nu obțineți un e-mail după ce urmați [pașii,](https://account.
 - Selectați **Vedeți inserția** curentă pentru a vedea o estimare a costurilor în momentul când a fost generată estimarea
 - Selectați **Descărcați** utilizarea pentru a descărca datele de utilizare zilnică ca fișier CSV. Dacă vedeți două versiuni disponibile, descărcați versiunea 2
 
-Alte întrebări: [Vizitați documentele instanță rezervată](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Alte întrebări:[Consultați documente pentru instanța rezervată](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Documente recomandate**
 
@@ -111,5 +111,5 @@ Alte întrebări: [Vizitați documentele instanță rezervată](https://docs.mic
 - [Înțelegeți cum se aplică reducerea pentru Instanța rezervată](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Înțelegeți utilizarea instanțelor rezervate pentru abonamentul dvs. Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Înțelegeți utilizarea instanțelor rezervate pentru înscrierea dvs. Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Costurile de software Windows nu sunt incluse cu instanțe rezervate](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Instanțe rezervate în programul furnizor central de soluții cloud pentru parteneri (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows software nu este inclus în instanțele rezervate](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Instanțe rezervate în programul Partner Central Furnizor de soluții cloud (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -1,5 +1,5 @@
 ---
-title: Cum să vă conectați sau să vă deconectați de la Outlook.com
+title: Cum să vă conectați și să vă deconectați de Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042930"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Cum să vă conectați sau să vă deconectați de la Outlook.com
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Cum să vă conectați și să vă deconectați de Outlook.com
 
-Dacă nu vă puteți conecta la contul de e-mail Outlook.com, Hotmail, live sau MSN sau nu sunteți sigur cum să vă conectați sau să vă deconectați, [Iată câteva soluții](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Dacă nu vă puteți conecta la contul dvs. de e-mail Outlook.com, Hotmail, Live sau MSN sau nu sunteți sigur cum să vă conectați sau să vă deconectați, iată [câteva soluții](https://go.microsoft.com/fwlink/p/?linkid=2005840).
   
-Dacă încă întâmpinați probleme la conectare, consultați [atunci când nu vă puteți conecta la contul Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Dacă încă mai aveți probleme de conectare, consultați [Când nu vă puteți conecta la contul Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=837479)
