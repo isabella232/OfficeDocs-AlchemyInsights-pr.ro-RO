@@ -1,5 +1,5 @@
 ---
-title: Utilizatorii externi nu pot accepta o invitație de partajare
+title: Utilizatorul extern nu poate accepta o invitație de partajare
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 44980fd6f0667160082e57084e810ca8ebe7ae7875a5df873f7a367629924cc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782915"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043632"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Utilizatorii externi nu pot accepta o invitație de partajare
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Utilizatorul extern nu poate accepta o invitație de partajare
 
-Dacă un utilizator extern nu poate accepta o invitație de partajare SharePoint sau OneDrive, încercați să vizitați linkurile de mai jos: 
+Dacă un utilizator extern nu poate accepta o invitație de SharePoint sau OneDrive de partajare, încercați să accesați linkurile de mai jos: 
 
-- ["Access Denied", "aveți nevoie de permisiune pentru a accesa acest site" sau "utilizatorul nu a fost găsit în director" erori în SharePoint Online și OneDrive pentru Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Eroarea "politicile organizației dumneavoastră nu vă permit să partajați cu acești utilizatori" atunci când partajați un element sau un site în SharePoint Online sau OneDrive pentru Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Opțiunile de partajare sunt estompate atunci când partajați din SharePoint Online sau OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Mesaj de eroare atunci când un utilizator extern acceptă o invitație SharePoint Online utilizând alt cont](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [Erorile de partajare OSE în SharePoint și OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Erorile "Acces refuzat", "Aveți nevoie de permisiunea de a accesa acest site" sau "Utilizatorul nu a fost găsit în director" în SharePoint Online și OneDrive pentru business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Eroarea "Politicile organizației dvs. nu vă permit să partajați cu acești utilizatori" atunci când partajați un element sau un site în SharePoint Online sau OneDrive pentru business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Opțiunile de partajare sunt gri atunci când partajați de SharePoint Online sau de OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Mesaj de eroare atunci când un utilizator extern acceptă o SharePoint Online utilizând un alt cont](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Erori de partajare ASE în SharePoint OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
