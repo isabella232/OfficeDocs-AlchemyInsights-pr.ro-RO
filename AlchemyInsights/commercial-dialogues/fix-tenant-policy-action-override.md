@@ -1,5 +1,5 @@
 ---
-title: Remedierea politicii de entitate găzduită (înlocuire de acțiune)
+title: Remedierea politicii entității găzduite (înlocuire acțiune)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748991"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896087"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Remedierea politicii de entitate găzduită (înlocuire de acțiune)
+# <a name="fix-tenant-policy-action-override"></a>Remedierea politicii entității găzduite (înlocuire acțiune)
 
-O politică anti-spam din entitatea găzduită a afectat acest mesaj. Pentru a revizui politica, procedați astfel:
+Una dintre politicile dvs. antispam a afectat acest mesaj. Pentru a examina politicile, urmați acești pași:
 
-1. Accesați centrul de [conformitate Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143), apoi accesați Politica de **gestionare a amenințărilor**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Verificați dacă sursa de **politică** indică următoarele:  **Adăugare-XHeader/ModifySubject/redirecționare/Ștergere/niciun mesaj de acțiune/CCI**
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-mail & a politicilor de colaborare & Reguli <https://security.microsoft.com/>  \>  \>  \> **antispam** în **secțiunea** Politici.
 
-    Dacă da, pe fila **particularizat** , Verificați setările politicii care au afectat mesajul. Este posibil ca **setările standard** aplicate pentru toți clienții Exchange Online Protection să fi afectat mesajul.
+   Pentru a merge direct la **pagina Politici antispam,** utilizați <https://security.microsoft.com/antispam> .
 
-Pentru mai multe informații despre configurarea politicilor de filtrare antispam, consultați [Configurarea politicilor de filtrare antispam](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Pe pagina Politici antispam, selectați politica, făcând clic pe numele politicii (Tipul  este Politica **antispam** particularizată sau Numele este politica de intrare antispam  **(implicit)**).
+3. În meniul volant detalii care apare, selectați **Editare acțiuni** în **secțiunea** Acțiuni.
+4. În **secțiunea Acțiuni mesaj,** revizuiți elementele pentru **Spam,** **Spam** de încredere maxim, **Phishing** și **Phishing** cu încredere ridicată pentru a vedea dacă este selectată oricare dintre următoarele valori:
+   - **Adăugarea antetului X**
+   - **Pregătirea liniei de subiect cu textul**
+   - **Redirijați mesajul la adresa de e-mail**
+   - **Ștergerea mesajului**
+   - **Nicio acțiune**
+
+   Este posibil ca setările **Standard aplicate tuturor** clienților Protecție Exchange Online să fi afectat mesajul.
+
+Pentru mai multe informații, [consultați Configurarea politicilor antispam în EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

@@ -1,5 +1,5 @@
 ---
-title: Aflați mai multe despre abonamentul Microsoft 365, bazat pe disponibilitatea caracteristicilor aplicațiilor Office pe dispozitivele mobile
+title: Aflați mai multe Microsoft 365 disponibilitatea pe bază de abonament a Office aplicațiilor mobile pe dispozitive mobile
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087436"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Aflați mai multe despre abonamentul Microsoft 365, bazat pe disponibilitatea caracteristicilor aplicațiilor Office pe dispozitivele mobile
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Aflați mai multe Microsoft 365 disponibilitatea pe bază de abonament a Office aplicațiilor mobile pe dispozitive mobile
 
-Toate planurile Microsoft 365 vă permit să vizualizați documente în Word, Excel, PowerPoint și OneNote pe dispozitivele iOS, Android și Windows Mobile. Cu toate acestea, disponibilitatea caracteristicilor și fișierelor acestor aplicații depinde de abonamentul dvs., un plan de calificare Microsoft 365 sau un plan care nu se califică sau o achiziție unică de Office și dimensiunea ecranului unui dispozitiv mobil.
+Toate planurile Microsoft 365 vă permit să vizualizați documente în Word, Excel, PowerPoint și OneNote pe iOS, Android și Windows dispozitive mobile. Însă disponibilitatea caracteristicilor și fișierelor acestor aplicații depinde de abonamentul dvs.: un plan care se califică Microsoft 365 sau un plan care nu se califică sau o achiziție unice de Office - și dimensiunea ecranului unui dispozitiv mobil.
 
-Pentru a afla mai multe, consultați [ce puteți face în aplicațiile Office pe dispozitive mobile cu un abonament Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Pentru a afla mai multe, [consultați Ce puteți face în aplicațiile Office pe dispozitive mobile cu un Microsoft 365 abonament](https://go.microsoft.com/fwlink/?linkid=2135575). 

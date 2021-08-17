@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310943"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895719"
 ---
 # <a name="payment-faq"></a>Întrebări frecvente despre plată
 
 Gestionați plățile din **Centru de administrare Microsoft 365**.
 
-- Accesați Cont de **facturare > pentru a atribui [sau](https://go.microsoft.com/fwlink/p/?linkid=842054)** a modifica metodele de plată a abonamentului.
+- Accesați Detalii **facturare > pentru a atribui [sau](https://go.microsoft.com/fwlink/p/?linkid=842054)** a modifica metodele de plată a abonamentului.
 - Accesați Facturare **> metode de plată pentru [a](https://go.microsoft.com/fwlink/p/?linkid=2018806)** adăuga, a actualiza, a înlocui sau a șterge metode de plată.
 
 - **Metode de plată** - dacă plătiți cu cardul de credit sau cu contul bancar, metoda de plată asociată cu abonamentul dvs. este tarifată la câteva zile după ce se creează factura. Dacă plata nu reușește, actualizați metoda de plată. Pentru informații suplimentare, consultați [Gestionați metodele de plată](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

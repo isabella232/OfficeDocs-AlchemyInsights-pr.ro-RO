@@ -1,5 +1,5 @@
 ---
-title: 726 blocarea redirecționarii mesajelor de e-mail
+title: 726 Blocarea redirecționării e-mailului
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059644"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blocarea sau deblocarea redirecționarii mesajelor de e-mail
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blocarea sau deblocarea redirecționării e-mailului
 
-Pentru a activa sau a dezactiva redirecționarea e-mailului pentru o anumită cutie poștală, consultați [Configurarea redirecționarii mesajelor de e-mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Pentru a activa sau a dezactiva redirecționarea e-mailului pentru o anumită cutie poștală, consultați Configurarea [redirecționării e-mailului.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-La nivelul entității găzduite, controlul redirecționarii externe se termină utilizând politica de spam de ieșire. Puteți să verificați politica de filtrare antispam de ieșire din centrul de securitate și conformitate [aici](https://protection.office.com/antispam) sau utilizând [comanda Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+La nivel de entitate găzduită, controlul redirecționării externe se face utilizând politica de spam de ieșire. Puteți verifica politica de filtrare antispam [](https://protection.office.com/antispam) de ieșire din Centrul de securitate și conformitate aici sau utilizând comanda [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
-Dacă primiți următoarea eroare: **"550 5.7.520 Access Denied, organizația dumneavoastră nu permite redirecționarea externă"**, asigurați-vă că politica este configurată pentru a activa redirecționarea automată externă.
+Dacă primiți următoarea eroare: **"550 5.7.520 Acces refuzat,** Organizația dvs. nu permite redirecționarea externă", asigurați-vă că politica este configurată pentru a activa Redirecționarea automată externă.
 
-**Notă:** Se recomandă să mențineți autodirecționarea externă dezactivată în politica implicită de filtrare antispam de ieșire și să o activați doar pentru utilizatorii care au nevoie de redirecționare externă, creând o politică particularizată pentru acei utilizatori. Puteți citi mai multe în [Configurarea redirecționarii e-mailurilor externe în Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Notă:** Se recomandă să mențineți avansarea externă dezactivată în politica implicită de filtrare antispam de ieșire și să o activați doar pentru utilizatorii care au nevoie de redirecționare externă, creând o politică personalizată pentru acei utilizatori. Puteți citi mai multe în Configurarea [redirecționării e-mailului extern în Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

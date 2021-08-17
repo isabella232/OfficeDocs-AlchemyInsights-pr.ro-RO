@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296063"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895991"
 ---
 # <a name="release-quarantined-messages"></a>Eliberarea mesajelor în carantină
 
 Puteți să eliberați un mesaj (sau un set de mesaje) în carantină pentru toți destinatarii sau să eliberați mesajul doar anumitor persoane pe care le alegeți din lista tuturor destinatarilor. Iată cum se procedează:
 
-1. În portalul de Microsoft 365 Defender la <https://security.microsoft.com> , accesați Treceți în **carantină & de revizuire** a \>  \> **colaborării.**
+1. În portalul de Microsoft 365 Defender din <https://security.microsoft.com> , accesați Treceți în **carantină & de revizuire** a \>  \> **colaborării.**
 
    Pentru a merge direct la pagina **Carantină,** utilizați <https://security.microsoft.com/quarantine> .
 

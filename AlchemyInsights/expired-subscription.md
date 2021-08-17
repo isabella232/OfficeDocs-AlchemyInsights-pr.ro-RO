@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029744"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895899"
 ---
 # <a name="expired-subscription"></a>Abonament expirat
 
@@ -29,13 +29,13 @@ Se pare că aveți unul sau mai multe abonamente expirate. Dacă preferați să 
 **Reactivați**
   
 1. În centrul de administrare, accesați pagina **Facturare** \> [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l reactivați. Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament.**
+2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l reactivați. Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament**.
     > [!NOTE]
     > Dacă nu vedeți Reactivați **acest abonament,** apelați asistența.
 3. În panoul **Reactivați acest abonament,** selectați o metodă de plată din lista verticală sau selectați Adăugați **o metodă de plată**.
 4. Selectați **Salvare**.
 
-Pentru a afla mai multe, consultați [Reactivarea abonamentului](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Faceți o achiziție nouă**
   
@@ -44,4 +44,4 @@ Pentru a afla mai multe, consultați [Reactivarea abonamentului](/microsoft-365/
 3. Introduceți numărul de licențe de care aveți nevoie și alegeți dacă să plătiți lunar sau pentru tot anul. Alegeți dacă doriți să atribuiți automat licențe tuturor celor care nu au momentan o licență. Apoi **alegeți Check out now**.
 4. Urmați pașii rămasiți pentru a finaliza verificarea.
 
-Pentru a afla mai multe, consultați [Cumpărați un alt abonament.](/microsoft-365/commerce/buy-another-subscription)
+Pentru a afla mai multe, consultați [Cumpărați un alt abonament.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

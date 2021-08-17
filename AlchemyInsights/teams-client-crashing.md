@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
-ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
+ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53187733"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890350"
 ---
 # <a name="teams-client-crashing"></a>Teams client care se blochează
 
@@ -25,9 +25,9 @@ Dacă clientul dvs. Teams are căderi, încercați următoarele:
 
 - Dacă utilizați aplicația desktop Teams, [asigurați-vă că aplicația este complet actualizată](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Asigurați-vă că [toate adresele URL Microsoft 365 adresele URL și intervalele de](/microsoftteams/connectivity-issues) adrese sunt accesibile.
+- Asigurați-vă că [toate adresele URL Microsoft 365 adresele URL și intervalele de](https://docs.microsoft.com/microsoftteams/connectivity-issues) adrese sunt accesibile.
 
-- Conectați-vă cu contul de administrator al entității găzduite și verificați tabloul de bord [cu](/office365/enterprise/view-service-health) starea serviciilor pentru a verifica dacă nu există nicio degradare sau degradare a serviciului.
+- Conectați-vă cu contul de administrator al entității găzduite și verificați tabloul de bord [cu](https://docs.microsoft.com/office365/enterprise/view-service-health) starea serviciilor pentru a verifica dacă nu există nicio degradare sau degradare a serviciului.
 
 - Dezinstalarea și reinstalarea aplicației Teams Software
     - Navigați la folderul %appdata%\Microsoft\Teams\ de pe computer și ștergeți toate fișierele din acel director.
@@ -38,8 +38,8 @@ Dacă clientul Teams încă se blochează, încercați să reproduceți problema
 1. Utilizați înregistratorul de pași pentru a captura pașii.
     - Închideți TOATE aplicațiile inutile sau confidențiale.
     - Lansați înregistratorul de pași și reproduceți problema în timp ce sunteți conectat cu contul de utilizator afectat.
-    - [Colectați jurnalele echipelor care capturează pașii de repro înregistrate.](/microsoftteams/log-files) **Notă:** Asigurați-vă că capturați adresa de conectare a utilizatorului afectat.
-    - Colectați informațiile despre defecțiuni și/sau despre bucketul de eroare (Windows). Lansați Windows Powershell pe computerul pe care are loc căderea și rulați următoarele comenzi (după fiecare comandă, apăsați pe Enter):
+    - [Colectați jurnalele echipelor care capturează pașii de repro înregistrate.](https://docs.microsoft.com/microsoftteams/log-files) **Notă:** Asigurați-vă că capturați adresa de conectare a utilizatorului afectat.
+    - Colectați de e-mailul și/sau informațiile despre bucketul de eroare (Windows). Lansați Windows Powershell pe computerul pe care are loc căderea și rulați următoarele comenzi (după fiecare comandă, apăsați pe Enter):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
     `notepad .\FaultBuckets.txt`

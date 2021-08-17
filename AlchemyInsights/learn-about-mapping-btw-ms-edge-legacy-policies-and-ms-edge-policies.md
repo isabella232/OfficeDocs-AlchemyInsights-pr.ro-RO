@@ -1,5 +1,5 @@
 ---
-title: Aflați despre maparea între politicile moștenite Microsoft Edge și politicile Microsoft Edge
+title: Aflați despre maparea vechea versiune Microsoft Edge politicilor de nume Microsoft Edge politicile noastre
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087400"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Aflați despre maparea între politicile moștenite Microsoft Edge și politicile Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Aflați despre maparea vechea versiune Microsoft Edge politicilor de nume Microsoft Edge politicile noastre
 
-Politicile de grup pentru Microsoft Edge Legacy (versiunile 45 și anterioare) și setările de gestionare a dispozitivelor mobile (MDM) se mapează la politicile relevante din Microsoft Edge versiunea 80. Pentru a afla mai multe, consultați [Microsoft Edge Legacy la maparea politicilor Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Politicile de grup pentru vechea versiune Microsoft Edge (versiunile 45 și mai vechi) și setările Mobile Device Management (MDM) se mapează la politicile relevante Microsoft Edge versiunea 80. Pentru a afla mai multe, [consultați vechea versiune Microsoft Edge a Microsoft Edge maparea politicilor.](https://go.microsoft.com/fwlink/?linkid=2141665)

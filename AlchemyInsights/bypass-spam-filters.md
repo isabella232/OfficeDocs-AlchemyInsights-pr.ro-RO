@@ -1,5 +1,5 @@
 ---
-title: 2637 bypass Filtrarea antispam pentru a permite anumite mesaje?
+title: 2637 Ocoliți filtrarea antispam pentru a permite anumite mesaje?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059572"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ocoliți Filtrarea antispam pentru a permite anumite mesaje?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ocoliți filtrarea antispam pentru a permite anumite mesaje?
 
-Vă recomandăm [precauție](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) atunci când creați o listă de permisiuni. De exemplu, dacă permiteți propriul domeniu, expeditorii dăunători vor putea să falsifice și să trimită ca domeniu.  În schimb, recomandăm acest [Ghid de depanare fals pozitivs](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), care vă va ajuta să determinați de ce un mesaj legitim a fost marcat ca spam și ce puteți face pentru a permite livrarea mesajului în siguranță.
+Vă recomandăm [să fiți](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) atenți atunci când creați o listă de permitere. De exemplu, dacă vă permiteți propriul domeniu, expeditorii rău intenționați vor putea să falsof și să trimită ca domeniu.  În schimb, [](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)vă recomandăm acest ghid de depanare cu rezultate fals pozitive, care vă va ajuta să determinați de ce un mesaj legitim a fost marcat ca spam și ce puteți face pentru a permite livrarea în siguranță a mesajului.
