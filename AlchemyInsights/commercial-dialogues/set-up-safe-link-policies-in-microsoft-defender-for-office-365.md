@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070372"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882579"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Configurarea politicilor Seif Link în Microsoft Defender pentru Office 365
 
-O politică implicită pentru Seif linkuri din Microsoft Defender pentru Office 365 creat deja pentru dvs. Pentru a modifica configurațiile:
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiteți e-mail & Politicilor de colaborare & Reguli pentru politicile de Seif linkurile către linkuri <https://security.microsoft.com/>  \>  \>  \>  **din secțiunea** Politici.
 
-1. Accesați Centrul de [Office 365 securitate & conformitate](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Selectați **Politică de gestionare a**  >  **amenințărilor.** Pe pagina **Politică,** selectați [Microsoft Defender pentru linkuri Office 365 Seif stânga.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. În **Politicile care se aplică la întreaga secțiune a organizației,** **selectați Implicit**, apoi selectați **pictograma** Editare.
-4. În **secțiunea Blocați următoarele URL-uri,** specificați unul sau mai multe URL-uri pe care doriți să le împiedicați pe persoanele din organizația dvs. să vi le viziteze. Pentru mai multe informații, [consultați Lista "Blocați următoarele URL-uri" Seif Linkuri](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. În fila **Setări care se aplică la conținut cu excepția** secțiunii de e-mail, selectați (sau debifați) opțiunile pe care doriți să le utilizați. (Se recomandă să selectați toate opțiunile.)
-6. Selectați **Salvare**.
+   Pentru a merge direct la **Seif Linkuri** rapide, utilizați <https://security.microsoft.com/safelinksv2> .
+
+2. Pe pagina **Seif linkuri** rapide, urmați oricare dintre pașii următori:
+   - Pentru a adăuga o politică nouă, selectați **+ Creare**. Se va lansa un expert care vă va ajuta să definiți setările de politică.
+   - Pentru a edita o politică existentă, selectați politica, făcând clic pe numele politicii. În meniul volant detalii care apare, selectați **Editare în** secțiunea care conține setările pe care doriți să le configurați.
+   - Pentru Seif bloca url-urile din linkurile blocate sau pentru Seif configura setările pentru linkurile Seif din aplicațiile Office 365 acceptate, faceți clic pe **Setări** globale , configurați setările dorite, apoi faceți clic pe **Salvare.** Seif
+
+3. După ce ați revizuit setările, selectați Remitere **(nou)** sau **Salvare** (editare).
+
+Pentru mai multe informații, consultați articolele de mai jos:
+
+- [Configurarea politicilor Seif privind linkurile la Microsoft Defender pentru Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Configurarea setărilor globale pentru linkurile Seif din Microsoft Defender pentru Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

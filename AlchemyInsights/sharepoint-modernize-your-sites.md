@@ -1,5 +1,5 @@
 ---
-title: Modernizarea site-urilor SharePoint
+title: Modernizarea site-urilor SharePoint-uri
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107848"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Modernizarea site-urilor SharePoint
+# <a name="modernize-your-sharepoint-sites"></a>Modernizarea site-urilor SharePoint-uri
 
-Pentru o prezentare generală pas cu pas a modernizării site-urilor SharePoint clasice la experiența modernă, consultați [modernizarea site-urilor SharePoint clasice](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Pentru o prezentare generală pas cu pas a modernizării site-urilor SharePoint clasice cu experiența modernă, consultați Modernizarea experienței clasice [a SharePoint uri](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
-* Pentru a maximiza utilizarea interfeței de utilizator moderne pentru paginile de site și paginile de listă și bibliotecă, consultați [modernizarea interfeței de utilizator](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Pentru a afla mai multe despre deblocarea listelor și bibliotecilor atunci când utilizați interfața de utilizator modernă, consultați [maximizarea utilizării listelor și bibliotecilor moderne](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Pentru mai multe informații despre conectarea la un grup Microsoft 365 și efectuarea unei conexiuni de grup, consultați [conectarea la un grup microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Pentru a maximiza utilizarea interfeței utilizator moderne pentru paginile site-ului și paginile listei și bibliotecii, consultați [Modernizarea interfeței utilizator.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)
+* Pentru a afla mai multe despre cum să vă deblocați listele și bibliotecile atunci când utilizați interfața modernă cu utilizatorul, consultați Maximizarea utilizării [listelor și bibliotecilor moderne.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* Pentru mai multe informații despre conectarea la un grup de Microsoft 365 și efectuarea unei conexiuni de grup, consultați [Conectare-un Microsoft 365 grup.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
 
-**Important**: dacă simțiți că pagina ar trebui să fie deja afișată în vizualizarea modernă și nu este, vă rugăm să navigați la pagina respectivă, să copiați adresa URL și să furnizați URL-ul ca parte a detaliilor biletului dumneavoastră de asistență.
+**Important:** dacă simțiți că pagina dvs. ar trebui să fie afișată deja în vizualizarea modernă și nu este așa, răsfoiți la pagina respectivă, copiați adresa URL și furnizați adresa URL ca parte a detaliilor tichetului de asistență.

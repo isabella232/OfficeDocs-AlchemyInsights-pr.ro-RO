@@ -1,5 +1,5 @@
 ---
-title: Etichete de sensibilitate
+title: Etichete de c sensitivity
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 22878bdff6b987d0a1dc7f7c4aee74f8b22a58f3
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052434"
 ---
-# <a name="sensitivity-labels"></a>Etichete de sensibilitate
+# <a name="sensitivity-labels"></a>Etichete de c sensitivity
 
-Dacă nu vedeți eticheta de sensibilitate pe care vă așteptați să o vedeți pentru un utilizator, Verificați ordinea de prioritate a politicilor etichetei de sensibilitate. Consultați: [prioritatea etichetei](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+Dacă nu vedeți eticheta de Confidențialitate pe care vă așteptați să o vedeți pentru un utilizator, verificați ordinea priorității pentru politicile etichetelor de confidențialitate. Consultați: [Prioritatea etichetelor](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Pentru informații suplimentare despre etichetele de sensibilitate, consultați:
+Pentru informații suplimentare despre etichetele de c sensitivititate, consultați:
 
-- Informații despre etichetele de sensibilitate: [Aflați despre etichetele de sensibilitate-conformitatea Microsoft 365 | Documente Microsoft](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- Informații despre **licențiere** : [Ghidul de licențiere Microsoft 365 pentru securitate & conformitate-descrierile serviciului | Documente Microsoft](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
-- Utilizarea etichetelor de sensibilitate în aplicațiile Office: [utilizarea etichetelor de sensibilitate în aplicațiile Office-conformitatea Microsoft 365 | Documente Microsoft](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
-- Activarea etichetelor de sensibilitate pentru fișierele Office în **SharePoint și OneDrive**: [Activarea etichetelor de sensibilitate pentru fișierele Office în SharePoint și onedrive-Microsoft 365 Conformity | Documente Microsoft](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
-- Utilizați etichetele de sensibilitate cu Microsoft **teams**: [utilizați etichetele de sensibilitate cu Microsoft teams, Microsoft 365 Groups și site-uri SharePoint-conformitatea Microsoft 365 | Documente Microsoft](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
-- **Se aplică automat** Etichete de sensibilitate: [aplicați automat o etichetă de sensibilitate la conținut în microsoft 365-conformitatea microsoft 365 | Documente Microsoft](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-- Probleme cunoscute cu etichetele de sensibilitate: [probleme cunoscute cu etichetele de sensibilitate în Office-asistență Office (Microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- Aflați despre etichetele de c [sensibilitate: Aflați despre etichetele de cloritate - Microsoft 365 de conformitate | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Informații despre** licențiere: [Microsoft 365 de licențiere pentru & securitate - Descrierea serviciului | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
+- Utilizați etichete de c sensitivity în Office aplicațiile dvs.: Utilizați etichete de sensibilitate în aplicațiile Office [- Microsoft 365 de conformitate | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- Activați etichetele de c sensitivity pentru fișierele Office din **SharePoint** și OneDrive : activați etichetele de c sensitivititate pentru fișierele Office din fișierele SharePoint și OneDrive - Microsoft 365 De [| Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
+- Utilizarea etichetelor de c sensitivity cu Microsoft **Teams:** utilizați etichete de sensibilitate cu Microsoft Teams, cu grupurile Microsoft 365 și cu [site-urile SharePoint - Microsoft 365 de conformitate | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
+- **Se aplică automat** Etichete de c sensitivity: Aplică automat o etichetă de c sensitivititate conținutului [din Microsoft 365 - Microsoft 365 de conformitate | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- Probleme cunoscute cu etichetele de c sensitivititate: Probleme cunoscute cu etichete de sensibilitate în [Office - Office de clor (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
 
-Pentru informații despre etichetele de protecție a informațiilor Azure, consultați [etichetarea Azure Information Protection (AIP), clasificarea și protecția | Documente Microsoft](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Pentru informații despre etichetele Azure Information Protection, consultați Etichetarea, clasificarea și protecția Azure [Information Protection (AIP) | Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)

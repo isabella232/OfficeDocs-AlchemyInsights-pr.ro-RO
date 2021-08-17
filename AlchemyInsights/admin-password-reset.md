@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883063"
 ---
 # <a name="admin-password-reset"></a>Resetarea parolei de administrator
 
@@ -29,4 +29,4 @@ ms.locfileid: "52569771"
 
 - Un alt administrator vă poate reseta parola de la **Utilizatori > [Utilizatori activi](https://portal.office.com/adminportal/home#/users)**; selectați contul, apoi faceți clic pe pictograma cheie.  Sau, dacă acreditările dvs. sunt memorate în cache, puteți [să creați un nou cont de administrator](https://portal.office.com/adminportal/home#/users), să vă conectați cu acel cont, apoi să vă resetați propria parolă de administrator.
 
-Pentru mai multe scenarii de resetare a parolei, încercați [Resetarea parolelor Office 365 Business](/microsoft-365/admin/add-users/reset-passwords) sau deschideți un caz de asistență pentru a primi ajutor.
+Pentru mai multe scenarii de resetare a parolei, încercați [Resetarea parolelor Office 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) sau deschideți un caz de asistență pentru a primi ajutor.

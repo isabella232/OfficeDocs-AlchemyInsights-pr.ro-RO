@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002449"
 - "4748"
-ms.openlocfilehash: 756672d6fc04226c8036bf649a4bf79ad9849799361f34d7472015300e59abda
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08c39ca6b0e56bb6856bc214121d8c39e028f828a54ec47694bdec06667b4456
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883107"
 ---
 # <a name="unable-to-access-my-account"></a>Nu îmi pot accesa contul
 
@@ -28,8 +28,8 @@ Dacă abonamentul dvs. expiră, dacă a fost dezactivat de Microsoft sau dacă l
 **Reactivarea unui abonament**
 
 1. În centrul de administrare, accesați pagina **Facturare**  >  [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l reactivați. Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament.**
+2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l reactivați. Selectați cele trei puncte (mai multe acțiuni), apoi **selectați Reactivați acest abonament**.
 3. În panoul **Reactivați acest abonament,** selectați o metodă de plată din lista verticală sau selectați Adăugați **o metodă de plată**.
 4. Selectați **Salvare**.
 
-Pentru a afla mai multe, consultați [Reactivarea abonamentului](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pentru a afla mai multe, consultați [Reactivarea abonamentului](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

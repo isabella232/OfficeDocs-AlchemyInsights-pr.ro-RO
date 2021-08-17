@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883143"
 ---
 # <a name="outbound-relay-pool"></a>Rezervor retransmisie de ieșire
 
-Microsoft face câteva modificări în configurația de trimitere sau redirecționare a e-mailului prin Microsoft 365. Mesajele din anumite scenarii sunt redirecționate sau retransmise prin Microsoft 365 utilizând un rezervor de retransmisie special. Mesajele trimise prin utilizarea rezervorului de retransmisie pot ajunge în folderul de corespondență nedorită al destinatarului. Pentru mai multe informații, consultați [Fonduri de livrare de ieșire](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft face câteva modificări în configurația de trimitere sau redirecționare a e-mailului prin Microsoft 365. Mesajele din anumite scenarii sunt redirecționate sau retransmise prin Microsoft 365 utilizând un rezervor special de retransmisie. Mesajele trimise prin utilizarea rezervorului de retransmisie pot ajunge în folderul de corespondență nedorită al destinatarului. Pentru mai multe informații, consultați [Fonduri de livrare de ieșire](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Pentru a evita un scenariu utilizând retransmisia, asigurați-vă că mesajele redirecționate/retransmise îndeplinesc unul dintre criteriile următoare:
 
 - Expeditorul de ieșire este un domeniu acceptat al entității găzduite.
 - Sender Policy Framework (SPF) trece atunci când mesajul ajunge la Microsoft 365.
-- DomainKeys Identified Mail (DKIM) pe domeniul de expeditor P2 trece atunci când mesajul ajunge la Microsoft 365.
+- DomainKeys Identified Mail (DKIM) din domeniul de expeditor P2 trece atunci când mesajul ajunge la Microsoft 365.
  
 Mesajele care îndeplinesc criteriile de mai sus nu sunt retransmise prin intermediul rezervorului de retransmisie.
 
-Dacă înregistrarea MX pentru domeniul dvs. este trimisă la un server terț sau local, utilizați filtrarea îmbunătățită pentru a vă asigura că validarea SPF este corectă pentru e-mailul de intrare și pentru a evita trimiterea de mesaje de e-mail prin retransmisie.
+Dacă înregistrarea MX pentru domeniul dvs. este trimisă la un server terț sau local, utilizați filtrarea îmbunătățită pentru a vă asigura că validarea SPF este corectă pentru e-mailurile de intrare și pentru a evita trimiterea de mesaje de e-mail prin retransmisie.
 
 **Cum ne putem da seama dacă suntem afectați de releu?**
 
