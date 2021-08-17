@@ -14,20 +14,20 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050166"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>Codul de eroare 30174-4 atunci când instalați Office
 
-Este posibil să vedeți această eroare dacă software-ul antivirus, Paravanul de protecție, setările proxy sau conexiunea vă împiedică să instalați Office. Iată câteva lucruri pe care le puteți încerca pentru a remedia problema.
+Este posibil să vedeți această eroare dacă setările pentru software antivirus, firewall sau proxy vă împiedică să instalați Office. Iată câteva lucruri pe care le puteți încerca pentru a rezolva problema.
   
-- Utilizarea unei conexiuni prin cablu
+- Utilizați o conexiune cu fir
 
-- Dezactivarea temporară a setărilor proxy
+- Dezactivați temporar setările proxy
 
 - Dezactivați temporar software-ul antivirus
 
