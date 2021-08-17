@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080362"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Crearea unei relații de organizație pentru a le permite utilizatorilor să colaboreze cu altă organizație
 
-1. Din tabloul de bord al centrului de administrare Microsoft 365, accesați **Admin**  >  **Exchange**.
+1. Din tabloul Centru de administrare Microsoft 365 de bord, accesați **Administrator**  >  **Exchange**.
 2. Accesați **partajarea**  >  **organizației.**
 3. Sub Partajare **organizație, faceți** clic **pe Nou** .
 4. În **noua relație de organizație,** în caseta Nume **relație,** tastați un nume prietenos pentru relația organizației.
-5. În caseta **Domenii** de partajat cu, tastați domeniul pentru organizația office 365 sau Exchange externă pe care doriți să o permiteți să vedeți calendarele. Dacă trebuie să introduceți mai multe domenii, separați numele de domeniu prin virgulă. De exemplu, contoso.com, service.contoso.com.
+5. În **caseta Domenii** cu care se partajează, tastați domeniul pentru organizația Office 365 sau Exchange organizației externe cu care doriți să vedeți calendarele. Dacă trebuie să introduceți mai multe domenii, separați numele de domeniu prin virgulă. De exemplu, contoso.com, service.contoso.com.
 6. Bifați caseta **de selectare Activați partajarea informațiilor liber/ocupat** din calendar pentru a activa partajarea calendarelor cu domeniile listate. Setați nivelul de partajare pentru informațiile liber/ocupat din calendar și setați ce utilizatori pot partaja informațiile liber/ocupat din calendar.  
 
 Pentru a seta nivelul de acces liber/ocupat, selectați una dintre următoarele:
@@ -47,5 +47,5 @@ Faceți **clic** pe salvare pentru a crea relația de organizație.
 **Pentru a înțelege complet acest subiect, citiți:**
 
 - [Crearea unei relații de organizație în Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Modificarea unei relații de organizație în Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Eliminarea unei relații de organizație în Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Modificarea unei relații de organizație într-o Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Eliminarea unei relații între organizații în Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

@@ -1,5 +1,5 @@
 ---
-title: Întârzieri în primirea avertizărilor SharePoint și OneDrive
+title: Întârzieri la primirea avertizărilor SharePoint a OneDrive mesaje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107920"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Întârzieri în primirea avertizărilor SharePoint și OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Întârzieri la primirea avertizărilor SharePoint a OneDrive mesaje
 
-- Dacă **toate avertizările** de la mai multe [](https://portal.office.com/adminportal/home?ref=/servicehealth) fișiere sau biblioteci sunt întârziate, vizitați tabloul de bord Starea serviciilor pentru a vedea dacă există avertizări/incidente care pot apărea în SharePoint sau Exchange.
+- Dacă **toate avertizările** de la mai multe [](https://portal.office.com/adminportal/home?ref=/servicehealth) fișiere sau biblioteci sunt întârziate, vizitați tabloul de bord Starea serviciilor pentru a vedea dacă există consultanță/incidente care pot avea loc cu un SharePoint un Exchange.
 - Dacă **o avertizare individuală de la un anumit fișier sau bibliotecă nu este livrată,** încercați să o ștergeți și să o creați din nou. Consultați [Gestionarea, vizualizarea sau ștergerea avertizărilor SharePoint pentru](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) a crea din nou avertizarea.
 - Verificați folderul Nedorit sau Spam din e-mail.
 
 > [!NOTE]
 > - Avertizările nu pot fi trimise la un grup de distribuire. Doar grupurile Securitate și O365 sunt acceptate.
-> - Nu puteți particulariza șabloanele de e-mail de avertizare. Trebuie să utilizați Microsoft Flow sau SharePoint Designer Workflow pentru a le obține.
+> - Nu puteți particulariza șabloanele de e-mail de avertizare. Trebuie să utilizați Flux Microsoft Flow sau SharePoint Proiectant pentru a le obține.

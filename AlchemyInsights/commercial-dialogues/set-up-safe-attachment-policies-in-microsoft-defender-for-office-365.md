@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058554"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888382"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Configurarea politicilor Seif atașări în Microsoft Defender pentru Office 365
 
-1. Accesați Centrul de [Office 365 securitate & conformitate și](https://go.microsoft.com/fwlink/p/?linkid=2077143) selectați Politică de **gestionare** a  >    >  **amenințărilor Seif atașări.**
-2. Pentru a activa această caracteristică pentru alte sarcini de lucru, selectați Activați Microsoft Defender pentru **Office 365 pentru SharePoint Online, OneDrive** și Microsoft Teams .
-3. Pentru a crea o politică nouă, selectați **pictograma** Nou ( **+** ).
-4. Specificați numele, descrierea și setările pentru politică.
-5. Selectați **Salvare**.
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-mail & politicilor de colaborare pentru & regulilor Seif atașărilor <https://security.microsoft.com/>  \>  \>  \>  **din secțiunea** Politici.
+
+   Pentru a merge direct la **pagina Seif Atașări,** utilizați <https://security.microsoft.com/safeattachmentv2> .
+
+2. Pe pagina **Seif Atașări,** urmați oricare dintre pașii următori:
+   - Pentru a adăuga o politică nouă, selectați **+ Creare**. Se va lansa un expert care vă va ajuta să definiți setările de politică.
+   - Pentru a edita o politică existentă, selectați politica, făcând clic pe numele politicii. În meniul volant detalii care apare, selectați **Editare în** secțiunea care conține setările pe care doriți să le configurați.
+   - Pentru a activa sau a dezactiva Seif pentru SharePoint, OneDrive și Microsoft Teams, faceți clic pe Setări **globale,** activați sau dezactivați setarea, apoi faceți clic pe **Salvare.**
+
+3. După ce ați revizuit setările, selectați Remitere **(nou)** sau **Salvare** (editare).
+
+Pentru mai multe informații, consultați articolele de mai jos:
+
+- [Configurarea politicilor Seif atașări în Microsoft Defender pentru Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Activarea Seif pentru SharePoint, OneDrive de Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

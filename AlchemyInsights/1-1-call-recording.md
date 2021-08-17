@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702102"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886151"
 ---
 # <a name="11-call-recording"></a>Înregistrarea apelurilor 1:1
 
@@ -28,7 +28,7 @@ Dacă butonul **Începere înregistrare** este estompat într-un apel 1:1, trebu
 
 *AllowCloudRecordingForCalls*   opțiunea politicii de apelare este setată la **$False** implicit. Dacă preferați să blocați înregistrarea apelurilor 1:1 de către toți utilizatorii, nu trebuie să luați nicio măsură.  
 
-Pentru a activa înregistrarea apelurilor pentru toți utilizatorii în apeluri 1:1, [Teams PowerShell](/microsoftteams/teams-powershell-install) pentru a rula următorul cmdlet: 
+Pentru a activa înregistrarea apelurilor pentru toți utilizatorii în apeluri 1:1, [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) pentru a rula următorul cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
