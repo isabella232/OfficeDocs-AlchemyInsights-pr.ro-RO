@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 5899ba06d0da6141502c09fee1ce0d9c7aad38d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8318327bd9bea5de4e9e90709ce0f6ce9b060d6f88692f6e25921d863931c2e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102655"
 ---
 # <a name="delete-items-in-sharepoint"></a>Ștergerea elementelor din SharePoint
 
@@ -29,8 +29,8 @@ ms.locfileid: "47745979"
   
 [Ștergerea elementelor dintr-o bibliotecă de documente](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[Ștergerea unei coloane dintr-o pagină](https://go.microsoft.com/fwlink/?linkid=869394)
+[Ștergerea unei coloane de pe o pagină](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Ștergerea unei coloane dintr-o listă sau dintr-o bibliotecă](https://go.microsoft.com/fwlink/?linkid=869396)
+[Ștergerea unei coloane într-o listă sau într-o bibliotecă](https://go.microsoft.com/fwlink/?linkid=869396)
   
 
