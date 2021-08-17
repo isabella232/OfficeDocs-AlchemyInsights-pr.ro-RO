@@ -1,5 +1,5 @@
 ---
-title: Criptarea fișierelor sau a folderului în Windows 10
+title: Criptarea fișierelor sau folderelor din Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002954"
 - "5656"
-ms.openlocfilehash: 38d6b480973eb5536880856f92f18802eed9db08
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb902edd43c1b33eff764b37dafc675884927e5eb1d2bf2c65bb2e826a822583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057412"
 ---
-# <a name="encrypt-files-or-folder-in-windows-10"></a>Criptarea fișierelor sau a folderului în Windows 10
+# <a name="encrypt-files-or-folder-in-windows-10"></a>Criptarea fișierelor sau folderelor din Windows 10
 
 Puteți cripta un disc întreg utilizând BitLocker, dar pentru a cripta doar fișiere sau foldere individuale (și conținutul acestora):
 

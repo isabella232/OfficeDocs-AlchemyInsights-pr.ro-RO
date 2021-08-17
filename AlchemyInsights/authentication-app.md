@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082954"
 ---
 # <a name="authentication-app"></a>Aplicația Autentificare
 
@@ -30,11 +30,11 @@ Dacă sunteți administrator global, puteți afla rapid ce [s-a](https://ms.port
 
 **Verificați scenariul care este aplicabil:**
 
-1. Dacă un utilizator nu primi o notificare push în aplicația Microsoft Authenticator, verificați dacă nu este afișat sub utilizatorii blocați MFA, așa cum este descris în Blocarea și [deblocarea utilizatorilor.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Dacă utilizatorul nu este blocat pentru MFA, dar nu primește o notificare push, poate deschide aplicația Microsoft Authenticator, care va extrage solicitările de aprobare în așteptare.
+1. Dacă un utilizator nu primi o notificare push în aplicația Microsoft Authenticator, verificați dacă nu sunt afișate sub utilizatorii blocați MFA, așa cum este descris în Blocarea și [deblocarea utilizatorilor.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Dacă utilizatorul nu este blocat pentru MFA, dar nu primește o notificare push, poate deschide aplicația Microsoft Authenticator, ceea ce va extrage solicitările de aprobare în așteptare.
 1. Ca metodă alternativă de conectare, utilizatorul poate, de asemenea, să faceți clic pe Conectare în alt mod și să aleagă utilizarea unui cod de verificare din aplicația mobilă.
-1. Aplicația Microsoft Authenticator este singura metodă disponibilă pentru mulți utilizatori. [Aflați mai multe despre valorile implicite de](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)securitate , consultați Întrebări frecvente despre aplicația [Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) pentru întrebări frecvente și despre cum să le rezolvați.
+1. Aplicația Microsoft Authenticator este singura metodă disponibilă pentru mai mulți utilizatori. [Aflați mai multe despre valorile implicite](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)de [securitate , Authenticator Întrebări frecvente](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) despre aplicații pentru întrebări frecvente și despre cum să le rezolvați.
  
 **Videoclipuri recomandate**
 
-[Cum să configurați aplicația Authenticator pe un telefon nou (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).
+[Cum să configurați aplicația Authenticator pe un telefon nou (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

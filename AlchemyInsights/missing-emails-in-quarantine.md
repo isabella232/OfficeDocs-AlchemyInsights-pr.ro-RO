@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026234"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892059"
 ---
-# <a name="missing-emails-in-quarantine"></a>Mesaje de e-mail lipsă în carantină"
+# <a name="missing-emails-in-quarantine"></a>Mesaje de e-mail lipsă în carantină
 
-Administratorii pot [vizualiza, lansa sau șterge aceste mesaje.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Administratorii pot [vizualiza, lansa sau șterge aceste mesaje](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Pentru a deschide Centrul de & conformitate, accesați [https://protection.office.com](https://protection.office.com/) . Pentru a deschide direct pagina Carantină, accesați [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+În portalul Microsoft 365 Defender la <https://security.microsoft.com> , mergeți la Treceți în **carantină de** \> **revizuire**. Sau, pentru a merge direct la pagina **Carantină,** utilizați <https://security.microsoft.com/quarantine> .  
 
-Puteți să căutați după următoarele valori:  
-
-- **ID mesaj:** identificatorul unic global al mesajului. Dacă selectați un mesaj din listă, valoarea  **ID mesaj**  apare în panoul  **volant**  Detalii care apare. Administratorii pot utiliza urmărirea [mesajelor pentru](/microsoft-365/security/office-365-security/message-trace-scc) a găsi mesajele și valorile ID-ul de mesaj corespunzătoare.
-- **Adresa de e-mail** a expeditorului: adresa de e-mail a unui singur expeditor.
-- **Adresa de e-mail** a destinatarului: adresa de e-mail a unui singur destinatar.
-- **Subiect:** Utilizați întregul subiect al mesajului. Căutarea nu face sensibil la litere mari și mici.
-
-După ce ați introdus criteriile de căutare, faceți clic ![ pe butonul Reîmprospătare ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **reîmprospătare** pentru a filtra rezultatele.
+Pentru mai multe informații despre valorile de căutare/filtrare pe care le puteți utiliza, consultați Gestionarea mesajelor și fișierelor în carantină [ca administrator în EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
 Cmdleturi pe care le utilizați pentru a vizualiza și gestiona mesajele și fișierele din carantină sunt:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage:](/powershell/module/exchange/preview-quarantinemessage)Rețineți că acest cmdlet este doar pentru mesaje, nu pentru fișierele malware de la Microsoft Defender pentru Office 365 pentru SharePoint Online, OneDrive pentru business sau Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Rețineți că acest cmdlet este doar pentru mesaje, nu pentru fișierele din atașări Seif pentru SharePoint, OneDrive sau Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

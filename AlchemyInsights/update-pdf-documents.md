@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: b0ef6d9e777fdcde3555f4197ce5791f1ad1050badb54b267129d2b1febe0e7c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a6efa496e2489e765acf74e03f0486a2dd7b943fe0d933bd0eda4d50883aa2c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990863"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891843"
 ---
 # <a name="update-pdf-documents"></a>Actualizarea documentelor PDF
 
-Pentru un ghid despre efectuarea de modificări PDF, inclusiv parametri, variabile și excepții pentru a efectua activitatea, consultați [PDF.](/power-automate/desktop-flows/actions-reference/pdf)
+Pentru un ghid despre efectuarea de modificări PDF, inclusiv parametri, variabile și excepții pentru a efectua activitatea, consultați [PDF.](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf)
 
 Pentru detalii, consultați:
 
-- [Extragerea unei imagini](/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
-- [Extragerea textului](/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
-- [Îmbinarea fișierelor PDF](/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
-- [Extragerea paginilor pentru a crea un pdf nou](/power-automate/desktop-flows/actions-reference/pdf#extractpages)
+- [Extragerea unei imagini](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
+- [Extragerea textului](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
+- [Îmbinarea fișierelor PDF](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
+- [Extragerea paginilor pentru a crea un pdf nou](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extractpages)

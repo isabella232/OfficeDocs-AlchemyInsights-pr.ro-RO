@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076664"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892015"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Probleme cu eliminarea unui dispozitiv eliminat din inventarul de dispozitive sau scos din depozit
 
@@ -32,11 +32,11 @@ Dacă tot nu doriți să vedeți anumite dispozitive în vizualizarea Inventar d
 
 Pentru mai multe informații, consultați:
 
-[Offboard devices from the Microsoft Defender for Endpoint service](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Offboard devices from the Microsoft Defender for Endpoint service](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Score de expunere în Gestiunea amenințărilor și vulnerabilităților](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Score de expunere în Gestiunea amenințărilor și vulnerabilităților](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Remedierea senzorilor nesă remediați în Microsoft Defender pentru punctul final](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Remedierea senzorilor nesănătoși în Microsoft Defender pentru punctul final](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Cum să utilizați etichetarea eficient (Partea 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

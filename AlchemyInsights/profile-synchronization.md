@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a841db70c238bdae58edfca634fe49a04ddce78a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923656"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320721"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Când se sincronizează modificările profilului meu cu SharePoint Profil utilizator?
 
@@ -24,9 +24,8 @@ SharePoint Online utilizează activitatea de importare a timpului Active Directo
     
 2. Activitate de timer rulează până când se sincronizează modificările.
     
-> [!NOTE]
-> Timpul necesar pentru rularea funcției depinde de numărul de modificări de procesat. Un număr mare de modificări durează mai mult. Acordul la nivel de serviciu (SLA) spune că o modificare a unui utilizator din directorul SharePoint Online se va reflecta în Aplicația profil utilizator în 24 de ore. 
+**Notă:** Timpul necesar pentru rularea funcției depinde de numărul de modificări de procesat. Un număr mare de modificări durează mai mult. Acordul la nivel de serviciu (SLA) spune că o modificare a unui utilizator din directorul SharePoint Online se va reflecta în Aplicația profil utilizator în 24 de ore. 
   
-[Mai multe informații despre sincronizarea profilului de utilizator SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Mai multe informații despre sincronizarea profilului de utilizator în SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

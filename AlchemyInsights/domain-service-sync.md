@@ -1,5 +1,5 @@
 ---
-title: Sincronizare serviciu domeniu
+title: Sincronizarea serviciului de domeniu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057870"
 ---
-# <a name="domain-service-synchronization"></a>Sincronizare serviciu domeniu
+# <a name="domain-service-synchronization"></a>Sincronizarea serviciului de domeniu
 
-Obiectele și acreditările dintr-un domeniu gestionat Azure Active Directory Services (Azure AD DS) gestionate pot fi create local în domeniu sau sincronizate de la o entitate găzduită Azure Active Directory (Azure AD). Atunci când implementați pentru prima dată Azure AD DS, se configurează și se inițiază o sincronizare automată cu un singur sens pentru a reproduce obiectele din Azure AD. Această sincronizare One-Way continuă să ruleze în fundal, pentru a menține actualizat domeniul Azure AD DS gestionat cu orice modificări din Azure AD. Nicio sincronizare nu are loc din Azure AD DS înapoi la Azure AD.
+Obiectele și acreditările dintr-un domeniu Azure Active Directory Domain Services (Azure AD DS) gestionat pot fi create local în cadrul domeniului sau sincronizate de la o entitate găzduită Azure Active Directory (Azure AD). Atunci când implementați pentru prima dată Azure AD DS, este configurată și inițiată o sincronizare uni-sens automată pentru a reproduce obiectele din Azure AD. Această sincronizare unidile continuă să ruleze în fundal pentru a menține la zi domeniul gestionat Azure AD DS cu toate modificările de la Azure AD. Nu are loc nicio sincronizare din Azure AD DS înapoi la Azure AD.
 
-Pentru mai multe detalii despre sincronizarea serviciului de domeniu Azure Active Directory, consultați [sincronizarea serviciului de domeniu](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Pentru mai multe detalii despre sincronizarea Azure Active Directory domeniului, consultați [Sincronizarea serviciului de domeniu.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 
