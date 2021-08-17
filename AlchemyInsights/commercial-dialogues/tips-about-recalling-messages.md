@@ -1,5 +1,5 @@
 ---
-title: Sfaturi despre rechemarea mesajelor
+title: Sfaturi despre retragerea mesajelor
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081478"
 ---
-# <a name="tips-about-recalling-messages"></a>Sfaturi despre rechemarea mesajelor
+# <a name="tips-about-recalling-messages"></a>Sfaturi despre retragerea mesajelor
 
-Iată când puteți și nu vă amintiți mesajele:
+Iată când puteți și când nu puteți să vă amintiți mesajele:
 
-* Ca administrator, puteți să retrageți mesaje în numele utilizatorilor, utilizând PowerShell. Nu puteți retrage mesaje din centrul de administrare.
-* Puteți să rememorați doar mesajele care sunt trimise persoanelor din organizația dvs. În cazul în care mesajul a fost trimis la o adresă Gmail, de exemplu, nu vă puteți retrage memoria.
-* **Puteți să rememorați doar mesajele trimise din Outlook 2016 pentru PC**. Dacă un utilizator trimite un mesaj utilizând Outlook pentru Mac sau Outlook pe web, nu vă puteți retrage memoria.
+* Ca administrator, puteți retragerea mesajelor în numele utilizatorilor utilizând PowerShell. Nu puteți retragerea mesajelor din centrul de administrare.
+* Puteți retragerea doar a mesajelor care sunt trimise persoanelor din organizația dvs. Dacă mesajul a fost trimis la o adresă Gmail, de exemplu, nu-l puteți aminti.
+* **Puteți retragerea doar a mesajelor trimise Outlook 2016 pentru PC.** Dacă un utilizator trimite un mesaj utilizând Outlook pentru Mac sau Outlook pe web, nu îl puteți reaminti.

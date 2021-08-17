@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976877"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891307"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificarea activității regulilor de inbox în jurnalele de auditare
 
-Puteți utiliza căutarea în jurnalul de auditare din Centrul Microsoft 365 de securitate & pentru a vizualiza evenimentele regulilor de inbox (crearea, modificarea și ștergerea regulilor de inbox).
+Puteți utiliza căutarea în jurnalul de auditare din Centru de conformitate Microsoft 365 pentru a vizualiza evenimentele regulilor de inbox (crearea, modificarea și ștergerea regulilor de inbox).
 
-1. Conectați-vă la [Centrul Microsoft 365 conformitate](https://protection.office.com/).
+1. Urmați unul dintre pașii următori:
+   - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați Audit  \> **soluții**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://compliance.microsoft.com/auditlogsearch> .
+   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Audit**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://security.microsoft.com/auditlogsearch> .
 
-2. Accesați pagina Căutare **în jurnalul**  >  **de auditare.**
+2. Pe fila **Căutare** din pagina **Audit,** configurați următoarele setări:
+   - **Interval de timp și dată:** selectați intervalul de timp în **casetele Început** **și** Sfârșit.
+   - **Activități:** Selectați una sau mai multe dintre următoarele valori:
+     - **New-InboxRule Create inbox rule from Outlook Web App**
+     - **Set-InboxRule Modificarea regulii din Outlook Web App**.
+     - **Actualizarea regulilor pentru inbox Outlook client**
 
-3. Selectați intervalul de date în **câmpurile Dată** de început **și Dată de** sfârșit.
+3. Când terminați, faceți clic pe **Căutare**. Activitățile apar pe noua pagină **Căutare audit.**
 
-4. Sub **Exchange de cutie poștală**, verificați dacă câmpul Activități este setat la **New-InboxRule Create/modify/enable/disable inbox rule**. 
+4. Selectați o activitate din rezultate pentru a deschide fereastra volant detalii. În câmpul Parametri se afișează informații despre setările **regulii** de inbox.
 
-5. Faceți **clic pe Căutare.**
-
-În rezultate, selectați o înregistrare de auditare. În fișa detalii, faceți clic **pe Mai multe informații**. În câmpul Parametri se afișează informații despre setările **regulii** de inbox.
-
-Pentru mai multe informații, consultați [Determinarea dacă un utilizator a creat o regulă de inbox](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Pentru mai multe informații, [consultați Determinarea dacă un utilizator a creat o regulă de inbox.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)
