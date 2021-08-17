@@ -1,5 +1,5 @@
 ---
-title: Crearea unui site SharePoint
+title: Crearea unui site SharePoint site
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080902"
 ---
-# <a name="create-a-sharepoint-site"></a>Crearea unui site SharePoint
+# <a name="create-a-sharepoint-site"></a>Crearea unui site SharePoint site
 
-Creați sau gestionați site-uri de la [site-uri active](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) în centrul de administrare SharePoint. Pentru mai multe informații, consultați [gestionarea site-urilor din noul centru de administrare SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Creați sau gestionați [site-uri din Site-uri](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) active SharePoint Centrul de administrare. Pentru mai multe informații, consultați [Gestionarea site-urilor din noul centru SharePoint de administrare](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
-## <a name="tips"></a>Sfaturi
+## <a name="tips"></a>Sfaturi:
 
-- **Nu** puteți crea un site cu aceeași adresă URL a unui site existent. Dacă ați șters un site și doriți să reutilizați URL-ul, este posibil ca site-ul șters să existe încă sub [site-uri șterse](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Site-ul va trebui să fie șters definitiv pentru a reutiliza adresa URL. Pentru a elimina complet un site cu PowerShell, consultați exemplul cmdletului [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Este posibil ca unii utilizatori să nu poată crea un site. [Consultați Gestionarea creării site-urilor în SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Este posibil ca site-ul să apară blocat la **crearea** mai lungă decât cea așteptată. Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să înregistrați un tichet de asistență. În multe cazuri, lucrăm deja la o soluție. Vă rugăm să ne dați cel puțin 24 de ore pentru a finaliza o soluție.
+- Nu **puteți** crea un site cu același URL al unui site existent. Dacă ați șters un site și sunteți de acord să utilizați din nou URL-ul, este posibil ca site-ul șters să existe încă sub [Site-uri șterse.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Site-ul va trebui șters definitiv pentru a utiliza din nou URL-ul. Pentru a elimina complet un site cu Powershell, consultați exemplul cu cmdletul [Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Este posibil ca unii utilizatori să nu poată crea un site. [Consultați Gestionarea creării site-uri în SharePoint Online.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Este posibil ca site-ul să se blocheze la Crearea **mai mult** decât vă așteptați. Dacă au trecut mai mult de 24 de ore de când ați văzut prima dată această problemă, vă rugăm să introduceți în jurnal un tichet de asistență. În multe cazuri, lucrăm deja la o soluție. Acordați-ne cel puțin 24 de ore pentru a finaliza o soluție.
