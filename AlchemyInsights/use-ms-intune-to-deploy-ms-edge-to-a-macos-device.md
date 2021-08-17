@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104392"
 ---
 # <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Utilizați Microsoft Intune pentru a implementa Microsoft Edge pe un dispozitiv macOS
 
-Pentru a implementa, a configura, a monitoriza și a proteja o aplicație pe un dispozitiv macOS, trebuie să adăugați aplicația la Microsoft Intune. Aplicația trebuie să aibă un tip acceptat de Intune, iar opțiunile de gestionare disponibile în Intune vor depinde de tipul aplicației. Utilizarea Intune înseamnă, de asemenea, că nu va trebui să utilizați instrumentul de încadrare a aplicațiilor macOS.
+Pentru a implementa, a configura, a monitoriza și a proteja o aplicație pe un dispozitiv macOS, trebuie să adăugați aplicația la Microsoft Intune. Aplicația trebuie să fie de un tip acceptat de Intune, iar opțiunile de gestionare disponibile în Intune vor depinde de tipul aplicației. Utilizarea Intune înseamnă, de asemenea, că nu va trebui să utilizați instrumentul de încadrare a aplicațiilor macOS.
 
-Intune acceptă Microsoft Edge. Pentru a afla mai multe, consultați [adăugarea Microsoft Edge la dispozitivele MacOS utilizând Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
+Intune acceptă Microsoft Edge. Pentru a afla mai multe, [consultați Adăugarea de Microsoft Edge la dispozitive macOS utilizând Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
