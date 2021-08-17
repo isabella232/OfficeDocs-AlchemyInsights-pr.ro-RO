@@ -1,5 +1,5 @@
 ---
-title: 182 vă rugăm să rulați SaRA pentru a diagnostica și a rezolva problemele de autentificare Outlook
+title: 182 Rulați mai SaRA pentru a diagnostica și a Outlook probleme de autentificare
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040723"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Folosiți SaRA pentru a diagnostica și rezolva problemele de autentificare în Outlook
 
-**Notă**: vă rugăm să verificați dacă este activată [Setarea implicită pentru securitate](https://aka.ms/securitydefaults) pentru organizația dvs. Dacă entitatea găzduită a fost creată după 21 octombrie, 2019 și Outlook vă solicită în mod repetat o parolă, este posibil să aveți activate **setările implicite de securitate** în entitatea găzduită.
+**Notă:** Verificați pentru a [vedea dacă sunt activate valorile](https://aka.ms/securitydefaults) implicite de securitate pentru organizația dvs. Dacă entitatea dvs. găzduită a fost creată după 21 octombrie 2019 și  contul dvs. Outlook vă solicită în mod repetat o parolă, este posibil să aveți activate setările implicite de securitate în entitatea dvs. găzduită.
 
-Vă recomandăm foarte mult să utilizați [Outlook păstrează solicitarea de diagnosticare a parolei mele](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) pe mașina afectată pentru a depana problemele în care Outlook solicită în mod continuu o parolă. Acest diagnostic [SaRA](https://diagnostics.office.com/#/) face verificări automate și returnează soluții posibile pe care le puteți utiliza pentru a rezolva problemele detectate.
+Se recomandă insistent să utilizați [Outlook](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) continuă să vă solicite diagnosticarea parolei pe computerul afectat pentru a depana problemele în care Outlook continuu să solicitați o parolă. Acest [SaRA](https://diagnostics.office.com/#/) diagnostic efectuează verificări automate și returnează soluții posibile pe care să le utilizați pentru a rezolva orice probleme detectate.

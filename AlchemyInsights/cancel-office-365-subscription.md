@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: eb6bec37afc8702ec76dec5868c68f26e7c8b2633214a5c3f9776d7bb555bf64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071488"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303841"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vă anulați Microsoft 365 abonament?
 
@@ -30,7 +30,6 @@ Ne pare rău că plecați, dar dacă doriți să anulați abonamentul, iată car
 
 **Rambursare: Orice credit rambursat vă va fi returnat în următorul ciclu de facturare.**
 
-> [!NOTE]
-> Dacă nu vedeți opțiunea de a anula, selectați abonamentul pentru a vizualiza pagina de detalii. În **secțiunea Setări abonament și plată,** selectați **Anulați abonamentul.**
+**Notă:** dacă nu vedeți opțiunea de anulare, selectați abonamentul pentru a vizualiza pagina de detalii. În **secțiunea Setări abonament și plată,** selectați **Anulați abonamentul.**
 
-Pentru a afla mai multe, [consultați Anularea abonamentului.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Pentru a afla mai multe, [consultați Anularea abonamentului.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
