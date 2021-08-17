@@ -1,5 +1,5 @@
 ---
-title: Depanarea problemelor cu sign-on unic (SSO) bazat pe OIDC
+title: Depanarea problemelor de sign-on unic fără sincope (SSO) bazate pe OIDC
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9375"
-ms.openlocfilehash: e4ddde6176d9ab021b93e23b3cb363e10b1c1048
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 5880ee37a2fcc98b34231cc9960fb3f87fa184b07bd81ccd37d0ea5a78170af0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105790"
 ---
-# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Depanarea problemelor cu sign-on unic (SSO) bazat pe OIDC
+# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Depanarea problemelor de sign-on unic fără sincope (SSO) bazate pe OIDC
 
-- Pentru a afla cum să adăugați o aplicație bazată pe OIDC la entitatea găzduită Azure, consultați [pornire rapidă: Configurați sign-on unic (SSO) bazat pe OIDC pentru o aplicație din entitatea găzduită Azure Active Directory (AZURE AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso).
-- Pentru mai multe detalii despre aplicațiile care utilizează standardul OpenID Connect pentru a implementa sign-on unic, consultați [înțelegerea conectării unice bazate pe OIDC](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on).
-- Pentru informații în cazul în care alegeți să scrieți codul prin trimiterea și manipularea directă a solicitărilor HTTP sau pentru a utiliza o bibliotecă de surse deschise de la terți, în loc să utilizați una dintre bibliotecile noastre Open-Source, consultați [OAuth 2,0 și OpenID Connect protocoale pe platforma de identitate Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols).
+- Pentru a afla cum să adăugați o aplicație bazată pe OIDC la entitatea dvs. găzduită Azure, consultați Pornire rapidă: Configurați [sign-on unic (SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso)bazat pe OIDC pentru o aplicație din entitatea dvs. găzduită Azure Active Directory (Azure AD).
+- Pentru mai multe detalii despre aplicațiile care utilizează openID Conectare standard pentru a implementa sign-on unic, consultați Înțelegeți sign-onul unic bazat pe [OIDC.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on)
+- Pentru informații în cazul în care alegeți să scrieți codul prin trimiterea și gestionarea directă a solicitărilor HTTP sau utilizând o bibliotecă open-source terță, în loc să utilizați una dintre bibliotecile noastre open-source, consultați Protocoalele noastre de Conectare [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols)și OpenID din Serviciu de identitate Microsoft .
 
-**Protocoalele**
+**Protocoale**
 
-1. [Platforma de identitate Microsoft și fluxul de granturi implicit](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) -caracteristica definitorie a grantului implicit este faptul că tokenurile (token-ul ID sau tokenurile de acces) sunt returnate direct din punctul final/Authorize în locul punctului final/token. Acest lucru este utilizat deseori ca parte a fluxului de cod de autorizare, în ceea ce se numește **"flux hibrid"-recuperarea tokenului ID la solicitarea/Authorize, împreună cu un cod de autorizare**. Acest articol descrie cum să programați direct împotriva protocolului din aplicație pentru a solicita tokenuri de la Azure AD.
-2. [Microsoft Identity Platform și OAuth 2,0 codul de autorizare](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) -codul de autorizare OAuth 2,0 poate fi utilizat în aplicațiile care sunt instalate pe un dispozitiv pentru a avea acces la resurse protejate, cum ar fi API-uri web. Utilizând implementarea platformei Microsoft Identity din OAuth 2,0, puteți **adăuga conectarea și accesul API la aplicațiile mobile și desktop**. Acest articol descrie cum să programați direct împotriva protocolului din aplicație utilizând orice limbă.
-3. [Platforma de identitate Microsoft și protocolul OpenID Connect](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) -atunci când utilizați implementarea platformei de identitate Microsoft a OpenID Connect, puteți să adăugați conectarea și accesul API la aplicații. Acest articol vă arată cum să faceți acest lucru independent de limbă și descrie cum să **trimiteți și să primiți mesaje http fără a utiliza nicio bibliotecă Microsoft Open-Source**.
-4. [Platforma de identitate Microsoft și fluxul de acreditări client 2,0 OAuth](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) -puteți utiliza grantul de acreditări client OAuth 2,0 specificat în RFC 6749, denumit uneori **OAuth cu două picioare**, pentru a accesa resursele găzduite de web, utilizând identitatea unei aplicații. Acest tip de Grant este utilizat frecvent pentru interacțiunile server-la-server care trebuie să ruleze în fundal, fără interacțiune imediată cu un utilizator. Aceste tipuri de aplicații sunt denumite adesea **daemoni** sau **conturi de serviciu**. Acest articol descrie cum să programați direct împotriva protocolului în aplicația dvs.
+1. [Serviciu de identitate Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) implicită de acordare - caracteristica definită a grantului implicit este faptul că simbolurile (tokenurile ID sau tokenurile de acces) sunt returnate direct din punctul final /authorize în locul punctului final /token. Acest lucru este utilizat adesea ca parte a fluxului de cod de autorizare, în ceea ce se numește **"flux hibrid" - preluarea simbolului ID** în solicitarea /authorize împreună cu un cod de autorizare. Acest articol descrie cum să programați direct cu protocolul din aplicația dvs. pentru a solicita simboluri de la Azure AD.
+2. Serviciu de identitate Microsoft și fluxul de cod de autorizare [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) - Grantul de cod de autorizare OAuth 2.0 poate fi utilizat în aplicațiile instalate pe un dispozitiv pentru a obține acces la resurse protejate, cum ar fi API-uri web. Utilizând implementarea Serviciu de identitate Microsoft OAuth 2.0, puteți adăuga conectare și acces API la **aplicațiile mobile și desktop.** Acest articol vă arată cum să faceți un program direct față de protocolul din aplicație utilizând orice limbă.
+3. Serviciu de identitate Microsoft protocol [Conectare OpenID](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) și OpenID : atunci când utilizați implementarea openid Conectare în Serviciu de identitate Microsoft, puteți să adăugați conectare și acces API la aplicațiile dvs. Acest articol vă arată cum să faceți acest lucru independent de limbă și descrie cum să trimiteți și să primiți mesaje HTTP fără a utiliza biblioteci **Microsoft open-source.**
+4. Serviciu de identitate Microsoft și fluxul de acreditări [client OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) - Puteți utiliza acreditările de client OAuth 2.0 specificate în RFC 6749, numite uneori **OAuth** cu două picioare, pentru a accesa resursele găzduite pe web utilizând identitatea unei aplicații. Acest tip de grant este utilizat de obicei pentru interacțiunile server-la-server care trebuie să ruleze în fundal, fără interacțiune imediată cu un utilizator. Aceste tipuri de aplicații sunt denumite adesea **daemoni sau** **conturi de serviciu.** Acest articol vă arată cum să programați direct față de protocolul din aplicația dvs.

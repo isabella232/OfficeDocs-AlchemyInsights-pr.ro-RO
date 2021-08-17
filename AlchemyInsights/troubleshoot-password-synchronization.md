@@ -1,5 +1,5 @@
 ---
-title: Depanarea sincronizării parolei
+title: Depanarea sincronizării parolelor
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105770"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Depanarea sincronizării parolei
+# <a name="troubleshoot-password-synchronization"></a>Depanarea sincronizării parolelor
 
-Pentru a depana problemele de sincronizare a parolei, începeți prin a utiliza această activitate de depanare AAD Connect pentru a determina de ce parolele nu se sincronizează. Pentru a începe, accesați [gestionare sincronizare directă](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Pentru a depana problemele de sincronizare a parolelor, începeți prin a utiliza această activitate Conectare de depanare AAD pentru a afla de ce nu se sincronizează parolele. Pentru a începe, accesați Gestionarea [sincronizării directe](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Deschideți o nouă sesiune Windows PowerShell pe serverul Azure AD Connect și selectați opțiunea **Executare ca administrator** .
+1. Deschideți o nouă Windows PowerShell pe Azure AD Conectare server și selectați **opțiunea Executare ca** administrator.
 
-2. Rulează set-ExecutionPolicy RemoteSigned sau set-ExecutionPolicy nerestricționate.
+2. Rulați Set-ExecutionPolicy RemoteSigned sau Set-ExecutionPolicy Nerestricționat.
 
-3. Porniți Expertul Azure AD Connect.
+3. Porniți Expertul de Conectare Azure AD.
 
-4. Accesați pagina activități suplimentare > depanare în **Troubleshoot**  >  **continuare**.
+4. Accesați pagina Activități suplimentare din Pagina > **Următorul**  >  **Depanare.**
 
-5. Selectați **lansare** pentru a deschide meniul depanare PowerShell.
+5. **Selectați** Lansare pentru a deschide meniul de depanare PowerShell.
 
-6. Selectați **depanați sincronizarea parolelor**.
+6. Selectați **Depanarea sincronizării parolelor.**
 
-    Problema este, de obicei, că o parolă nu este sincronizată pentru un anumit cont de utilizator.
+    Problema este de obicei faptul că nu este sincronizată o parolă pentru un anumit cont de utilizator.
 
-    **Note** Sincronizarea parolelor nu reușește dacă Ultima sincronizare cu parolă reușită a fost acum ceva timp.
+    **Note** Sincronizarea parolelor nu reușește dacă ultima sincronizare cu succes a parolelor a fost cu ceva timp în urmă.
 
-Pentru mai mult ajutor la depanarea sincronizării parolei, consultați [Depanarea sincronizării hash a parolei cu sincronizarea AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Pentru mai mult ajutor la depanarea sincronizării parolelor, consultați [Depanarea sincronizării parolelor hash cu Azure AD Conectare sincronizare.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)

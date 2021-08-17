@@ -1,5 +1,5 @@
 ---
-title: Apelați un număr de telefon în teams
+title: Apelați un număr de telefon din Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365098"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046044"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Apelați un număr de telefon în teams
+# <a name="call-a-phone-number-in-teams"></a>Apelați un număr de telefon din Teams
 
-Accesați  **apeluri**, selectați  **Apelare număr**și utilizați tastatura telefonică pentru a introduce numărul. Apoi faceți clic pe  **apel**.
+Accesați  **Apeluri**, selectați  **Formați un număr** și utilizați tastatură telefonică pentru a introduce numărul. Apoi faceți clic **pe Apel.**
 
-Dacă nu vedeți opțiunea de a apela un număr, este posibil ca organizația să nu fi achiziționat un plan de apelare. Dar încă puteți efectua apeluri către alte persoane din teams.  
+Dacă nu vedeți opțiunea de a forma un număr, este posibil ca organizație să nu fi cumpărat un plan de apelare. Dar puteți totuși să efectuați apeluri către alte persoane din Teams.  
 
-Pentru mai multe informații, consultați [Apelarea unui număr de telefon de la teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
+Pentru mai multe informații, consultați [Apelați un număr de telefon din Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
