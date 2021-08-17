@@ -16,25 +16,25 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892139"
 ---
 # <a name="invoice-and-payment-information"></a>Informații despre factură și plată
 
 **Plată**
 
-Atunci când cumpărați un Microsoft 365 abonament pentru firme direct de la Microsoft, puteți plăti cu un card de credit sau cu unul de debit.  În anumite țări/regiuni, puteți plăti și cu un cont bancar.  Puteți afla cum să gestionați și să depanați aceste metode de plată de [la Gestionați metodele de plată.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Aceasta include rezolvarea problemelor atunci când este refuzat cardul de credit și actualizarea informațiilor de plată.
+Atunci când cumpărați un Microsoft 365 pentru firme direct de la Microsoft, puteți plăti cu un card de credit sau cu unul de debit.  În anumite țări/regiuni, puteți plăti și cu un cont bancar.  Puteți afla cum să gestionați și să depanați aceste metode de plată de [la Gestionați metodele de plată.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Aceasta include rezolvarea problemelor atunci când este refuzat cardul de credit și actualizarea informațiilor de plată.
 
 **Factură/Factură**
 
-Puteți să găsiți și să descărcați facturile pe pagina **Facturi**  >  [& de](https://go.microsoft.com/fwlink/p/?linkid=848039) plată.  
+Puteți să găsiți și să descărcați facturile pe pagina **Facturi**  >  [& plată.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **Notă:** Dacă nu sunt vizibile facturi, poate fi necesar să ajustați filtrul pentru intervalul de date.  Se afișează implicit ultimele 3 luni ale facturilor.
 
 Facturile sunt create lunar sau anual, în funcție de frecvența de facturare aleasă în timpul achiziției.  Dacă plătiți anual, este posibil să obțineți o factură în mijlocul termenului atunci când adăugați sau eliminați licențe pentru un abonament.
 
-- Pentru mai multe informații, [consultați Înțelegeți factura Microsoft 365 pentru firme.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Pentru mai multe informații, [consultați Înțelegeți factura Microsoft 365 pentru firme.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
