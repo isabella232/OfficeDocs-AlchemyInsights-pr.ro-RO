@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316652"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportul elementelor într-un fișier arhivă Outlook pentru Mac
 
@@ -24,14 +24,13 @@ Pentru a reduce dimensiunea inboxului, arhivați manual mesajele de e-mail, pers
 
 1. Pe fila **Instrumente,** faceți clic **pe Export.**
 
-> [!NOTE]
-> Nu vedeți butonul **Export?** Asigurați-vă că aveți cea mai recentă versiune Outlook. În meniul Outlook **Ajutor,** faceți clic **pe Verificare actualizări.** Dacă toate Outlook actualizările automate se aplică și tot nu vedeți butonul **Export,** căutați **Export** în meniul Outlook **Fișier.**
+    **Notă:** Nu vedeți butonul **Export?** Asigurați-vă că aveți cea mai recentă versiune Outlook. În meniul Outlook **Ajutor,** faceți clic **pe Verificare actualizări.** Dacă toate Outlook actualizările automate se aplică și tot nu vedeți butonul **Export,** căutați **Export** în meniul Outlook **Fișier.**
 
 2. În caseta **Export în fișier arhivă (.olm), bifați** elementele pe care doriți să le exportați și faceți clic pe **Continuare.**
 
 3. În caseta **Salvare ca,** sub **Preferințe**, alegeți folderul **Descărcări** și faceți clic pe **Salvare**.
 
-4. După exportul datelor și obțineți o notificare, faceți clic pe **Terminare.**
+4. După exportul datelor și obțineți o notificare, faceți clic pe **Terminare**.
 
 Pentru informații despre cum să accesați datele pe care le-ați salvat într-un fișier de date Outlook pentru Mac (.olm), consultați Importul mesajelor de e-mail, al persoanelor de contact și al altor elemente într-un Outlook 2016 pentru [Mac.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 

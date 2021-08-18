@@ -14,12 +14,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897480"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315886"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blocarea sau deblocarea redirecționării automate a e-mailurilor
 
@@ -29,4 +29,4 @@ Administratorii pot controla redirecționarea externă pentru organizație, util
 
 Dacă primiți următoarea eroare: **"550 5.7.520 Acces refuzat,** Organizația dvs. nu permite redirecționarea externă", asigurați-vă că politica este configurată pentru a activa mesajele externe redirecționate automat.
 
-**Notă:** Am recomandat valoarea implicită Automat  **-** Sistem controlat pentru setarea Reguli de redirecționare automată din politica implicită de filtrare antispam de ieșire (redirecționarea externă automată este blocată; redirecționarea automată internă funcționează în continuare). Ar trebui să creați politici personalizate de filtrare antispam de ieșire și să utilizați valoarea Activat **-** Redirecționarea este activată doar pentru utilizatorii care au nevoie de redirecționarea automată a e-mailurilor externe. Pentru mai multe informații, consultați Configurarea [redirecționării e-mailului extern în Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Notă:** Am recomandat valoarea implicită Automat  **-** Sistem controlat pentru setarea Reguli de redirecționare automată din politica implicită de filtrare antispam de ieșire (redirecționarea externă automată este blocată; redirecționarea automată internă funcționează în continuare). Ar trebui să creați politici personalizate de filtrare antispam de ieșire și să utilizați valoarea Activat **-** Redirecționarea este activată doar pentru utilizatorii care au nevoie de redirecționarea automată a e-mailurilor externe. Pentru mai multe informații, consultați [Configurarea redirecționării e-mailului extern în Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

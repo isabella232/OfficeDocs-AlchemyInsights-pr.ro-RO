@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087976"
 ---
 # <a name="issues-with-subscriptions-licenses-and-accounts"></a>Probleme cu abonamentele, licențele și conturile
 
-1. Toți utilizatorii dintr-o entitate găzduită Azure AD gratuit pot utiliza Azure multi-factor Authentication utilizând [valori implicite de securitate](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
-1. Înțelegerea [caracteristicilor și licențelor pentru AZURE AD multi-factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Aflați cum să [asociați sau să adăugați un abonament Azure la entitatea găzduită Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Urmați acești pași pentru a [transfera un abonament Azure la un alt director AZURE AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription).
-1. Consultați [atribuirea sau eliminarea licențelor în portalul Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) pentru instrucțiuni despre cum să atribuiți sau să eliminați licențe pentru utilizatori.
+1. Toți utilizatorii unei entități găzduite Azure AD Free pot utiliza Azure Multi-Factor Authentication utilizând [valorile implicite de securitate.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Înțelegeți [caracteristicile și licențele pentru Azure AD Multi-Factor Authentication.](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. Aflați cum să [asociați sau să adăugați un abonament Azure la entitatea Azure Active Directory găzduită](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
+1. Urmați acești pași [pentru a transfera un abonament Azure într-un alt director Azure AD.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Consultați [Atribuirea sau eliminarea licențelor în Azure Active Directory portal](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) pentru instrucțiuni despre atribuirea sau eliminarea licențelor utilizatorilor.
