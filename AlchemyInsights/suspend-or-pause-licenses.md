@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900121"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321693"
 ---
 # <a name="suspend-or-pause-licenses"></a>Suspendarea sau punerea în pauză a licențelor
 
 **URMĂRIți un videoclip** care vă arată cum să faceți acest lucru: [Eliminarea licențelor existente](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Pentru a suspenda sau a pune temporar în pauză utilizarea licențelor, puteți să eliminați licențe din Centru de administrare Microsoft 365, apoi să le adăugați din nou mai târziu.
+Pentru a suspenda sau a întrerupe temporar utilizarea licențelor, puteți să eliminați licențe din Centru de administrare Microsoft 365, apoi să le adăugați din nou mai târziu.
 
 1. Înainte de a elimina licențe din abonament, trebuie mai întâi [să anulați reatribuirile de la utilizatori.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. În continuare, accesați pagina **Facturare**  >  [produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)

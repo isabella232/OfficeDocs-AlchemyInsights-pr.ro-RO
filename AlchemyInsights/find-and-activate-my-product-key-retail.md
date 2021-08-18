@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068896"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321001"
 ---
 # <a name="retail-prepaid-card"></a>Cartelă preplătită cu amănuntul
 
 Dacă ați achiziționat produse Microsoft 365 Business Standard-un magazin de vânzare cu amănuntul, urmați acești pași pentru a prelungi data de expirare sau pentru a adăuga o licență la un abonament existent.
 
-> [!NOTE]
-> Pentru a utiliza o cheie de produs pentru a prelungi data de expirare sau a adăuga o licență la abonamentul Microsoft 365 Business Standard existent, aveți nevoie de o cheie nouă și neutilizată pentru același abonament Microsoft 365 abonament. Introducerea cheii Microsoft 365 produs nu va funcționa, deoarece o cheie care a fost deja valorificată nu se poate utiliza din nou.
+**Notă:** Pentru a utiliza o cheie de produs pentru a prelungi data de expirare sau a adăuga o licență la abonamentul Microsoft 365 Business Standard existent, aveți nevoie de o cheie nouă și neutilizată pentru același abonament Microsoft 365 abonament. Introducerea cheii Microsoft 365 produs nu va funcționa, deoarece o cheie care a fost deja valorificată nu se poate utiliza din nou.
 
 1. În centrul de administrare, accesați pagina **Facturare**  >  **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Găsiți abonamentul la care doriți să extindeți sau la care doriți să adăugați o licență. Selectați [prelungiți data](https://go.microsoft.com/fwlink/p/?linkid=842054) de încheiere [sau adăugați mai multe licențe](https://go.microsoft.com/fwlink/p/?linkid=842054).

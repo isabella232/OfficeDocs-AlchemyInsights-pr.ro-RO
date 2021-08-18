@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320501"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Remedierea regulilor pentru Adresa expeditorului/Lista de domenii
 
 Una dintre politicile dvs. antispam a afectat acest mesaj. Expeditorul mesajului a fost găsit într-o listă de Permitere sau Blocare. Pentru a examina politicile, urmați acești pași:
 
-1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-mail & politicilor de colaborare & Reguli <https://security.microsoft.com/>  \>  \>  \> **antispam** în **secțiunea** Politici.
+1. În portalul de Microsoft 365 Defender de la , accesați Trimiterea prin e-& a politicilor de colaborare & Reguli <https://security.microsoft.com/>  \>  \>  \> **antispam** în **secțiunea** Politici.
 
    Pentru a merge direct la **pagina Politici antispam,** utilizați <https://security.microsoft.com/antispam> .
 

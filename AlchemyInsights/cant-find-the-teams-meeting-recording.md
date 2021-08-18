@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5dcc66617eff38aa340019ac01fc8ccde933324a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890718"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321485"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>Nu pot găsi înregistrarea Teams întâlnirii
 
-Dacă nu puteți găsi sau găsi o înregistrare a întâlnirii Teams, rulați mai întâi rulați Diagnostic înregistrare întâlnire lipsă tastând **Diag:** Înregistrarea lipsește din caseta de mai sus. 
+Dacă nu puteți găsi sau găsi o înregistrare Teams întâlnire, rulați mai întâi rulați Diagnostic înregistrare întâlnire lipsă tastând **Diag:** Înregistrarea lipsește din caseta de mai sus. 
 
 Înregistrările sunt găsite în Stream, OneDrive sau SharePoint în funcție de modul în care este configurată entitatea găzduită și de modul în care este configurată înregistrarea pentru o întâlnire de canal. Pentru instrucțiuni despre cum să găsiți manual înregistrarea întâlnirii, consultați: 
 
