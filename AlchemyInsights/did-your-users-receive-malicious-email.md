@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893415"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326717"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Au primit utilizatorii dvs. mesaje de e-mail rău intenționate?
 
@@ -40,7 +40,7 @@ Dacă nu sunteți de acord cu verdictul final pentru un mesaj, un URL sau un fi�
 
 - Clienții cu Microsoft Defender pentru Office 365 pot:
   - Utilizarea Threat [Explorer pentru a găsi și a șterge mesajele de e-mail suspecte](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-  - [Utilizați Seif rapide pentru a bloca accesul la un](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) URL rău intenționat
+  - [Utilizarea linkurilor Seif pentru a bloca accesul la un](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) URL rău intenționat
   - Urmărirea utilizatorilor care au făcut clic și care au accesat URL-uri rău intenționate: Vizualizați [URL-ul de înșelătorie](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)și faceți clic  &  [pe date get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
   - Pornirea [manuală a unei investigații automate](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 

@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501000"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327263"
 ---
 # <a name="trying-to-find-a-trial"></a>Încercarea de a găsi o versiune de încercare?
 
@@ -31,8 +31,7 @@ Dacă preferați să încercați un serviciu nou, puteți găsi o listă cu abon
 
 2. Selectați abonamentul care vă îndeplinește cerințele, apoi selectați Obțineți  **o versiune de încercare gratuită**.
 
-    > [!NOTE]
-    > Nu toate abonamentele sunt disponibile ca versiune de încercare. Dacă nu vedeți butonul Obțineți o versiune de încercare **gratuită atunci** când treceți cu mouse-ul peste un abonament, înseamnă că nu este disponibilă o versiune de încercare.
+    **Notă:** Nu toate abonamentele sunt disponibile ca versiune de încercare. Dacă nu vedeți butonul Obțineți încercarea **gratuită atunci** când treceți cu mouse-ul peste un abonament, înseamnă că nu este disponibilă o versiune de încercare.
   
 3. Este posibil să fiți solicitat să introduceți un card de credit sau altă metodă de plată pentru a furniza o verificare suplimentară ca măsură de securitate. Nu veți fi taxat pentru această versiune de încercare gratuită. Vă vom păstra informațiile de plată în fișier și nu le vom utiliza pentru nicio achiziție fără aprobarea dvs.
 

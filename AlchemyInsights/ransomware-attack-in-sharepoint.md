@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893207"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327533"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Atac ransomware în SharePoint sau OneDrive
 
-1.  În cazul în care căutați ajutor despre ce să faceți atunci când se află un fișier rău intenționat pe OneDrive, SharePoint sau Teams, consultați Ce se poate face atunci când se află un fișier rău [intenționat.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
+1.  În cazul în care căutați ajutor despre ce să faceți atunci când un fișier rău intenționat se află pe OneDrive, SharePoint sau Teams, consultați Ce se poate face atunci când se află un fișier rău [intenționat.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Dacă căutați cum să vă protejați datele de ransomware, consultați:
-    - [Protejarea datelor din SharePoint și OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Protejarea datelor dvs. SharePoint și OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Ransomware Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Toate fișierele de pe contul dvs. OneDrive sau SharePoint de ransomware, malware sau virus Crypto? 
+3.  Toate fișierele de pe contul dvs. OneDrive Sau SharePoint afectate de ransomware, malware sau virus crypto? 
 
 Opriți/puneți imediat în pauză vizualizarea OneDrive Sync (dacă există) sau deconectați vizualizarea Explorer mapată la bibliotecă de pe computerul afectat (dacă există), apoi puteți restaura întreaga bibliotecă OneDrive sau SharePoint la o dată anterioară, utilizând caracteristica de restaurare a fișierelor. 
 

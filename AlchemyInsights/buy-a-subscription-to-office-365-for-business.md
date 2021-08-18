@@ -16,16 +16,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899032"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325779"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Cumpărați un abonament pentru a Microsoft 365 din perioada de încercare gratuită
 
-Ați încercat Microsoft 365 și acum sunteți pregătit să cumpărați. Aveți două opțiuni atunci când cumpărați o Microsoft 365 versiunea de încercare:
+Ați încercat să Microsoft 365 și acum sunteți pregătit să cumpărați. Aveți două opțiuni atunci când cumpărați Microsoft 365 versiunea de încercare:
   
  **Cumpărați același plan ca cel al procesului de încercare**
   
