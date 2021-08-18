@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020096"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317152"
 ---
 # <a name="understand-billing-amount"></a>Înțelegerea sumei facturate
 
@@ -70,7 +70,9 @@ Nu. Clienții primesc un număr fix de servicii de nivel gratuit și un credit d
 
 **Cum pot verifica dacă serviciile gratuite sunt active sau când vor expira acestea?**
 
-În Portalul Ibiza> Abonament > pagina Prezentare generală > defilați în jos la Servicii gratuite timp de 12 luni și faceți clic pe pictograma Informații. Acest lucru va afișa data expirării serviciilor gratuite **Notă**: niciun serviciu V1 nu face parte din serviciile incluse gratuite Azure. Pentru cea mai recentă listă de servicii gratuite, consultați [Ce produse sunt gratuite timp de 12 luni](http://www.microsoftazuresponsorships.com/)
+În Portalul Ibiza> Abonament > pagina Prezentare generală > defilați în jos la Servicii gratuite timp de 12 luni și faceți clic pe pictograma Informații. Aceasta va afișa data la care expiră serviciile gratuite
+
+**Notă:** serviciile V1 nu fac parte din serviciile Azure Free incluse. Pentru cea mai recentă listă de servicii gratuite, consultați [Ce produse sunt gratuite timp de 12 luni](http://www.microsoftazuresponsorships.com/)
 
 Întrebări frecvente suplimentare: [Întrebări frecvente despre contul gratuit](https://azure.microsoft.com/free/free-account-faq/)
 

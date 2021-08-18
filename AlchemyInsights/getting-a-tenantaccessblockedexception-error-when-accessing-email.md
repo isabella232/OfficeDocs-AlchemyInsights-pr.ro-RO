@@ -1,5 +1,5 @@
 ---
-title: 127 să obțineți o eroare TenantAccessBlockedException atunci când accesați e-mailul?
+title: 127 Obțineți o eroare TenantAccessBlockedException atunci când accesați e-mailul?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089452"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Obțineți o eroare TenantAccessBlockedException atunci când accesați e-mailul?
 
 Există câteva motive diferite pentru care este posibil să primiți această eroare. De exemplu:
 
-- Asigurați-vă că abonamentul este valid în pagina **Facturare** \> **[produse](https://portal.office.com/adminportal/home#/subscriptions)** din centrul de administrare Microsoft 365.
+- Verificați dacă abonamentul dvs. este valid în **pagina** \> **[Facturare produsele dvs.](https://portal.office.com/adminportal/home#/subscriptions)** din Centru de administrare Microsoft 365.
 
-- Verificați notificările scadente anterioare pe pagina facturi de **Facturare** \> **[& plăți](https://portal.office.com/adminportal/home#/billoverview)** în centrul de administrare Microsoft 365.
+- Căutați toate notificările cu termen trecut pe **pagina** \> **[Facturi & plată](https://portal.office.com/adminportal/home#/billoverview)** din Centru de administrare Microsoft 365.
 
-- Dacă facturarea și abonamentele pentru contul dumneavoastră au fost actualizate recent, poate dura până când modificările se propagă. Încercați din nou peste câteva minute și, dacă problema persistă, contactați-ne.
+- Dacă facturarea și abonamentele pentru contul dvs. au fost actualizate recent, poate dura un timp pentru ca modificările să se propagă. Încercați din nou în câteva minute și, dacă problema persistă, contactați-ne.
