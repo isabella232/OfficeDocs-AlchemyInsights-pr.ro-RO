@@ -1,5 +1,5 @@
 ---
-title: Eroare de licențiere DLP Endpoint
+title: Eroare de licențiere DLP punct final
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090164"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Eroare de licențiere DLP Endpoint
+# <a name="endpoint-dlp-licensing-error"></a>Eroare de licențiere DLP punct final
 
-Atunci când încercați să configurați punctul de final DLP, dacă primiți următoarea eroare:
+Atunci când se încearcă configurarea DLP-ului pentru punctul final, dacă primiți următoarea eroare:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Asigurați-vă că aveți unul dintre următoarele abonamente sau Add-ons:
+Asigurați-vă că aveți unul dintre următoarele abonamente sau programe de completare:
 
 - Microsoft 365 E5
-- Microsoft 365 a5 (EDU)
-- Conformitatea Microsoft 365 E5
-- Conformitatea Microsoft 365 a5
-- Protecția informațiilor și guvernanța Microsoft 365 E5
-- Protecția informațiilor și guvernanța Microsoft 365 a5
+- Microsoft 365 A5 (EDU)
+- Microsoft 365 E5 conformitate
+- Microsoft 365 A5 conformitate
+- Microsoft 365 E5 protecției informațiilor și guvernanță
+- Microsoft 365 A5 protecției informațiilor și guvernanță
 
 > [!NOTE]
-> Acest lucru nu va funcționa pentru combinații de licențe, cum ar fi: Win E5 + O365 E5 + EMS E5. Trebuie să aveți o licență pură M365 E5 pentru a configura această caracteristică.
+> Acest lucru nu va funcționa pentru combinații de licențe, cum ar fi: Win E5 + O365 E5 + EMS E5. Trebuie să aveți o licență doar M365 E5 pentru a configura această caracteristică.
 
-Pentru mai multe informații despre licențierea Endpoint DLP, consultați [licențierea Endpoint DLP.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Pentru mai multe informații despre licențierea DLP pentru punctul final, consultați [Licențierea DLP pentru punctul final.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

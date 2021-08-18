@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "6450"
-ms.openlocfilehash: 34644547216826ece64e842f134c5b08a9bae0bafb448ffef589db78c3263c5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 68829751c4f12f8f319e8449c024248949429c5715dfd579f6cbc67d59584b5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000440"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901444"
 ---
 # <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Migrarea de la Microsoft Stream (clasic) la noul Microsoft Stream
 
-Pentru mai multe informații despre migrarea de la Classic Stream la noul Stream, consultați Prezentare generală a migrării de la [Microsoft Stream (clasic) la Stream (construit pe SharePoint).](/stream/streamnew/stream-classic-to-new-migration-overview)
+Pentru mai multe informații despre migrarea de la Classic Stream la noul Stream, consultați Prezentare generală a migrării de la [Microsoft Stream (clasic) la Stream (construit pe SharePoint).](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)

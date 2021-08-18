@@ -1,5 +1,5 @@
 ---
-title: 761 conectarea la Exchange Online PowerShell când este activat Mae
+title: 761 Conectarea la Exchange Online PowerShell atunci când este activat MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090280"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Conectarea la Exchange Online PowerShell când este activat Mae
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Conectare la Exchange Online PowerShell atunci când este activată MFA
 
-Dacă aveți activată autentificarea multi-factor (AMF), trebuie să urmați aceste instrucțiuni pentru a vă conecta la Exchange Online PowerShell: [Utilizați PowerShell Exchange Online cu autentificarea modernă folosind modulul v2](https://aka.ms/exops-docs). Vă rugăm să căutați instrucțiuni de autentificare Mae/multi factor pe acea pagină.
+În cazul în care contul dvs. are activată autentificarea prin mai multe metode (MFA), trebuie să urmați aceste instrucțiuni pentru a vă conecta la Exchange Online PowerShell: Utilizați [modulul Exchange Online PowerShell](https://aka.ms/exops-docs)cu autentificarea modernă utilizând modulul V2 . Căutați instrucțiuni MFA/Multi Factor Authentication pe pagina aceea.
