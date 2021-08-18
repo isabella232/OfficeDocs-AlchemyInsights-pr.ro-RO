@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090981"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Pregătirea pentru asigurarea accesului utilizatorilor prin sincronizarea directorului cu Office 365
 
 Asigurarea accesului utilizatorilor cu sincronizarea directorului necesită planificare și pregătiri, urmați instrucțiunile de mai jos:
 
-Unele acțiuni care trebuie să aibă acces la utilizatorii de asigurare a accesului includ:
-1. **Curățare Director**.
-1. **Obiectul Directory și pregătirea atributului**.
-1. **Pregătirea atributelor UPN**.
-1. **Adăugarea opțională a sufixelor UPN alternative la AD DS**.
-1. **Potriviți-vă cu UPN local cu Office 365 UPN**.
-1. **Instrumente de integrare a directoarelor**.
+Printre acțiunile care trebuie să aibă loc în asigurarea accesului pentru utilizatori se numără:
+1. **Curățare director**.
+1. **Pregătirea obiectelor și atributelor directorului.**
+1. **Pregătirea atributelor UPN.**
+1. **Adăugarea opțională a unor sufixe UPN alternative la AD DS**.
+1. **Potriviți UPN-urile local cu UPN-Office 365 UPN-uri .**
+1. **Instrumente de integrare a directorului.**
 
-Pentru descrierile detaliate ale fiecărui pas de preparare, consultați [pregătirea pentru asigurarea accesului utilizatorilor prin sincronizarea directorului la articolul 365 Office](https://aka.ms/office365assistantprovisionuserstooffice365).
+Pentru descrieri detaliate despre fiecare pas de pregătire, consultați Pregătirea pentru asigurarea accesului utilizatorilor prin [sincronizarea directorului Office 365 articol](https://aka.ms/office365assistantprovisionuserstooffice365).

@@ -1,5 +1,5 @@
 ---
-title: Informații privind reținerea litigiilor sau reținerea în locație
+title: Informații privind așteptarea pe motiv de litigiu sau în curs
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115444"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Despre reținerea litigiilor și reținerea în locație
+# <a name="about-litigation-holds-and-in-place-holds"></a>Cu privire la reținerea pe motiv de litigiu și la reținerea în curs
 
-- Pentru a aplica o reținere a litigiilor sau o reținere în locație la o cutie poștală, este necesară o [licență Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Dacă aveți orice alt plan, atribuiți o licență de [Arhivare Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) separată la cont. 
+- Pentru a aplica o deținere pe motiv de litigiu sau o deținere în locul unei cutii poștale, [este necesară Exchange Online licența Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Dacă aveți un alt plan, atribuiți o [licență Arhivare Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) separată contului. 
     
-- **Pentru a activa o reținere a litigiilor** pentru un singur utilizator, urmați pașii schițați [aici](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold). Atunci când este activată reținerea litigiilor, tot conținutul din cutia poștală este plasat în așteptare.
+- **Pentru a activa o litigiu pentru** un singur utilizator, urmați pașii subliniați [aici.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Atunci când este activată așteptarea pe motiv de litigiu, tot conținutul din cutia poștală este plasat în așteptare.
     
-- Pentru a aplica o **fixare în locație pentru utilizatori unici** sau pentru a ține la **toate cutiile poștale din întreaga organizație**, puteți utiliza politicile de retenție în centrul de securitate și conformitate Microsoft 365, urmând pașii schițați [aici](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Pentru a  aplica o reținere în așteptare pentru utilizatori unici sau o reținere în așteptare pentru toate cutiile poștale din întreaga **Organizație,** puteți utiliza Politici de retenție în Centrul de securitate și conformitate Microsoft 365, urmând pașii subliniați [aici.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > Pentru politici de retenție la nivel de organizație, utilizatorii noi vor fi adăugați automat în așteptare. 
+    > Pentru politicile de retenție la nivel de organizație, utilizatorii noi vor fi adăuga automat la așteptare. 
   
-- Pentru a vizualiza sau a descoperi conținutul cutiei poștale care este plasat în așteptare, utilizați **Căutare și export eDiscovery**. Pentru informații despre utilizarea **căutării și exportați eDiscovery**, urmați pașii schițați [aici](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Pentru a vizualiza sau a descoperi conținutul cutiei poștale plasate în așteptare, utilizați **căutarea și exportul pentru descoperirea informațiilor electronic.** Pentru informații despre utilizarea **căutării și exportului pentru descoperirea informațiilor electronic,** urmați pașii [subliniați aici.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

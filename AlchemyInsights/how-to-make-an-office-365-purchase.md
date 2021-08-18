@@ -1,5 +1,5 @@
 ---
-title: Cum să faceți o Microsoft 365 achiziție
+title: Cum să faceți o achiziție Microsoft 365 achiziție
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896943"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318574"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Cum să faceți o Microsoft 365 achiziție
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Cum să faceți o achiziție Microsoft 365 achiziție
 
 Puteți cumpăra un Microsoft 365 în centrul de administrare.
   

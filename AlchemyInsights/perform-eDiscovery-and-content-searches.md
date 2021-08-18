@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317488"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902056"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cum se efectuează căutări de conținut și căutări de descoperire a informațiilor electronic
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317488"
 4. Introduceți condițiile de căutare necesare, inclusiv cuvintele cheie și locațiile de conținut.
 5. Selectați **Salvați & rulați** pentru a de name the search, porniți căutarea, apoi previzualizați rezultatele.
 
-**Notă:** în **Microsoft 365 Soluții din Centrul de** conformitate , extindeți  >   **descoperirea informațiilor electronic** și selectați instrumentul de descoperire a informațiilor electronic dorit.
+> [!NOTE]
+> În **Microsoft 365 Centrul de**  >  **conformitate,** extindeți **descoperirea informațiilor electronic și** selectați instrumentul de descoperire a informațiilor electronic dorit.
 
 Pentru instrucțiuni detaliate despre căutările de conținut, exportul rezultatelor și [](https://docs.microsoft.com/microsoft-365/compliance/content-search) crearea de cazuri de descoperire a informațiilor electronic pentru a păstra date, consultați Căutarea de conținut și cazurile de descoperire [a informațiilor electronic.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

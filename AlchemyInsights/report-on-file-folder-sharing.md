@@ -13,18 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8a4c2b4aedaa0ac88262e6c4f0c91af952441b6904971eabf774c2a8b7b58042
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7587eba7d69d532ab026db6b9c56f5fa6d7e7f8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110656"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319318"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Raportarea partajării fișierelor și folderelor în site SharePoint uri
 
-Puteți crea un fișier CSV care detaliează fiecare fișier, utilizator, permisiune și link unic de pe un anumit site SharePoint-ul OneDrive bibliotecă. Acest lucru vă poate ajuta să înțelegeți modul în care se utilizează partajarea și dacă toate fișierele sau folderele sunt partajate cu invitații.
+Puteți crea un fișier CSV care detaliează fiecare fișier, utilizator, permisiune și link unic de pe un site SharePoint sau o bibliotecă OneDrive date. Acest lucru vă poate ajuta să înțelegeți modul în care se utilizează partajarea și dacă toate fișierele sau folderele sunt partajate cu invitații.
 
-Pentru mai multe informații, [Raportarea partajării fișierelor și folderelor într-SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).
+Pentru mai multe informații, [Raportarea partajării fișierelor și folderelor într-SharePoint site.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
-> [!NOTE]
-> Această caracteristică este implementată în prezent pentru entitățile găzduite Prima lansare și va fi implementată treptat pentru toate entitățile găzduite de producție.
+**Notă:** această caracteristică este implementată în prezent pentru entitățile găzduite Prima lansare și va fi implementată treptat pentru toate entitățile găzduite de producție.

@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091068"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Depanarea problemelor de instalare MDATP pe un Mac
 
-Dacă instalarea manuală nu reușește, pagina **Rezumat** a expertului de instalare afișează următoarea eroare:
+Dacă instalarea manuală nu **reușește, pagina** Rezumat a expertului de instalare afișează următoarea eroare:
 
-"A apărut o eroare în timpul instalării. Programul de instalare a întâlnit o eroare care a determinat instalarea să nu reușească. Contactați producătorul software-ului pentru asistență. "
+"A apărut o eroare în timpul instalării. Programul de instalare a întâmpinat o eroare care a determinat ca instalarea să nu reușească. Contactați producătorul software-ului pentru asistență."
 
-Pentru implementările MDM, pagina afișează și o eroare generică de instalare.
+Pentru implementările MDM, pagina afișează, de asemenea, o eroare generică de instalare.
 
-Deși nu se afișează erorile exacte pentru utilizatorii finali, păstrăm un fișier jurnal cu progresul instalării, în **/Library/logs/Microsoft/mdatp/install.log**. Fiecare sesiune de instalare se adaugă la acest fișier jurnal. Pentru a afișa numai ultima sesiune de instalare, utilizați `sed` .
+Deși nu afișăm erorile exacte pentru utilizatorii finali, păstrăm un fișier jurnal cu progresul instalării, în **/Library/Logs/Microsoft/mdatp/install.log.** Fiecare sesiune de instalare se adaugă la acest fișier jurnal. Pentru a rezultatele ultimei sesiuni de instalare, utilizați `sed` .
 
-Pentru a afla mai multe, consultați [Depanarea problemelor de instalare pentru Microsoft Defender ATP pentru Mac](https://go.microsoft.com/fwlink/?linkid=2144615).
+Pentru a afla mai multe, [consultați Depanarea problemelor de instalare pentru Microsoft Defender ATP pentru Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)

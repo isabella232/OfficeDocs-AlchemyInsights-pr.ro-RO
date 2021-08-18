@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899552"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318962"
 ---
 # <a name="cancel-power-bi"></a>Anulați Power BI
 
@@ -33,7 +33,6 @@ Power BI poate fi anulat în Centru de administrare Microsoft 365.
 
 **Rambursare: Orice credit rambursat vă va fi returnat în următorul ciclu de facturare.**
 
-> [!NOTE]
-> Dacă nu vedeți opțiunea de a anula, selectați abonamentul pentru a vizualiza pagina de detalii. În **secțiunea Setări abonament și plată,** selectați **Anulați abonamentul.**
+**Notă:** dacă nu vedeți opțiunea de anulare, selectați abonamentul pentru a vizualiza pagina de detalii. În **secțiunea Setări abonament și plată,** selectați **Anulați abonamentul.**
 
 Pentru a afla mai multe, [consultați Anularea abonamentului.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
