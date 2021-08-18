@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118756"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896727"
 ---
 # <a name="create-user"></a>Crearea unui utilizator
 
 **ANUNȚ:**
 
-- [Perimarea suportului pentru conectare WebView de la Google începând cu 4 ianuarie 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testați dacă aplicațiile dvs. pot fi afectate [urmând instrucțiunile Google](https://go.microsoft.com/fwlink/?linkid=2157323) privind testarea compatibilității.
-- Asigurați-vă că utilizați vizualizarea web sau browserul de sistem de sistem atunci când vă conectați utilizatorii cu conturi Google de larg consum. Pentru mai multe informații, [consultați Probleme la conectarea la aplicații utilizând doar browserul Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Perimarea suportului pentru conectare WebView de la Google începând cu 4 ianuarie 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testați dacă aplicațiile dvs. pot fi afectate [urmând instrucțiunile Google](https://go.microsoft.com/fwlink/?linkid=2157323) privind testarea compatibilității.
+- Asigurați-vă că utilizați vizualizarea web sau browserul de sistem de sistem atunci când vă conectați utilizatorii cu conturi Google de larg consum. Pentru mai multe informații, [consultați Probleme la conectarea la aplicații utilizând doar browserul Chrome.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Nu pot crea un utilizator nou în directorul meu Azure AD**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118756"
 1. Consultați [Rolurile și administratorii Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru Azure AD.
 1. Consultați numele [de domeniu](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru Azure AD.
 1. Revizuiți [jurnalele de auditare](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pentru a vedea informații mai detaliate despre un utilizator creat recent sau șters, cum ar fi cine a efectuat acțiunea și când.
-1. Pentru mai multe informații despre adăugarea de utilizatori noi, consultați [Utilizarea portalului Azure pentru a crea un utilizator nou în Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Roluri administrative Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)Permisiuni de rol de administrator în Azure Active Directory
-1. De asemenea, [puteți utiliza Azure AD PowerShell pentru a crea un utilizator nou.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Pentru mai multe informații despre adăugarea de utilizatori noi, consultați [Utilizarea portalului Azure pentru a crea un utilizator nou în Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Roluri administrative Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Permisiuni de rol de administrator în Azure Active Directory
+1. De asemenea, [puteți utiliza Azure AD PowerShell pentru a crea un utilizator nou.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

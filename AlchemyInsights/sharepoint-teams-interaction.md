@@ -1,5 +1,5 @@
 ---
-title: Ajutor pentru interacțiunea SharePoint Microsoft Teams cu utilizatorul
+title: Ajutor pentru interacțiunea SharePoint Microsoft Teams lucru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f60b07d1f39cce07fc64e1029398633582997dee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898368"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315488"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Ajutor pentru interacțiunea SharePoint Microsoft Teams cu utilizatorul
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Ajutor pentru interacțiunea SharePoint Microsoft Teams lucru
 
-Fiecare echipă din Microsoft Teams are un site de echipă în SharePoint și fiecare canal standard dintr-o echipă primește un folder în biblioteca de documente implicită a site-ului de echipă. Fiecare canal privat își primește propriul site SharePoint separat. Pentru mai multe informații:
+Fiecare echipă din fiecare Microsoft Teams are un site de echipă în SharePoint și fiecare canal standard dintr-o echipă primește un folder în biblioteca de documente implicită a site-ului de echipă. Fiecare canal privat își primește propriul site SharePoint separat. Pentru mai multe informații:
 
 - Pentru a afla mai multe despre interacțiunea canalului privat, [consultați Canale private din Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 

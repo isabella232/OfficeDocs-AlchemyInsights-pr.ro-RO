@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937725"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315380"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Activarea unui abonament Microsoft cu licență în volum
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937725"
 4. Mesajul de e-mail de activare vă oferă două **opțiuni:** Înscriere **sau Conectare.** Dacă ați creat anterior o versiune de încercare, **alegeți Conectare**. Dacă nu aveți încă o entitate găzduită Microsoft 365, alegeți **Înscriere**.
 5. Conectați-vă la Centru de administrare Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) utilizând acreditările de administrator existente. După ce vă conectați cu succes, veți primi un alt e-mail care confirmă achiziția.
 6. După ce vă ați conectat,  accesați pagina Facturare produse pentru a verifica dacă \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) abonamentele achiziționate sunt acum active. 
-    > [!NOTE]
-    > De asemenea, puteți alege **fila Abonament** din VLSC pentru a vedea detaliile care verifică dacă abonamentul dvs. a fost activat.)
+
+    **Notă:** De asemenea, puteți **alege** fila Abonament din VLSC pentru a vizualiza detaliile care verifică dacă abonamentul dvs. a fost activat.)

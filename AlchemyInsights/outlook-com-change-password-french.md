@@ -1,5 +1,5 @@
 ---
-title: Outlook.com schimbare parolă-franceză
+title: Outlook.com - FRANCEZĂ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: a7856a9e59ca7bb61a081fc2c61022cbee55f3f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afec9b2dd9c3ba08d680cfd30c203b6122b1f873d00cccf0bab9e4fb73d88533
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112240"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre mot de passe dans Outlook.com
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre andrei de passe dans Outlook.com
 
-Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.
+Votre andrei de passe Outlook.com est le même que votre corespondență de passe Compte Microsoft.
 
-1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **sécurité du mot de passe**.
-2. Par masura de sécurité, vous pouvez être invité à confirmer votre identité à L'Aide d ' un code de sécurité.
-3. Entrez votre mot de passe Actuel, votre Nouveau mot de passe, PUIS sélectionnez **inregistration**.
+1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionvu **Sécurité du emil de passe**.
+2. Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l'aide d'un code de sécurité.
+3. Entrez votre andrei de passe actuel, votre nouveau andrei de passe, puis sélectionfet **Enregistrer**.
 
-Si vous razvan Oublié votre mot de passe, accédez à la [pagina de réinitialisation de mot de passe de Compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), PUIS suivez Les invită.
+Si vous avez oublié votre de passe, accédez à la [page de réinitialisation de laura de passe de compte Microsoft,](https://go.microsoft.com/fwlink/p/?linkid=841909)puis suivez les invites.
 
-Si vous pensez que votre Outlook.com a été piraté, Voir [Mon compte Outlook.com a été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)piraté.
+Si vous pensez que votre Outlook.com a été hacké, voir [Mon compte Outlook.com a été hacké](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
