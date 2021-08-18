@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119620"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Modificarea parolei Wi-Fi ruterului
 
 Pentru a modifica parola Wi-Fi ruterului de date, urmați acești pași:
 
-1. Selectați **Start**  >  **Setări**  >  **rețea & Centrul de** partajare și rețea  >  **internet.**
+1. Selectați **Start**  >  **Setări**  >  **De & Centrul de** partajare și rețea  >  **internet.**
 
 2. Sub **Vizualizare rețele active,** căutați rețeaua la care sunteți conectat. Selectați linkul albastru de lângă **Conexiuni.**<br>
 

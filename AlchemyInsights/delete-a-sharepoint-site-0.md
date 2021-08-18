@@ -1,5 +1,5 @@
 ---
-title: Ștergerea unui site SharePoint
+title: Ștergerea unui site SharePoint site
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118540"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Ștergerea site-urilor care aparțin unui grup Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Ștergerea site-urilor care aparțin unui Microsoft 365 grup
 
-Atunci când utilizatorii creează un site de echipă nou din SharePoint Home sau creați un site de echipă nou din noul centru de administrare SharePoint, se creează automat un grup Microsoft 365 corespondent. Site-urile de echipă Microsoft 365 conectate la grup sunt create, de asemenea, atunci când creați un grup Microsoft 365 sau o echipă în Microsoft teams. Pentru a șterge un site SharePoint care aparține unui grup Microsoft 365, trebuie să ștergeți grupul Microsoft 365 propriu-zis. 
+Atunci când utilizatorii creează un site de echipă nou din pagina de pornire SharePoint sau creați un site de echipă nou din noul centru de administrare SharePoint, se creează automat un grup Microsoft 365 corespunzător. Microsoft 365 de echipă conectate la grup sunt create, de asemenea, atunci când creați un grup Microsoft 365 sau o echipă în Microsoft Teams. Pentru a șterge SharePoint site de SharePoint care aparține unui grup de Microsoft 365, trebuie să ștergeți grupul de Microsoft 365 propriu-zis. 
   
-1. Accesați [pagina grupuri din centrul de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Accesați pagina [Grupuri din pagina de Centru de administrare Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Bifați caseta de selectare de lângă grup.
     
-3. Selectați **Ștergere**.
+3. Selectați **Ștergere.**
     
-Notă: atunci când ștergeți un grup, pot exista întârzieri înainte ca site-ul să fie eliminat din SharePoint.
+NOTĂ: Atunci când ștergeți un grup, poate exista o întârziere înainte ca site-ul să fie eliminat din SharePoint.
   
-**Ștergerea site-urilor de comunicare sau a site-urilor clasice:**
+**Ștergeți site-urile de comunicare sau site-urile clasice:**
 
 1. Accesați site-ul.
   
-2. Faceți clic pe pictograma **Setări** din colțul din dreapta sus. 
+2. Faceți clic **Setări** pictograma săgeată din colțul din dreapta sus. 
   
-3. Faceți clic pe **Setări site**. Sub **informații site** sau **Acțiuni site**, faceți clic pe **Ștergere site**, apoi faceți clic pe **Ștergere**.
+3. Faceți **clic pe Setări site.** Sub **Informații site sau** Acțiuni **site,** faceți **clic pe Ștergere site**, apoi faceți clic **pe Ștergere.**
   
-**Ștergerea unei colecții de site-uri SharePoint:**
+**Ștergerea unei colecții SharePoint site-uri:**
 
 Pentru a șterge un site:
   
-1. În noul centru de administrare SharePoint, pe pagina site-uri, faceți clic pe **caseta de selectare** de lângă site-ul pe care doriți să-l ștergeți. 
+1. În noul centru SharePoint, pe pagina Site-uri,  faceți clic pe caseta de selectare de lângă site-ul pe care doriți să îl ștergeți. 
     
-2. Pe bara de instrumente din panglică, faceți clic pe **Ștergere.**
+2. Pe bara de instrumente din panglică, faceți clic **pe Ștergere.**
     
-**Ați șters un site accidental?**
+**Ați șters din întâmplare un site?**
 
-Consultați [restaurarea unei colecții de site-uri șterse](https://go.microsoft.com/fwlink/?linkid=867660).
+Consultați [Restaurarea unei colecții de site-uri șterse.](https://go.microsoft.com/fwlink/?linkid=867660)
   
 

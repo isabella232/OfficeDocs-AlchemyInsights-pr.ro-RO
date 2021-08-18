@@ -16,22 +16,22 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892139"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321975"
 ---
 # <a name="invoice-and-payment-information"></a>Informații despre factură și plată
 
 **Plată**
 
-Atunci când cumpărați un Microsoft 365 pentru firme direct de la Microsoft, puteți plăti cu un card de credit sau cu unul de debit.  În anumite țări/regiuni, puteți plăti și cu un cont bancar.  Puteți afla cum să gestionați și să depanați aceste metode de plată de [la Gestionați metodele de plată.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Aceasta include rezolvarea problemelor atunci când este refuzat cardul de credit și actualizarea informațiilor de plată.
+Atunci când cumpărați un Microsoft 365 abonament pentru firme direct de la Microsoft, puteți plăti cu un card de credit sau cu unul de debit.  În anumite țări/regiuni, puteți plăti și cu un cont bancar.  Puteți afla cum să gestionați și să depanați aceste metode de plată de [la Gestionați metodele de plată.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Aceasta include rezolvarea problemelor atunci când este refuzat cardul de credit și actualizarea informațiilor de plată.
 
 **Factură/Factură**
 
-Puteți să găsiți și să descărcați facturile pe pagina **Facturi**  >  [& plată.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Puteți să găsiți și să descărcați facturile pe pagina **Facturi**  >  [& de](https://go.microsoft.com/fwlink/p/?linkid=848039) plată.  
 
 **Notă:** Dacă nu sunt vizibile facturi, poate fi necesar să ajustați filtrul pentru intervalul de date.  Se afișează implicit ultimele 3 luni ale facturilor.
 

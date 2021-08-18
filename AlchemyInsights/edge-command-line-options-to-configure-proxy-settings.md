@@ -14,16 +14,16 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118426"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Utilizarea opțiunilor din linia de comandă pentru a configura setările proxy în Microsoft Edge
 
-În Microsoft Edge versiunile 77 și mai recente, stiva de rețea utilizează setările de rețea ale sistemului în mod implicit. În scenarii hibride în care utilizatorii solicită o alternativă, Microsoft Edge acceptă opțiunile din linia de comandă pentru configurarea setărilor proxy particularizate. Pentru detalii, consultați:
+În Microsoft Edge versiunile 77 și ulterioare, stiva de rețea utilizează setările de rețea ale sistemului în mod implicit. În scenariile hibride în care utilizatorii solicită o alternativă, Microsoft Edge acceptă opțiunile din linia de comandă pentru configurarea setărilor proxy particularizate. Pentru detalii, consultați:
 
 1. [Setări de rețea de sistem](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Opțiunile din linia de comandă pentru setările proxy](https://go.microsoft.com/fwlink/?linkid=2134292)

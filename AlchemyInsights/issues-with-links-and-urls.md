@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054810"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321919"
 ---
 # <a name="issues-with-links-and-urls"></a>Probleme cu linkuri și cu URL-uri
 
@@ -42,15 +42,13 @@ Pentru a adăuga un URL de răspuns, accesați fila **Autentificare** din pagina
     - platformă (iOS/Android/UWP)
     - informațiile utilizate pentru a vă crea aplicația, precum ID-ul pachetului din iOS, precum și numele pachetului și hashul de semnătură de pe Android. Înregistrarea aplicației portal Microsoft Azure vă va ajuta. Pentru detalii, consultați [configurarea platformei și redirecționarea URI-urilor](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> API-urile web și unele moduri silențioase de a obține simboluri (IWA și nume de utilizator/parolă) nu necesită un URI de redirecționare.
+**Notă:** API-urile web și unele dintre modurile silențioase de achiziționare a simbolurilor (IWA și nume de utilizator/parolă) nu necesită un URI de redirecționare.
 
 **Am implementat aplicația mea web și, atunci când testez aplicația implementată, primesc un mesaj de nepotrivire URL de răspuns**
 
 Adăugați URI-uri de redirecționare pentru toate locațiile în care implementați aplicația dvs. web. Pentru mai multe informații, consultați [Înregistrarea unei aplicații web utilizând portalul Microsoft Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Adăugați URI de redirecționare pentru o locație imediat după ce ați implementat aplicația în acea locație.
+**Notă:** Adăugați URI de redirecționare pentru o locație imediat după ce ați implementat aplicația în acel loc.
 
 **Nu pot înregistra suficiente URL-uri de răspuns**
 
