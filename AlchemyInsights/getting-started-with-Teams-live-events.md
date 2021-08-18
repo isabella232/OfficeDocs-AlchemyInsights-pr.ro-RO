@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088876"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Primii pași cu evenimentele în direct din Teams
 
@@ -25,7 +25,7 @@ Evenimentele în direct Microsoft Teams sunt o extensie a întâlnirilor Teams c
 
 Pentru a crea un eveniment în direct, aveți nevoie de următoarele:
 
-- Mai întâi, confirmați că Evenimente în direct Teams [sunt disponibile în Țara și regiunea dumneavoastră;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Evenimentele în direct nu sunt acceptate încă în anumite țări.  Dacă ați atribuit licențe și setați politici, dar tot nu puteți crea un Eveniment în direct Teams, probabil că vă a afla într-o Țară sau Regiune în care Evenimente în direct nu este încă disponibil.
+- Mai întâi, confirmați Teams evenimentele în direct [sunt disponibile în Țara și regiunea dumneavoastră;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Evenimentele în direct nu sunt acceptate încă în anumite țări.  Dacă ați atribuit licențe și setați politici, dar tot nu puteți crea un eveniment Teams În direct, este posibil să fiți într-o Țară sau Regiune în care evenimentele în direct nu sunt încă disponibile.
 
 - O licență [Office 365 Enterprise E1, E3 sau E5 ori o licență Office 365 A3 sau A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Notă**: din cauza unei creșteri recente a utilizării Teams, atunci când atribuiți o licență Teams unui utilizator, poate fi necesar să treacă aproximativ 24 de ore înainte ca licența să fie complet configurată. Până atunci, nu veți putea să le atribuiți politici Teams și este posibil ca aceștia să nu aibă acces la anumite caracteristici Teams, cum ar fi apelarea și conferințele audio.
 
