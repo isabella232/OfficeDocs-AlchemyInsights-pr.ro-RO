@@ -1,5 +1,5 @@
 ---
-title: Office 365 pentru planurile guvernamentale și prețurile
+title: Office 365 pentru planurile guvernamentale și prețurile acestora
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,16 +16,16 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 5e888dffa4cdd5f727b3d0d28d4ccf13987ab91575666f1dff62c684308da06e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c53e9468f54b2ed8b75e89af6f8f376974411037
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499884"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328756"
 ---
-# <a name="office-365-government-plans"></a>Office 365 pentru instituții guvernamentale planuri
+# <a name="office-365-government-plans"></a>Office 365 pentru instituții guvernamentale planurile
 
-Office 365 Planurile pentru guvernul S.U.A. sunt proiectate pentru necesitățile unice ale organizațiilor guvernamentale din S.U.A. Acestea oferă toate caracteristicile și capacitățile serviciilor Office 365 într-o comunitate de cloud guvernamentală segmentată, care permite organizațiilor să îndeplinească standardele de conformitate și de securitate SUA.
+Office 365 Planurile pentru guvernul S.U.A. sunt proiectate pentru necesitățile unice ale organizațiilor guvernamentale din S.U.A. Acestea oferă toate caracteristicile și capacitățile serviciilor Office 365 într-o comunitate de cloud guvernamentală segmentată, care permite organizațiilor să îndeplinească standardele de conformitate și de securitate sua.
   
 - [Consultați planurile pentru guvernamentale](https://products.office.com/government/compare-office-365-government-plans)
 

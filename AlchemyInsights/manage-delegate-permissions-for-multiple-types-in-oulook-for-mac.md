@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962899"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329746"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Gestionarea permisiunilor delegate pentru mai multe tipuri de elemente Outlook pentru Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962899"
 3. Sub **Delegați,** care afișează o listă de delegați care pot acționa în numele lor, selectați delegatul.
 4. Faceți **clic pe** butonul Acțiune, **faceți clic** pe Setare permisiuni , apoi efectuați modificările dorite.
 
-> [!NOTE]
-> Dacă setați nivelul de permisiune la **Fără,** delegatul rămâne în listă, ceea ce vă permite să reinsulați permisiunile mai târziu.
+**Notă:** dacă setați nivelul de permisiune la **Fără,** delegatul rămâne în listă, ceea ce vă permite să reinsulați permisiunile mai târziu.

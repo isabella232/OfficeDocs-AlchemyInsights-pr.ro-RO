@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c77da6716c0755d6ed4911f490e000bd74d08f92
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892059"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329674"
 ---
 # <a name="missing-emails-in-quarantine"></a>Mesaje de e-mail lipsă în carantină
 
 Administratorii pot [vizualiza, lansa sau șterge aceste mesaje](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-În portalul Microsoft 365 Defender la <https://security.microsoft.com> , mergeți la Treceți în **carantină de** \> **revizuire**. Sau, pentru a merge direct la pagina **Carantină,** utilizați <https://security.microsoft.com/quarantine> .  
+În portalul Microsoft 365 Defender la <https://security.microsoft.com> , mergeți la Treceți în **carantină** \> **de revizuire**. Sau, pentru a merge direct la pagina **Carantină,** utilizați <https://security.microsoft.com/quarantine> .  
 
 Pentru mai multe informații despre valorile de căutare/filtrare pe care le puteți utiliza, consultați Gestionarea mesajelor și fișierelor în carantină [ca administrator în EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 

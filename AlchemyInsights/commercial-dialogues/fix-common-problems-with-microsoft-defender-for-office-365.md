@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898256"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330072"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Remedierea problemelor uzuale cu Microsoft Defender pentru Office 365
 
@@ -25,7 +25,7 @@ Iată câteva soluții la problemele obișnuite cu Microsoft Defender pentru Off
 
 - **Întârziere mesaj:**
 
-  Întârzierile în livrarea mesajelor de e-mail pot fi cauzate Seif scanarea atașărilor de mesaje. Pentru mai multe informații, [consultați Seif de politică pentru Atașări.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Întârzierile în livrarea mesajelor de e-mail pot fi cauzate Seif de scanarea atașărilor de mesaje. Pentru mai multe informații, [consultați Seif de politică pentru Atașări.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Raportarea rezultatelor fals pozitive sau negative:**
 
@@ -33,11 +33,11 @@ Iată câteva soluții la problemele obișnuite cu Microsoft Defender pentru Off
 
 - **Activarea Seif protecție împotriva legăturilor:**
 
-  1. În portalul de Microsoft 365 Defender de la , accesați Trimiteți e-mail & Politicilor de colaborare & Reguli pentru politicile de Seif linkurile către linkuri <https://security.microsoft.com/>  \>  \>  \>  **din secțiunea** Politici.
+  1. În portalul Microsoft 365 Defender la , accesați Trimitere prin <https://security.microsoft.com/> **e-mail &** Politicilor de colaborare & Reguli Seif Linkuri către linkuri \>  \>  \>  **din secțiunea** Politici.
 
      Pentru a merge direct la **Seif Linkuri** rapide, utilizați <https://security.microsoft.com/safelinksv2> .
 
-  2. Pe pagina **Seif linkuri,** selectați politica, făcând clic pe numele politicii.
+  2. Pe pagina **Seif Linkuri,** selectați politica, făcând clic pe numele politicii.
   3. În fișa cu detalii care apare, urmați oricare dintre pașii următori:
      - Pentru a adăuga o politică nouă, selectați **+ Creare**. Se va lansa un expert care vă va ajuta să definiți setările de politică.
      - Pentru a edita o politică existentă, selectați politica, făcând clic pe numele politicii. În meniul volant detalii care apare, selectați **Editare** în **secțiunea Setări protecție.**

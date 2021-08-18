@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090748"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329930"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Conformitatea comunicării în Microsoft 365
 
-Conformitatea comunicării este o nouă soluție Microsoft 365 conformitate, care ajută organizațiile să îndeplinească cerințele de conformitate de supervizor și să minimizeze riscurile de comunicare. Aceasta se bazează pe caracteristica Supraveghere și conține noi îmbunătățiri, inclusiv:
+Conformitatea comunicațiilor este o nouă soluție Microsoft 365 conformitate, care ajută organizațiile să îndeplinească cerințele de conformitate de supervizor și să minimizeze riscurile de comunicare. Aceasta se bazează pe caracteristica Supraveghere și conține noi îmbunătățiri, inclusiv:
 
 - Șabloane inteligente ce se pot particulariza
 - Fluxuri de lucru de remediere flexibile
@@ -41,7 +41,6 @@ Cerințe de licență: Utilizatorii monitorizați prin politici de comunicare tr
 - Office 365 Enterprise Licență E3 cu programul de completare Advanced Compliance
 - Office 365 Enterprise Abonament E5
 
-Dacă nu aveți niciuna dintre cele de mai sus și doriți să încercați conformitatea comunicării, înscrieți-vă pentru o versiune de **[încercare de Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Dacă nu aveți niciuna dintre cele de mai sus și doriți să încercați conformitatea comunicărilor, înscrieți-vă pentru o versiune de **[încercare de Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> Poate dura până la 24 de ore pentru ca mesajele de e-mail să fie procesate complet într-o politică. Comunicarea în Microsoft Teams, Yammer și platformele terțe pot dura până la 48 de ore pentru a fi procesate complet într-o politică.
+**Notă:** Poate dura până la 24 de ore pentru ca mesajele de e-mail să fie procesate complet într-o politică. Comunicarea în Microsoft Teams, Yammer și platformele terțe pot dura până la 48 de ore pentru a fi procesate complet într-o politică.
