@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922259"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331053"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Eliminarea datelor și ștergerea dispozitivelor din Intune
 
@@ -32,8 +32,7 @@ Acțiunile la distanță de retragere și ștergere a dispozitivului pot fi util
 4. Selectați **Da** pentru a confirma. Până când se termină ștergerea, starea acțiunii pentru dispozitiv se afișează ca *În aşteptarea retragerii*.
     După ce se încheie acțiunea, nu veți mai vedea dispozitivul mobil în lista de dispozitive gestionate.
 
-> [!NOTE]
-> Datele firmei nu pot fi eliminate de pe dispozitivele ASOCIATE la Azure AD. 
+**Notă:** datele firmei nu pot fi eliminate din dispozitivele JOINED la Azure AD. 
 
 Pentru detalii complete cu privire la efectul acțiunilor de retragere și ștergere, inclusiv elementele păstrate și cele șterse, consultați documentația următoare:
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963799"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339044"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cum se adaugă și se gestionează administratorii - pași recomandați
 
@@ -41,7 +41,7 @@ Administratorul de serviciu sau Co-administratorul poate servi singur această a
 
 **Adăugare/modificare/eliminare co-administrator**
 
-1. Conectați-vă [la portalul Azure](https://ms.portal.azure.com/#home) ca administrator de servicii.
+1. Conectați-vă la [portalul Azure](https://ms.portal.azure.com/#home) ca administrator de servicii.
 2. Deschideți [Abonamente](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) și selectați un abonament. (Co-administratorii pot fi atribuiți numai în domeniul de abonament.)
 3. Navigați la administratorii controlului **Access (IAM)** Clasic: Adăugați un co-administrator pentru a deschide panoul Adăugare  >    >    >   **co-administrator** (dacă opțiunea Adăugare co-administrator este dezactivată, înseamnă că nu aveți permisiuni).
 4. Selectați utilizatorul pe care doriți să-l adăugați și faceți clic **pe Adăugare.**
@@ -71,11 +71,11 @@ Puteți să adăugați utilizatori noi sau să ștergeți utilizatorii existenț
 
 - [Ce este controlul accesului bazat pe roluri (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [Înțelegeți rolurile diferite din Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Permisiunile rolului de administrator Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Permisiunile rolului de administrator în Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
 - [Tutorial: Acordarea accesului pentru un utilizator utilizând RBAC și portalul Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Depanarea RBAC în Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organizați-vă resursele cu grupurile de gestionare Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Cum să solicitați o copie a facturii Azure prin e-mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Cum să solicitați o copie a facturii Azure prin e-mail](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Cum se adaugă, actualizează sau elimină un card de credit sau de debit din Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Gestionați (reactivați/anulați/comutați) abonamentul](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

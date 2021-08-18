@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory-vă
+title: Azure Active Directory asociați-vă
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6a772d7bad7f00940ee45a2a2e6860321cefe331
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894563"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331507"
 ---
-# <a name="azure-active-directory-join"></a>Azure Active Directory-vă
+# <a name="azure-active-directory-join"></a>Azure Active Directory asociați-vă
 
-1. În cazul în care configurați înregistrările dispozitivelor pentru prima dată, asigurați-vă că ați revizuit Introducere în gestionarea dispozitivelor în [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) care vă va ghida despre cum să controlați dispozitivele la Azure AD. 
+1. În cazul în care configurați înregistrările dispozitivelor pentru prima dată, asigurați-vă că ați revizuit Introducere în gestionarea dispozitivelor în [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) care vă va ghida despre cum să obțineți dispozitivele sub controlul Azure AD. 
 1. Dacă înregistrați dispozitivele direct în Azure AD și le înscrieți în Intune, va trebui să [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) vă asigurați că ați configurat [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) și că licențierea a fost configurată mai întâi.
 1. Asigurați-vă că sunteți autorizat să efectuați operațiuni în Azure AD. Doar un administrator global din Azure AD poate gestiona setările pentru înregistrările dispozitivelor.
 1. Pentru a face implementarea uniării Azure AD, consultați [Planificarea Azure AD Join.](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)
 
-Pentru mai multe detalii despre rezolvarea problemelor comune cu asocierea la Azure AD, consultați Întrebări frecvente despre [Azure Ad Join](https://docs.microsoft.com/azure/active-directory/devices/faq) și pentru Windows 10 un dispozitiv profesionist, consultați Nu puteți să vă asociați unui computer Windows 10 Pro la Azure AD - Trebuie să faceți upgrade la [- Comunitatea Microsoft.](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)
+Pentru mai multe detalii despre rezolvarea problemelor comune cu asocierea la Azure AD, consultați Întrebări frecvente despre [Azure Ad Join](https://docs.microsoft.com/azure/active-directory/devices/faq) și pentru Windows 10 un dispozitiv profesionist Windows 10 Pro, consultați Nu puteți să vă asociați unui computer la Azure AD - Trebuie să faceți upgrade la [- Comunitatea Microsoft.](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)

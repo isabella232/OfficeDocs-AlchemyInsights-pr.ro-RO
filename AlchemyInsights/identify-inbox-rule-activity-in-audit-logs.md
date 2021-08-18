@@ -13,12 +13,12 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891307"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331135"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificarea activității regulilor de inbox în jurnalele de auditare
 
@@ -31,7 +31,7 @@ Puteți utiliza căutarea în jurnalul de auditare din Centru de conformitate Mi
 2. Pe fila **Căutare** din pagina **Audit,** configurați următoarele setări:
    - **Interval de timp și dată:** selectați intervalul de timp în **casetele Început** **și** Sfârșit.
    - **Activități:** Selectați una sau mai multe dintre următoarele valori:
-     - **New-InboxRule Create inbox rule from Outlook Web App**
+     - **New-InboxRule Crearea regulii de inbox din Outlook Web App**
      - **Set-InboxRule Modificarea regulii din Outlook Web App**.
      - **Actualizarea regulilor pentru inbox Outlook client**
 

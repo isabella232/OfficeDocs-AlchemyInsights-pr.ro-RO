@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332447"
 ---
 # <a name="change-a-users-email-address"></a>Modificarea adresei de e-mail a unui utilizator
 
@@ -31,7 +31,7 @@ Este foarte simplu să modificați adresa de e-mail a unei persoane! Doar urmaț
     
 4. În caseta **Alias,** tastați un mesaj de e-mail nou, apoi alegeți **Adăugare**.
     
-    **IMPORTANT:** dacă obțineți mesajul de eroare "Nu găsiți un parametru care să se potrivi cu numele parametrului **EmailAddresses",** înseamnă că durează ceva mai mult ca Microsoft să termine de instalat entitatea găzduită sau domeniul particularizat, dacă ați adăugat recent unul. Procesul de configurare poate dura până la 4 ore. Așteptați un timp pentru ca procesul de configurare să se încheie, apoi încercați din nou. Dacă problema persistă, contactați asistența și aceasta va face o sincronizare completă pentru tine.
+    **Important:** dacă obțineți mesajul de eroare "Nu găsiți un parametru care să se potrivescă cu numele parametrului **EmailAddresses",** înseamnă că durează ceva mai mult ca Microsoft să termine de instalat entitatea găzduită sau domeniul particularizat, dacă ați adăugat recent unul. Procesul de configurare poate dura până la 4 ore. Așteptați un timp pentru ca procesul de configurare să se încheie, apoi încercați din nou. Dacă problema persistă, contactați asistența și aceasta va face o sincronizare completă pentru tine.
     
     Dacă apare mesajul de eroare **"Ne pare rău, utilizatorul nu poate fi editat. Revizuiți informațiile** despre utilizator și încercați din nou ", aceasta înseamnă că nu sunteți administrator global și nu aveți permisiunea de a modifica numele de utilizator.
     

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900664"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330828"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Depanarea Microsoft Defender pentru Office 365
 
@@ -24,11 +24,11 @@ ms.locfileid: "57900664"
 
 - **Doriți să raportați rezultatele fals pozitive sau fals negative la Microsoft?** Utilizați [Remitere Explorer](https://protection.office.com/reportsubmission).
 
--** Știți că puteți activa protecția linkurilor Seif pentru mesajele de e-mail interne trimise între destinatarii din cadrul organizației?** Urmați acești pași:
+-** Știți că puteți activa protecția linkurilor Seif pentru mesajele de e-mail interne trimise între destinatarii din cadrul organizației dvs.?** Urmați acești pași:
 
   1. Accesați și [https://protection.office.com](https://protection.office.com) conectați-vă cu un cont de administrator global sau de administrator de securitate.
 
-  2. În panoul de navigare din stânga, sub **Gestionarea amenințărilor,** **alegeți Opțiuni** \> **de Seif Linkuri.**
+  2. În panoul de navigare din stânga, sub **Gestionarea amenințărilor,** **alegeți Linkuri** \> **Seif politică.**
 
   3. În **Politicile care se aplică la întreaga secțiune a organizației,** selectați politica și faceți clic pe **Editare**.
 

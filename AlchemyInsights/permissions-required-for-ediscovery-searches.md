@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973853"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338972"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Permisiuni necesare pentru căutările de descoperire a informațiilor electronic
 
-Pentru a efectua căutări de conținut în Centrul de conformitate & de securitate, un utilizator trebuie să fie cel puțin membru al grupului de roluri Manager pentru descoperirea informațiilor electronic, care îi permite să efectueze căutări și să efectueze rețineri în cutii poștale, site-uri SharePoint și locații de OneDrive. De asemenea, membrii pot să creeze și să gestioneze cazuri de descoperire a informațiilor electronic, să adauge și să elimine membri într-un caz, să creeze și să editeze căutări de conținut și să acceseze date despre cazuri Advanced eDiscovery.
+Pentru a efectua xearchuri de conținut în Centrul de & conformitate, un utilizator trebuie cel puțin să fie membru al grupului de roluri Manager pentru descoperirea informațiilor electronic.
 
-Pentru a efectua In-Place de descoperire a informațiilor electronic în centrul de administrare Exchange (EAC), utilizatorul trebuie să fie membru al grupului de roluri Gestionare descoperire din Exchange Online.
+Pentru a efectua căutări de conținut în Centru de conformitate Microsoft 365 utilizator trebuie cel puțin să fie membru al grupului de roluri Manager pentru descoperirea informațiilor electronic.  
 
-Pentru mai multe informații despre permisiunile de descoperire a informațiilor electronic, consultați: 
+Pentru a atribui permisiuni:
 
-- [Atribuirea permisiunilor de descoperire a informațiilor electronic în Centrul de & conformitate](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Atribuirea permisiunilor de descoperire a informațiilor electronic Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Accesați [Permisiunile Centru de conformitate Microsoft 365](https://compliance.microsoft.com/)  >  **.**
+1. Sub **Centru de conformitate**, **selectați Roluri**, apoi selectați Manager pentru **descoperirea informațiilor electronic**.
+1. Pe meniul volant, adăugați utilizatorul la rolul dorit, selectând **Editare** lângă Managerul de descoperire a informațiilor electronic sau rolul Administrator pentru descoperirea informațiilor electronic.
 
 **Notă:** după ce atribuiți permisiuni de descoperire a informațiilor electronic, poate fi necesar să așteptați câteva minute pentru ca permisiunile să se propagă.
+
+Pentru mai multe informații despre permisiunile de descoperire a informațiilor electronic, consultați Atribuirea permisiunilor de descoperire a [informațiilor Centru de conformitate Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).

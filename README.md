@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Codul de conduită Microsoft Open Source
 Acest proiect a adoptat Codul [de conduită Microsoft Open Source.](https://opensource.microsoft.com/codeofconduct/)
-Pentru mai multe informații, consultați [Întrebările frecvente despre Codul de](https://opensource.microsoft.com/codeofconduct/faq/) conduită sau [contactați serviciul opencode@microsoft.com](mailto:opencode@microsoft.com) întrebări sau comentarii suplimentare.
+Pentru mai multe informații, consultați [Întrebările frecvente despre codul de](https://opensource.microsoft.com/codeofconduct/faq/) conduită sau [contactați opencode@microsoft.com](mailto:opencode@microsoft.com) întrebări sau comentarii suplimentare.

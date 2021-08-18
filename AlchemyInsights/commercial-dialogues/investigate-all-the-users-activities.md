@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898808"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332355"
 ---
 # <a name="investigate-all-the-users-activities"></a>Investigați toate activitățile utilizatorilor
 
@@ -28,8 +28,7 @@ Iată cum să faceți acest lucru:
    - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați Audit  \> **soluții**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://compliance.microsoft.com/auditlogsearch> .
    - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Audit**. Sau, pentru a merge direct la **pagina Audit,** utilizați <https://security.microsoft.com/auditlogsearch> .
 
-    > [!NOTE]
-    > Dacă vedeți o în prealabil că trebuie să activați caracteristica, activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea extrage date din datele anterioare.
+    **Notă:** dacă vedeți o notificare că trebuie să activați caracteristica, activați-o acum. Dacă această caracteristică nu este activată, rezultatele căutării nu vor putea extrage date din datele anterioare.
 
 2. Pe fila **Căutare** din pagina **Audit,** configurați următoarele setări:
    - **Interval de timp și dată:** selectați intervalul de timp în **casetele Început** **și** Sfârșit.
