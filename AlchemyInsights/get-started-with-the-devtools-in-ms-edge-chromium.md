@@ -1,5 +1,5 @@
 ---
-title: Introducere în instrumentele de dezvoltare din Microsoft Edge (crom)
+title: Începeți lucrul cu instrumentele pentru dezvoltatori din Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116380"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Introducere în instrumentele de dezvoltare din Microsoft Edge (crom)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Începeți lucrul cu instrumentele pentru dezvoltatori din Microsoft Edge (Chromium)
 
-Microsoft Edge a adoptat proiectul open-source crom, care are scopul de a face ca web-ul mai puțin fragmentat și platformele Web să fie mai compatibile. Această modificare vă va împuternici să utilizați Microsoft Edge pentru a construi și a testa site-urile web care funcționează pe alte browsere bazate pe crom.
+Microsoft Edge a adoptat adoptarea Chromium open-source, care va face platformele web mai puțin fragmentate și mai compatibile. Această modificare vă va permite să utilizați Microsoft Edge pentru a construi și a testa site-urile web care funcționează pe Chromium browsere bazate pe aplicații.
 
-Microsoft Edge (crom) oferă, de asemenea, [instrumentele de dezvoltator de cea mai bună calitate](https://go.microsoft.com/fwlink/?linkid=2134941) care ar trebui să vă fie familiare și compatibile cu instrumentele pe care le utilizați deja.
+Microsoft Edge (Chromium) oferă, de asemenea, cele mai bune instrumente pentru dezvoltatori de clasă, care ar trebui să vă fie familiare și compatibile cu instrumentele pe care le utilizați deja. [](https://go.microsoft.com/fwlink/?linkid=2134941)
 
-Pentru a afla mai multe, consultați [Noutăți în Microsoft Edge (crom) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+Pentru a afla mai [multe, consultați Ce este nou în Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).

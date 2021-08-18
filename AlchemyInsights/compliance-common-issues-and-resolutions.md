@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893535"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319640"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problemă uzuale de conformitate și rezolvări
 
@@ -37,8 +37,8 @@ Iată câteva subiecte solicitate frecvent privind conformitatea:
  
 - Etichete de confidențialitate: Pentru a afla mai multe, [consultați Crearea și configurarea etichetelor de confidențialitate și a politicilor lor.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
-- Vizualizarea politicilor de avertizare: [Consultați Politicile de avertizare din Centru de conformitate Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+- Vizualizarea politicilor de avertizare: [Consultați Politici de avertizare în centrul de conformitate Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-- Permisiunile centrului de permisiuni: [Consultați Permisiunile din Centru de conformitate Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Permisiunile centrului de asistență: [Consultați Permisiunile din centrul de conformitate Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Notă**: pentru un răspuns mai specific despre o problemă de conformitate, reformulați pe scurt întrebarea și includeți orice erori pe care le vedeți sau caracteristici pe care le utilizați.

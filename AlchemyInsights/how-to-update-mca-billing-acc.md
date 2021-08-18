@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001520"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320042"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Actualizarea adresei vândute către și facturate asociate cu MCA - pași recomandați
 
 Puteți actualiza adresa vândută către și adresa facturată asociată acordului Microsoft cu clientul (MCA). 
 
-> [!NOTE]
-> Doar un administrator de utilizator poate efectua modificări la Azure Active Directory profil de utilizator. Dacă nu vă este atribuit rolul de administrator de utilizator, contactați administratorul de utilizator. Pentru mai multe informații despre modificarea profilului unui utilizator, consultați Adăugarea sau [actualizarea informațiilor de profil ale unui utilizator utilizând Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Notă:** Doar un administrator de utilizator poate efectua modificări la Azure Active Directory informațiile de profil de utilizator. Dacă nu vă este atribuit rolul de administrator de utilizator, contactați administratorul de utilizator. Pentru mai multe informații despre modificarea profilului unui utilizator, consultați Adăugarea sau [actualizarea informațiilor de profil ale unui utilizator utilizând Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Adresă vândută către** - Adresa vândută reprezintă adresa și informațiile de contact ale organizației sau ale persoanei respective, care este responsabilă pentru un cont de facturare. Acesta se afișează în toate facturile generate pentru contul de facturare.
 
-**Adresă facturată** - Adresa facturii reprezintă adresa și informațiile de contact ale organizației sau ale persoanei respective, care sunt responsabile pentru facturile generate pentru un cont de facturare. Pentru un cont de facturare pentru un MCA, există o adresă de facturare pentru fiecare profil de facturare și aceasta se afișează în factura generată pentru profilul de facturare.
+**Adresă facturată** - Adresa facturii reprezintă adresa și informațiile de contact ale organizației sau persoanei respective, care sunt responsabile pentru facturile generate pentru un cont de facturare. Pentru un cont de facturare pentru un MCA, există o adresă de facturare pentru fiecare profil de facturare și aceasta se afișează în factura generată pentru profilul de facturare.
 
 **Pentru a actualiza un cont de facturare MCA vândut către:**
 

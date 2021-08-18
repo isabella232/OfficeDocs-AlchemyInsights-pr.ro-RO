@@ -1,5 +1,5 @@
 ---
-title: transferuri de domeniu. uk
+title: Transferuri de domeniu .uk
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092321"
 ---
-# <a name="uk-domain-transfers"></a>transferuri de domeniu. uk
+# <a name="uk-domain-transfers"></a>Transferuri de domeniu .uk
 
-Contactați asistența Microsoft și solicitați o **modificare a etichetei IPS** pentru a se potrivi registratorului căruia doriți să-i gestionați domeniul. După ce se modifică eticheta, domeniul se transferă imediat la noul registrator. Apoi va trebui să lucrați cu noul registrator pentru a finaliza transferul, plătind probabil taxe de transfer și adăugând domeniul transferat la contul dumneavoastră cu noul registrator.
+Contactați Asistența Microsoft și solicitați **o modificare de etichetă IPS pentru** a se potrivi cu registratorul pentru care doriți să gestionați domeniul în viitor. După ce eticheta se modifică, domeniul transferă imediat la noul registrator. Apoi va trebui să lucrați cu noul registrator pentru a finaliza transferul, cel mai probabil pentru plata taxelor de transfer și pentru a adăuga domeniul transferat la contul dvs. la noul registrator.
 
-Pentru mai multe informații despre transferurile de domeniu, consultați [transferul unui domeniu de la Microsoft la altă gazdă](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Pentru mai multe informații despre transferurile de domenii, consultați [Transferul unui domeniu de la Microsoft la o altă gazdă.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
 
 Fiți pregătit să furnizați eticheta IPS a noului registrator, care poate fi găsită la https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
