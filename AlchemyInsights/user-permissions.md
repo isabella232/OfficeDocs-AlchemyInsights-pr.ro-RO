@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908362"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324863"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisiuni de utilizator în SharePoint OneDrive
 
@@ -28,14 +28,13 @@ Dacă un utilizator din organizația dvs. nu poate accesa SharePoint sau OneDriv
   
 1. Deschideți site-ul într-un browser web.
     
-2. Dacă site-ul aparține unui grup de Microsoft 365, faceți clic pe pictograma de Setări din colțul din dreapta sus, apoi faceți **clic pe Permisiuni site.** Faceți **clic pe** Invitare persoane , apoi alegeți să adăugați membri la Microsoft 365 grup sau să partajați doar site-ul. 
+2. Dacă site-ul aparține unui grup de Microsoft 365, faceți clic pe pictograma de Setări din dreapta sus, apoi faceți **clic pe Permisiuni site.** Faceți **clic pe** Invitare persoane , apoi alegeți să adăugați membri la Microsoft 365 grup sau să partajați doar site-ul. 
     
     Pentru un site de comunicare, faceți clic pe Partajare **site** în colțul din dreapta sus, introduceți numele persoanei, apoi selectați nivelul de permisiune (Citire, Editare sau Control total). 
     
     Pentru un site de echipă clasic, faceți **clic pe** Partajare în colțul din dreapta sus. Introduceți numele persoanei pe care doriți să o invitați sau tastați Oricine pentru a partaja cu toate persoanele din organizația dvs. Faceți **clic pe Partajare.**
     
-> [!NOTE]
-> Dacă faceți parte al unui site, dar nu proprietar, puteți invita persoane la site, dar invitația dvs. va genera o solicitare de acces care poate fi aprobată sau refuzată de un proprietar de site. 
+**Notă:** dacă deveniți membru al unui site, dar nu proprietar, puteți invita alte persoane la site, dar invitația dvs. va genera o solicitare de acces care poate fi aprobată sau refuzată de un proprietar de site. 
   
 [Aflați cum să partajați un fișier sau un folder cu un utilizator](https://go.microsoft.com/fwlink/?linkid=533408)
   

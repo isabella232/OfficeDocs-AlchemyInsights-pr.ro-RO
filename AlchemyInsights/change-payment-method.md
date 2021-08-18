@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895503"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324048"
 ---
 # <a name="change-payment-method"></a>Schimbarea metodei de plată
 
@@ -30,8 +30,7 @@ Puteți schimba metoda de plată din **Centru de administrare Microsoft 365**.
 2. Selectați rândul metodei de plată de înlocuit. Panoul din dreapta listează toate profilurile de facturare și abonamentele individuale care utilizează metoda de plată selectată.
 3. În panoul din dreapta, selectați **Înlocuiți metoda de plată pentru toate elementele**.
 4. Pentru a utiliza o metodă de plată existentă, alegeți una din lista verticală, apoi selectați **Înlocuire**.
-    > [!NOTE]
-    > Dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe pagina **Metode de plată**, acestea nu sunt disponibile pentru selectare în lista verticală.
+    **Notă:** dacă aveți abonamente asociate cu un profil de facturare, puteți utiliza doar un card de credit sau de debit pentru a le plăti. Dacă aveți conturi bancare listate pe pagina **Metode de plată**, acestea nu sunt disponibile pentru selectare în lista verticală.
 5. Pentru a adăuga o nouă metodă de plată, selectați **Adăugați metodă de plată**.
 6. În panoul **Adăugați o metodă de plată**, introduceți informațiile despre cont, apoi selectați **Salvare**. Trebuie să utilizați o metodă de plată din aceeași țară ca entitatea dvs. găzduită.
 7. Noua metodă de plată este deja selectată în lista verticală. Selectați **Înlocuire**.

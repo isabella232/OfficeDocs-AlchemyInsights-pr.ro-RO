@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892015"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324456"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Probleme cu eliminarea unui dispozitiv eliminat din inventarul de dispozitive sau scos din depozit
 
-Microsoft Defender pentru punctul final nu permite momentan eliminarea manuală a înregistrării dispozitivului pentru un dispozitiv înregistrat sau scos din inventarul de dispozitive.
+Microsoft Defender pentru punctul final nu permite în prezent eliminarea manuală a înregistrării dispozitivului pentru un dispozitiv înregistrat sau scos din inventarul de dispozitive.
 
 Din motive de securitate, dispozitivul rămâne în portal ca înregistrare istorică timp de până la 180 de zile. Cu toate acestea, datele dispozitivului sunt corectate conform perioadei de retenție configurate.
 
@@ -34,7 +34,7 @@ Pentru mai multe informații, consultați:
 
 [Offboard devices from the Microsoft Defender for Endpoint service](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Score de expunere în Gestiunea amenințărilor și vulnerabilităților](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Expunere scor în Gestiunea amenințărilor și vulnerabilităților](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
 [Remedierea senzorilor nesănătoși în Microsoft Defender pentru punctul final](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 

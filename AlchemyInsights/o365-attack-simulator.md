@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895803"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325083"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Atac Arădoare în Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Atac Ar fi în Microsoft 365
 
-- Ratați Atac 365? Pentru A4, **Microsoft Defender necesită Microsoft Defender Office 365 Plan 2** sau Office 365 Enterprise **E5.** Liga nu este **inclus** în Microsoft Defender pentru Office 365 Plan 1, Office 365 Enterprise E3 sau în Aplicații Microsoft 365 pentru afaceri abonamente.
+- Ratați Atac 365? Pentru a atac, **Microsoft Defender necesită Microsoft Defender Office 365 Plan 2** sau Office 365 Enterprise **E5.** Liga nu este **inclus** în Microsoft Defender pentru Office 365 Plan 1, Office 365 Enterprise E3 sau în Aplicații Microsoft 365 pentru afaceri abonamente.
 
 - Contul pe care îl utilizați pentru a lansa atacuri simulate necesită permisiuni de administrator global sau de administrator de securitate și autentificare multi-factor (MFA). Pentru mai multe informații despre cerințele pentru atacurile din sua, [consultați acest articol.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
@@ -39,4 +39,4 @@ ms.locfileid: "57895803"
 
 - Rapoarte: După terminarea atacului simulat, puteți face clic pe Detalii **atac** pentru a vedea raportul.
 
-- Pentru instrucțiuni detaliate și caracteristici noi în Atac 365, [consultați Atac Sau în Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Pentru instrucțiuni detaliate și caracteristici noi în Atac 2010, [consultați Atac A se află în Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

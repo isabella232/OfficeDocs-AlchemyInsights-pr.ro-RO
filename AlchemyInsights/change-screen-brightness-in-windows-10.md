@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119779"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Modificați luminozitatea ecranului în Windows 10
 
-Dacă Windows 10 este mai nou decât versiunea 1903, acesta are un **glisor** Luminozitate în centrul Acțiuni. Pentru a deschide centrul  Acțiuni, faceți clic pe butonul Notificare din extremitatea dreaptă a barei de activități sau apăsați **Windows home + A** pe tastatură.
+Dacă versiunea Windows 10 este mai nouă decât versiunea 1903, aceasta are un **glisor** Luminozitate în centrul Acțiuni. Pentru a deschide centrul  Acțiuni, faceți clic pe butonul Notificare din extremitatea dreaptă a barei de activități sau apăsați **pe Windows pornire + A** pe tastatură.
 
 ![Brightness slider](media/brightness-slider.png)
 
-Dacă Windows 10 este o versiune anterioară, puteți găsi cursorul de luminozitate dacă mergeți la Setări **[> system > Display](ms-settings:display?activationSource=GetHelp)**.
+Dacă versiunea Windows 10 este o versiune anterioară, puteți găsi cursorul de luminozitate, dacă vă **[Setări > pe > Afișare](ms-settings:display?activationSource=GetHelp)**.
 
 **Note:**
 

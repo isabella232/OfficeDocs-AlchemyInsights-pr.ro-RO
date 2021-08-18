@@ -16,18 +16,18 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bd0697f9dc6d2f2e46c6b903827d26739a2137e8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889774"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325169"
 ---
 # <a name="past-due-account"></a>Cont cu termen trecut?
 
 Plata poate fi refuzată din mai multe motive, inclusiv dacă a expirat cardul de credit. Puteți utiliza în orice moment caracteristica **Reglați balanța** pentru a modifica informațiile cardului de credit și a remite imediat din nou plata.
 
-1. În centrul de administrare, accesați Servicii **de facturare > products & [facturare.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. În centrul de administrare, accesați Servicii **de facturare > Products & [.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 Găsiți abonamentul cu soldul restant. În secțiunea **Facturare,** lângă Abonament are o plată cu termen depășit, **faceți** clic pe **Stabiliți soldul pentru** a plăti întregul sold restant.
 2. Dacă dețineți cardul de credit, puteți să modificați data de expirare, să alegeți un alt card sau [să adăugați un card nou](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 3. Dacă nu dețineți cardul de credit, puteți să alegeți un alt card de credit sau să [adăugați un card nou.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fd2330f9ecfd30505d0508314fea85ede2dfb536
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894407"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323966"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Investigarea phishingului, a spamului sau a mesajelor de e-mail filtrate incorect
 
 Utilizați Remitere Explorer pentru a remite mesajul la Microsoft. Veți primi feedback imediat despre filtrarea mesajelor și motivul pentru care a apărut problema. Iată un rezumat al pașilor:
 
-1. În portalul de Microsoft 365 Defender de la <https://security.microsoft.com> , accesați Remiteri **de & de** \> **e-mail pentru colaborare**.
+1. În portalul de Microsoft 365 Defender la <https://security.microsoft.com> , accesați Remiteri **de & de e-mail** pentru \> **colaborare**.
 
    Pentru a merge direct la **pagina Remiteri,** utilizați <https://security.microsoft.com/reportsubmission> .
 

@@ -1,5 +1,5 @@
 ---
-title: Partajarea calendarului 616
+title: 616 Partajarea calendarelor
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119938"
 ---
 # <a name="troubleshooting-issues-with-calendar-sharing"></a>Depanarea problemelor cu partajarea calendarelor
 
-- Pentru a diagnostica problemele de permisiune, utilizați [Exchange Remote Connectivity Analyzer ocupat](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), care oferă mesaje de eroare foarte specifice.
-- De asemenea, puteți utiliza [Asistentul Microsoft pentru recuperare și asistență pentru microsoft 365](https://diagnostics.office.com/) pentru a diagnostica o varietate de alte probleme de calendar. 
-- Dacă utilizatorul are Outlook pentru desktop, [Instrumentul de verificare a calendarului pentru Outlook](https://www.microsoft.com/download/details.aspx?id=28786) poate rezolva problemele potențiale.
+- Pentru a diagnostica problemele de permisiune, [utilizați Exchange Remote Connectivity Analyzer Free Busy,](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)care oferă mesaje de eroare foarte specifice.
+- De asemenea, puteți utiliza [Microsoft Asistent pentru recuperare și asistență pentru Microsoft 365](https://diagnostics.office.com/) pentru a diagnostica mai multe alte probleme din calendar. 
+- Dacă utilizatorul are desktop Outlook, Instrumentul [de verificare a calendarului pentru Outlook](https://www.microsoft.com/download/details.aspx?id=28786) poate rezolva problemele potențiale.
 
-Resurse suplimentare:
+Resurse suplimentare utile:
 
 - [Partajarea unui calendar Outlook cu alte persoane](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 - [Partajarea calendarului în Outlook pe web pentru firme](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901036"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323716"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Achiziționați Microsoft Defender pentru Office 365
 
-Microsoft Defender pentru Office 365 este inclus în anumite abonamente, cum ar fi Microsoft 365 E5, Office 365 E5, Office 365 A5 și Microsoft 365 Business Premium. Dacă abonamentul dvs. nu include Microsoft Defender pentru Office 365, puteți cumpăra [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) pentru Office 365 ca program de completare la un anumit abonament. Pentru a cumpăra în Centru de administrare Microsoft 365:
+Microsoft Defender pentru Office 365 este inclus în anumite abonamente, cum ar fi Microsoft 365 E5, Office 365 E5, Office 365 A5 și Microsoft 365 Business Premium. Dacă abonamentul nu include Microsoft Defender pentru Office 365, puteți cumpăra [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) pentru Office 365 ca program de completare la un anumit abonament. Pentru a cumpăra în Centru de administrare Microsoft 365:
 
 1. În centrul de administrare, accesați pagina **Achiziționare**  >  [servicii de](https://go.microsoft.com/fwlink/p/?linkid=868433) facturare.
 2. În partea de jos a **paginii** Achiziționare servicii, în secțiunea Programe de completare, găsiți programul de completare Microsoft Defender pentru Office 365 și selectați **Detalii.** 
