@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005462"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315632"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementarea Microsoft Edge pentru dispozitive mobile pentru iOS/iPadOS sau Android
 
@@ -28,10 +28,9 @@ Scenariul ghidat rezumat mai jos vă va ajuta să Microsoft Edge utilizatorilor 
 - Integrarea cu Azure Active Directory Proxy de aplicație
 - Preferințe gestionate și comenzi rapide pe pagina de pornire
 
-> [!NOTE]
-> Dacă ați blocat utilizatorii de la înscrierea dispozitivelor mobile, acest scenariu ghidat nu va funcționa și utilizatorii vor trebui să instaleze Microsoft Edge pe cont propriu.
+**Notă:** Dacă ați blocat utilizatorii de la înscrierea dispozitivelor mobile, acest scenariu ghidat nu va funcționa și utilizatorii vor trebui să instaleze Microsoft Edge pe cont propriu.
 
-Pentru a Microsoft Edge pentru Dispozitive mobile pentru iOS/iPadOS sau Android, consultați:
+Pentru a Microsoft Edge dispozitive mobile pentru iOS/iPadOS sau Android, consultați:
 
 1. [Cerințe preliminare](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Introducere](https://go.microsoft.com/fwlink/?linkid=2133520)

@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897055"
 ---
 # <a name="review-or-act-on-an-alert"></a>Revizuirea sau acționarea într-o avertizare
 
 Urmați acești pași:
 
-1. Accesați Centrul de [conformitate & securitate.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Faceți **clic pe Avertizări**- Vizualizare  >  **[avertizări](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Faceți clic pe o avertizare. În panoul de detalii, vedeți ce a declanșat avertizarea.
-1. Faceți clic pe linkul furnizat lângă detalii dacă doriți să luați măsuri în avertizare.
-1. Faceți **clic** pe Rezolvare dacă doriți să închideți avertizarea.
+1. Urmați una dintre următoarele acțiuni:
+   - În programul Centru de conformitate Microsoft 365 la <https://compliance.microsoft.com> , accesați **Avertizări**. Sau deschideți pagina direct în <https://compliance.microsoft.com/compliancealerts> .
+   - În portalul Microsoft 365 Defender din <https://security.microsoft.com> , accesați **Avertizări**. Sau deschideți pagina direct în <https://security.microsoft.com/alerts> .
+2. Selectați o avertizare. În fișa cu detalii care apare, vedeți ce a declanșat avertizarea.
+3. Faceți clic pe linkul furnizat dacă doriți să luați măsuri în avertizare.
+4. Faceți **clic** pe Rezolvare dacă doriți să închideți avertizarea.
 
-Pentru a afla mai multe despre gestionarea avertizărilor, [consultați Politicile de avertizare din centrul de securitate și conformitate.](https://go.microsoft.com/fwlink/?linkid=2103211)
-
+Pentru a afla mai multe despre gestionarea avertizărilor, [consultați Politicile de avertizare din Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).

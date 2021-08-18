@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085888"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897808"
 ---
 # <a name="set-up-exchange-online-protection"></a>Configurarea Protecție Exchange Online
 
-Microsoft Exchange Online Protecție (EOP) este un serviciu de filtrare a mesajelor bazat pe cloud pentru protecție împotriva spamului și malware-ului, cu caracteristici care vă protejează organizația de încălcarea politicilor de mesagerie.
+Microsoft Exchange Online Protecție (EOP) este un serviciu de filtrare a mesajelor bazat pe cloud, pentru protecție împotriva spamului, malware-ului și falsocării, cu caracteristici care vă protejează organizația de încălcarea politicilor de mesagerie.
 
-Utilizați Ghidul [de configurare Protecție Exchange Online](https://go.microsoft.com/fwlink/?linkid=2071067) pentru a configura EOP, selectând între cele trei scenarii de implementare: cutii poștale locale, cutii poștale hibride (combinație de cutii poștale locale și în cloud) sau toate cutiile poștale în cloud, care se potrivesc organizației dvs. Ghidul furnizează informații și resurse pentru a configura EOP și a revizui licențierea de utilizator, a atribui permisiuni în Centru de administrare Microsoft 365 și a configura politicile antimalware și spam ale organizației în Centrul de conformitate & de securitate.
+Utilizați Ghidul [de Protecție Exchange Online pentru a](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) configura EOP, selectând dintre cele trei scenarii de implementare care se potrivesc cel mai bine organizației dvs.:
+
+- Toate cutiile poștale locale.
+- Hibrid (combinație de cutii poștale locale și în cloud)
+- Toate cutiile poștale din cloud – care se potrivesc organizației dvs.
+
+Ghidul furnizează informații și resurse pentru a configura EOP și a revizui licențierea de utilizator, a atribui permisiuni în Centru de administrare Microsoft 365 și a configura politicile de securitate ale organizației.

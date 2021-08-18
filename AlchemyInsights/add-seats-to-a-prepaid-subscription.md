@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1f4666a45695450e01efd5356de50a38a4f6c7aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935601"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316060"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Adăugarea de locuri la un abonament preplătit
 
@@ -31,8 +31,7 @@ Licențele preplătite vă sunt emise sub numele de cod alfanumeric de 25 de car
 3. Pe pagina cu detaliile abonamentului, **în secțiunea Licențe,** **selectați Adăugați mai multe licențe**.
 4. În panoul **Adăugați mai multe licențe,** selectați **Utilizați o cheie de produs nouă și neutilizată**, apoi selectați **Următorul**.
 5. Introduceți cheia de produs, apoi selectați **Următorul.**
-    > [!NOTE]
-    > Dacă aveți mai multe chei de produs, puteți selecta Adăugați **o altă cheie de produs pentru** a le introduce.
+    **Notă:** dacă aveți mai multe chei de produs, puteți selecta Adăugați **o altă cheie de produs pentru** a le introduce.
 6. Revizuiți detaliile comenzii, apoi selectați **Valorificare**.
 
-Pentru a afla mai multe, consultați Adăugarea de licențe la un abonament plătit sau [extinderea sa utilizând o cheie de produs.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Pentru a afla mai multe, consultați Adăugarea de licențe la un abonament plătit utilizând o cheie de produs sau [extinderea sa.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

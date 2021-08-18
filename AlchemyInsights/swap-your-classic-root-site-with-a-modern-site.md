@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940831"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316152"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Transferarea site-ului rădăcină clasic cu un site modern
 
@@ -28,8 +28,8 @@ Dacă mediul dvs. a fost configurat înainte de aprilie 2019, puteți schimba si
     - Utilizați [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pentru a transfera locația unui site cu un alt site în timp ce arhivați site-ul original. Disponibil atât pentru site-ul de echipă (neconectat la un grup), cât și pentru Site-ul de comunicare. 
 
 - În curând vor fi introduse capacități suplimentare care vă vor permite să continuați să utilizați conținutul de pe site, dar să efectuați conversia site-ului existent la un site de comunicare. 
->[!Important]
->Aceste capacități vor fi integrate treptat. Continuați să verificați Centrul de mesaje pentru actualizări. 
+
+**Important:** Aceste capacități vor fi integrate treptat. Continuați să verificați Centrul de mesaje pentru actualizări. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Probleme cunoscute cu comutarea între site-uri
 

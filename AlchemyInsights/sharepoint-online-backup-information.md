@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 54a671586a48b03c1bb98224e284bf725b78c8659cd6cdc428218cde5d99b841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4e78226046f16352b140b12a00178094b9ada68b58ec21ca0d974792c8e3068
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093763"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897175"
 ---
 # <a name="sharepoint-online-backup-information"></a>Informații de backup SharePoint Online
 
 Pentru mai multe informații despre SharePoint și OneDrive rezistență, consultați:
 
-- [SharePoint și OneDrive rezilienței datelor Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
+- [SharePoint și OneDrive reziliența datelor la Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 
-> [!NOTE]
-> SharePoint Online păstrează copiile de rezervă ale întregului conținut timp de 14 zile suplimentare în afara ștergerii efective. În cazul în care [](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) conținutul nu poate fi restaurat prin Coșul de reciclare sau Restaurare [fișiere,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)un administrator poate contacta Asistența Microsoft pentru a solicita o restaurare oricând din fereastra de 14 zile. Restaurarea din copiile de backup poate fi finalizată doar pentru colecțiile de site-uri sau pentru subsite-urile, nu pentru anumite fișiere, liste sau biblioteci.
+**Notă:** SharePoint Online păstrează copiile backup ale tuturor conținutului timp de 14 zile suplimentare după ștergerea propriu-zisă. În cazul în care [](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) conținutul nu poate fi restaurat prin Coșul de reciclare sau Restaurare [fișiere,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)un administrator poate contacta Asistența Microsoft pentru a solicita o restaurare oricând din fereastra de 14 zile. Restaurarele din copiile backup pot fi finalizate doar pentru colecții de site-uri sau sub sites-uri, nu pentru fișiere specifice, liste sau biblioteci.
