@@ -3,6 +3,7 @@ title: Activați abonamentu Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314288"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450926"
 ---
 # <a name="activate-your-subscription"></a>Activați abonamentul dvs.
 
@@ -40,5 +43,5 @@ Pentru mai multe informații, consultați [Reactivarea abonamentului](https://do
 
 **Activarea unui abonament nou cu o cheie de produs**
 
-- Pentru a activa un Microsoft 365 nou cu cheia de produs, consultați [Unde să introduceți cheia de Office produs](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Pentru a activa un Microsoft 365 nou cu cheia de produs, consultați [Unde se introduce cheia Office produs.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Introduceți cheia de produs Microsoft 365 și urmați pașii pentru a vă activa abonamentul. Dacă aveți probleme cu activarea, consultați această [listă de erori și soluții pentru cheile de produs](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
