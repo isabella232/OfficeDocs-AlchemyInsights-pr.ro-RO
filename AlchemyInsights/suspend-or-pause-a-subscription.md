@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: bd1ad533fbde1847d5f1ba3686b699d0c65b228b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900812"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843642"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Suspendarea sau punerea în pauză a unui abonament
 
-Pentru a suspenda sau a pune temporar în pauză abonamentul, puteți anula abonamentul din Centru de administrare Microsoft 365.
+Pentru a suspenda sau a pune temporar în pauză abonamentul, puteți anula abonamentul în Centru de administrare Microsoft 365.
 
 1. În centrul de administrare, accesați pagina **Facturare**  >  **[produse.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Pe fila **Produse,** găsiți abonamentul pe care doriți să-l anulați. Selectați cele trei puncte (mai multe acțiuni), apoi selectați **Anulați abonamentul.**

@@ -1,9 +1,8 @@
 ---
-title: Microsoft 365 pentru organizații non-profit - refuzată
+title: Microsoft 365 pentru organizații non-profit - refuzat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_purchase
 - "343"
 - "1500010"
+ms.date: 04/21/2020
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: a53a827b192b6d02b7879364232e09d1002b4e0e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: df9e98a7a4e39d7faa1332c1348b95bccc6dcc09
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313087"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843102"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 pentru organizații non-profit - refuzată
+# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 pentru organizații non-profit - refuzat
 
 Am revizuit solicitarea dvs. și am stabilit că această organizație nu este eligibilă ca Organizație non-profit calificată Microsoft.
   
-Pentru a Office 365 comercial, consultați [ofertele disponibile.](https://portal.office.com/AdminPortal/Home)
+Pentru a Office 365 comercial, consultați [ofertele disponibile](https://portal.office.com/AdminPortal/Home).
