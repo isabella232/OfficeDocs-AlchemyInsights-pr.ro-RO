@@ -1,26 +1,29 @@
 ---
 title: Licența lipsește sau dispare din centrul de administrare
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708098"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844542"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>Licența lipsește sau dispare din centrul de administrare
 
+Dacă licențele dvs. au dispărut, verificați că nu v-a expirat abonamentul. Pentru a verifica data expirării, accesați **Facturare** > [Produsele dvs.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-Dacă licențele au dispărut, verificați dacă abonamentul nu a expirat. Pentru a verifica data **Billing**expirării,   >   **[accesați Facturarea produselor](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-În funcție de vizualizare, data expirării va apărea în coloana din dreapta etichetată **Dată** sau în **secțiunea Facturare** a detaliilor abonamentului de lângă Expirare **pe**.
+Data expirării apare în coloana **Stare abonament**.
