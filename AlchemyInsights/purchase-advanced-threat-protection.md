@@ -3,7 +3,6 @@ title: Achiziționați Microsoft Defender pentru Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 6c8670db2905471220c7030003c36f4b76f65cc0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323716"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844146"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Achiziționați Microsoft Defender pentru Office 365
 
-Microsoft Defender pentru Office 365 este inclus în anumite abonamente, cum ar fi Microsoft 365 E5, Office 365 E5, Office 365 A5 și Microsoft 365 Business Premium. Dacă abonamentul nu include Microsoft Defender pentru Office 365, puteți cumpăra [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) pentru Office 365 ca program de completare la un anumit abonament. Pentru a cumpăra în Centru de administrare Microsoft 365:
+Microsoft Defender pentru Office 365 este inclus în anumite abonamente, cum ar fi Microsoft 365 E5, Office 365 E5, Office 365 A5 și Microsoft 365 Business Premium. Dacă abonamentul dvs. nu include Microsoft Defender pentru Office 365, puteți cumpăra [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) pentru Office 365 ca program de completare la un anumit abonament. Pentru a cumpăra în Centru de administrare Microsoft 365:
 
 1. În centrul de administrare, accesați pagina **Achiziționare**  >  [servicii de](https://go.microsoft.com/fwlink/p/?linkid=868433) facturare.
 2. În partea de jos a **paginii** Achiziționare servicii, în secțiunea Programe de completare, găsiți programul de completare Microsoft Defender pentru Office 365 și selectați **Detalii.** 
