@@ -1,31 +1,32 @@
 ---
 title: Modificarea planurilor Exchange Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706875"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841985"
 ---
 # <a name="change-exchange-online-plans"></a>Modificarea planurilor Exchange Online
 
-Administratorii trebuie să comute manual între planuri. Pentru parcurgerea pașilor, consultați [Comutare manuală Microsoft 365 pentru planurile de firmă](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Administratorii trebuie să modifice planurile manual în Centrul de administrare Microsoft 365. Pentru a vedea toți pașii, consultați [Modificarea manuală a planurilor](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. Achiziționați noul plan de abonament. În centrul de administrare Microsoft 365, accesați **Facturare > [Servicii de achiziție](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Mai simplu de utilizat caseta de căutare pentru a găsi planurile Exchange.
-
-2. Verificați noul abonament și licențele. În centrul de administrare Microsoft 365, accesați **Facturare > [Abonamente](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dacă abonamentul nou nu este listat sau nu este activ, Verificați [aici](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Reatribuiți licențe utilizatorilor. În Centrul de administrare Microsoft 365, accesați **Utilizatori >[Utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822)** și atribuire licențe.
-
-4. [Anulați abonamentele sau eliminați licențele](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) de care nu mai aveți nevoie.
+1. **Achiziționați noul plan de abonament.** Accesați pagina **Facturare** > [Achiziționare servicii](https://go.microsoft.com/fwlink/p/?linkid=868433) și cumpărați noul abonament.
+2. **Verificați noul abonament și licențele.** Accesați pagina **Facturare** > [Produsele dvs.](https://go.microsoft.com/fwlink/p/?linkid=842054) și verificați că noul abonament este listat și are numărul corect de licențe.
+3. **Reatribuiți licențe utilizatorilor.** Accesați pagina **Utilizatori** > [Utilizatori activi](https://go.microsoft.com/fwlink/p/?linkid=834822) și atribuiți licențe.
+4. [Anulați abonamentul](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) sau [eliminați licențele](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) de care nu mai aveți nevoie.
