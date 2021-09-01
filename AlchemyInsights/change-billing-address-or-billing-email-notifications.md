@@ -3,7 +3,6 @@ title: Modificarea adresei de facturare sau a notificărilor de e-mail de factur
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,18 +15,19 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332493"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842021"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Modificarea adresei de facturare sau a notificărilor de e-mail de facturare
 
-**Modificarea adresei Bill-To adrese**
+**Modificarea adresei Bill-To mail**
 
-1. În centrul de administrare, accesați pagina **Metode de > [plată.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. În centrul de administrare, accesați pagina **Facturare > [Metode de](https://go.microsoft.com/fwlink/p/?linkid=2018806)** plată.
 
 2. Selectați cardul de credit sau contul bancar pe care doriți să-l modificați.
 
