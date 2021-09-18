@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060868"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446667"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurarea gestionării riscurilor interne
 
-Pentru a accesa și a utiliza gestionarea riscurilor interne, organizația dvs. **trebuie** să aibă unul dintre următoarele abonamente:
+Pentru a accesa și a utiliza gestionarea riscurilor interne, organizația dvs. trebuie să aibă unul dintre următoarele abonamente:
 
-- Abonament **Microsoft 365 E5**.
+- Microsoft 365 Abonament G5 (versiunea plătită sau de încercare)
+- Microsoft 365 G3 abonament + programul Microsoft 365 conformitate G5
+- Microsoft 365 G3 abonament + Microsoft 365 programul de completare G5 Insider Risk Management
+- Office 365 E3 + Enterprise Mobility și Security E3 + Microsoft 365 E5 Compliance de completare
 
-- Abonament **Microsoft 365 E3** cu programul de completare de conformitate Microsoft E5.
+Dacă nu aveți un plan Microsoft 365 E5 existent și doriți să încercați gestionarea riscurilor insider, puteți să adăugați Microsoft 365 la abonamentul existent sau să vă înscrieți pentru o versiune de încercare Microsoft 365 Enterprise E5.
 
-Dacă nu aveți un plan existent **Microsoft 365 E5** și doriți să încercați gestionarea riscurilor interne, puteți să adăugați Microsoft 365 la abonamentul dvs. existent sau să vă înregistrați pentru o versiune de încercare Microsoft 365 Enterprise E5.
+**Sfaturi:**
 
-> [!SFATURI]
-- > Se utilizează șablonul „Scurgeri de date”: asigurați-vă că ați configurat cel puțin politică DLP.
-- > Administratorul nu vede avertizările: asigurați-vă că utilizatorul este repartizat în unul din următoarele grupuri:
-    - >**Analiști de gestionare a riscurilor interne**
-    - >**Investigatori de gestionare a riscurilor interne**
+- Folosind șablonul Scurgeri de date, asigurați-vă că aveți cel puțin o politică de prevenire a pierderii datelor (DLP) configurată. Cu toate acestea, există o nouă opțiune trigger care nu necesită configurarea unei politici DLP.
 
-Pentru mai multe informații despre modul în care politicile pentru riscuri interne vă pot ajuta să gestionați riscurile din organizația dvs., consultați [Gestionarea riscurilor interne în Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Administratorii globali nu au acces implicit la portalul De gestionare a riscurilor Insider. Acestora trebuie să li se atribuie unul dintre rolurile de Gestionare riscuri Insider.
+
+- Dacă un administrator nu vede avertizări, asigurați-vă că utilizatorul este atribuit unuia dintre următoarele grupuri:
+
+    Analiști de gestionare a riscurilor interne
+
+    Investigatori de gestionare a riscurilor interne
+
+Pentru mai multe informații despre modul în care acestea vă pot ajuta să gestionați riscurile în organizația dvs., consultați Informații despre gestionarea riscurilor [Insider în Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).

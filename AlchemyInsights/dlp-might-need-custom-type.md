@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c0996e0cc923c13b7de3752ac6534026e8627c51
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030806"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446703"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP poate avea nevoie de un tip particularizat
 
@@ -26,18 +26,20 @@ ms.locfileid: "54030806"
 
 **DLP poate necesita un tip de informații particularizat**
 
-Cu o politică de prevenire a pierderii datelor (DLP), puteți identifica și proteja datele sensibile din organizația dvs. În unele scenarii, poate fi necesar să creați propriul tip **de** informații cu caracter personal, sensibil, pentru a proteja datele organizației dvs.
+Cu o politică de prevenire a pierderii datelor (DLP), puteți identifica și proteja datele sensibile din organizația dvs. În unele scenarii, poate fi necesar să creați propriul tip de informații sensibile particularizat pentru a proteja datele organizației dvs. Pentru mai multe informații, consultați Informații despre [tipurile de informații sensibile și](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about) [definițiile entităților de tip informații sensibile.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-De exemplu, poate fi necesar ca organizația dvs. să identifice și să protejeze PDF-uri ale angajaților sau alte date într-un format specific pentru organizația dvs. În acest cazul, consultați următoarele articole pentru mai multe informații.
-  
- **Particularizarea unui tip de informații predefinit sensibile**
-  
-Dacă un tip de informații sensibile predefinit ar satisface necesitățile dvs. cu doar câteva [optimizări,](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)puteți particulariza un tip de informații sensibile predefinit. De exemplu, puteți să adăugați sau să eliminați cuvinte cheie sau să adăugați sau să eliminați dovezile suport, cum ar fi o dată sau o adresă.
-  
- **Crearea unui tip de informații sensibile particularizat**
-  
-Însă, dacă trebuie să identificați și să protejați cu totul un alt tip de informații sensibile, puteți crea un tip de informații sensibile particularizat în interfața cu utilizatorul [a](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) Centrului de & conformitate.
-  
+Pentru mai multe informații despre cum să creați tipuri și politici personalizate de informații sensibile, consultați: 
+
+**Particularizarea unui tip de informații predefinit sensibile**
+
+Dacă un tip de informații sensibile predefinit ar satisface necesitățile dvs. cu doar câteva [optimizări,](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)consultați Particularizarea unui tip de informații sensibile predefinit. De exemplu, puteți să adăugați sau să eliminați cuvinte cheie sau să adăugați sau să eliminați dovezile suport, cum ar fi o dată sau o adresă.
+
+**Crearea unui tip de informații sensibile particularizat**
+
+Dar dacă trebuie să identificați și să protejați cu totul alt tip de informații sensibile, puteți crea un tip de informații sensibile particularizat în listă Centru de conformitate Microsoft 365. Pentru mai multe informații, consultați [Începeți cu tipurile de informații sensibile particularizate.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)
+
 **Crearea unui tip de informații sensibile la nivel particularizat în PowerShell & securitate și conformitate**
 
-În sfârșit, dacă interfața utilizator nu oferă toate opțiunile de care aveți nevoie, puteți crea un tip de informații sensibile particularizat în [Security & PowerShell.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) Dacă porniți de la un fișier XML, puteți utiliza fiecare opțiune disponibilă.
+În sfârșit, dacă interfața cu utilizatorul nu oferă toate opțiunile de care aveți nevoie, puteți crea un tip de informații sensibile particularizat în Security & PowerShell. Dacă porniți de la un fișier XML, puteți utiliza fiecare opțiune disponibilă. Pentru mai multe informații, consultați [Crearea unui tip de informații sensibile particularizat utilizând PowerShell.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)
+
+Pentru a testa mai întâi politica în modul de testare, consultați Implementarea politicii în modul de [testare](https://docs.microsoft.com/microsoft-365/compliance/dlp-learn-about-dlp#implement-policy-in-test-mode) și [Crearea, testarea și reglarea unei politici DLP.](https://docs.microsoft.com/microsoft-365/compliance/create-test-tune-dlp-policy) 
