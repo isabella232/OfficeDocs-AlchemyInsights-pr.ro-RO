@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032534"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475265"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Cum se creează o etichetă de clorție
 
-1. Accesați Centrul de conformitate Microsoft 365 conformitate pentru > **etichetele de protecție a**  >  **informațiilor.**
+1. Accesați Centrul de conformitate Microsoft 365 conformitate și > **Etichetele de protecție a**  >  **informațiilor.**
 
 1. Selectați **+ Creați o etichetă** pentru a porni expertul Etichetă de ctivitate nouă.
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032534"
 1. După ce ați creat toate etichetele de care aveți nevoie, revizuiți-le ordinea și, dacă este necesar, mutați-le în sus sau în jos. 
     
     Pentru a modifica ordinea unei etichete, selectați cele trei puncte (mai multe acțiuni), apoi selectați Mutare în **sus sau** Mutare **în jos**.
+
+Pentru mai multe informații, consultați [Crearea și configurarea etichetelor de confidențialitate și a politicilor lor.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
