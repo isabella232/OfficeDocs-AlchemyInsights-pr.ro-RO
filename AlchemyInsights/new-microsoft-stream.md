@@ -1,5 +1,5 @@
 ---
-title: Migrarea de la Microsoft Stream (clasic) la noul Microsoft Stream
+title: Migrarea de Microsoft Stream (Clasic) la noul Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097390"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482680"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream este un serviciu Video la nivel de întreprindere care le poate încărca, vizualiza și partaja videoclipuri în siguranță. Puteți să partajați înregistrări ale cursurilor, întâlnirilor, prezentărilor, sesiunilor de instruire sau alte videoclipuri care ajută la colaborarea echipei dumneavoastră.  
+O nouă vedere pentru Microsoft Stream le permite utilizatorilor să creeze, să partajeze, să descopere și să gestioneze videoclipuri, așa cum au face cu orice alt fișier. Pentru mai multe informații, consultați:
 
-- [Noul Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (clasic)](https://docs.microsoft.com/stream/overview)
-- [Migrarea de la Microsoft Stream (clasic) la noul Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (încorporată SharePoint), noua versiune de Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Prezentare generală a migrării de Microsoft Stream (Clasic) la Stream (construit pe SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
