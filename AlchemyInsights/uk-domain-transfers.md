@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092321"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077226"
 ---
 # <a name="uk-domain-transfers"></a>Transferuri de domeniu .uk
 
-Contactați Asistența Microsoft și solicitați **o modificare de etichetă IPS pentru** a se potrivi cu registratorul pentru care doriți să gestionați domeniul în viitor. După ce eticheta se modifică, domeniul transferă imediat la noul registrator. Apoi va trebui să lucrați cu noul registrator pentru a finaliza transferul, cel mai probabil pentru plata taxelor de transfer și pentru a adăuga domeniul transferat la contul dvs. la noul registrator.
+Transferurile de domenii în Regatul Unit necesită eticheta IPS a noului registrator. Eticheta IPS poate fi introdusă în Expertul de transfer domenii din portalul de administrare Microsoft:
 
-Pentru mai multe informații despre transferurile de domenii, consultați [Transferul unui domeniu de la Microsoft la o altă gazdă.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Accesați Domains **(Setări**  >  **domenii), faceți** dublu clic pe domeniu și alegeți **Transfer domeniu pentru** a porni expertul de transfer.
 
-Fiți pregătit să furnizați eticheta IPS a noului registrator, care poate fi găsită la https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+După ce eticheta se modifică, domeniul transferă imediat la noul registrator. Apoi va trebui să lucrați cu noul registrator pentru a finaliza transferul, cel mai probabil pentru plata taxelor de transfer și pentru a adăuga domeniul transferat la contul dvs. cu noul registrator.
+
+Pentru mai multe informații despre transferurile de domenii, consultați [Transferul unui domeniu de la Microsoft la o altă gazdă.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
