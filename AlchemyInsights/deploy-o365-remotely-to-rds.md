@@ -13,39 +13,48 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
+ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325615"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60041018"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementarea Aplicații Microsoft 365 pentru întreprindere pentru utilizare partajată pe RDS, Terminal Server sau VDI
 
-Pentru a Aplicații Microsoft 365 pentru întreprindere servicii desktop la distanță (RDS), denumite anterior Terminal Services:
+Pentru a Aplicații Microsoft 365 servicii desktop la distanță (RDS), anterior Terminal Services, trebuie să:
 
-- Trebuie să aveți un plan Microsoft 365 For Business sau un plan Office 365 care include Aplicații Microsoft 365 pentru întreprindere, cum ar fi Office 365 Enterprise E3 sau Enterprise E5.
-   **Notă:** Aplicații Microsoft 365 pentru afaceri de Microsoft 365 Business Standard de date nu includ Aplicații Microsoft 365 pentru întreprindere.
-- Trebuie să activați [activarea computerului partajat.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
+- Utilizați remedierea simplă pentru a activa TLS 1.2 ca implicit dacă rulați o versiune mai veche de Windows (de exemplu, Windows 7 SP1, Windows Server 2008 R2). Pentru remediere simplă și mai multe informații, consultați Actualizare pentru a activa [TLS 1.1 și TLS 1.2 ca](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)protocoale sigure implicite în WinHTTP în Windows . 
+- Să aveți un plan care include Aplicații Microsoft 365 pentru întreprindere (anterior Office 365 Plus). De exemplu, Office 365 E3, Microsoft 365 E5 sau orice plan care include versiunea desktop de Project sau Visio, cum ar fi Project Plan 3 sau Visio Plan 2, sau planul Microsoft 365 Business Premium, care include și Aplicații Microsoft 365 pentru afaceri.
+- Activați activarea computerului partajat. Pentru mai multe informații, consultați [Prezentare generală a activării computerului partajat pentru Aplicații Microsoft 365](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Notă:** De asemenea, puteți să descărcați și să [rulați Microsoft Asistent pentru recuperare și asistență](https://aka.ms/SaRA_OfficeSCA_M365Portal) pentru a instala Aplicații Microsoft 365 pentru întreprindere în modul de activare a computerului partajat.
+**Notă:** Pentru a instala Aplicații Microsoft 365 în modul de activare a computerului partajat, descărcați și rulați [Microsoft Asistent pentru recuperare și asistență](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Pentru detalii despre cerințele preliminare, instrucțiunile de configurare și instrucțiunile pentru particularizarea instalărilor utilizând Instrumentul de implementare Office, consultați Implementarea Aplicații Microsoft 365 utilizând Servicii desktop la [distanță.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
-Pentru mai multe informații despre cerințele preliminare, instrucțiunile de configurare și instrucțiunile pentru instalările particularizate utilizând Instrumentul de implementare Office, consultați [Implementarea Aplicații Microsoft 365 pentru întreprindere](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)utilizând servicii desktop la distanță.
+Pentru a remedia erorile legate de activarea computerului partajat, consultați:
 
-Pentru a remedia erorile legate de activarea computerului partajat:
+- [Depanarea problemelor cu activarea computerului partajat pentru Aplicații Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
+- [Reinițializarea Aplicații Microsoft 365 pentru întreprindere de activare](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-- Consultați [Depanarea problemelor cu activarea computerului partajat pentru Aplicații Microsoft 365 pentru întreprindere](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
-- Consultați [Resetarea aplicațiilor Microsoft 365 pentru starea de activare pentru întreprinderi](https://go.microsoft.com/fwlink/?linkid=2109218).
+Dacă doriți să instalați RDS Aplicații Microsoft 365 pe RDS de pe Centru de administrare Microsoft 365, care utilizează setările de instalare implicite, urmați acești pași:
 
-Dacă doriți să instalați pe RDS Aplicații Microsoft 365 pentru întreprindere pe Centru de administrare Microsoft 365, care utilizează setările implicite de ***instalare,*** urmați acești pași:
+1. Verificați ce Microsoft 365 plan aveți. Pentru mai multe informații, [consultați Ce abonament am?.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-1. Verificați ce abonament aveți. [Aflați cum](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
-2. Dacă este necesar, comutați la alt abonament. [Aflați cum](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3. Dacă Office este instalat deja pe serverul RDS utilizând orice alte abonamente Microsoft, dezinstalați-l. De exemplu, accesând Panoul **de control**  >  **Dezinstalați un program.** Dezinstalați [utilizând Microsoft Asistent pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy) dacă aveți probleme.
-4. Pe serverul RDS, conectați-vă la Centru de administrare Microsoft 365 cu contul de administrator [și instalați Aplicații Microsoft 365 pentru întreprindere](https://portal.office.com/OLS/MySoftware.aspx).
-5. După Office se instalează, ***nu deschideți aplicațiile*** și nu vă conectați la Office mele.
-6. Pe serverul RDS, activați activarea computerului partajat prin editarea registry, urmând acești pași:
+1. Dacă este necesar, comutați la alt Microsoft 365 plan. Pentru mai multe informații, consultați [Upgrade-ul la un alt plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+
+1. Dacă Aplicații Microsoft 365 este deja instalat pe serverul RDS utilizând orice alte planuri incompatibile, dezinstalați-l accesând Dezinstalarea unui program din Panoul  >  **de control.** Dacă aveți probleme, dezinstalați prin descărcarea [Microsoft Asistent pentru recuperare și asistență](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+
+1. Pe serverul RDS, conectați-vă la Centru de administrare Microsoft 365 cu contul de administrator și [instalați Office](https://portal.office.com/OLS/MySoftware.aspx).
+
+   După Office este instalat, nu deschideți aplicațiile și nu vă conectați la Office sistem.
+
+1. Pe serverul RDS, activați activarea computerului partajat prin editarea registry:
+
    1. Faceți clic dreapta pe Windows din colțul din stânga jos al ecranului și selectați **Rulare**. În caseta Deschidere, tastați **regedit**, apoi selectați **OK**.
-   2. Selectați **Da** atunci când vi se solicită să permiteți editorului de registry să facă modificări la dispozitivul dvs.
-   3. În Registry Editor, adăugați o valoare șir **de date SharedComputerLicensing** cu setarea 1 sub HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Pe serverul RDS, ***conectați-vă*** ca utilizator final și verificați dacă activarea computerului partajat este [activată pentru Aplicații Microsoft 365 pentru întreprindere](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+
+   1. Când vi se solicită să permiteți editorului de registry să facă modificări la dispozitivul dvs., selectați **Da.**
+
+   1. În Registry Editor, sub HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, adăugați o valoare șir de caractere **SharedComputerLicensing** cu setarea **1** .
+
+1. Pe serverul RDS, conectați-vă ca utilizator final și verificați dacă activarea computerului partajat este activată pentru Aplicații Microsoft 365. 
+
+   Pentru detalii, consultați [Verificați dacă activarea computerului partajat este activată pentru Aplicații Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).
