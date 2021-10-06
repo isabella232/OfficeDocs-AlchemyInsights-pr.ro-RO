@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103924"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131906"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Listele de așteptare în Microsoft Teams și Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Listele de așteptare din Microsoft Teams și din Skype for Business 
 
-Pentru a începe să utilizați cozile de așteptare, consultați următoarele linkuri.
+Listele de așteptare necesită licențe specifice și conturi de resurse. Pentru detalii, consultați [Planificați pentru Teams automați și listele de așteptare: Cerințe preliminare]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Crearea unei liste de așteptare în cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Răspundeți la apelurile operatorului automat și la coada de așteptare a apelurilor direct din Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Pentru a afla despre crearea și configurarea cozilor de așteptare în lista Microsoft Teams, consultați Crearea [unei cozi de așteptare.](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 
+
+Pentru mai multe informații, consultați Răspunsul [la apelurile operatorului automat și cele din coada de așteptare a apelurilor direct Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
